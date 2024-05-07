@@ -1,0 +1,176 @@
+{
+  "hadm_id": 129683,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 28693,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 266,
+          "end": 280,
+          "code": "427.32",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial flutter",
+          "type": "Human",
+          "covered_text": "Atrial Flutter"
+        },
+        {
+          "begin": 320,
+          "end": 344,
+          "code": "99.62",
+          "code_system": "ICD-9-PCS",
+          "description": "Other electric countershock of heart",
+          "type": "MapType.MULTI",
+          "covered_text": "electrical cardioversion"
+        },
+        {
+          "begin": 436,
+          "end": 443,
+          "code": "396.8",
+          "code_system": "ICD-9-CM",
+          "description": "Multiple involvement of mitral and aortic valves",
+          "type": "Human",
+          "covered_text": "mild AS"
+        },
+        {
+          "begin": 1013,
+          "end": 1016,
+          "code": "427.0",
+          "code_system": "ICD-9-CM",
+          "description": "Paroxysmal supraventricular tachycardia",
+          "type": "Human",
+          "covered_text": "SVT"
+        },
+        {
+          "begin": 2419,
+          "end": 2431,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 2434,
+          "end": 2446,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 2509,
+          "end": 2511,
+          "code": "714.0",
+          "code_system": "ICD-9-CM",
+          "description": "Rheumatoid arthritis",
+          "type": "Human",
+          "covered_text": "RA"
+        },
+        {
+          "begin": 7488,
+          "end": 7498,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "ATRIAL FIB"
+        },
+        {
+          "begin": 7740,
+          "end": 7751,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hypotensive"
+        },
+        {
+          "begin": 9058,
+          "end": 9097,
+          "code": "428.21",
+          "code_system": "ICD-9-CM",
+          "description": "Systolic heart failure, acute",
+          "type": "Human",
+          "covered_text": "ACUTE SYSTOLIC CONGESTIVE HEART FAILURE"
+        },
+        {
+          "begin": 9111,
+          "end": 9125,
+          "code": "425.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other primary cardiomyopathies",
+          "type": "Human",
+          "covered_text": "cardiomyopathy"
+        },
+        {
+          "begin": 10699,
+          "end": 10716,
+          "code": "785.51",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiogenic shock",
+          "type": "Human",
+          "covered_text": "cardiogenic\nshock"
+        },
+        {
+          "begin": 10945,
+          "end": 10958,
+          "code": "790.4",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]",
+          "type": "MapType.EXACT",
+          "covered_text": "TRANSAMINITIS"
+        },
+        {
+          "begin": 11542,
+          "end": 11561,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "ACUTE KIDNEY INJURY"
+        },
+        {
+          "begin": 11803,
+          "end": 11826,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CORONARY ARTERY DISEASE"
+        },
+        {
+          "begin": 12379,
+          "end": 12397,
+          "code": "291.81",
+          "code_system": "ICD-9-CM",
+          "description": "Alcohol withdrawal",
+          "type": "Human",
+          "covered_text": "ALCOHOL WITHDRAWAL"
+        },
+        {
+          "begin": 12916,
+          "end": 12940,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "URINARY TRACT INFECTION:"
+        },
+        {
+          "begin": 13312,
+          "end": 13329,
+          "code": "788.20",
+          "code_system": "ICD-9-CM",
+          "description": "Retention of urine, unspecified",
+          "type": "Human",
+          "covered_text": "URINARY RETENTION"
+        }
+      ],
+      "text": "Admission Date:  [**2170-1-18**]              Discharge Date:   [**2170-2-4**]\n\nDate of Birth:  [**2090-11-23**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 69390**]\nChief Complaint:\nAtrial Flutter\n\nMajor Surgical or Invasive Procedure:\nelectrical cardioversion\n\n\nHistory of Present Illness:\nMr. [**Known lastname 34366**] is a 79 y.o. Male w/ h.o. RA, mild AS, HTN, HL p/w\nchest palpitations found to be in A. flutter.\n.\nPt is a poor historian. He states that 2 days ago he noted a\nfluttering sensation in his chest, he denied any chest pain but\nstated it felt like he had an itch in his chest. He also noted\nsome new onset DOE specifically when climbing up stairs. He\nstates he has had these symptoms before, several years ago, but\ncannot remember what it was thought to be. He decided to make an\nappointment to see his [**Hospital1 **] primary care provider on the day\nof admission. Per ED call-in he was noted to be on EKG in SVT\nwith a rate of 180, saturating 94% on 2L. He was then\ntransferred by ambulance to the ED.\n.\nIn the ED initial VS were noted to be T 98.1, HR 139, BP 108/81,\nRR 17, Sat 97% on 4L. He was triggered on arrival for his\ntachycardia. An EKG showed a rate of 140s which was thought to\nbe SVT vs A. flutter. He was given 20mg IV Diltiazem which\ndecreased his rate from 140s to 80s-90s where an A. flutter\nrhythm was seen. His BP also decreased to the high 70s/low 80s.\nPer the [**Name (NI) **] pt was asymptomatic, he was given IV fluid with his\npressure increasing back to 100. His initial labs were notable\nfor proBNP 7509, Hgb/Hct 13.2/38.6, Lactate 1.8, CK/CKMB/CKMBI\n321/14/4.4, Troponin 0.05. A CXR showed cardiomegaly and a right\npleural effusion,he was thus given empirical Levofloxacin 750mg\nIV x 1. In the ED he continued to intermittently increase his HR\nback in the 130s, he was Metoprolol 25mg PO x 1, and 5mg IV\nMetoprolol. Atrius cardiologist was consulted, given his low\npressures ED felt he should be admitted to the CCU. He was\nguaiac negative in the ED.\n.\nOn the floor pt continues to be in the 130s, SBP 110s but\nasymptomatic. He denies any chest pain, fevers, chills, nausea,\nvomiting, cough, abdominal pain. He does admit to feeling some\nsensation of fluttering in his chest but it does not bother him\ncurrently. He denies SOB.\n\n\nPast Medical History:\n1. CARDIAC RISK FACTORS: Diabetes-, Dyslipidemia+, Hypertension+\n\n2. CARDIAC HISTORY:\n?Mild AS\n3. OTHER PAST MEDICAL HISTORY:\nRA\n\nSocial History:\n-Tobacco history: Never\n-ETOH: 3 drinks per day/ 1 bottle per week\n-Illicit drugs: None\n\nFamily History:\nnon contributory\n\nPhysical Exam:\nADMISSION PHYSICAL:\nGENERAL: Caucasian Male sitting up in bed in NARD\nHEENT: Sclera anicteric. EOMI. Conjunctiva were pink, no pallor\nor cyanosis of the oral mucosa.\nCARDIAC: Distant S1, S2, tachycardic to 140s, unable to clearly\nauscultate murmur.\nLUNGS: Distant but clear to auscultation.\nABDOMEN: Soft, obese, NT, ND.\nEXTREMITIES: No edema noted\nRight: Carotid 2+ DP 1+ PT 1+\nLeft: Carotid 2+  DP 1+ PT 1+\n.\nDISCHARGE PHYSICAL:\nvs: afebrile, VSS\nGENERAL: Caucasian Male sitting up in bed in NARD\nHEENT: Sclera anicteric. EOMI. Conjunctiva were pink, no pallor\nor cyanosis of the oral mucosa.\nCARDIAC: Distant S1, S2, tachycardic to 140s, unable to clearly\nauscultate murmur.\nLUNGS: Distant but clear to auscultation.\nABDOMEN: Soft, obese, NT, ND.\nEXTREMITIES: No edema noted\nRight: Carotid 2+ DP 1+ PT 1+\nLeft: Carotid 2+  DP 1+ PT 1+\n\nPertinent Results:\n.\nECG [**2170-1-18**]: Wide complex tachycardia suggestive of\nsupraventricular tachycardia with aberrancy in a right\nbundle-branch block pattern. No previous tracing available for\ncomparison.\n.\nECG [**2170-1-18**]: Atrial tachycardia is suggested with right\nbundle-branch block. Left anterior fascicular block.\n.\nECG [**2170-1-19**]: Atrial flutter with right bundle-branch block.\nLeft anterior fascicular block pattern.\n.\nECG [**2170-1-20**]: Supraventricular tachy-arrhythmia which could be\nsinus or ectopic atrial, etc. Compared to the previous tracing\nof [**2170-1-19**] isolated atrial ectopy is not seen.\n.\nECG [**2170-1-21**]: Baseline artifact precludes definite assessment\nof rhythm which could be atrial tachy-arrhythmia with 2:1 or 1:1\nconduction. Sinus tachycardia is less likely. Compared to the\nprevious tracing of [**2170-1-20**] supraventricular tachy-arrhythmia is\nagain noted.\n.\nECG [**2170-1-22**]: Sinus rhythm with frequent atrial premature\nbeats. Possible multifocal atrial tachycardia. Leftward axis.\nRight bundle-branch block. Since the previous tracing of [**2170-1-21**]\nthe rate is slower and the rhythm is more irregular. ST-T wave\nabnormalities are less prominent.\n.\nECHO [**2170-1-19**]\nNo spontaneous echo contrast or thrombus is seen in the body of\nthe left atrium/left atrial appendage or the body of the right\natrium/right atrial appendage. No atrial septal defect is seen\nby 2D or color Doppler. Overall left ventricular systolic\nfunction is severely depressed (LVEF= 15-20 %). There are simple\natheroma in the descending thoracic aorta. The aortic valve\nleaflets (3) are mildly thickened. Aortic stenosis is likely\npresent (not quantified). No aortic regurgitation is seen. The\nmitral valve leaflets are mildly thickened. Moderate (2+) mitral\nregurgitation is seen. There is no pericardial effusion.\n.\nIMPRESSION: No spontaneous echo contrast or thrombus in the\natria/ atrial appendages. Severely depressed global left\nventricular systolic function. Aortic stenosis (not quantified\non current study). Moderate mitral regurgitation.\n.\nECHO [**2170-1-22**]\nThe left atrium is elongated. The right atrium is moderately\ndilated. No atrial septal defect is seen by 2D or color Doppler.\nThe estimated right atrial pressure is 10-15mmHg. Left\nventricular wall thicknesses are normal. The left ventricular\ncavity is moderately dilated. There is severe global left\nventricular hypokinesis (LVEF = 25 %). No masses or thrombi are\nseen in the left ventricle. There is no ventricular septal\ndefect. The right ventricular cavity is mildly dilated with\nmoderate global free wall hypokinesis. The aortic valve leaflets\nare moderately thickened. Significant aortic stenosis is present\n(not quantified). No aortic regurgitation is seen. The mitral\nvalve leaflets are mildly thickened. There is no mitral valve\nprolapse. Mild (1+) mitral regurgitation is seen. The pulmonary\nartery systolic pressure could not be determined. There is no\npericardial effusion.\n.\nCompared with the prior study (images reviewed) of [**1-20**]/201, the\nLV systolic funciton is slightly more vigorous.\n.\nHEPATIC ULTRASOUND WITH DOPPLER [**2170-1-22**]\nIMPRESSION:\n1. The hepatic architecture is unremarkable and there are no\nliver lesions\nidentified.\n2. Patent hepatic vasculature.\n\n\nBrief Hospital Course:\nHOSPITAL COURSE:\nMr. [**Known lastname 34366**] is a 79 year-old gentleman with aortic stenosis,\nhypertension, hyperlipidemia, and rheumatoid arthritis who\npresented with atrial fib/flutter and acute systolic heart\nfailure. Electrical cardioversion was attempted twice and\nultimately failed. He was started on [**Known lastname **], Digoxin,\nMetoprolol and diuresed with a Lasix gtt. His hospital course\nwas complicated by hypotension, acute kidney injury, and\ntransaminitis, which have resolved. He was diagnosed with a\ncatheter-associated UTI prior to discharge. He is being\ndischarged to a rehab facility for continued strength building.\n.\nACTIVE ISSUES:\n# ATRIAL FIB/FLUTTER: The patient presented in atrial flutter\nwith a variant block from 2-4:1 of unclear onset or duration.\nThyroid function was normal. He received diltiazem in the\nemergency department with initial rate control, but subsequently\nbecame hypotensive. He was started on metoprolol for rate\ncontrol, anticoagulated with a heparin gtt and transferred to\nthe cardiac ICU. TEE/ablation was attempted; however, only\ncardioversion was performed because the patient's O2 saturations\nacutely dropped during the TEE, likely secondary to pulmonary\nedema. The patient remained in sinus rhythm for less than 2\nhours before flipping back into atrial flutter. He was started\non [**Known lastname **] and electrical cardioversion was attempted one\nadditional time, and was unsuccessful. Echo demonstrated EF of\n20% with severe LV hypokinesis, an elongated left atrium, and\ndilated right atrium. Given his large atrial size, the goals\nwere changed from rhythm to rate control. Initially we were\nunable to control his rate without subsequent drop in his blood\npressure. His heart rate remained persistently in the 120s\n(atrial fibrillation with rapid ventricular response), until\nstarted on Digoxin. He is currently on [**Known lastname **] 400 daily,\nMetoprolol succinate 150 daily, and Digoxin 0.125 daily with\ngood rate control. On discharge he was asymptomatic and\nhemodynamically stable.\n.\n# ANTICOAGULATION: Patient was started on heparin gtt with\ntransition to Coumadin. He will need to have his INR monitored\nfor Coumadin dosing in the future (goal [**1-11**]).\n.\n# ACUTE SYSTOLIC CONGESTIVE HEART FAILURE: Etiology of\ncardiomyopathy is likely multifactorial in the setting of\nsuspected multi-vessel coronary artery disease, tachyarrhythmia\nof unclear duration, and possible alcohol-related\ncardiomyopathy. Echo on HD 2 revealed an EF of 20% consistent\nwith multivessel disease, severe global left ventricular\nhypokinesis, moderate global right ventrical free wall\nhypokinesis, moderate AS and MR. [**First Name (Titles) 616**] [**Last Name (Titles) **] loading on\nHD3, the patient became acutely hypotensive with systolic blood\npressures in the 70s requiring temporary discontinuation of\n[**Last Name (Titles) **] and fluid boluses to maintain adequate mean arterial\npressures. His chest xray revealed significant pulmonary edema,\nhis JVP was elevated, and he required 6L of O2 via nasal cannula\nto maintain adequate oxygen saturations. Once stable, he was\ndiuresed with a lasix gtt, supported by low dose dopamine (for\nincreased renal perfusion). His cardiac output improved and his\nlabwork reflected this with a decrease in creatinine. Once\nadequately diuresed he was switched to IV lasix boluses, then an\noutpatient regimen of PO Lasix 80 [**Hospital1 **]. He was started on low\ndose Captopril that was converted to Lisinopril 5 at discharge\nand his Metoprolol was uptitrated to 50 TID, and switched to\nsuccinate 150mg daily on discharge. He was also started on\nEpleronone 25 daily and Digoxin as above. He may benefit from a\ncardiac catheterization to evaluate his coronaries in the\nfuture.\n.\n# HYPOTENSION: Lactate, Creatinine, and Liver Function Tests\nwere elevated concerning for the development of cardiogenic\nshock during his hypotensive episode. These improved as the\npatient was diuresed and his heart rate controlled. Currently\nthe patient has intermittent relative, asymptomatic hypotension\nduring the night-time hours to the 80s/50s.\n.\n# TRANSAMINITIS: Likely secondary to hypoperfusion. A right\nupper quadrant ultrasound was obtained and revealed no liver\npathology. Review of prior notes revealed normal liver function\ntests in [**Month (only) 404**] making underlying alchohol-related pathology\nunlikely. His statin and rheumatoid arthritis medications were\ninitially held. As he clinically improved, his transaminases\nimproved. Simvastatin was re-started prior to discharge.\nSulfasalazine and hydroxychloroquine were restarted at\ndischarge. He should have repeat LFTs checked the week of\ndischarge to assess for stabilization.\n.\n# ACUTE KIDNEY INJURY: Likely secondary to hypoperfusion from\nlow cardiac output and poor forward flow. His creatinine\nimproved with diuresis and was at baseline 0.9 at time of\ndischarge. He should have repeat BUN/Creatinine checked the week\nafter discharge.\n.\n# CORONARY ARTERY DISEASE: The patient has cardiac risk factors\nof hypertension and hyperlipidemia. Echo was consistent with\nmultivessel coronary artery disease. On admission his cardiac\nenzymes were notable for a mild elevation in troponin of 0.05\nlikely secondary to mild demand ischemia in the setting of\ntachycardia. Enzymes were trended and remained flat. He remained\nchest pain free throughtout the admission. He was started on ASA\n81 daily and Simvastatin 20 daily prior to discharge\n(Simvastatin was decreased from 40 to 20 daily given also on\n[**Month (only) **]).\n.\n# ALCOHOL WITHDRAWAL: The patient intially endorsed only 1 drink\nper day. 72 hours into admission he became restless,\ndiaphoretic, anxious, and endorsed a more substantial drinking\nhistory (of unclear amount- very inconsistent historian). The\npatient's family was unaware of the extent of his history.\nSocial work was consulted. The patient was started on a CIWA\nscale with ativan with improvement in his behavioral symptoms of\nwithdrawal. The patient was continued on a multivitamin and\nfolic acid and started on thiamine supplement.\n.\n# URINARY TRACT INFECTION: Prior to discharge, the patient\ncomplained of bladder spasms and dysuria. A urinalysis was\nsignificant for pyuria and a culture was consistent with coag\nnegative staph aureus. The patient was treated with pyridium,\nand a 10 day course of ciprofloxacin 500 [**Hospital1 **] (to be finished on\n[**2170-2-10**]). An ECG was checked on day of discharge, and QTc was\n447.\n.\n# URINARY RETENTION: Patient failed initial voiding trial and\nwas started on tamsulosin. He was voiding well on the day of\ndischarge without further retention.\n.\nINACTIVE ISSUES:\n# HYPERTENSION: Outpatient blood pressure medications were held\n(lisinopril and hydrochlorothiazide) in setting of hypotension\nand need for aggressive diuresis. His heart failure and atrial\nfibrillation rate control regimens were optimized with\nsubsequent well-control of blood pressures.\n.\n# HYPERLIPIDEMIA: He was initally continued on Simavastatin,\nwhich was subsequently discontinued in the setting of likely\nshock liver, and restarted prior to discharge at lower dose as\nabove (40 to 20 given also on [**Date Range **] now).\n.\n# RHEUMATOID ARTHITIS: Joint examination on admission\ndemonstrated no acute rheumatoid flare. Sulfasalazine 1 g [**Hospital1 **]\nand Hydroxychloroquine 400 daily were held in setting of hepatic\nand renal dysfunction. These were restarted at discharge.\n.\nTRANSITIONAL ISSUES:\nMedical Management: Start Metoprolol succinate 150 daily, Start\n[**Hospital1 **] 400 daily, Start Lasix PO 80 BID, Start Digoxin 0.125\ndaily, Start Eplerenone 25 daily, Continue Lisinopril 5 daily,\nStart Coumadin 5 daily, STOP HCTZ, Complete course of\nCiprofloxacin for UTI, Start Tamsulosin\nFollow Up: Cardiology, Primary Care\nTo Do: Check Chem 10 and LFTs in 3-4days, monitor INR frequently\nCode Status: Full Code\n\nMedications on Admission:\nFolic Acid 1 mg daily\nSimvastatin 40 mg qHS\nLisinopril 5 mg daily\nSulfasalazine 1gm [**Hospital1 **]\nHydroxychloroquine 400 mg daily\nHydrochlorothiazide 25 mg daily\nMVI daily\n\nDischarge Medications:\n1. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H\n(every 12 hours) for 8 days: last day [**2-10**].\nDisp:*16 Tablet(s)* Refills:*0*\n2. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)\nCapsule, Ext Release 24 hr PO HS (at bedtime) for 7 days: Please\nremove Foley catheter on [**2170-2-8**] and continue Tamulosin for [**1-11**]\nmore days after this.\n3. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n4. multivitamin, stress formula     Tablet Sig: One (1) Tablet\nPO DAILY (Daily).\n5. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n6. digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n7. [**Month/Day (3) **] 200 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n8. famotidine 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n9. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:\nTwo (2) Tablet, ER Particles/Crystals PO once a day.\n10. sulfasalazine 500 mg Tablet Sig: Two (2) Tablet PO twice a\nday.\n11. hydroxychloroquine 200 mg Tablet Sig: Two (2) Tablet PO once\na day.\n12. Outpatient Lab Work\nPlease check Chem 10 (Na, Cl, K, HCO2, BUN, Cr, Glucose, Ca, Mg,\nPhos) and LFTs (AST, ALT, Alk Phos, T bili) on [**2170-2-7**]) and\n13. Outpatient Lab Work\nPlease check PT/INR on [**2-5**] and as needed for appropriate\nCoumadin dosing\n14. eplerenone 25 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*3*\n15. aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.\n16. furosemide 80 mg Tablet Sig: One (1) Tablet PO BID (2 times\na day).\nDisp:*30 Tablet(s)* Refills:*3*\n17. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4\nPM.\nDisp:*30 Tablet(s)* Refills:*3*\n18. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.\n\n19. lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.\n20. metoprolol succinate 100 mg Tablet Extended Release 24 hr\nSig: One (1) Tablet Extended Release 24 hr PO once a day: take\nin addition to 50 mg tablet to make a total of 150 daily.\n21. metoprolol succinate 50 mg Tablet Extended Release 24 hr\nSig: One (1) Tablet Extended Release 24 hr PO once a day: please\ntake in addition to 100 mg tablet to make a total of 150 mg\ndaily.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 **] Nursing & Therapy Center - [**Location 1268**] ([**Location (un) 86**] Center\nfor Rehabilitation and Sub-Acute Care)\n\nDischarge Diagnosis:\nAtrial fibrillation with rapid ventricular response\nAcute systolic congestive heart failure\nAcute kidney injury\nUrinary Tract infection\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nDear Mr. [**Known lastname 34366**],\n\nIt was a pleasure taking care of you during this admission.\nYou had a rapid irregular heartbeat called atrial fibrillation\nthat caused fluid to back up into your lungs. You required\nmedicine to keep your blood pressure up and needed some sedation\nbecause of confusion and agitation in the CCU. Your heart is\nweaker than before and you have been started on some new\nmedicines to help your heart pump better. Your kidneys were also\naffected but your kidney function is normal now. You developed a\nurinary tract infection and required an antibiotic to treat\nthis. A foley catheter was also reinserted because you had\nurinary retention. You will need to keep the foley catheter in\nfor another 4 days, then the staff will remove it. You will need\nto have a cardiac catheterization at some point to evaluate your\ncoronary arteries for blockages\n.\nWeigh yourself every morning, call Dr. [**Last Name (STitle) **] if weight goes up\nmore than 3 lbs in 1 day or 5 pounds in 3 days.\n.\nWe made the following changes to your medicines:\n1. Start Ciprofloxacin to treat a urinary tract infection\n2. Start Tamulosin to help your bladder empty fully\n3. Start Famotidine to protect your stomach\n4. Start Digoxin to help your heart pump better and slower\n5. Start [**Last Name (STitle) **] to slow your heart rate and help your rhythm\nconvert to a normal sinus rhythm\n6. Start potassium while you are on the lasix\n7. Start Lasix to help keep the fluid in your lungs and abdomen\nfrom re accumulating\n8. Start Metoprolol succinate to help slow your heart rate\n9. Start Warfarin to prevent blood clots and strokes from the\natrial fibrillation. You will need to have your blood monitored\nclosely while on the medicine, the goal warfarin level is\n2.0-3.0\n10. Start Eplerenone to help your heart failure\n11. Start Thiamine 100mg daily\n12. Start Aspirin 81mg daily\n13. Decrease dose of Simvastatin from 40mg daily to 20mg daily.\n14. Stop Hydrochlorothiazide\n\n\nFollowup Instructions:\nPlease make an appt to see Dr.[**Last Name (STitle) **] when you get out of\nrehabilitation.\n.\nName: [**Last Name (LF) **], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]\nLocation: [**Hospital1 641**]\nAddress: [**Street Address(2) 34126**] [**Location 1268**], [**Numeric Identifier 3883**]\nPhone: [**Telephone/Fax (1) 38275**]\nAppointment: Thursday [**2170-2-15**] 2:50pm\n\n\n                             [**First Name8 (NamePattern2) 20**] [**Last Name (NamePattern1) **] MD [**MD Number(1) 69391**]\n\nCompleted by:[**2170-2-4**]"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "hadm_id": 141862,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 8692,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 419,
+          "end": 428,
+          "code": "571.5",
+          "code_system": "ICD-9-CM",
+          "description": "Cirrhosis of liver without mention of alcohol",
+          "type": "Human",
+          "covered_text": "cirrhosis"
+        },
+        {
+          "begin": 452,
+          "end": 467,
+          "code": "198.89",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of other specified sites",
+          "type": "Human",
+          "covered_text": "invades the IVC"
+        },
+        {
+          "begin": 472,
+          "end": 488,
+          "code": "198.89",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of other specified sites",
+          "type": "Human",
+          "covered_text": "right atrium who"
+        },
+        {
+          "begin": 1621,
+          "end": 1632,
+          "code": "070.30",
+          "code_system": "ICD-9-CM",
+          "description": "Viral hepatitis B without mention of hepatic coma, acute or unspecified, without mention of hepatitis delta",
+          "type": "MapType.APPROX",
+          "covered_text": "Hepatitis B"
+        },
+        {
+          "begin": 1633,
+          "end": 1636,
+          "code": "155.0",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of liver, primary",
+          "type": "Human",
+          "covered_text": "HCC"
+        },
+        {
+          "begin": 1679,
+          "end": 1694,
+          "code": "V12.55",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Multilobar PE's"
+        },
+        {
+          "begin": 1820,
+          "end": 1856,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "cigarettes a day for\n30+ years, quit"
+        },
+        {
+          "begin": 2157,
+          "end": 2166,
+          "code": "799.4",
+          "code_system": "ICD-9-CM",
+          "description": "Cachexia",
+          "type": "MapType.EXACT",
+          "covered_text": "Cachectic"
+        },
+        {
+          "begin": 2481,
+          "end": 2488,
+          "code": "789.59",
+          "code_system": "ICD-9-CM",
+          "description": "Other ascites",
+          "type": "Human",
+          "covered_text": "ascites"
+        },
+        {
+          "begin": 3023,
+          "end": 3030,
+          "code": "V66.7",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for palliative care",
+          "type": "MapType.EXACT",
+          "covered_text": "hospice"
+        },
+        {
+          "begin": 3173,
+          "end": 3184,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotensive"
+        }
+      ],
+      "text": "Admission Date:  [**2148-8-17**]              Discharge Date:   [**2148-8-18**]\n\nDate of Birth:  [**2094-9-27**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 338**]\nChief Complaint:\nUnresponsive\n\nMajor Surgical or Invasive Procedure:\nNone\n\nHistory of Present Illness:\n53 yo M with new diagnosis ([**7-/2148**]) of hepatitis B cirrhosis and\nextensive HCC that invades the IVC and right atrium who was\nfound unresponsive by his family this afternoon.  EMS was called\nand fingerstick was 15.  He received an amp of D50 by EMS and\nwoke up and was brought to the ED.\n\nIn the ED, VS remarkable for BP's in the 70-80's, afebrile, hr\nin 80's, on 3L nc (his baseline).  Lacate was elevated at 17,\nWBC was 17, hct was 25, fibrinogen 127, and INR 2.8.  Tbili was\n17.  He was given vancomycin and zosyn.  His CXR had low lung\nvolumes, but no other acute process.  No paracentesis was done.\nReceived NS bolus.\n\nPer recent discharge summary diagnosis of Hep B and HCC is quite\nnew.  He was also diagnosed with a large R sided PE on that\nadmission.  On review on notes, patient was discharged home on\nhospice and was made DNR/DNI.  However, per ED resident, family\nstates patient is full code.\n\nSpoke with hepatology fellow who reviewed CT scan and states\nthat patient has very minimal hepatic tissue left given\nextensive tumor.  He estimates the patient has days left to\nlive, that his elevated lactate is indicative of his significant\nliver failure.\n\nOn arrival to the ICU patient is comfortable.\n\nPast Medical History:\nCirrhosis [**3-12**] Hepatitis B\nHCC\nESLD\nDuodenal Ulcer e/p EGD [**7-/2148**]\nMultilobar PE's - not on anticoagulation given on hospice and\nrecent UGIB\n\nSocial History:\nPt works as a machinist, used to smoke [**5-13**] cigarettes a day for\n30+ years, quit 6/[**2148**].  No EtOH, denies recreational drug use.\nPt emigrated to the US from [**Country 3992**] in the early 80s. Lives at\nhome with wife and two children, aged 8,11.\n\n\nFamily History:\nDenies any family history of cancers.\n\n\nPhysical Exam:\nOn admission:\n\nVS: BP:65/46 T:98 HR:80 RR:30 95% on 3L\nCachectic, acutely ill appearing M in mild respiratory distress\nSkin Jaundiced\nDry MMM, clear OP, scleral icterus, temporal wasting\nRegular rate\nLungs clear bilaterally but distant breath sounds\nGrossly distended abd, tense, tympanic to percussion but no pain\non palpation.  Unable to appreciated liver or spleen [**3-12**] ascites\n1+ [**First Name4 (NamePattern1) **]\n[**Last Name (NamePattern1) **], oriented to person and place and year, + asterixis\n\nPertinent Results:\nLFT:  ALT(SGPT)-283* AST(SGOT)-957* ALK PHOS-590* TOT BILI-17.6*\nAMMONIA: 99*\nLACTATE: 17.2*\nCBC: WBC-17.1* RBC-2.71* HGB-7.5* HCT-25.9* MCV-96 MCH-27.8\nMCHC-29.0* RDW-18.2*\nCOAGS: PT-28.2* PTT-55.5* INR(PT)-2.8*\n\nMELD: 30\n\nCXR: My read:  Low lung volumes, no acute process\n\nBrief Hospital Course:\n53 yo M with relatively new diagnosis of hepatitis B and end\nstage hepatocellular carcinoma on hospice admitted from ED after\npresenting with unresponsiveness and a glucose to 15 at home.\nPatient received dextrose and became responsive.  He was\nhypotensive to the 70's and admitted to the ICU.  Per extensive\nprior notes and in discussion with his wife, comfort was made\nthe focus given his grave prognosis.  Hepatology was consulted\nin the ED and stated that there was no treatment for this\npatient given his end stage disease and that his tumor had\nessentially eliminated any normal hepatic tissue.\n\nThe patient was made comfort measures only with the family at\nthe bedside and he was treated with iv morphine for pain and\ndyspnea which were well controlled.  He expired at 4:32am,\napproxomately 3 hours after reaching the floor.  The medical\nexaminer's office was notified and declined autopsy.  The family\ndeclined autopsy.  ICU attending and patient's PCP were\nnotified.\n\nMedications on Admission:\nMorphine Concentrate Five (5) mg PO Q2H\nSpironolactone 25 mg\nFurosemide 20 mg qod\nPrilosec 40 mg Capsule\nLorazepam 1 mg qid prn\nFentanyl 12 mcg/hr\n\nDischarge Medications:\nexpired\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nexpired\n\nDischarge Condition:\nexpired\n\nDischarge Instructions:\nexpired\n\nFollowup Instructions:\nexpired\n\n\n"
+    }
+  ]
+}

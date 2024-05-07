@@ -1,0 +1,379 @@
+{
+  "hadm_id": 167391,
+  "comment": "ORIF OP report not present- unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 521129,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 4352,
+          "end": 4355,
+          "code": "600.00",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "Human",
+          "covered_text": "BPH"
+        },
+        {
+          "begin": 4892,
+          "end": 4898,
+          "code": "396.3",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve insufficiency and aortic valve insufficiency",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "AR, MR"
+        },
+        {
+          "begin": 4901,
+          "end": 4930,
+          "code": "416.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pulmonary heart diseases",
+          "type": "MapType.APPROX",
+          "covered_text": "pulmonary artery hypertension"
+        },
+        {
+          "begin": 5149,
+          "end": 5160,
+          "code": "458.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other iatrogenic hypotension",
+          "type": "Human",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 6255,
+          "end": 6261,
+          "code": "285.21",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia in chronic kidney disease",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 6697,
+          "end": 6709,
+          "code": "288.60",
+          "code_system": "ICD-9-CM",
+          "description": "Leukocytosis, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Leukocytosis"
+        }
+      ],
+      "text": "Chief Complaint:\n   24 Hour Events:\n URINE CULTURE - At [**2156-2-28**] 10:14 PM\n NASAL SWAB - At [**2156-2-28**] 10:14 PM\n EKG - At [**2156-2-28**] 10:15 PM\n   - Head CT: No acute intracranial abnormality\n   - Hct: 34.9 -> 29.5 -> (1RBC) -> 29.8 -> (1RBC) -> 30.9\n   Patient unable to provide history: Language barrier\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Morphine Sulfate - [**2156-2-29**] 05:00 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2156-2-29**] 06:59 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since [**58**] AM\n   Tmax: 36.2\nC (97.2\n   Tcurrent: 36.2\nC (97.1\n   HR: 94 (87 - 105) bpm\n   BP: 150/82(98) {115/66(82) - 151/90(100)} mmHg\n   RR: 24 (20 - 32) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n           Total In:\n                                                                    781 mL\n                                                                    721 mL\n   PO:\n           TF:\n   IVF:\n                                                                    222 mL\n                                                                    530 mL\n   Blood products:\n                                                                    559 mL\n                                                                    191 mL\n   Total out:\n                                                                    105 mL\n                                                                    160 mL\n   Urine:\n                                                                    105 mL\n                                                                    160 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    676 mL\n                                                                    561 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SpO2: 100%\n   ABG: ///20/\n   Physical Examination\n   General Appearance: Anxious, Speaking unintelligibly, likely in Russian\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ,\n   Diminished: )\n   Abdominal: Soft, Bowel sounds present, Distended\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: 1+\n   Musculoskeletal: Left leg in traction, with pin through knee\n   Skin:  Not assessed\n   Neurologic: Responds to: Verbal stimuli, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   173 K/uL\n   10.6 g/dL\n   179 mg/dL\n   1.7 mg/dL\n   20 mEq/L\n   4.6 mEq/L\n   37 mg/dL\n   116 mEq/L\n   143 mEq/L\n   30.9 %\n   9.8 K/uL\n        [image002.jpg]\n                             [**2156-2-28**]  09:40 PM\n                             [**2156-2-29**]  02:15 AM\n   WBC\n   9.8\n   Hct\n   29.8\n   30.9\n   Plt\n   173\n   Cr\n   1.7\n   Glucose\n   179\n   Other labs: PT / PTT / INR:13.6/22.7/1.2, Ca++:7.6 mg/dL, Mg++:1.9\n   mg/dL, PO4:3.4 mg/dL\n   Imaging: [**2-28**] CT Head: No acute intracranial abnormality.\n   [**2-28**] CT C-spine: 1. No fracture of the cervical spine. 2. Reversal of\n   cervical lordosis between C4 and C7 narrows the spinal canal. 3.\n   Bilateral neural foraminal narrowing at multiple levels.\n   [**2-28**] Hip X-ray: Acute comminuted proximal left femur fracture involving\n   the lesser trochanter and extending to the subtrochanteric region.\n   [**2-28**] CT Abd/Pelvis (Preliminary Read): No acute intra-abdominal\n   findings: no free air or fluid, no hematoma. No bowel obstruction,\n   although rectum is distended with stool. 3mm nonobstructing renal\n   calculus (versus vascular calcification). Fluid-filled gallbladder\n   without wall thickening, pericholecystic fluid or other evidence of\n   cholecystitis.\n   [**2-28**] CXR: No acute intrathoracic process. Air filled, distended gastric\n   bubble.\n   Assessment and Plan\n   [**Age over 90 **] yo M, Russian speaking only, with dementia, CKD, BPH; presenting\n   after witnessed mechanical fall at rehab with comminuted left\n   intertrochanteric femoral fracture, pinned in ED with plan to go to OR\n   in AM.\n   .\n   # Left femur fracture: Had pin placed in ED, leg kept in traction\n   overnight. Ortho consult plan for operative fixation today. Given CKD,\n   age, poor mental status at baseline, patient is high operative risk\n   candidate for high risk surgery.  Most recent cardiac assessment Echo\n   [**5-/2153**] with Ef 55%, mild symmetric left ventricular hypertrophy, mild\n   AR, MR & pulmonary artery hypertension.\n    - NPO post-MN given mental status, position\n    - Transfuse to Hct > 30, will re-check hematocrit today\n    - Post-pin films pending\n    - Pain management with standing Tylenol per rectum & PRN morphine\n   .\n   # Hypotension: Resolved prior to admission to the ICU. Possibly [**2-10**]\n   meds (Morphine IV multiple times), bleeding (no clear source though\n   abdomen is somewhat firm; CT negative), undiagnosed infection (CXR\n   prelim clear, U/A fairly unrevealing), cardiac event (flat troponins,\n   poor quality EKG).  Most concerning features are new anemia, distended\n   abdomen and ?behavioral change if ambulating without walker.\n    - Final reads CT abdomen / pelvis, CXR\n    - Serial adominal exams\n    - Serial Hct, with transfusion goal: Hct 30\n    - Telemetry\n    - Repeat EKG\n    - If recurs, consider TTE, check random cortisol\n    - T&C x 4 units\n   .\n   # Abdominal distension: Unclear baseline.  Unclear if TTP but some\n   element of voluntary guarding.  Formal CT report pending, but large\n   amount of stool clearly visible in rectal vault. Prelim Abd/Pelvis\n   without concerning features for acute pathology.\n    - Serial abdominal exam\n    - Final read CT Abd/Pelvix\n    - Aggressive bowel regimen (give suppository today), consider\n   disimpaction if tenderness or distension worsens.\n   .\n   # Anemia: High normocytic. Sub-optimal response to blood transfusions\n   overnight. Goal Hct 30, given surgery. On B12 as outpatient. No\n   evidence of external bleeding; no hematoma over hip but thigh firmness\n   L>R this morning\n    - Serial Hct Q6H\n    - stool guaiac x 3\n    - maintain active type/screen, several units cross matched for OR\n   - Monitor thigh tension\n will call Ortho to do compartment pressures\n   if concerning\n   .\n   # Leukocytosis: Elevated to 12.8 with resolution to 9 on multiple\n   repeat labs.  Possible stress reaction, hemoconcentration or\n   undiagnosed infectious source. U/A unrevealing (few bacteria, negative\n   leuks/nitrites). CXR negative for consolidation, pneumothorax, or\n   pleural effusions.\n    - Final read CT abdomen / pelvis\n    - Monitor CBC\n    - Culture if spikes fever\n   .\n   # CKD: Unclear recent baseline creatinine.  Most recent creatinine in\n   OMR was 2.1 in [**8-16**].  Electrolytes generally normal. FeNa 0.7%,\n   consistent with perfusion-related kidney injury. Improved from 1.9 on\n   admission to 1.7 this morning, after IV fluids overnight.\n    - Prior labs from [**Hospital 328**] Rehab RE: current baseline\n    - Renally dose medications\n    - Monitor BUN/creatinine\n   .\n   # Dementia with behavioural disturbances: In behavioural unit at [**Hospital 328**]\n   Rehab.\n   - Continue Quetiapine 150 mg [**Hospital1 7**]\n   - Niece will visit today\n try to orient patient and have family at\n   bedside as often as possible\n   .\n   # Depression / Anxiety: Unclear severity.\n    - Continue Citalopram 40 mg po daily\n    - Hold Lorazepam given increased narcotics, concern for impending\n   delirium\n   .\n   # Elevated troponin: Baseline compared to prior. EKG in MICU unchanged\n   from prior\n   .\n   # BPH: Foley in place, hold Terazosin given concern for hypotension.\n   .\n   # GERD: Continue PPI once advance beyond NPO.  If continued HCT drop\n   would start IV PPI empirically for possible GI source.\n   .\n   # FEN: Maintenance IVF, replete electrolytes PRN, ice chips / NPO for\n   OR\n   # Prophylaxis: Pneumoboots given unclear source of blood loss, to OR in\n   AM; post-OR will need anticoagulant given high risk Orthopedics surgery\n will reassess possibility of starting heparin SQ this afternoon if\n   hemodynamically stable\n   # Access: 18g x1, 16g x1\n   # Communication: Patient; HCP\n   # Code Status: DNR/DNI (per [**Hospital 328**] Rehab, copy in chart) but after\n   speaking with HCP [**Name (NI) 5564**] [**Name (NI) 13505**] [**Telephone/Fax (1) 13506**] (h), [**Telephone/Fax (1) 13507**] (w)\n   would like pt to be FULL CODE\n   # Disposition: ICU pending clinical improvement, post-operative course\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   16 Gauge - [**2156-2-28**] 08:45 PM\n   18 Gauge - [**2156-2-28**] 08:45 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: DNR (do not resuscitate)\n   Disposition:\n"
+    },
+    {
+      "note_id": 3758,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 237,
+          "end": 245,
+          "code": "E888.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified fall",
+          "type": "MapType.APPROX",
+          "covered_text": "s/p fall"
+        },
+        {
+          "begin": 301,
+          "end": 348,
+          "code": "79.35",
+          "code_system": "ICD-9-PCS",
+          "description": "Open reduction of fracture of femur with internal fixation",
+          "type": "Human",
+          "covered_text": "s/p open reduction internal fixation, left hip."
+        },
+        {
+          "begin": 427,
+          "end": 435,
+          "code": "403.90",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive renal disease, unspecified, without mention of renal failure",
+          "type": "Human",
+          "covered_text": "HTN, CRI"
+        },
+        {
+          "begin": 432,
+          "end": 435,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CRI"
+        },
+        {
+          "begin": 437,
+          "end": 445,
+          "code": "294.21",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 529,
+          "end": 544,
+          "code": "E888.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified fall",
+          "type": "MapType.APPROX",
+          "covered_text": "mechanical fall"
+        },
+        {
+          "begin": 1535,
+          "end": 1579,
+          "code": "403.90",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive renal disease, unspecified, without mention of renal failure",
+          "type": "Human",
+          "covered_text": "Hypertension.\n2. Chronic renal insufficiency"
+        },
+        {
+          "begin": 1552,
+          "end": 1579,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "Chronic renal insufficiency"
+        },
+        {
+          "begin": 1584,
+          "end": 1611,
+          "code": "600.00",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "Human",
+          "covered_text": "Benign prostate hypertrophy"
+        },
+        {
+          "begin": 5486,
+          "end": 5505,
+          "code": "820.21",
+          "code_system": "ICD-9-CM",
+          "description": "Fracture of intertrochanteric section of femur, closed",
+          "type": "MapType.APPROX",
+          "covered_text": "Left femur fracture"
+        },
+        {
+          "begin": 5736,
+          "end": 5744,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "Human",
+          "covered_text": "1U PRBC."
+        },
+        {
+          "begin": 5920,
+          "end": 5931,
+          "code": "458.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other iatrogenic hypotension",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 6144,
+          "end": 6214,
+          "code": "458.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other iatrogenic hypotension",
+          "type": "Human",
+          "covered_text": "Hypotension was thought\nsecondary to morphine amdinistration in the ED"
+        },
+        {
+          "begin": 7267,
+          "end": 7272,
+          "code": "560.1",
+          "code_system": "ICD-9-CM",
+          "description": "Paralytic ileus",
+          "type": "Human",
+          "covered_text": "ileus"
+        },
+        {
+          "begin": 8324,
+          "end": 8327,
+          "code": "99.15",
+          "code_system": "ICD-9-PCS",
+          "description": "Parenteral infusion of concentrated nutritional substances",
+          "type": "Human",
+          "covered_text": "TPN"
+        },
+        {
+          "begin": 8404,
+          "end": 8407,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 8575,
+          "end": 8578,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CKD"
+        },
+        {
+          "begin": 8908,
+          "end": 8947,
+          "code": "294.21",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Dementia with behavioural disturbances:"
+        },
+        {
+          "begin": 9446,
+          "end": 9456,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 9459,
+          "end": 9466,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 9757,
+          "end": 9760,
+          "code": "600.00",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "Human",
+          "covered_text": "BPH"
+        },
+        {
+          "begin": 9886,
+          "end": 9889,
+          "code": "V49.86",
+          "code_system": "ICD-9-CM",
+          "description": "Do not resuscitate status",
+          "type": "MapType.EXACT",
+          "covered_text": "DNR"
+        },
+        {
+          "begin": 12477,
+          "end": 12482,
+          "code": "560.1",
+          "code_system": "ICD-9-CM",
+          "description": "Paralytic ileus",
+          "type": "Human",
+          "covered_text": "Ileus"
+        },
+        {
+          "begin": 12504,
+          "end": 12527,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "urinary tract infection"
+        }
+      ],
+      "text": "Admission Date:  [**2156-2-28**]              Discharge Date:   [**2156-3-9**]\n\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 2610**]\nChief Complaint:\nfemur fracture s/p fall\n\nMajor Surgical or Invasive Procedure:\n[**2156-3-1**]: s/p open reduction internal fixation, left hip.\n\n\nHistory of Present Illness:\n[**Age over 90 **] y.o. Russian speaking M with HTN, CRI, dementia from [**Hospital 100**]\nRehab who was brought by ambulance to the ED s/p witnessed\nmechanical fall (backed into chair and fell after getting up\nwithout walker).  Reportedly did not strike his head strike and\nno LOC.  Was noted to have left leg pain/deformity.  Per report,\npatient A & O x 0 at baseline.  Was seen by staff physician and\ngiven morphine.  Initial ED VS 96.9, 112 irregular,  118/82, 18,\n100/RA.  Exam with left hip deformity, LLE shortening and\ninternal rotation, 1+ palpable distal pulses.  Baseline Hct 35.8\n([**2156-1-14**]).  Given Morpine 2mg IV, Morphine 4mg x 1, NS 2L, Haldol\n5mg, 1U PRBC.  Foley placed.  FAST negative per report but not\nin ED documentation.  Ortho consulted, consented patient for\nsurgery and placed pin, currently in traction. Given unclear\nsource of bleeding and hypotension on arrival, patient admitted\nto MICU for closer monitoring.   VS on transfer 97.3, 100,\n136/86, 22, 100/2L.  Upon admission to MICU, patient appears in\npain.\n.\nWhile in ED patient denied chest pain, pressure, fever,\nchills/rigors, SOB, cough.\n\n\nPast Medical History:\n1. Hypertension.\n2. Chronic renal insufficiency.\n3. Benign prostate hypertrophy.\n4. Dementia\n5. Depression\n6. Peptic ulcer disease\n7. s/p hernia repair\n\n\nSocial History:\nLives in behavioral unit at [**Hospital 100**] Rehab. No tobacco, 'may have\nup to one glass of wine per day'.\n\nFamily History:\nnon-contributory\n\nPhysical Exam:\nOn admission:\nVitals: 97.3, 100, 136/86, 22, 100/2L\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen:  soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n\nPertinent Results:\n Labs:\n[**2156-2-28**] 12:00PM BLOOD WBC-12.8*# RBC-3.62* Hgb-11.4* Hct-34.9*\nMCV-97 MCH-31.5 MCHC-32.6 RDW-12.8 Plt Ct-258\n[**2156-2-28**] 12:00PM BLOOD Neuts-86.3* Lymphs-9.2* Monos-3.9 Eos-0.5\nBaso-0.1\n[**2156-2-28**] 02:32PM BLOOD PT-13.8* PTT-22.0 INR(PT)-1.2*\n[**2156-2-28**] 03:00PM BLOOD ESR-16*\n[**2156-2-28**] 12:00PM BLOOD Glucose-205* UreaN-40* Creat-1.9* Na-140\nK-4.6 Cl-105 HCO3-23 AnGap-17\n[**2156-2-28**] 12:00PM BLOOD ALT-25 AST-33 CK(CPK)-90 AlkPhos-105\nTotBili-0.5\n[**2156-2-28**] 12:00PM BLOOD cTropnT-0.07*\n[**2156-2-28**] 12:00PM BLOOD Lipase-40\n[**2156-3-8**] 05:10AM BLOOD WBC-9.4 RBC-3.28* Hgb-10.1* Hct-30.5*\nMCV-93 MCH-30.8 MCHC-33.1 RDW-16.3* Plt Ct-208\n[**2156-3-8**] 05:10AM BLOOD PT-14.0* PTT-27.9 INR(PT)-1.2*\n[**2156-3-8**] 05:10AM BLOOD Glucose-141* UreaN-37* Creat-1.2 Na-135\nK-4.0 Cl-105 HCO3-28 AnGap-6*\n[**2156-3-2**] 04:23AM BLOOD CK-MB-9 cTropnT-0.08*\n[**2156-2-28**] 12:00PM BLOOD ALT-25 AST-33 CK(CPK)-90 AlkPhos-105\nTotBili-0.5\n[**2156-3-8**] 05:10AM BLOOD Calcium-8.1* Phos-3.8 Mg-2.2\n.\nAdmission Imaging:\nHip X-ray IMPRESSION: Comminuted fracture proximal femur.\n.\nCT Pelvis / Pelvis W/O Contrast -- [**2156-2-28**]\n** Preliminary **\nComminuted left intertrochanteric femoral fracture.  No acute\nintra-abdominal findings: no free air or fluid, no hematoma. No\nbowel\nobstruction, although rectum is distended with stool. 3mm\nnonobstructing renal calculus (versus vascular calcification).\nFluid-filled gallbladder without wall thickening,\npericholecystic fluid or other evidence of cholecystitis.\n.\nCT C-Spine W/O Contrast -- [**2156-2-28**]\n** Preliminary **\nNo fracture. Marked degenerative changes with reversal of\nlordosis in the mid c-spine resulting in moderate canal\nnarrowing.\n.\nCT Head W/O Contrast -- [**2156-2-28**]\n** Preliminary **\nNo ICH or acute abnormality\n.\nChest X-ray [**2156-2-28**]\n** Preliminary **\nLow lung volumes, marked deviation of trachea to the right,\notherwise lungs are normally aerated.  Prior CXR with tracheal\ndeviation.\n.\nEKG: 120 BPM, ?sinus tachy cardia but very poor baseline, slight\nLAD, no clear ST/TW changes but poor study.  Compared to\n[**2155-1-4**], similar axis.\n\nABDOMEN, [**3-7**]\n\nHISTORY: Colonic pseudo-obstruction. Please measure colonic\ndiameter.\n\nIMPRESSION: Three views of the abdomen show no appreciable\nchange in the\ndiameter of the widest part of the colon, the ascending, 84 mm\nyesterday and 88 mm today. There is no appreciable wall\nthickening or intramural emphysema to suggest ischemia.\nGeneralized gaseous distention is moderate throughout the GI\ntract except for the stomach which is decompressed by a\nnasogastric tube.\n\nKUB ([**2156-3-8**])\n\n1. Interval improvement in patient's colonic dilatation, with\nscattered\nair-filled loops of small and large bowel without evidence of\nsignificant\ndilatation. Air-fluid levels are identified on the decubitus\nview.\n\n\nBrief Hospital Course:\n[**Age over 90 **] yo M, Russian speaking only, with dementia, CKD, BPH\npresented after witnessed mechanical fall at rehab and found to\nhave a comminuted left intertrochanteric femoral fracture\n.\n# Left femur fracture: Ortho was consulted in the ED and\nconsented patient for surgery and placed pin for traction. The\npt presented with Hct 34 (Baseline Hct 35.8 [**2156-1-14**]). He was\ngiven Morpine 2mg IV, Morphine 4mg x 1, NS 2L, Haldol 5mg, and\n1U PRBC. His post transfusion Hct dropped to 29 and he was\ntransfused a second unit without appropriate bump (Hct stayed at\n29). Foley was placed. Given unclear source of bleeding and\nhypotension on arrival, the patient was admitted to MICU for\ncloser monitoring. VS on transfer were 97.3, 100, 136/86, 22,\n100/2L.  Upon admission to MICU, the patient appeared in pain.\nThe patient's BP normalized after 2L. Hypotension was thought\nsecondary to morphine amdinistration in the ED. He was afebrile\nwith negative cardiac enzymes. It was unclear where his source\nof bleeding was but the patient was guaiac negative. His thigh\nhad been firm and it was suspected that he may a hematoma there.\nHe remained hemodynamically stable and was thought appropriate\nfor transfer to medicine. He was transferred to the medicine\nfloor on [**2-29**] and taken for surgery on [**3-1**], where he underwent\nORIF of his left hip. He went to the SICU post-op to recover, as\nhe was transiently hypotensive during the procedure.  His SICU\ncourse included UTI and post op ileus (see below).  On [**2156-3-4**]\nhe was called out to the medicine floor.  He continued to have a\nlarge amount of serous fluid drain from the traction wounds in\nhis knee.  His Hct remained stable in the low 30s. Ortho\nrecommendations were to continue weight beairng as tolerated,\nlovenox for DVT prophylaxis and tylenol for pain.  He should\nfollow up in two weeks in ortho clinic with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **],\nNP.\n\n# Abdominal distension/ileus: In the MICU the patient was found\nto have a mildly distended abdomen that was soft and non tender,\nwith an unclear baseline.  It was noted in the records that the\npatient required agressive bowel regimen at rehab it was thought\nthat he had chronic constipation and was given an aggressive\nbowel regimen. After the patient went to the OR he developed a\npost op ileus confirmed by KUB and had an NGT placed to suction.\n He had a rectal tube placed for decompression but this failed.\nOn PO D# 4 he was started on PPN for nutrition.  GI was\nconsulted and they felt this was a pseudoobstruction.  They\nrecommended continued NG suction, avoiding narcotics and\nanticholinergics, and changing his position every hour.  He\nshould have a daily KUB and if his colon diameter is between\n10-12 cm, surgery should be consulted because this is a surgical\nemergency.  It was 8.8cm on [**2156-3-7**], and unchanged on [**2156-3-8**].\nNGT was taken off suction and patient had low residuals.  NG was\ndiscontinued per general surgery recs on [**2156-3-9**].  Receiving TPN.\n Patient will need speech and swallow evaluation on admission to\nrehab.\n\n# UTI: In the SICU the patient was found to have a proteus uti.\nHis foley was changed and he was started on ceftriaxone on [**3-3**]\nand should complete a 14 day course.\n\n# CKD: The patient presented with Cr of 1.9.  He had an unclear\nbaseline.  His most recent creatinine in OMR was 2.1 on [**8-16**].\nThe rest of his electrolytes were normal.  Urine lytes were\nconsistent with pre-renal azotemia.  Over the course of\nhospitlaization the patient's creatinine improved to 1.2.  It\nwas 0.9 on discharge.\n\n# Dementia with behavioural disturbances: The patient lives in\nthe behavioural unit at [**Hospital 100**] Rehab.  He is oriented x 1 a\nbaseline.  Prior to the surgery the patient was functioning\nbelow baseline per family members, taking [**Name2 (NI) 16910**] to recognize\nthem then normal.  After the operation he remained verbally\nunresponsive to family members and would not follow commands.\nHe was not given narcotics for worsening of his mental status.\nThe patient was continued on his home dose Quetiapine 150 mg\n[**Hospital1 **].\n\n# Depression / Anxiety: Unclear severity. The patient was\ncontinued on his Citalopram 40 mg po daily.\n\n# Elevated troponin: The patient was initially found to have an\nelevated troponin compared to his baseline, however it did not\ntrend up and repeat EKG showed no changes so it was not thought\nto be from ACS.\n\n# BPH: The patient had a foley placed,  His terazosin was\ninitially held in the ICU given concern for hypotension.\n\n# Code Status: DNR/DNI (this was reversed temporarily for the\noperation then DNR/DNI again)\n\n\nMedications on Admission:\nMorphine 4mg po Q4H PRN\nAcetaminophen 650 mg Q4H PRN\nMilk of Magnesia 30 mL po daily\nCitalopram 40 mg po daily\nMiralax 17gm po daily\nTerazosin 2 mg po QPM\nQuetiapine 150 mg po BID\nLorazepam 0.5 mg po BID PRN\nEucerin 1 application daily\nFerrous sulfate 325 mg po daily\nCyanocobalamin 1000 mcg daily\nSodium Fluoride 10 mL QHS Swish\nBisacodyl suppository 10 mg daily\nSenna 2 tabs [**Hospital1 **]\nMirtazapine 15 mg QHS\nOmeprazole 20 mg daily\n\n\nDischarge Medications:\n1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for Constipation.\n3. Quetiapine 50 mg Tablet Sig: Three (3) Tablet PO BID (2 times\na day).\n4. Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n5. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for\nConstipation.\n6. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO DAILY (Daily).\n7. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1) 17\ngrams/dose powder PO DAILY (Daily).\n8. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n9. Cyanocobalamin 500 mcg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n10. White Petrolatum-Mineral Oil     Cream Sig: One (1) Appl\nTopical DAILY (Daily).\n11. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime).\n12. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H\n(every 6 hours).\n13. Enoxaparin 40 mg/0.4 mL Syringe Sig: One (1) syringe\nSubcutaneous DAILY (Daily) for 4 weeks.\n14. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H\n(every 4 hours) as needed for pain.\n15. Ondansetron HCl (PF) 4 mg/2 mL Solution Sig: One (1)\nInjection Q8H (every 8 hours) as needed for nauesa.\n16. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\n17. Ceftriaxone in Dextrose,Iso-os 1 gram/50 mL Piggyback Sig:\nOne (1) gram Intravenous Q24H (every 24 hours) for 4 days: Last\ndose [**2156-3-12**].\n18. White Petrolatum-Mineral Oil     Cream Sig: One (1) Appl\nTopical DAILY (Daily).\n19. Terazosin 1 mg Capsule Sig: Two (2) Capsule PO HS (at\nbedtime).\n20. regular insulin sliding scale\n21. Radiology\nsupine abdomen daily.  if colon is over 10cm contact surgery.\n22. Pantoprazole 40 mg Recon Soln Sig: Forty (40) mg Intravenous\nonce a day.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 459**] for the Aged - MACU\n\nDischarge Diagnosis:\n1. Left hip fracture.\n2. Ileus/Pseudopbstruction\n3. urinary tract infection\n\n\nDischarge Condition:\nMental Status:Confused - always\nLevel of Consciousness:Lethargic but arousable\nActivity Status:Ambulatory - requires assistance or aid (walker\nor cane)\n\n\nDischarge Instructions:\nYou came to the hospital after you fell and were found to have a\nleft hip fracture.  You required several blood transfusions and\nwent to the operating room to have your hip fixed.  You remained\nin the surgical intensive care unit for 4 days after your\noperation.  You developed a post operative ileus ([**Last Name **] problem\nwith your gut working) and you were not able to eat food for\nseveral days.  We gave you IV fluids and nutrition through your\nvein.\n\nPlease go to your follow up appointment with the orthopedic\ndoctors (see below).  They have also provided the following\nspecial instructions after your surgery:\n\nWound Care:\n-Keep Incision dry.\n-Do not soak the incision in a bath or pool.\n\nActivity:\n-Continue to be full weight bearing on your left leg.\n-You should not lift anything greater than 5 pounds.\n\nOther Instructions\n- Resume your regular diet.\n- Avoid nicotine products to optimize healing.\n- Resume your home medications. Take all medications as\ninstructed.\n- Continue taking the Lovenox to prevent blood clots.\n\n- Narcotic pain medication may cause drowsiness.  Do not drink\nalcohol while taking narcotic medications.  Do not operate any\nmotor vehicle or machinery while taking narcotic pain\nmedications.  Taking more than recommended may cause serious\nbreathing problems.\n\nIf you have questions, concerns or experience any of the below\ndanger signs then please call your doctor at [**Telephone/Fax (1) 1228**] or go\nto your local emergency room.\n\nFollowup Instructions:\n2 weeks (the week of [**2156-3-15**]) in the [**Hospital **] clinic with\n[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], NP. Please call [**Telephone/Fax (1) 1228**] to make this\nappointment.\n\n\n\nCompleted by:[**2156-3-9**]"
+    },
+    {
+      "note_id": 521683,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 1175,
+          "end": 1186,
+          "code": "331.0",
+          "code_system": "ICD-9-CM",
+          "description": "Alzheimer&apos;s disease",
+          "type": "Human",
+          "covered_text": "Alzheimer's"
+        }
+      ],
+      "text": "TITLE:\n   SICU\n   HPI:\n   [**Age over 90 **]y Russian speaking M brought by ambulance from [**Hospital 328**] rehab to the ED\n   s/p witnessed mechanical fall (backed into chair and fell after getting\n   up without walker). Reportedly no head trauma or LOC. + left leg pain.\n   Exam with left hip deformity, LLE shortening and internal rotation, 1+\n   palpable distal pulses. Ortho consulted, placed pin and pt in traction.\n   In ED, Hct 34 (Baseline Hct 35.8 [**2156-1-14**]). He was transfused 1U PRBC.\n   Post transfusion Hct dropped to 29 and he was transfused a second unit\n   without appropriate bump (Hct 29). Pt admitted to MICU for ? bleeding\n   and hypotension on arrival. There, given 2L IVF with improvement in\n   hypotension. He was afebrile with negative cardiac enzymes. Unclear\n   source of bleeding but the patient was guaiac negative. His thigh had\n   been firm and it was suspected that he may a hematoma there. He\n   remained hemodynamically stable. On [**3-1**], pt taken to OR for ORIF Left\n   Hip with TFN. Pt admitted to SICU postop intubated for further\n   management.\n   Chief complaint:\n   hip fracture\n   PMHx:\n   -- HTN\n   -- CRI\n   -- BPH\n   -- Alzheimer's Dementia - behavioral disturbances\n   -- Depression / Anxiety\n   -- h/o PUD\n   -- h/o hernia repair\n   -- Anemia NOS\n   -- GERD\n   -- Lumbar stenosis\n   Current medications:\n           1. IV access: Peripheral line Order date: [**3-1**] @ 1016\n   16. Insulin SC  (per Insulin Flowsheet)\n         Sliding Scale Order date: [**3-1**] @ 1430\n   2. 20 mEq Potassium Chloride / 1000 mL D5 1/2 NS\n   Continuous at 100 ml/hr Order date: [**3-1**] @ 2358\n   17. Magnesium Sulfate  IV Sliding Scale Order date: [**3-1**] @ 1658\n   3. Acetaminophen 650 mg PO/PR Q6H  Order date: [**3-1**] @ 1016\n   18. Metoprolol Tartrate 5 mg IV ONCE MR1 Duration: 1 Doses Order date:\n   [**3-2**] @ 0522\n   4. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation  Order date: [**3-1**] @\n   1016\n   19. Milk of Magnesia 30 mL PO/NG DAILY  Order date: [**3-1**] @ 1016\n   5. Calcium Gluconate  IV Sliding Scale Order date: [**3-1**] @ 1658\n   20. Mirtazapine 15 mg PO/NG HS  Order date: [**3-1**] @ 1016\n   6. CefazoLIN 1 g IV Q8H Duration: 3 Doses Order date: [**3-1**] @ 1016\n   21. Morphine Sulfate 2-4 mg IV Q4H:PRN Pain\n   Hold for oversedation or RR < 12  Order date: [**3-1**] @ 1016\n   7. Citalopram Hydrobromide 40 mg PO/NG DAILY  Order date: [**3-1**] @ 1016\n   22. Morphine Sulfate 2-4 mg IV Q6H:PRN pain  Order date: [**3-1**] @ 1016\n   8. Cyanocobalamin 1000 mcg PO/NG DAILY  Order date: [**3-1**] @ 1016\n   23. Polyethylene Glycol 17 g PO/NG DAILY  Order date: [**3-1**] @ 1016\n   9. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol  Order date: [**3-1**]\n   @ 1430\n   24. Potassium Chloride  IV Sliding Scale Order date: [**3-1**] @ 1658\n   10. Docusate Sodium 100 mg PO BID  Order date: [**3-1**] @ 1016\n   25. Potassium Phosphate  IV Sliding Scale\n   Infuse over 6 hours  Order date: [**3-1**] @ 1658\n   11. Enoxaparin Sodium 40 mg SC DAILY  Order date: [**3-1**] @ 1016\n   26. Propofol 20-100 mcg/kg/min IV DRIP TITRATE TO sedation  Order date:\n   [**3-1**] @ 1431\n   12. Famotidine 20 mg IV Q24H  Order date: [**3-1**] @ 2246\n   27. Quetiapine Fumarate 150 mg PO/NG [**Hospital1 7**]  Order date: [**3-1**] @ 1016\n   13. Ferrous Sulfate 325 mg PO/NG DAILY  Order date: [**3-1**] @ 1016\n   28. Senna 1 TAB PO/NG [**Hospital1 7**]:PRN Constipation  Order date: [**3-1**] @ 1016\n   14. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol  Order date:\n   [**3-1**] @ 1430\n   29. Sodium Chloride 0.9% Flush 3 mL IV Q8H:PRN line flush\n   Peripheral line: Flush with 3 mL Normal Saline every 8 hours and PRN.\n   Order date: [**3-1**] @ 1016\n   15. Hydrocerin 1 Appl TP DAILY  Order date: [**3-1**] @ 1016\n   24 Hour Events:\n ARTERIAL LINE - START [**2156-3-1**] 01:28 PM\n INVASIVE VENTILATION - START [**2156-3-1**] 01:35 PM\n MULTI LUMEN - START [**2156-3-1**] 01:39 PM\n   [**3-1**] - ORIF Left Hip with TFN. S/p 1 unit PRBC\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefazolin - [**2156-3-2**] 04:40 AM\n   Infusions:\n   Other ICU medications:\n   Morphine Sulfate - [**2156-3-1**] 02:48 PM\n   Famotidine (Pepcid) - [**2156-3-2**] 12:49 AM\n   Other medications:\n   Flowsheet Data as of  [**2156-3-2**] 05:29 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**58**] a.m.\n   Tmax: 37.5\nC (99.5\n   T current: 36.3\nC (97.4\n   HR: 88 (61 - 101) bpm\n   BP: 169/81(114) {108/50(68) - 173/89(121)} mmHg\n   RR: 16 (14 - 25) insp/min\n   SPO2: 99%\n   Heart rhythm: 1st AV (First degree AV Block)\n   Wgt (current): 72.7 kg (admission): 67 kg\n   CVP: 13 (10 - 17) mmHg\n   Total In:\n                                                                  2,531 mL\n                                                                    655 mL\n   PO:\n   Tube feeding:\n   IV Fluid:\n                                                                  2,181 mL\n                                                                    655 mL\n   Blood products:\n                                                                    350 mL\n   Total out:\n                                                                    656 mL\n                                                                    209 mL\n   Urine:\n                                                                    286 mL\n                                                                    209 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  1,875 mL\n                                                                    446 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 14\n   RR (Spontaneous): 11\n   PEEP: 5 cmH2O\n   FiO2: 50%\n   PIP: 21 cmH2O\n   Plateau: 18 cmH2O\n   SPO2: 99%\n   ABG: 7.35/37/145/22/-4\n   Ve: 12.7 L/min\n   PaO2 / FiO2: 363\n   Physical Examination\n   General Appearance: No acute distress, intubated, sedated\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Firm,distended, Non-tender, Bowel sounds present, Distended\n   Left Extremities: (Edema: 1+), (Temperature: Warm)\n   Right Extremities: (Edema: 1+), (Temperature: Warm)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Responds to: Verbal stimuli), Moves all extremities,\n   Sedated\n   Labs / Radiology\n   119 K/uL\n   11.0 g/dL\n   150 mg/dL\n   1.2 mg/dL\n   22 mEq/L\n   4.0 mEq/L\n   33 mg/dL\n   117 mEq/L\n   143 mEq/L\n   32.5 %\n   8.1 K/uL\n        [image002.jpg]\n                             [**2156-2-28**]  09:40 PM\n                             [**2156-2-29**]  02:15 AM\n                             [**2156-2-29**]  07:23 AM\n                             [**2156-2-29**]  02:37 PM\n                             [**2156-3-1**]  03:02 PM\n                             [**2156-3-1**]  03:16 PM\n                             [**2156-3-1**]  06:02 PM\n                             [**2156-3-1**]  10:51 PM\n                             [**2156-3-2**]  04:23 AM\n                             [**2156-3-2**]  04:49 AM\n   WBC\n   9.8\n   6.8\n   8.1\n   Hct\n   29.8\n   30.9\n   30.5\n   28.9\n   28.3\n   33.5\n   32.5\n   Plt\n   173\n   120\n   119\n   Creatinine\n   1.7\n   1.3\n   1.2\n   Troponin T\n   0.08\n   TCO2\n   20\n   20\n   21\n   Glucose\n   179\n   186\n   150\n   Other labs: PT / PTT / INR:13.6/27.4/1.2, CK / CK-MB / Troponin\n   T:/11/0.08, Ca:7.4 mg/dL, Mg:1.6 mg/dL, PO4:2.0 mg/dL\n   Imaging: [**3-1**] CXR - Endotracheal tube tip terminates about 3 cm above\n   the carina, nasogastric tube terminates in the stomach and a right\n   internal jugular vascular catheter tip terminates below the expected\n   level of the superior vena cava, right atrial junction, with no\n   pneumothorax. Cardiomediastinal contours are unchanged. Areas of\n   bibasilar atelectasis have developed as well as small bilateral pleural\n   effusions. Possibly distended loops of bowel are seen in\n   the imaged portion of the upper abdomen, but are incompletely evaluated\n   on this radiograph. Resolution of gastric distention.\n   Assessment and Plan\n   ANEMIA, OTHER, RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF,\n   CHRONIC KIDNEY DISEASE), PROSTATIC HYPERTROPHY, BENIGN (BPH),\n   GASTROESOPHAGEAL REFLUX DISEASE (GERD), DEMENTIA (INCLUDING\n   ALZHEIMER'S, MULTI INFARCT), DEPRESSION, TACHYCARDIA, OTHER, HIP\n   FRACTURE (FEMORAL NECK FRACTURE, FEMUR)\n   ASSESSMENT: [**Age over 90 **] yo M s/p fall with left subtroch femur fx s/p ORIF with\n   TFN.\n   Neurologic:\n   -- intubated and sedated with propofol gtt\n   -- moves all extremities\n   -- pain control: tylenol ATC, morphine prn\n   -- depression/anxiety: cont citalopram, mirtazapine\n   -- Dementia with behavioural disturbances: cont quetiapine\n   Cardiovascular:\n   -- on admission, trop 0.06 with negative CKMB. No EKG changes from\n   prior.\n   -- trops: 0.06 -> 0.08 (MB 11) --> f/u AM trop\n   -- hemodynamically stable\n   Pulmonary:\n   -- intubated postop. Wean to extubation after KUB .\n   Gastrointestinal / Abdomen:\n   -- NGT in place\n   -- abdominal distension on admission. Cont bowel regimen.  Will check\n   KUB.  If colonic distension, consider colonoscopy.\n   -- bowel regimen: bisacodyl prn, colace, milk of magnesia, senna,\n   polyethylene glycol\n   -- GERD: on PPI at home, currently on famotidine.\n   Nutrition:\n   -- NGT in place\n   -- currently NPO\n   -- (when resumed diet: Nectar thick, Soft consistency)\n   Renal:\n   -- foley in place. Monitor UOP.\n   -- CKD: Unclear baseline. Cr 2.1 [**8-16**]. Current Cr 1.2\n   -- BPH: terazosin was on hold secondary to hypotension on admission\n   Hematology:\n   -- s/p 2 units PRBCs [**2-28**], 1 unit PRBC [**3-1**]\n   -- anemia: cont iron supplement and B12\n   -- Hct 32.5\n   Endocrine: RISS\n   ID:\n   -- periop ABX: ancef x 3 doses\n   -- leukocytosis on admission now resolved\n   -- f/u UCx\n   T/L/D: ETT, NGT, Aline, PIV, foley\n   Wounds: left hip\n   Imaging:\n   Fluids: D5 1/2 NS + 20meq KCL @ 100cc/hr\n   Consults: ortho, red west 3 surgery, geriatrics\n   Billing Diagnosis: hip fracture\n   Prophylaxis:\n   DVT: lovenox sc\n   Stress ulcer: H2B\n   VAP bundle: +\n   Comments: needs ICU consent\n   Communication: HCP [**Name (NI) 5564**] [**Name (NI) 13505**] [**Telephone/Fax (1) 13506**] (h), [**Telephone/Fax (1) 13507**] (w)\n   Code status:FULL\n   Disposition:SICU\n   Time spent: 35\n"
+    },
+    {
+      "note_id": 522189,
+      "category": "Nutrition",
+      "description": "Clinical Nutrition Note",
+      "annotations": [
+        {
+          "begin": 471,
+          "end": 482,
+          "code": "331.0",
+          "code_system": "ICD-9-CM",
+          "description": "Alzheimer&apos;s disease",
+          "type": "Human",
+          "covered_text": "Alzheimer's"
+        },
+        {
+          "begin": 483,
+          "end": 517,
+          "code": "294.11",
+          "code_system": "ICD-9-CM",
+          "description": "Dementia in conditions classified elsewhere with behavioral disturbance",
+          "type": "Human",
+          "covered_text": "Dementia - behavioral disturbances"
+        },
+        {
+          "begin": 606,
+          "end": 610,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        }
+      ],
+      "text": "Subjective:  Patient has dementia and is Russian-speaking.  No family\n   or care takers available to interview.\n   Objective\n   Height\n   Admit weight\n   Daily weight\n   Weight change\n   BMI\n   170 cm\n   72.6 kg\n   74.4 kg ([**2156-3-4**] 12:00 AM)\n   23.1\n   Ideal body weight\n   % Ideal body weight\n   Adjusted weight\n   Usual body weight\n   % Usual body weight\n   67.1 kg\n   108%\n    unknown\n   Diagnosis: Left Femur Fracture\n   PMHx: -- HTN\n   -- CRI\n   -- BPH\n   -- Alzheimer's Dementia - behavioral disturbances\n   -- Depression / Anxiety\n   -- h/o PUD\n   -- h/o hernia repair\n   -- Anemia NOS\n   -- GERD\n   -- Lumbar stenosis\n   Food allergies and intolerances:  none noted\n   Pertinent medications: Morphine, IV fluid, others noted\n   Labs:\n   Value\n   Date\n   Glucose\n   135 mg/dL\n   [**2156-3-4**] 03:43 AM\n   Glucose Finger Stick\n   145\n   [**2156-3-4**] 10:00 AM\n   BUN\n   27 mg/dL\n   [**2156-3-4**] 03:43 AM\n   Creatinine\n   1.2 mg/dL\n   [**2156-3-4**] 03:43 AM\n   Sodium\n   134 mEq/L\n   [**2156-3-4**] 03:43 AM\n   Potassium\n   4.4 mEq/L\n   [**2156-3-4**] 03:43 AM\n   Chloride\n   109 mEq/L\n   [**2156-3-4**] 03:43 AM\n   TCO2\n   22 mEq/L\n   [**2156-3-4**] 03:43 AM\n   PO2 (arterial)\n   138 mm Hg\n   [**2156-3-3**] 06:23 PM\n   PCO2 (arterial)\n   37 mm Hg\n   [**2156-3-3**] 06:23 PM\n   pH (arterial)\n   7.37 units\n   [**2156-3-3**] 06:23 PM\n   pH (urine)\n   5.0 units\n   [**2156-2-28**] 09:39 PM\n   CO2 (Calc) arterial\n   22 mEq/L\n   [**2156-3-3**] 06:23 PM\n   Calcium non-ionized\n   7.4 mg/dL\n   [**2156-3-4**] 03:43 AM\n   Phosphorus\n   2.3 mg/dL\n   [**2156-3-4**] 03:43 AM\n   Ionized Calcium\n   1.20 mmol/L\n   [**2156-3-3**] 06:23 PM\n   Magnesium\n   2.4 mg/dL\n   [**2156-3-4**] 03:43 AM\n   WBC\n   8.7 K/uL\n   [**2156-3-4**] 03:43 AM\n   Hgb\n   9.9 g/dL\n   [**2156-3-4**] 03:43 AM\n   Hematocrit\n   28.7 %\n   [**2156-3-4**] 03:43 AM\n   Current diet order / nutrition support: Diet: NPO\n   GI: NGT to low continuous suction, abd distended, hypoactive bowel\n   sounds\n   Assessment of Nutritional Status\n   At risk for malnutrition\n   Patient at risk due to: advanced age, Ileus, dementia\n   Estimated Nutritional Needs\n   Calories: 1742-[**2176**] (24-28 cal/kg)\n   Protein: 80-94 (1.1-1.3 g/kg)\n   Fluid: per team\n   Calculations based on: Admit weight\n   Estimation of previous intake: Adequate\n   Estimation of current intake: Inadequate\n   Specifics:\n   [**Age over 90 **] y.o. Male s/p mechanical fall with left subtrochanteric femur\n   fracture, now s/p ORIF and nailing with TFN [**3-1**].  Patient\ns post-op\n   course complicated by prolonged extubation and colonic ileus.  Patient\n   is now extubated, but continues with NGT to suction with only small\n   amount of output.  Patient has had minimal nutrition for ~5 days, so\n   once patient is ok to use gut, recommend a swallow evaluation.  If\n   patient is unable to take po\ns safely, recommend starting TPN if\n   indicated.\n   Medical Nutrition Therapy Plan - Recommend the Following\n          Monitor clinical progress\n recommend swallow evaluation if\n   ileus resolved.\n          If patient is unable to take po\ns, recommend goal of Boost\n   Glucose Control @ 70mL/hr (1780kcals/97g protein).\n          If TPN is needed, recommend starting Day 1 standard.  Will\n   provide TPN goal as needed.\n          Multivitamin / Mineral supplement\n          Following - #[**Numeric Identifier 2337**]\n"
+    },
+    {
+      "note_id": 521537,
+      "category": "Physician",
+      "description": "Physician Surgical Admission Note",
+      "annotations": [
+        {
+          "begin": 528,
+          "end": 533,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "Human",
+          "covered_text": "PRBC."
+        },
+        {
+          "begin": 9739,
+          "end": 9745,
+          "code": "285.21",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia in chronic kidney disease",
+          "type": "Human",
+          "covered_text": "anemia"
+        },
+        {
+          "begin": 9836,
+          "end": 9848,
+          "code": "288.60",
+          "code_system": "ICD-9-CM",
+          "description": "Leukocytosis, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "leukocytosis"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: hip fracture\n   HPI:\n    [**Age over 90 **]y Russian speaking M brought by ambulance from [**Hospital 328**] rehab to the\n   ED s/p witnessed mechanical fall (backed into chair and fell after\n   getting up without walker). Reportedly no head trauma or LOC. + left\n   leg pain. Exam with left hip deformity, LLE shortening and internal\n   rotation, 1+ palpable distal pulses. Ortho consulted, placed pin and pt\n   in traction. In ED, Hct 34 (Baseline Hct 35.8 [**2156-1-14**]). He was\n   transfused 1U PRBC. Post transfusion Hct dropped to 29 and he was\n   transfused a second unit without appropriate bump (Hct 29). Pt admitted\n   to MICU for ? bleeding and hypotension on arrival. There, given 2L IVF\n   with improvement in hypotension. He was afebrile with negative cardiac\n   enzymes. Unclear source of bleeding but the patient was guaiac\n   negative. His thigh had been firm and it was suspected that he may a\n   hematoma there. He remained hemodynamically stable. On [**3-1**], pt taken\n   to OR for ORIF Left Hip with TFN. Pt admitted to SICU postop intubated\n   for further management.\n   Other medications:\n           1. IV access: Peripheral line Order date: [**3-1**] @ 1016\n   16. Insulin SC  (per Insulin Flowsheet)\n         Sliding Scale Order date: [**3-1**] @ 1430\n   2. 1000 mL LR Bolus 500 ml Over 30 mins Order date: [**3-1**] @ 1550\n   17. Magnesium Sulfate  IV Sliding Scale Order date: [**3-1**] @ 1658\n   3. Acetaminophen 650 mg PO/PR Q6H  Order date: [**3-1**] @ 1016\n   18. Milk of Magnesia 30 mL PO/NG DAILY  Order date: [**3-1**] @ 1016\n   4. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation  Order date: [**3-1**] @\n   1016\n   19. Mirtazapine 15 mg PO/NG HS  Order date: [**3-1**] @ 1016\n   5. Calcium Gluconate  IV Sliding Scale Order date: [**3-1**] @ 1658\n   20. Morphine Sulfate 2-4 mg IV Q4H:PRN Pain\n   Hold for oversedation or RR < 12  Order date: [**3-1**] @ 1016\n   6. CefazoLIN 1 g IV Q8H Duration: 3 Doses Order date: [**3-1**] @ 1016\n   21. Morphine Sulfate 2-4 mg IV Q6H:PRN pain  Order date: [**3-1**] @ 1016\n   7. Citalopram Hydrobromide 40 mg PO/NG DAILY  Order date: [**3-1**] @ 1016\n   22. Ondansetron 4 mg IV ONCE Duration: 1 Doses Order date: [**3-1**] @ 1016\n   8. Cyanocobalamin 1000 mcg PO/NG DAILY  Order date: [**3-1**] @ 1016\n   23. Polyethylene Glycol 17 g PO/NG DAILY  Order date: [**3-1**] @ 1016\n   9. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol  Order date: [**3-1**]\n   @ 1430\n   24. Potassium Chloride  IV Sliding Scale Order date: [**3-1**] @ 1658\n   10. Docusate Sodium 100 mg PO BID  Order date: [**3-1**] @ 1016\n   25. Potassium Phosphate  IV Sliding Scale\n   Infuse over 6 hours  Order date: [**3-1**] @ 1658\n   11. Enoxaparin Sodium 40 mg SC DAILY  Order date: [**3-1**] @ 1016\n   26. Propofol 20-100 mcg/kg/min IV DRIP TITRATE TO sedation  Order date:\n   [**3-1**] @ 1431\n   12. Famotidine 20 mg PO/NG Q24H  Order date: [**3-1**] @ 1508\n   27. Quetiapine Fumarate 150 mg PO/NG [**Hospital1 7**]  Order date: [**3-1**] @ 1016\n   13. Ferrous Sulfate 325 mg PO/NG DAILY  Order date: [**3-1**] @ 1016\n   28. Senna 1 TAB PO/NG [**Hospital1 7**]:PRN Constipation  Order date: [**3-1**] @ 1016\n   14. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol  Order date:\n   [**3-1**] @ 1430\n   29. Sodium Chloride 0.9% Flush 3 mL IV Q8H:PRN line flush\n   Peripheral line: Flush with 3 mL Normal Saline every 8 hours and PRN.\n   Order date: [**3-1**] @ 1016\n   15. Hydrocerin 1 Appl TP DAILY  Order date: [**3-1**] @ 1016\n   Post operative day:\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefazolin - [**2156-3-1**] 08:45 PM\n   Infusions:\n   Other ICU medications:\n   Morphine Sulfate - [**2156-3-1**] 02:48 PM\n   Past medical history:\n   Family / Social  history:\n   -- HTN\n   -- CRI\n   -- BPH\n   -- Alzheimer's Dementia - behavioral disturbances\n   -- Depression / Anxiety\n   -- h/o PUD\n   -- h/o hernia repair\n   -- Anemia NOS\n   -- GERD\n   -- Lumbar stenosis\n   Flowsheet Data as of  [**2156-3-1**] 09:25 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since [**58**] AM\n   Tmax: 37.1\nC (98.8\n   Tcurrent: 37.1\nC (98.8\n   HR: 84 (61 - 84) bpm\n   BP: 148/68(98) {108/50(68) - 173/89(121)} mmHg\n   RR: 16 (14 - 16) insp/min\n   SpO2: 99%\n   Heart rhythm: 1st AV (First degree AV Block)\n           Total In:\n                                                                  2,364 mL\n                                                                  1,763 mL\n   PO:\n                                                                     60 mL\n           TF:\n   IVF:\n                                                                  2,113 mL\n                                                                  1,413 mL\n   Blood products:\n                                                                    191 mL\n                                                                    350 mL\n   Total out:\n                                                                    361 mL\n                                                                    620 mL\n   Urine:\n                                                                    361 mL\n                                                                    250 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  2,003 mL\n                                                                  1,143 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 14\n   RR (Spontaneous): 0\n   PEEP: 5 cmH2O\n   FiO2: 50%\n   PIP: 19 cmH2O\n   Plateau: 18 cmH2O\n   SpO2: 99%\n   ABG: 7.33/36/115/20/-6\n   Ve: 7.3 L/min\n   PaO2 / FiO2: 230\n   Physical Examination\n   General Appearance: Well nourished, intubated, sedated\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Endotracheal tube, NG tube\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, No(t) Non-tender, Bowel sounds present, Distended\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: Absent\n   Skin:  Warm\n   Neurologic: Responds to: Not assessed, Movement: Not assessed, Sedated,\n   Tone: Not assessed\n   Labs / Radiology\n   120 K/uL\n   9.6 g/dL\n   186 mg/dL\n   1.3 mg/dL\n   20 mEq/L\n   3.2 mEq/L\n   35 mg/dL\n   117 mEq/L\n   142 mEq/L\n   28.3 %\n   6.8 K/uL\n        [image002.jpg]\n                             [**2156-2-28**]  09:40 PM\n                             [**2156-2-29**]  02:15 AM\n                             [**2156-2-29**]  07:23 AM\n                             [**2156-2-29**]  02:37 PM\n                             [**2156-3-1**]  03:02 PM\n                             [**2156-3-1**]  03:16 PM\n                             [**2156-3-1**]  06:02 PM\n   WBC\n   9.8\n   6.8\n   Hct\n   29.8\n   30.9\n   30.5\n   28.9\n   28.3\n   Plt\n   173\n   120\n   Cr\n   1.7\n   1.3\n   TropT\n   0.08\n   TCO2\n   20\n   20\n   Glucose\n   179\n   186\n   Other labs: PT / PTT / INR:14.6/26.4/1.3, CK / CKMB /\n   Troponin-T:/11/0.08, Ca++:7.3 mg/dL, Mg++:2.0 mg/dL, PO4:3.2 mg/dL\n   Imaging: [**2-28**] CT Cspine - No fracture of the cervical spine. Reversal\n   of cervical lordosis between C4 and C7 narrows the spinal canal. If\n   neurologic symptoms are referable to this level, MRI could be obtained\n   to evaluate the spinal cord. Bilateral neural foraminal narrowing at\n   multiple levels.\n   [**2-28**] Ct Abd/Pelv - Comminuted, impacted subtrochanteric fracture of the\n   left femur extending into the lesser trochanter, with superior\n   displacement of lesser trochanteric fragment. Small non-obstructing\n   right renal calculus. Atherosclerotic disease.\n   [**2-28**] CT Head - No acute intracranial abnormality.\n   [**2-28**] CXR - No acute intrathoracic process.\n   [**2-28**] Hip Xray - Acute comminuted proximal left femur fracture involving\n   the lesser trochanter and extending to the subtrochanteric region.\n   [**2-29**] Femur Xray - Comminuted fracture proximal femur\n   Assessment and Plan\n ANEMIA, OTHER\n RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY\n   DISEASE)\n PROSTATIC HYPERTROPHY, BENIGN (BPH)\n GASTROESOPHAGEAL REFLUX DISEASE (GERD)\n DEMENTIA (INCLUDING ALZHEIMER'S, MULTI INFARCT)\n DEPRESSION\n TACHYCARDIA, OTHER\n HIP FRACTURE (FEMORAL NECK FRACTURE, FEMUR)\n   Assessment And Plan: [**Age over 90 **] yo M s/p fall with left subtroch femur fx s/p\n   ORIF with TFN.\n   Neurologic: -- intubated and sedated with propofol gtt\n   -- pain control: tylenol ATC, morphine prn\n   -- depression/anxiety: cont citalopram, mirtazapine\n   -- Dementia with behavioural disturbances: cont quetiapine\n   Cardiovascular: -- on admission, trop 0.06 with negative CKMB. No EKG\n   changes from prior.\n   -- trops: 0.06 -> 0.08 (MB 11) --> f/u AM trop\n   -- hemodynamically stable\n   Pulmonary: -- intubated postop. Wean to extubation.\n   Gastrointestinal: -- NGT in place\n   -- abdominal distension on admission. Cont bowel regimen.\n   -- bowel regimen: bisacodyl prn, colace, milk of magnesia, senna,\n   polyethylene glycol\n   -- GERD: on PPI at home, currently on famotidine.\n   Renal: -- foley in place. Monitor UOP.\n   -- CKD: Unclear baseline. Cr 2.1 [**8-16**]. Current Cr 1.4\n   -- BPH: terazosin was on hold secondary to hypotension on admission\n   Hematology: -- s/p 2 units PRBCs [**2-28**], 1 unit PRBC [**3-1**]\n   -- anemia: cont iron supplement and B12\n   Infectious Disease: -- periop ABX: ancef x 3 doses\n   -- leukocytosis on admission now resolved\n   -- f/u UCx\n   Endocrine: -- RISS\n   Fluids: -- D5 1/2 NS + 20meq KCL @ 100cc/hr\n   Electrolytes: -- replete as needed\n   Nutrition: -- NGT in place\n   -- currently NPO\n   -- (when resumed diet: Nectar thick, Soft consistency)\n   General:\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2156-3-1**] 01:28 PM\n   Multi Lumen - [**2156-3-1**] 01:39 PM\n   Prophylaxis:\n   DVT: Boots(sc lovenox)\n   Stress ulcer: H2 blocker\n   VAP: HOB elevation, Mouth care, Daily wake up, RSBI\n   Need for restraints reviewed\n   Comments:\n   Communication: ICU consent signed Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 35 minutes\n   Patient is critically ill\n"
+    }
+  ]
+}

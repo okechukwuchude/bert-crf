@@ -1,0 +1,461 @@
+{
+  "hadm_id": 190480,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 25513,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 266,
+          "end": 280,
+          "code": "R10.32",
+          "code_system": "ICD-10-CM",
+          "description": "Left lower quadrant pain",
+          "type": "Human",
+          "covered_text": "abdominal pain"
+        },
+        {
+          "begin": 282,
+          "end": 290,
+          "code": "R11.10",
+          "code_system": "ICD-10-CM",
+          "description": "Vomiting, unspecified",
+          "type": "Human",
+          "covered_text": "vomiting"
+        },
+        {
+          "begin": 321,
+          "end": 332,
+          "code": "E86.0",
+          "code_system": "ICD-10-CM",
+          "description": "Dehydration",
+          "type": "Human",
+          "covered_text": "dehydration"
+        },
+        {
+          "begin": 442,
+          "end": 455,
+          "code": "F10.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol abuse, uncomplicated",
+          "type": "Human",
+          "covered_text": "alcohol abuse"
+        },
+        {
+          "begin": 457,
+          "end": 469,
+          "code": "K85.90",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pancreatitis without necrosis or infection, unspecified",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        },
+        {
+          "begin": 523,
+          "end": 541,
+          "code": "R10.32",
+          "code_system": "ICD-10-CM",
+          "description": "Left lower quadrant pain",
+          "type": "Human",
+          "covered_text": "LLQ\nabdominal pain"
+        },
+        {
+          "begin": 543,
+          "end": 551,
+          "code": "R11.10",
+          "code_system": "ICD-10-CM",
+          "description": "Vomiting, unspecified",
+          "type": "Human",
+          "covered_text": "vomiting"
+        },
+        {
+          "begin": 556,
+          "end": 582,
+          "code": "R63.30",
+          "code_system": "ICD-10-CM",
+          "description": "Feeding difficulties, unspecified",
+          "type": "Human",
+          "covered_text": "inability to tolerate PO's"
+        },
+        {
+          "begin": 637,
+          "end": 649,
+          "code": "K85.90",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pancreatitis without necrosis or infection, unspecified",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        },
+        {
+          "begin": 906,
+          "end": 921,
+          "code": "F10.239",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol dependence with withdrawal, unspecified",
+          "type": "Human",
+          "covered_text": "ETOH withdrawal"
+        },
+        {
+          "begin": 1318,
+          "end": 1329,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotensive"
+        },
+        {
+          "begin": 1630,
+          "end": 1642,
+          "code": "E11.649",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with hypoglycemia without coma",
+          "type": "Human",
+          "covered_text": "hypoglycemia"
+        },
+        {
+          "begin": 1891,
+          "end": 1903,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        },
+        {
+          "begin": 1906,
+          "end": 1920,
+          "code": "K70.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic hepatitis without ascites",
+          "type": "Human",
+          "covered_text": "EtOH hepatitis"
+        },
+        {
+          "begin": 1923,
+          "end": 1937,
+          "code": "K29.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic gastritis without bleeding",
+          "type": "Human",
+          "covered_text": "EtOH gastritis"
+        },
+        {
+          "begin": 1940,
+          "end": 1947,
+          "code": "F41.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anxiety disorder, unspecified",
+          "type": "Human",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 1950,
+          "end": 1960,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 1963,
+          "end": 1970,
+          "code": "F50.2",
+          "code_system": "ICD-10-CM",
+          "description": "Bulimia nervosa",
+          "type": "Human",
+          "covered_text": "Bulemia"
+        },
+        {
+          "begin": 6416,
+          "end": 6434,
+          "code": "F10.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol dependence, uncomplicated",
+          "type": "Human",
+          "covered_text": "alcohol dependence"
+        },
+        {
+          "begin": 6474,
+          "end": 6488,
+          "code": "R10.32",
+          "code_system": "ICD-10-CM",
+          "description": "Left lower quadrant pain",
+          "type": "Human",
+          "covered_text": "abdominal pain"
+        },
+        {
+          "begin": 6575,
+          "end": 6586,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 6626,
+          "end": 6634,
+          "code": "R11.10",
+          "code_system": "ICD-10-CM",
+          "description": "Vomiting, unspecified",
+          "type": "Human",
+          "covered_text": "vomiting"
+        },
+        {
+          "begin": 6744,
+          "end": 6755,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 6783,
+          "end": 6794,
+          "code": "E87.6",
+          "code_system": "ICD-10-CM",
+          "description": "Hypokalemia",
+          "type": "Human",
+          "covered_text": "hypovolemia"
+        },
+        {
+          "begin": 7077,
+          "end": 7097,
+          "code": "E87.2",
+          "code_system": "ICD-10-CM",
+          "description": "Acidosis",
+          "type": "Human",
+          "covered_text": "respiratory acidosis"
+        },
+        {
+          "begin": 7429,
+          "end": 7445,
+          "code": "R74.01",
+          "code_system": "ICD-10-CM",
+          "description": "Elevation of levels of liver transaminase levels",
+          "type": "Human",
+          "covered_text": "Elevated Lactate"
+        },
+        {
+          "begin": 7481,
+          "end": 7492,
+          "code": "E87.6",
+          "code_system": "ICD-10-CM",
+          "description": "Hypokalemia",
+          "type": "Human",
+          "covered_text": "hypovolemia"
+        },
+        {
+          "begin": 7615,
+          "end": 7687,
+          "code": "R94.31",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal electrocardiogram [ECG] [EKG]",
+          "type": "Human",
+          "covered_text": "ST depressions in anterolateral\nchest leads and inferolateral limb leads"
+        },
+        {
+          "begin": 7735,
+          "end": 7747,
+          "code": "E11.649",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with hypoglycemia without coma",
+          "type": "Human",
+          "covered_text": "hypoglycemia"
+        },
+        {
+          "begin": 7858,
+          "end": 7870,
+          "code": "E11.649",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with hypoglycemia without coma",
+          "type": "Human",
+          "covered_text": "Hypoglycemia"
+        },
+        {
+          "begin": 8101,
+          "end": 8113,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        },
+        {
+          "begin": 8118,
+          "end": 8127,
+          "code": "K70.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic hepatitis without ascites",
+          "type": "Human",
+          "covered_text": "hepatitis"
+        },
+        {
+          "begin": 8573,
+          "end": 8586,
+          "code": "F10.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol abuse, uncomplicated",
+          "type": "Human",
+          "covered_text": "alcohol abuse"
+        },
+        {
+          "begin": 8822,
+          "end": 8835,
+          "code": "F10.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol abuse, uncomplicated",
+          "type": "Human",
+          "covered_text": "alcohol abuse"
+        },
+        {
+          "begin": 9055,
+          "end": 9075,
+          "code": "R79.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified abnormal findings of blood chemistry",
+          "type": "Human",
+          "covered_text": "LFTs mildly elevated"
+        },
+        {
+          "begin": 9131,
+          "end": 9140,
+          "code": "K70.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic hepatitis without ascites",
+          "type": "Human",
+          "covered_text": "hepatitis"
+        },
+        {
+          "begin": 9303,
+          "end": 9314,
+          "code": "R68.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypothermia, not associated with low environmental temperature",
+          "type": "Human",
+          "covered_text": "Hypothermia"
+        },
+        {
+          "begin": 11355,
+          "end": 11367,
+          "code": "E11.649",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with hypoglycemia without coma",
+          "type": "Human",
+          "covered_text": "hypoglycemia"
+        },
+        {
+          "begin": 11369,
+          "end": 11380,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 11654,
+          "end": 11672,
+          "code": "R03.1",
+          "code_system": "ICD-10-CM",
+          "description": "Nonspecific low blood-pressure reading",
+          "type": "Human",
+          "covered_text": "low blood pressure"
+        },
+        {
+          "begin": 11677,
+          "end": 11692,
+          "code": "E16.2",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoglycemia, unspecified",
+          "type": "Human",
+          "covered_text": "low blood sugar"
+        }
+      ],
+      "text": "Admission Date:  [**2121-6-8**]              Discharge Date:   [**2121-6-10**]\n\nDate of Birth:  [**2090-10-22**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 12722**]\nChief Complaint:\nabdominal pain, vomiting - admitted to MICU for severe\ndehydration\n\n\nMajor Surgical or Invasive Procedure:\nnone\n\n\nHistory of Present Illness:\n30 year old woman with history of alcohol abuse, pancreatitis,\ndepression/anxiety who presents in with two days of LLQ\nabdominal pain, vomiting and inability to tolerate PO's. She\nreports that symptoms are similar to episodes of pancreatitis.\nPatient states she has been sober for 2 months and then relapsed\none week ago. States her last drink was 24 hours ago. Denies\nfevers, diarrhea, HA, CP, SOB, vaginal bleeding, vaginal\ndischarge. Lives alone.\n.\nOf note patient was recently hospitalized for ETOH withdrawal.\nDuring this admission, there was concern that she was not safe\nto go home given multiple admissions to the hospital related to\nETOH use. A section 35 as filed and patient was ultimately\nescorted by police to court, where she was determined to require\ninvoluntary admission for treatment of ETOH abuse.  Her 30 days\nof treatment ended 2 weeks ago.\n.\nAt the time of presentation to ED patient was hypotensive to BP\n83/69.  Documented initial vitals in ED were: T 98.1 HR 108 BP\n94/52 RR 12 O2 sat 98% RA. Labs were sigificant for EtOH of 366\nwith otherwise negative serum tox.  AST 73, ALT 30, lipse 26.\nBedside ultrasound of abdomen and heart showed no abnormalities.\n The patient was given 1 amp of D50 for hypoglycemia, 5 L NS for\nvolume repletion. She received zofran, Thiamine 100mg, folate,\nReglan, ativan 2mg Pantoprazole 40.\n.\nOn arrival to the MICU, patient is somnolent and unable to\nprovide meaningful history.\n\nPast Medical History:\n- EtOH dependence\n- EtOH pancreatitis\n- EtOH hepatitis\n- EtOH gastritis\n- Anxiety\n- Depression\n- Bulemia\n\n\nSocial History:\nSocial History Per OMR:\nPt reports that she has hx of bulemia. States that her mo was\nbulemic and that is something she has dealt with since\nchildhood. States she did not start drinking until she was 21.\nShe successfully completed undergraduate degree in biochemistry\nin [**Location (un) 11177**] State and was accepted to [**Hospital1 3278**] dental school.\nDrinking gradually became a problem and she identifies etoh\nbecoming a more significant problem during a difficult\nrelationship with a boyfiend after she moved to [**Location (un) 86**]. She\ndescribes bulemia as being less of a problem currently, although\nsomething she continues to deal with. Pt moved to [**Location (un) 86**] to go\nto dental school at [**Hospital1 3278**]. She actually walked in graduation in\n[**2116**] but has not finished her degree. She does not have plans to\nreturn to dental school. Pt cont to stay in Ma because she is\ncertified as a dental hygenist in the state. She feels that her\netoh abuse was related to her inability to complete dental\nschool.\n.\nPt has been to several detox facilities and 2 rehab programs in\nCA. Pt did feel that programs were helpful. She has a hx of\nbeing sober through AA and with support of her church.Pt denies\nshe has ever tried any illicit drugs. She currently lives alone.\n\n.\nPt is from CA. Her mother is a major support and continues to\nlive in CA. Pt is not close with father. Pt states that she\nstays in MA because it is one of the few states she is able to\npractice as a dental hygenist.\n\nFamily History:\nFamily History per OMR\nMaternal grandfather with alcoholism\nMaternal uncle with drug problem\nPaternal aunt with alcoholism\n\n\nPhysical Exam:\nADMISSION:\nVitals: T:96 BP: 95/76 P: 86 R: 18 O2: 100RA\nGeneral: Somnolent, arousable to voice, following commands, no\nacute distress\nHEENT: Sclera anicteric, dry MM, PERRL\nNeck: supple, JVP not elevated, no LAD\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nLungs: Clear to auscultation bilaterally anteriorly, no wheezes,\nrales, ronchi\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno organomegaly\nGU: foley with clear light yellow urine\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: following commands, moving all extremities\n.\nDISCHARGE:\nVitals: 97.5  100/84  80  18  100%RA\nGeneral: Alert, oriented, laying comfortably in bed\nHEENT: Sclera anicteric, PERRL, MMM, OP without lesions; cheeks\nprominent\nNeck: supple, JVP not elevated, no LAD\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nLungs: Clear to auscultation bilaterally anteriorly, no wheezes,\nrales, ronchi\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno organomegaly\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: following commands, moving all extremities\n\n\nPertinent Results:\nADMISSION\n[**2121-6-8**] 03:37AM BLOOD Glucose-31* UreaN-7 Creat-0.9 Na-147*\nK-3.7 Cl-96 HCO3-25 AnGap-30*\n[**2121-6-8**] 04:51AM BLOOD Glucose-186* UreaN-6 Creat-0.5 Na-144\nK-2.4* Cl-112* HCO3-16* AnGap-18\n[**2121-6-8**] 03:37AM BLOOD WBC-7.7# RBC-4.70 Hgb-15.3 Hct-45.8\nMCV-98 MCH-32.6* MCHC-33.4 RDW-13.3 Plt Ct-391\n.\nPERTINENT\n[**2121-6-8**] 03:37AM BLOOD Albumin-4.5 Calcium-8.9 Phos-4.4 Mg-1.9\n[**2121-6-8**] 03:37AM BLOOD ALT-30 AST-73* AlkPhos-70 TotBili-0.3\n[**2121-6-8**] 03:37AM BLOOD Lipase-26\n[**2121-6-8**] 03:37AM BLOOD ASA-NEG Ethanol-366* Acetmnp-NEG\nBnzodzp-NEG Barbitr-NEG Tricycl-NEG\n[**2121-6-8**] 04:14AM BLOOD Glucose-19* Lactate-6.3* Na-148* K-3.4\nCl-104\n[**2121-6-8**] 04:48AM BLOOD Lactate-4.8*\n[**2121-6-8**] 06:49AM BLOOD Lactate-5.5*\n[**2121-6-8**] 06:49AM BLOOD freeCa-0.86*\n[**2121-6-8**] 04:51AM BLOOD TSH-0.17*\n[**2121-6-8**] 12:43PM BLOOD Free T4-0.49*\n.\nDISCHARGE\n[**2121-6-10**] 07:30AM BLOOD WBC-4.9 RBC-4.26 Hgb-13.4 Hct-42.8\nMCV-101* MCH-31.4 MCHC-31.3 RDW-13.0 Plt Ct-229\n[**2121-6-10**] 07:30AM BLOOD PT-9.5 PTT-35.7 INR(PT)-0.9\n[**2121-6-10**] 07:30AM BLOOD Glucose-86 UreaN-2* Creat-0.6 Na-139\nK-4.1 Cl-102 HCO3-28 AnGap-13\n[**2121-6-10**] 07:30AM BLOOD ALT-20 AST-37 AlkPhos-61 TotBili-0.4\n[**2121-6-10**] 07:30AM BLOOD Albumin-3.6 Calcium-8.9 Phos-3.2 Mg-1.7\n.\nCXR\nNo acute cardiopulmonary process.\n.\nEKG: SR at 99, normal axis, possible [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 6192**], incomplete\nRBBB, ST depression V3-V4, lead 2, 3, aVF new compared to prior\nEKG.\n\n\nBrief Hospital Course:\n30 year old female with alcohol dependence admitted with alcohol\nintoxication and abdominal pain, requiring brief MICU course for\nhypotension.\n.\n# Hypotension: Patient presented with hypotension in the setting\nof decreased PO intake, vomiting and significant ETOH use. She\nreceived 6L of IV fluids in the ED prior to arrival to MICU with\nresolution of hypotension, supporting a diagnosis of\nhypovolemia.  No source of infection was identified and the\npatient maintained good urine output. Blood pressure remained at\nhome SBP of 90-110 for the remainder of admission, as the\npatient had improved PO intake.\n.\n# Acidemia: On admission, patient had combined AG acidosis, NAG\nacidosis and respiratory acidosis. AG acidosis likely lactate\n(admission lactate of 6.3)/ETOH ketosis (trace ketones on u/a),\nhyperchloremic NAG from NS volume resuscitation. Respiratory\ndepression likely related to hypoventilation in setting of\nbenzodiazepine administration while intoxicated with PCO2 of 44\non ABG. Patient's lactate and pH improved in MICU.\n.\n# Elevated Lactate:  Likely in setting of significant\nhypovolemia and EtOH consumption. Evidence of acidemia on ABG.\nImproved with volume resuscitation.\n.\n# EKG changes: Pt presented with ST depressions in anterolateral\nchest leads and inferolateral limb leads. Could represent\nchanges due to hypokalemia or hypoglycemia. Repeat EKG on HD #2\nshowed resolution of all ST depressions s/p correction of\nelectrolyte abnormalities.\n.\n# Hypoglycemia: Likely due to poor intake while drinking.\nPatient initially given D5 in ED and quickly normalized.\nSubsequent FS WNL.\n.\n# Alcohol Abuse: Patient with significant history of ETOH abuse\nwith evidence of end-organ damage, including pancreatitis and\nhepatitis. At the time of presentation, the patient was\nintoxicated with ETOH level of 366. Patient has had multiple\nhospitalizations related to ETOH abuse. The patient was started\non folate, thiamine, and a multivitamin on admission. She was\nmonitored on CIWA with PO diazepam, did not score on CIWA\n(likely because had only been drinking for max 6 days after 30\ndays of abstinence in rehab).  She was evaluated by social work\nand was recommended for an alcohol abuse partial day program to\nprevent relapse.  She will attend [**Hospital1 **] starting Wednesday,\n[**6-18**].  The patient was also resumed on home naltrexone\nprior to discharge.  She will follow up with her PCP on\ndischarge regarding her alcohol abuse.  Her behavioral health\ngroup coordinator was also notified of her admission and\ndischarge date to further plan support groups for the patient.\n\n.\n# Abdominal pain: Likely secondary to gastritis related to ETOH\nabuse.  LFTs mildly elevated, but consistent with her baseline\nas she has alcoholic hepatitis.  Lipase returned normal and\nabdominal exam remained clinically benign.  No evidence of bleed\nthroughout admission.  The patient was continued on omeprazole.\n.\n# Hypothermia: Pt hypothermic to 93 on admission, likely\nsecondary to wearing inadequate clothing in cold weather, poor\nnutritional state and receiving unwarmed IVF in ED. TSH was\nfound to be low (0.17), free T4 elevated.  The patient should\nfollow up with her PCP for repeat thyroid function studies.  She\nmay require thyroid suppression therapy.\n.\n# Depression/Anxiety: Followed as outpatient at [**Hospital1 778**] for dual\ndiagnosis, EtOH abuse and depression.  The patient's behavioral\nhealth coordinator was [**Hospital1 653**] regarding admission with\nplanned close follow-up.\n.\n# Bulimia/malnutrition: Patient reported it was not a current\nissue, but demonstrated binging and purging behavior with\nordering multiple meals and witnessed emesis in the MICU. The\npatient also has a poor nutritional status due to ETOH use.\nPatient was felt to be potentially at risk for refeeding. Her\nelectrolytes were monitored closely and repleted aggressively.\n=======================================\nTransitional Issues:\n- Patient scheduled an appointment with [**Hospital1 **] Outpatient\nServices in [**Location (un) 86**] on Wednesday, [**6-18**] at 10:30 AM. We have\nstrongly encouraged her to keep this appointment and call her\nPCP with any concerns.\n- The patient should undergo repeat check TSH/Free T4 on\ndischarge from the hospital, as she likely requires thyroid\nsuppression therapy\n\nMedications on Admission:\nPer recent d/c summary (not reconciled)\n1. FoLIC Acid 1 mg PO DAILY\n2. Thiamine 100 mg PO DAILY\n3. Multivitamins 1 TAB PO DAILY\n4. Omeprazole 40 mg PO DAILY\n\n\nDischarge Medications:\n1. Fluoxetine 40 mg PO DAILY\n2. naltrexone *NF* 50 mg Oral daily Reason for Ordering: Wish to\nmaintain preadmission medication while hospitalized, as there is\nno acceptable substitute drug product available on formulary.\nRX *naltrexone 50 mg daily Disp #*30 Tablet Refills:*0\n3. Omeprazole 40 mg PO DAILY\n4. Thiamine 100 mg PO DAILY\n5. FoLIC Acid 1 mg PO DAILY\n6. Multivitamins 1 TAB PO DAILY\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nAlcohol abuse, hypoglycemia, hypotension\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nMs. [**Known lastname 1887**],\n.\nYou were admitted to the hospital with alcohol relapse leading\nto low blood pressure and low blood sugar.  You were given IV\nfluids and your blood pressure improved.  You were able to\ntolerate foods without difficulty, and your blood sugar remained\nstable.  You did not show any signs of withdrawal.\n.\nFor prevention of further alcohol relapse, you were resumed on\nyour home naltrexone.  You should follow up with your primary\ncare physician for [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 63733**] injection as previously planned.\nYou should also follow up for your psychiatry intake as\npreviously scheduled.  You should follow up with [**First Name4 (NamePattern1) 698**] [**Last Name (NamePattern1) 15131**]\nfor coordination of your substance abuse care.  You were seen by\nsocial work and recommended for a partial day program. You were\ngiven this information and were strongly advised to call and\nhave this set up.\n.\nMEDICATIONS CHANGED THIS ADMISSION:\nSTART naltrexone 50 mg daily\n\nFollowup Instructions:\nDepartment: Primary Care\nName: Dr. [**First Name (STitle) **] [**Name (STitle) **]\nWhen: Thursday [**2121-6-12**] at 4:00 PM\nLocation: [**Hospital6 5242**] CENTER\nAddress: [**Location (un) 5243**], [**Location (un) **],[**Numeric Identifier 2260**]\nPhone: [**Telephone/Fax (1) 798**]\n\n\n                             [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] DO 12-BWD\n\n"
+    },
+    {
+      "note_id": 212447,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 6,
+          "end": 17,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 277,
+          "end": 284,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "TRACING"
+        }
+      ],
+      "text": "Sinus tachycardia.  Baseline artifact.  Prolonged Q-T interval.  Slight\nprecordial ST segment depression.  Compared to the previous tracing of [**2121-6-8**]\nRSR' pattern in leads V1 and V2 are absent, the Q-T interval is shorter, the\nST segment depression is less pronounced.\nTRACING #1\n\n\n"
+    },
+    {
+      "note_id": 212448,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 17,
+          "end": 28,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 299,
+          "end": 311,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "QTc interval"
+        }
+      ],
+      "text": "Borderline sinus tachycardia.  RSR' pattern in lead V1.  Prolonged\nQ-T interval, consider electrolyte or metabolic derangement.  Compared to the\nprevious tracing, Q-T interval is longer and ST segment/T wave morphology has\nchanged significantly.  Correct actual Q-T interval is 440 with a corrected\nQTc interval of 508.\n\n"
+    },
+    {
+      "note_id": 212446,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 6,
+          "end": 17,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "bradycardia"
+        },
+        {
+          "begin": 152,
+          "end": 159,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "TRACING"
+        }
+      ],
+      "text": "Sinus bradycardia.  Tall T waves.  Compared to tracing #1 of [**2121-6-8**],\nbradycardia and tall T waves are new.  ST segment depression has resolved.\nTRACING #2\n\n"
+    }
+  ]
+}

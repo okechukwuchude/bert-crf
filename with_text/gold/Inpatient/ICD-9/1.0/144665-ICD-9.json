@@ -1,0 +1,174 @@
+{
+  "hadm_id": 144665,
+  "comment": "ORIF- Missing OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 665200,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 40,
+          "end": 44,
+          "code": "E885.9",
+          "code_system": "ICD-9-CM",
+          "description": "Fall from other slipping, tripping, or stumbling",
+          "type": "Human",
+          "covered_text": "fall"
+        },
+        {
+          "begin": 75,
+          "end": 81,
+          "code": "820.21",
+          "code_system": "ICD-9-CM",
+          "description": "Fracture of intertrochanteric section of femur, closed",
+          "type": "MapType.APPROX",
+          "covered_text": "hip fx"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   [**Age over 90 **]F s/p fall with small L parietal SAH & R hip fx.\n   Chief complaint:\n   PMHx:\n   PMH: HTN, hyperchol, CAD s/p CABG, Afib, CHF, PVD s/p LE stents,\n   restless leg, TR/MR\n   [**Name13 (STitle) **] medications:\n   24 Hour Events:\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefazolin - [**2136-2-21**] 08:53 PM\n   Infusions:\n   Diltiazem - 5 mg/hour\n   Other ICU medications:\n   Hydromorphone (Dilaudid) - [**2136-2-22**] 09:06 AM\n   Metoprolol - [**2136-2-23**] 02:39 AM\n   Other medications:\n   Flowsheet Data as of  [**2136-2-23**] 05:57 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**38**] a.m.\n   Tmax: 37.1\nC (98.7\n   T current: 36.9\nC (98.4\n   HR: 95 (95 - 123) bpm\n   BP: 140/84(97) {84/41(54) - 140/84(97)} mmHg\n   RR: 17 (14 - 62) insp/min\n   SPO2: 99%\n   Heart rhythm: AF (Atrial Fibrillation)\n             Total In:\n                                                                  2,001 mL\n                                                                    659 mL\n   PO:\n                                                                    120 mL\n             Tube feeding:\n   IV Fluid:\n                                                                  1,881 mL\n                                                                    659 mL\n   Blood products:\n   Total out:\n                                                                    573 mL\n                                                                    125 mL\n   Urine:\n                                                                    573 mL\n                                                                    125 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  1,428 mL\n                                                                    534 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SPO2: 99%\n   ABG: ////\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Irregular)\n   Respiratory / Chest: (Breath Sounds: CTA bilateral : )\n   Abdominal: Soft, Non-distended, Non-tender\n   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   (Responds to: Verbal stimuli), Moves all extremities\n   Labs / Radiology\n   144 K/uL\n   9.4 g/dL\n   143 mg/dL\n   0.8 mg/dL\n   32 mEq/L\n   4.4 mEq/L\n   24 mg/dL\n   108 mEq/L\n   143 mEq/L\n   27.4 %\n   7.8 K/uL\n        [image002.jpg]\n                             [**2136-2-20**]  02:39 AM\n                             [**2136-2-20**]  07:56 PM\n                             [**2136-2-21**]  01:41 AM\n                             [**2136-2-21**]  09:22 AM\n                             [**2136-2-21**]  10:24 AM\n                             [**2136-2-21**]  06:20 PM\n                             [**2136-2-22**]  03:29 AM\n                             [**2136-2-23**]  01:16 AM\n   WBC\n   7.2\n   10.7\n   11.7\n   7.9\n   7.8\n   Hct\n   31.1\n   27.7\n   28.8\n   28.7\n   28.3\n   27.4\n   Plt\n   146\n   172\n    169\n   127\n   144\n   Creatinine\n   0.9\n   1.0\n   1.0\n   0.8\n   Troponin T\n   <0.01\n   0.14\n   0.26\n   0.23\n   Glucose\n   162\n   113\n   98\n   143\n   Other labs: PT / PTT / INR: 13.7/ 28.6/ 1.2, CK / CK-MB / Troponin\n   T:160/7/0.23, Ca:7.7 mg/dL, Mg:2.1 mg/dL, PO4:1.9 mg/dL\n   Assessment and Plan\n   PLAN:[**Age over 90 **] year old female s/p fall with hip fracture, small SAH\n   NEUO: Morphine/Diluadid prn. hold plavix x 1 week as per NS for SAH\n   (stable).\n   CVS: Pt with post operative Afib with rvr and rate demand ischemia\n   overnight. Echo shows good cardiac function. Pt weened off of diltiazem\n   drip and transitioned to 50 mg PO lopressor. C/s cardiology - NSTEMI\n   from demand, continue asa and restart plavix when appropriate.\n   PULM: IS, pulm toilet\n   GI: nectar liquid and ground soft\n   RENAL: restart lasix today as h/o home loop diuretic dependent.\n   HEME: f/u HCT, goal HCT 30 given extensive cardiac history and NSTEMI\n   ENDO: RISS, goal FS<150.\n   ID: No issues.\n   TLD: Foley, left subclavian CVL\n   IVF: 75 cc/hr NS\n   CONSULTS: Neurosurg, Trauma [**Doctor First Name **], Ortho\n   BILLING DIAGNOSIS: SAH\n   ICU CARE:\n   GLYCEMIC CONTROL: RISS\n   PROPHYLAXIS: famotidine, Lovenox\n   COMMUNICATIONS:\n   ICU Consent: in chart\n   CODE STATUS: full\n   DISPOSITION:  ICU\n   Lines:\n   20 Gauge - [**2136-2-21**] 05:44 PM\n   Multi Lumen - [**2136-2-22**] 03:00 AM\n   Total time spent: 35 min\n"
+    },
+    {
+      "note_id": 995,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 502,
+          "end": 505,
+          "code": "414.00",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of vessel, native or graft",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 533,
+          "end": 545,
+          "code": "428.22",
+          "code_system": "ICD-9-CM",
+          "description": "Systolic heart failure, chronic",
+          "type": "Human",
+          "covered_text": "Systolic CHF"
+        },
+        {
+          "begin": 573,
+          "end": 575,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "MapType.APPROX",
+          "covered_text": "AF"
+        },
+        {
+          "begin": 726,
+          "end": 729,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 731,
+          "end": 745,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "hyperlipidemia"
+        },
+        {
+          "begin": 747,
+          "end": 769,
+          "code": "333.94",
+          "code_system": "ICD-9-CM",
+          "description": "Restless legs syndrome (RLS)",
+          "type": "Human",
+          "covered_text": "Restless legs syndrome"
+        },
+        {
+          "begin": 771,
+          "end": 785,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 819,
+          "end": 822,
+          "code": "443.9",
+          "code_system": "ICD-9-CM",
+          "description": "Peripheral vascular disease, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "PVD"
+        },
+        {
+          "begin": 1540,
+          "end": 1560,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Hypercholesterolemia"
+        },
+        {
+          "begin": 1591,
+          "end": 1607,
+          "code": "719.7",
+          "code_system": "ICD-9-CM",
+          "description": "Difficulty in walking",
+          "type": "Human",
+          "covered_text": "Gait disturbance"
+        },
+        {
+          "begin": 1611,
+          "end": 1635,
+          "code": "852.01",
+          "code_system": "ICD-9-CM",
+          "description": "Subarachnoid hemorrhage following injury, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "Human",
+          "covered_text": "Subarachnoid hemorrhage."
+        },
+        {
+          "begin": 1639,
+          "end": 1651,
+          "code": "389.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hearing loss",
+          "type": "Human",
+          "covered_text": "Hearing loss"
+        },
+        {
+          "begin": 3444,
+          "end": 3452,
+          "code": "290.10",
+          "code_system": "ICD-9-CM",
+          "description": "Presenile dementia, uncomplicated",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "dementia"
+        }
+      ],
+      "text": "Admission Date:  [**2136-2-19**]              Discharge Date:   [**2136-2-24**]\n\n\nService: SURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 974**]\nChief Complaint:\nCC:[**CC Contact Info 6576**]\n\nMajor Surgical or Invasive Procedure:\n[**2-20**] ORIF of Rt Hip\n\n\nHistory of Present Illness:\nHPI:[**Age over 90 **]F s/p mechanical fall from standing, no LOC, no syncope.\nTransferred from OSH for small traumatic Lt occipital SAH and R\nhip fx\n\nPMx: CAD s/p CABG x3 in [**2112**], Systolic CHF, EF approx 30-40%,\nChronic AF, not on coumadin [**1-2**] fall w/SDH [**11/2134**]; Cardiac\nvalvular HD, moderate to severe MR [**First Name (Titles) **] [**Last Name (Titles) **], HTN, hyperlipidemia,\nRestless legs syndrome, Hypothyroidism, PVD - L RAS, treated\nmedically; PVD s/p b/l revascularization w/ acute occlusion of R\nLE s/p atherotomy w/stent [**2134**]\n\n[**Last Name (un) 1724**]:\nATENOLOL 50'', CLOPIDOGREL  75', LEVOTHYROXINE 62.5' (125 mcg\n[**12-2**] tab QD), LISINOPRIL 20'', SLN 0.3 PRN chest pain, KCl SR 10\nmEq 2 tabs'  ROPINIROLE 0.25' HS, SIMVASTATIN 10', TORSEMIDE -\n20 mg 2 tab qAM, 1 tab q PM PRN SOB; tylenol 500 1 tab TID PRN;\nARTIFICIAL TEARS 0.4 % Drops - 2 qtt [**Hospital1 **] PRN, ASA', CALCIUM\nCARBONATE 500', DOCUSATE SODIUM 100'', ERGOCALCIFEROL 400'',\nMULTIVITAMIN '\n\nSocial Hx:no EtOH, no tobacco\n\n\nPast Medical History:\n1. Congestive heart failure (As above)\n2. Hypertension.\n3. Hypothyroidism.\n4. Atrial fibrillation: Not on coumadin [**1-2**] fall risk\n5. Hypercholesterolemia\n6. Coronary artery disease\n7. Gait disturbance\n8. Subarachnoid hemorrhage.\n9. Hearing loss, which has gotten worse since the torsemide.\n\n\nSocial History:\nSocial history is significant for the absence of current tobacco\nuse. There is no history of alcohol abuse.\n\n\nFamily History:\nThere is no family history of premature coronary artery disease\nor sudden death.\n\nPhysical Exam:\nPE:\nVS: 97.7  64  160/98  12 100% RA\nHEENT PERRLA, EOMI, TMs clear, no evidence of facial trauma\nCV: Irregular, 2+ femoral pulses\nResp: eaqual bilateral breath sounds, no crepitus or contusion\nGI: Abd softt/NT/ND\nGU: No blood at ureteral meatus\nMusculoskeletal: RLE externally rotated and shortened, obvious\ndefomity, tender, sensation intact to light touch, good cap\nrefill\n\nPertinent Results:\n[**2136-2-24**] 01:11AM BLOOD WBC-9.4 RBC-2.98* Hgb-9.9* Hct-28.0*\nMCV-94 MCH-33.4* MCHC-35.5* RDW-15.0 Plt Ct-191\n0\n[**2136-2-24**] 01:11AM BLOOD Glucose-94 UreaN-25* Creat-0.8 Na-142\nK-3.2* Cl-100 HCO3-35* AnGap-10\n\n[**2136-2-21**] 01:41AM BLOOD CK-MB-8 cTropnT-0.14*\n[**2136-2-21**] 09:22AM BLOOD CK-MB-9 cTropnT-0.26*\n[**2136-2-21**] 06:20PM BLOOD CK-MB-7 cTropnT-0.23*\n\nBrief Hospital Course:\nThe patient was transferred from OSH to the [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1675**]\n[**Last Name (NamePattern1) **] Hospital, she was seen in the Trauma Bay by Trauma\nSurgery, Neurosurgery and Orthopedic Surgery were also\nconsulted.  Repeat CT demonstrated stable small SAH and plain\nfilms of the pelvis confirmed Rt hip fracture.  she was\ntransferred to the Trauma ICU in stable condition. The remainder\nof her discharge will be done by systems:\n\nNeuro: The patient had a repeat Head CT on [**2135-2-20**] which showed\nstable SAH. Neurosurgery recommended holding her plavix for 7\ndays, no need for seizure prophylaxis. She was AOx3 with some\nepisodes of confusion likely [**1-2**] dementia. Her neurological exam\nremained stable throughout the remainder of her hospital stay.\n\nCV: The patient has a h/o chronic Afib, post operatively she\nwent into AF w/ RVR with a rate in the 120s, she was hypotensive\nand required Neo for BP suppory  She was ruled out for MI, her\ntroponins were mildly elevated 0.26 maximally. She was started\non a Dilt gtt for rate controlHer Hct was 27 and she reecieved 1\nunit of PRBC. She has an ECHO which demonstrated EF > 55% w/\nmild LVH, Rt ventricular cavity dilated with normal free wall\ncontractility and moderate TR.  Cardiology was consulted and\nfelt that the troponin leak was likely [**1-2**] demand ischemia. They\nrecommended continuing on ASA, beta blockade, rate control, and\nstatin, restarting plavix when able. They did not recommend\nanticogulation given her fall risk.  The patient was weaned off\npressors, she was transitioned from Dilt gtt to a po regimen of\nDilt 45mg QID and Lopressor 75 TID with adequate rate control.\nShe is to restart her plavix on [**2136-2-25**]\n\nResp: The patient used incentive spirometer, and good pulmonary\ntoilette was give. She had nebulizer treatments as needed\n\nGI: The patient's diet was slowly advanced, she was seen by\nspeech and swallow [**1-2**] to some difficulty swalloing. She was\ncleared for a Soft (dysphagia); Thin liquid diet on discharge\n\nGU: The patient had some low UOP in the setting of her AF w/ RVR\nand hypovolemia. Her UOP improved and she was restarted on her\nhome regimen of Torsemide prior to discharge\n\nHeme: The patient was placed on Lovenox for DVT prophylaxis\n\nEndocrine: The patient continued on her home dose of\nLevothyroxine\n\nPrior to discharge the patient was doing well. She was\nneurologically intact. Her heart rate was irregular, her lungs\nwere CTAB, her abdomen was soft/NT/ND, Her Rt hip incision was\nclean dry and intact.  She was tolerating a disphagia diet\nwithout difficulty and her pain was well controlled. She was\ndischarged to extended care facility with plans for follow-up as\nfollows:\n\nPlease follow-up with Orthopedics Dr. [**Last Name (STitle) 1005**] [**Telephone/Fax (1) 1228**] in\n2weeks for a follow-up appointment\n\nPlease follow-up with Neurosurgery Dr. [**Last Name (STitle) 6577**]\n[**Telephone/Fax (1) 1669**] for a follow-up appt in 1 mos\n\nMedications on Admission:\nATENOLOL 50'', CLOPIDOGREL 75', LEVOTHYROXINE 62.5' (125 mcg [**12-2**]\ntab QD), LISINOPRIL 20'', SLN 0.3 PRN chest pain, KCl SR 10 mEq\n2 tabs' ROPINIROLE 0.25' HS, SIMVASTATIN 10', TORSEMIDE - 20 mg\n2 tab qAM, 1 tab q PM PRN SOB; tylenol 500 1 tab TID PRN;\nARTIFICIAL TEARS 0.4 % Drops - 2 qtt [**Hospital1 **] PRN, ASA', CALCIUM\nCARBONATE 500', DOCUSATE SODIUM 100'', ERGOCALCIFEROL 400'',\nMULTIVITAMIN '\n\nDischarge Medications:\n1. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H (every\n6 hours) as needed.\n2. Ropinirole 0.25 mg Tablet Sig: One (1) Tablet PO QPM (once a\nday (in the evening)).\n3. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)\nTablet, Chewable PO DAILY (Daily).\n4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n5. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n6. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n7. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,\nSublingual Sublingual PRN (as needed).\n8. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n10. Levothyroxine 125 mcg Tablet Sig: 0.5 Tablet PO DAILY\n(Daily).\n11. Insulin Regular Human 100 unit/mL Solution Sig: per sliding\nscale  Injection ASDIR (AS DIRECTED).\n12. Famotidine 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n13. Diltiazem HCl 30 mg Tablet Sig: 1.5 Tablets PO QID (4 times\na day).\n14. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO BID (2 times\na day).\n15. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ6H (every 6 hours) as needed for pain.\n16. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO TID (3\ntimes a day).\n17. Torsemide 20 mg Tablet Sig: One (1) Tablet PO QPM (once a\nday (in the evening)).\n18. Torsemide 20 mg Tablet Sig: Two (2) Tablet PO QAM (once a\nday (in the morning)).\n19. Hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO\nDAILY (Daily).\n20. Enoxaparin 30 mg/0.3 mL Syringe Sig: One (1) inj\nSubcutaneous Q24H (every 24 hours) for 4 weeks: 30mg SC Q24hrs\nfor 4 weeks.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 1107**] [**Hospital **] Hospital - [**Location (un) 38**]\n\nDischarge Diagnosis:\nMulti trauma: Lt occipital SAH, Rt intertrochanteric fracture\n\n\nDischarge Condition:\nStable\n\n\nDischarge Instructions:\nPlease do not drink alcohol or operate heavy machinery while\ntakig this medication\n\nYou  may weight bear as tolerated on your Rt leg\n\nPlease follow-up with your PCP regarding this admission, your\nmedications for your heart have been changed please be sure to\ndiscuss these changes with your PCP\n\nPlease restart your Plavix tomorrow [**2136-2-25**]\n\nFollowup Instructions:\nPlease follow-up with Orthopedics Dr. [**Last Name (STitle) 1005**] [**Telephone/Fax (1) 1228**] in\n2weeks for a follow-up appointment\n\nPlease follow-up with Neurosurgery Dr. [**Last Name (STitle) 6577**]\n[**Telephone/Fax (1) 1669**] for a follow-up appt in 1 mos\n\n\n\nCompleted by:[**2136-2-24**]"
+    },
+    {
+      "note_id": 664955,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 5630,
+          "end": 5641,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hypotension"
+        }
+      ],
+      "text": "TSICU\n   HPI:\n   [**Age over 90 **]F s/p fall with small L parietal SAH & R hip fx.\n   Chief complaint:\n   mutiple trauma, post operative hypotension\n   PMHx:\n   HTN, hyperchol, CAD s/p CABG, Afib, CHF, PVD s/p LE stents, restless\n   leg, TR/MR\n   [**Name13 (STitle) **] medications:\n   1. 2. 1000 mL LR 3. 20 mEq Potassium Chloride / 1000 mL D5 1/2 NS 4.\n   Acetaminophen 5. Aspirin 6. Atenolol\n   7. Calcium Carbonate 8. Calcium Gluconate 9. CefazoLIN 10. Diltiazem\n   11. Diltiazem 12. Docusate Sodium\n   13. Enoxaparin Sodium 14. Famotidine 15. Furosemide 16. Furosemide 17.\n   Furosemide 18. HYDROmorphone (Dilaudid)\n   19. Hydrochlorothiazide 20. Insulin 21. Levothyroxine Sodium 22.\n   Lisinopril 23. Magnesium Sulfate\n   24. Metoprolol Tartrate 25. Morphine Sulfate 26. Multivitamins 27.\n   Nitroglycerin SL 28. Ondansetron\n   29. Phenylephrine 30. Potassium Chloride 31. Potassium Phosphate 32.\n   Ropinirole 33. Simvastatin\n   34. Sodium Chloride 0.9% Flush 35. Vitamin D\n   24 Hour Events:\n   Patient went to OR for pinning of right hip. Post operatively patient\n   with low urine output, rapid afib, ? ekg changes. Started on esmolol\n   gtt, however could not control HR well, so switched to diltiazem.\n   Phenylephrine started for BP control. 1 unit of Prbcs administered,\n   followed by 20mg IV lasix.\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefazolin - [**2136-2-20**] 11:39 PM\n   Infusions:\n   Phenylephrine - 1.5 mcg/Kg/min\n   Diltiazem - 10 mg/hour\n   Other ICU medications:\n   Morphine Sulfate - [**2136-2-20**] 10:02 AM\n   Metoprolol - [**2136-2-20**] 10:37 PM\n   Diltiazem - [**2136-2-21**] 12:40 AM\n   Furosemide (Lasix) - [**2136-2-21**] 02:56 AM\n   Hydromorphone (Dilaudid) - [**2136-2-21**] 04:22 AM\n   Other medications:\n   Flowsheet Data as of  [**2136-2-21**] 06:20 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**38**] a.m.\n   Tmax: 37.3\nC (99.1\n   T current: 35.8\nC (96.5\n   HR: 70 (69 - 115) bpm\n   BP: 110/43(57) {65/41(46) - 149/80(96)} mmHg\n   RR: 16 (16 - 34) insp/min\n   SPO2: 99%\n   Heart rhythm: AF (Atrial Fibrillation)\n            Total In:\n                                                                  1,654 mL\n                                                                    656 mL\n   PO:\n                                                                     60 mL\n            Tube feeding:\n   IV Fluid:\n                                                                  1,488 mL\n                                                                    413 mL\n   Blood products:\n                                                                    107 mL\n                                                                    243 mL\n   Total out:\n                                                                    772 mL\n                                                                    305 mL\n   Urine:\n                                                                    722 mL\n                                                                    305 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    882 mL\n                                                                    351 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SPO2: 99%\n   ABG: /// 31/\n   Physical Examination\n   General Appearance: No acute distress, very thin\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular), (Distant heart sounds: Present)\n   Respiratory / Chest: (Breath Sounds: Diminished: @ bases)\n   Abdominal: Soft, Non-distended, Non-tender\n   Left Extremities: (Edema: Absent)\n   Right Extremities: (Edema: Absent)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 3, x 2), Follows simple\n   commands, (Responds to: Verbal stimuli), Moves all extremities\n   Labs / Radiology\n    169\n   10.2\n   98\n   1.0\n    31\n    4.8\n   31\n   109\n   146\n   28.8\n   11.7\n        [image002.jpg]\n                             [**2136-2-20**]  02:39 AM\n                             [**2136-2-20**]  07:56 PM\n                             [**2136-2-21**]  01:41 AM\n   WBC\n   7.2\n   10.7\n   11.7\n   Hct\n   31.1\n   27.7\n   28.8\n   Plt\n   146\n   172\n    169\n   Creatinine\n   0.9\n   1.0\n   1.0\n   Troponin T\n   <0.01\n   0.14\n   Glucose\n   162\n   113\n   98\n   Other labs: PT / PTT / INR: 13.7/ 28.6/ 1.2, CK / CK-MB / Troponin\n   T:146/8/0.14, Ca:7.6, Mg:2.1, PO4:3.2\n   Assessment and Plan\n   ATRIAL FIBRILLATION (AFIB), HYPOTENSION (NOT SHOCK), IMPAIRED SKIN\n   INTEGRITY, SUBARACHNOID HEMORRHAGE (SAH), HIP FRACTURE (FEMORAL NECK\n   FRACTURE, FEMUR)\n   Assessment and Plan: [**Age over 90 **] year old female s/p fall with hip fracture,\n   small SAH\n   NEUO: Morphine/Diluadid prn. hold plavix x 1 week as per NS for SAH\n   (stable).\n   CVS: afib.? rate demand ischemia overnight.  Diltiazem gtt (wean as\n   tolerated/change to po if tolerated) for rate control. Wean\n   phenylephrine as tolerated. Home meds as tolerated. continue to cycle\n   cardiac enzymes.  Lasix dependent. Would get TTE today.\n   PULM: IS post operatively\n   RENAL: on lasix as h/o home loop diuretic dependant.\n   HEME: transfused 1 unit prbcs very slowly, follow HCT, goal HCT 30\n   given ectensive cardiac history\n   ENDO: RISS, goal FS<150.\n   ID: No issues.\n   Lines / Tubes / Drains: Foley\n   Wounds: Dry dressings\n   Imaging:\n   Fluids: D5 1/2 NS, Potassium Chloride\n   Consults: Trauma surgery, Ortho\n   Billing Diagnosis: Arrhythmia, Post-op hypotension, Multiple injuries\n   (Trauma)\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   18 Gauge - [**2136-2-19**] 10:23 PM\n   16 Gauge - [**2136-2-20**] 10:25 PM\n   Prophylaxis:\n   DVT: LMW Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication: ICU consent signed Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 32 minutes\n"
+    }
+  ]
+}

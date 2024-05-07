@@ -1,0 +1,139 @@
+{
+  "hadm_id": 140236,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 58544,
+      "category": "Discharge summary",
+      "description": "Addendum",
+      "annotations": [
+        {
+          "begin": 1267,
+          "end": 1294,
+          "code": "997.1",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac complications, not elsewhere classified",
+          "type": "MapType.MULTI",
+          "covered_text": "post-op atrial\nfibrillation"
+        }
+      ],
+      "text": "Name:  [**Known lastname 1395**],[**Known firstname 9312**]                  Unit No:   [**Numeric Identifier 14493**]\n\nAdmission Date:  [**2185-1-5**]              Discharge Date:   [**2185-1-13**]\n\nDate of Birth:  [**2110-2-13**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 265**]\nAddendum:\non [**1-11**] the patient had a CXR that showed: Continued enlargement\nof\nthe cardiac silhouette with bilateral pleural effusions, more\nprominent on the right, and underlying compressive atelectasis.\nThere is persistent mild engorgement of the pulmonary vessels.\nThese changes are consistant with post-operative volume\noverload.\nShe was also noted to have several episodes of post-op atrial\nfibrillation which could cause some degree of congestive heart\nfailure- and pulmonary engorgement\n\nPertinent Results:\non [**1-11**] the patient had a CXR that showed: Continued enlargement\nof\nthe cardiac silhouette with bilateral pleural effusions, more\nprominent on the right, and underlying compressive atelectasis.\nThere is persistent mild engorgement of the pulmonary vessels.\nThese changes are consistant with post-operative volume\noverload.\nShe was also noted to have several episodes of post-op atrial\nfibrillation which could cause some degree of congestive heart\nfailure- and pulmonary engorgement\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital 14494**] nursing and rehab\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 266**]\n\nCompleted by:[**2185-3-4**]"
+    },
+    {
+      "note_id": 42581,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 388,
+          "end": 444,
+          "code": "36.15",
+          "code_system": "ICD-9-PCS",
+          "description": "Single internal mammary-coronary artery bypass",
+          "type": "MapType.APPROX",
+          "covered_text": "left internal mammary artery to left anterior descending"
+        },
+        {
+          "begin": 450,
+          "end": 529,
+          "code": "36.13",
+          "code_system": "ICD-9-PCS",
+          "description": "(Aorto)coronary bypass of three coronary arteries",
+          "type": "Human",
+          "covered_text": "saphenous vein grafts to first obtuse marginal, second obtuse\nmarginal and PDA."
+        },
+        {
+          "begin": 843,
+          "end": 866,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "coronary artery disease"
+        },
+        {
+          "begin": 1050,
+          "end": 1072,
+          "code": "433.10",
+          "code_system": "ICD-9-CM",
+          "description": "Occlusion and stenosis of carotid artery, without mention of cerebral infarction",
+          "type": "Human",
+          "covered_text": "Carotid artery disease"
+        },
+        {
+          "begin": 1073,
+          "end": 1085,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1116,
+          "end": 1130,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 1151,
+          "end": 1178,
+          "code": "443.9",
+          "code_system": "ICD-9-CM",
+          "description": "Peripheral vascular disease, unspecified",
+          "type": "Human",
+          "covered_text": "Peripheral vascular disease"
+        },
+        {
+          "begin": 1179,
+          "end": 1193,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 1408,
+          "end": 1417,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "cigarette"
+        },
+        {
+          "begin": 6848,
+          "end": 6867,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial\nFibrillation"
+        },
+        {
+          "begin": 7418,
+          "end": 7430,
+          "code": "V58.66",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of aspirin",
+          "type": "MapType.EXACT",
+          "covered_text": "ASA 81 daily"
+        },
+        {
+          "begin": 9335,
+          "end": 9347,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        }
+      ],
+      "text": "Admission Date:  [**2185-1-5**]              Discharge Date:   [**2185-1-13**]\n\nDate of Birth:  [**2110-2-13**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 165**]\nChief Complaint:\nChest pain\n\nMajor Surgical or Invasive Procedure:\n[**2185-1-6**] Four Vessel Coronary artery bypass grafting utilizing\nleft internal mammary artery to left anterior descending with\nsaphenous vein grafts to first obtuse marginal, second obtuse\nmarginal and PDA.\n\n\nHistory of Present Illness:\nThis is a 74 year old female who presented to [**Hospital3 **]\nwith exertional chest pain with radiation to both arms since\nsummer. Patient denied rest pain and stated that her chest pain\nwas relieved by rest. She underwent cardiac catheterization\nwhich revealed severe three vessel coronary artery disease\nincluding a 95% left main lesion with normal left ventricular\nfunction. She was urgently transferred to the [**Hospital1 18**] for surgical\nrevascularization.\n\n\nPast Medical History:\nCarotid artery disease\nHypertension\nHistory of abnormal mammogram\nHyperlipidemia\nStress incontinence\nPeripheral vascular disease\nHypothyroidism\nAsthamtic bronchitis\ns/p cholecystectomy\ns/p hysterectomy-tubal pregnancy\ns/p aorto-bifem [**1-/2183**]\n\n\nSocial History:\nWidowed, lives alone.\nOccupation: Retired from Lucent\nCigarettes: Smoked no [] yes [x] last cigarette [**2162**]\nETOH: denies\nIllicit drug use: denies\n\n\nFamily History:\nDenies premature coronary artery disease\n\nPhysical Exam:\nAdmission Exam:\nT 98.1 Pulse: 68 bpm   Resp:  O2 sat:\nB/P  Right: 140/70    Left:\nHeight:  61 inches    Weight: 153 lbs\n\nGeneral: well nourished/ NAD\nSkin: Dry [x] intact [x] Well healed aorta bifem incision\nHEENT: PERRLA [x] EOMI [x] MMM, normal oropharynx\nNeck:  Supple [x] Full ROM [x] no JVD\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  No M/R/G\nAbdomen: Soft [x] non-distended [x] non-tender [x]  +BS [x]\nExtremities: Warm [x], NO CCE\nVaricosities: None [x]\nNeuro: Grossly intact [x]\nPulses:\nFemoral      Right: 1+  Left: 1+\nDP           Right: dopplerable  Left: dopplerable\nPT           [**Name (NI) 167**]:dopplerable    Left: dopplerable\nRadial       Right: 2+  Left: 2+\nCarotid Bruit        Right: 1+ w/bruit   Left: 1+\n\nDischarge:\n98.6   57   126/68   18  96%-RA\nGen   NAD\nNeuro A&O x3\nCV    RRR, no murmur. Sternum stable, incision CDI\nPulm  CTA-bilat\nAbdm  soft, NT/ND/+BS\nExt   warm, well perfused 2+ pedal edema bilat\n\nPertinent Results:\nAdmit Labs:\n[**2185-1-5**] 07:58PM BLOOD WBC-7.0 RBC-4.18* Hgb-12.6 Hct-35.7*\nMCV-85 MCH-30.2 MCHC-35.4* RDW-13.2 Plt Ct-298\n[**2185-1-5**] 07:58PM BLOOD PT-10.6 PTT-150* INR(PT)-1.0\n[**2185-1-5**] 07:58PM BLOOD Glucose-102* UreaN-8 Creat-1.7* Na-134\nK-4.2 Cl-100 HCO3-26 AnGap-12\n[**2185-1-5**] 07:58PM BLOOD ALT-15 AST-6 CK(CPK)-102 AlkPhos-54\nAmylase-19 TotBili-0.4\n[**2185-1-5**] 07:58PM BLOOD CK-MB-2.7 cTropnT-0.01\n.\nDischarge Labs:\n[**2185-1-12**] 04:55AM BLOOD Hct-34.1*\n[**2185-1-11**] 05:15AM BLOOD WBC-5.8 RBC-3.63* Hgb-10.9* Hct-32.2*\nMCV-89 MCH-30.1 MCHC-33.9 RDW-14.3 Plt Ct-231#\n[**2185-1-9**] 06:20AM BLOOD WBC-8.2 RBC-3.64* Hgb-10.6* Hct-31.5*\nMCV-87 MCH-29.2 MCHC-33.7 RDW-14.1 Plt Ct-143*\n[**2185-1-12**] 11:10AM BLOOD PT-PND PTT-PND INR(PT)-PND\n[**2185-1-11**] 05:15AM BLOOD PT-16.7* INR(PT)-1.6*\n[**2185-1-10**] 05:10AM BLOOD PT-13.2* INR(PT)-1.2*\n[**2185-1-7**] 12:31AM BLOOD PT-12.6* PTT-28.4 INR(PT)-1.2*\n[**2185-1-12**] 04:55AM BLOOD Glucose-84 UreaN-28* Creat-1.4* Na-138\nK-4.3 Cl-102 HCO3-24 AnGap-16\n[**2185-1-10**] 05:10AM BLOOD UreaN-33* Creat-1.5* Na-134 K-4.5 Cl-104\n[**2185-1-9**] 06:20AM BLOOD Glucose-93 UreaN-19 Creat-1.3* Na-136\nK-3.9 Cl-100 HCO3-28 AnGap-12\n[**2185-1-8**] 02:01AM BLOOD Glucose-114* UreaN-17 Creat-1.3* Na-136\nK-4.1 Cl-103 HCO3-27 AnGap-10\n[**2185-1-7**] 12:31AM BLOOD Glucose-93 UreaN-18 Creat-1.4* Na-139\nK-4.3 Cl-108 HCO3-28 AnGap-7*\n.\n[**2185-1-11**] Chest x-ray PA and Lat:\nIn comparison with the study of [**1-8**], allowing for the PA versus\nAP projection, there is probably little overall change.\nContinued enlargement of the cardiac silhouette with bilateral\npleural effusions, more prominent on the right, and underlying\ncompressive atelectasis. There is persistent mild engorgement of\nthe pulmonary vessels.\n.\n[**2185-1-6**] Intraop TEE:\nPRE-CPB:\nThe left atrium is moderately dilated. No thrombus is seen in\nthe left atrial appendage. No atrial septal defect is seen by 2D\nor color Doppler.\nLeft ventricular wall thicknesses are normal. The left\nventricular cavity size is normal. Overall left ventricular\nsystolic function is normal (LVEF>55%). Hypokinesis is noted in\nthe mid inferior and inferoseptal walls. Right ventricular\nchamber size and free wall motion are normal.\nThere are complex (>4mm) atheroma in the aortic arch. There are\ncomplex (>4mm) atheroma in the descending thoracic aorta.\nThe aortic valve leaflets (3) appear structurally normal with\ngood leaflet excursion and no aortic stenosis. No aortic\nregurgitation is seen.\nThe mitral valve leaflets are mildly thickened. Mild to moderate\n([**11-29**]+) mitral regurgitation is seen.\nDr.[**Last Name (STitle) **] was notified in person of the results at time\nof study.\nPOST-CPB:\nThe patient is on a phenylephrine infusion. The mid inferior and\ninferoseptal segments appear severely hypokinetic bordering on\nakinetic, which is worse than pre-bypass. Other wall segments\nare contracting well. Overall estimated systolic EF=50%. The\nright ventricular systolic function is preserved.\nValve function remains unchanged. There is no evidence of\ndissection.\n\nBrief Hospital Course:\nMrs. [**Known lastname 19122**] was admitted and underwent routine preoperative\nevaluation. She remained pain free on medical therapy and was\ncleared for surgery. On [**1-6**], Dr. [**First Name (STitle) **] performed\ncoronary artery bypass grafting surgery. For surgical details,\nplease see operative note. In summary she had:\n1. Urgent coronary artery bypass graft x4 left internal mammary\nartery to left anterior descending artery and saphenous vein\ngrafts to obtuse marginal 1 and 2\n    posterior descending artery.\n2. Endoscopic harvesting of the long saphenous vein.\nCardiopulmonary bypass time was 89 minutes with a crossclamp\ntime of 80 minutes. She tolerated the operation well and\nfollowing the operation, she was brought to the CVICU for\ninvasive monitoring. In the immediate post-op period she\nremained hemodynamically stable, woke neurologically intact and\nextubated later that day. She continued to be hemodynamically\nstable throughout POD1 and transferred to the floor on POD2 for\nfurther recovery and post operative care. Chest tubes and pacing\nwires removed per cardiac surgery protocol. the patient started\non Bblockers and was gently diuresed toward her preop weight. On\nthe stepdown floor she was noted to have bursts of Atrial\nFibrillation and was started on amiodarone and coumadin for\nanticoagulation, following which she converted to sinus rhythm.\nThe remainder of her hospital course was largely uneventful. She\nworked with nursing and physical therapy, however progress was\nslow and she was cleared for discharge to Nevins Nursing and\nRehab in [**Location (un) 7661**] on POD #7. Target INR 2.0-2.5 for A Fib. First\nblood draw tomorrow [**1-14**]. All f/u appts advised.\nShe is to follow up with Dr [**First Name (STitle) **] in 1 month.\n\nMedications on Admission:\nDitropan XL 5 daily\nASA 81 daily\nCartia XL 240 daily\nFosamax 35 qwk\nLevothyroxine 50 mcg daily\nLosartan 50 daily\nPravachol 80 daily\nNTG 0.4 sl/prn\n\nDischarge Medications:\n1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily). Tablet, Delayed\nRelease (E.C.)(s)\n2. pravastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.\n3. levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day) for 1 months.\n5. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily) for 2 weeks.\n6. amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day.\n7. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day): hold hr<50 and/or sbp<100  .\n8. tramadol 50 mg Tablet Sig: One (1) Tablet PO every 6-8 hours\nas needed for pain.\n9. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every [**3-4**]\nhours as needed for pain.\n10. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.\n11. warfarin 1 mg Tablet Sig: daily dosing per rehab provider;\ntarget INR 2.0-2.5 for A Fib Tablets PO DAILY (Daily): dose\ntoday [**1-13**] only is 0.5 mg; all further dosing per rehab\nprovider.\n12. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:\nOne (1) Tablet, ER Particles/Crystals PO once a day for 2 weeks:\nwhile on lasix; hold for K+ > 4.5.\n13. Ditropan XL 5 mg Tablet Extended Rel 24 hr Sig: One (1)\nTablet Extended Rel 24 hr PO once a day.\n14. potassium chloride 10 mEq Tablet Extended Release Sig: Two\n(2) Tablet Extended Release PO once a day.\n15. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nevery other day.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital **] nursing and rehab\n\nDischarge Diagnosis:\nCoronary artery disease, s/p CABG\nPostop Atrial Fibrillation\nPeripheral Vascular Disease, prior aorto-bifem in [**2183-1-27**]\nCarotid Disease\nHypertension\nDyslipidemia\nHypothyroidism\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with Tramadol and Tylenol\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Right/Left - healing well, no erythema or drainage.\nEdema 2+ bilat\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for one month or while taking narcotics., Driving\nwill be discussed at follow up appointment with surgeon.\nNo lifting more than 10 pounds for 10 weeks\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] on [**2185-2-8**] at 1:00p\nCardiologist: Dr [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**2185-2-2**] at 2:45p\nWound check @ [**Hospital Unit Name **], [**Hospital Unit Name **] on [**2185-1-20**] at 10:00a\n\nPlease call to schedule appointments with your\nPrimary Care Dr. [**Last Name (STitle) **],MIROSLAWA [**Telephone/Fax (1) 34574**] in [**3-3**] weeks\n.\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n.\nLabs: PT/INR for Coumadin ?????? indication atrial fibrillation\nGoal INR: 2.0 to 2.5\nFirst draw: [**2185-1-14**]\nPlease arrange followup with PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) 63252**] prior to discharge\nfrom rehab. Office # [**Telephone/Fax (1) 34574**].\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]\n\nCompleted by:[**2185-1-13**]"
+    }
+  ]
+}

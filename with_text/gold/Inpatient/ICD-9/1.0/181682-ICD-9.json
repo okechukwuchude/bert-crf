@@ -1,0 +1,182 @@
+{
+  "hadm_id": 181682,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 692515,
+      "category": "Case Management",
+      "description": "Initial Assessment & Discharge Plan",
+      "annotations": [
+        {
+          "begin": 105,
+          "end": 109,
+          "code": "303.90",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified alcohol dependence, unspecified drinking behavior",
+          "type": "Human",
+          "covered_text": "EtOH"
+        },
+        {
+          "begin": 217,
+          "end": 223,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "anemia"
+        }
+      ],
+      "text": "Case Management Initial Assessment and Discharge Planning\n   The patient is a 28 year-old man with a h/o EtOH abuse, necrotizing\n   pancreatitis, anoxic brain injury, and seizures, who presents from the\n   LTACH with anemia, fevers, and hypotension, concerning for an acute\n   bleed.  The patient was then found to have bilateral thigh hematomas\n   that are likely the cause of his drop in hematocrit.\n   This nurse case manager was contact[**Name (NI) **] by the MICU resident and informed\n   that the patient would likely be ready to return to [**Hospital1 25**] today so a\n   call was placed to the facility to have their liaison nurse complete a\n   screen and seek payer authorization for the patient\ns return.\n   This NCM also met with the patient\ns mother in the [**Name (NI) 8319**], and she\n   indicated that the family may not want the patient to return to\n   [**Hospital1 25**], but she will defer to the judgment of her son [**Name (NI) **].  [**Name2 (NI) **]\n   should be in to visit the patient later today and this NCM will speak\n   to him at that time.  In anticipation of the possibility that the\n   family does not want the patient to return to [**Hospital1 25**], a referral has\n   been made to [**Hospital6 6804**] as the family had previously\n   considered the facility and ended up choosing [**Hospital1 25**] instead.\n   This NCM will continue to follow closely with the MICU team to\n   facilitate the patient\ns transfer to LTACH when indicated.\n   Please page for any questions, concerns or change in the discharge\n   plan.\n   [**First Name11 (Name Pattern1) 596**] [**Last Name (NamePattern4) 5890**], RN, BSN\n   MICU Service Case Manager\n   Phone:  2-7925/7-0306\n   Pager:  [**Numeric Identifier **]\n"
+    },
+    {
+      "note_id": 36231,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1423,
+          "end": 1436,
+          "code": "275.42",
+          "code_system": "ICD-9-CM",
+          "description": "Hypercalcemia",
+          "type": "MapType.EXACT",
+          "covered_text": "hypercalcemia"
+        },
+        {
+          "begin": 1438,
+          "end": 1450,
+          "code": "276.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hyposmolality and/or hyponatremia",
+          "type": "MapType.EXACT",
+          "covered_text": "hyponatremia"
+        },
+        {
+          "begin": 2991,
+          "end": 3001,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 3045,
+          "end": 3057,
+          "code": "V44.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tracheostomy status",
+          "type": "Human",
+          "covered_text": "Tracheostomy"
+        },
+        {
+          "begin": 7731,
+          "end": 7753,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "acute bleed.\n\n# Anemia"
+        },
+        {
+          "begin": 8284,
+          "end": 8295,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 9229,
+          "end": 9242,
+          "code": "790.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other abnormal glucose",
+          "type": "MapType.APPROX",
+          "covered_text": "Hyperglycemia"
+        },
+        {
+          "begin": 9318,
+          "end": 9332,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 12456,
+          "end": 12480,
+          "code": "729.92",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "Posterior thigh hematoma"
+        },
+        {
+          "begin": 12533,
+          "end": 12542,
+          "code": "112.2",
+          "code_system": "ICD-9-CM",
+          "description": "Candidiasis of other urogenital sites",
+          "type": "Human",
+          "covered_text": "infection"
+        },
+        {
+          "begin": 12563,
+          "end": 12574,
+          "code": "518.83",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic respiratory failure",
+          "type": "Human",
+          "covered_text": "respiratory"
+        },
+        {
+          "begin": 12583,
+          "end": 12590,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "Human",
+          "covered_text": "Seizure"
+        }
+      ],
+      "text": "Admission Date:  [**2131-8-17**]              Discharge Date:   [**2131-8-22**]\n\nDate of Birth:  [**2103-3-21**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nMeropenem\n\nAttending:[**First Name3 (LF) 5608**]\nChief Complaint:\nHypotension and anemia\n\nMajor Surgical or Invasive Procedure:\nNone\n\n\nHistory of Present Illness:\nThe patient is a 28 yo man with h/o EtOH abuse who presented in\n[**5-12**] with hematemesis, necrotizing pancreatitis, and acute\nhepatitis.  His hospital course was complicated by sepsis,\nrespiratory failure s/p trach, recurrent fevers, [**Last Name (un) **] secondary\nto ATN requiring CVVH, seizures, a/p trach and PEG, and PEA\narrest.  He had cyclic fevers and tachycardia throughout the\nadmission, necessitating multiple antibiotic regimens,eventually\nthought to be secondary to a central neurologic process.  He was\nfound to have an SVC thrombus and was started on Lovenox 100 mg\n[**Hospital1 **].  He was discharged to [**Hospital6 **] on [**2131-7-5**].\n.\nAt [**Hospital1 **], the patient was found to have frequent seizure\nactivity and was thus transferred back to [**Hospital1 18**] on [**2131-7-9**].\nDuring this hospital stay, the patient's anti-epileptic regimen\nwas fine-tuned, and he continued to spike cyclic fevers.  He\ngrew multiple different colonies of Pseudomonas and was started\non Ceftaz and Tobramycin, which was continued until [**2131-8-14**].  He\nwas also found to have hypercalcemia, hyponatremia, and\nhypothyroidism during this admission, which were treated with\nVitamin D, fluid restriction, and levothyroxine, respectively.\nHe was then discharged on [**8-12**] back to [**Hospital1 **].\n.\nAt [**Hospital1 **], the patient again developed recurrent fevers over\nthe past three days with a rising leukocytosis and he was placed\nback on Tobramycin on [**8-16**].  He had multiple blood cultures this\nweek at rehab which were negative for infection.  He was also\nfound to have a Hct drop from 27 to 16 without an obvious source\nfor bleed.  He was given 2 U PRBCs and his Hct only increased to\n19.4.  Hemolysis labs were negative.  He developed transient\nhypotension while at [**Hospital1 **] to SBP of 80s this morning, which\nresponded to IVFs.  Per [**Hospital1 **], the patient also endorsed RUQ\npain on physical exam.  Given the concern for potential\nretroperitoneal bleed, he was transferred to [**Hospital1 18**] for further\nevaluation.\n.\nOn arrival to the ICU, the patient's VS were T 100.9, P 134, BP\n92/69, R 40.  He was given 2 [**Location **] and 500 cc fluid bolus\nand was ordered for a stat abdominal CT.  The patient's history\nwas obtained from his father who was present on admission.\n.\nReview of sytems:\n(+) Per HPI\n(-) Denies night sweats, recent weight loss or gain. Denies\nheadache, sinus tenderness, rhinorrhea or congestion. Denied\ncough, shortness of breath. Denied chest pain or tightness,\npalpitations. No recent change in bowel or bladder habits. No\ndysuria. Denied arthralgias or myalgias.\n\n\nPast Medical History:\nDepression\nAlcoholism\nPancreatitis\ns/p Cardiac Arrest\nTracheostomy\nAnoxic brain injury\n\nSocial History:\nPatient originally from Western Mass. Works for a IT computing\ncompany. Not married and without children, lives with a roomate\nin [**Last Name (un) 813**]. Significant alcohol use for 5-6 years, drinking 6\nmixed drinks daily with withdrawl symptoms. 1.5 ppd of\ncigarrettes, denies drug use.\n\n\nFamily History:\nMother with DM2.\n\n\nPhysical Exam:\nVitals: T 100.9, P 134, BP 92/69, R 40\nGeneral: Young man, tracking with eyes and responding to simple\ncommands, in NAD.\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD,  trach in place\nLungs: Clear to auscultation anteriorly.  Frequent use of\naccessory muscles.\nCV: Soft S1 and S2.  Tachycardic.  No murmurs, rubs, gallops\nappreciated\nAbdomen:  Soft, non-distended, bowel sounds present.  Likely\npain on palpation given patient's facial response.  No guarding\nor rebound tenderness\nExt: Multiple hypopigmented lesions on legs bilaterally.  2+\npulses, no clubbing, cyanosis or edema\n\nPertinent Results:\nADMISSION LABS:\n[**2131-8-17**] 09:50PM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) 155**]-1.017\n[**2131-8-17**] 09:50PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-30\nGLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0\nLEUK-MOD\n[**2131-8-17**] 09:50PM URINE  RBC-0-2 WBC-[**6-13**]* BACTERIA-MOD\nYEAST-MANY EPI-0-2\n[**2131-8-17**] 09:03PM   LACTATE-2.4*\n[**2131-8-17**] 08:50PM   GLUCOSE-307* UREA N-31* CREAT-0.9 SODIUM-135\nPOTASSIUM-4.9 CHLORIDE-106 TOTAL CO2-17* ANION GAP-17\n[**2131-8-17**] 08:50PM   estGFR-Using this\n[**2131-8-17**] 08:50PM   NEUTS-68 BANDS-4 LYMPHS-15* MONOS-10 EOS-1\nBASOS-0 ATYPS-0 METAS-2* MYELOS-0\n[**2131-8-17**] 08:50PM   PLT COUNT-668*\n[**2131-8-17**] 08:50PM   PT-13.5* PTT-28.5 INR(PT)-1.2*\n[**2131-8-17**] 08:50PM   RET AUT-2.7\n\nPERTINENT LABS/STUDIES:\nCXR [**2131-8-19**]: AP chest compared to [**8-9**] through 14:\nConsolidation at the left lung base is substantially increased\nsince [**8-19**] and 14. This could represent either atelectasis\nor pneumonia. Lung volumes are generally low, but otherwise\nclear. Heart size top normal. No pleural effusion. Upper\nmediastinal widening is probably due to vascular congestion.\nTracheostomy tube in standard placement. The study and the\nreport were reviewed by the staff radiologist.\n\nCT ABDOMEN [**2131-8-18**]:  No evidence of retroperitoneal hematoma.\nBilateral intramuscular hematomas involving the adductor\nmusculature of the proximal lower extremities.  2. Mild residual\nperipancreatic fatty stranding, but likely improved. correlation\nwith pancreatic enzymes is recommended.\nMultiple pancreatic pseudocysts not as well visualized on the\ncurrent\nstudy with no definite overall change.  Cholelithiasis without\ncholecystitis.  Small left pleural effusion and atelectasis.\n\nCXR ([**8-21**]): Bilateral basilar opacities, consistent with\npneumonia or\natelectasis.\n\nBlood Cultures ([**8-20**]) from PICC line\n   Blood Culture, Routine (Preliminary):\n      GRAM POSITIVE COCCUS(COCCI).    IN PAIRS AND CLUSTERS.\n\n   Anaerobic Bottle Gram Stain (Final [**2131-8-21**]):\n      GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS.\n      REPORTED BY PHONE TO DR. [**Last Name (STitle) **] [**2131-8-21**] 10:25AM.\n\n   Aerobic Bottle Gram Stain (Final [**2131-8-21**]):\n      GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS.\n\nSputum Culture ([**8-18**]): [**2131-8-18**] 9:58 am SPUTUM     Site:\nEXPECTORATED\n      Source: Expectorated.\n\n  GRAM STAIN (Final [**2131-8-18**]):\n      >25 PMNs and <10 epithelial cells/100X field.\n      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S).\n\n   RESPIRATORY CULTURE (Final [**2131-8-21**]):\n      OROPHARYNGEAL FLORA ABSENT.\n      Due to mixed bacterial types ( >= 3 colony types) an\nabbreviated\n      workup will be performed appropriate to the isolates\nrecovered from\n      this site.\n      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.\n         OF TWO COLONIAL MORPHOLOGIES.\n      GRAM NEGATIVE ROD #2.    MODERATE GROWTH.\n      YEAST.    SPARSE GROWTH.\n\n                              SENSITIVITIES: MIC expressed in\nMCG/ML\n\n_________________________________________________________\n                             PSEUDOMONAS AERUGINOSA\n                             |\nCEFEPIME--------------  =>64 R\nCEFTAZIDIME-----------  =>64 R\nCIPROFLOXACIN---------   =>4 R\nGENTAMICIN------------     8 I\nMEROPENEM-------------     1 S\nPIPERACILLIN---------- =>128 R\nPIPERACILLIN/TAZO----- =>128 R\nTOBRAMYCIN------------   <=1 S\n\n\nBrief Hospital Course:\nThe patient is a 28 yo man with h/o EtOH abuse, necrotizing\npancreatitis, anoxic brain injury, and seizures, who presents\nfrom rehab facility with anemia, fevers, and hypotension,\nconcerning for an acute bleed.\n\n# Anemia: The patient had an acute Hct drop from 26.9 on [**8-11**] to\n16 on [**8-16**].  He was given a total of 4 U PRBCs, and his Hct\nremained stable in the mid 20s range. He had been on lovenox for\ntreatment of superior mesenteric vein thrombosis. The source of\nthe bleed was indentified to be a thigh hematoma. His thigh\ncircumference remained stable at 20'' right and 18'' left. CT of\nthighs/pelvic did not show evidence of retroperitoneal\nexpansion. Lovenox was stopped, and he was placed back on\nHeparin SQ for DVT prophylaxis.\n\n# Hypotension:  The patient was hypotensive upon arrival the the\nICU. This was also attributed to  blood loss.  His blood\npressure was controlled with IVF and pRBC transfusion.\n\n# Fevers, leukocytosis:  He has had a history of intermittent\nfevers which have been attributed to central sources. He again\npresented with fever. His presenting WBCs were elevated, as they\nhave been in the past, but trended down during admission. With\nregards to sources of infection, there was concern for a\nrespiratory process, given increase in secretions. The CXR\nhowever remained without findings suggestive of pneumonia. Also\ncultures obtained from his PICC line on [**8-20**] grew GPC in [**2-7**]\nbottles (from one PICC draw)  Peripheral cultures from this day\nwere negative. The PICC line was discontinued on [**8-21**] and he was\nnot started on antibiotics as this did not appear to be an\nactive infection given decreasing WBC and improved mental\nstatus.\n\n# Hyperglycemia:  Sugars on prsentation were 307 and he was\ncontinued on a Humalog ISS.\n\n# Hypothyroidism: Continued Levoxyl 50 mcg daily.  He will need\nto have TSH and FT4 levels checked in two weeks.\n\n# Seizures:  He had no seizure activity.  His total and free\ndilantin levels were 7 and 2.1, respectively.  His dilantin dose\nwas decreased to 200 mg tid and a daily additional dose of 500\nmg if his total dilantin level is less than 7.  He should\ncontinue to have dilantin levels/free dilantin levels checked\ndaily and his dose should be adjusted accordingly.\n\n\nMedications on Admission:\nMultivitamins One (1) ML PO DAILY\nIpratropium-Albuterol Aerosol 4-6 puffs Q6H\nAlbuterol Sulfate (0.083 %) Nebulization Q2H prn for\nsob/wheezing.\nAcetaminophen 160 mg/5 mL Solution. 20 mL PO Q6H prn\nRISS\nEnoxaparin 100 mg/mL [**Hospital1 **]\nFolic Acid 1 mg daily\nErgocalciferol 50,000 unit twice weekly (Mon/Th)\nDextromethorphan Poly Complex SR 10 ML PO BID prn cough\nLevothyroxine 50 mcg daily\nPhenytoin 300mg PO TID (3 times a day) (12, 6, 10 PM)\nPhenytoin 500 mg at 0600.\nFamotidine 20 mg PO BID\nKeppra 2,000 mg [**Hospital1 **]\nLorazepam 1 mg q6h\nPercocet 5-325 mg Tablet PO q4h prn for pain\nHydrocortisone Sod Succinate 100 mg 1345\nMetoprolol 12.5 mg TID\n\n\nDischarge Medications:\n1. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: [**1-5**] nebs Inhalation Q2H (every 2 hours) as\nneeded for sob, dyspnea.\n2. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: Five (5)\nML PO Q4H (every 4 hours) as needed for pain: PEG.\n3. Insulin Lispro 100 unit/mL Solution Sig: AS DIRECTED\nSubcutaneous ASDIR (AS DIRECTED).\n4. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: [**1-5**] NEBS Inhalation Q6H (every 6 hours) as\nneeded for sob, dyspnea.\n5. Ipratropium Bromide 0.02 % Solution Sig: [**1-5**] nebs\nnebs Inhalation Q6H (every 6 hours) as needed for wheezing.\n6. Acetaminophen 160 mg/5 mL Solution Sig: Six [**Age over 90 1230**]y\n(650) mg PO Q4H (every 4 hours) as needed for fever, pain: PEG.\n\n7. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY\n(Daily): PEG.\n8. Phenytoin 125 mg/5 mL Suspension Sig: Two Hundred (200) mg PO\nQ8H (every 8 hours): PEG.\n9. Phenytoin 125 mg/5 mL Suspension Sig: Five Hundred (500) mg\nPO DAILY (Daily): Please give at 0600 through PEG.\n10. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours): PEG.\n11. Levetiracetam 100 mg/mL Solution Sig: [**2122**] ([**2122**]) MG PO BID\n(2 times a day): PEG.\n12. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every\n12 hours): PEG.\n13. Dextromethorphan Poly Complex 30 mg/5 mL Suspension,\nSust.Release 12 hr Sig: Ten (10) ML PO Q12H (every 12 hours) as\nneeded for cough: PEG.\n14. Ergocalciferol (Vitamin D2) 50,000 unit Capsule Sig: [**Numeric Identifier 1871**]\n([**Numeric Identifier 1871**]) Capsules PO 2X/WEEK (MO,TH): PEG .\n15. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):\nPEG.\n16. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)\nUNITS Injection TID (3 times a day): SC.\n17. Fentanyl Citrate 25-100 mcg IV Q3H:PRN agitation, pain\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 7**] & Rehab Center - [**Hospital1 8**]\n\nDischarge Diagnosis:\nPrimary:\nPosterior thigh hematoma (acute)\nHypovolemic hypotension\nUrinary tract yeast infection\n\nSecondary:\nChronic respiratory failure\nSeizure disorder\n\n\nDischarge Condition:\nGood\n\n\nDischarge Instructions:\nYou were admitted for low blood pressure and a low blood count.\nWe determined that you were bleeding into your thigh, likely\nbecause of the lovenox you were taking.  We stopped the lovenox\nand transfused you with blood.  We also gave you fluids.  Both\nof these helped improve your blood pressure.\n\nWhile you were here, we also cultured bacteria from your lungs.\nWe think this is related to colonization rather than active\ninfection.  We also cultured a bacteria from your PICC line, so\nwe discontinued your PICC on [**8-21**].\n\nWhile you were here, we made the following changes to your\nmedications:\n1. We decreased you Dilantin dose to 200 TID.  The 500 mg\nmorning dose should only be given as needed if the Dilantin\nlevel is low.\n\nPlease return to the hospital if you have worsening fevers,\nchills, shortness of breath, or any other serious concerns.\n\nFollowup Instructions:\nContact your primary care doctor [**First Name (Titles) **] [**Last Name (Titles) **] a follow-up\nappointment in two to four weeks.  You will need to have your\nthryoid studies checked in about two weeks.\n\n\n\nCompleted by:[**2131-8-24**]"
+    },
+    {
+      "note_id": 692619,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 280,
+          "end": 299,
+          "code": "348.1",
+          "code_system": "ICD-9-CM",
+          "description": "Anoxic brain damage",
+          "type": "Human",
+          "covered_text": "anoxic brain injury"
+        }
+      ],
+      "text": "Chief Complaint: leg hematoma\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   28M with necrotizing pancreatitis, c/b anoxic brain injury, prolonged\n   hospitalization, recent re-admission to MICU after dramatic Hct drop\n   due to large thigh hematomas in the setting of systemic\n   anticoagulation.\n   24 Hour Events:\n BLOOD CULTURED - At [**2131-8-20**] 02:56 PM\n   Blood c/s from pic line\n BLOOD CULTURED - At [**2131-8-20**] 04:54 PM\n FEVER - 101.6\nF - [**2131-8-20**] 11:00 AM\n   -stable overnight\n   History obtained from Medical records\n   Patient unable to provide history: Encephalopathy\n   Allergies:\n   Meropenem\n   skin blisters a\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Fentanyl - [**2131-8-21**] 04:15 AM\n   Other medications:\n   ativan, keppra, famotidine, vitd, fa, riss, dilantin, fentanyl 50\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Constitutional: No(t) Fatigue, Fever\n   Ear, Nose, Throat: No(t) OG / NG tube, peg\n   Cardiovascular: No(t) Chest pain\n   Nutritional Support: Tube feeds\n   Respiratory: Cough, No(t) Dyspnea, No(t) Tachypnea\n   Gastrointestinal: No(t) Abdominal pain\n   Genitourinary: Foley\n   Endocrine: No(t) Hyperglycemia\n   Psychiatric / Sleep: No(t) Agitated\n   Signs or concerns for abuse : No\n   Pain: No pain / appears comfortable\n   Flowsheet Data as of  [**2131-8-21**] 10:04 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 38.7\nC (101.6\n   Tcurrent: 37.7\nC (99.8\n   HR: 122 (117 - 131) bpm\n   BP: 133/88(96) {116/67(83) - 145/111(120)} mmHg\n   RR: 25 (22 - 45) insp/min\n   SpO2: 100%\n   Heart rhythm: ST (Sinus Tachycardia)\n   Height: 71 Inch\n             Total In:\n                                                                  1,804 mL\n                                                                    874 mL\n   PO:\n             TF:\n                                                                    964 mL\n                                                                    384 mL\n   IVF:\n                                                                    240 mL\n                                                                     79 mL\n   Blood products:\n   Total out:\n                                                                  2,290 mL\n                                                                  1,220 mL\n   Urine:\n                                                                  2,250 mL\n                                                                  1,220 mL\n   NG:\n                                                                     40 mL\n   Stool:\n   Drains:\n   Balance:\n                                                                   -486 mL\n                                                                   -346 mL\n   Respiratory support\n   O2 Delivery Device: Aerosol-cool\n   SpO2: 100%\n   ABG: ///18/\n   Physical Examination\n   General Appearance: No acute distress, Overweight / Obese\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Normocephalic, trach\n   Cardiovascular: (S1: Normal), (S2: Normal), tachy\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)\n   Respiratory / Chest: (Breath Sounds: Clear : )\n   Extremities: Right lower extremity edema: 2+, Left lower extremity\n   edema: 2+\n   Musculoskeletal: No(t) Muscle wasting\n   Skin:  Warm\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Movement: Not assessed, Tone: Not assessed\n   Labs / Radiology\n   8.2 g/dL\n   785 K/uL\n   197 mg/dL\n   0.8 mg/dL\n   18 mEq/L\n   4.1 mEq/L\n   16 mg/dL\n   116 mEq/L\n   142 mEq/L\n   25.5 %\n   12.7 K/uL\n        [image002.jpg]\n                             [**2131-8-18**]  12:48 PM\n                             [**2131-8-18**]  05:14 PM\n                             [**2131-8-18**]  11:05 PM\n                             [**2131-8-19**]  03:24 AM\n                             [**2131-8-19**]  11:23 AM\n                             [**2131-8-19**]  08:31 PM\n                             [**2131-8-19**]  08:44 PM\n                             [**2131-8-20**]  03:04 AM\n                             [**2131-8-20**]  07:31 PM\n                             [**2131-8-21**]  03:21 AM\n   WBC\n   14.2\n   12.1\n   12.7\n   Hct\n   24.3\n   23.8\n   24.2\n   24.4\n   23.9\n   25.2\n   25.6\n   24.9\n   25.5\n   Plt\n   [**Telephone/Fax (3) 8330**]\n   Cr\n   0.8\n   0.8\n   0.8\n   TCO2\n   17\n   Glucose\n   [**Telephone/Fax (3) 8331**]\n   Other labs: PT / PTT / INR:15.8/26.7/1.4, CK / CKMB / Troponin-T:63//,\n   ALT / AST:18/35, Alk Phos / T Bili:132/0.6, Amylase / Lipase:/35,\n   Differential-Neuts:70.6 %, Band:0.0 %, Lymph:19.8 %, Mono:3.7 %,\n   Eos:5.3 %, Lactic Acid:1.1 mmol/L, Albumin:2.5 g/dL, LDH:243 IU/L,\n   Ca++:9.3 mg/dL, Mg++:1.6 mg/dL, PO4:3.6 mg/dL\n   Imaging: cxr: no new opacities though lower lung volumes\n   Microbiology: sputum cx: pseudomonas, sensies pending\n   Assessment and Plan\n .H/O RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 76**])\n ANEMIA, OTHER\n FEVER, UNKNOWN ORIGIN (FUO, HYPERTHERMIA, PYREXIA)\n .H/O SEIZURE, WITH STATUS EPILEPTICUS\n   28M with necrotizing pancreatitis, c/b anoxic brain injury, prolonged\n   hospitalization, recent re-admission to MICU after dramatic Hct drop\n   due to large thigh hematomas in the setting of systemic\n   anticoagulation, now improved off anticoagulation with stable hct. Pt\n   has persistent fevers without a clear source, though likely  from\n   resolving hematomas. Other potential sources of fever include picc\n   line, pneumonia, though blood cultures have been negative and cxr has\n   not revealed a new infiltrate. Will continue to hold off antibioitics\n   and will follow-up cultures. His improving mental status is\n   encouraging.\n   Will contact rehab for more complete sing-off and transfer of care.\n   Rest of the plan per resident notes.\n   ICU Care\n   Nutrition:\n   NovaSource Renal (Full) - [**2131-8-21**] 03:49 AM 40 mL/hour\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   PICC Line - [**2131-8-17**] 11:54 PM\n   20 Gauge - [**2131-8-18**] 02:11 AM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP: HOB elevation, Mouth care\n   Comments:\n   Communication: Family meeting held , ICU consent signed Comments:\n   Code status: Full code\n   Disposition : Transfer to rehab\n   Total time spent: 35 minutes\n"
+    },
+    {
+      "note_id": 692754,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 262,
+          "end": 274,
+          "code": "577.1",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic pancreatitis",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        }
+      ],
+      "text": "Chief Complaint: leg hematoma\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   28M with necrotizing pancreatitis, complicated by several PEA arrests,\n   anoxic brain injury, returned to MICU with acute hct drop from thigh\n   hematomas while on full anticoagulation, now stable off full\n   anticoagulation, slowly-improving mental status:\n   24 Hour Events:\n PICC LINE - STOP [**2131-8-21**] 06:53 PM\n   -bcx resent, PICC pulled\n   Allergies:\n   Meropenem\n   skin blisters a\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2131-8-21**] 08:00 PM\n   Fentanyl - [**2131-8-22**] 04:45 AM\n   Other medications:\n   ativan 1q6, keppra, pepcid, fa, riss, dilantin, synthroid, sqh\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Constitutional: Fever\n   Cardiovascular: No(t) Chest pain\n   Nutritional Support: Tube feeds\n   Respiratory: Cough, No(t) Dyspnea, No(t) Tachypnea\n   Gastrointestinal: No(t) Abdominal pain\n   Genitourinary: Foley\n   Integumentary (skin): No(t) Jaundice, No(t) Rash\n   Signs or concerns for abuse : No\n   Pain: No pain / appears comfortable\n   Flowsheet Data as of  [**2131-8-22**] 09:19 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.9\nC (100.3\n   Tcurrent: 37.9\nC (100.3\n   HR: 133 (112 - 134) bpm\n   BP: 116/105(108) {113/55(73) - 143/105(108)} mmHg\n   RR: 25 (19 - 33) insp/min\n   SpO2: 96%\n   Heart rhythm: ST (Sinus Tachycardia)\n   Height: 71 Inch\n                  Total In:\n                                                                  2,063 mL\n                                                                    523 mL\n   PO:\n                  TF:\n                                                                    963 mL\n                                                                    353 mL\n   IVF:\n                                                                    200 mL\n   Blood products:\n   Total out:\n                                                                  2,370 mL\n                                                                    470 mL\n   Urine:\n                                                                  2,370 mL\n                                                                    470 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                   -307 mL\n                                                                     53 mL\n   Respiratory support\n   O2 Delivery Device: Aerosol-cool, Trach mask\n   SpO2: 96%\n   ABG: ///17/\n   Physical Examination\n   General Appearance: No(t) Well nourished\n   Head, Ears, Nose, Throat: Normocephalic, trach\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, Distended\n   Extremities: Right lower extremity edema: 2+, Left lower extremity\n   edema: 1+\n   Musculoskeletal: Muscle wasting\n   Skin:  Warm, No(t) Rash: , No(t) Jaundice\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Movement: Not assessed, Tone: Not assessed\n   Labs / Radiology\n   8.1 g/dL\n   867 K/uL\n   183 mg/dL\n   0.7 mg/dL\n   17 mEq/L\n   3.3 mEq/L\n   15 mg/dL\n   114 mEq/L\n   140 mEq/L\n   25.6 %\n   12.8 K/uL\n        [image002.jpg]\n                             [**2131-8-18**]  05:14 PM\n                             [**2131-8-18**]  11:05 PM\n                             [**2131-8-19**]  03:24 AM\n                             [**2131-8-19**]  11:23 AM\n                             [**2131-8-19**]  08:31 PM\n                             [**2131-8-19**]  08:44 PM\n                             [**2131-8-20**]  03:04 AM\n                             [**2131-8-20**]  07:31 PM\n                             [**2131-8-21**]  03:21 AM\n                             [**2131-8-22**]  04:22 AM\n   WBC\n   14.2\n   12.1\n   12.7\n   12.8\n   Hct\n   23.8\n   24.2\n   24.4\n   23.9\n   25.2\n   25.6\n   24.9\n   25.5\n   25.6\n   Plt\n   [**Telephone/Fax (3) 8340**]67\n   Cr\n   0.8\n   0.8\n   0.8\n   0.7\n   TCO2\n   17\n   Glucose\n   [**Telephone/Fax (3) 8341**]83\n   Other labs: PT / PTT / INR:15.8/26.7/1.4, CK / CKMB / Troponin-T:63//,\n   ALT / AST:18/35, Alk Phos / T Bili:132/0.6, Amylase / Lipase:/35,\n   Differential-Neuts:56.0 %, Band:8.0 %, Lymph:22.0 %, Mono:3.0 %,\n   Eos:7.0 %, Lactic Acid:1.1 mmol/L, Albumin:2.5 g/dL, LDH:243 IU/L,\n   Ca++:9.8 mg/dL, Mg++:1.6 mg/dL, PO4:3.5 mg/dL\n   Imaging: cxr: improved LLL opacity\n   Microbiology: sputum: pseudomonas\n   bcx: coag-neg staph from picc line only\n   Assessment and Plan\n .H/O RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 76**])\n ANEMIA, OTHER\n FEVER, UNKNOWN ORIGIN (FUO, HYPERTHERMIA, PYREXIA)\n .H/O SEIZURE, WITH STATUS EPILEPTICUS\n   28M with necrotizing pancreatitis, complicated by several PEA arrests,\n   anoxic brain injury, returned to MICU with acute hct drop from thigh\n   hematomas while on full anticoagulation, now stable off full\n   anticoagulation, slowly-improving mental status. Mr [**Known lastname 6420**] remains\n   tachycardic and febrile. His sputum culture is growing previously known\n   resistant pseudomonas, and peripheral blood cultures from have been\n   negative. We are holding off on antibiotics given stable clinical\n   status and no signs of active pulmonary or blood stream infection. Will\n   proceed with transfer back to [**Hospital1 25**] with close communication with\n   staff at [**Hospital1 25**] for aggressive monitoring for signs of worsening\n   infection:\n   positive blood cultures\n   -follow-up cultures over the last several day; will communicate with\n   new providers\n   -hold off on new picc line unless necessary\n   -hold off on empiric abx; if necessary prefer linezolid\n   -monitor thigh hematomas for signs of infection\n   positive sputum cultures; secretions\n   -holding off on antibiotics\n   -would need meropenem if shows signs of active pulmonary infection\n   -MIE, though cough if excellent\n   sinus tachycardia: pain vs infection vs centrally driven\n   -will consider bb to prevent tachy-induced cm once other causes are\n   explired\n   seizure\n   -will clarify with neuro appropriate doses and\n   ICU Care\n   Nutrition:\n   NovaSource Renal (Full) - [**2131-8-22**] 04:43 AM 40 mL/hour\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   20 Gauge - [**2131-8-18**] 02:11 AM\n   22 Gauge - [**2131-8-21**] 07:01 PM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: PPI\n   VAP: HOB elevation\n   Comments:\n   Communication: Family meeting held , ICU consent signed Comments:\n   Code status: Full code\n   Disposition :Transfer to rehab / long term care facility\n   Total time spent: 35 minutes\n"
+    }
+  ]
+}

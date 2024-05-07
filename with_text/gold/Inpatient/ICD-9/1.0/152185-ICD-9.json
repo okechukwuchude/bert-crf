@@ -1,0 +1,95 @@
+{
+  "hadm_id": 152185,
+  "comment": "CABG - Missing OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 45667,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1785,
+          "end": 1808,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 1851,
+          "end": 1879,
+          "code": "600.00",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "Human",
+          "covered_text": "Benign Prostatic Hypertrophy"
+        },
+        {
+          "begin": 1889,
+          "end": 1905,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "Human",
+          "covered_text": "Seizure disorder"
+        },
+        {
+          "begin": 1950,
+          "end": 1987,
+          "code": "412",
+          "code_system": "ICD-9-CM",
+          "description": "Old myocardial infarction",
+          "type": "Human",
+          "covered_text": "Inferior Myocardial Infarction age 52"
+        },
+        {
+          "begin": 1988,
+          "end": 2000,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 2001,
+          "end": 2015,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 2050,
+          "end": 2070,
+          "code": "362.50",
+          "code_system": "ICD-9-CM",
+          "description": "Macular degeneration (senile) of retina, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Macular Degeneration"
+        },
+        {
+          "begin": 9286,
+          "end": 9292,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "postop"
+        },
+        {
+          "begin": 9299,
+          "end": 9312,
+          "code": "453.81",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "LUE vein clot"
+        }
+      ],
+      "text": "Admission Date:  [**2172-4-22**]              Discharge Date:   [**2172-4-29**]\n\nDate of Birth:  [**2097-2-23**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nDyspnea on exertion\n\nMajor Surgical or Invasive Procedure:\n[**2172-4-22**]  Coronary artery bypass grafting x4/ cystoscopy\nLeft internal mammary artery graft to left anterior\ndescending; reverse saphenous vein to the marginal branch,\nramus intermedius branch, diagonal branch.\n\n\nHistory of Present Illness:\n75 year old gentleman has a history of a prior inferior\ninfaction at age 52 in approximately [**2149**] that was managed\nmedically. In [**2162**], he had a cardiac catheterization which\nshowed multivessel CAD. He was found to have an occluded RCA, a\n60% LAD lesion and some disease in the marginal vessel. He has\nbeen managed medically since then and had been doing well until\nthis past year when he started to experiencing progressive\ndyspnea with exertion. He describes shortness of breath which\noccurs when he walks outside about one block or after climbing 2\nflights of stairs. He denies any dyspnea at rest. He  had a\nstress MIBI done on [**2172-3-17**] at Dr.[**Name (NI) 9388**] office. He exercised\nfor 6.5 minutes to a heart rate of 100bpm. No significant EKG\nchanges noted. Nuclear imaging was notable for a moderate to\nlarge sized, severe inferolateral posterolateral defect which\nremains fixed.(unchanged from prior MIBI). Given the patient's\nprogression in symptoms, he has now been referred for outpatient\ncardiac catheterization. He was found to have three vessel\ndisease upon cardiac catheterization today and is now referred\nto cardiac surgery for revascularization.\n\nPast Medical History:\nCoronary artery disease s/p Inferior Myocardial Infarction age\n52\nBenign Prostatic Hypertrophy s/p TURP\nSeizure disorder since age 16; last episode about 20 yrs ago\nInferior Myocardial Infarction age 52\nHypertension\nHyperlipidemia\nRheumatic fever as a child age 14\nMacular Degeneration\ns/p Hernia repair\ns/p Left Knee surgery- ACL\ns/p Right Torn rotator cuff repaired\n\nSocial History:\nRace: Caucasain\nLast Dental Exam: 1 year ago\nLives with: Wife\nOccupation: Family Lawyer\n[**Name (NI) 1139**]: quit in [**2125**]\nETOH: occassional small glass of wine\n\nFamily History:\nFather with MI at age 52, Paternal uncle MI at age 53, Maternal\nuncles with [**Name2 (NI) **]\n\nPhysical Exam:\nPulse:54 Resp:18  O2 sat:99/RA\nB/P  Right:170/71    Left:167/75\nHeight:5'8.5\"     Weight:180 lbs\n\nGeneral:NAD, alert and cooperative\nSkin: Dry [s] intact [s]\nHEENT: PERRLA [s] EOMI [s]\nNeck:  Supple [s] Full ROM [s]\nChest: Lungs clear bilaterally [s]\nHeart: RRR [s]  Irregular []  No Murmur\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]\nExtremities: Warm [x], well-perfused [x]  Edema Varicosities:\nNone [x]\nNeuro: Grossly intact\nPulses:\nFemoral      Right: +2  Left:+2\nDP           Right: +2  Left:+2\nPT           [**Name (NI) 167**]: +1  Left:+1\nRadial       Right:+2   Left:+2\n\nCarotid Bruit        Right: none   Left:none\n\nPertinent Results:\n[**2172-4-22**] Echo: Prebypass: No atrial septal defect is seen by 2D or\ncolor Doppler. There is mild symmetric left ventricular\nhypertrophy. The left ventricular cavity size is normal.\nRegional left ventricular wall motion is normal. Overall left\nventricular systolic function is normal (LVEF>55%). Right\nventricular chamber size and free wall motion are normal. There\nare simple atheroma in the descending thoracic aorta. The aortic\nvalve leaflets (3) are mildly thickened. There is mild aortic\nvalve stenosis (valve area 1.2-1.9cm2). Mild (1+) aortic\nregurgitation is seen. The mitral valve leaflets are mildly\nthickened. Mild to moderate ([**1-19**]+) mitral regurgitation is seen.\nThere is no pericardial effusion. Dr. [**Last Name (STitle) **] was notified in\nperson of the results on [**4-22**]/2011at 1530.\nPost bypass: Immediately post bypass there was severe mitral\nregurgitation associated with elevated PA pressures. Dr [**Last Name (STitle) **]\naware of findings. With time the mitral regurgitation settled to\n2+. The LVEF= 50%. Aorta is intact post decannulation.\n\n[**2172-4-29**] 04:35AM BLOOD WBC-12.3* RBC-3.18* Hgb-10.1* Hct-29.0*\nMCV-91 MCH-31.6 MCHC-34.6 RDW-14.2 Plt Ct-243\n[**2172-4-22**] 07:33PM BLOOD PT-14.5* PTT-30.9 INR(PT)-1.3*\n[**2172-4-29**] 04:35AM BLOOD Glucose-112* UreaN-26* Creat-0.9 Na-139\nK-4.2 Cl-103 HCO3-30 AnGap-10\n\nBrief Hospital Course:\nMr. [**Known lastname 97345**] was a same day admit and on [**4-22**] was brought to the\noperating room where he underwent a coronary artery bypass graft\nx 3. Please see operative report for surgical details.  While in\nthe OR urology place a Foley under cystoscopy for a false\npassage which is to remain in place for 5 days. Following\nsurgery he was transferred to the CVICU for invasive monitoring\nin stable condition. Within 24 hours he was weaned from\nsedation, awoke neurologically intact and extubated. His seizure\nmedications were restarted. He was started on beta-blockers and\ndiuresed towards pre-op weight. He transferred to the step-down\nfloor for further care. Chest tubes and epicardial pacing wires\nwere removed per protocol.  On [**2172-4-25**] he remained hypertensive\nand amlodipine was re-started in addition to lisinopril with\nhydralazine prn.  Urology was reconsulted for leakage around\nfoley.  He tolerated a cardiac diet.  Pain was well controlled\nwith oral analgesics.  He was followed by physical therapy who\nrecommended rehab.  He went into brief bursts of A Fib as well\nas developing a LUE vein thrombus and was started on coumadin.\nHe continued to make steady progress and was discharged to\n[**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] Rehab on POD #7.\n\nTarget INR 2.0-2.5 for A Fib.\nAll f/u appts were advised.\nNO BP cuffs on L arm\nPt should attempt to void every 2-3 hours and then re-attempt in\n15 min if not successful.\n\nMedications on Admission:\nATENOLOL [TENORMIN] -  (Prescribed by Other Provider) - 25 mg\nTablet - 1 (One) Tablet(s) by mouth once a day\nDIVALPROEX [DEPAKOTE] -  (Prescribed by Other Provider) - 250 mg\nTablet, Delayed Release (E.C.) - 2 (Two) Tablet(s) by mouth\nthree times a day\nFELODIPINE - 10 mg Tablet Extended Release 24 hr - 1 Tablet(s)\nby mouth once a day - No Substitution\nISOSORBIDE MONONITRATE - 30 mg Tablet Extended Release 24 hr - 1\nTablet(s) by mouth once a day - No Substitution\nLISINOPRIL -  (Prescribed by Other Provider) - 40 mg Tablet - 1\n(One) Tablet(s) by mouth once a day\nPHENYTOIN SODIUM EXTENDED [DILANTIN EXTENDED] -  (Prescribed by\nOther Provider) - 100 mg Capsule - 2 (Two) Capsule(s) by mouth\ntwice a day\nROSUVASTATIN [CRESTOR] -  (Prescribed by Other Provider) - 40 mg\nTablet - 1 (One) Tablet(s) by mouth once a day\nSOLIFENACIN [VESICARE] -  (Prescribed by Other Provider) - 5 mg\nTablet - 1 Tablet(s) by mouth daily\n\nMedications - OTC\nASPIRIN [ASPIRIN [**Hospital1 **]] -  (Prescribed by Other Provider) -\n81 mg Tablet, Chewable - 2 Tablet(s) by mouth once a day\nERGOCALCIFEROL (VITAMIN D2) [VITAMIN D] -  (Prescribed by Other\nProvider) - Dosage uncertain\nMULTIVITAMIN WITH IRON-MINERAL [CENTRUM] -  (Prescribed by Other\nProvider) - Dosage uncertain\nVIT A,C & E-NIAC-B2-LUT-MN-GLU [EYE-VITE] -  (Prescribed by\nOther Provider) - Dosage uncertain\n\n\nDischarge Medications:\n1. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:\nOne (1) Tablet, ER Particles/Crystals PO twice a day: hold for\nK+ > 4.5.\n2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day) for 1 months.\n3. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day) for 2 weeks.\n4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n5. rosuvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.\n\n6. lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.\n7. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n8. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n9. phenytoin sodium extended 200 mg Capsule Sig: One (1) Capsule\nPO twice a day.\n10. divalproex 500 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO TID (3 times a day).\n11. metoprolol tartrate 25 mg Tablet Sig: Three (3) Tablet PO\nTID (3 times a day).\n12. tramadol 50 mg Tablet Sig: 0.5 Tablet PO Q6H (every 6 hours)\nas needed for pain.\n13. amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.\n14. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H\n(every 6 hours) as needed for pain.\n15. clonidine 0.2 mg Tablet Sig: One (1) Tablet PO TID (3 times\na day).\n16. furosemide 40 mg Tablet Sig: One (1) Tablet PO twice a day:\nplease assess edema status as therapy continues.\n17. Coumadin 2 mg Tablet Sig: One (1) Tablet PO daily dosing per\nrehab provider: [**Name10 (NameIs) **] INR 2.0-2.5 for A Fib; dose today [**4-29**]\nonly is 2 mg; all further dosing per rehab provider.\n18. ENSURE shakes to be encouraged\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] - [**Location (un) 538**]\n\nDischarge Diagnosis:\nCoronary artery disease s/p Coronary artery bypass graft x 4/\ncystoscopy\npostop A Fib\nLUE vein clot\nPast medical history:\nBenign Prostatic Hypertrophy s/p TURP\nSeizure disorder since age 16; last episode about 20 yrs ago\nInferior Myocardial Infarction age 52\nHypertension\nHyperlipidemia\nRheumatic fever as a child age 14\nMacular Degeneration\ns/p Hernia repair\ns/p Left Knee surgery- ACL\ns/p Right Torn rotator cuff repaired\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with oral analgesics\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Right/Left - healing well, no erythema or drainage.\nEdema [**1-19**]+ pitting\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**Last Name (STitle) **] on Thurs [**5-21**] @ 1:15 pm\nCardiologist: Dr. [**Last Name (STitle) **] on [**5-12**] @ 2:15 pm\nf/u with outpatient urologist Dr. [**Last Name (STitle) 365**]\n\nPlease call to schedule appointments with your\nPrimary Care Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 1408**] in [**4-21**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n***Coumadin daily for A Fib\ntarget INR 2.0 - 2.5\nfirst draw tomorrow [**4-30**]\nplease arrange for coumadin f/u prior to discharge from rehab\n\n\n\nCompleted by:[**2172-4-29**]"
+    }
+  ]
+}

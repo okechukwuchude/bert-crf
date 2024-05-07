@@ -1,0 +1,194 @@
+{
+  "hadm_id": 109818,
+  "comment": "Need procedure reports to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 19530,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 562,
+          "end": 585,
+          "code": "197.7",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of liver, specified as secondary",
+          "type": "Human",
+          "covered_text": "metastatic to the liver"
+        },
+        {
+          "begin": 1827,
+          "end": 1849,
+          "code": "V12.71",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of peptic ulcer disease",
+          "type": "Human",
+          "covered_text": "revealed gastric ulcer"
+        },
+        {
+          "begin": 3087,
+          "end": 3110,
+          "code": "327.23",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "Human",
+          "covered_text": "Obstructive sleep apnea"
+        },
+        {
+          "begin": 3114,
+          "end": 3120,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 3226,
+          "end": 3238,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 3243,
+          "end": 3257,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 3262,
+          "end": 3269,
+          "code": "278.00",
+          "code_system": "ICD-9-CM",
+          "description": "Obesity, unspecified",
+          "type": "Human",
+          "covered_text": "Obesity"
+        },
+        {
+          "begin": 3300,
+          "end": 3310,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 14399,
+          "end": 14427,
+          "code": "209.79",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.APPROX",
+          "covered_text": "metastatic neuroendocrine CA"
+        },
+        {
+          "begin": 14820,
+          "end": 14849,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "Hypoxemic respiratory failure"
+        },
+        {
+          "begin": 15036,
+          "end": 15076,
+          "code": "428.33",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, acute on chronic",
+          "type": "Human",
+          "covered_text": "acute on chronic diastolic heart\nfailure"
+        },
+        {
+          "begin": 15078,
+          "end": 15087,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "pneumonia"
+        },
+        {
+          "begin": 16656,
+          "end": 16701,
+          "code": "785.52",
+          "code_system": "ICD-9-CM",
+          "description": "Septic shock",
+          "type": "Human",
+          "covered_text": "# Shock, liekly [**3-3**] distributive/sepsis"
+        },
+        {
+          "begin": 17177,
+          "end": 17183,
+          "code": "038.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified septicemia",
+          "type": "Human",
+          "covered_text": "sepsis"
+        },
+        {
+          "begin": 17557,
+          "end": 17570,
+          "code": "276.0",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperosmolality and/or hypernatremia",
+          "type": "Human",
+          "covered_text": "Hypernatremia"
+        },
+        {
+          "begin": 17744,
+          "end": 17774,
+          "code": "428.33",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, acute on chronic",
+          "type": "Human",
+          "covered_text": "Acute on Chronic Diastolic CHF"
+        },
+        {
+          "begin": 18383,
+          "end": 18395,
+          "code": "284.11",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Pancytopenia"
+        },
+        {
+          "begin": 18630,
+          "end": 18651,
+          "code": "209.30",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.APPROX",
+          "covered_text": "Neuroendocrine cancer"
+        },
+        {
+          "begin": 18797,
+          "end": 18814,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "Diabetes Mellitus"
+        },
+        {
+          "begin": 19764,
+          "end": 19771,
+          "code": "V66.7",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for palliative care",
+          "type": "Human",
+          "covered_text": "comfort"
+        }
+      ],
+      "text": "Admission Date:  [**2189-12-6**]              Discharge Date:   [**2189-12-31**]\n\nDate of Birth:  [**2128-3-31**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nAspirin / Nsaids / Lisinopril / Celebrex / Rofecoxib / Tegaderm\n/ Ciprofloxacin / Allopurinol\n\nAttending:[**Last Name (NamePattern4) 290**]\nChief Complaint:\nPre-TACE hydration\n\nReason for Transfer to [**Hospital Unit Name 153**]: Hypoxemia\n\nMajor Surgical or Invasive Procedure:\nIntubation\nBronchoscopy\nLeft radial arterial line\n\nHistory of Present Illness:\n61F with pancreatic neuroendocrine CA metastatic to the liver\ns/p CBD stent and chronic diastolic CHF admitted to OMED [**12-6**]\nfor hydration prior to TACE on [**12-7**]. Started on zosyn [**12-6**],\nfollowed by vanc/cefepime/flagyl on [**12-9**] for possible\naspiration pneumonia. Notably, CT chest [**12-11**] showed ethiodol\nuptake in the lung, concerning for a portosystemic shunt.\nAzithromycin was added [**12-15**], and cefepime was stopped in favor\nof levo/[**Last Name (un) 2830**] on [**12-15**]. She has also been treated with bolus\ndiuresis for acute diastolic CHF. She states that she felt as if\nshe was improving on treatment as of yesterday but then became\nmore short of breath with minimal exertion, with a cough\nproductive of yellow-light green sputum. She endorses orthopnea\nbut denies PND. No fever, chills, sweats, chest pain,\npalpitations, nausea, vomiting, diarrhea, or calf pain.\nOn routine vitals found to have O2sat 88%5L (had been on 5L NC\nsince [**12-14**]) - improved to 92-94%8L FM. Given lasix 20 mg IV\nwith 300 UOP. ABG on NRB 7.45/47/72/34. CXR showed extensive\nright-sided airspace disease. Vital signs prior to transfer 97.3\n102/59 95 22 98%NRB.\n\nPast Medical History:\nOncologic History (from Dr.[**Name (NI) 52983**] [**9-16**] note)\n[**1-6**]: Had UGI bleeding, EGD revealed gastric ulcer (official\nreport unavailable)\n[**2-7**]: Developed chronic fatigue and anorexia soon after\nreturning home from let hip and knee surgery.\n[**3-10**]: Presented to PCP with [**Name9 (PRE) 5283**] pain and worsening jaundice for\n\n2 weeks. RUQ US demonstrated pancreatic head mass and multiple\nliver nodules suspicious for metastasis. Admitted to [**Hospital **]\nhospital, where CT scan confirmed US findings. ERCP at [**Hospital1 18**]\ndemonstrated duodenal invasion (with stigmata of recent\nbleeding,) and extrinsic compression of CBD, which was stented.\n\nDuodenal biopsy returned poorly differentiated neuroendocrine\ncarcinoma. MRCP demonstrated numerous hepatic  metastases.\nUS-guided biopsy of one hepatic lesion revealed same findings as\nduodenal biopsy. The picture was consistent was metastatic,\npoorly differentiated neuroendocrine carcinoma.\n.\nOther PMH:\n1. Chronic anemia, underwent EGD and diagnosed with bleeding\nulcer in [**11/2186**] and 12/[**2187**].\n2. Colonoscopy [**12-6**] --> polyp, repeat from [**1-6**] --> normal\n3. Arthritis\n-Hip replacement [**2183**] and revision in [**2184**].\n-Hip debridement in [**2-7**]\n-Left knee torn cartilage repair in [**2-7**].\n4. Hysterectomy for fibroids\n5. Mitral valve prolapse\n6. Obstructive sleep apnea\n7. Asthma\n8. Coronary artery \"spasms\" based on cath in [**2162**] and [**2179**]\n9. Diabetes mellitus, type II\n10. Hypertension\n11. Hyperlipidemia\n12. Obesity\n13. Chronic diastolic CHF\n14. Depression\n\n\nSocial History:\nWidow, husband murdered in [**2162**]. Lives with daughter and her\nfamily in [**Name (NI) **], MA. Has two healthy children and 3 healthy\ngrandchildren. Previously worked as lab technician in hospital.\n\nTob: smoked for six months in [**2149**]; none current\nEtOH: none\n\n\nFamily History:\nHalf sister died from uterine cancer in her 40s\nPaternal half sister - uterine cancer\nPaternal brother -- esophageal cancer in 50s\nMaternal cousin died of renal cancer at 46\nMaternal cousin died of lung cancer at 46.\n\n\nPhysical Exam:\nPhysical Exam on Arrival to [**Hospital Unit Name 2112**]: T 97.6 HR 93 BP 100/48 RR 20 O2sat 93%NRB\nGEN: Cachectic, appears comfortable, resp nonlabored\nHEENT: pale OP clear dry MM\nNECK: JVP 10 cm H20\nCV: reg rate nl S1S2 no m/r/g\nPULM: coarse rales [**3-4**] right lung field and at left base no\nwheeze\nABD: soft NTND\nEXT: warm, dry +PP tr pedal edema no calf tenderness\nNEURO: awake, alert, conversing appropriately\n\n\nPertinent Results:\n[**2189-12-6**] 01:26AM BLOOD WBC-3.9* RBC-3.24* Hgb-10.2* Hct-32.6*\nMCV-100* MCH-31.6 MCHC-31.5 RDW-15.4 Plt Ct-128*\n[**2189-12-6**] 01:26AM BLOOD Neuts-67.4 Lymphs-22.6 Monos-6.6 Eos-2.7\nBaso-0.7\n[**2189-12-6**] 01:26AM BLOOD PT-17.8* PTT-33.3 INR(PT)-1.6*\n[**2189-12-6**] 01:26AM BLOOD Glucose-118* UreaN-5* Creat-0.7 Na-141\nK-3.9 Cl-106 HCO3-29 AnGap-10\n[**2189-12-6**] 01:26AM BLOOD ALT-34 AST-54* LD(LDH)-143 AlkPhos-191*\nTotBili-0.5\n[**2189-12-6**] 01:26AM BLOOD Calcium-8.0* Phos-2.8 Mg-2.0\n[**2189-12-8**] 08:50PM BLOOD ALT-236* AST-562* LD(LDH)-722*\nAlkPhos-269* TotBili-1.2\n[**2189-12-8**] 06:45AM BLOOD Lipase-7\n[**2189-12-9**] 06:40AM BLOOD proBNP-1324*\n[**2189-12-7**] 07:05AM BLOOD CEA-7.2* AFP-2.1\n[**2189-12-16**] 06:04AM BLOOD Digoxin-<0.2*\n[**2189-12-16**] 06:34AM BLOOD Type-ART pO2-72* pCO2-47* pH-7.45\ncalTCO2-34* Base XS-7\n[**2189-12-16**] 03:39PM BLOOD Lactate-1.4\n[**2189-12-16**] 03:08PM BLOOD B-GLUCAN- < 31 pg/mL negative\n[**2189-12-16**] 03:08PM BLOOD ASPERGILLUS GALACTOMANNAN ANTIGEN- 0.1,\nnegative\n[**2189-12-18**] 08:03AM URINE Color-Yellow Appear-Cloudy Sp [**Last Name (un) **]-1.017\n[**2189-12-18**] 08:03AM URINE Blood-TR Nitrite-NEG Protein-30\nGlucose-NEG Ketone-TR Bilirub-NEG Urobiln-2* pH-5.5 Leuks-NEG\n[**2189-12-18**] 08:03AM URINE RBC-9* WBC-0 Bacteri-MOD Yeast-NONE Epi-0\n[**2189-12-18**] 08:03AM URINE AmorphX-MANY\n[**2189-12-18**] 08:03AM URINE Eos-NEGATIVE\n[**2189-12-18**] 08:03AM URINE Hours-RANDOM UreaN-533 Creat-142 Na-<10\nK-45 Cl-<10\n[**2189-12-18**] 08:03AM URINE Osmolal-363\n\n===================\nMICROBIOLOGY\n===================\n[**2189-12-15**]\n- urine legionella antigen- negative\n\n[**2189-12-16**]\n- MRSA screen- negative\n- BAL: No polys seen.  No microbes seen.  Respiratory cultures\nnegative.  Legionella culture negative. Negative PCP.  [**Name10 (NameIs) **]\nfungal (prelim).  AFB negative.  AFB culture negative (prelim).\nViral culture negative (prelim)\n- Urine cx- negative\n- Blood cx- negative\n\n[**2189-12-17**]\n- Blood cx- negative\n\n[**2189-12-18**]\n- Blood cx [**3-3**]- pending\n- Rapid respiratory viral screen & culture: negative\n- sputum: moderate growth of yeast\n- Urine cx- negative\n\n[**2189-12-19**]\n- Blood cx- pending\n- Urine cx- negative\n\n[**2189-12-20**]\n- Blood cx- pending\n- C. diff toxin- negative\n\n===============\nINTERNVETION\n===============\n[**2189-12-7**]\n- Common hepatic artery and left hepatic artery arteriogram.\n- Transarterial chemoembolization of the left lobe of liver.\n- Angio-Seal closure device deployment to the right common\nfemoral artery\naccess site.\nFINDINGS:\n1. There is conventional celiac axis anatomy as demonstrated on\nprevious\narteriograms.\n2. Common hepatic artery arteriogram demonstrates multiple\narterially\nenhancing masses throughout both lobes of liver.\n3. The left hepatic artery arteriogram confirmed large enhancing\nmasses in the left lobe of liver, which was successfully\ntargeted with the\nchemotherapeutic [**Doctor Last Name 360**], with 60 mg of doxorubicin, 20 mL of\nlipoidol, and 20 mL of intra-arterial lidocaine, and one and a\nhalf vials of 100-300 micron Embospheres administered.\nIMPRESSION: Satisfactory left hepatic artery chemoembolization\n\n======================\nIMAGING\n======================\n[**2189-12-8**]\n- CT Abdomen/Pelvis: There is dependent atelectasis at the\nbilateral lung bases without effusion or focal consolidation to\nsuggest pneumonia. Some hyperdensity is newly seen at the lung\nbases, which most likely reflects systemic ethiodol distribution\nsecondary to small intrahepatic portosystemic shunt. Coronary\ncalcifications are noted. Hyperdense material within multiple\nright lobe liver lesions is stable from [**2189-11-13**],\ncompatible with sequelae of prior chemoembolization.\nAdditionally, there is newly noted extensive hyperdense material\nwithin the left lobe of the liver and caudate lobe, most\nconcentrated at the sites of previously noted\narterially-enhancing lesions, compatible with recent left\nhepatic artery chemoembolization. Other than the aforementioned\nhyperdensity at the lung bases, there is no definite evidence of\nextrahepatic Ethiodol uptake. Hyperdense material dependently\nwithin stomach appears intraluminal, most likely reflecting\ningested medication. The spleen, adrenal glands, and kidneys\nremain unremarkable. Contrast in the collecting system reflects\nrecent angiography. There are no contour-altering renal mass\nlesions. The pancreatic tail is again noted to be atrophic. The\nknown pancreatic head mass is not well appreciated without\nintravenous contrast. Stranding inferior to the pancreatic head\nis noted, possibly reflecting the sequelae of prior\npancreatitis. There is a metallic common bile duct stent in\nstandard position, with left lobe pneumobilia compatible with\nstent patency. The stomach, duodenum, and intra-abdominal loops\nof small and large bowel are\nnormal in caliber and configuration. There is no bowel\ndistention or bowel wall thickening. There is no free fluid or\nfree air identified.\nBONE WINDOWS: No suspicious lytic or sclerotic osseous lesions\nidentified.\nIMPRESSION:\n1. Extensive Ethiodol uptake within the left lobe of the liver,\nmost\nconcentrated at the site of previously noted\narterially-enhancing lesions seen on [**2189-11-13**].\n2. Hyperdensity at the lung bases is most compatible with\nEthiodol, likely secondary to a small intrahepatic\nporto-systemic shunt. There is no further evidence of\nextrahepatic Ethiodol uptake.\n3. Common bile duct stent in standard position. Left lobe\npneumobilia is\ncompatible with stent patency. Known pancreatic head mass is not\nwell\nappreciated given lack of intravenous contrast.\n\n[**2189-12-11**]\n- Echo: The left atrium is mildly dilated. Left ventricular wall\nthicknesses and cavity size are normal. Regional left\nventricular wall motion is normal. Overall left ventricular\nsystolic function is low normal (LVEF 50-55%). Right ventricular\nchamber size and free wall motion are normal. The ascending\naorta is mildly dilated. The aortic valve leaflets (3) appear\nstructurally normal with good leaflet excursion and no aortic\nregurgitation. The mitral valve leaflets are structurally\nnormal. There is no mitral valve prolapse. Mild (1+) mitral\nregurgitation is seen. The estimated pulmonary artery systolic\npressure is normal. There is no pericardial effusion.\nIMPRESSION: Normal biventricular cavity sizes with preserved\nregional and low normal global left ventricular systolic\nfunction.\n\n[**2189-12-14**]\n- The heart is normal in size. Mitral annular calcifications are\nnoted.\nAtherosclerotic calcifications of the aortic arch are present.\nLow attenuation of the intracardiac blood pool suggests\nunderlying anemia. There is a right central venous catheter,\nwith tip terminating within the SVC. A right paratracheal lymph\nnode is mildly enlarged measuring 15 mm, which is larger from\nprior study, and is likely reactive. The airways are patent to\nthe subsegmental level. There is interval development of diffuse\nground-glass airspace opacities, most severely involving the\nupper lobes. These findings are new compared to a CT Torso from\n[**2189-9-30**]. The previously seen hyperdense foci within the lower\nlobes suggestive of  extra-hepatic Ethiodol are less apparent on\nthis study. The previously seen dense consolidation of the lower\nlobes are also improved. There is no pleural or pericardial\neffusion. This examination is not tailored for subdiaphragmatic\nevaluation. Extensive Ethiodol uptake within the left lobe of\nthe liver is again noted. Osseous structures reveal no\nsuspicious lesion.\nIMPRESSION:\n1. Interval development of diffuse ground-glass opacities\nthroughout the lungs, most severe within the upper lobes\nbilaterally. The differential diagnosis includes infection\n(including atypical infections from PCP or fungal if the patient\nis immunocompromised), pulmonary edema, and pulmonary\nhemorrhage.\n2. Previously seen hyperdense foci in the lung bases felt to\nrepresent extra-hepatic Ethiodol are less apparent on this\nstudy.\n3. Extensive Ethiodol uptake within the left lobe of the liver.\n\n[**2189-12-16**]\n- LENIS: The deep veins of bilateral lower extremity, namely the\ncommon femoral vein, the superficial femoral vein, the popliteal\nvein, the peroneal and the posterior tibial veins proximally in\nthe calf region are patent, show normal caliber,\ncompressibility, and phasicity. On spectral wave Doppler, good\naugmentation and phasicity waves are noted. There is no evidence\nof acute or chronic thrombus at this time .\nIMPRESSION: No evidence of deep venous thrombosis in the\nbilateral lower\nextremity deep veins on the available images at the time of the\nstudy.\n\n[**2189-12-19**]\n- CXR: Pulmonary consolidation has been severe in the right lung\nsince [**12-13**]. Today, it has progressed dramatically in the\nleft upper lobe. Whether this is pneumonia or pulmonary\nhemorrhage is radiographically indeterminate. Sparing of left\nlower lobe suggests that it is not edema. Severe cardiomegaly\npersists along with mediastinal and hilar vascular engorgement.\nTip of the endotracheal tube is above the upper margin of the\nclavicles, no less than 3 cm from the carina. No pneumothorax.\n\n[**2189-12-21**]\n- Echo: The left atrium is elongated. Left ventricular wall\nthickness, cavity size and regional/global systolic function are\nnormal (LVEF >55%). The estimated cardiac index is high\n(>4.0L/min/m2). Right ventricular chamber size and free wall\nmotion are normal. The aortic valve leaflets (?#) appear\nstructurally normal with good leaflet excursion. There is no\nvalvular aortic stenosis. The increased transaortic velocity is\nlikely related to high cardiac output. No aortic regurgitation\nis seen. The mitral valve leaflets are mildly thickened. Mild\n(1+) mitral regurgitation is seen. There is mild pulmonary\nartery systolic hypertension. There is no pericardial effusion.\nCompared with the prior study (images reviewed) of [**2189-12-11**],\nleft ventricular systolic function is more dynamic and the heart\nrate is higher. The estimated pulmonary artery systolic pressure\nis now higher.\n\n[**2189-12-23**]\n- CT Chest\n\nBrief Hospital Course:\n61 y/o with metastatic neuroendocrine CA admitted for hydration\nprior to TACE on [**12-7**], presented to the ICU with hypoxemic\nrespiratory failure due to what was thought to be\nhospital-acquired pneumonia vs acute on chronic diastolic CHF vs\npneumonitis secondary to a portosystemic shunt communicating\nfrom her TACE procedure.  Ms. [**Name14 (STitle) 52984**] had a prolonged course in\nthe ICU, requiring ventilatory assitance\n\n# Hypoxemic respiratory failure/Lung infiltrates.  Patient was\ntransferred from oncology service after her TACE for increased\nrespiratory distress with a subacute decompensation, which was\ninitially thought to be from acute on chronic diastolic heart\nfailure, pneumonia, aspiration, hemorrhage or VTE with a small\ncomponent of portosystemic shunt.  She was intubated for\nincreased work of breathing on [**2189-12-16**].  However, subsequent\nbronchoscopy did not suggest an infectious or hemorrhagic\netiology as BAL was negative and bronchoscopy showed mostly\nclear aspirate.  She was continued on vancomycin which was\nstarted prior to her transfer to ICU, and she was started also\non meropenem so that both would cover for HAP as well as\nlevofloxacin to cover atypical pneumonia.  She completed a 5 day\ncourse of levofloxain and 12 day course of vancomycin.\nMeropenem was kept for pseudomonal coverage for a planned course\nof 14 days.  Methylprednisolone was initiated at 20 mg q8h for\npossible pneumonitis as patient's hypoxic respiratory failure\npersists despite antibiotics treatments.  Her respiratory status\ncontinued to be without progress on the steroid, requiring FiO2\nof 50-60%.  Thoracic surgery was consulted for possible VATS\nbiopsy to obtain a more definitive diagnosis to patient's\nparenchy infiltrates seen on CXR and CT.  However, no VATS is\npossible given her clinical status, and the risk outweighs the\nbenefit for patient to undergo open thoracotomy for tissue\nbiopsy.  As her sepsis improved, she was able to tolerate\nintermittent dose of lasix to diurese the presumed pulmonary\nedema as her total length of state fluid balance was positive.\nFamily meeting was held to discuss her respiratory status, and\npatient was made CMO.  Patient was extubated on the night of\n[**12-30**] and she passed away shortly therafter.\n\n# Shock, liekly [**3-3**] distributive/sepsis with SvO2 78% and\ninitial SVV [**5-17**].  Patient initially required Levophed support\nas well as fluid boluses to maintain her MAP and urine output.\nThe likely source for the sepsis is pulmonary\ninfection/inflammation based on radiographical evidence as her\nother culture data have been negative.  No evidence of adrenal\ninsufficiency, thyroid toxicosis, PE.  She was able to be weaned\noff pressors.\n\n# Acute Renal insufficiency, likely from pre-renal azotemia\nsecondary to sepsis. This was noted as her Crt trended up to 1.5\nfrom baseline 0.6-0.8.  FeUrea was found to be < 35% and FENa <\n1%.  She initially required pressors and IVF boluses for the low\nurine output.  Her SVO2 and SVV were monitored closely to help\nguide therapy.  She gradually improved and was able to be weaned\noff of pressors and tolerate diuresis with improved and stable\nCrt.\n\n# Hypernatremia.  Free water deficit initially about 3.8L.  She\nwas treated with D5W fluid bolus then maintenance with the\nlikely goal of starting free water flushes into her tube feed.\n\n# Acute on Chronic Diastolic CHF, likely with some component of\npulmonary edema which contributes some to the respiratory\nfunction.  Initial echocardiogram showed LVEF of 50-55%.  Diovan\nand diltiazem were soon held after her arrival to the [**Hospital Unit Name 153**]\nsecondary to hypotension and requirement of pressor, Levophed.\nHer repeat echocardiogram showed hyperdynamic ventricular\nfunction, correlating to her distributive shock picture.  As she\nwas weaned off pressor on [**2189-12-21**].  She was able to tolerate\nintermittent low dose of furosemide for diuresis given that\npatient's length of stay fluid balance was positive.\n\n#Pancytopenia, likely [**3-3**] recent chemotherapy.  Her CBC was\nmonitored on a daily basis.  Her white count, anemia, and\nthrombocytopenia were stably low.  She did not have episodes of\nacute bleeding.  Active type and screen were maintained.\n\n# Neuroendocrine cancer.  Patient was admitted to the hospital\nfor TACE.  Her LFT was elevated after TACE, but gradually\ntrended downward during her stay in the ICU.\n\n# Diabetes Mellitus.  Patient was placed on an insulin sliding\nscale with 70/30 and regular finger stick blood sugar\nmonitoring.\n\n# Goals of Care.  Full code, confirmed on [**2189-12-16**].  However,\nprior to intubation, patient voiced that she would not want to\nbe on the ventilator for a prolonged period of time, and she\nwould give herself 4-6 weeks on the ventilator only if she was\nunable to be successfully extubated.  She stated that she would\nnot want to have a trach or a PEG prior to [**2189-12-16**].  Her\nhealth care proxy is her daughter, [**Name (NI) **] [**Name (NI) 16745**] [**Telephone/Fax (1) 52985**].\n\nA fmily meeting was held on [**2189-12-30**]. At that point Ms. [**Known lastname 52986**]\nfamily decided that in light of her continued deterioration and\nin respect for her clear wish not to have prolonged life\nsupporting care if her lung function was not improving to make\ncomfort the sole goal and will discontinue any therapy not\ndirected at comfort. She passed away that evening.\n\nMedications on Admission:\nDeceased.\n\nDischarge Medications:\nDeceased.\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nDeceased.\n\n\nDischarge Condition:\nDeceased.\n\n\nDischarge Instructions:\nDeceased.\n\nFollowup Instructions:\nDeceased.\n\n\n                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]\n\nCompleted by:[**2190-1-1**]"
+    }
+  ]
+}

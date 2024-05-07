@@ -1,0 +1,524 @@
+{
+  "hadm_id": 162131,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 106572,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 236,
+          "end": 248,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Lateral ST-T"
+        },
+        {
+          "begin": 391,
+          "end": 418,
+          "code": "I49.3",
+          "code_system": "ICD-10-CM",
+          "description": "Ventricular premature depolarization",
+          "type": "Human",
+          "covered_text": "ventricular premature beats"
+        }
+      ],
+      "text": "Baseline artifact. Underlying rhythm is probably sinus bradycardia with\nventricular premature beats. Prior inferior myocardial infarction of\nindeterminate age. Poor R wave progression. Consider prior anteroseptal\nmyocardial infarction. Lateral ST-T wave changes are non-specific but cannot\nrule out myocardial ischemia. Clinical correlation is suggested. Compared to\ntracing #1 frequency of ventricular premature beats is reduced.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 106573,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 119,
+          "end": 140,
+          "code": "I21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute myocardial infarction, unspecified",
+          "type": "Human",
+          "covered_text": "myocardial infarction"
+        },
+        {
+          "begin": 367,
+          "end": 394,
+          "code": "I49.3",
+          "code_system": "ICD-10-CM",
+          "description": "Ventricular premature depolarization",
+          "type": "Human",
+          "covered_text": "ventricular premature beats"
+        }
+      ],
+      "text": "Baseline artifact. The rhythm is probably sinus bradycardia with ventricular\nbigeminy. Sinus beats show prior inferior myocardial infarction with possible\nprior anterior wall myocardial infarction also, as well as diffuse ST-T wave\nchanges. Clinical correlation is suggested. Compared to the previous tracing\nof [**2108-6-7**] the rhythm is significantly slower with ventricular premature beats\nnow seen. Previously suggested inferior and possible anterior wall myocardial\ninfarctions are present.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 106571,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 26,
+          "code": "R94.31",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal electrocardiogram [ECG] [EKG]",
+          "type": "Human",
+          "covered_text": "Ventricularly paced rhythm"
+        }
+      ],
+      "text": "Ventricularly paced rhythm. Underlying rhythm is not clear but may be atrial\nfibrillation, as no clear P waves are seen. Compared to tracing #2 the\nunderlying rhythm may be atrial fibrillation on the current tracing and\nventricular complexes are all paced.\nTRACING #3\n\n"
+    },
+    {
+      "note_id": 372,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 275,
+          "end": 290,
+          "code": "R42",
+          "code_system": "ICD-10-CM",
+          "description": "Dizziness and giddiness",
+          "type": "Human",
+          "covered_text": "Lightheadedness"
+        },
+        {
+          "begin": 292,
+          "end": 302,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "slow pulse"
+        },
+        {
+          "begin": 436,
+          "end": 467,
+          "code": "I34.1",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic mitral (valve) prolapse",
+          "type": "Human",
+          "covered_text": "myxomatous mitral\nvalve disease"
+        },
+        {
+          "begin": 496,
+          "end": 526,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "paroxysmal atrial\nfibrillation"
+        },
+        {
+          "begin": 627,
+          "end": 641,
+          "code": "I42.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomyopathy, unspecified",
+          "type": "Human",
+          "covered_text": "cardiomyopathy"
+        },
+        {
+          "begin": 669,
+          "end": 684,
+          "code": "R42",
+          "code_system": "ICD-10-CM",
+          "description": "Dizziness and giddiness",
+          "type": "Human",
+          "covered_text": "lightheadedness"
+        },
+        {
+          "begin": 689,
+          "end": 701,
+          "code": "R55",
+          "code_system": "ICD-10-CM",
+          "description": "Syncope and collapse",
+          "type": "Human",
+          "covered_text": "near-syncope"
+        },
+        {
+          "begin": 727,
+          "end": 744,
+          "code": "R69",
+          "code_system": "ICD-10-CM",
+          "description": "Illness, unspecified",
+          "type": "Human",
+          "covered_text": "undefined illness"
+        },
+        {
+          "begin": 749,
+          "end": 760,
+          "code": "R63.4",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal weight loss",
+          "type": "Human",
+          "covered_text": "weight loss"
+        },
+        {
+          "begin": 856,
+          "end": 870,
+          "code": "R43.9",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified disturbances of smell and taste",
+          "type": "Human",
+          "covered_text": "sense of taste"
+        },
+        {
+          "begin": 1494,
+          "end": 1506,
+          "code": "R79.0",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal level of blood mineral",
+          "type": "Human",
+          "covered_text": "elevated INR"
+        },
+        {
+          "begin": 1508,
+          "end": 1519,
+          "code": "E87.6",
+          "code_system": "ICD-10-CM",
+          "description": "Hypokalemia",
+          "type": "Human",
+          "covered_text": "hypokalemic"
+        },
+        {
+          "begin": 1546,
+          "end": 1563,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "sinus bradycardia"
+        },
+        {
+          "begin": 1569,
+          "end": 1606,
+          "code": "I49.3",
+          "code_system": "ICD-10-CM",
+          "description": "Ventricular premature depolarization",
+          "type": "Human",
+          "covered_text": "intermittent ventricular escape beats"
+        },
+        {
+          "begin": 1728,
+          "end": 1753,
+          "code": "I95.1",
+          "code_system": "ICD-10-CM",
+          "description": "Orthostatic hypotension",
+          "type": "Human",
+          "covered_text": "worsening postural\nhypoTN"
+        },
+        {
+          "begin": 1964,
+          "end": 1995,
+          "code": "I34.1",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic mitral (valve) prolapse",
+          "type": "Human",
+          "covered_text": "Myxomatous mitral valve disease"
+        },
+        {
+          "begin": 2225,
+          "end": 2244,
+          "code": "I48.20",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic atrial fibrillation, unspecified",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 2340,
+          "end": 2354,
+          "code": "I42.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomyopathy, unspecified",
+          "type": "Human",
+          "covered_text": "cardiomyopathy"
+        },
+        {
+          "begin": 2394,
+          "end": 2411,
+          "code": "G20",
+          "code_system": "ICD-10-CM",
+          "description": "Parkinson's disease",
+          "type": "Human",
+          "covered_text": "Parkinson disease"
+        },
+        {
+          "begin": 2460,
+          "end": 2483,
+          "code": "I95.1",
+          "code_system": "ICD-10-CM",
+          "description": "Orthostatic hypotension",
+          "type": "Human",
+          "covered_text": "Progressive orthostasis"
+        },
+        {
+          "begin": 2489,
+          "end": 2498,
+          "code": "R42",
+          "code_system": "ICD-10-CM",
+          "description": "Dizziness and giddiness",
+          "type": "Human",
+          "covered_text": "dizziness"
+        },
+        {
+          "begin": 2523,
+          "end": 2526,
+          "code": "Q21.1",
+          "code_system": "ICD-10-CM",
+          "description": "Atrial septal defect",
+          "type": "Human",
+          "covered_text": "ASD"
+        },
+        {
+          "begin": 4805,
+          "end": 4836,
+          "code": "I34.1",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic mitral (valve) prolapse",
+          "type": "Human",
+          "covered_text": "myxomatous mitral valve disease"
+        },
+        {
+          "begin": 4865,
+          "end": 4895,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "paroxysmal atrial fibrillation"
+        },
+        {
+          "begin": 4958,
+          "end": 4972,
+          "code": "I42.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomyopathy, unspecified",
+          "type": "Human",
+          "covered_text": "cardiomyopathy"
+        },
+        {
+          "begin": 4991,
+          "end": 5006,
+          "code": "R42",
+          "code_system": "ICD-10-CM",
+          "description": "Dizziness and giddiness",
+          "type": "Human",
+          "covered_text": "lightheadedness"
+        },
+        {
+          "begin": 5011,
+          "end": 5023,
+          "code": "R55",
+          "code_system": "ICD-10-CM",
+          "description": "Syncope and collapse",
+          "type": "Human",
+          "covered_text": "near-syncope"
+        },
+        {
+          "begin": 5049,
+          "end": 5066,
+          "code": "R69",
+          "code_system": "ICD-10-CM",
+          "description": "Illness, unspecified",
+          "type": "Human",
+          "covered_text": "undefined illness"
+        },
+        {
+          "begin": 5071,
+          "end": 5082,
+          "code": "R63.4",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal weight loss",
+          "type": "Human",
+          "covered_text": "weight loss"
+        },
+        {
+          "begin": 5096,
+          "end": 5107,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "bradycardic"
+        },
+        {
+          "begin": 5236,
+          "end": 5240,
+          "code": "I47.2",
+          "code_system": "ICD-10-CM",
+          "description": "Ventricular tachycardia",
+          "type": "Human",
+          "covered_text": "NSVT"
+        },
+        {
+          "begin": 5596,
+          "end": 5600,
+          "code": "I47.2",
+          "code_system": "ICD-10-CM",
+          "description": "Ventricular tachycardia",
+          "type": "Human",
+          "covered_text": "NSVT"
+        },
+        {
+          "begin": 5617,
+          "end": 5628,
+          "code": "E87.6",
+          "code_system": "ICD-10-CM",
+          "description": "Hypokalemia",
+          "type": "Human",
+          "covered_text": "hypokalemia"
+        },
+        {
+          "begin": 6066,
+          "end": 6083,
+          "code": "R62.7",
+          "code_system": "ICD-10-CM",
+          "description": "Adult failure to thrive",
+          "type": "Human",
+          "covered_text": "Failure to thrive"
+        },
+        {
+          "begin": 6108,
+          "end": 6119,
+          "code": "R63.4",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal weight loss",
+          "type": "Human",
+          "covered_text": "weight loss"
+        },
+        {
+          "begin": 6121,
+          "end": 6141,
+          "code": "R63.0",
+          "code_system": "ICD-10-CM",
+          "description": "Anorexia",
+          "type": "Human",
+          "covered_text": "decrease in appetite"
+        },
+        {
+          "begin": 6151,
+          "end": 6158,
+          "code": "R53.83",
+          "code_system": "ICD-10-CM",
+          "description": "Other fatigue",
+          "type": "Human",
+          "covered_text": "fatigue"
+        },
+        {
+          "begin": 6163,
+          "end": 6170,
+          "code": "R53.81",
+          "code_system": "ICD-10-CM",
+          "description": "Other malaise",
+          "type": "Human",
+          "covered_text": "malaise"
+        },
+        {
+          "begin": 6343,
+          "end": 6349,
+          "code": "R11.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nausea",
+          "type": "Human",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 6547,
+          "end": 6553,
+          "code": "R11.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nausea",
+          "type": "Human",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 6560,
+          "end": 6572,
+          "code": "D61.818",
+          "code_system": "ICD-10-CM",
+          "description": "Other pancytopenia",
+          "type": "Human",
+          "covered_text": "Pancytopenia"
+        },
+        {
+          "begin": 6851,
+          "end": 6870,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute renal failure"
+        },
+        {
+          "begin": 8399,
+          "end": 8405,
+          "code": "R11.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nausea",
+          "type": "Human",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 8923,
+          "end": 8927,
+          "code": "I47.2",
+          "code_system": "ICD-10-CM",
+          "description": "Ventricular tachycardia",
+          "type": "Human",
+          "covered_text": "NSVT"
+        },
+        {
+          "begin": 9146,
+          "end": 9161,
+          "code": "R42",
+          "code_system": "ICD-10-CM",
+          "description": "Dizziness and giddiness",
+          "type": "Human",
+          "covered_text": "lightheadedness"
+        },
+        {
+          "begin": 9383,
+          "end": 9398,
+          "code": "I49.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrhythmia, unspecified",
+          "type": "Human",
+          "covered_text": "abnormal rhythm"
+        },
+        {
+          "begin": 9663,
+          "end": 9674,
+          "code": "R63.4",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal weight loss",
+          "type": "Human",
+          "covered_text": "weight loss"
+        },
+        {
+          "begin": 9695,
+          "end": 9701,
+          "code": "R11.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nausea",
+          "type": "Human",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 10432,
+          "end": 10438,
+          "code": "R11.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nausea",
+          "type": "Human",
+          "covered_text": "nausea"
+        }
+      ],
+      "text": "Admission Date:  [**2110-5-21**]              Discharge Date:   [**2110-5-23**]\n\nDate of Birth:  [**2050-3-18**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 425**]\nChief Complaint:\nLightheadedness, slow pulse\n\nMajor Surgical or Invasive Procedure:\nNone\n\nHistory of Present Illness:\nDr. [**Known lastname 3339**] is a 60 yoM with a history of myxomatous mitral\nvalve disease s/p annuloplasty '[**98**], paroxysmal atrial\nfibrillation currently on Dronedarone and Coumadin, h/o\npostoperative NSVT s/p ICD placement, and h/o nondilated\ncardiomyopathy with EF  who presents with lightheadedness and\nnear-syncope in the context of recent undefined illness and\nweight loss.\n.\nPt reports history of 25lb weight loss in the past 6 weeks that\nhe attributes to losing his sense of taste due to his\nParkinson's meds. He denies any further focal symptoms during\nthis time frame. Then, today he was not feeling well while at\nwork in the ED here at [**Hospital1 18**]. He had been feeling lightheaded\nall day. He went home then relates that he was laying on the\ncouch watching TV with his daughter and may have passed out for\nsome time, the only thing he remembers is his daughter waking\nhim up. He is unsure if he actually lost consciousness or not. A\nfamily member took his pulse and found him to be in the 20's, so\nbrought him to the ED.\n.\nThere his vitals were hr 31, 110/68, 18, 100% RA. He was found\nto have elevated INR, hypokalemic and repleted. EKG showing\nsinus bradycardia with intermittent ventricular escape beats and\nVpaced beats. He is admitted to CCU for pacer interrogation and\nmonitoring.\n.\nROS is positive as above and also with worsening postural\nhypoTN, which he ascribes to the Parkinson's meds, and lost of\ntaste, also attributed to Parkinson's meds\n.\nROS is negative for f/c/ns, CP, SOB, diaphoresis, cough, PND,\northopnea, syncope\n\n\nPast Medical History:\n1.  Myxomatous mitral valve disease status post mitral valve\nrepair with an annuloplasty ring at the [**Hospital 3340**] Clinic in\n[**2098**].\n2.  Postoperative nonsustained VT status post single chamber\n[**Company 1543**] ICD generator, changed in [**2108**].\n3.  Atrial fibrillation, was previously on Amiodarone but now on\nDronedarone and also Coumadin\n4.  Nonischemic dilated cardiomyopathy with an ejection fraction\nof 30-40%\n5. Parkinson disease, recently initiated on Aricept and\ncarbidopa\n6. Progressive orthostasis with dizziness upon standing.\n7. Small ASD or PFO not felt to be clinically significant\n\nSocial History:\nLives at home with wife and two daughters\n[**Name (NI) 1139**] Use: Never smoker\nAlcohol Abuse: No history of alcohol abuse.\nNo drugs\n\nFamily History:\nFH:\nh/o colon CA\n\n\nPhysical Exam:\n96.5   72   116/74   15   99% RA\nPleasant middle aged male in no distress, good historian.\nJVD not elevated, no hepatojugular reflux noted\nLungs CTAB no w/c/r/r, good air movement, no accessory muscle\nuse, breathing comfortably on room air\nRRR, no murmurs appreciated, heart sounds soft S1 S2, no S3 S4\nAbd obese NT ND\nNo BLE edema noted but hyperpigmented macules noted\n2+ bilateral radial pulses noted\nCN 2-12 intact, no facial droop or dysarthria, spontaneously\nmoving all four extremities, no focal lesions noted.\n\n\nPertinent Results:\nCHEST (PORTABLE AP) Study Date of [**2110-5-21**] 10:47 PM\nIMPRESSION: No acute intrathoracic process.\n\nCBC\n[**2110-5-23**] 06:45AM BLOOD WBC-4.1 RBC-4.09* Hgb-11.9* Hct-35.0*\nMCV-86 MCH-29.2 MCHC-34.1 RDW-13.7 Plt Ct-180\n[**2110-5-22**] 04:21AM BLOOD WBC-3.4* RBC-3.90* Hgb-11.7* Hct-33.2*\nMCV-85 MCH-29.9 MCHC-35.2* RDW-13.8 Plt Ct-145*\n[**2110-5-21**] 10:22PM BLOOD WBC-4.3 RBC-4.22* Hgb-12.3* Hct-35.9*\nMCV-85 MCH-29.0 MCHC-34.1 RDW-13.7 Plt Ct-201\n\nCoags\n[**2110-5-23**] 06:45AM BLOOD PT-29.5* PTT-32.6 INR(PT)-2.9*\n[**2110-5-22**] 04:21AM BLOOD PT-38.3* PTT-37.2* INR(PT)-4.0*\n[**2110-5-21**] 10:22PM BLOOD PT-39.3* PTT-33.2 INR(PT)-4.1*\n\nChemistry\n[**2110-5-23**] 01:28PM BLOOD K-4.2\n[**2110-5-23**] 06:45AM BLOOD Glucose-90 UreaN-9 Creat-1.0 Na-142 K-4.0\nCl-107 HCO3-29 AnGap-10\n[**2110-5-22**] 01:33PM BLOOD Glucose-93 UreaN-9 Creat-1.1 Na-140 K-4.7\nCl-106 HCO3-28 AnGap-11\n[**2110-5-22**] 04:21AM BLOOD Glucose-83 UreaN-13 Creat-1.2 Na-142\nK-3.1* Cl-106 HCO3-28 AnGap-11\n[**2110-5-21**] 10:22PM BLOOD Glucose-98 UreaN-14 Creat-1.3* Na-142\nK-3.1* Cl-102 HCO3-30 AnGap-13\n[**2110-5-23**] 06:45AM BLOOD Calcium-8.5 Phos-2.8 Mg-2.0\n[**2110-5-22**] 01:33PM BLOOD Calcium-8.7 Phos-2.2* Mg-2.1\n[**2110-5-22**] 04:21AM BLOOD Calcium-8.5 Phos-2.5* Mg-2.4 Iron-64\n[**2110-5-21**] 10:22PM BLOOD Calcium-8.9 Phos-2.8 Mg-1.7\n\nCardiac Enzymes\n[**2110-5-22**] 04:21AM BLOOD CK-MB-NotDone cTropnT-<0.01\n[**2110-5-21**] 10:22PM BLOOD cTropnT-<0.01\n\nBrief Hospital Course:\n60 y/o M with a history of myxomatous mitral valve disease s/p\nannuloplasty '[**98**], paroxysmal atrial fibrillation, h/o\npostoperative NSVT s/p ICD placement, and h/o nondilated\ncardiomyopathy who presents with lightheadedness and\nnear-syncope in the context of recent undefined illness and\nweight loss, found to be bradycardic and admitted to CCU for\nfurther management.\n.\n#. Presyncope/NSVT:  Pt had pacer evaluated by EP, which showed\na few episodes of NSVT which seem to correlate temporally with\nhis symptoms.  Also with runs of ventricular bigeminy with 1st\nQRS complex paced and second complex a wide complex PVC, other\nstrips show bigeminy without pacing.  Runs of sinus rhythm with\njunctional vs ventricular escape beats are also seen.  Patient\nwas followed closely by the EP service.  Possible etiology of\nNSVT could be due to hypokalemia.  Patient had potassium\naggressively repleted.  Prior to discharge, his potassium level\nwas 4.2, for which he was repleted with an extra 40 mEq of\npotassium for goal of 4.5.  Patient was continued on\ndronedarone.  Metoprolol was stopped.  Lisinopril decreased to 5\nmg daily.  Patient will also start daily potassium\nsupplementation.  He will follow up closely in device clinic\nwhere he will have repeat CBC, lytes, and INR checked.\n.\n#. Failure to thrive: patient has had recent weight loss,\ndecrease in appetite, overall fatigue and malaise.  Sinamet is\nthe most recent addition to his outpatient medications.  His\nneurologist did not think that these symptoms are due to\nsinamet, although sinamet may cause some nausea, the treatment\nof which would be to take an extra 25mg of carbidopa along with\nhis sinamet.  This was discussed with patient and a prescription\nfor carbidopa was provided to be taken as needed for nausea.\n.\n#. Pancytopenia: the etiology of this is unclear.  His\nmedications were reviewed with no offending medications found.\nHis neurologist did not think that this was being caused by any\nof his parkinson's meds.  He will have a repeat CBC drawn on his\nnext visit at device clinic to follow up.\n.\n#. Acute renal failure - patient on admission had creatinine of\n1.3 which trended down to baseline of 1.0 with gentle IV fluids.\n.\n#. Supratherapeutic INR - patient's albumin was normal which\nsuggests not a synthetic problem.  LFT's also normal.  Patient\nhad warfarin held during this admission, but on discharge his\nINR was back within therapeutic range of 2.0-3.0 at 2.9.  He\nwill be restarted on warfarin as an outpatient, and will have\nINR checked on his next visit to device clinic for further\nmanagement of his warfarin dosing.\n.\n#. Parkinson's - patient was continued on sinamet and azilect\n\nMedications on Admission:\nWarfarin 1 mg or 5 mg daily (? med list unclear)\nMetoprolol tartrate 50mg PO bid\nLisinopril 5mg po daily  (vs 20mg daily by medication list)\nDronedarone 400mg po BID\nAzilect (Rasagiline) 1mg daily\nCarbidopa/Levodopa 25/100 tid\nFlomax 0.4mg qhs\nAmbien 10 mg qhs prn\n\nDischarge Medications:\n1. Warfarin 2 mg Tablet Sig: One (1) Tablet PO once a day.\n2. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n3. Dronedarone 400 mg Tablet Sig: One (1) Tablet PO twice a day.\n\n4. AZILECT 1 mg Tablet Sig: One (1) Tablet PO daily ().\n5. Carbidopa-Levodopa 25-100 mg Tablet Sig: One (1) Tablet PO\nTID (3 times a day).\n6. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)\nCapsule, Sust. Release 24 hr PO HS (at bedtime).\n7. Zolpidem 5 mg Tablet Sig: 1-2 Tablets PO HS (at bedtime) as\nneeded for insomnia.\n8. Carbidopa 25 mg Tablet Sig: One (1) Tablet PO three times a\nday as needed for nausea.\nDisp:*90 Tablet(s)* Refills:*0*\n9. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:\nOne (1) Tab Sust.Rel. Particle/Crystal PO once a day.\nDisp:*30 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*\n10. Outpatient Lab Work\nPlease draw a CBC, Chemistry 10, PT, PTT, and INR drawn on\n[**2110-5-27**] and have results faxed to Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] at\n[**Telephone/Fax (1) 3341**]\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPrimary Diagnosis:\nPresyncope/NSVT\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to [**Hospital1 69**] for\nlightheadedness.  You were admitted to the cardiac intensive\ncare unit for close monitoring.  The electrophysiology service\nevaluated you on this admission and changed some of the setting\non your pacemaker.  They found brief episodes of abnormal rhythm\nwhen they interrogated your pacemaker.  You will need to\ncontinue taking dronedarone.\n\nWe contact[**Name (NI) **] your neurologist in regards to your parkinson's\nmedications: sinemet and resegaline.  It does not appear that\nthey are the causes of your appetite or weight loss.  Sinemet\ncan cause nausea, and the treatment to that is to take an\nadditional 25mg of carbidopa along with the sinemet\n\nYou will also need to continue warfarin.  Your INR on discharge\nis 2.9.  Please continue to have your INR checked periodically\nin order to manage your warfarin dosage.\n\nYou will need to have your labs checked again.  Please have a\nCBC, Chem 10, and an INR checked on [**5-27**].\n\nYour medications have changed.  Please make note of the\nfollowing changes:\n- please STOP taking metoprolol\n- please DECREASE your lisinopril dosage to 5 mg daily\n- new: Potassium chloride 20 mEq daily\n- you are being given a prescription for carbidopa.  You can\ntake one tablet along with your sinamet, three times a day, as\nneeded if you are experiencing nausea that you think may be due\nto the sinamet.\n\nWeigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more\nthan 3 lbs.\n\nFollowup Instructions:\nProvider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2110-5-27**]\n9:00\n\nDr.[**Name (NI) 1565**] office will contact you for an additional follow\nup appointment in approximately 6 weeks' time.  If you do not\nhear back from them soon, please call [**Telephone/Fax (1) 3342**] to make the\nappointment.\n\nPlease continue to follow up with your neurologist Dr. [**First Name4 (NamePattern1) **]\n[**Last Name (NamePattern1) **]\n\n\n\n"
+    }
+  ]
+}

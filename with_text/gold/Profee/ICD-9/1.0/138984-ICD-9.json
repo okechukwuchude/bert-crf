@@ -1,0 +1,748 @@
+{
+  "hadm_id": 138984,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 255275,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 26,
+          "end": 53,
+          "code": "427.69",
+          "code_system": "ICD-9-CM",
+          "description": "Other premature beats",
+          "type": "MapType.APPROX",
+          "covered_text": "ventricular premature beats"
+        },
+        {
+          "begin": 79,
+          "end": 100,
+          "code": "410.90",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myocardial infarction, unspecified site, episode of care unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "myocardial infarction"
+        },
+        {
+          "begin": 240,
+          "end": 267,
+          "code": "427.69",
+          "code_system": "ICD-9-CM",
+          "description": "Other premature beats",
+          "type": "MapType.APPROX",
+          "covered_text": "ventricular premature beats"
+        }
+      ],
+      "text": "Sinus rhythm.  Occasional ventricular premature beats.  Possible inferior\nwall myocardial infarction of indeterminate age.  Modest inferolateral\nST-T wave changes which are non-specific.  Compared to the previous tracing\nof [**2152-4-19**] ventricular premature beats are new but no other significant\ndiagnostic change.\n\n"
+    },
+    {
+      "note_id": 91458,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 38,
+          "end": 58,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "Chronic lung disease"
+        },
+        {
+          "begin": 60,
+          "end": 84,
+          "code": "746.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified congenital anomaly of heart",
+          "type": "MapType.APPROX",
+          "covered_text": "Congenital heart disease"
+        },
+        {
+          "begin": 86,
+          "end": 109,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 111,
+          "end": 131,
+          "code": "786.05",
+          "code_system": "ICD-9-CM",
+          "description": "Shortness of breath",
+          "type": "MapType.EXACT",
+          "covered_text": "Shortness of breath."
+        },
+        {
+          "begin": 284,
+          "end": 287,
+          "code": "93308",
+          "code_system": "CPT",
+          "description": "Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, follow-up or limited study",
+          "type": "Human",
+          "covered_text": "TTE"
+        },
+        {
+          "begin": 436,
+          "end": 450,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "LA enlargement"
+        },
+        {
+          "begin": 676,
+          "end": 687,
+          "code": "428.1",
+          "code_system": "ICD-9-CM",
+          "description": "Left heart failure",
+          "type": "MapType.EXACT",
+          "covered_text": "LV\nsystolic"
+        },
+        {
+          "begin": 1080,
+          "end": 1118,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "Mildly thickened aortic valve leaflets"
+        },
+        {
+          "begin": 1120,
+          "end": 1127,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "Mild AS"
+        },
+        {
+          "begin": 1189,
+          "end": 1209,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral valve chordae"
+        },
+        {
+          "begin": 1617,
+          "end": 1645,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "atrium is moderately dilated"
+        },
+        {
+          "begin": 1755,
+          "end": 1778,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "ventricular hypertrophy"
+        },
+        {
+          "begin": 1818,
+          "end": 1864,
+          "code": "428.1",
+          "code_system": "ICD-9-CM",
+          "description": "Left heart failure",
+          "type": "MapType.EXACT",
+          "covered_text": "regional left\nventricular systolic dysfunction"
+        },
+        {
+          "begin": 1870,
+          "end": 1881,
+          "code": "429.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other ill-defined heart diseases",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypokinesis"
+        },
+        {
+          "begin": 2124,
+          "end": 2145,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "aortic\nvalve stenosis"
+        },
+        {
+          "begin": 2280,
+          "end": 2300,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral\nregurgitation"
+        },
+        {
+          "begin": 2421,
+          "end": 2459,
+          "code": "416.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pulmonary heart diseases",
+          "type": "MapType.APPROX",
+          "covered_text": "pulmonary artery\nsystolic hypertension"
+        },
+        {
+          "begin": 2528,
+          "end": 2551,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "ventricular hypertrophy"
+        },
+        {
+          "begin": 2568,
+          "end": 2579,
+          "code": "428.1",
+          "code_system": "ICD-9-CM",
+          "description": "Left heart failure",
+          "type": "MapType.EXACT",
+          "covered_text": "LV\nsystolic"
+        },
+        {
+          "begin": 2601,
+          "end": 2621,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "Mild aortic stenosis"
+        },
+        {
+          "begin": 2637,
+          "end": 2657,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral\nregurgitation"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: Chronic lung disease. Congenital heart disease. Coronary artery disease. Shortness of breath.\nHeight: (in) 70\nWeight (lb): 180\nBSA (m2): 2.00 m2\nBP (mm Hg): 121/57\nHR (bpm): 84\nStatus: Inpatient\nDate/Time: [**2152-4-19**] at 12:30\nTest: Portable TTE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Suboptimal\n\n\nINTERPRETATION:\n\nFindings:\n\nLEFT ATRIUM: Moderate LA enlargement. Elongated LA.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Normal IVC diameter (<2.1cm) with >55%\ndecrease during respiration (estimated RA pressure (0-5mmHg).\n\nLEFT VENTRICLE: Mild symmetric LVH with normal cavity size. Mild regional LV\nsystolic dysfunction. Low normal LVEF. TDI E/e' >15, suggesting PCWP>18mmHg.\n\nLV WALL MOTION: Regional LV wall motion abnormalities include: basal inferior\n- hypo; mid inferior - hypo; basal inferolateral - hypo; mid inferolateral -\nhypo;\n\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\n\nAORTA: Normal aortic diameter at the sinus level. Normal ascending aorta\ndiameter.\n\nAORTIC VALVE: Mildly thickened aortic valve leaflets. Mild AS (area\n1.2-1.9cm2).\n\nMITRAL VALVE: No MVP. Mild thickening of mitral valve chordae. Eccentric MR\njet. Mild to moderate ([**12-12**]+) MR.\n\nTRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR. Mild PA\nsystolic hypertension.\n\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. No PS.\nPhysiologic PR.\n\nPERICARDIUM: No pericardial effusion.\n\nGENERAL COMMENTS: Suboptimal image quality - poor echo windows. Suboptimal\nimage quality - body habitus.\n\nConclusions:\nThe left atrium is moderately dilated. The left atrium is elongated. The\nestimated right atrial pressure is 0-5 mmHg. There is mild symmetric left\nventricular hypertrophy with normal cavity size. There is mild regional left\nventricular systolic dysfunction with hypokinesis of the basal-mid\ninfero-lateral walls. Overall left ventricular systolic function is low normal\n(LVEF 50-55%). Right ventricular chamber size and free wall motion are normal.\nThe aortic valve leaflets are mildly thickened (?#). There is mild aortic\nvalve stenosis (valve area 1.2-1.9cm2). There is no mitral valve prolapse. An\neccentric, posteriorly directed jet of Mild to moderate ([**12-12**]+) mitral\nregurgitation is seen without clear evidence of mitral valve prolapse or\nsignificant anterior mitral leaflet tethering. There is mild pulmonary artery\nsystolic hypertension. There is no pericardial effusion.\n\nIMPRESSION: Mild symmetric left ventricular hypertrophy with mild focal LV\nsystolic dysfunction c/w CAD. Mild aortic stenosis. Mild-moderate mitral\nregurgitation.\n\n\n"
+    },
+    {
+      "note_id": 255486,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 26,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Probable sinus tachycardia"
+        },
+        {
+          "begin": 104,
+          "end": 140,
+          "code": "794.31",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+          "type": "MapType.EXACT",
+          "covered_text": "Inferolateral lead ST-T wave changes"
+        }
+      ],
+      "text": "Probable sinus tachycardia with atrial premature beat but baseline artifact\nmakes assessment difficult. Inferolateral lead ST-T wave changes are\nnon-specific. No previous tracing available for comparison.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 255276,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 32,
+          "end": 53,
+          "code": "410.90",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myocardial infarction, unspecified site, episode of care unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "myocardial infarction"
+        }
+      ],
+      "text": "Sinus rhythm. Consider inferior myocardial infarction of indeterminate age.\nInferolateral lead ST-T wave changes. Cannot exclude myocardial ischemia.\nDelayed R wave progression with late precordial QRS transition is non-specific.\nClinical correlation is suggested. Since the previous tracing of same date\ntachycardia is absent and inferior myocardial infarction is suggested but\nbaseline artifact on previous tracing makes comparison difficult.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 40904,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 212,
+          "end": 231,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "Respiratory failure"
+        },
+        {
+          "begin": 364,
+          "end": 367,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 420,
+          "end": 439,
+          "code": "786.05",
+          "code_system": "ICD-9-CM",
+          "description": "Shortness of breath",
+          "type": "MapType.EXACT",
+          "covered_text": "shortness of breath"
+        },
+        {
+          "begin": 461,
+          "end": 465,
+          "code": "303.90",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified alcohol dependence, unspecified drinking behavior",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "ETOH"
+        },
+        {
+          "begin": 638,
+          "end": 643,
+          "code": "V46.8",
+          "code_system": "ICD-9-CM",
+          "description": "Dependence on other enabling machines",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "BiPAP"
+        },
+        {
+          "begin": 757,
+          "end": 773,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF exacerbation"
+        },
+        {
+          "begin": 1049,
+          "end": 1053,
+          "code": "303.90",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified alcohol dependence, unspecified drinking behavior",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "ETOH"
+        },
+        {
+          "begin": 1081,
+          "end": 1085,
+          "code": "303.90",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified alcohol dependence, unspecified drinking behavior",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "ETOH"
+        },
+        {
+          "begin": 1374,
+          "end": 1381,
+          "code": "786.09",
+          "code_system": "ICD-9-CM",
+          "description": "Other dyspnea and respiratory abnormality",
+          "type": "MapType.APPROX",
+          "covered_text": "dyspnea"
+        },
+        {
+          "begin": 1629,
+          "end": 1633,
+          "code": "414.05",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of bypass graft",
+          "type": "MapType.APPROX",
+          "covered_text": "CABG"
+        },
+        {
+          "begin": 1634,
+          "end": 1637,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 1638,
+          "end": 1642,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 1654,
+          "end": 1657,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "PNA"
+        },
+        {
+          "begin": 3961,
+          "end": 3989,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "atrium is moderately dilated"
+        },
+        {
+          "begin": 4099,
+          "end": 4122,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "ventricular hypertrophy"
+        },
+        {
+          "begin": 4162,
+          "end": 4208,
+          "code": "428.1",
+          "code_system": "ICD-9-CM",
+          "description": "Left heart failure",
+          "type": "MapType.EXACT",
+          "covered_text": "regional left ventricular systolic\ndysfunction"
+        },
+        {
+          "begin": 4214,
+          "end": 4225,
+          "code": "429.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other ill-defined heart diseases",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypokinesis"
+        },
+        {
+          "begin": 4468,
+          "end": 4489,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "aortic valve stenosis"
+        },
+        {
+          "begin": 4624,
+          "end": 4644,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral\nregurgitation"
+        },
+        {
+          "begin": 4765,
+          "end": 4803,
+          "code": "416.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pulmonary heart diseases",
+          "type": "MapType.APPROX",
+          "covered_text": "pulmonary artery systolic hypertension"
+        },
+        {
+          "begin": 4871,
+          "end": 4894,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "ventricular hypertrophy"
+        },
+        {
+          "begin": 4944,
+          "end": 4964,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "Mild aortic\nstenosis"
+        },
+        {
+          "begin": 4980,
+          "end": 5000,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral regurgitation"
+        },
+        {
+          "begin": 5012,
+          "end": 5043,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Opacification at the right base"
+        },
+        {
+          "begin": 5084,
+          "end": 5118,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Diffuse haziness in the right lung"
+        },
+        {
+          "begin": 5480,
+          "end": 5483,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 5531,
+          "end": 5558,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.MULTI",
+          "covered_text": "hypoxic respiratory failure"
+        },
+        {
+          "begin": 5868,
+          "end": 5871,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "PNA"
+        },
+        {
+          "begin": 5896,
+          "end": 5912,
+          "code": "518.4",
+          "code_system": "ICD-9-CM",
+          "description": "Acute edema of lung, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "pulmonary edema."
+        },
+        {
+          "begin": 5933,
+          "end": 5975,
+          "code": "V12.61",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia (recurrent)",
+          "type": "MapType.EXACT",
+          "covered_text": "history of recurrent aspiration pneumonias"
+        },
+        {
+          "begin": 6061,
+          "end": 6071,
+          "code": "E879.4",
+          "code_system": "ICD-9-CM",
+          "description": "Aspiration of fluid as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",
+          "type": "MapType.EXACT",
+          "covered_text": "Aspiration"
+        },
+        {
+          "begin": 6160,
+          "end": 6176,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF\nexacerbation"
+        },
+        {
+          "begin": 6318,
+          "end": 6321,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "PNA"
+        },
+        {
+          "begin": 6660,
+          "end": 6667,
+          "code": "786.09",
+          "code_system": "ICD-9-CM",
+          "description": "Other dyspnea and respiratory abnormality",
+          "type": "MapType.APPROX",
+          "covered_text": "dyspnea"
+        },
+        {
+          "begin": 6676,
+          "end": 6687,
+          "code": "796.2",
+          "code_system": "ICD-9-CM",
+          "description": "Elevated blood pressure reading without diagnosis of hypertension",
+          "type": "MapType.EXACT",
+          "covered_text": "elevated BP"
+        },
+        {
+          "begin": 6776,
+          "end": 6783,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mild MR"
+        },
+        {
+          "begin": 6785,
+          "end": 6792,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mild AS"
+        },
+        {
+          "begin": 6805,
+          "end": 6816,
+          "code": "428.1",
+          "code_system": "ICD-9-CM",
+          "description": "Left heart failure",
+          "type": "MapType.EXACT",
+          "covered_text": "LV systolic"
+        },
+        {
+          "begin": 7302,
+          "end": 7314,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypertensive"
+        },
+        {
+          "begin": 7784,
+          "end": 7787,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 8130,
+          "end": 8133,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 8539,
+          "end": 8543,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 8572,
+          "end": 8587,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "smoking history"
+        },
+        {
+          "begin": 8738,
+          "end": 8752,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 8799,
+          "end": 8803,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 10209,
+          "end": 10228,
+          "code": "786.05",
+          "code_system": "ICD-9-CM",
+          "description": "Shortness of breath",
+          "type": "MapType.EXACT",
+          "covered_text": "shortness of\nbreath"
+        },
+        {
+          "begin": 10232,
+          "end": 10240,
+          "code": "786.07",
+          "code_system": "ICD-9-CM",
+          "description": "Wheezing",
+          "type": "MapType.EXACT",
+          "covered_text": "wheezing"
+        },
+        {
+          "begin": 10724,
+          "end": 10733,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Pneumonia"
+        },
+        {
+          "begin": 10958,
+          "end": 10978,
+          "code": "786.05",
+          "code_system": "ICD-9-CM",
+          "description": "Shortness of breath",
+          "type": "MapType.EXACT",
+          "covered_text": "difficulty breathing"
+        }
+      ],
+      "text": "Admission Date:  [**2152-4-19**]              Discharge Date:   [**2152-4-23**]\n\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 2186**]\nChief Complaint:\nRespiratory failure\n\nMajor Surgical or Invasive Procedure:\nNone\n\n\nHistory of Present Illness:\nMr. [**Known lastname **] is a 78 yo male with history of CAD s/p CABG, CHF,\n? COPD presents from home with acute shortness of breath. He\nreports drinking ETOH tonight, but denies aspiration. The\npatient was found by EMS to not be able to talk in complete\nsentences. His BPs were 220s/140s. He received nitro spray x 4\nenroute with BiPAP with mild improvement.\n.\nIn the ED, initial VS were 138 139/126 28 97% on CPAP. Initially\nhe was thought to have CHF exacerbation, so was treated with\nmorphine, nitro drip. He then was found to have a rectal temp of\n103.6 and CXR returned with large RLL infiltrate. Nitro drip was\nstopped and he was given 1300mg PR tylenol. He was then treated\nfor suspected aspiration PNA with vanc/levofloxacin/flagyl. ETOH\nnegative despite report of ETOH use tonight. He was maintained\non CPAP 10/5 now with FiO2 100%, satting 100%. After report was\ngiven, attempt to titrate off non-invasive mechanical\nventilation was attempted given concern for autopeep with BPs in\nthe 80s. He was placed on NRB with adequate saturation, however\nfelt more dyspnea, thus non-invasive was restarted. He was given\na total of 2L NS for fluid resuscitation. 2 PIVs were placed.\n.\nUpon arrival to the ICU, the patient reports improvement in\nsymptoms. Does not remember the events of the night.\n\nPast Medical History:\nCABG\nCHF\nCOPD\ntwo recent PNA infections\n\n\nSocial History:\n- Home: Wife lives in a NH in [**Last Name (un) **]. Has two sons one in FL,\none in [**Location (un) **] is [**Name (NI) 86**] PD.\n- Tobacco: denies\n- Alcohol: +etoh\n- Illicits: denies\n\n\nFamily History:\nNC\n\nPhysical Exam:\nADMISSION EXAM\nGeneral: Alert, mildly confused, slow to answer questions in no\nrespiratory distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Rhonchi BL worse on R than l, expiratory wheezes worse on\nleft than right\nCV: tachycardic, regular rhythm, normal S1 + S2, no murmurs,\nrubs, gallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n.\nDISCHARGE EXAM\nVitals: 99.3 168/97 78 20 94%2L\nGeneral: NAD\nHEENT: NC/AT, EOMI, no pallor or icterus, MMM\nNeck: no JVD\nCV: regular, nml S1/S2,\nPulm: quiet bibasilar crackles, R>L, no wheezing\nAbdom: obese, soft, NT, NABS\nExtrem: WWP, 1+ pedal pulses, no edema\n\nPertinent Results:\nAdmission labs:\n===============\n[**2152-4-19**] 05:11AM BLOOD WBC-9.1 RBC-5.09 Hgb-15.8 Hct-47.1 MCV-93\nMCH-31.0 MCHC-33.6 RDW-14.1 Plt Ct-189\n[**2152-4-19**] 05:11AM BLOOD Neuts-90.8* Lymphs-5.4* Monos-1.8*\nEos-1.3 Baso-0.8\n[**2152-4-19**] 05:11AM BLOOD PT-11.0 PTT-21.3* INR(PT)-0.9\n[**2152-4-19**] 05:11AM BLOOD Fibrino-436*\n[**2152-4-19**] 05:11AM BLOOD Glucose-147* UreaN-17 Creat-0.9 Na-135\nK-5.6* Cl-97 HCO3-29 AnGap-15\n[**2152-4-19**] 05:11AM BLOOD ALT-15 AST-36 LD(LDH)-457* CK(CPK)-86\nAlkPhos-76 TotBili-0.8\n[**2152-4-19**] 05:11AM BLOOD Lipase-34\n[**2152-4-19**] 05:11AM BLOOD CK-MB-3 proBNP-822\n[**2152-4-19**] 05:11AM BLOOD cTropnT-<0.01\n[**2152-4-19**] 09:22AM BLOOD CK-MB-3 cTropnT-0.03*\n[**2152-4-19**] 05:45PM BLOOD CK-MB-4 cTropnT-0.01\n[**2152-4-19**] 05:11AM BLOOD Calcium-9.1 Phos-4.3 Mg-1.8\n[**2152-4-19**] 05:11AM BLOOD Ethanol-NEG\n[**2152-4-19**] 05:56PM BLOOD Lactate-1.8\n.\nDischarge labs:\n===============\n[**2152-4-23**] 06:40AM BLOOD WBC-4.4 RBC-4.12* Hgb-12.9* Hct-37.6*\nMCV-91 MCH-31.3 MCHC-34.3 RDW-14.0 Plt Ct-195\n[**2152-4-23**] 06:40AM BLOOD Glucose-98 UreaN-17 Creat-0.9 Na-137\nK-4.0 Cl-99 HCO3-31 AnGap-11\n[**2152-4-23**] 06:40AM BLOOD Calcium-9.0 Phos-3.8 Mg-1.9\n.\nImaging:\n========\nTTE: The left atrium is moderately dilated. The left atrium is\nelongated. The estimated right atrial pressure is 0-5 mmHg.\nThere is mild symmetric left ventricular hypertrophy with normal\ncavity size. There is mild regional left ventricular systolic\ndysfunction with hypokinesis of the basal-mid infero-lateral\nwalls. Overall left ventricular systolic function is low normal\n(LVEF 50-55%). Right ventricular chamber size and free wall\nmotion are normal. The aortic valve leaflets are mildly\nthickened (?#). There is mild aortic valve stenosis (valve area\n1.2-1.9cm2). There is no mitral valve prolapse. An eccentric,\nposteriorly directed jet of Mild to moderate ([**12-12**]+) mitral\nregurgitation is seen without clear evidence of mitral valve\nprolapse or significant anterior mitral leaflet tethering. There\nis mild pulmonary artery systolic hypertension. There is no\npericardial effusion.\nIMPRESSION: Mild symmetric left ventricular hypertrophy with\nmild focal LV systolic dysfunction c/w CAD. Mild aortic\nstenosis. Mild-moderate mitral regurgitation.\n.\nCXR:\n1. Opacification at the right base concerning for aspiration\npneumonia.\n2. Diffuse haziness in the right lung likely due to asymmetric\nedema, particularly as the patient was found lying on his right\nside for a prolonged period of time.\n.\nVIDEO OROPHARYNGEAL SWALLOW:\n1. Gross aspiration seen with thin barium and penetration seen\nwith\nnectar-thickened barium.\n\nBrief Hospital Course:\nBRIEF HOSPITAL COURSE:\nMr. [**Known lastname **] is an 87y/o gentleman with history of CAD s/p CABG,\nCHF who was admitted to the MICU for hypoxic respiratory failure\nthat was likely secondary to CAP with possible aspiration event.\nHis respiratory status was stable, he was treated with\nantibiotics, and he was discharged home.\n.\nACTIVE ISSUES:\n==============\n# Hypoxic respiratory failure: resolved.\nEtiology was likely multifactorial due to aspiration vs\ncommunity acquired PNA with component of flash pulmonary edema.\nPatient does have a history of recurrent aspiration pneumonias\nwhich were thought to be due to his esophageal stenosis, GERD,\nand nocturnal reflux. Aspiration was seen on video swallow.\nIn the ED, he was treated with morphine and nitro drip for a CHF\nexacerbation and then found to have temp of 103.6 rectally.\nNitro drip was stopped and he was treated with vanco,\nlevofloxacin, and flagyl for aspiration PNA. He was maintained\non CPAP and transferred to the MCIU on a non-rebreather with O2\nsats 93%. In the MICU, he was changed to azithromycin and\nceftriaxone and improved overnight to breathing comfortably on\nroom air. His legionella was negative and sputum sample was\ncontaminated. Because the patient woke up in the early morning\nwith acute dyspnea and had elevated BP on admission, flash\npulmonary edema was a concern as well and TTE was done which\nshowed mild MR, mild AS, mild focal LV systolic [**Last Name (LF) 20559**], [**First Name3 (LF) **]\n50-55% with an eccentric, posteriorly directed jet of mild to\nmoderate MR. This likely explains the unilateral pleural\neffusion. For his pneumonia likely due to aspiration, patient\nwas changed from IV antibiotics to PO augmentin.  He was\ndischarged home with plans to complete a course of PO Augmentin.\n Was counseled about modified diet to prevent aspiration events.\n He will follow up with his PCP.\n.\n# Hypotension:  Resolved.\nWas hypertensive per EMS which was treated with morphine, nitro\ngiven in the setting of SIRS/sepsis.  Fluid resuscitated with 2L\nIVF in the ED. Patient likely flashed in setting of hypertension\nduring REM sleep prior to admission. He remained normotensive in\nthe MICU and his carvedilol and lisinopril were restarted at\nhome doses.  His BP was reasonably controlled on the medical\nfloor as well.  His hypertension regimen was not adjusted; he\nwill f/u with his PCP after discharge.\n.\n# CHF: EF 50-55% on TTE this admission. As above, patient likely\nhad flash pulmonary edema in setting of hypertension prior to\nadmission, in addition to pneumonia. He had a unilateral pleural\neffusion, but did not appear to be fluid overloaded on exam. He\nwas not diuresed and restarted on his home carvedilol and\nlisinopril.\n.\nINACTIVE ISSUES\n.\n# CAD s/p 2 CABGs and AVR in [**1-19**]: stable.\nThere did not appear to be a cardiac etiology to patient's\nrespiratory distress and he was ruled out for MI with serial\nenzymes. He does take plavix though it is unclear for what\nreason. He has not taken coumadin so his AVR is likely to be\nbioprosthetic. He was continued on aspirin and plavix and was\ndischarged with instructions to follow up with his PCP.\n.\n# COPD: stable.\nPatient has remote smoking history and currently takes advair\ndiskuk and porair at home. He was given nebulizers throughout\nhospitalization though no evidence of COPD exacerbation.\n.\n# Hyperlipidemia: stable.\nHe was continued on home statin.\n.\n# GERD: stable.\nReflux likely contributes to his aspiration.  He was continued\non home omeprazole.\n.\nTRANSITION OF CARE:\n===================\n# Labs pending at discharge: none.\n# Follow-up: Patient was instructed to follow up with his PCP.\n# Communication: Patient and son/HCP [**Name (NI) **]\n# Emergency Contact: [**Name (NI) **] [**Name (NI) **] (son) [**Telephone/Fax (1) 89317**]\n# Code: Full Code\n\nMedications on Admission:\nCarvedilol 3.125mg [**Hospital1 **]\nLisinopril 2.5mg daily\nPlavix 75mg daily\nSimvastatin 20mg qhs\nOmperazole 20mg daily\nAdvair 500-50mcg/dose 1 puff [**Hospital1 **]\nproair HFA 108 mcg/act 2 puffs every 4hrs prn\nRobaxin 500mg 1 tab QID\nNeurontin 300mg TID\nPercoset 5-325mg 1 tab q6hr prn\n\n\nDischarge Medications:\n1. carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n2. lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).\n3. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n6. fluticasone-salmeterol 500-50 mcg/dose Disk with Device Sig:\nOne (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).\nDisp:*1 Disk with Device(s)* Refills:*2*\n7. ProAir HFA 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2)\npuffs Inhalation every four (4) hours as needed for shortness of\nbreath or wheezing.\nDisp:*1 inhaler* Refills:*0*\n8. Robaxin 500 mg Tablet Sig: One (1) Tablet PO four times a\nday.\n9. gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3\ntimes a day).\n10. Percocet 5-325 mg Tablet Sig: One (1) Tablet PO every six\n(6) hours as needed for pain.\n11. amoxicillin-pot clavulanate 875-125 mg Tablet Sig: One (1)\nTablet PO BID (2 times a day) for 5 days: To be taken through\n[**4-27**].\nDisp:*10 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPneumonia\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nMr. [**Known lastname **],\nYou were admitted with difficulty breathing and were found to\nhave a pneumonia which we are treating with antibiotics.\n.\nWe made the following changes to your medications:\n- STARTED Augmentin 850mg twice daily to be taken through\n[**2152-4-27**]\n\nFollowup Instructions:\nPlease call your primary care doctor BROWN,[**Doctor First Name **]\n[**Telephone/Fax (1) 37165**] to schedule a follow up appointment within the next\n1-2 weeks.\n\n\n\n"
+    }
+  ]
+}

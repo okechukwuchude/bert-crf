@@ -1,0 +1,674 @@
+{
+  "hadm_id": 196856,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 258199,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 15,
+          "end": 35,
+          "code": "R93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal findings on diagnostic imaging of heart and coronary circulation",
+          "type": "Human",
+          "covered_text": "Biatrial abnormality"
+        },
+        {
+          "begin": 43,
+          "end": 66,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "ventricular hypertrophy"
+        }
+      ],
+      "text": "Sinus rhythm.  Biatrial abnormality.  Left ventricular hypertrophy with\nsecondary repolarization abnormalities.  No change from previous tracing.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 1182808,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 307,
+          "end": 319,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HYPERTENSION"
+        },
+        {
+          "begin": 518,
+          "end": 530,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 910,
+          "end": 922,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "cardiomegaly"
+        }
+      ],
+      "text": "[**2195-2-13**] 8:56 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13846**]\n Reason: r/o chf caRDIAC SILOUETTE\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  35 year old man with HYPERTENSION\n REASON FOR THIS EXAMINATION:\n  r/o chf caRDIAC SILOUETTE\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  Hypertension.\n\n COMPARISON:  None.\n\n PORTABLE AP VIEW OF THE CHEST:  There is marked cardiomegaly with a globular\n configuration of the heart.  The mediastinal and hilar contours are normal.\n The pulmonary vascularity is not engorged.  Lungs are clear without focal\n consolidation.  No pleural effusion or pneumothorax is present.  There are no\n acute osseous findings.\n\n IMPRESSION:  Severe cardiomegaly.\n\n\n"
+    },
+    {
+      "note_id": 41099,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 265,
+          "end": 272,
+          "code": "R06.00",
+          "code_system": "ICD-10-CM",
+          "description": "Dyspnea, unspecified",
+          "type": "Human",
+          "covered_text": "dyspnea"
+        },
+        {
+          "begin": 386,
+          "end": 389,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 391,
+          "end": 412,
+          "code": "Q27.1",
+          "code_system": "ICD-10-CM",
+          "description": "Congenital renal artery stenosis",
+          "type": "Human",
+          "covered_text": "renal artery stenosis"
+        },
+        {
+          "begin": 418,
+          "end": 424,
+          "code": "J45.909",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified asthma, uncomplicated",
+          "type": "Human",
+          "covered_text": "asthma"
+        },
+        {
+          "begin": 633,
+          "end": 642,
+          "code": "R06.01",
+          "code_system": "ICD-10-CM",
+          "description": "Orthopnea",
+          "type": "Human",
+          "covered_text": "orthopnea"
+        },
+        {
+          "begin": 644,
+          "end": 647,
+          "code": "R09.82",
+          "code_system": "ICD-10-CM",
+          "description": "Postnasal drip",
+          "type": "Human",
+          "covered_text": "PND"
+        },
+        {
+          "begin": 659,
+          "end": 690,
+          "code": "R22.43",
+          "code_system": "ICD-10-CM",
+          "description": "Localized swelling, mass and lump, lower limb, bilateral",
+          "type": "Human",
+          "covered_text": "bilateral lower extremity\nedema"
+        },
+        {
+          "begin": 704,
+          "end": 711,
+          "code": "R53.81",
+          "code_system": "ICD-10-CM",
+          "description": "Other malaise",
+          "type": "Human",
+          "covered_text": "malaise"
+        },
+        {
+          "begin": 860,
+          "end": 872,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 1228,
+          "end": 1249,
+          "code": "Q27.1",
+          "code_system": "ICD-10-CM",
+          "description": "Congenital renal artery stenosis",
+          "type": "Human",
+          "covered_text": "renal artery stenosis"
+        },
+        {
+          "begin": 1330,
+          "end": 1337,
+          "code": "R06.00",
+          "code_system": "ICD-10-CM",
+          "description": "Dyspnea, unspecified",
+          "type": "Human",
+          "covered_text": "dyspnea"
+        },
+        {
+          "begin": 1339,
+          "end": 1348,
+          "code": "R68.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dry mouth, unspecified",
+          "type": "Human",
+          "covered_text": "dry cough"
+        },
+        {
+          "begin": 1350,
+          "end": 1359,
+          "code": "R06.01",
+          "code_system": "ICD-10-CM",
+          "description": "Orthopnea",
+          "type": "Human",
+          "covered_text": "orthopnea"
+        },
+        {
+          "begin": 1361,
+          "end": 1364,
+          "code": "R09.82",
+          "code_system": "ICD-10-CM",
+          "description": "Postnasal drip",
+          "type": "Human",
+          "covered_text": "PND"
+        },
+        {
+          "begin": 1377,
+          "end": 1408,
+          "code": "R22.43",
+          "code_system": "ICD-10-CM",
+          "description": "Localized swelling, mass and lump, lower limb, bilateral",
+          "type": "Human",
+          "covered_text": "bilateral lower extremity edema"
+        },
+        {
+          "begin": 1449,
+          "end": 1463,
+          "code": "H92.23",
+          "code_system": "ICD-10-CM",
+          "description": "Otorrhagia, bilateral",
+          "type": "Human",
+          "covered_text": "ear discomfort"
+        },
+        {
+          "begin": 2040,
+          "end": 2052,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "cardiomegaly"
+        },
+        {
+          "begin": 3118,
+          "end": 3130,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 3137,
+          "end": 3158,
+          "code": "Q27.1",
+          "code_system": "ICD-10-CM",
+          "description": "Congenital renal artery stenosis",
+          "type": "Human",
+          "covered_text": "renal artery stenosis"
+        },
+        {
+          "begin": 3206,
+          "end": 3212,
+          "code": "J45.909",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified asthma, uncomplicated",
+          "type": "Human",
+          "covered_text": "asthma"
+        },
+        {
+          "begin": 4773,
+          "end": 4790,
+          "code": "R22.43",
+          "code_system": "ICD-10-CM",
+          "description": "Localized swelling, mass and lump, lower limb, bilateral",
+          "type": "Human",
+          "covered_text": "edema bilaterally"
+        },
+        {
+          "begin": 5792,
+          "end": 5804,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "cardiomegaly"
+        },
+        {
+          "begin": 6781,
+          "end": 6793,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 7067,
+          "end": 7100,
+          "code": "Q27.2",
+          "code_system": "ICD-10-CM",
+          "description": "Other congenital malformations of renal artery",
+          "type": "Human",
+          "covered_text": "bilateral solitary renal arteries"
+        },
+        {
+          "begin": 8076,
+          "end": 8079,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 8084,
+          "end": 8105,
+          "code": "Q27.1",
+          "code_system": "ICD-10-CM",
+          "description": "Congenital renal artery stenosis",
+          "type": "Human",
+          "covered_text": "renal artery stenosis"
+        },
+        {
+          "begin": 8333,
+          "end": 8354,
+          "code": "Q27.1",
+          "code_system": "ICD-10-CM",
+          "description": "Congenital renal artery stenosis",
+          "type": "Human",
+          "covered_text": "renal artery stenosis"
+        },
+        {
+          "begin": 9274,
+          "end": 9286,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 9450,
+          "end": 9471,
+          "code": "Q27.1",
+          "code_system": "ICD-10-CM",
+          "description": "Congenital renal artery stenosis",
+          "type": "Human",
+          "covered_text": "renal artery stenosis"
+        },
+        {
+          "begin": 10064,
+          "end": 10095,
+          "code": "R22.43",
+          "code_system": "ICD-10-CM",
+          "description": "Localized swelling, mass and lump, lower limb, bilateral",
+          "type": "Human",
+          "covered_text": "bilateral lower extremity edema"
+        },
+        {
+          "begin": 10208,
+          "end": 10215,
+          "code": "R06.00",
+          "code_system": "ICD-10-CM",
+          "description": "Dyspnea, unspecified",
+          "type": "Human",
+          "covered_text": "dyspnea"
+        },
+        {
+          "begin": 10217,
+          "end": 10226,
+          "code": "R06.01",
+          "code_system": "ICD-10-CM",
+          "description": "Orthopnea",
+          "type": "Human",
+          "covered_text": "orthopnea"
+        },
+        {
+          "begin": 10232,
+          "end": 10235,
+          "code": "R09.82",
+          "code_system": "ICD-10-CM",
+          "description": "Postnasal drip",
+          "type": "Human",
+          "covered_text": "PND"
+        },
+        {
+          "begin": 10437,
+          "end": 10449,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "cardiomegaly"
+        },
+        {
+          "begin": 10638,
+          "end": 10660,
+          "code": "I27.20",
+          "code_system": "ICD-10-CM",
+          "description": "Pulmonary hypertension, unspecified",
+          "type": "Human",
+          "covered_text": "pulmonary hypertension"
+        },
+        {
+          "begin": 12187,
+          "end": 12193,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 12413,
+          "end": 12419,
+          "code": "J45.909",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified asthma, uncomplicated",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 14350,
+          "end": 14369,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute kidney injury"
+        },
+        {
+          "begin": 14384,
+          "end": 14390,
+          "code": "J45.909",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified asthma, uncomplicated",
+          "type": "Human",
+          "covered_text": "Asthma"
+        }
+      ],
+      "text": "Admission Date:  [**2195-2-13**]              Discharge Date:   [**2195-2-19**]\n\nDate of Birth:  [**2160-1-17**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 3705**]\nChief Complaint:\ndyspnea, hypertensive emergency\n\nMajor Surgical or Invasive Procedure:\nNone\n\nHistory of Present Illness:\n35yo M with h/o HTN, renal artery stenosis, and asthma, off all\nmedications x4 months as unable to afford them, who is\ntransferred to [**Hospital1 18**] for management of hypertensive emergency\nafter presenting to OSH ED earlier in day with weight gain,\ndyspnea, orthopnea, PND, worsening bilateral lower extremity\nedema, and general malaise, and was found to be hypertensive to\n270/170.  Patient has previously been admitted to [**Hospital1 2025**] in [**6-/2194**]\nfor similar episode of hypertension, though per his report BP\nwas not this elevated.  Was discharged on regimen of amlodipine,\nlisinopril, metoprolol succinate, and isosorbide monontriate,\nbut has not taken these medications for the past 4 months as he\ndoes not have insurance and has been unable to afford them.\nWork-up during that admission notable for renal ultrasound\ndemonstrating left renal artery stenosis.\n.\nOver past 6 months patient notes weight gain of unclear amount.\nHas also had dyspnea, dry cough, orthopnea, PND.  Worsening\nbilateral lower extremity edema over past week.  Also reports\nbilateral ear discomfort and sensation that his equilibrium was\noff.  Patient initially presented to [**Hospital1 2436**] ED, where he was\nfound to be hypertensive with pressure 270/170 per report.\nStarted on nitro gtt and later transitioned to esmolol gtt. Also\ngiven 80mg lasix.  Transferred to [**Hospital1 18**], with pressure improved\nto 170s/130s prior to transfer.  On arrival to [**Hospital1 18**] ED,\ntriggered for HTN with VS 97 180/138 87 18 99% 2L. Patient\ncontinued on esmolol gtt, nitro gtt.  Exam unremarkable.  Labs\nnotable for WBC of 12.9, Cr 2.9, Trop 0.09, proBNP 6684.  CXR\nshowed cardiomegaly, and patient was also felt to have evidence\nof pulmonary edema based on imaging. EKG without evidence of\nishcemia.  Patient also had renal ultrasound which showed normal\nappearing right renal artery, though left renal artery not well\nvisualized.  Admitted to ICU for further management, and just\nprior to transfer VS: 86 174/119 24 96% 2L.\n.\nOn the floor, patient states he is comfortable.  Denies any CP\nor SOB at present, though reports intermittent SOB over past\nweek.\n.\nReview of systems:\n(+) Per HPI. Episode of substernal chest pain about 1 week ago,\nwhich he reports resolved on its own after he drank glass of\nwater.  Had not occurred before, no recurrence.\n(-) Denies fever, chills, night sweats. Denies headache, sinus\ntenderness, rhinorrhea or congestion. Denies wheezing. Denies\nchest pain, chest pressure, palpitations, or weakness. Denies\nnausea, vomiting, diarrhea, constipation, abdominal pain, or\nchanges in bowel habits. Denies dysuria, frequency, or urgency.\nDenies arthralgias or myalgias. Denies rashes or skin changes.\n\nPast Medical History:\n-hypertension\n-left renal artery stenosis (diagnosed on renal ultrasound\n[**6-/2194**])\n-asthma\n-? childhood seizures, reports loss of consciousness events\noccuring from early childhood until age [**10-3**], mother said that\nthey were seizures.  Pt is not in contact with mother, unable to\nget further information from her.\n-history of childhood epistaxis\n\nSocial History:\n- Tobacco: [**11-26**] cigarettes per day x20 years\n- Alcohol: use varies between 6 pack per day to no EtOH for >1\nmonth at time\n- Illicits: occasional marijuana use, remote cocaine use, no\nhistory of IVDU\n- works for carnival, and lives/travels with carnival\n\nFamily History:\nUnknown, patient adopted\n\nPhysical Exam:\nADMISSION EXAM:\nVitals: T: 99.4 BP: 179/119 P: 91 R: 26 O2: 95% 1L NC\nGeneral: awake, alert, oriented, resting comfortably, NAD\nHEENT: PERRL, EOMI, sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP 10 cm, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, S4, loud P2, no\nmurmurs, rubs, gallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding\nGU: no foley\nExt: warm, well perfused, 2+ DP/PT pulses, 2+ lower extremity\nedema bilaterally\nNeuro: CN 2-12 grossly intact\nAt discharge: same as above except: JVP less elevated to just\nabove clavicle, lower extremity edema slightly reduced\n.\nDISCHARGE EXAM:\nVitals: BP 150/100\nGen: AO x 3, NAD\nHEENT: JVP @ 30* not elevated\nLungs: slightly decreased breath sound over RLL improved from\nthe day prior, otherwise no wheezes, rales, rhonci\nCV: RRR nml s1/2 no [**1-23**]/m/r/g\nAb: +BS NTND\nExt: 1+ edema bilaterally, improved from the day prior\nNeuro: Grossly non-focal\n\nPertinent Results:\nADMISSION LABS:\n\n[**2195-2-13**] 09:20PM BLOOD WBC-12.9* RBC-4.23* Hgb-9.6* Hct-31.2*\nMCV-74* MCH-22.7* MCHC-30.7* RDW-18.0* Plt Ct-418\n[**2195-2-13**] 09:20PM BLOOD Neuts-88.6* Lymphs-9.1* Monos-1.4*\nEos-0.7 Baso-0.2\n[**2195-2-13**] 09:20PM BLOOD Glucose-107* UreaN-34* Creat-2.9* Na-139\nK-3.4 Cl-99 HCO3-30 AnGap-13\n[**2195-2-13**] 09:20PM BLOOD proBNP-6684*\n[**2195-2-13**] 09:20PM BLOOD Calcium-8.5 Phos-5.6* Mg-2.0\n[**2195-2-13**] 09:20PM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG\nBarbitr-NEG Tricycl-NEG\n[**2195-2-13**] 09:45PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG\ncocaine-NEG amphetm-NEG mthdone-NEG\n[**2195-2-13**] 09:45PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.004\n[**2195-2-13**] 09:45PM URINE Blood-NEG Nitrite-NEG Protein-TR\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG\n[**2195-2-13**] 09:45PM URINE RBC-1 WBC-1 Bacteri-NONE Yeast-NONE Epi-0\n\nIMAGING:\n\n[**2-13**] CXR: Severe cardiomegaly.\n\n[**2-13**] Renal Ultrasound:Technically limited study showing normal\nflow and resistive indices in the right main, upper and\ninterpolar renal arteries. The left main and intrarenal arteries\ncould not be adequately interrogated. An MRI may be obtained for\nfurther evaluation if clinically necessary.\n\n[**2-14**] TTE: The left atrium is moderately dilated. The right\natrium is moderately dilated. There is moderate symmetric left\nventricular hypertrophy. The left ventricular cavity size is\nnormal. Regional left ventricular wall motion is normal. Overall\nleft ventricular systolic function is low normal (LVEF 50-55%).\nRight ventricular chamber size and free wall motion are normal.\nThe ascending aorta is mildly dilated. The aortic valve leaflets\n(3) appear structurally normal with good leaflet excursion and\nno aortic stenosis or aortic regurgitation. The mitral valve\nappears structurally normal with trivial mitral regurgitation.\nThere is mild pulmonary artery systolic hypertension. There is a\ntrivial/physiologic pericardial effusion. Moderate symmetric\nleft ventricular hypertrophy with mild global systolic\ndysfunction. Mild pulmonary hypertension. These findings are\nmost consistent with hypertensive heart disease.\n\n[**2-15**] MRI abdomen: There are bilateral solitary renal arteries\nwithout stenosis with conventional branching. The kidneys\ndemonstrate normal size, morphology and signal intensity. There\nis an 8-mm cyst in the interpolar region of the left kidney.\nThere is a 1.6-cm hemorrhagic lesion in the upper pole of the\nright kidney. Due to absence of contrast, presence of enhancing\nor nodular components in this hemorrhagic lesion cannot be\n[**Month/Year (2) 6349**]. The ultrasound did not demonstrate any suspicious\nseptation in this lesion. Adrenals are unremarkable without\nlesion. Non-contrast evaluation of the liver, spleen and\npancreas are unremarkable.\n.\nDISCHARGE LABS:\n.\n[**2195-2-18**] 07:35AM BLOOD WBC-10.3 RBC-4.05* Hgb-9.4* Hct-30.4*\nMCV-75* MCH-23.1* MCHC-30.8* RDW-17.8* Plt Ct-401\n[**2195-2-18**] 07:35AM BLOOD Plt Ct-401\n[**2195-2-19**] 07:15AM BLOOD Glucose-93 UreaN-24* Creat-2.3* Na-137\nK-4.6 Cl-100 HCO3-31 AnGap-11\n[**2195-2-19**] 07:15AM BLOOD Calcium-8.6 Phos-4.1 Mg-2.2\n\nBrief Hospital Course:\n35yo male with history of HTN and renal artery stenosis, who\npresents now with hypertensive emergency in setting of being off\nanti-hypertensives for past 6 months.\n.\nACTIVE ISSUES:\n.\n#. Hypertensive Emergency: Hypertensive emergency occurred in\nthe setting of an apparent history of renal artery stenosis and\npatient being off all blood pressure medications x4 months.\nGiven elevated troponin, cardiac enzymes were cycled and\nremained flat.  EKG not concerning for ischemia, and patient did\nnot have any chest pain. TTE was suggestive of hypertensive\nheart disease. Patient continued on nitro gtt and esmolol gtt,\nand initially admitted to ICU overnight for close monitoring.\nPatient's BP improved on nitro and esmolol gtts, and he was\ntransitioned to oral antihypertensive regimen of nifedipine and\nImdur, then adjusted to find an outpatient regimen that would\nfacilitate compliance by being as cheap and infrequently dosed\nas possible.  After titration, this regimen was lisinopril 40mg\ndaily, carvedilol 50 [**Hospital1 **], and imdur 60mg, lasix 80 daily.  On\nthis regimen his blood pressures were in the 160s-170s/100s.\n**Titration of blood regimen will need to be addressed on\nfollow-up. The etiology of the patient's hypertension will also\nneed to be revisited as detailed below under Renal Artery\nStensosis.**\n.\n#. Question of Renal Artery Stenosis:  Patient with an apparent\nhistory of left renal artery stenosis diagnosed on ultrasound at\n[**Hospital1 2025**] 8/[**2193**]. Renal ultrasound here did not visualize left renal\nartery well, but does not reveal e/o right renal artery\nstenosis. Renal was consulted. They recommended MRI/MRA kidney\nto evaluate L renal artery which was negative for renal artery\nstenosis (though it was without contrast).  It was felt that\nrenal artery stenosis was unlikely and this was not further\npursued. **Renin, Angiotensin, and catecholamines were all\npending at the time of discharge.**\n.\n#. CHF: Patient presented with evidence of volume overload given\nelevated JVP, bilateral lower extremity edema.  CXR not\nsuggestive of florid pulmonary edema, though patient does have\nelevated BNP in addition to history of dyspnea, orthopnea, and\nPND.  [**Month (only) 116**] be acute on chronic process, in setting of\nhypertensive emergency, though also concern for CHF given more\nlong-standing symptoms.  CXR also suggests more chornic process\ngiven cardiomegaly, and EKG shows evidence of LVH and atrial\nenlargement.  Patient had TTE [**2-14**] which showed moderate\nsymmetric left ventricular hypertrophy with mild global systolic\ndysfunction. Mild pulmonary hypertension. These findings are\nmost consistent with hypertensive heart disease. Was diuresed\nwith IV lasix and then transitioned to lasix 40mg PO BID with no\nelectrolyte repletion requirement for discharge. He was\ndischarged as detailed above in clinically euvolemic to mildly\nhypervolemic status breathing comfortably on RA with mild trace\nto 1+ LE edema. **Titration of diuretic and electrolyte\nrepletion will need to be revisited on follow-up.**\n.\n#. Renal Failure: Cr elevated to 2.9, baseline unclear.  [**Name2 (NI) 116**] be\nchronic given history of untreated hypertension, but had concern\nfor malignant nephrosclerosis, which can occur in hypertensive\nemergencies and lead to acute renal failure, hematuria, and\nproteinuria.  UA demonstrated trace protein, but only 1 RBC.\nRenal ultrasound showed normal flow and resistive indices in the\nright main, upper and interpolar renal arteries. The left main\nand intrarenal arteries could not be adequately interrogated.\nRenal consulted, and recommended renal MRI and multiple urine\nstudies which showed bland urine sediment only notable for\nmicrohematuria.  Creatinine improved to 2.3 at the time of\ndischarge.\n.\n# Incidental Renal Cyst: Renal MRI showed an 8-mm cyst in the\ninterpolar region of the left kidney and a 1.6-cm hemorrhagic\nlesion in the upper pole of the right kidney.  This lesion could\nnot be definitvely evalutated without a contrast study.\n**Further studies may be helpful in further evaluating the cyst\nand hemorrhagic lesion in the future.**\n.\nINACTIVE ISSUES:\n.\n#. Anemia: Patient noted to be anemic, no baseline HCT for\ncomparison.  Iron studies demonstrated low iron at 21 (normal 45\n- 160 ug/dL). Normal TIBC, ferritin, transferrin. Iron started\nwith plan to continue as outpatient.\n.\n#. Asthma: No SOB or wheezing at present, and lung exam\nunremarkable.  Albuterol inhaler prn SOB/wheezing.\n.\nTRANSITIONAL ISSUES:\n-As above in **.\n-Because the patient's insurance application for MassHealth is\nnot yet approved, we were unable to schedule a PCP [**Name Initial (PRE) 648**].\nWe gave him a phone number for [**Company 191**] to set up a PCP appointment,\nplus [**Name Initial (PRE) **] letter and his inpatient records in case he chose a PCP\noutside of the [**Hospital1 18**] system.  The results of his pending labs\nwill be sent to his temporary residence in [**Location (un) 4444**], also to\nbring to his new PCP.\n\nMedications on Admission:\nNone. Previously on:\n-ASA 81mg daily\n-ergocalciferol 50,000 units PO weekly\n-ferrous sulfate 325mg PO daily\n-albuterol inhaler 2 puffs INH Q6H prn SOB or wheezing\n-amlodipine 10mg daily\n-lisinopril 15mg daily\n-metoprolol succinate 150mg daily\n-isosorbide monontriate (Imdur ER) 30mg daily\n\nDischarge Medications:\n1. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)\nTablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*8*\n2. lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*8*\n3. carvedilol 25 mg Tablet Sig: Two (2) Tablet PO twice a day.\nDisp:*120 Tablet(s)* Refills:*8*\n4. 2 liter oral fluid restriction\nTry to restrict your oral fluid intake to less than 2 liters of\nfluid daily.\n5. aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.\n6. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\n1-2 puffs Inhalation every six (6) hours as needed for shortness\nof breath or wheezing.\n7. furosemide 80 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*8*\n8. Imdur 60 mg Tablet Extended Release 24 hr Sig: One (1) Tablet\nExtended Release 24 hr PO once a day.\nDisp:*30 Tablet Extended Release 24 hr(s)* Refills:*8*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPrimary:\n1. Hypertensive emergency\n2. Acute kidney injury\nSecondary:\n1. Asthma\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to the hospital with dangerously high blood\npressures. We gave you IV medications to reduce your blood\npressure at first, and then switched to oral medications. We\nalso made sure that you did not have a heart attack. Your kidney\nfunction was abnormal and the kidney doctors [**Name5 (PTitle) 6349**] [**Name5 (PTitle) **]. It\nnot clear what is causing your high blood pressure, or\nhypertension. Imaging of your kidneys showed that there was no\nsignificant narrowing the blood vessels supplying those organs.\nYou will need to follow-up with a physician for the results of a\nfew chemistry tests that are still pending at the time of\ndischarge.\n.\nIt will be extremely important that you take your medications\nand follow up with doctors [**Name5 (PTitle) **] it is possible your high blood\npressure could cause a stroke or heart attack.\n.\nSome of your medications were changed during this admission:\n#START:\nlisinopril 40mg, take once a day at bedtime\ncarvedilol 50mg, take twice a day\nIsosorbide Mononitrate (Imdur) ER 60 mg take once a day\nFurosemide 80mg, take once a day\nFerrous Sulfate (Iron) 325 mg once a day\n.\n#STOP:\nMetoprolol\nAmlodipine\n.\nYou should continue to take all of your other medications as\nprescribed. You should stop smoking.\n\nFollowup Instructions:\nAs soon as you receive [**State 350**] Health insurance coverage,\nit is VERY important that you schedule an appointment with a new\nprimary care physician here at [**Hospital1 **] for further management of your high blood pressure and\nfor follow-up of your pending tests.\n.\nDepartment: [**Hospital3 **]\nSpecialty: Internal Medicine\nLocation: [**Hospital1 69**]\nAddress: [**Location (un) **], [**Hospital Ward Name 23**] Building, [**Location (un) 86**] [**Numeric Identifier 6425**]\nPhone: [**Telephone/Fax (1) 250**]\n.\nAlso schedule an appointment with the kidney doctors [**First Name (Titles) **] [**Hospital1 1535**]. THE KIDNEY DOCTORS HAVE AGREED\nTO SEE YOU FREE OF CHARGE.\n.\nName: [**Last Name (LF) 4090**], [**Name8 (MD) 4102**] MD\nLocation: [**Last Name (un) **] DIABETES CENTER\nAddress: ONE [**Last Name (un) **] PLACE, [**Location (un) **],[**Numeric Identifier 718**]\nPhone: [**Telephone/Fax (1) 2378**]\nWe are working on a follow up appointment with Dr. [**Last Name (STitle) 4090**] within\n2-4 weeks. You will be called at home with the appointment. If\nyou have not heard from the office within 2 days or have any\nquestions, please call the number above.\n\n\n\n"
+    },
+    {
+      "note_id": 1183002,
+      "category": "Radiology",
+      "description": "MRA KIDNEY W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 48,
+          "code": "72141",
+          "code_system": "CPT",
+          "description": "Magnetic resonance (eg, proton) imaging, spinal canal and contents, cervical; without contrast material",
+          "type": "Human",
+          "covered_text": "MRA KIDNEY W/O CONTRAST"
+        },
+        {
+          "begin": 186,
+          "end": 189,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 376,
+          "end": 379,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 764,
+          "end": 785,
+          "code": "Q27.1",
+          "code_system": "ICD-10-CM",
+          "description": "Congenital renal artery stenosis",
+          "type": "Human",
+          "covered_text": "renal artery stenosis"
+        },
+        {
+          "begin": 801,
+          "end": 813,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 1254,
+          "end": 1287,
+          "code": "Q27.2",
+          "code_system": "ICD-10-CM",
+          "description": "Other congenital malformations of renal artery",
+          "type": "Human",
+          "covered_text": "bilateral solitary renal arteries"
+        },
+        {
+          "begin": 2486,
+          "end": 2489,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        }
+      ],
+      "text": "[**2195-2-15**] 7:43 PM\n MRA KIDNEY W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 14188**]\n Reason: Renal artery stenosis?\n Admitting Diagnosis: HTN EMERGENCY\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  35 year old man with ?L renal artery stenosis, malignant HTN, L renal a. not\n  seen on Dopplers\n REASON FOR THIS EXAMINATION:\n  Renal artery stenosis?\n CONTRAINDICATIONS for IV CONTRAST:\n  elevated Cr\n\n  Yes to Choyke questions.\n ______________________________________________________________________________\n                                 FINAL REPORT\n MRI OF THE ABDOMEN, [**2195-2-15**]\n\n STUDY INDICATION:  35-year-old man with query left renal artery stenosis and\n malignant hypertension.  Left renal artery not seen on Doppler ultrasound.\n\n TECHNIQUE:  Multiplanar T1- and T2-weighted images were acquired on a 1.5\n Tesla magnet.  Gadolinium could not be administered due to prohibitive low\n estimated GFR.  Non-contrast angiographic sequences (IFIR) were performed.\n\n Multiplanar 2D and 3D reformations and subtraction images were generated on an\n independent workstation.\n\n No previous for comparison.\n\n FINDINGS:\n There are bilateral solitary renal arteries without stenosis with conventional\n branching.  The kidneys demonstrate normal size, morphology and signal\n intensity.  There is an 8-mm cyst in the interpolar region of the left kidney.\n There is a 1.6-cm hemorrhagic lesion in the upper pole of the right kidney.\n Due to absence of contrast, presence of enhancing or nodular components in\n this hemorrhagic lesion cannot be evaluated.  The ultrasound did not\n demonstrate any suspicious septation in this lesion.\n\n Adrenals are unremarkable without lesion.  Non-contrast evaluation of the\n liver, spleen and pancreas are unremarkable.\n\n Multiplanar 2D and 3D reformations and subtraction images provided multiple\n perspectives for the dynamic series (675).\n\n IMPRESSION:\n 1.  Normal bilateral single renal arteries without stenosis.  Normal kidneys\n and adrenals.\n\n 2.  1.6-cm hemorrhagic lesion in the upper pole of right kidney, inadequately\n assessed due to lack on contrast on this MRI.\n                                                             (Over)\n\n [**2195-2-15**] 7:43 PM\n MRA KIDNEY W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 14188**]\n Reason: Renal artery stenosis?\n Admitting Diagnosis: HTN EMERGENCY\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n"
+    },
+    {
+      "note_id": 258200,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 20,
+          "end": 38,
+          "code": "R93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal findings on diagnostic imaging of heart and coronary circulation",
+          "type": "Human",
+          "covered_text": "atrial abnormality"
+        },
+        {
+          "begin": 41,
+          "end": 75,
+          "code": "I45.4",
+          "code_system": "ICD-10-CM",
+          "description": "Nonspecific intraventricular block",
+          "type": "Human",
+          "covered_text": "Intraventricular conduction delay."
+        },
+        {
+          "begin": 81,
+          "end": 104,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "ventricular hypertrophy"
+        }
+      ],
+      "text": "Sinus rhythm.  Left atrial abnormality.  Intraventricular conduction delay.\nLeft ventricular hypertrophy.  No previous tracing available for comparison.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 1182815,
+      "category": "Radiology",
+      "description": "RENAL U.S.",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 57,
+          "code": "76770",
+          "code_system": "CPT",
+          "description": "Ultrasound, retroperitoneal (eg, renal, aorta, nodes), real time with image documentation; complete",
+          "type": "Human",
+          "covered_text": "RENAL U.S.; DUPLEX DOPP ABD/PEL"
+        },
+        {
+          "begin": 162,
+          "end": 174,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HYPERTENSION"
+        },
+        {
+          "begin": 197,
+          "end": 200,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 844,
+          "end": 865,
+          "code": "Q27.1",
+          "code_system": "ICD-10-CM",
+          "description": "Congenital renal artery stenosis",
+          "type": "Human",
+          "covered_text": "renal artery stenosis"
+        }
+      ],
+      "text": "[**2195-2-13**] 10:01 PM\n RENAL U.S.; DUPLEX DOPP ABD/PEL                                 Clip # [**Clip Number (Radiology) 14028**]\n Reason: HX OF RAS, NOW WITH HYPERTENSION\n Admitting Diagnosis: HTN EMERGENCY\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  35 year old man with hx of RAS\n REASON FOR THIS EXAMINATION:\n  now with htn\n ______________________________________________________________________________\n WET READ: ASpf FRI [**2195-2-13**] 11:19 PM\n  Limited examination. Normal right renal main renal artery. Left renal artery\n  not well evaluated. MR recommended if clinically necessary.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  35-year-old man with history of renal artery stenosis, now with\n hypertension.\n\n COMPARISON:  None available.\n\n FINDINGS:\n This study is markedly limited as the patient could not adequately suspend\n respiration for Doppler interrogation.\n\n The left kidney measures 9.7 cm.  Resistive indices in the upper pole\n intrarenal artery are 0.63.  The main renal vein on the left is patent.\n Intrarenal Doppler of the mid and lower poles and the main renal artery could\n not be adequately obtained within the left kidney.\n\n The right kidney measures 10 cm, with normal waveform and resistive index of\n 0.66 in the main renal artery.  There is a 1.3 x 1.2 x 1.1 cm simple cyst.\n The main renal vein is patent.  Intrarenal resistive index in the upper pole\n of the right kidney is 0.64, and within the interpolar region is 0.59.  The\n lower pole intrarenal vessels could not be interrogated.  No perinephric fluid\n collections or hydronephrosis is noted in either kidney.\n\n IMPRESSION:\n\n Technically limited study showing normal flow and resistive indices in the\n right main, upper and interpolar renal arteries.  The left main and intrarenal\n arteries could not be adequately interrogated.  An MRI may be obtained for\n further evaluation if clinically necessary.\n                                                                       DFDdp\n\n"
+    },
+    {
+      "note_id": 92622,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 38,
+          "end": 62,
+          "code": "I50.20",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified systolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "Congestive heart failure"
+        },
+        {
+          "begin": 263,
+          "end": 275,
+          "code": "93318",
+          "code_system": "CPT",
+          "description": "Echocardiography, transesophageal (TEE) for monitoring purposes, including probe placement, real time 2-dimensional image acquisition and interpretation leading to ongoing (continuous) assessment of (dynamically changing) cardiac pumping function",
+          "type": "Human",
+          "covered_text": "Portable TTE"
+        },
+        {
+          "begin": 413,
+          "end": 436,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "Moderate LA enlargement"
+        },
+        {
+          "begin": 992,
+          "end": 1004,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 1276,
+          "end": 1299,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "ventricular hypertrophy"
+        },
+        {
+          "begin": 1822,
+          "end": 1834,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 1994,
+          "end": 2016,
+          "code": "I27.20",
+          "code_system": "ICD-10-CM",
+          "description": "Pulmonary hypertension, unspecified",
+          "type": "Human",
+          "covered_text": "pulmonary hypertension"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: Congestive heart failure. Left ventricular function. Right ventricular function.\nHeight: (in) 71\nWeight (lb): 205\nBSA (m2): 2.13 m2\nBP (mm Hg): 145/92\nHR (bpm): 101\nStatus: Inpatient\nDate/Time: [**2195-2-14**] at 10:14\nTest: Portable TTE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Adequate\n\n\nINTERPRETATION:\n\nFindings:\n\nLEFT ATRIUM: Moderate LA enlargement.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA.\n\nLEFT VENTRICLE: Moderate symmetric LVH. Normal LV cavity size. Normal regional\nLV systolic function. Low normal LVEF. No resting LVOT gradient.\n\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\n\nAORTA: Normal aortic diameter at the sinus level. Mildly dilated ascending\naorta.\n\nAORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.\n\nMITRAL VALVE: Normal mitral valve leaflets with trivial MR.\n\nTRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR. Mild PA\nsystolic hypertension.\n\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. No PS.\nPhysiologic PR.\n\nPERICARDIUM: Trivial/physiologic pericardial effusion.\n\nConclusions:\nThe left atrium is moderately dilated. The right atrium is moderately dilated.\nThere is moderate symmetric left ventricular hypertrophy. The left ventricular\ncavity size is normal. Regional left ventricular wall motion is normal.\nOverall left ventricular systolic function is low normal (LVEF 50-55%). Right\nventricular chamber size and free wall motion are normal. The ascending aorta\nis mildly dilated. The aortic valve leaflets (3) appear structurally normal\nwith good leaflet excursion and no aortic stenosis or aortic regurgitation.\nThe mitral valve appears structurally normal with trivial mitral\nregurgitation. There is mild pulmonary artery systolic hypertension. There is\na trivial/physiologic pericardial effusion.\n\nIMPRESSION: Moderate symmetric left ventricular hypertrophy with mild global\nsystolic dysfunction. Mild pulmonary hypertension. These findings are most\nconsistent with hypertensive heart disease.\n\n\n"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "hadm_id": 155498,
+  "comment": "MERCI Clot retreival-Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 440773,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 4417,
+          "end": 4420,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   59yM s/p fall with left hemiparesis brought to [**Hospital6 5579**]. CTA\n   showed [**Country 2032**] origin stenosis and terminal occlusion.  IVtPA was\n   administered ~2hr 45 min after initial event, and pt was transferred to\n   [**Hospital1 **] where he underwent [**Hospital1 5589**] clot retrieval from [**Country 2032**]/MCA.\n   Chief complaint:\n   Fall, stroke\n   PMHx:\n   hyperlipidemia\n   Current medications:\n   1. 1000 mL NS 2. Atorvastatin 3. Clopidogrel 4. Famotidine 5. Insulin\n   6. Influenza Virus Vaccine\n   7. Labetalol 8. Propofol\n   24 Hour Events:\n ARTERIAL LINE - START [**2131-2-1**] 07:15 PM\n MAGNETIC RESONANCE IMAGING - At [**2131-2-2**] 05:11 AM\n   s/p clot retrieval\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Propofol - 15 mcg/Kg/min\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2131-2-1**] 09:00 PM\n   Other medications:\n   Flowsheet Data as of  [**2131-2-2**] 07:01 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**33**] a.m.\n   Tmax: 37.1\nC (98.8\n   T current: 37.1\nC (98.8\n   HR: 81 (55 - 87) bpm\n   BP: 154/73(100) {109/51(72) - 176/141(149)} mmHg\n   RR: 23 (12 - 23) insp/min\n   SPO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                  1,547 mL\n                                                                    572 mL\n   PO:\n             Tube feeding:\n   IV Fluid:\n                                                                    547 mL\n                                                                    572 mL\n   Blood products:\n   Total out:\n                                                                  1,185 mL\n                                                                    440 mL\n   Urine:\n                                                                  1,185 mL\n                                                                    440 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    362 mL\n                                                                    132 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CPAP/PSV\n   Vt (Set): 600 (600 - 600) mL\n   Vt (Spontaneous): 577 (507 - 1,601) mL\n   PS : 8 cmH2O\n   RR (Set): 12\n   RR (Spontaneous): 24\n   PEEP: 5 cmH2O\n   FiO2: 60%\n   RSBI: 46\n   PIP: 13 cmH2O\n   Plateau: 17 cmH2O\n   SPO2: 98%\n   ABG: 7.39/40/229/24/0\n   Ve: 10.9 L/min\n   PaO2 / FiO2: 573\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended, Non-tender\n   Left Extremities: (Edema: Absent)\n   Right Extremities: (Edema: Absent)\n   Neurologic: Follows simple commands, (Responds to: Verbal stimuli,\n   Tactile stimuli), Moves all extremities, Sedated\n   Labs / Radiology\n   227 K/uL\n   13.6 g/dL\n   88 mg/dL\n   0.7 mg/dL\n   24 mEq/L\n   3.8 mEq/L\n   10 mg/dL\n   112 mEq/L\n   140 mEq/L\n   38.5 %\n   12.4 K/uL\n        [image002.jpg]\n                             [**2131-2-1**]  05:35 PM\n                             [**2131-2-1**]  07:55 PM\n                             [**2131-2-1**]  08:06 PM\n                             [**2131-2-1**]  09:05 PM\n                             [**2131-2-1**]  10:13 PM\n                             [**2131-2-2**]  02:37 AM\n                             [**2131-2-2**]  02:38 AM\n   WBC\n   11.5\n   12.4\n   Hct\n   46\n   40.3\n   38.5\n   Plt\n   235\n   227\n   Creatinine\n   0.7\n   0.7\n   Troponin T\n   <0.01\n   TCO2\n   23\n   23\n   23\n   25\n   Glucose\n   101\n   90\n   89\n   88\n   88\n   Other labs: PT / PTT / INR:14.5/30.9/1.3, CK / CK-MB / Troponin\n   T:79//<0.01, Lactic Acid:0.8 mmol/L, Ca:8.1 mg/dL, Mg:1.7 mg/dL,\n   PO4:3.1 mg/dL\n   Assessment and Plan\n   CVA (STROKE, CEREBRAL INFARCTION), ISCHEMIC\n   Assessment and Plan: 59yM s/p TPA and clot retrieval of large [**Country 2032**]/MCA\n   Neurologic: Q1 hour neuro checks, CT if change in mental status.  MRI\n   for when stable.  Sedation with propofol as needed but lighten in\n   preparation for extubation; CT at 9 AM.\n   Cardiovascular: tolerate BP 120-185, labetalol for HTN and fluid and\n   pressors if persistent hypotension\n   Pulmonary: tolerating CPAP/PS on minimal settings, has cough & gag,\n   proceed with extubation today after imaging\n   Gastrointestinal / Abdomen: NPO, S&S eval after extubation\n   Nutrition: NPO\n   Renal: UOP adequate, NS @ 100\n   Hematology: Hct stable, recent TPA, no new stick for 48 hours if\n   possible.  Will cont plavix\n   Endocrine: RISS\n   Infectious Disease: no issues\n   Lines / Tubes / Drains: Foley, ETT\n   Wounds:\n   Imaging: f/u MRI this AM, repeat CT today\n   Fluids: NS\n   Consults: Neuro surgery, Neurology\n   Billing Diagnosis: CVA\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2131-2-1**] 07:15 PM\n   18 Gauge - [**2131-2-1**] 07:15 PM\n   20 Gauge - [**2131-2-1**] 07:15 PM\n   Prophylaxis:\n   DVT: Boots (TPA)\n   Stress ulcer: H2 blocker\n   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 33\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 440974,
+      "category": "Nutrition",
+      "description": "Clinical Nutrition Note",
+      "annotations": [
+        {
+          "begin": 464,
+          "end": 478,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "hyperlipidemia"
+        },
+        {
+          "begin": 2188,
+          "end": 2196,
+          "code": "342.92",
+          "code_system": "ICD-9-CM",
+          "description": "Hemiplegia, unspecified, affecting nondominant side",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "weakness"
+        },
+        {
+          "begin": 2227,
+          "end": 2232,
+          "code": "781.94",
+          "code_system": "ICD-9-CM",
+          "description": "Facial weakness",
+          "type": "MapType.EXACT",
+          "covered_text": "droop"
+        }
+      ],
+      "text": "Subjective: Per pt\ns daughter, pt usually drinks a pot of coffee in the\n   a.m., and then only eats one large meal at night.  Pt\ns weight was\n   stable.\n   Objective\n   Height\n   Admit weight\n   Daily weight\n   Weight change\n   BMI\n   170 cm\n   75 kg\n   74.7 kg ([**2131-2-3**] 12:00 AM)\n   26\n   Ideal body weight\n   % Ideal body weight\n   Adjusted weight\n   Usual body weight\n   % Usual body weight\n   67.1 kg\n   112%\n   77.3kg\n   97%\n   Diagnosis: CVA\n   PMH : hyperlipidemia, tobacco\n   Food allergies and intolerances:\n   Pertinent medications: RISS, Famotidine, others noted\n   Labs:\n   Value\n   Date\n   Glucose\n   87 mg/dL\n   [**2131-2-3**] 01:54 AM\n   Glucose Finger Stick\n   117\n   [**2131-2-3**] 10:00 AM\n   BUN\n   9 mg/dL\n   [**2131-2-3**] 01:54 AM\n   Creatinine\n   0.8 mg/dL\n   [**2131-2-3**] 01:54 AM\n   Sodium\n   138 mEq/L\n   [**2131-2-3**] 01:54 AM\n   Potassium\n   3.7 mEq/L\n   [**2131-2-3**] 01:54 AM\n   Chloride\n   107 mEq/L\n   [**2131-2-3**] 01:54 AM\n   TCO2\n   23 mEq/L\n   [**2131-2-3**] 01:54 AM\n   PO2 (arterial)\n   229 mm Hg\n   [**2131-2-2**] 02:38 AM\n   PCO2 (arterial)\n   40 mm Hg\n   [**2131-2-2**] 02:38 AM\n   pH (arterial)\n   7.39 units\n   [**2131-2-2**] 02:38 AM\n   CO2 (Calc) arterial\n   25 mEq/L\n   [**2131-2-2**] 02:38 AM\n   Calcium non-ionized\n   8.6 mg/dL\n   [**2131-2-3**] 01:54 AM\n   Phosphorus\n   2.5 mg/dL\n   [**2131-2-3**] 01:54 AM\n   Ionized Calcium\n   1.19 mmol/L\n   [**2131-2-1**] 08:06 PM\n   Magnesium\n   1.7 mg/dL\n   [**2131-2-3**] 01:54 AM\n   Triglyceride\n   126 mg/dL\n   [**2131-2-2**] 02:37 AM\n   WBC\n   12.5 K/uL\n   [**2131-2-3**] 01:54 AM\n   Hgb\n   13.0 g/dL\n   [**2131-2-3**] 01:54 AM\n   Hematocrit\n   37.5 %\n   [**2131-2-3**] 01:54 AM\n   Current diet order / nutrition support: TF: Replete with Fiber @\n   75cc/hr (1800kcal, 112g protein)\n   GI: soft, +bowel sounds, +semi-formed stool\n   Assessment of Nutritional Status\n   Adequately nourished\n   Estimated Nutritional Needs based on adm wt.\n   Calories: 1800-2100 (BEE x  or / 24-28 cal/kg)\n   Protein: 90-105 (1.2-1.4 g/kg)\n   Fluid: per team\n   Estimation of previous intake: Adequate\n   Estimation of current intake: Adequate\n   Specifics:\n   59 y.o. M presented to OSH with L-sided weakness, slurred speech and\n   facial droop.  Pt found to have critical carotid stenosis.  Pt received\n   tPA and then MERCI clot removal with carotid stent placed [**2-1**].  Pt was\n   extubated, but too lethargic to tolerate a S/S evaluation.  NGT placed\n   for enteral feeds until pt able to take po\ns.  Current TF order will\n   meet 100% of pt\ns needs.\n   Medical Nutrition Therapy Plan - Recommend the Following\n   1)       Continue advancing to TF goal, as ordered.\n   2)       Monitor lytes and BG with advancing TF.\n   3)       S/S eval when pt more alert/awake.\n   Following\n please page with ?\ns #[**Numeric Identifier 2337**]\n"
+    },
+    {
+      "note_id": 35350,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1065,
+          "end": 1067,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "HL"
+        },
+        {
+          "begin": 1094,
+          "end": 1098,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "1PPd"
+        },
+        {
+          "begin": 5906,
+          "end": 5942,
+          "code": "433.11",
+          "code_system": "ICD-9-CM",
+          "description": "Occlusion and stenosis of carotid artery, with cerebral infarction",
+          "type": "Human",
+          "covered_text": "Right Stoke from CC stenosis and ICA"
+        }
+      ],
+      "text": "Admission Date:  [**2131-2-1**]              Discharge Date:   [**2131-2-5**]\n\nDate of Birth:  [**2071-2-17**]             Sex:   M\n\nService: NEUROLOGY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 2569**]\nChief Complaint:\nLeft sided weakness\n\nMajor Surgical or Invasive Procedure:\nMERCI clot retreival\n\nHistory of Present Illness:\n59 yo RH man who presents after fall.  He was heard to fall\nat 11:30 am by his daughter who lives on the floor under his.\nShe went up to investigate and found him lying awake on the\nbathroom floor with left sided weakness, unable to get up.\nParamedics were [**Name (NI) 653**], and he was brought to [**Hospital3 **], where his NIHSS ranged between [**10-13**]; CT head did not\nshow any bleeding.  CTA showed [**Country **] origin stenosis and\nterminal occlusion.  After discussion with stroke service at [**Hospital1 **],\nIVtPA was administered ~2hr 45 min after initial event, and pt\nwas transferred to [**Hospital1 **] for possible endovascular therapy.\n\n\nPast Medical History:\nHL\n\nSocial History:\ntobacco: 1PPd\n\nFamily History:\nNC\n\nPhysical Exam:\nAdmit Exam\nVS:  T  96.3 HR 63  BP 127/82  RR 18  Sat 99 % on RA\nPE:  General \tNAD\nHEENT \tAT/NC, MMM no lesions\nNeck \tSupple, no bruits\nChest \tCTA B\nCVS \tRRR, no m/r/g\nABD \tsoft, NTND, + BS\n\nNEUROLOGICAL\nMS: \t\nGeneral: \talert, yawning throughout, but able to maintain\narousal\nwith frequent verbal stimulation.  follows simple commands\nbriskly.  oriented to self, place, date, age.  able to name\nfrequent objects - trouble with hammock and cactus.  repetition\nintact.\n\nCN:\nII,III: \tVFFTC to threat, pupils 4-2 mm bilaterally to light,\noptics discs sharp and flat\nIII,IV,V:\tR gaze preference but EOMI, no ptosis. Normal\nsaccades/pursuits\nV: \tsensation intact to LT/temp\nVII: \tsignificantly decreased NLF excursion on L\nVIII: \thears finger rub bilaterally\nIX,X: \tvoice normal, palate elevates symmetrically\n[**Doctor First Name 81**]: \tSCM/trapezeii [**5-1**] bilaterally\nXII: \ttongue protrudes to L.\n\nMotor:\tNormal bulk and tone on R. L: with decreased tone. LUE\nmovement only to noxious.\n\nDelt\t[**Hospital1 **]\tTri\tWE     FE     Grip\tIO\nC5\tC6\tC7\tC6     C7     C8/T1\tT1\nL 0\t1\t0\t0      0       1        0\nR 5\t5\t5\t5      5       5        5\n\nIP\tQuad\tHamst\tDF      [**Last Name (un) 938**]    PF\nL2\tL3\tL4-S1\tL4\tL5     S1/S2\n4+\t5-\t4-\t3\t3      5-\n5\t5\t5\t5\t5      5\n\nReflex:\t3+ in UE and patella on L.  2+ on R.  toes down\nbilaterally.\n\nSensation:  \tbrisk withdrawal on R.  withdrawal in UE as above.\nslow, but present withdrawal to noxious in LLE.  extinction to\nDSS on L.\n\nCoordination:\tFinger-nose-finger intact on R. unable on L.\n\n\nPertinent Results:\n[**2131-2-1**] 10:13PM   TYPE-ART PO2-194* PCO2-41 PH-7.34* TOTAL\nCO2-23 BASE XS--3\n[**2131-2-1**] 09:05PM   CK(CPK)-79\n[**2131-2-1**] 09:05PM   CK-MB-NotDone cTropnT-<0.01\n[**2131-2-1**] 07:55PM   GLUCOSE-90 UREA N-11 CREAT-0.7 SODIUM-142\nPOTASSIUM-4.7 CHLORIDE-114* TOTAL CO2-22 ANION GAP-11\n[**2131-2-1**] 07:55PM   PLT COUNT-235\n[**2131-2-1**] 07:55PM   PT-14.2* PTT-31.1 INR(PT)-1.2*\n[**2131-2-1**] 07:55PM   WBC-11.5* RBC-4.53* HGB-13.6* HCT-40.3 MCV-89\nMCH-30.1 MCHC-33.8 RDW-13.8\n[**2131-2-1**] 03:20PM   GLUCOSE-102 UREA N-15 CREAT-1.1 SODIUM-139\nPOTASSIUM-5.0 CHLORIDE-103 TOTAL CO2-26 ANION GAP-15\n[**2131-2-1**] 03:20PM   WBC-15.8* RBC-5.40 HGB-16.4 HCT-48.3 MCV-90\nMCH-30.4 MCHC-34.0 RDW-13.6\n[**2131-2-1**] 03:20PM   cTropnT-<0.01\n\nCT [**2-1**]: 1. No gross acute hemorrhage. However, evaluation for\nsmall areas of hemorrhage are limited due to contrast from prior\nCT study. To correlate with the initial study. 2. Large area of\nperfusion deficit in the right middle cerebral artery territory,\nincluding the centrum semiovale, temporal lobe, and the basal\nganglia and internal capsule, with the area of infarction, on\nthe medial aspect, and area of reversible ischemia in the\nperiphery. 3. Possible occlusion of the right internal carotid\nartery termination and the middle cerebral artery, which can be\nbetter evaluated on the CT head and CTA, done earlier, which are\nnot available for at the present dictation.\n\nMRI [**2-2**]: Right basal ganglia infarct with blood products\nindicative of\nhemorrhage. Mild mass effect on the right lateral ventricle.\nSeveral tiny\nareas of additional infarcts are seen in the posterior division\nof the right middle cerebral artery territory.\nMRA: No significant abnormalities on MRA of the head in the\narteries\naround the circle of [**Location (un) 431**]. The right middle cerebral artery\ndemonstrates\nflow signal on the current study indicating improvement since\nthe previous\ncerebral angiogram of [**2131-2-1**].\n\nCXR [**2-3**]: Previously concerning findings relating to the right\nhilum and\nright apex appear less apparent and likely relate to question of\ninterstitial features in the interim.\n\n\nBrief Hospital Course:\nPt was taken to angio upon arrival with placement of carotid\nstent and MERCI clot retrieval.  He tolerated the procedure\nwell.  He had a stroke risk factor work-up with A1c, FLP, ECHO\nall of which were unremarkable.  His stroke is likely secondary\nto carotid disease.  He had a CXR initially concerning for PNA\nand was started on azithromycin.  F/U CXR was improved.  He had\na speech/swallow evaluation on [**2-5**] which cleared him for ground\nsolids, nectar thick liquids.\n\nMedications on Admission:\nLipitor\n\n\nDischarge Medications:\n1. Atorvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime).\n3. Insulin Regular Human 100 unit/mL Solution Sig: One (1)\nInjection ASDIR (AS DIRECTED).\n4. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) ml\nInjection TID (3 times a day).\n5. Azithromycin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every\n24 hours) for 4 doses.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 979**] - [**Location (un) 246**]\n\nDischarge Diagnosis:\nRight Stoke from CC stenosis and ICA clot\n\n\nDischarge Condition:\nImproved\n\n\nDischarge Instructions:\nYou were admitted because you had a stoke.  You had a procedure\nto help open up the blood vessels which were blocked.  You will\nneed physical and occupational therapy and will be discharged to\na facility where that will be ongoing.\n\nFollowup Instructions:\n[**Hospital 4038**] clinic with Dr. [**First Name (STitle) **] - ([**Telephone/Fax (1) 7394**]\n\n\n                             [**First Name8 (NamePattern2) **] [**Name8 (MD) 162**] MD [**MD Number(2) 2575**]\n\n"
+    }
+  ]
+}

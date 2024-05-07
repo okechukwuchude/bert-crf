@@ -1,0 +1,122 @@
+{
+  "hadm_id": 188202,
+  "comment": "Tracheostomy ,Bronchoscopy and Laryngoscopy- Missing OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 50798,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 3082,
+          "end": 3096,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 3098,
+          "end": 3121,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 3126,
+          "end": 3129,
+          "code": "V45.82",
+          "code_system": "ICD-9-CM",
+          "description": "Percutaneous transluminal coronary angioplasty, postsurgical status",
+          "type": "Human",
+          "covered_text": "PCI"
+        },
+        {
+          "begin": 3289,
+          "end": 3303,
+          "code": "715.16",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoarthrosis, localized, primary, involving lower leg",
+          "type": "MapType.APPROX",
+          "covered_text": "Osteoarthritis"
+        },
+        {
+          "begin": 3547,
+          "end": 3568,
+          "code": "333.94",
+          "code_system": "ICD-9-CM",
+          "description": "Restless legs syndrome (RLS)",
+          "type": "Human",
+          "covered_text": "Restless leg syndrome"
+        },
+        {
+          "begin": 3570,
+          "end": 3611,
+          "code": "V10.51",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of bladder",
+          "type": "Human",
+          "covered_text": "h/o bladder cancer status post resection,"
+        },
+        {
+          "begin": 3740,
+          "end": 3761,
+          "code": "351.0",
+          "code_system": "ICD-9-CM",
+          "description": "Bell&apos;s palsy",
+          "type": "Human",
+          "covered_text": "right 7th nerve palsy"
+        },
+        {
+          "begin": 3936,
+          "end": 3948,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "Quit\nsmoking"
+        },
+        {
+          "begin": 7047,
+          "end": 7056,
+          "code": "492.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other emphysema",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "emphysema"
+        },
+        {
+          "begin": 7080,
+          "end": 7129,
+          "code": "722.4",
+          "code_system": "ICD-9-CM",
+          "description": "Degeneration of cervical intervertebral disc",
+          "type": "MapType.APPROX",
+          "covered_text": "Stable degenerative changes of the cervical spine"
+        },
+        {
+          "begin": 8038,
+          "end": 8047,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "description": "Dysphagia, unspecified",
+          "type": "Human",
+          "covered_text": "dysphagia"
+        },
+        {
+          "begin": 8820,
+          "end": 8832,
+          "code": "276.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hyposmolality and/or hyponatremia",
+          "type": "Human",
+          "covered_text": "Hyponatremia"
+        }
+      ],
+      "text": "Admission Date:  [**2179-10-25**]              Discharge Date:   [**2179-11-10**]\n\nDate of Birth:  [**2101-3-18**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPenicillins / [**Doctor First Name **] / Tylenol #3\n\nAttending:[**First Name3 (LF) 3565**]\nChief Complaint:\nStridor\n\nMajor Surgical or Invasive Procedure:\nBronchoscopy and laryngoscopy [**10-27**]\nTracheostomy placement by ENT [**10-29**]\nTracheostomy replacement by ENT [**11-8**]\nLaryngeal Electromyogram by ENT and Neurology [**11-9**]\n\nHistory of Present Illness:\nMr [**Known lastname 105647**] is a 78M h/o with COPD on continuous O2 at 2L who\npresented to the ED with c/o 2 days of not feeling and trouble\nbreathing.  Of note, pt was here recently for same presentation\nand had ENT scope that was unrevealing.  On that occasion, he\nwas admitted to the ICU and required intubation, was evaluated\nby ENT who visulaized a small amount of tissue overlying the\nvocal cords with no evidence of obstruction to level of\nepiglottis, however not able to view larynx.\n.\nIn the ED, initial vs were not recorded, however pt was reported\nto be hypoxic. Patient was given heliox, albuterol, ipratroprium\nand 125 mg methylprednisolone.  Initially he was anxious and\nvery stridorous but subesequently relaxed and was breathing more\ncomfortably, although still with insp stridor.  Labs were\nnotable for hyponatremia to the 120s, mild anemia.  CT neck was\nattempted but was unable to be completed because the patient was\nunable to lie down.  Chest xray showed no acute CP process.  EKG\nshowed NSR with occ PACs.  Vitals on transfer were 108/70 94 24\n100% on non-rebreather.\n.\nOn the floor, pt continues to be stridorous and is difficulty to\nunderstand due to mask/heliox.  Stridor improved throughout the\nH&P.\n.\nReview of sytems:\n(+) Per HPI, also endorses wt loss, last BM last night\n(-) Denies [**Known lastname **], chills, night sweats, recent weight loss or\ngain. Denies headache, sinus tenderness, rhinorrhea or\ncongestion. Denied cough. Denied chest pain or tightness,\npalpitations. Denied nausea, vomiting, diarrhea, constipation or\nabdominal pain. No recent change in bowel or bladder habits. No\ndysuria. Denied arthralgias or myalgias.\n\nPast Medical History:\n-COPD: evaluated in pulmonary clinic (Dr. [**First Name4 (NamePattern1) 1370**] [**Last Name (NamePattern1) **]) prior\nto surgery in [**2179-8-5**], spirometry at the time revealed FEV1\nof 1.41L (59% predicted) and FVC of 2.25L (60% predicted), with\nration 0.63 suggesting moderate mixed obstructive and\nrestrictive deficit (little change since [**2172**]); previously\nfollowed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] from [**2169**] to [**2172**]; intermittent\nadherance to therapy; emphysema with right lower lobe\natelectasis seen on CT from [**2179-8-31**]\n-Pulmonary HTN: mean pulmonary artery pressure of 27 (on cath in\n\n[**2170**])\n-Paroxysmal a.fib in setting of knee surgery: post-op course\ncomplicated by abif and dyspnea, with negative PE-CT; CHADS\nscore 4, anticoag with lovenox and ASA\n-Hyperglycemia: HbA1c 6.1%\n-Hyperlipidemia\n-Coronary artery disease s/p PCI in [**2168**]\n-Diastolic heart dysfunction: echo from [**2179-7-22**] shows LVEF 75%,\n\nincreased left ventricular pressure, moderate calcific aortic\nstenosis\n-Osteoarthritis causing chronic knee pain: R-knee replacemetn on\n\n[**8-/2179**], ambulating with walker\n-Lumbar disc disease and spinal stenosis cervical spine\ndegeneration of C3 through C7 with neck pain\n-Sleep apnea on home oxygen\n-Benign essential tremor\n-Restless leg syndrome\n-h/o bladder cancer status post resection, followed by Dr. [**Last Name (STitle) 365**],\n\nhis last resection was in [**5-/2174**] for recurrence\n-h/o stroke with residual right 7th nerve palsy\n-h/o hiatal hernia: dx in setting of dysphagia in [**12/2176**] via\ndouble contrast barium esophogram\n\nSocial History:\nRetired artist(painter). 75-pack-year smoking history (Quit\nsmoking in [**2152**]). He lives with his wife in an apartment. He\nimmigrated from [**Location (un) 49506**] in 30 years ago. He denies alcohol or\ndrug use.\n\nFamily History:\nnon-contributory\n\nPhysical Exam:\nVitals: T:97.3 BP:135/79 P:106 R:32 O2:91%\nGeneral: Alert, aao to day, \"[**Hospital **] hospital\", no acute distress\n\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: R-sided rhonchi, stridorous, no wheezes, rales\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: soft, mild ttp throughout, non-distended, bowel sounds\npresent, no rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: A&Ox3, CNII-XII intact, sensation and strength grossly\nintact in all extremities\n\nDischarge:\nT: 98, P: 74, BP: 91/ 64, RR: 25, 97% on TM\nGeneral: Awake, alert and oriented xt3,  NAD\nHEENT: continues to have minimal trach secretions, trach in\nplace, strong voice, minimal stridor on capping\nNeck: supple, minimal secretions around trach, no LAD\nLungs: loud upper airway sounds, minimal scattered rhonchi\nant/lat\nCV: Regular rate and rhythm, normal S1 + S2 shifted to the\nright, 3/6 SEM radiating to carotids\nAbdomen: soft, non-tender, slightly distended in upper portion,\nno peritoneal signs\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n\nPertinent Results:\nAdmission labs:\n[**2179-10-25**] 10:45AM   GLUCOSE-134* UREA N-14 CREAT-0.6 SODIUM-120*\nPOTASSIUM-4.5 CHLORIDE-82* TOTAL CO2-31 ANION GAP-12\n[**2179-10-25**] 10:45AM   estGFR-Using this\n[**2179-10-25**] 10:45AM   TSH-0.44\n[**2179-10-25**] 10:45AM   WBC-4.7 RBC-4.13* HGB-10.8* HCT-32.5*\nMCV-79*# MCH-26.0* MCHC-33.1 RDW-13.1\n[**2179-10-25**] 10:45AM   NEUTS-59.5 LYMPHS-32.9 MONOS-5.4 EOS-1.4\nBASOS-0.7\n[**2179-10-25**] 10:45AM   PLT COUNT-278\n[**2179-10-25**] 10:45AM   PT-11.3 PTT-30.4 INR(PT)-0.9\n[**2179-10-25**] 10:54AM   LACTATE-0.7\n\nDischarge Labs:\n[**2179-11-9**] 03:55AM BLOOD WBC-4.1 RBC-3.93* Hgb-10.4* Hct-31.4*\nMCV-80* MCH-26.4* MCHC-33.0 RDW-13.9 Plt Ct-214\n[**2179-10-28**] 04:52AM BLOOD Neuts-67.2 Lymphs-25.3 Monos-7.3 Eos-0.1\nBaso-0.1\n[**2179-11-9**] 03:55AM BLOOD PT-10.6 PTT-34.2 INR(PT)-1.0\n[**2179-11-10**] 04:48AM BLOOD Glucose-147* UreaN-15 Creat-0.6 Na-133\nK-4.0 Cl-91* HCO3-36* AnGap-10\n[**2179-11-10**] 04:48AM BLOOD Calcium-9.5 Phos-4.1 Mg-2.2\n\nOTHER:\n[**2179-11-1**] 03:52AM BLOOD %HbA1c-5.8 eAG-120\n[**2179-10-25**] 10:45AM BLOOD TSH-0.44\n[**2179-10-29**] 04:29AM BLOOD Cortsol-9.9\n[**2179-11-3**] 06:42AM BLOOD Vanco-13.9\n\nEKG: NSR, no acute ST tw changes\n\nCT Neck [**2179-10-25**]:\nIMPRESSION:\n1. Simple fluid lining the posterior [**Last Name (un) **]-, oro-, and\nlaryngopharynx, and\nanterior laryngopharynx, findings likely secondary to recent\nintubation. No compressive extrinsic enhancing mass lesion to\nexplain patient's stridor. However, assessment for endoluminal\nlesions or abnormalities is limited due to intubation. Follwoup\nas clinically indicated.\n3. Endotracheal tube in standard position, 3.3 cm above the\ncarina.\n4. Mild paraseptal emphysema in the lung apices.\n5. Stable degenerative changes of the cervical spine.\n\nBrief Hospital Course:\n78 yo gentleman with hx of MICU admission for stridor with no\nevidence of obstruction, now presenting with recurrent stridor.\n.\n#. Stridor: Initially unclear cause of his stridor given normal\nlaryngoscope on last visit. Pt intubated on admission and\nstabilized on vent. CT scan of the neck did not show any\nextraluminal masses compressing. [**10-27**] an attempt was made to\nextubate him, but he afterwards developed stridor and had to be\nre-intubated. During the brief extubation, a laryngoscopy was\ndone that was concerning for at least partial paralysis of the\nvocal cords. He was treated with 24 hours of IV solumedrol in\ncase there was a contribution of airway swelling. [**10-29**] he had a\ntracheostomy placed by the ENT service with some difficulty\nbecause of his severe scoliosis and altered anatomy. Afterwards\nhe was quickly weaned to a trach collar. With the concomitant\ndysphagia, there was concern for neuromuscular weakness, so\nneurology was consulted. Their work-up consisted of MRI, which\nfailed to demonstrate a lesion that would explain the pathology\nfound. The next test Neurology recommended was an EMG, this\ndemonstrated a pattern consistent with a myopathy. The\nneuromuscular service was consulted to evaluate the LEMG and\nguide further diagnostic studies. LEMG was EMG suggestive of\nneuromuscular junction disorder. He was discharged with\nfollow-up with the neuromuscular clinic and ENT.\n\n#. Dysphagia: patient had been having several weeks of worsening\ndysphagia prior to admission, including weight loss. He had an\nEGD [**2179-10-2**] for similar symptoms that did not show a cause for\ndysphagia. Patient declined video swallow study.\n\n#. Hyponatremia: Most likely hypovolemic as this improved with\nIV fluids. Likely from poor PO intake [**1-6**] dysphagia. This\nresolved with tube feeds.\n\n#. Anemia: at baseline, no evidence of active bleeding, with low\niron [**9-14**], nl ferritin, iron/TIBC<18 concerning for iron\ndeficiency. Likely from poor PO intake.\n\n#. Tachycardia: sinus, likely due to resp distress.\n\nTransitional Issues:\nThere are several tests requested by Neurology that were sent\noff by pathology to outside facility that are pending prior to\ndischarge. Patient should follow up with outpatient Neurology\nregarding these tests.\n\nMedications on Admission:\n1. salmeterol 50 mcg/dose Disk with Device [**Month/Year (2) **]: One (1) Disk\nwith Device Inhalation Q12H (every 12 hours).\n2. Lipitor 20 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO once a day.\n3. Protonix 40 mg Tablet, Delayed Release (E.C.) [**Month/Year (2) **]: One (1)\nTablet, Delayed Release (E.C.) PO once a day.\n4. citalopram 20 mg Tablet [**Month/Year (2) **]: 0.5 Tablet PO DAILY (Daily).\n5. Clotrimazole Foot 1 % Cream [**Month/Year (2) **]: One (1) application Topical\ntwice a day: apply to feet.\n6. acetaminophen 500 mg Tablet [**Month/Year (2) **]: 1-2 Tablets PO Q 8H (Every 8\n\nHours) as needed for [**Month/Year (2) **] or pain.\n7. nitroglycerin 0.3 mg Tablet, Sublingual [**Month/Year (2) **]: One (1) tablet\nSublingual as needed as needed for chest pain: Take one tablet\nunder tonque every 5 inutes up to 3 pills, if pain persists call\n\ndoctor.\n8. aspirin 325 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO once a day.\n9. ProAir HFA 90 mcg/Actuation HFA Aerosol Inhaler [**Month/Year (2) **]: [**12-6**]\npuffs Inhalation every four (4) hours as needed for wheeze.\n10. Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device\n[**Month/Day (2) **]: One (1) puff Inhalation twice a day.\n\nDischarge Medications:\n1. atorvastatin 20 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO once a day.\n\n2. citalopram 20 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO DAILY (Daily).\n\n3. bisacodyl 5 mg Tablet, Delayed Release (E.C.) [**Month/Day (2) **]: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for\nconstipation.\n4. trazodone 50 mg Tablet [**Month/Day (2) **]: 0.5 Tablet PO HS (at bedtime) as\nneeded for insomnia.\n5. aspirin 325 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO once a day.\n6. lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)\nTablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).\n7. acetaminophen 650 mg/20.3 mL Solution [**Last Name (STitle) **]: One (1)  PO Q6H\n(every 6 hours) as needed for pain.\n8. docusate sodium 50 mg/5 mL Liquid [**Last Name (STitle) **]: One (1)  PO BID (2\ntimes a day).\n9. ipratropium bromide 0.02 % Solution [**Last Name (STitle) **]: One (1)  Inhalation\nQ2H (every 2 hours) as needed for SOB.\n10. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization [**Last Name (STitle) **]: One (1)  Inhalation Q2H (every 2 hours) as\nneeded for SOB.\n11. senna 8.6 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO BID (2 times a\nday).\n12. fluticasone-salmeterol 100-50 mcg/dose Disk with Device [**Last Name (STitle) **]:\nOne (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 105**] - [**Location (un) 86**]\n\nDischarge Diagnosis:\n1)Vocal Chord dysfunction\n2)Dysphagia\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nDear Mr. [**Known lastname 105647**],\n\nYou were admitted to our hospital with shortness of breath. We\nhave determined that you needed a tracheostomy. We have placed a\ntube in your neck to help you with breathing. To help you with\neating, we placed a feeding tube into your stomach through your\nnose.\n\nYour were also evaluated by our neurologists and our ear, nose\nand throat doctors. The cause of your trouble swallowing and\nvocal cord dysfunction is not clear. You will follow-up with the\nneurologists regarding these issues.\n\nThe following changes were made to your medications:\n- STOPPED Spiriva, pantoprazole\n- STARTED ipratroprium, advair, lansoprazole\n- STARTED colace, biscodyl and senna as needed for constipation\n- INCREASED Citalopram from 10 mg to 20 mg po daily\n\nFollowup Instructions:\nPlease keep the following appointments:\n\nDepartment: NEUROLOGY/NEUROMUSCULAR DIVISION\nWhen: FRIDAY [**2179-11-19**] at 9:30 AM\nWith: DRS. [**Name5 (PTitle) 3524**]/[**Doctor Last Name 37664**] [**Telephone/Fax (1) 558**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 858**]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\nDepartment: ENT\nWith: Dr. [**Last Name (STitle) **] S. Mallur\nDATE: [**2179-11-22**] at 3:30 pm\n[**Hospital Unit Name 105648**], [**Location (un) 86**], [**Numeric Identifier 718**]\n([**Telephone/Fax (1) 6213**]\n\n\n\n"
+    }
+  ]
+}

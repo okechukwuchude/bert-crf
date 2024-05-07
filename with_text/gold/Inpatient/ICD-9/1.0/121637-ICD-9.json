@@ -1,0 +1,176 @@
+{
+  "hadm_id": 121637,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 46059,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 779,
+          "end": 794,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "aortic stenosis"
+        },
+        {
+          "begin": 1407,
+          "end": 1419,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1423,
+          "end": 1437,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 1441,
+          "end": 1455,
+          "code": "715.90",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoarthrosis, unspecified whether generalized or localized, involving unspecified site",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Osteoarthritis"
+        },
+        {
+          "begin": 1501,
+          "end": 1526,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "Diabetes mellitus type II"
+        },
+        {
+          "begin": 1556,
+          "end": 1579,
+          "code": "327.23",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "Human",
+          "covered_text": "Obstructive sleep apnea"
+        },
+        {
+          "begin": 1583,
+          "end": 1595,
+          "code": "729.1",
+          "code_system": "ICD-9-CM",
+          "description": "Mylagia and myositis, unspecified",
+          "type": "Human",
+          "covered_text": "Fibromyalgia"
+        },
+        {
+          "begin": 1619,
+          "end": 1640,
+          "code": "333.94",
+          "code_system": "ICD-9-CM",
+          "description": "Restless legs syndrome (RLS)",
+          "type": "Human",
+          "covered_text": "Restless Leg Syndrome"
+        },
+        {
+          "begin": 1644,
+          "end": 1667,
+          "code": "529.6",
+          "code_system": "ICD-9-CM",
+          "description": "Glossodynia",
+          "type": "MapType.EXACT",
+          "covered_text": "Burning tongue syndrome"
+        },
+        {
+          "begin": 1725,
+          "end": 1743,
+          "code": "459.81",
+          "code_system": "ICD-9-CM",
+          "description": "Venous (peripheral) insufficiency, unspecified",
+          "type": "Human",
+          "covered_text": "Venous Stasis with"
+        },
+        {
+          "begin": 1761,
+          "end": 1765,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 1842,
+          "end": 1852,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 1853,
+          "end": 1860,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "Human",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 1865,
+          "end": 1887,
+          "code": "354.0",
+          "code_system": "ICD-9-CM",
+          "description": "Carpal tunnel syndrome",
+          "type": "MapType.APPROX",
+          "covered_text": "Carpal tunnel syndrome"
+        },
+        {
+          "begin": 1909,
+          "end": 1933,
+          "code": "389.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hearing loss",
+          "type": "Human",
+          "covered_text": "Hearing loss - bilateral"
+        },
+        {
+          "begin": 2011,
+          "end": 2027,
+          "code": "443.0",
+          "code_system": "ICD-9-CM",
+          "description": "Raynaud&apos;s syndrome",
+          "type": "Human",
+          "covered_text": "Raynauds Disease"
+        },
+        {
+          "begin": 2072,
+          "end": 2083,
+          "code": "571.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic nonalcoholic liver disease",
+          "type": "Human",
+          "covered_text": "Fatty Liver"
+        },
+        {
+          "begin": 3364,
+          "end": 3374,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "Cigarettes"
+        }
+      ],
+      "text": "Admission Date:  [**2118-3-2**]              Discharge Date:   [**2118-3-7**]\n\nDate of Birth:  [**2047-10-31**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nPenicillins / Codeine / Adhesive Tape / Cholinesterase\nInhibitor(Carbamate) / Bactrim DS / Iodine-Iodine Containing /\nPravachol / Lipitor / Betadine / Sulfa (Sulfonamide Antibiotics)\n/ Anectine / Magnesium Citrate / Crestor / Niacin / Zetia /\nPregabalin\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nExertional dyspnea, recent sycope\n\nMajor Surgical or Invasive Procedure:\n[**2118-3-3**] Aortic valve replacement (#19mm [**Doctor Last Name **] pericardial)/\nMyomectomy\n[**2118-3-2**] Cardiac cath\n\n\nHistory of Present Illness:\nThis is a 70 year old female with multiple medical issues who\nhas known aortic stenosis which has been followed by serial\nechocardiograms for the past several years. Early this [**Month (only) 956**]\nshe had a syncopal episode. She was admitted and on telemetry\nfor 48 hours which showed no arrythmias and she ruled out for\nmyocardial infarction. Her last echocardiogram in [**2117-4-21**]\nshowed severe aortic stenosis with a peak velocity of 3.8m/s.\nCurrently her symptoms include exertional dyspnea, poor exercise\ntolerance and fatigue. Given her recent sycopal episode and\nknown severe aortic stenosis, she has been referred for surgical\nevaluation.\n\nPast Medical History:\n1. Aortic stensosis\n2. Hypertension\n3. Hyperlipidemia\n4. Osteoarthritis - currently awaiting left hip replacement\n5. Diabetes mellitus type II\n6. Sj??????grens syndrome\n7. Obstructive sleep apnea\n8. Fibromyalgia/Nocturnal Leg Cramping/Restless Leg Syndrome\n9. Burning tongue syndrome\n10. Stress incontinence\n11. de Quervain's tendinitis\n12. Venous Stasis with spider veins\n13. GERD\n14. Allergic rhinitis, history of sinusitis\n15. Stable left lung nodule\n16. Depression/Anxiety\n17. Carpal tunnel syndrome\n18. Adie's pupil\n19. Hearing loss - bilateral hearing aids\n20. Back pain\n21. Lactose intolerance\n22. Actinic keratosis\n23. Raynauds Disease\n24. History of Kidney Stones\n25. History of Fatty Liver - prior liver biopsy\n26. Constipation\n27. Pseudocholinesterase Deficiency\nPast Surgical History:\n1. Tonsillectomy [**2066**]\n2. Nasal surgery [**2067**]\n3. Cholecystectomy [**2071**]\n4. Laminectomy L4-5-[**2079**]\n5. TAH/BSO-[**2089**]- question raised whether supracervical\nprocedure-cervix was found on exam and Pap smear obtained.\n6. Bladder suspension, [**2092**]\n7. Right rotator cuff surgery-[**2101**]\n8. Cervical diskectomy [**2105-2-19**]\n9. Sinus surgery, [**2105**]\n10. Left knee arthroscopy?  [**2107-4-22**]\n11. Left knee-arthroscopy?  [**2108-1-20**]\n12. Spinal fusion L4-S1, [**2110-11-22**]\n13. Right tibial plateau for a status post two screws and\nfusion, [**2111-10-22**]\n14. Sinus surgery, [**2112-3-21**]\n15. Right carpal tunnel release [**2112-11-21**]\n16. Total knee replacement right, [**2113-3-21**]\n17. Right knee revision, [**2114-8-27**]\n18. Venous closure and phlebectomy for varicose veins - Dr.\n[**Last Name (STitle) **]\n19. Right wrist first dorsal compartment release and a right\nwrist arthroscopy. [**3-/2117**], Dr. [**Last Name (STitle) 98016**]\n20. Laminetomy L2-3 [**7-2**], Dr. [**Last Name (STitle) 98017**]\n\nSocial History:\nRace: Caucasian\nLast Dental Exam: dental clearance obtained [**2118-1-28**]\nLives with: Husband\nOccupation: Retired\nCigarettes: 6 PYH. Quit over 30 years ago.\nETOH: social, denies history of ETOH abuse\nIllicit drug use: Denies\n\nFamily History:\nFather CABG in his 60's, died at age 72 of myocardial\ninfarction.\n\nPhysical Exam:\nPulse: 84  Resp: 16  O2 sat: 100% room air\nB/P  Right: 138/80   Left:\n\nGeneral: WDWN female in no acute distress\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur [x] grade 3/6 SEM radiating\nto carotids\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]\nExtremities: Warm [x], well-perfused [x]\nEdema: None\nVaricosities: Spider veins present. No gross varicosities noted.\n\nNeuro: Grossly intact [x]\nPulses:\nFemoral      Right: 2+  Left: 2+\nDP           Right: 2+  Left: 2+\nPT           [**Name (NI) 167**]: 2+  Left: 2+\nRadial       Right: 2+  Left: 2+\nCarotid Bruit: soft transmitted murmur noted bilaterally\n\nPertinent Results:\n[**2118-3-2**] Cardiac cath: 1. Selective coronary angiography of this\nLEFT dominant system demonstrated no angiographically-apparent\ncoronary artery disease.  The LMCA, LAD, dominant LCx, and RCA\nwere all free of any obstructive disease. 2. Limited resting\nhemodynamics revealed normal systemic arterial pressures, with a\ncentral aortic pressure of 121/61, mean 88 mmHg.\n.\n[**2118-3-2**] Carotid U/S: Right ICA no stenosis. Left ICA no\nstenosis.\n.\n[**2118-3-3**] Echo: PRE-BYPASS: The left atrium is moderately dilated.\nAt least one pulmonary vein may be entering the right atrium. No\natrial septal defect is seen by 2D or color Doppler. Left\nventricular wall thicknesses and cavity size are normal. Overall\nleft ventricular systolic function is normal (LVEF>55%). Right\nventricular chamber size and free wall motion are normal. There\nare complex (>4mm) atheroma in the descending thoracic aorta.\nThere are three aortic valve leaflets. The aortic valve leaflets\nare severely thickened/deformed. There is critical aortic valve\nstenosis (valve area <0.8cm2). Trace aortic regurgitation is\nseen. The mitral valve leaflets are moderately thickened. There\nis moderate thickening of the mitral valve chordae. Mild (1+)\nmitral regurgitation is seen. There is no pericardial effusion.\nPOST CPB: 1. Preserverd [**Hospital1 **]-ventricular systolci function. 2.\nBioprosthetic valve in aortic position. Wewll seated and stable\nwith good leaflet excursion. PG + 28 mm hg. 3. Chordal [**Male First Name (un) **] with\ntrivial MR. 4. No other change.\n.\n[**2118-3-7**] 06:18AM BLOOD WBC-7.9 RBC-2.72* Hgb-7.5* Hct-24.2*\nMCV-89 MCH-27.6 MCHC-30.9* RDW-13.5 Plt Ct-195#\n[**2118-3-2**] 05:30PM BLOOD WBC-12.8* RBC-4.12* Hgb-11.9* Hct-37.6\nMCV-91 MCH-28.8 MCHC-31.5 RDW-13.4 Plt Ct-300\n[**2118-3-5**] 02:28AM BLOOD PT-14.5* PTT-35.8 INR(PT)-1.4*\n[**2118-3-7**] 06:18AM BLOOD Glucose-113* UreaN-19 Creat-0.5 Na-138\nK-4.4 Cl-101 HCO3-32 AnGap-9\n[**2118-3-2**] 05:30PM BLOOD Glucose-125* UreaN-21* Creat-0.5 Na-140\nK-3.6 Cl-104 HCO3-25 AnGap-15\n\nBrief Hospital Course:\nMrs. [**Known lastname 47958**] was admitted on [**3-2**] following her cardiac cath\nwhich revealed no coronary artery disease. She underwent further\ntesting this day for preparation of surgery the following day.\nOn [**3-3**] she was brought to the operating room where she\nunderwent an aortic valve replacement (#19mm [**Doctor Last Name **]\npericardial)?myomectomy. Please see operative note for surgical\ndetails. Following surgery she was transferred to the CVICU for\ninvasive monitoring in stable condition. Later this day she was\nweaned from sedation, awoke neurologically intact and extubated.\nOn post-op day one she was started on beta-blockers and\ndiuretics and gently diuresed towards her pre-op weight. POD#2\nshe was transferred to the step-down floor for further care.\nChest tubes and epicardial pacing wires were removed per\nprotocol. She remained hemodynamically stable in sinus rhythm.\nWith aggressive pulmonary toilet and ambulation she titrated off\noxygen.  Her pain was well controlled with Ultram  and NSAIDS.\nShe was evaluated by by physical therapy.  The remainder of her\npostoperative course was essentially uneventful. She continued\nto make steady progress and was discharged to [**Hospital6 **]\nin [**Location (un) 246**] on POD# 4. All follow up appointmets were advised.\n\nMedications on Admission:\nALBUTEROL SULFATE - 90 mcg HFA Aerosol Inhaler - [**11-22**] qid prn\nAZELASTINE [ASTELIN] - 137 mcg (0.1 %) Aerosol, Spray - 1\nspray/nostril(s) twice a day as needed for seasonal allergies\nCLONAZEPAM - 2 mg Tablet, Rapid Dissolve - 1 Tablet(s) by mouth\nat bedtime\nDULOXETINE [CYMBALTA] - 60 mg Capsule, Delayed Release(E.C.) - 1\nCapsule(s) by mouth once a day\nFLUVASTATIN [LESCOL XL] - 80 mg Tablet Extended Release 24 hr -\n1 Tablet(s) by mouth 3-4times/week\nLISINOPRIL - 40 mg Tablet - 1 Tablet(s) by mouth once a day\nMETFORMIN - 500 mg Tablet Extended Rel 24 hr - 1 Tab(s) by mouth\nonce a day\nOMEPRAZOLE - 20MG Capsule, Delayed Release(E.C.) - ONE EVERY\nMORNING\nONE TOUCH ULTRASMART TEST STRIPS -   - test four times a day\nPRAMIPEXOLE - 0.5 mg Tablet - 1 Tablet(s) by mouth hs prn RLS\nPREDNISONE -  (Prescribed by Other Provider) - 20 mg Tablet - 2\nTablet(s) by mouth take 40mg TUES [**3-1**] pm, 40mg WED4/11 AM.\npremedications for dye allergy called into pt's pharmacy per Dr.\n[**Last Name (STitle) **]\nRANITIDINE HCL -  (Prescribed by Other Provider) - 150 mg Tablet\n- 1 Tablet(s) by mouth  take 1 tablet TUES [**3-1**] pm, 1 tablet wed\n[**3-2**] AM premed for contrast allergy\nZOLPIDEM -  (On Hold from [**2117-12-30**] to unknown for trial off) -\n10 mg Tablet - 1 Tablet(s) by mouth at bedtime\n\nMedications - OTC\nASPIRIN - 81 mg Tablet, Chewable - 1 Tablet(s) by mouth qd with\nmeal\nCALCIUM CARBONATE-VITAMIN D3 -  (Prescribed by Other Provider) -\n600 mg calcium (1,500 mg)-400 unit Tablet - Tablet(s) by mouth\nonce a day\nLANCETS [LANCETS,THIN] -     Misc - test  three times a day\nOMEGA-3 FATTY ACIDS-VITAMIN E [FISH OIL] -  (OTC) - Dosage\nuncertain\n\nDischarge Medications:\n1. pramipexole 0.5 mg Tablet Sig: One (1) Tablet PO qhs, prn ()\nas needed for RLS.\n2. fluvastatin 40 mg Capsule Sig: Two (2) Capsule PO twice a\nday.\n3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO BID (2 times a day).\n4. duloxetine 20 mg Capsule, Delayed Release(E.C.) Sig: Three\n(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).\n5. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig:\n1-2 Puffs Inhalation Q6H (every 6 hours) as needed for shortness\nof breath or wheezing.\n6. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every\n4 hours) as needed for pain, fever.\n7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n8. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n9. potassium chloride 20 mEq Packet Sig: One (1) Packet PO Q12H\n(every 12 hours) for 10 days.\n10. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nDAILY (Daily) as needed for constipation.\n11. insulin regular human 100 unit/mL Solution Sig: One (1)\nInjection achs: per sliding scale.\n12. metformin 500 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).\n13. metoprolol tartrate 25 mg Tablet Sig: 0.25 Tablet PO BID (2\ntimes a day).\n14. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for pain.\nDisp:*40 Tablet(s)* Refills:*0*\n15. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day for 10\ndays.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 979**] - [**Location (un) 246**]\n\nDischarge Diagnosis:\nAortic stensosis s/p Aortic valve replacement\nPast medical history:\nHypertension\nHyperlipidemia\nOsteoarthritis - currently awaiting left hip replacement\nDiabetes mellitus type II\nSj??????grens syndrome\nObstructive sleep apnea\nFibromyalgia/Nocturnal Leg Cramping/Restless Leg Syndrome\nBurning tongue syndrome\nStress incontinence\nde Quervain's tendinitis\nVenous Stasis with spider veins\nGERD\nAllergic rhinitis, history of sinusitis\nStable left lung nodule\nDepression/Anxiety\nCarpal tunnel syndrome\nAdie's pupil\nHearing loss - bilateral hearing aids\nBack pain\nLactose intolerance\nActinic keratosis\nRaynauds Disease\nHistory of Kidney Stones\nHistory of Fatty Liver - prior liver biopsy\nConstipation\nPseudocholinesterase Deficiency\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with Ultram and NSAIDs\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Right/Left - healing well, no erythema or drainage.\nEdema\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr.[**Name (NI) 5572**] office will contact you to arrange an\nappointment\n\nDR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] Phone:[**Telephone/Fax (1) 612**] Date/Time:[**2118-3-29**] 11:00\nProvider [**Name9 (PRE) 2788**] [**Hospital **] CLINIC Phone:[**Telephone/Fax (1) 7773**]\nDate/Time:[**2118-5-3**] 10:15\n\nCardiologist: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 7773**]\nDate/Time:[**2118-5-20**] 12:20\n\nPlease call to schedule appointments with your\n\nPrimary Care Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3306**] in [**2-24**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\nCompleted by:[**2118-3-7**]"
+    }
+  ]
+}

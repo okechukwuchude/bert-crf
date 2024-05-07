@@ -1,0 +1,246 @@
+{
+  "hadm_id": 105829,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 248459,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 49,
+          "end": 71,
+          "code": "794.31",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+          "type": "MapType.EXACT",
+          "covered_text": "Prolonged Q-T interval"
+        }
+      ],
+      "text": "Sinus rhythm.  Borderline A-V conduction delay.  Prolonged Q-T interval.\nOtherwise, within normal limits.  No previous tracing available for comparison.\n\n\n"
+    },
+    {
+      "note_id": 1218374,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 45,
+          "code": "71046",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; 2 views",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 142,
+          "end": 171,
+          "code": "416.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic pulmonary heart disease, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "acute cardiopulmonary process"
+        },
+        {
+          "begin": 379,
+          "end": 408,
+          "code": "416.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic pulmonary heart disease, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "acute cardiopulmonary process"
+        },
+        {
+          "begin": 410,
+          "end": 434,
+          "code": "780.97",
+          "code_system": "ICD-9-CM",
+          "description": "Altered mental status",
+          "type": "MapType.APPROX",
+          "covered_text": "free air under diaphragm"
+        },
+        {
+          "begin": 597,
+          "end": 605,
+          "code": "578.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hemorrhage of gastrointestinal tract, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "GI bleed"
+        },
+        {
+          "begin": 630,
+          "end": 660,
+          "code": "416.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic pulmonary heart disease, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "acute\n cardiopulmonary process"
+        },
+        {
+          "begin": 1368,
+          "end": 1392,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary collapse",
+          "type": "MapType.APPROX",
+          "covered_text": "Left basilar atelectasis"
+        },
+        {
+          "begin": 1428,
+          "end": 1440,
+          "code": "V44.1",
+          "code_system": "ICD-9-CM",
+          "description": "Gastrostomy status",
+          "type": "MapType.EXACT",
+          "covered_text": "Feeding tube"
+        }
+      ],
+      "text": "[**2118-12-11**] 9:03 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 32526**]\n Reason: acute cardiopulmonary process, free air under diaphragm\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old man with GI bleed\n REASON FOR THIS EXAMINATION:\n  acute cardiopulmonary process, free air under diaphragm\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  85-year-old male with GI bleed.  Question free air and acute\n cardiopulmonary process.\n\n COMPARISON:  None available.\n\n FINDINGS:  Single frontal view of the chest demonstrates an enteric tube\n coiled within the stomach.  Several EKG leads overlie the chest wall.  Patient\n is slightly rotated to the left.  The heart is normal in size.  The\n mediastinal and hilar contours are within normal limits.  There is plate-like\n atelectasis in the left base.  There is no pneumothorax, vascular congestion,\n or right effusion.  Trace left effusion cannot be excluded.  There is no\n subdiaphragmatic lucency to suggest pneumoperitoneum.  Bowel gas pattern is\n non-obstructive.\n\n Moderate atherosclerotic calcifications are seen involving the aortic arch and\n upper abdominal aorta.\n\n IMPRESSION:\n 1.  Left basilar atelectasis with possible trace effusion.\n 2.  Feeding tube coils within the stomach.\n 3.  No evidence of pneumoperitoneum.\n\n\n"
+    },
+    {
+      "note_id": 42907,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2321,
+          "end": 2329,
+          "code": "V44.6",
+          "code_system": "ICD-9-CM",
+          "description": "Status of other artificial opening of urinary tract",
+          "type": "Human",
+          "covered_text": "urostomy"
+        },
+        {
+          "begin": 2349,
+          "end": 2363,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 2367,
+          "end": 2372,
+          "code": "253.6",
+          "code_system": "ICD-9-CM",
+          "description": "Other disorders of neurohypophysis",
+          "type": "Human",
+          "covered_text": "SIADH"
+        },
+        {
+          "begin": 2952,
+          "end": 2960,
+          "code": "V44.6",
+          "code_system": "ICD-9-CM",
+          "description": "Status of other artificial opening of urinary tract",
+          "type": "Human",
+          "covered_text": "urostomy"
+        },
+        {
+          "begin": 4059,
+          "end": 4077,
+          "code": "V10.51",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of bladder",
+          "type": "MapType.EXACT",
+          "covered_text": "h/o bladder cancer"
+        },
+        {
+          "begin": 4082,
+          "end": 4090,
+          "code": "V44.6",
+          "code_system": "ICD-9-CM",
+          "description": "Status of other artificial opening of urinary tract",
+          "type": "Human",
+          "covered_text": "urostomy"
+        },
+        {
+          "begin": 4097,
+          "end": 4100,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 4182,
+          "end": 4196,
+          "code": "578.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hemorrhage of gastrointestinal tract, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Upper GI bleed"
+        },
+        {
+          "begin": 4842,
+          "end": 4854,
+          "code": "288.60",
+          "code_system": "ICD-9-CM",
+          "description": "Leukocytosis, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Leukocytosis"
+        },
+        {
+          "begin": 5106,
+          "end": 5118,
+          "code": "288.60",
+          "code_system": "ICD-9-CM",
+          "description": "Leukocytosis, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Leukocytosis"
+        },
+        {
+          "begin": 5170,
+          "end": 5214,
+          "code": "791.9",
+          "code_system": "ICD-9-CM",
+          "description": "Other nonspecific findings on examination of urine",
+          "type": "Human",
+          "covered_text": "Positive Urinalysis/Asymptomatic Bacteriuria"
+        },
+        {
+          "begin": 5387,
+          "end": 5407,
+          "code": "401.1",
+          "code_system": "ICD-9-CM",
+          "description": "Benign essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension, benign"
+        },
+        {
+          "begin": 6830,
+          "end": 6837,
+          "code": "V46.2",
+          "code_system": "ICD-9-CM",
+          "description": "Dependence on supplemental oxygen",
+          "type": "MapType.EXACT",
+          "covered_text": "Home O2"
+        },
+        {
+          "begin": 7942,
+          "end": 7956,
+          "code": "532.40",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction",
+          "type": "Human",
+          "covered_text": "Duodenal ulcer"
+        },
+        {
+          "begin": 7957,
+          "end": 7968,
+          "code": "780.57",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified sleep apnea",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Sleep apnea"
+        }
+      ],
+      "text": "Admission Date:  [**2118-12-11**]              Discharge Date:   [**2118-12-16**]\n\nDate of Birth:  [**2033-5-30**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 10593**]\nChief Complaint:\nhematemesis, melena\n\nMajor Surgical or Invasive Procedure:\nEGD\n\n\nHistory of Present Illness:\n85 y/o male with h/o bladder cancer s/p urostomy, HTN, HLD, and\nh/o GIB who presents from [**Hospital **] Hospital ED with concern for\nupper GI bleed in the setting of dark-colored stools and\nhematemesis. Three days prior to admission, the patient\ndeveloped the sudden onset of dark-colored stools. He gradually\ndeveloped nausea and vomiting with four episodes of\ncoffee-ground emesis. With regards to his prior GIB, the source\nis unknown as the family is unaware of whether the patient had\nan EGD or colonoscopy. He was recently started on an NSAID [**3-11**]\nweeks ago for a joint effusion. He developed GI upset and the\ndosing was decreased from daily to [**Hospital1 **]. He was also started on\naspirin 81 mg po daily one week ago. He has no history of\nalcohol abuse, liver disorders and is not on any\nanti-coagulation. Patient reports ongoing nausea but denies any\nfevers, chills, abdominal pain, chest pain, SOB, or dysuria. He\ndenies any dizziness or presyncope.\n.\nThe patient initially presented to [**Hospital **] Hospital ED. He was\ngiven an Octreotide bolus, Protonix bolus and was started on a\nProtonix drip. An NGT was placed which revealed coffee-ground\nemesis which cleared with NG lavage. His hemoglobin at [**Hospital **]\nHospital was 10.1, which is noted to be his baseline. On arrival\nto the [**Hospital3 **] ED, his initial VS were 96.4, 60 113/49, 14,\n99% RA. His repeat CBC revealed a hemoglobin of 9.6 and a\nleukocytosis of 15.6 with a left-shift (PMNs 84.9%) with no\nbands. A CXR did not reveal any evidence of aspiration and was\notherwise clear, and NGT was noted to be appropriately placed.\nHe was continued on the Protonix gtt and given 2 L NS. He was\nT&S for 2 units. A GI consult was called prior to transfer to\nthe MICU and they plan on EGD in the am. VS on transfer were\n96.4, P: 65, BP: 105/36, RR: 20, 99% on 2L NC.\n.\nCurrently, he is without complaint and states he is feeling\nbetter.\n\nPast Medical History:\n1. Bladder CA s/p urostomy\n2. Hypertension\n3. Hyperlipidemia\n4. SIADH\n\nSocial History:\nPatient lives by himself with the help of 2 home health aides.\nHe denies ever drinking alcohol, smoking or using illicit drugs.\n\nFamily History:\npatient unsure but denies a history of cancer.\n\nPhysical Exam:\nGENERAL - well-appearing in NAD, comfortable, appropriate\nHEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, sl dry MM, OP\nclear\nNECK - supple, no thyromegaly, no JVD, no carotid bruits\nLUNGS - crackles at RLL, otherwise CTAB, no r/rh/wh, good air\nmovement, resp unlabored, no accessory muscle use\nHEART - PMI non-displaced, RRR, no MRG, nl S1-S2\nABDOMEN - urostomy in place in RLQ, NABS, soft/NT/ND, no masses\nor HSM, no rebound/guarding\nEXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)\n\nSKIN - no rashes or lesions\nLYMPH - no cervical, axillary, or inguinal LAD\nNEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength\n[**5-12**] throughout, sensation grossly intact throughout, gait\ndeferred\n\nPertinent Results:\n[**2118-12-11**] 08:45PM BLOOD WBC-15.9* RBC-2.92* Hgb-9.6* Hct-28.2*\nMCV-97 MCH-32.8* MCHC-33.9 RDW-12.5 Plt Ct-338\n[**2118-12-12**] 05:25AM BLOOD WBC-9.9 RBC-2.85* Hgb-9.0* Hct-27.3*\nMCV-96 MCH-31.5 MCHC-32.9 RDW-14.7 Plt Ct-288\n[**2118-12-13**] 10:14AM BLOOD WBC-7.5 RBC-2.85* Hgb-8.9* Hct-26.3*\nMCV-92 MCH-31.2 MCHC-33.8 RDW-15.9* Plt Ct-235\n[**2118-12-11**] 08:45PM BLOOD Neuts-84.9* Lymphs-12.8* Monos-1.7*\nEos-0.2 Baso-0.4\n[**2118-12-13**] 04:32AM BLOOD PT-12.3 PTT-72.5* INR(PT)-1.1\n[**2118-12-13**] 04:32AM BLOOD Glucose-80 UreaN-41* Creat-1.6* Na-141\nK-3.4 Cl-111* HCO3-24 AnGap-9\n[**2118-12-11**] 08:45PM BLOOD ALT-26 AST-31 LD(LDH)-231 AlkPhos-74\nTotBili-0.4\n\nBrief Hospital Course:\nPatient is a 85 y/o male with h/o bladder cancer s/p urostomy,\nHTN, HLD, SIADH who presents with upper GI bleed in the setting\nof recent NSAID use.\n.\n#. Upper GI bleed: Patient admitted with hematemesis and melena\nconsistent with upper GI bleed.  Given his recent use of NSAIDS\nand aspirin, gastritis or ulcer were the most likely etiology.\nHe remained hemodynamically stable. He was initally placed on a\nPPI drip and transitioned to high dose PPI IV BID.  He underwent\nEGD; a peptic ulcer was found in the distal bulb, and this was\nclipped. He was transferred to the floor and remained stable.\nHis PPI was made PO and his home medicines were restarted. We\nheld his Aspirin and his NSAID pain medicine. He should avoid\nNSAIDs in the future. He will need to have his ASA started at\nthe discretion of his PCP.\n.\n#. Leukocytosis: UA suggestive of UTI, although he has chronic\nindwelling urostomy and no symptoms of infection. [**Month (only) 116**] also be\nsecondary to stress reaction in setting of probable GIB. CXR\nwithout infiltrate c/f pneumonia. Urine culture was negative.\nLeukocytosis resolved and was likley due to acute bleed.\n. .\n#. Positive Urinalysis/Asymptomatic Bacteriuria: Patient s/p\nbladder cancer with urostomy so has chronic indwelling biofilm\nso UA likely to be persistently positive. Culture was negative.\nNo antibiotics were given.\n.\n#. Hypertension, benign: amlodipine and nadolol were held on\nadmission. His BP normalized and his home anti-hypertensives\nwere restarted.\n.\n# Night time oxygen desaturations; Patient had several nighttime\nSaO2 values of 75% while sleeping. He was asymptomatic during\nthese events. He did not endorse symptoms to suggest sleep\napnea. Sleep was consulted and felt he did have evidence however\nan urgent inptaint sleep study was not warrented. He will be\ndischarged on night time home oxygen therapy and will follow up\nwith the sleep clinic in early [**Month (only) 404**]. In the mean time he will\nneed assistence in setting up an outpatient sleep study. His PCP\nwas called and this was communicated to him directly.\n.\n+++++++++++++++++\nTransitional issues:\n1) Consider restarting Aspirin 81 after follow up visit with\nPCP, [**Name10 (NameIs) **] there is no recurrent bleeding.\n2) Will need CBC and Chem 7 checked on Monday following\ndischarge by PCP (office aware). Hct 29.3 and Creatinine 1.6 on\nlast check here.\n3) Will need to have Outpatient sleep study set up, preferably\nat [**Hospital **] hospital.\n4) He was advised to avoid NSAIDs.\n.\n\n\nMedications on Admission:\ndemeclocycline 150 mg po BID\nsimvastatin 10 mg po daily\nnadolol 20 mg po once a daily\namlodipine 10 mg po daily\nAricept 10 mg Once Daily\nAspirin- 81 mg po daily (started 1 week ago)\nArthrotec 75/200 1 tab [**Hospital1 **] (diclofenac/ misoprostol)\n\nDischarge Medications:\n1. Home O2\nPatient requires night time home oxygen. Documented\ndesaturations to <78% on room air while sleeping. Corrects fully\nwith oxygen. Saturations remain above 90% on RA while awake.\nPlease start at 2L/min nasal cannula and titrate to SaO2 >95%\n2. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n3. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).\nDisp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*\n4. demeclocycline 150 mg Tablet Sig: One (1) Tablet PO bid ().\n5. nadolol 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n6. amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.\n7. donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).\n\n8. Outpatient Lab Work\nplease draw CBC, Sodium, Potassium, Chloride, Bicarb, BUN and Cr\n9. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n10. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID\n(2 times a day).\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital 6549**] Medical\n\nDischarge Diagnosis:\nDuodenal ulcer\nSleep apnea\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to [**Hospital1 18**] because you had a bleeding ulcer in\nyour stomach. This was a result of the anti-inflammatory\nmedications you were taking for your knee. The GI doctors placed\n[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] across the bleeding and it has stopped. You will need to\nfollow up with your PCP as listed below.\n.\nYou also were found to have a condition known as sleep apnea.\nYou will need to have a sleep study soon after being discharged\nfrom the hospital. You will need to discuss this with your PCP\nand have this set up at [**Hospital **] hospital when you see him in\nfollow up. In the meantime you will need to wear Oxygen while\nyou sleep.\n.\nWhile you were here we made the following changes to yoru\nmedications.\nWe STOPPED your arthrotec\nWe STOPPED your aspirin - you will need to talk about when to\nrestart this with your PCP\nWe STARTED you on Pantoprazole\nWe STARTED you on Senna\nWe STARTED you on colace\n.\nYou should continue to take your other emdications as directed.\n\nFollowup Instructions:\nYou will have need to have your blood drawn this monday at Dr. [**Name (NI) 92610**] office. You will be given an oreder to take with you\nthat will let them know what tests to order.\n.\nYou will be called by Dr.[**Name (NI) 92611**] office to have a follow up\nappointment sheduled. If you have not heard from them in 1 week\nyou shoudl call them ASAP to set up a follow up appointment.\n.\nYou will need to see the sleep physicians for a follow up\nappointment on Tuesday [**2119-1-17**] at 9am. Please call ([**Telephone/Fax (1) 514**] to set up the details of your appointment. They will\nhelp to schedule your sleep study for you.\n\n\n\n"
+    }
+  ]
+}

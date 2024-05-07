@@ -1,0 +1,201 @@
+{
+  "hadm_id": 142289,
+  "comment": "Procedure report for chest tube insertion not present",
+  "notes": [
+    {
+      "note_id": 606211,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 2752,
+          "end": 2763,
+          "code": "276.52",
+          "code_system": "ICD-9-CM",
+          "description": "Hypovolemia",
+          "type": "MapType.EXACT",
+          "covered_text": "HYPOVOLEMIA"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: Tachypnea\n   24 Hour Events:\n   None\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Metoprolol - [**2145-11-19**] 07:05 PM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2145-11-20**] 06:47 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.1\nC (98.7\n   Tcurrent: 36.9\nC (98.4\n   HR: 108 (89 - 134) bpm\n   BP: 124/75(86) {112/57(71) - 161/132(137)} mmHg\n   RR: 23 (20 - 33) insp/min\n   SpO2: 98%\n   Heart rhythm: ST (Sinus Tachycardia)\n   Height: 63 Inch\n             Total In:\n                                                                  1,124 mL\n                                                                     98 mL\n   PO:\n                                                                     60 mL\n                                                                     30 mL\n   TF:\n   IVF:\n                                                                  1,064 mL\n                                                                     68 mL\n   Blood products:\n   Total out:\n                                                                    420 mL\n                                                                    300 mL\n   Urine:\n                                                                    420 mL\n                                                                    300 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    704 mL\n                                                                   -203 mL\n   Respiratory support\n   O2 Delivery Device: Aerosol-cool\n   SpO2: 98%\n   ABG: 7.42/47/204//5\n   PaO2 / FiO2: 510\n   Physical Examination\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Skin:  Not assessed\n   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   131\n        [image002.jpg]\n                            [**2145-11-19**]  07:06 PM\n                            [**2145-11-20**]  04:00 AM\n   TCO2\n   32\n   Glucose\n   131\n   Other labs: Lactic Acid:1.8 mmol/L\n   Fluid analysis / Other labs: UA negative\n   Imaging: CXR [**11-19**]: worsening of R sided pleural effusion.\n   Microbiology: Blood cx: pending\n   Urine cx: pending\n   Assessment and Plan\n DYSPNEA (SHORTNESS OF BREATH)\n HYPOVOLEMIA (VOLUME DEPLETION - WITHOUT SHOCK)\n TACHYCARDIA, OTHER\n   77M with metastatic lung cancer and malignant pleural effusion,\n   presenting with inability to drain pleurex catheter and admitted to\n   MICU with respiratory distress.\n   .\n   # Respiratory distress.  Likely multifactorial with lung malignancy,\n   postobstructive pneumonia and RUL atelectasis, malignant pleural\n   effusion.  Also consider PE in differential given malignancy history\n   and immobility.  Pericardial disease less likely with negative\n   ultrasound in ED, but still a consideration.  Patient appears dry\n   without much evidence of pulmonary edema.\n   - Daily/?continuous drainage of pleural space.\n   - Check formal TTE.\n   - Will obtain LENIs for DVT eval; if positive -> filter.  Risks of\n   anticoagulating for DVT or PE very high given location of mass and\n   proximity to pulmonary arterial system.\n   - Will continue antibiotics for postobstructive pneumonia, though\n   unlikely to be able to sterilize RUL given anatomy.\n   - Check flu swab.\n   - Expectorated sputum for AFB and culture (unlikely to tolerate induced\n   sputum with current respiratory status).\n   - Obtain records re: past AFB workup, ?bronch in the past.\n   - Continued goals of care discussion, as most of above irreversible\n   unless able to tolerate chemotherapy.  Discussed difficulties with\n   mechanical ventilation with patient and family (would be very difficult\n   to get off vent) - understood by patient and daughter and he wishes to\n   be DNR/DNI.\n   .\n   # Tachycardia.  Sinus tach in low 100s at times, increasing to ~150s in\n   MAT vs. Afib.  Likely related to primary pulmonary disease.  Also\n   consider PE and infection as above.\n   - Monitor on tele.\n   - Metoprolol 12.5 TID for now (given MAT), 5 IV working well initially\n   and can titrate PO if needed.\n   - Pain and dyspnea control.\n   .\n   # Pneumonia.  Post obstructive most likely.  s/p recent 7 day course of\n   levoflox and flagyl.  Very difficult to sterilize given post\n   obstructive nature.  Getting XRT to region; too ill for chemo at\n   present time.  Also consider TB given risk factors as above.\n   - continue vanc and zosyn for now.\n   - expectorated sputum.\n   - continued goals of care discussion.\n   .\n   # Metastatic lung cancer.  With known mets to spine; pleural disease.\n   Getting palliative XRT.  Patient understands grave prognosis but has\n   hope of slowing down the cancer.\n   - Palliative care consult.\n   - Can discuss again with onc re: any ability for palliative chemo.\n   - Supposed to resume XRT on Monday.\n   - pain control with MS Contin, morphine IV prn breakthrough\n   .\n   # Leukocytosis.  In patient with pneumonia, malignancy.  No fevers.\n   - Infectious workup as above.\n   - Send C.diff.\n   - Continue to trend.\n   .\n   FEN: 1L NS then reeval, replete electrolytes, regular diet, megace for\n   appetite stim.\n   Prophylaxis: [**Last Name (un) 9430**] (on at rehab)\n   Access: peripherals\n   Code:  DNR/DNI\n   Communication: Patient and daughter [**Name (NI) 9426**] [**Telephone/Fax (1) 9431**]\n   [**Name2 (NI) 1531**]osition: pending clinical improvement\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2145-11-19**] 05:30 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition:\n"
+    },
+    {
+      "note_id": 606227,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 2266,
+          "end": 2305,
+          "code": "707.03",
+          "code_system": "ICD-9-CM",
+          "description": "Decubitus ulcer, lower back",
+          "type": "MapType.MULTI",
+          "covered_text": "Small Grade 1 pressure ulcer on coccyx."
+        },
+        {
+          "begin": 4673,
+          "end": 4682,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "Pneumonia"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: Tachypnea\n   24 Hour Events:\n   None\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Metoprolol - [**2145-11-19**] 07:05 PM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2145-11-20**] 06:47 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.1\nC (98.7\n   Tcurrent: 36.9\nC (98.4\n   HR: 108 (89 - 134) bpm\n   BP: 124/75(86) {112/57(71) - 161/132(137)} mmHg\n   RR: 23 (20 - 33) insp/min\n   SpO2: 98%\n   Heart rhythm: ST (Sinus Tachycardia)\n   Height: 63 Inch\n             Total In:\n                                                                  1,124 mL\n                                                                     98 mL\n   PO:\n                                                                     60 mL\n                                                                     30 mL\n   TF:\n   IVF:\n                                                                  1,064 mL\n                                                                     68 mL\n   Blood products:\n   Total out:\n                                                                    420 mL\n                                                                    300 mL\n   Urine:\n                                                                    420 mL\n                                                                    300 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    704 mL\n                                                                   -203 mL\n   Respiratory support\n   O2 Delivery Device: Aerosol-cool\n   SpO2: 98%\n   ABG: 7.42/47/204//5\n   PaO2 / FiO2: 510\n   Physical Examination\n   Cachectic male lying in bed in NAD.  Tachypneic with movement with\n   slight retractions.  Decreased lung sounds on right except for crackles\n   at apex, left side relatively clear.  Heart tachycardic but regular.\n   Abdomen soft, NTND.  Small Grade 1 pressure ulcer on coccyx.\n   Extremities thin and wasted.\n   Labs / Radiology\n   131\n        [image002.jpg]\n                            [**2145-11-19**]  07:06 PM\n                            [**2145-11-20**]  04:00 AM\n   TCO2\n   32\n   Glucose\n   131\n   Other labs: Lactic Acid:1.8 mmol/L\n   Fluid analysis / Other labs: UA negative\n   Imaging: CXR [**11-19**]: worsening of R sided pleural effusion.\n   Microbiology: Blood cx: pending\n   Urine cx: pending\n   Assessment and Plan\n DYSPNEA (SHORTNESS OF BREATH)\n HYPOVOLEMIA (VOLUME DEPLETION - WITHOUT SHOCK)\n TACHYCARDIA, OTHER\n   77M with metastatic lung cancer and malignant pleural effusion,\n   presenting with inability to drain pleurex catheter and admitted to\n   MICU with respiratory distress.\n   .\n   # Respiratory distress.  Likely multifactorial with lung malignancy,\n   postobstructive pneumonia and RUL atelectasis, malignant pleural\n   effusion.  Also consider PE in differential given malignancy history\n   and immobility.  Pericardial disease less likely with negative\n   ultrasound in ED, but still a consideration.  Patient appears dry\n   without much evidence of pulmonary edema.\n   - Daily/?continuous drainage of pleural space.\n   - Check formal TTE.\n   - Will obtain LENIs for DVT eval; if positive -> filter.  Risks of\n   anticoagulating for DVT or PE very high given location of mass and\n   proximity to pulmonary arterial system.\n   - Will continue antibiotics for postobstructive pneumonia, though\n   unlikely to be able to sterilize RUL given anatomy.\n   - Check flu swab.\n   - Expectorated sputum for AFB and culture (unlikely to tolerate induced\n   sputum with current respiratory status).\n   - Obtain records re: past AFB workup, ?bronch in the past.\n   - Continued goals of care discussion, as most of above irreversible\n   unless able to tolerate chemotherapy.  Discussed difficulties with\n   mechanical ventilation with patient and family (would be very difficult\n   to get off vent) - understood by patient and daughter and he wishes to\n   be DNR/DNI.\n   .\n   # Tachycardia.  Sinus tach in low 100s at times, increasing to ~150s in\n   MAT vs. Afib.  Likely related to primary pulmonary disease.  Also\n   consider PE and infection as above.\n   - Monitor on tele.\n   - Metoprolol 12.5 TID for now (given MAT), 5 IV working well initially\n   and can titrate PO if needed.\n   - Pain and dyspnea control.\n   .\n   # Pneumonia.  Post obstructive most likely.  s/p recent 7 day course of\n   levoflox and flagyl.  Very difficult to sterilize given post\n   obstructive nature.  Getting XRT to region; too ill for chemo at\n   present time.  Also consider TB given risk factors as above.\n   - continue vanc and zosyn for now.\n   - expectorated sputum.\n   - continued goals of care discussion.\n   .\n   # Metastatic lung cancer.  With known mets to spine; pleural disease.\n   Getting palliative XRT.  Patient understands grave prognosis but has\n   hope of slowing down the cancer.\n   - Palliative care consult.\n   - Can discuss again with onc re: any ability for palliative chemo.\n   - Supposed to resume XRT on Monday.\n   - pain control with MS Contin, morphine IV prn breakthrough\n   .\n   # Leukocytosis.  In patient with pneumonia, malignancy.  No fevers.\n   - Infectious workup as above.\n   - Send C.diff.\n   - Continue to trend.\n   .\n   FEN: 1L NS then reeval, replete electrolytes, regular diet, megace for\n   appetite stim.\n   Prophylaxis: [**Last Name (un) 9430**] (on at rehab)\n   Access: peripherals\n   Code:  DNR/DNI\n   Communication: Patient and daughter [**Name (NI) 9426**] [**Telephone/Fax (1) 9431**]\n   [**Name2 (NI) 1531**]osition: pending clinical improvement\n"
+    },
+    {
+      "note_id": 38024,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 345,
+          "end": 370,
+          "code": "34.91",
+          "code_system": "ICD-9-PCS",
+          "description": "Thoracentesis",
+          "type": "MapType.APPROX",
+          "covered_text": "Pleurex catheter drainage"
+        },
+        {
+          "begin": 467,
+          "end": 492,
+          "code": "511.81",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "malignant right effusion,"
+        },
+        {
+          "begin": 2889,
+          "end": 2914,
+          "code": "162.9",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of bronchus and lung, unspecified",
+          "type": "Human",
+          "covered_text": "Nonsmall Cell Lung Cancer"
+        },
+        {
+          "begin": 2920,
+          "end": 2951,
+          "code": "198.5",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of bone and bone marrow",
+          "type": "Human",
+          "covered_text": "metastatic disease to the\nspine"
+        },
+        {
+          "begin": 2954,
+          "end": 2998,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical arthrodesis status",
+          "type": "Human",
+          "covered_text": "s/p T7-L1 laminectomy, decompression, fusion"
+        },
+        {
+          "begin": 3218,
+          "end": 3222,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 3226,
+          "end": 3245,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 3493,
+          "end": 3530,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "Previous history of heavy tobacco use"
+        },
+        {
+          "begin": 3729,
+          "end": 3738,
+          "code": "799.4",
+          "code_system": "ICD-9-CM",
+          "description": "Cachexia",
+          "type": "MapType.EXACT",
+          "covered_text": "Cachectic"
+        },
+        {
+          "begin": 7554,
+          "end": 7580,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "post-obstructive pneumonia"
+        },
+        {
+          "begin": 7933,
+          "end": 7940,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypoxia"
+        },
+        {
+          "begin": 9112,
+          "end": 9123,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Tachycardia"
+        },
+        {
+          "begin": 9438,
+          "end": 9441,
+          "code": "V49.86",
+          "code_system": "ICD-9-CM",
+          "description": "Do not resuscitate status",
+          "type": "MapType.EXACT",
+          "covered_text": "DNR"
+        },
+        {
+          "begin": 11820,
+          "end": 11846,
+          "code": "162.9",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of bronchus and lung, unspecified",
+          "type": "Human",
+          "covered_text": "Non-small cell lung cancer"
+        },
+        {
+          "begin": 11847,
+          "end": 11873,
+          "code": "511.81",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "Malignant pleural effusion"
+        },
+        {
+          "begin": 12346,
+          "end": 12365,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial fibrillation"
+        }
+      ],
+      "text": "Admission Date:  [**2145-11-19**]              Discharge Date:   [**2145-11-23**]\n\nDate of Birth:  [**2068-2-22**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 2181**]\nChief Complaint:\nIncreasing pleural effusion\n\nMajor Surgical or Invasive Procedure:\nPleurex catheter drainage\n\n\nHistory of Present Illness:\n77M with history of recently diagnosed metastatic NSCLC and\nknown malignant right effusion, presenting with enlarging\neffusion at rehab, now admitted to MICU with tachypnea and\nrespiratory distress. He was diagnosed with lung cancer in\n[**2145-8-31**] now follows with Dr. [**First Name4 (NamePattern1) 16212**] [**Last Name (NamePattern1) **] at [**Hospital 8**]\nHospital. In [**Month (only) 359**] he developed acute cord compression and had\ndecompression on [**2145-10-15**]. Discharged to rehab. He was\nreadmitted to [**Hospital1 18**] from [**Date range (1) 56568**] for shortness of breath\nwith new finding of large right sided pleural effusion and a RUL\npost obstructive pneumonia; mass abutting RUL bronchus and PA.\nDuring last admission he underwent thoracentesis and, later,\npleurex catheter placement on [**11-17**]. Pleural fluid positive for\nmalignant cells, AFB smear negative. Also initiated palliative\nXRT to RUL. IP did not feel mass was amenable to stenting. Notes\nin discharge summary state that patient was DNR/DNI at\ndischarge.\n\nPatient was discharged to [**Hospital 392**] Rehab. At rehab this morning it\nwas discovered that there were not appropriate supplies to drain\npleurex. Had his usual session XRT this AM. He also had CXR\nwhich was read as complete R sided opacification. When arrived\nback at rehab, he was sent to the ED due to inability to drain\nthe effusion.\n\nIn the ED, initial vs were: T96.8 70 146/88 22 96% on 15L O2.\nHRs have since been in the 130s - not clear if HR 70 truly\naccurate. Has been tachypneic to 30s. CXR performed with finding\nof interval increase in pleural effusion and R lung base\nopacificition. IP saw patient and drained 550 cc fluid from\npatient's pleurex catheter. A bedside ultrasound was obtained\nshowing no pericardial effusion. Patient was given vancomycin\nand zosyn. Attempts were made to contact interpreter but this\nwas not possible - could not confirm DNR status and seemed to\nsuggest that patient was full code.\n\nIn the MICU, patient interviewed with an interpreter. Notes he\ngets dyspneic at times but no different lately. Actually denies\nshortness of breath currently. + cough, productive of white\nsputum, denies hemoptysis. No CP, no pleuritic pain. Notes\noccasional palpitations. No fevers/chills. Endorses thirst and\ngeneral poor PO intake. Notes continued numbness and weakness in\nhis lower extremities since his acute cord compression. +lower\nextremity edema x few weeks. + weight loss.\n\nPast Medical History:\n1. Nonsmall Cell Lung Cancer with metastatic disease to the\nspine\n- s/p T7-L1 laminectomy, decompression, fusion, and tumor\ndebluking and fusion for acute cord compression on [**2145-10-15**]\n- Primary Oncologist Dr. [**First Name4 (NamePattern1) 16212**] [**Last Name (NamePattern1) **]\n2. H/o C diff colitis in [**2145-9-30**]\n3. COPD\n4. Atrial fibrillation\n\nSocial History:\nOriginally from [**Country 651**], immigrated to the US > 10 years ago; was\nliving with his son and daughter until discharge yesterday\n(discharged to rehab in [**Hospital1 392**]). Worked as a factory worker in\n[**Country 651**]. Previous history of heavy tobacco use (at least 1PPD x 50\nyears); not currently smoking. No known TB contacts.\n\nFamily History:\nNo family history of malignancy\n\nPhysical Exam:\nVitals: T: 99.2 BP: 128/59 P: 76 R: 26 SaO2: 97 RA\nGeneral: Cachectic male, alert, oriented, moderately tachypneic\nwith some accessory muscle use.\nHEENT: PERRL, sclera anicteric, MM slightly dry, oropharynx view\npoor but appears clear\nNeck: supple, JVD low at 1-2 ASA.\nLungs: Decreased breath sounds on right, few rales, somewhat\nrhonchorous with ?pleural rub. Left relatively clear. No\nwheezes.\nCV: tachycardic, irregularly irregular, no murmurs, rubs,\ngallops appreciated\nAbdomen: soft, thin, non-tender, non-distended, bowel sounds\npresent, no rebound tenderness or guarding, no organomegaly.\nSuprapubic area feels slightly ?firm though nontneder. +TTP over\nlower right anterior ribs.\nExt: warm, well perfused, [**1-1**]+ LE edema, symmetric bilaterally.\nNo calf tenderness.\nNeuro: A/O x 3. CN II-XII intact, UE strength and sensation\ngrossly intact. Reports LE numbness bilaterally. LE strength\nimpaired - cannot lift R leg off bed, L can be lifted very\nslightly.\n\nPertinent Results:\nAdmission Labs:\n[**2145-11-18**] 06:15AM   WBC-15.8* RBC-3.95* HGB-11.9* HCT-37.7*\nMCV-95 MCH-30.1 MCHC-31.5 RDW-17.1*\n[**2145-11-18**] 06:15AM   PLT COUNT-332\n[**2145-11-19**] 04:20PM   CK-MB-3\n[**2145-11-19**] 04:20PM   cTropnT-<0.01\n[**2145-11-19**] 04:20PM   GLUCOSE-109* UREA N-18 CREAT-0.5 SODIUM-144\nPOTASSIUM-4.7 CHLORIDE-106 TOTAL CO2-31 ANION GAP-12\n[**2145-11-19**] 07:06PM   LACTATE-1.8\n[**2145-11-19**] 07:06PM   TYPE-ART PO2-204* PCO2-47* PH-7.42 TOTAL\nCO2-32* BASE XS-5\n\nStudies:\n\n[**2145-11-20**] Echo:\nThe left atrium and right atrium are normal in cavity size. The\nestimated right atrial pressure is 0-5 mmHg. Left ventricular\nwall thicknesses and cavity size are normal. There is mild\nglobal left ventricular hypokinesis (LVEF = 45 %). Systolic\nfunction of apical segments is relatively preserved suggesting a\nnon-ischemic etiology. Tissue Doppler imaging suggests a normal\nleft ventricular filling pressure (PCWP<12mmHg). Right\nventricular chamber size and free wall motion are normal. The\naortic valve leaflets (3) are mildly thickened but aortic\nstenosis is not present. Trace aortic regurgitation is seen. The\nmitral valve appears structurally normal with trivial mitral\nregurgitation. There is mild pulmonary artery systolic\nhypertension. There is a trivial anterior pericardial effusion.\nIMPRESSION: Normal left ventricular cavity size with mild global\nhypokinesis c/w diffuse process (toxin, metabolic, etc.). Mild\npulmonary artery systolic hypertension.\n\n[**2145-11-20**] Bilateral lower extremity ultrasound:\nPeroneal veins not visualized. No evidence of deep venous\nthrombosis.\n\n[**2145-11-21**] Chest Xray\nThere is essentially no change in chest findings with right\nupper lobe\ncomplete opacification, right pleural effusion, ground-glass\nopacity and\nmass-like consolidation in the right lower lobe, nodular opacity\nprojecting in the left upper lobe and peribronchial\nabnormalities in the left lower lobe or due to patient's known\nnon-small cell lung cancer. There are no new lung abnormalities.\nCardiomediastinal contours are unchanged. Right apical chest\ntube remains in place. Spinal hardware is present. There is no\npneumothorax.\n\n\nBrief Hospital Course:\n77 year old male with metastatic lung cancer and malignant\npleural effusion admitted for pleural catheter drainage.\n\n# Pleurex catheter drainage: He initially presented to the\nemergency room after a radiation oncology appointment and\ninability to drain pleurex at rehab facility.  Per son, this was\nlikely due to not accessing pleurex catheter appropriately.  In\ntotal, patient has had approximately 2500 cc of fluid removed\nduring his stay.  He was initially admitted overnight to the\nMICU after experiencing shortness of breath, tachypnea and\nhypoxia in the emergency room; however, this quickly resolved.\n\n# Shortness of Breath: He has baseline shortness of breath due\nto persistent malignant effusion and post-obstructive pneumonia\nsecondary to mass.  Resolved with drainage of pleurex catheter.\nThis should be drained daily after discharge.  Information\nprovided to nursing director at [**Hospital 392**] rehab by interventional\npulmonary service and video is sent with patient.  Please call\n[**Telephone/Fax (1) 3020**] if any questions or concerns regarding drainage.\n\n# Pneumonia/Hypoxia: Patient completed a course for\npost-obstructive pneumonia and other than leukocytosis as below\nhas no other signs or symptoms of infection.  Has been C. diff\nnegative during this admission.  UA negative, CXR without new\nfindings, C. diff negative as above, blood cultures are no\ngrowth to date and patient ruled out for flu, parainfluenza,\nadenovirus and RSV.  Tachypnea and hypoxia improved as above\nwith drainage of pleurex.   LENIs negative as well making PE\nless likely.  He was given a few doses of vancomycin and\ncefepime while in the intensive care unit, but these were\ndiscontinued upon transfer to the floor.\n\n# Stage IV NSCL and Malignant effusion: Known mets to spine and\nmalignant effusion. Already undergoing palliative xrt, last dose\ntoday. Too debilitated for chemo at this time.  We continued\npain control as per prior to admission.  Follow up scheduled\nwith oncology service as per discharge paperwork.\n\n# Leukocytosis: C. diff negative, CXR unchanged other than\neffusion, UA negative and blood cultures no growth to date.\nPatient remained afebrile and non-toxic appearing, though\nchronically ill.  [**Month (only) 116**] be secondary to malignancy.\n\n# Tachycardia: Sinus tach vs MAT.  No clear Afib history and he\nwas intermittently irregular making MAT more likely (though\ndifficult to appreciate p waves when accelerated rhyhtm).  Rate\ncontrolled with metoprolol which was increased to 37.5 mg three\ntimes daily.\n\n# Prophylaxis: Continued on fondaparinux, ppi\n\n# Code status: DNR/I\n\n# Communication: Liping (daughter) [**Telephone/Fax (1) 84933**], [**Name (NI) **] (son)\n[**Telephone/Fax (1) 84934**]\n\n\nMedications on Admission:\n- Morphine SR 15 mg Q12H\n- Acetaminophen 325 mg Q6H as needed for pain, fever.\n- roxanol 0.25 ml Q3H prn pain\n- Omeprazole 40 mg DAILY\n- Guaifenesin 100 mg/5 mL: 5-10 MLs PO Q6H as needed for cough.\n\n- Benzonatate 100 mg TID\n- Megestrol 400 mg/10 mL : Twenty (20) ml PO once a day.\n- Fondaparinux 2.5 mg Subcutaneous once a day.\n- Albuterol Sulfate [**1-1**] nebs Q4H prn shortness of breath or\nwheeze.\n- Catheter Drainage Please drain IP catheter three times/wk\n- Docusate Sodium 100 mg twice a day.\n- Senna 8.6 mgTwo (2) Tablet PO twice a day\n\nDischarge Medications:\n1. Morphine 15 mg Tablet Sustained Release Sig: One (1) Tablet\nSustained Release PO Q12H (every 12 hours).\n2. Acetaminophen 650 mg Tablet Sig: One (1) Tablet PO every six\n(6) hours as needed for pain.\n3. Roxanol Concentrate 20 mg/mL Solution Sig: 0.25 ml PO q3h as\nneeded for pain.\n4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n5. Guaifenesin 100 mg/5 mL Liquid Sig: [**5-9**] mL PO every six (6)\nhours as needed for cough.\n6. Benzonatate 100 mg Capsule Sig: One (1) Capsule PO three\ntimes a day.\n7. Megestrol 400 mg/10 mL (40 mg/mL) Suspension Sig: Twenty (20)\nmL PO once a day.\n8. Fondaparinux 2.5 mg/0.5 mL Syringe Sig: 2.5 mg Subcutaneous\nDAILY (Daily).\n9. Albuterol Sulfate 0.63 mg/3 mL Solution for Nebulization Sig:\n[**1-1**] Nebulizations Inhalation every four (4) hours as needed for\nshortness of breath or wheezing.\n10. Docusate Sodium 50 mg/5 mL Liquid Sig: Ten (10) mL PO BID (2\ntimes a day).\n11. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for Constipation.\n12. Catheter Drainage\nPlease drain Pleurex catheter daily after discharge.  For any\nquestions or if it is felt that it can be drained less often,\nplease contact the Interventional Pulmonary office at [**Hospital1 18**] at\n[**Telephone/Fax (1) 3020**].\n13. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3\ntimes a day).\n14. Ipratropium Bromide 0.02 % Solution Sig: One (1)\nnebulization Inhalation Q6H (every 6 hours).\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital 392**] Rehabilitation & Nursing Center - [**Hospital1 392**]\n\nDischarge Diagnosis:\nPrimary Diagnosis:\nNon-small cell lung cancer\nMalignant pleural effusion\n\nSecondary Diagnosis:\nCOPD\n\n\nDischarge Condition:\nMental Status: Clear and coherent\nLevel of Consciousness: Sleepy but arousable\nActivity Status: Bedbound\n\n\nDischarge Instructions:\nYou were admitted to the hospital to have your Pleurex catheter\ndrained.  You experienced an episode of shortness of breath and\nwere initially admitted to the medical intensive care unit.\nYour catheter was drained three times while you were in the\nhospital.\n\nYou also had a fast heart rate (atrial fibrillation). We\nincreased your metoprolol from 25 mg three times daily to 37.5\nmg three times daily.\n\nIt is important that you go to your follow-up appointments as\nscheduled.\n\nPlease take all your other medications as you were prior to\nhospitalization.\n\nPlease also read the aftercare instructions regarding the\nradiation therapy of your chest.\n\nFollowup Instructions:\nYou have the following appointments scheduled:\n\nNeurosurgery\nProvider: [**Name10 (NameIs) **] [**Name11 (NameIs) **], MD\nPhone: [**Telephone/Fax (1) 1669**]\nDate/Time: [**2145-12-1**] 11:45am\n\nThoracic Hematology/Oncology\nProvider: [**Name10 (NameIs) **] [**Name8 (MD) 831**], MD\nPhone: [**0-0-**]\nDate/Time: [**2145-12-2**] 10:30am\n  and\nProvider: [**First Name8 (NamePattern2) **] [**Name8 (MD) 4322**], MD\nPhone:[**Telephone/Fax (1) 22**]\nDate/Time:[**2145-12-2**] 10:30am\n\nInterventional Pulmonology:\nMD: [**First Name8 (NamePattern2) **] [**Doctor Last Name **] of interventional pulmonology\nDay & Time: [**2145-12-8**] at 8:30 AM (Xray at 8:00 am)\nPhone: [**Telephone/Fax (1) 3020**]\nSpecial Instructions: You need a chest X-ray before this\nappointment.  Please show up at the [**Location (un) 10043**] of the clinical\ncenter at 8:00am on [**2145-12-8**] for a chest radiograph.  Afterward\nyour interventional pulmonology appointment is on the [**Location (un) 19201**] of the connected [**Hospital Ward Name 121**] building.\n\n\n\n"
+    }
+  ]
+}

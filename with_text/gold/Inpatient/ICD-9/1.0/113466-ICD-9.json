@@ -1,0 +1,148 @@
+{
+  "hadm_id": 113466,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 36594,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 280,
+          "end": 288,
+          "code": "E881.0",
+          "code_system": "ICD-9-CM",
+          "description": "Accidental fall from ladder",
+          "type": "Human",
+          "covered_text": "s/p fall"
+        },
+        {
+          "begin": 752,
+          "end": 779,
+          "code": "873.49",
+          "code_system": "ICD-9-CM",
+          "description": "Open wound of face, other and multiple sites, uncomplicated",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "multiple facial lacerations"
+        },
+        {
+          "begin": 5416,
+          "end": 5437,
+          "code": "807.04",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of four ribs",
+          "type": "Human",
+          "covered_text": "Several rib\nfractures"
+        },
+        {
+          "begin": 7005,
+          "end": 7040,
+          "code": "806.26",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of T(7)-T(12) level with complete lesion of cord",
+          "type": "Human",
+          "covered_text": "comminuted vertebral fracture at T8"
+        },
+        {
+          "begin": 7803,
+          "end": 7825,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "MapType.APPROX",
+          "covered_text": "packed red blood cells"
+        },
+        {
+          "begin": 9303,
+          "end": 9313,
+          "code": "E878.1",
+          "code_system": "ICD-9-CM",
+          "description": "Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",
+          "type": "Human",
+          "covered_text": "dehiscence"
+        },
+        {
+          "begin": 9298,
+          "end": 9348,
+          "code": "998.32",
+          "code_system": "ICD-9-CM",
+          "description": "Disruption of external operation wound",
+          "type": "Human",
+          "covered_text": "mild dehiscence of the upper 1/3rd of his\nincision"
+        },
+        {
+          "begin": 9549,
+          "end": 9557,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "diabetes"
+        },
+        {
+          "begin": 9779,
+          "end": 9783,
+          "code": "041.11",
+          "code_system": "ICD-9-CM",
+          "description": "Staphylococcus aureus infection in conditions classified elsewhere and of unspecified site",
+          "type": "Human",
+          "covered_text": "MSSA"
+        },
+        {
+          "begin": 11925,
+          "end": 11945,
+          "code": "787.3",
+          "code_system": "ICD-9-CM",
+          "description": "Flatulence, eructation, and gas pain",
+          "type": "MapType.APPROX",
+          "covered_text": "abdominal distention"
+        },
+        {
+          "begin": 11946,
+          "end": 11969,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.APPROX",
+          "covered_text": "fever of unknown origin"
+        },
+        {
+          "begin": 11970,
+          "end": 11983,
+          "code": "372.30",
+          "code_system": "ICD-9-CM",
+          "description": "Conjunctivitis, unspecified",
+          "type": "Human",
+          "covered_text": "conjuctivitis"
+        },
+        {
+          "begin": 12014,
+          "end": 12024,
+          "code": "952.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified site of spinal cord injury without spinal bone injury",
+          "type": "MapType.APPROX",
+          "covered_text": "paraplegic"
+        }
+      ],
+      "text": "Admission Date:  [**2189-8-31**]              Discharge Date:   [**2189-10-23**]\n\nDate of Birth:  [**2150-9-4**]             Sex:   M\n\nService: NEUROSURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 2724**]\nChief Complaint:\ns/p fall ~ 30 feet\n\nMajor Surgical or Invasive Procedure:\nT5-T11 posterior fusion with CSF leak repair\nLumbar drain\n\n\nHistory of Present Illness:\n38 year old male portugese speaking s/p fall ~30 feet landed on\nstomach. No LOC at scene- Unable to move feet, loss of LE\nsensation/+step-offs.\n\nPast Medical History:\nNone\n\nSocial History:\nNonsmoker, family lives in [**Location 4194**]\n\nFamily History:\nNone\n\nPhysical Exam:\nPHYSICAL EXAM upon admission:\nGen: AOx3, NAD\nHEENT: multiple facial lacerations, right periorbital ecchymosis\nPupils: 3>2 bilateral        EOMs full and intact\nNeck: in cervical collar\nLungs: not examined\nCardiac: not examined\nAbd: not examined\nExtrem: Warm and well-perfused.\nNeuro:\nMental status: Awake and alert, cooperative with exam, normal\naffect.\nOrientation: Oriented to person, place, and date.\nMotor:\n      D    B     T    WE   WF    IP    Q  H     AT    [**Last Name (un) 938**]    G\nR     5    5     5     5    5     0    0  0      0      0    0\nL     5    5     5     5    5     0    0  0      0      0    0\n\nSensation: Intact to light touch in upper extremities and on\ntrunk superior to xiphoid process bilaterally, no sensation to\nlight touch on trunk distal to xiphoid process and in lower\nextremities bilaterally.\nRectal Tone: reported intact by General Surgery Trauma service\non\ntheir exam\n\nReflexes: B  T  Br  Pa  Ac\nRight     1+ 1+ 1+  absent\nLeft      1+ 1+ 1+  absent\n\nToes neutral on Babinski, no clonus\n\nExam upon discharge:\n[**6-2**] UE\n0/5 LE\nno sensation T8 distal\nwound well healed\n\n\nPertinent Results:\n[**2189-8-31**] 08:59AM   WBC-9.2 RBC-5.26 HGB-15.4 HCT-43.8 MCV-83\nMCH-29.3 MCHC-35.1* RDW-14.5\n[**2189-8-31**] 08:59AM   PLT COUNT-236\n[**2189-8-31**] 08:59AM   PT-13.2 PTT-21.2* INR(PT)-1.1\n[**2189-8-31**] 08:59AM   FIBRINOGE-378\n[**2189-8-31**] 08:59AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG\nbnzodzpn-NEG barbitrt-NEG tricyclic-NEG\n[**2189-8-31**] 09:14AM   GLUCOSE-147* LACTATE-3.0* NA+-142 K+-3.6\nCL--100 TCO2-25\n[**2189-8-31**] 09:25AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG\nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0\nLEUK-NEG\n[**2189-8-31**] 09:25AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.006\nCT C-spine [**8-31**]:\n\nIMPRESSION:\n1. No acute fracture or malalignment involving the cervical\nspine.\n2. Old T1 spinous process.\n3. Biapical lung scarring, likely sequelae of prior\nTB/granulomatous\nexposure.\nCT CAP [**8-31**]:\n\nIMPRESSION:\n1. Comminuted vertebral fracture at T8 with retropulsion of\nmultiple bony\nfragments into the central spinal canal concerning for\ntransection. There is associated paravertebral hematoma.\n2. Posterior mediastinal hematoma adjacent to the distal\nesophagus and\ndescending aorta which may reflect tracking of hematoma from\nparaspinal hematoma. Howevre, esophageal injury cannot be\nentirely excluded.\nRecommend correlation with esophagram if needed. No definite\nevidence for\naortic injury, though follow-up recommended if there is clinical\nconcern\ngiven the hematoma adjacent to the descending thoracic aorta at\nthe level of the spinal fractures.\n3. Retrosternal hematoma along the anterior aspect of the heart\nwithout\nidentifiable sternal fracture. Findings may be secondary to\nblunt trauma and cardiac contusion cannot be excluded. Clinical\ncorrelation is advised.\n4. Biapical lung scarring suggestive of prior TB with areas of\nground-glass\nopacity in the peripheral aspect of the right middle lobe,\nunclear etiology, may reflect chronic interstitial lung disease,\nless likely contusion.\n5. Multiple rib fractures, multiple transverse process\nfractures.\nCT sinus/mandible [**8-31**]:\nIMPRESSION:\n1. Right lamina papyracea fracture with small extraconal\nhematoma and air\nlocules in the medial right orbit.\n2. Right nasal bone fracture.\n3. Pansinus mucosal thickening.\n4. No other fractures identified.\n5. Mucosal thickening involving the paranasal sinuses. Recommend\nclinical\ncorrelation for sinusitis.\n MRI T-spine [**2189-8-31**]:\nIMPRESSION:\n1. Acute compression fracture of the T8 vertebral body with\nGrade II\nanterolisthesis of T7 on T8 and retropulsion of fracture\nfragments posteriorly and superiorly causing severe spinal cord\ncompression and possible spinal cord transection. Additional\npunctate T2 hyperintense focus within the spinal cord at T10 may\nrepresent a small post traumatic syrinx.\n2. Large prevertebral soft tissue hematoma.\n3. Large bilateral pleural effusions with a probable right\nhemothorax.\nCardiology Report ECG  [**2189-9-1**]  10:59:58 AM\n\nSinus rhythm. No diagnostic abnormalities. No previous tracing\navailable for comparison.\n\n  Intervals Axes\nRate PR QRS QT/QTc P QRS T\n97 116 80 [**Telephone/Fax (2) 82810**] 44\n[**9-6**] CXR:\nFINDINGS: Interval surgery for thoracic spine fracture with\n[**Location (un) 931**] rods\nin place. Cardiomediastinal contours are within normal limits.\nModerate\nlayering right pleural effusion with adjacent retrocardiac\nopacity, probably atelectasis, although infection is not\nexcluded. Nonspecific fibronodular opacities at the lung apices,\npotentially due to scarring, although active disease is not\nexcluded without older studies for comparison. Several rib\nfractures are demonstrated and seen to better detail on recent\nCT of [**2189-8-31**].\n\nLENI [**9-7**]\nIMPRESSION: No evidence of deep vein thrombosis of the right or\nleft lower\nextremity.\nthoracic spine xrays [**9-8**]:\n\nFINDINGS: There is again seen a burst fracture involving the T8\nvertebral\nbody with loss of approximately 40% of the anterior height.\nThere is again\nseen anterolisthesis of T7 over T8, but the alignment is\nimproved since the initial study. There is a posterior\nstabilizing hardware spanning T5 to T12 with pedicle screws\nwithin the T5, T7, T10, T11, and T12. There are no signs of\nhardware-related complications.\n\nAbdominal US [**9-8**]\nIMPRESSION: Sludge in gallbladder without other signs of\ncholecystitis.\n[**Doctor Last Name 515**] sign is negative. No specific US signs of acute\ncholecystitis.\nCXR [**9-8**]\nIMPRESSION:\nAP chest compared to [**9-6**]:\n\nLateral aspect of the right lower chest is excluded from the\nexamination. The imaged pleural surfaces are normal. The region\nof chronic right lower costal pleural thickening is not\nexamined. Lungs are grossly clear. Heart size normal. Spinal\nstabilization device and skin staples project over the\nthoracic and upper lumbar spine. Stomach is at least moderately\ndistended\nwith air.\n Abdomen [**9-9**]\nNo evidence of ileus, obstruction or fecal impaction seen.\nR wrist [**9-9**]\nIMPRESSION: No evidence of fracture. Normal right wrist.\n\n\n\n\nBrief Hospital Course:\nPatient is a 38 year old Protugese speaking male s/p fall ~30\nfeet landed on stomach.  No LOC noted at sceen.  Patient was\nfound to have comminuted vertebral fracture at T8 with\nretropulsion of multiple bony fragments into the central spinal\ncanal with cord transection demonstrated.  Neurosurgery was\nconsulted in the trauma unit.  The patient was admitted to the\nTICU and stabilized.  Upon clearance of the C-spine the patients\nc-collar was removed.  The patient was then transfered to the\nfloor and on [**9-2**] the patient was taken to the operating room\nwith Neurosurgery for repair of his injuries and was transfered\nto the Neurosurgery service for continued care.He underwent\nposterior instrumented fusion T5-11 with repair of dura, right\niliac crest bone harvest and placement of lumbar drain all done\nunder general anesthesia. There was estimated 1 liter of blood\nloss during the procedure and the patient recieved 2 units of\npacked red blood cells in the OR. He tolerated this proceure\nwell, was extubated in TICU.  Lumbar drain was functioning and\ndrained 5-10cc/hr.  Diet was advanced, medication changed to PO.\nHe was transferred to the floor on [**9-3**].  His activity was\nadvanced with help of PT and [**Doctor Last Name 2598**] lift, he tolerated being\nupright.  The patient had fevers beginning on [**9-3**] and again on\n[**9-6**] with workup all being negative(CXR, cultures,abdominal\nUS,LENIs) though this was during time he was being covered with\nancef while lumbar drain was in place. The lumbar drain was\nclamped on [**9-7**].  Lumbar drain was removed [**9-8**] with wound being\ndry.  Good placement of operative hardware noted on thoracic\nXray. ID consult was obtained but pt remained afebrile after\nlumbar drain removed and ancef stopped.  He was also begun on\nbowel regimen and remained with foley.   Urine cultures showed\nno growth.  Blood and CSF cultures were all negative.Wound was\nclean and dry. He required enemas and suppositories for bowels,\nhad foley for bladder. On [**9-9**], the patient developed right\nwrist pain.  The wrist xray was negative for fracture. He\nexperienced reported chest pain and his EKG was negative. His\nabdomen was distended and a KUB xray was performed which showed\nno ileus or obstruction or fecal impaction. [**9-10**] stool was sent\nfor C-Diff which was negative. The patient continues to be seen\nby Rehab medicine during his hospital stay.\nOn [**9-17**] he had some mild dehiscence of the upper 1/3rd of his\nincision. There was scant drainage. Wound care consult was\nrequested. The wound adequately healed in time. On [**9-18**] he was\ninstructed how to straight cath himself. On [**9-19**] he was found to\nhave mild diabetes, diet controlled and also started on emycin\nfor conjuctivitis. On [**9-24**] he received wrist brace for transfer.\nOn [**2189-10-19**] he was found to have foul smelling urine with\nnegative urinalysis but culture showing MSSA and he was started\non 7d course of cipro on [**2189-10-22**].\n\nWeekly case management meetings have been taking place with the\npatient, his pastor, friends, the neurosurgery team, case\nmanagement, Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] and nursing throughout his prolonged\nhospital stay. The meetings have explored all options of rehab\n(he is unable to go to due to no insurance), medical shelters\n(denied due to no longer follow term care), going back to [**Country 4194**]\nand apartments in the local area. Dr [**Last Name (STitle) **] has set up free care\nat [**Hospital6 **] with a spinal cord specialist. Free\nmedications have been set up through our free care pharmacy. A\nreconditioned wheelchair was obtain, a commode and a slider\nboard, and cath equipment were all given to the patient. The\npatient is now proficient in self cath and bowel care. His PPD\nwas read as negative for tuberculosis. He was discharged to\napartment with community support on [**2189-10-23**].\n\n\nMedications on Admission:\nNone\n\nDischarge Medications:\n1. Enoxaparin 30 mg/0.3 mL Syringe Sig: One (1)  Subcutaneous\nQ12H (every 12 hours) for 2 weeks.\nDisp:*28 * Refills:*3*\n2. Imipramine HCl 10 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime).\nDisp:*30 Tablet(s)* Refills:*0*\n3. Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO TID (3\ntimes a day) for 1 months.\nDisp:*90 Tablet(s)* Refills:*0*\n4. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nQAM (once a day (in the morning)).\nDisp:*60 Suppository(s)* Refills:*2*\n5. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).\nDisp:*120 Tablet(s)* Refills:*2*\n6. Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for fever,pain.\n7. Docusate Sodium 100 mg Capsule Sig: Two (2) Capsule PO BID (2\ntimes a day) as needed for constipation.\nDisp:*120 Capsule(s)* Refills:*2*\n8. Cipro 500 mg Tablet Sig: One (1) Tablet PO twice a day for 7\ndays.\nDisp:*14 Tablet(s)* Refills:*0*\n9. Outpatient Physical Therapy\ns/p thoracic instrumented fusion\nplease treat and evaluate\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nspinal cord injury\nabdominal distention\nfever of unknown origin\nconjuctivitis\n\n\nDischarge Condition:\nstable,paraplegic\n\n\nDischarge Instructions:\nDISCHARGE INSTRUCTIONS FOR SPINE CASES\n\n*        Do not smoke\n*        Take pain medication as instructed; you may find it\nbest if taken in the a.m. when you wake for morning stiffness\nand before bed for sleeping discomfort\n*        Do not take any anti-inflammatory medications such as\nMotrin, Advil, aspirin, Ibuprofen etc. until after [**12-1**].\n*        Increase your intake of fluids and fiber as pain\nmedicine (narcotics) can cause constipation\n*       The following places are where you can get urinary\ncatheters:\n[**Hospital 43292**] Medical Supply [**Telephone/Fax (1) 51271**] and [**Hospital3 **] Medical Supply\n[**Telephone/Fax (1) 82811**]\n\nCALL IMMEDIATELY IF YOU EXPERIENCE ANY OF THE FOLLOWING:\n\n??????        Pain that is continually increasing or not relieved by\npain medicine\n??????        Fever greater than or equal to 101?????? F\n\nFollowup Instructions:\n*The following clinic services free care patients. Please call\nand arrange for appointment to establish a primary care\nphysician for general care:  [**Location (un) 3786**] Family Medicine Center (part\nof the [**Hospital6 12736**]) [**Street Address(2) 82812**], [**Location (un) 3786**] MA\n[**Telephone/Fax (1) 25050**].\n\n*Please follow up with Spinal Cord Injury Specialist [**First Name8 (NamePattern2) **]\n[**Last Name (NamePattern1) 805**], MD, [**Telephone/Fax (1) 82813**], [**Last Name (NamePattern1) **] [**Location (un) 442**] [**Location (un) 20473**]\nFamily Building at [**Hospital6 **] on [**10-30**] at 1:30\nPM.\n\n*Follow up with Dr. [**Last Name (STitle) 548**] in 6 weeks, you will need xrays at\nthis appt.  Please call [**Telephone/Fax (1) 2992**] to schedule.\n\n\nCompleted by:[**2189-10-23**]"
+    },
+    {
+      "note_id": 691198,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 3827,
+          "end": 3858,
+          "code": "E881.0",
+          "code_system": "ICD-9-CM",
+          "description": "Accidental fall from ladder",
+          "type": "Human",
+          "covered_text": "m s/p fall from ladder suffered"
+        }
+      ],
+      "text": "TSICU\n   HPI:\n   38 y/o male portuges speaking s/p fall ~30 feet landed on stomach. No\n   LOC at sceen- Unable to move feet, loss of LE sensation/+step-offs\n   Chief complaint:\n   s/p fall, t8 spinal cord transection\n   PMHx:\n   PMH:  none\n   PSH: none\n   Soc:  none\n   Current medications:\n   none\n   24 Hour Events:\n   s/p fixation T5-T11; extubate in T/SICU\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefazolin - [**2189-9-2**] 09:37 PM\n   Infusions:\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2189-9-2**] 07:47 PM\n   Metoprolol - [**2189-9-3**] 01:15 AM\n   Hydromorphone (Dilaudid) - [**2189-9-3**] 02:10 AM\n   Other medications:\n   Flowsheet Data as of  [**2189-9-3**] 03:42 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**92**] a.m.\n   Tmax: 38.4\nC (101.2\n   T current: 37.6\nC (99.7\n   HR: 96 (94 - 106) bpm\n   BP: 157/68(91) {120/64(79) - 166/80(101)} mmHg\n   RR: 15 (12 - 32) insp/min\n   SPO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                  3,677 mL\n                                                                    291 mL\n   PO:\n             Tube feeding:\n   IV Fluid:\n                                                                  3,677 mL\n                                                                    291 mL\n   Blood products:\n   Total out:\n                                                                  2,815 mL\n                                                                    380 mL\n   Urine:\n                                                                    375 mL\n                                                                    380 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    862 mL\n                                                                    -89 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   Ventilator mode: CPAP/PSV\n   Vt (Spontaneous): 824 (824 - 824) mL\n   PS : 5 cmH2O\n   RR (Spontaneous): 15\n   PEEP: 5 cmH2O\n   FiO2: 70%\n   PIP: 11 cmH2O\n   SPO2: 100%\n   ABG: ///24/\n   Ve: 10.5 L/min\n   Physical Examination\n   General Appearance: No acute distress\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Breath Sounds: CTA bilateral : )\n   Abdominal: Soft, Non-distended, Non-tender\n   Left Extremities: (Edema: Trace), (Temperature: Warm)\n   Right Extremities: (Edema: Trace), (Temperature: Warm)\n   Skin: dressings c/d/i - lumbar drain clamped\n   Neurologic: (Awake / Alert / Oriented: x 3)\n   Labs / Radiology\n   184 K/uL\n   10.0 g/dL\n   178 mg/dL\n   0.7 mg/dL\n   24 mEq/L\n   4.5 mEq/L\n   13 mg/dL\n   105 mEq/L\n   138 mEq/L\n   30.3 %\n   12.3 K/uL\n         [image002.jpg]\n                             [**2189-8-31**]  03:00 PM\n                             [**2189-8-31**]  08:00 PM\n                             [**2189-9-1**]  01:49 AM\n                             [**2189-9-1**]  02:00 AM\n                             [**2189-9-1**]  08:00 AM\n                             [**2189-9-1**]  02:00 PM\n                             [**2189-9-2**]  06:19 PM\n                             [**2189-9-3**]  01:50 AM\n   WBC\n   12.3\n   9.5\n   12.3\n   Hct\n   38.3\n   30.4\n   30.3\n   Plt\n   182\n   169\n   184\n   Creatinine\n   1.0\n   0.8\n   0.7\n   Glucose\n   191\n   172\n   184\n   [**Telephone/Fax (3) 8155**]\n   216\n   178\n   Other labs: Differential-Neuts:82.5 %, Lymph:13.6 %, Mono:3.3 %,\n   Eos:0.4 %, Ca:7.9 mg/dL, Mg:2.1 mg/dL, PO4:2.7 mg/dL\n   Assessment and Plan\n   THORACIC / LUMBAR / SACRAL FRACTURE (TLS WITH SPINAL CORD INJURY), RIB\n   FRACTURE\n   Assessment and Plan: ASSESSMENT AND PLAN:\n   38 yo m s/p fall from ladder suffered T [**8-5**] SCI., S/p spinal fixation\n   T5-T11\n   NEURO:  Neuro checks q2, Dilaudid q2prn pain\n   CVS: HD stable, 1L blood loss, transfused 2U intra-op am hct\n   PULM: Extubated; pulm toilet, IS, sit upright\n   GI: npo\n   RENAL:  Foley; follow uop\n   HEME: hct 30.4 check in am\n   ENDO: ssi\n   ID:  cefazolin x6 doses\n   TLD: A-line, Foley, PIV\n   IVF: NS@80\n   CONSULTS: Trauma, Neurosurg\n   BILLING DIAGNOSIS:\n   ICU CARE:\n   GLYCEMIC CONTROL:\n   PROPHYLAXIS:\n   DVT - boots\n   STRESS ULCER - famotidine\n   VAP BUNDLE +\n   COMMUNICATIONS:\n   ICU Consent: yes\n   CODE STATUS: full\n   DISPOSITION: floor\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   14 Gauge - [**2189-9-2**] 05:49 PM\n   Arterial Line - [**2189-9-2**] 05:50 PM\n   18 Gauge - [**2189-9-2**] 05:51 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status: Full code\n   Disposition: Transfer to floor\n   Total time spent:\n"
+    }
+  ]
+}

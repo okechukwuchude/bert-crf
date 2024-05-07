@@ -1,0 +1,130 @@
+{
+  "hadm_id": 143547,
+  "comment": "Liver Lobectomy OP report not present- unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 545680,
+      "category": "Nutrition",
+      "description": "Clinical Nutrition Note",
+      "annotations": [
+        {
+          "begin": 130,
+          "end": 143,
+          "code": "V45.72",
+          "code_system": "ICD-9-CM",
+          "description": "Acquired absence of intestine (large) (small)",
+          "type": "MapType.APPROX",
+          "covered_text": "h/o lap chole"
+        }
+      ],
+      "text": "Potential for nutrition risk. Patient being monitored. Current\n   intervention if any, listed below:\n   Comments:\n   42M w/remote h/o lap chole c/b common hepatic biliary stricture c/b PTC\n   external biliary drain into R anterior biliary duct [**11-19**] and  R\n   lobectomy [**12-22**].\n   Pt on regular diet, tol well.\n   If po\ns decline, pls c/s for recs on nutrition support.\n   Pge w/ questions/concerns #[**Numeric Identifier 526**]\n   15:24\n"
+    },
+    {
+      "note_id": 33908,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 275,
+          "end": 304,
+          "code": "576.2",
+          "code_system": "ICD-9-CM",
+          "description": "Obstruction of bile duct",
+          "type": "Human",
+          "covered_text": "Right hepatic duct stricture."
+        },
+        {
+          "begin": 362,
+          "end": 406,
+          "code": "50.3",
+          "code_system": "ICD-9-PCS",
+          "description": "Lobectomy of liver",
+          "type": "Human",
+          "covered_text": "right lobectomy for common hepatic stricture"
+        },
+        {
+          "begin": 971,
+          "end": 981,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 986,
+          "end": 993,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "anxiety"
+        },
+        {
+          "begin": 1161,
+          "end": 1178,
+          "code": "338.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pain",
+          "type": "Human",
+          "covered_text": "chronic back pain"
+        },
+        {
+          "begin": 1239,
+          "end": 1256,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical arthrodesis status",
+          "type": "Human",
+          "covered_text": "L4-5/L5-S1 fusion"
+        },
+        {
+          "begin": 1496,
+          "end": 1512,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "smoke cigarettes"
+        },
+        {
+          "begin": 2757,
+          "end": 2786,
+          "code": "576.2",
+          "code_system": "ICD-9-CM",
+          "description": "Obstruction of bile duct",
+          "type": "Human",
+          "covered_text": "right hepatic duct stricture."
+        },
+        {
+          "begin": 3137,
+          "end": 3148,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary collapse",
+          "type": "Human",
+          "covered_text": "atelectasis"
+        },
+        {
+          "begin": 8021,
+          "end": 8038,
+          "code": "576.2",
+          "code_system": "ICD-9-CM",
+          "description": "Obstruction of bile duct",
+          "type": "Human",
+          "covered_text": "Biliary stricture"
+        },
+        {
+          "begin": 8049,
+          "end": 8061,
+          "code": "338.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pain",
+          "type": "Human",
+          "covered_text": "chronic pain"
+        }
+      ],
+      "text": "Admission Date:  [**2161-12-22**]              Discharge Date:   [**2161-12-31**]\n\nDate of Birth:  [**2119-9-5**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 668**]\nChief Complaint:\nRight hepatic duct stricture.\n\n\nMajor Surgical or Invasive Procedure:\n[**2161-12-25**] right lobectomy for common hepatic stricture\n\n\nHistory of Present Illness:\n42M with remote h/o lap chole previously p/w [**Month/Day/Year 5283**] pain, s/p ERCP\n[**11-18**] showing R hepatic biliary stricture, thougt to be\npostsurgical; s/p PTC external biliary drain into R anterior\nbiliary duct [**11-19**], PTC repositioned [**11-30**]. Bile cultures grew\nout sparse Lactobacillus. Discharged from hospital [**12-3**] on 21 d\ncourse of Augmentin. Returned [**12-10**] with diarrhea, [**Month/Year (2) 5283**] abd pain,\nnausea, po intolerance with 7 pound wt loss\n\nPast Medical History:\nBile duct stricture\ndepression and anxiety.\nERCP [**2161-11-18**] showing R hepatic biliary stricture\nPTC external biliary drain into R anterior biliary duct\n[**2161-11-19**], PTC repositioned [**2161-11-30**]\nchronic back pain s/p fall down stairs 1 yr prior\n\nPSH: lap chole [**2145**], L4-5/L5-S1 fusion [**10-5**]\n[**2161-12-22**] R hepatic lobectomy with cholangiogram for R duct\nbiliary stricture, benign\n\n\nSocial History:\nThe patient's relatives are from [**Name (NI) 11660**]\nislands. He lives in RI. He is not currently working. He does\nsmoke cigarettes\none pack per day for 13 years. He does not consume alcohol. He\nis married. His wife has suffered from Lupus for many years and\nrecently completed a lengthy chemotherapy course. He and his\nwife have been financially stressed. Has been staying with his\ndaughter in [**Name (NI) 1474**], MA\n\n\nFamily History:\nFamily history is significant for cancer and diabetes in his\nmother and father as well.  There is no family history of spinal\ndisorders.\n\n\nPertinent Results:\n[**2161-12-22**] 04:58PM BLOOD WBC-15.6*# RBC-3.85* Hgb-12.2* Hct-35.3*\nMCV-92 MCH-31.7 MCHC-34.5 RDW-13.5 Plt Ct-391\n[**2161-12-23**] 03:38AM BLOOD WBC-12.9* RBC-3.72* Hgb-11.7* Hct-35.1*\nMCV-95 MCH-31.5 MCHC-33.3 RDW-13.3 Plt Ct-291\n[**2161-12-25**] 04:11AM BLOOD WBC-8.8 RBC-2.84* Hgb-9.2* Hct-27.1*\nMCV-95 MCH-32.5* MCHC-34.1 RDW-13.4 Plt Ct-190\n[**2161-12-28**] 05:30AM BLOOD WBC-4.6 RBC-2.49* Hgb-8.0* Hct-22.9*\nMCV-92 MCH-32.1* MCHC-34.9 RDW-13.5 Plt Ct-307\n[**2161-12-30**] 06:53AM BLOOD WBC-4.6 RBC-2.53* Hgb-8.1* Hct-24.2*\nMCV-96 MCH-32.0 MCHC-33.5 RDW-13.8 Plt Ct-363\n[**2161-12-30**] 06:53AM BLOOD Glucose-105 UreaN-6 Creat-0.6 Na-142\nK-3.8 Cl-105 HCO3-32 AnGap-9\n\nBrief Hospital Course:\nOn [**2161-12-22**] he underwent right hepatic lobectomy with\ncholangiogram for right hepatic duct stricture. Surgeon was Dr.\n[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]. Please see operative report for details. Postop,\nhe was sent to the SICU given excessive pain management needs.\nAPS followed him.  He was treated with vanco and zosyn for 24\nhours then remained afebrile until pod 2 when he had a temp of\n101.2. This was attributed to atelectasis. He was encouraged to\nuse the incentive spirometer and was assisted oob. Temperature\ndecreased. He was transferred out of the SICU on [**12-26**].\n\nBile was noted in his JP. On [**12-28**], JP fluid bilirubin was 3.1.\nLFTs improved with the exception of the alk phos which which\nincrease slightly from 96 to 123. His complaint posopt op was\npain control. Initially postop, this was controlled with an\nepidural that was ineffective. The epidural meds were then split\nwith a dilaudid pca and a bupivicaine epidural that was later\ndiscontinued on pod 3. Oxycontin was then added at 45mb [**Hospital1 **] and\nprn oxycodone. This was ineffective in controlling his pain.\nOxycontin was switched to MS contin 90mg [**Hospital1 **] with oxycodone\nbreakthru. PCA was discontinued. He required supplemental break\nthru iv dilaudid for [**Hospital1 5283**] pain.\n\nOn [**12-29**], an abdominal CT was done to evaluate his pain. This\nshowed a small-to-moderate amount of fluid about the liver and\nat the resection bed with free air presumed to be post-surgical.\n\n\nHis diet was advanced slowly and tolerated. He was drinking [**3-1**]\nEnsures per day.He was ambulatory and vital signs remained\nstable. Of note, his hct slowly trended down from 35.3 on pod 0\nto 22.9 on pod 6. This stablized at 24 on pod 7 and 8.\n\nIncision was clean, dry and intact without redness. JP drainage\naveraged 200cc of bile tinged fluid. He was discharged with the\nJP and was instructed to record volume of outputs. He was\ndeclared safe for discharge home with a st. cane by PT.\n\nPathology was as follows: I.  Right hepatic duct (A-B):\n\n1.  Chronic inflammation with focal glandular regeneration and\nfibrosis.\n2.  No tumor.\n\nII.  Liver, right lobe (C-J):\n1.  Area of chronic inflammation with bile duct epithelial\nregeneration and marked fibrosis.\n2.  No tumor.\n3.  Moderate steatosis and mild portal mononuclear cell\ninflammation, without intracellular hyalin.\n\nClinical: Bile duct stricture, pain.\nGross: The specimen is received fresh from the O.R. in two\nparts, both labeled with \"[**Known lastname 16651**], [**Known firstname **]\" and the medical\nrecord number.\n\nPart 1 is additionally labeled \"right hepatic duct.\" It consists\nof one piece of brown soft tissue measuring 1.0 x 0.8 x 0.7 cm.\nA lumen is identified within the specimen.  The specimen is\nbisected and frozen for intraoperative frozen section diagnosis.\nFrozen section diagnosis by Dr. [**Last Name (STitle) **] reads: \"Right hepatic duct:\nBile duct with edema, mild chronic and acute inflammation, and\nfocal epithelial hyperplasia with mild atypia. No definitive\ncarcinoma seen, final diagnosis pending permanent sections.\" The\nspecimen is entirely submitted as follows: A = frozen section\nremnant, B = remaining tissue.\n\nPart 2 is additionally labeled \"liver, right lobe.\"  It consists\nof a right lobe of liver weighing 772 grams and measuring 18 x\n12.2 x 6 cm. The anterior and superior and posterior surface of\nthis right liver lobe is smooth and peritoneal with a rough area\nmeasuring 1 x 1 cm near the lateral edge which is consistent\nwith cautery. There is a rough surface on the medial edge of the\nspecimen which measures 14 x 7 cm and has cautery marks. There\nare associated staples throughout this rough edge and there are\nno discernable structures. A portion of this area is inked in\nblack at the potential margin. The specimen is serially\nsectioned medially to laterally at 5 mm intervals to reveal a\nsurpentuous white area which contains a tubular structure. This\narea measures 4.5 x 3 cm and is firm. The specimen is\nrepresented as follows; C-D = shaved inked margin, E-I =\nrepresentation of white firm area inferior to superior, J =\nnormal liver parenchyma.\n\n\nMedications on Admission:\ntylenol, colace, valium 1 [**Hospital1 **], nicotine patch, paxil 30', senna,\nMS Contin 30mg q 12 hours, oxycodone 2-3 tabs q 4 hours prn\n\nDischarge Medications:\n1. Paroxetine HCl 10 mg Tablet Sig: Three (3) Tablet PO DAILY\n(Daily).\n2. Docusate Sodium 100 mg Capsule Sig: Two (2) Capsule PO BID (2\ntimes a day).\n3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n4. Acetaminophen 500 mg Tablet Sig: One (1) Tablet PO Q6H (every\n6 hours).\n5. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO q8H PRN as\nneeded for pain.\n6. Morphine 30 mg Tablet Sustained Release Sig: Three (3) Tablet\nSustained Release PO Q12H (every 12 hours).\nDisp:*42 Tablet Sustained Release(s)* Refills:*0*\n7. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3 hours)\nas needed.\nDisp:*40 Tablet(s)* Refills:*0*\n8. Diazepam 2 mg Tablet Sig: 0.5 Tablet PO Q12H (every 12 hours)\nas needed for anxiety.\nDisp:*20 Tablet(s)* Refills:*0*\n9. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\nDisp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*1*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nBiliary stricture\nacute and chronic pain\n\n\n\n\nDischarge Condition:\nGood\n\n\nDischarge Instructions:\n1.  Please call Dr.[**Name (NI) 670**] office [**Telephone/Fax (1) 673**] if fever,\nchills, nausea, vomiting, worsening abdominal pain, jaundice\n(yellowing of whites of eyes or skin)or diarrhea/constipation\n2.  No driving while taking pain medication\n3.  No heavy lifting for four weeks\n4.  You may shower, but no baths.\n5.  Empty and record volume of fluid from drain.\n\nFollowup Instructions:\nPlease call Dr.[**Name (NI) 670**] office to schedule a follow-up\nappointment.\nPlease also follow up with your primary care doctor.\n\n\n\nCompleted by:[**2162-1-1**]"
+    }
+  ]
+}

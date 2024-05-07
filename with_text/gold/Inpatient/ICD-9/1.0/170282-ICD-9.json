@@ -1,0 +1,128 @@
+{
+  "hadm_id": 170282,
+  "comment": "Right TKA-Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 725123,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 3212,
+          "end": 3221,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "Human",
+          "covered_text": "hypoxemia"
+        },
+        {
+          "begin": 4005,
+          "end": 4017,
+          "code": "288.60",
+          "code_system": "ICD-9-CM",
+          "description": "Leukocytosis, unspecified",
+          "type": "Human",
+          "covered_text": "Leukocytosis"
+        }
+      ],
+      "text": "Chief Complaint:\n   24 Hour Events:\n   Overnight, patient was on CPAP untill 0130 am.  She was then placed on\n   med conc 02 mask.\n   Respiratory therapy observed paradoxical breathing effort while\n   sleeping, but sats were okay.\n   Allergies:\n   Zomig (Oral) (Zolmitriptan)\n   Headache; low b\n   Last dose of Antibiotics:\n   Cefazolin - [**2101-3-28**] 11:00 PM\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2101-3-29**] 06:54 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since [**03**] AM\n   Tmax: 36.9\nC (98.4\n   Tcurrent: 36.9\nC (98.4\n   HR: 111 (84 - 111) bpm\n   BP: 158/64(86) {126/59(83) - 173/84(104)} mmHg\n   RR: 19 (13 - 21) insp/min\n   SpO2: 93%\n   Heart rhythm: ST (Sinus Tachycardia)\n             Total In:\n                                                                    150 mL\n                                                                    549 mL\n   PO:\n             TF:\n   IVF:\n                                                                    150 mL\n                                                                    549 mL\n   Blood products:\n   Total out:\n                                                                     45 mL\n                                                                    430 mL\n   Urine:\n                                                                     45 mL\n                                                                    330 mL\n   NG:\n   Stool:\n   Drains:\n   100 mL\n   Balance:\n                                                                    105 mL\n                                                                    119 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 93%\n   ABG: ///27/\n   Physical Examination\n   CV: [**4-9**] SM, RR\n   Pulm: + bibasilar crackles\n   Abd: Soft NTND\n   Labs / Radiology\n   207 K/uL\n   11.8 g/dL\n   120 mg/dL\n   0.7 mg/dL\n   27 mEq/L\n   4.3 mEq/L\n   14 mg/dL\n   102 mEq/L\n   137 mEq/L\n   34.3 %\n   14.1 K/uL\n        [image002.jpg]\n   _______________________________________________________________________\n                                     pH\n                                    7.32\n                                    pCO2\n                                     56\n                                     pO2\n                                     257\n                                    HCO3\n                                     30\n                                   BaseXS\n                                      1\n                             [**2101-3-29**]  03:54 AM\n   WBC\n   14.1\n   Hct\n   34.3\n   Plt\n   207\n   Cr\n   0.7\n   Glucose\n   120\n   Other labs: Ca++:8.0 mg/dL, Mg++:1.6 mg/dL, PO4:3.9 mg/dL\n   Assessment and Plan\n HYPERTENSION, BENIGN\n HYPOXEMIA\n [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS\n   51F with osteoarthritis, diabetes, hypertension, obesity, presenting\n   with periodic apneas and desaturations.\n   .\n   # Apnea/hypoxemia.  Likely related to narcatoics intraop and PCA.  [**Month (only) 8**]\n   have sleep disordered breathing at home, though has never had any\n   formal sleep study.  Currently, she has been weaned from CPAP-> face\n   mask -> nasal cannula without any further desats at night.  Less likely\n   volume overload, no signs of consolidation to be suggestive of\n   infection.  PE less likely as O2 requirements reducint. Apnea likely\n   combination of central/high narcotic use with morphine PCA from PACU\n   plus likely sleep disordered breathing.\n   - Continue to wean O2 as tolerated\n   - Outpatient sleep study\n   - Can make standing albuterol neb prn\n   .\n   # s/p TKR.\n   - Lovenox for prophylaxis.\n   - 3 doses of cefazolin post op.\n   - Oxycodone prn pain, tylenol, naproxen\n   .\n   # Leukocytosis: Patient has been afebrile.  Will continue to monitor\n   for signs of infection. No evidence of consolidation on CXR. - - CIS\n   - 3 doses of cefazolin post op\n   # Anemia: Likely dilutional. Will continue to monitor for signs of\n   bleeding\n   - [**Hospital1 **] hct\n   - Guaic stools\n   # Diabetes.\n   - Insulin sliding scale.\n   .\n   # Hypertension.\n   - continue home valsartan, HCTZ.\n   # Hyperlipidemia:\n   - cont statin\n   .\n   FEN: No IVF, replete electrolytes, sips and advance as tolerated\n   Prophylaxis: lovenox, H2B\n   Access: peripherals\n   Code:  Full\n   Communication: Patient\n   Disposition: pending clinical improvement\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2101-3-28**] 10:49 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status:\n   Disposition:\n"
+    },
+    {
+      "note_id": 35028,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 486,
+          "end": 489,
+          "code": "401.1",
+          "code_system": "ICD-9-CM",
+          "description": "Benign essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 491,
+          "end": 497,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "asthma"
+        },
+        {
+          "begin": 509,
+          "end": 517,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "diabetes"
+        },
+        {
+          "begin": 2859,
+          "end": 2872,
+          "code": "715.16",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoarthrosis, localized, primary, involving lower leg",
+          "type": "MapType.APPROX",
+          "covered_text": "OA right knee"
+        }
+      ],
+      "text": "Admission Date:  [**2101-3-28**]              Discharge Date:   [**2101-4-1**]\n\nDate of Birth:  [**2049-10-28**]             Sex:   F\n\nService: ORTHOPAEDICS\n\nAllergies:\nZomig\n\nAttending:[**First Name8 (NamePattern2) 1103**]\nChief Complaint:\nRight knee pain\n\nMajor Surgical or Invasive Procedure:\nRight TKA\n\n\nHistory of Present Illness:\n51 y/o woman with increased right knee pain with walking.\nDecision made to proceed with primary Right Total Knee\nArthroplasty.\n\nPast Medical History:\nHTN, asthma/allergies, diabetes.\n\nSocial History:\nNC\n\nFamily History:\nNC\n\nPhysical Exam:\nAfebrile, All vital signs stable\nGeneral: NCAT, NAD\n\nPulm: lungs CTA bilaterally, no w/r/r\n\nCard:s1/s2 clear no m/g/r\n\nAbd: soft NT/ND, +BS\n\nExt: incision C/D/I calf nt nvi distally\n\nBrief Hospital Course:\nMs. [**Known lastname **]  was admitted to [**Hospital1 18**] on [**2101-3-28**] for right total\nknee replacement. Pre-operatively, she was consented and history\nand physical performed. Intra-operatively, she was closely\nmonitored and remained stable. She tolerated the procedure well\nwithout any difficulty. Post-operatively, she was transferred to\nthe PACU and it was determined that she should be observed in\nthe [**Hospital Unit Name 153**] overnight due to hypoxia. This was determined to be\nrelated to overuse of narcotics. She was transferred to the\nfloor on the afternoon of [**3-29**] in stable condition. On the\nfloor,she remained stable. Her pain was well controlled. She\nprogressed with physical therapy to improve her strength and\nmobility. She continued to make steady progress. She was\ndischarged to a rehabilitation facility in stable condition.\n\nMedications on Admission:\nDiovan 160 QD, HCTZ 12.5 QD, Simvastatin 20mg QD, Motrin PRN\n\nDischarge Medications:\n1. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)\nas needed for Pain.\n2. Enoxaparin 40 mg/0.4 mL Syringe Sig: One (1)  Subcutaneous\nDAILY (Daily) for 3 weeks.\n3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n4. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for\nConstipation.\n5. Multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).\n6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for Constipation.\n7. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n8. Valsartan 80 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n9. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO\nDAILY (Daily).\n10. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1)  Inhalation Q4H (every 4 hours).\n11. Insulin Regular Human 100 unit/mL Solution Sig: One (1)\nInjection ASDIR (AS DIRECTED): as per institution protocol.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\nMeadowbrook - [**Location (un) 2624**]\n\nDischarge Diagnosis:\nOA right knee\n\n\nDischarge Condition:\nMental Status: Clear and coherent\nLevel of Consciousness: Alert and interactive\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane)\n\n\nDischarge Instructions:\nKeep the incision clean and dry. Please apply a dry sterile\ndressing daily as needed for drainage or comfort.\n\nIf you have any shortness of breath, increased redness,\nincreased swelling, pain, or drainage, or have a temperature\n>101, please call your doctor or go to the emergency room for\nevaluation.\n\nYou may bear weight on your right leg.\n\nPlease resume all of the medications you took prior to your\nadmission unless discussed with your provider. [**Name10 (NameIs) **] all\nmedication as prescribed by your provider.\n\nContinue to take your lovenox 40 mg daily for 3 weeks and then\nstart taking aspirin 325 mg daily for 3 weeks.\n\nFeel free to call our office with any questions or concerns.\n\nFollowup Instructions:\nProvider: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **], [**MD Number(3) 3261**]:[**Telephone/Fax (1) 1228**]\nDate/Time:[**2101-4-12**] 1:00\nfollow up with sleep medicine service as directed\n\n\n\nCompleted by:[**2101-3-31**]"
+    },
+    {
+      "note_id": 725128,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 995,
+          "end": 1001,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        }
+      ],
+      "text": "Chief Complaint: desaturations, apneas\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   24 Hour Events:\n   Tolerated the autoset here until early morning\n    Now on 3 L NC\n   Sitting up in chair\n                                         History obtained from Patient\n   Allergies:\n   Zomig (Oral) (Zolmitriptan)\n   Headache; low b\n   Last dose of Antibiotics:\n   Cefazolin - [**2101-3-29**] 09:11 AM\n   Infusions:\n   Other ICU medications:\n   Enoxaparin (Lovenox) - [**2101-3-29**] 08:43 AM\n   Other medications:\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Constitutional: Fatigue\n   Nutritional Support: NPO\n   Genitourinary: Foley\n   Heme / Lymph: Anemia\n   Pain: [**2-5**] Minimal\n   Flowsheet Data as of  [**2101-3-29**] 11:38 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since [**03**] AM\n   Tmax: 36.9\nC (98.4\n   Tcurrent: 36.6\nC (97.8\n   HR: 101 (84 - 111) bpm\n   BP: 146/74(92) {126/54(75) - 173/84(104)} mmHg\n   RR: 21 (13 - 21) insp/min\n   SpO2: 97%\n   Heart rhythm: ST (Sinus Tachycardia)\n             Total In:\n                                                                    150 mL\n                                                                  1,013 mL\n   PO:\n             TF:\n   IVF:\n                                                                    150 mL\n                                                                  1,013 mL\n   Blood products:\n   Total out:\n                                                                     45 mL\n                                                                  1,250 mL\n   Urine:\n                                                                     45 mL\n                                                                  1,150 mL\n   NG:\n   Stool:\n   Drains:\n   100 mL\n   Balance:\n                                                                    105 mL\n                                                                   -237 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 97%\n   ABG: ///27/\n   Physical Examination\n   General Appearance: Overweight / Obese\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Normocephalic\n   Lymphatic: Cervical WNL, Supraclavicular WNL\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, No(t) Bowel sounds present, Distended\n   Extremities: TEDS in place\n   Musculoskeletal: Unable to stand\n   Skin:  Not assessed\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Movement: Not assessed, Tone: Not assessed\n   Labs / Radiology\n   11.8 g/dL\n   207 K/uL\n   120 mg/dL\n   0.7 mg/dL\n   27 mEq/L\n   4.3 mEq/L\n   14 mg/dL\n   102 mEq/L\n   137 mEq/L\n   34.3 %\n   14.1 K/uL\n        [image002.jpg]\n                             [**2101-3-29**]  03:54 AM\n   WBC\n   14.1\n   Hct\n   34.3\n   Plt\n   207\n   Cr\n   0.7\n   Glucose\n   120\n   Other labs: Ca++:8.0 mg/dL, Mg++:1.6 mg/dL, PO4:3.9 mg/dL\n   Assessment and Plan\n RIGHT TKR:  Pain meds changed to oxycodone and tylenol.  On\n   lovenox.   Cefazolin as per ortho service.\n HYPOXEMIA:  Improving now that she is less somnolent.  CXR seems\n   slightly congested, good urine output, restarted HCTZ this morning.\n   Monitor I/Os.\n APNEAS:  Improved with minimizing narcotics. Was able to tolerate\n   autoset in the ICU, now weaned FiO2 to 2L nasal cannula this morning.\n   Patient needs a sleep evaluation as an outpatient given likely OSA.\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2101-3-28**] 10:49 PM\n   Prophylaxis:\n   DVT: LMW Heparin\n   Stress ulcer:\n   VAP:\n   Need for restraints reviewed\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition :Transfer to floor\n   Total time spent: 25 minutes\n"
+    },
+    {
+      "note_id": 725039,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 135,
+          "end": 142,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "obesity"
+        },
+        {
+          "begin": 2537,
+          "end": 2551,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 7527,
+          "end": 7539,
+          "code": "401.1",
+          "code_system": "ICD-9-CM",
+          "description": "Benign essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        }
+      ],
+      "text": "Chief Complaint:\n   Chief Complaint: elective admission for TKR\n   Reason for MICU admission: apnea and desats\n   HPI:\n   51F with DM, obesity, osteoarthritis, POD#0 from R TKR, now admit to\n   [**Hospital Unit Name 4**] from floor with desaturations and periods of apnea.  She had\n   planned procedure today, uncomplicated.  To PACU at 12pm.  Between\n   intraop and PACU course she received 5 L IVFs.  Placed on morphine PCA\n   (13.5 mg total) and also had local nerve blocks at times.  In PACU\n   requiring 6L NC to keep sats in mid 90s.  Later placed on CPAP as\n   well.  Noted to be apneic with sleeping with desats into 80s.  She left\n   the PACU at about 8 pm on [**Hospital Unit Name **].  Again noted to be apneic at times\n   with sats in upper 80s even on [**Hospital Unit Name **].  Generally did not like the\n   [**Hospital Unit Name **] and kept removing.  Unclear how much medications were playing a\n   role and how much obstructive/sleep disordered breathing factored.\n   Transferred to [**Hospital Unit Name 4**] for further monitoring and management.\n   .\n   In the [**Hospital Unit Name 4**], patient denies chest pain, shortness of breath, abdominal\n   pain.  Complains of R knee pain and dry mouth.  Asking to take off\n   bipap and have something to drink.  Denies respiratory symptoms at home\n   other than recent nonproductive cough.  States she cannot sleep flat\n   but is unable to specify why (breathing or other reason).  Denies\n   nighttime awakenings/choking, snoring.  Endorses intermittent leg\n   edema.\n   Patient admitted from: [**Hospital1 5**] [**Hospital1 **]\n   History obtained from [**Hospital 19**] Medical records\n   Allergies:\n   Zomig (Oral) (Zolmitriptan)\n   Headache; low b\n   Last dose of Antibiotics:\n   Cefazolin - [**2101-3-28**] 11:00 PM\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Medications at home:\n   Diovan 160 mg daily -?taking\n   HCTZ 12.5 mg daily -?taking\n   Simvastatin 20 mg daily -?taking\n   calcium/vitamin D\n   Ibuprofen prn\n   .\n   Medications upon transfer:\n   morphine PCA - off\n   cefazolin 2 mg Q8H\n   tylenol 650 mg Q6H\n   Naproxen 500 mg [**Hospital1 **]\n   enoxaparin 40 mg daily\n   famotidine 20 mg [**Hospital1 **]\n   colace 100 mg [**Hospital1 **]\n   simvastatin 20 mg daily\n   HCTZ 12.5 mg daily\n   valsartan 160 mg daily\n   vitamin D 400 mg daily\n   calcium carbonate 500 mg TID\n   multivitamin daily\n   albuterol nebs Q4H\n   Past medical history:\n   Family history:\n   Social History:\n   - Diabetes, diet controlled\n   - Hypertension\n   - Hyperlipidemia\n   - Asthma\n   - Osteoarthritis\n   - s/p arthroscopy of right knee [**2100-3-18**]\n   - s/p hysterectomy\n   - s/p rotator cuff repair\n   - s/p carpal tunnel surgery\n   Parents with CAD.\n   Smokes 5 cigarettes per day (though later endorses one pack daily);\n   notes with ?5PPD)  No EtOH or drug use.  Lives alone.\n   Review of systems:\n   (+) Per HPI.  Also with recent cough x days.  No sick contacts.\n   (-) Denies fever, chills, headache, sinus tenderness, shortness of\n   breath. Denied chest pain or tightness, palpitations. Denied nausea,\n   vomiting, diarrhea, constipation or abdominal pain. No recent change in\n   bowel or bladder habits. No dysuria.\n   Flowsheet Data as of [**2101-3-29**] 01:27 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since [**03**] AM\n   Tmax: 36.7\nC (98\n   Tcurrent: 36.7\nC (98\n   HR: 109 (84 - 109) bpm\n   BP: 145/75(93) {126/68(83) - 148/83(104)} mmHg\n   RR: 20 (13 - 21) insp/min\n   SpO2: 96%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                    150 mL\n                                                                    116 mL\n   PO:\n             TF:\n   IVF:\n                                                                    150 mL\n                                                                    116 mL\n   Blood products:\n   Total out:\n                                                                     45 mL\n                                                                     50 mL\n   Urine:\n                                                                     45 mL\n                                                                     50 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    105 mL\n                                                                     66 mL\n   Respiratory\n   SpO2: 96%\n   Physical Examination\n   General: Alert, oriented, no distress, breathing comfortably.\n   HEENT: Sclera anicteric, PERRL 3->2, MMM.\n   Neck: supple, JVD elevation difficult to assess given obesity.\n   Lungs: Clear to auscultation bilaterally, with rare posterior wheeze,\n   prolonged expiratory phase.\n   CV: Regular rate and rhythm, normal S1 + S2, distant overall.\n   Abdomen:  slightly firm, non-tender, mildly distended, bowel sounds\n   present, no rebound tenderness or guarding, no organomegaly\n   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema.\n   Brace over R TKR.\n   Neuro: Grossly intact.\n   Labs / Radiology\n        [image002.jpg]\n                                     pH\n                                    7.32\n                                    pCO2\n                                     56\n                                     pO2\n                                     257\n                                    HCO3\n                                     30\n                                   BaseXS\n                                      1\n   Type:Art\n   Micro: none\n   .\n   Images:\n   CXR: borderline cardiomegaly, no obvious infiltrates or edema.\n   .\n   EKG: sinus tach at 112, NANI, no ischemic ST/T changes.\n   Assessment and Plan\n   51F with osteoarthritis, diabetes, hypertension, obesity, presenting\n   with periodic apneas and desaturations.\n   .\n   # Apnea/hypoxemia.  Apnea likely combination of central/high narcotic\n   use with morphine PCA from PACU plus likely sleep disordered\n   breathing.  Still having some apneic event while on [**Last Name (LF) **], [**First Name3 (LF) **]\n   probably not entirely obstructive in etiology.  Patient still complains\n   of leg pain so given narcan not desirable though will keep in mind.\n   Hypoxia seems to be related to apneas, though will also consider other\n   etiologies, in particular volume overload given intraop IVFs, and\n   COPD/bronchospasm.  PE unlikely without chest pain.  Severity of desats\n   difficult to measure - low 90s on sat monitoring but had ABG with paO2\n   >200.\n   - Monitor sats/respiratory efforts; may need stimulation overnight to\n   overcome effects of narcotics at first.  Trying to avoid narcan\n   administration.\n   - Will continue on [**First Name3 (LF) **] as tolerated to eliminate obstructive\n   component.\n   - Consider diuresis given likely some effect of pulmonary edema in\n   hypoxia.\n   - Care with naproxen given volume status, consider dc if end up needing\n   to diurese.\n   - Consider carboxyhemoglobin/methemoglobin given discrepancies between\n   sats and paO2.\n   - Trial of nebs when off CPAP.\n   - Needs sleep followup as outpatient and/or inpatient.\n   .\n   # s/p TKR.\n   - Lovenox for prophylaxis.\n   - Cephalosporins as written post op.\n   - hold PCA for now, can try PO oxycodone if needed but want patient to\n   wake up more before giving.\n   .\n   # Diabetes.\n   - Insulin sliding scale.\n   .\n   # Hypertension.\n   - continue home valsartan, HCTZ.\n   .\n   FEN: No IVF, replete electrolytes, sips and advance as tolerated\n   Prophylaxis: lovenox, H2B\n   Access: peripherals\n   Code:  Full\n   Communication: Patient\n   Disposition: pending clinical improvement\n   ICU Care\n   Nutrition: sips, advance as tolerate\n   Glycemic Control: insulin sliding scale\n   Lines:\n   20 Gauge - [**2101-3-28**] 10:49 PM\n   Prophylaxis:\n   DVT: lovenox\n   Stress ulcer: H2B\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: full\n   Disposition: ICU for tonight\n"
+    }
+  ]
+}

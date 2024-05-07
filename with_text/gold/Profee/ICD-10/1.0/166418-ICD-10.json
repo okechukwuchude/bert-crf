@@ -1,0 +1,1145 @@
+{
+  "hadm_id": 166418,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 528328,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 28,
+          "end": 49,
+          "code": "R41.82",
+          "code_system": "ICD-10-CM",
+          "description": "Altered mental status, unspecified",
+          "type": "Human",
+          "covered_text": "Altered Mental Status"
+        },
+        {
+          "begin": 160,
+          "end": 162,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 176,
+          "end": 196,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's dementia"
+        },
+        {
+          "begin": 214,
+          "end": 227,
+          "code": "F20.9",
+          "code_system": "ICD-10-CM",
+          "description": "Schizophrenia, unspecified",
+          "type": "Human",
+          "covered_text": "schizophrenia"
+        },
+        {
+          "begin": 331,
+          "end": 340,
+          "code": "R40.0",
+          "code_system": "ICD-10-CM",
+          "description": "Somnolence",
+          "type": "Human",
+          "covered_text": "somnolent"
+        },
+        {
+          "begin": 345,
+          "end": 363,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "febrile to 101.8 F"
+        },
+        {
+          "begin": 472,
+          "end": 495,
+          "code": "R82.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified abnormal findings in urine",
+          "type": "Human",
+          "covered_text": "Urinalysis was positive"
+        },
+        {
+          "begin": 565,
+          "end": 576,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 654,
+          "end": 657,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 903,
+          "end": 906,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 1901,
+          "end": 1904,
+          "code": "I63.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cerebral infarction, unspecified",
+          "type": "Human",
+          "covered_text": "CVA"
+        },
+        {
+          "begin": 1942,
+          "end": 1945,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM2"
+        },
+        {
+          "begin": 1949,
+          "end": 1968,
+          "code": "N28.9",
+          "code_system": "ICD-10-CM",
+          "description": "Disorder of kidney and ureter, unspecified",
+          "type": "Human",
+          "covered_text": "Renal insufficiency"
+        },
+        {
+          "begin": 1972,
+          "end": 1985,
+          "code": "E83.52",
+          "code_system": "ICD-10-CM",
+          "description": "Hypercalcemia",
+          "type": "Human",
+          "covered_text": "Hypercalcemia"
+        },
+        {
+          "begin": 1989,
+          "end": 1992,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1996,
+          "end": 2000,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 2004,
+          "end": 2018,
+          "code": "M19.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified osteoarthritis, unspecified site",
+          "type": "Human",
+          "covered_text": "Osteoarthritis"
+        },
+        {
+          "begin": 2022,
+          "end": 2028,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 2032,
+          "end": 2050,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Severe Alzheimer's"
+        },
+        {
+          "begin": 2054,
+          "end": 2067,
+          "code": "F20.9",
+          "code_system": "ICD-10-CM",
+          "description": "Schizophrenia, unspecified",
+          "type": "Human",
+          "covered_text": "Schizophrenia"
+        },
+        {
+          "begin": 2071,
+          "end": 2075,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTIs"
+        },
+        {
+          "begin": 2800,
+          "end": 2811,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Tachycardia"
+        },
+        {
+          "begin": 3778,
+          "end": 3783,
+          "code": "E66.9",
+          "code_system": "ICD-10-CM",
+          "description": "Obesity, unspecified",
+          "type": "Human",
+          "covered_text": "obese"
+        },
+        {
+          "begin": 4243,
+          "end": 4246,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM2"
+        },
+        {
+          "begin": 4257,
+          "end": 4277,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's dementia"
+        },
+        {
+          "begin": 4298,
+          "end": 4311,
+          "code": "F20.9",
+          "code_system": "ICD-10-CM",
+          "description": "Schizophrenia, unspecified",
+          "type": "Human",
+          "covered_text": "schizophrenia"
+        },
+        {
+          "begin": 4355,
+          "end": 4365,
+          "code": "R40.0",
+          "code_system": "ICD-10-CM",
+          "description": "Somnolence",
+          "type": "Human",
+          "covered_text": "somnolence"
+        },
+        {
+          "begin": 4367,
+          "end": 4372,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 4374,
+          "end": 4385,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 4390,
+          "end": 4401,
+          "code": "R82.998",
+          "code_system": "ICD-10-CM",
+          "description": "Other abnormal findings in urine",
+          "type": "Human",
+          "covered_text": "positive UA"
+        },
+        {
+          "begin": 4413,
+          "end": 4422,
+          "code": "A41.9",
+          "code_system": "ICD-10-CM",
+          "description": "Sepsis, unspecified organism",
+          "type": "Human",
+          "covered_text": "Urosepsis"
+        },
+        {
+          "begin": 4446,
+          "end": 4457,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 4459,
+          "end": 4471,
+          "code": "D72.829",
+          "code_system": "ICD-10-CM",
+          "description": "Elevated white blood cell count, unspecified",
+          "type": "Human",
+          "covered_text": "leukocytosis"
+        },
+        {
+          "begin": 4473,
+          "end": 4497,
+          "code": "R41.82",
+          "code_system": "ICD-10-CM",
+          "description": "Altered mental status, unspecified",
+          "type": "Human",
+          "covered_text": "altered\n   mental status"
+        },
+        {
+          "begin": 4502,
+          "end": 4505,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "ARF"
+        },
+        {
+          "begin": 4533,
+          "end": 4536,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 4568,
+          "end": 4579,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Tachycardia"
+        },
+        {
+          "begin": 4703,
+          "end": 4714,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 4911,
+          "end": 4930,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute renal failure"
+        },
+        {
+          "begin": 5232,
+          "end": 5235,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 5381,
+          "end": 5383,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 5504,
+          "end": 5517,
+          "code": "E87.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperosmolality and hypernatremia",
+          "type": "Human",
+          "covered_text": "Hypernatremia"
+        },
+        {
+          "begin": 6524,
+          "end": 6541,
+          "code": "R22.43",
+          "code_system": "ICD-10-CM",
+          "description": "Localized swelling, mass and lump, lower limb, bilateral",
+          "type": "Human",
+          "covered_text": "edema in right LE"
+        },
+        {
+          "begin": 6572,
+          "end": 6584,
+          "code": "R23.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other skin changes",
+          "type": "Human",
+          "covered_text": "skin changes"
+        },
+        {
+          "begin": 6636,
+          "end": 6648,
+          "code": "R97.0",
+          "code_system": "ICD-10-CM",
+          "description": "Elevated carcinoembryonic antigen [CEA]",
+          "type": "Human",
+          "covered_text": "Elevated Hct"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:  Altered Mental Status/ Fever\n   HPI:\n   Ms. [**Known firstname **] [**Known lastname 6509**] is a 75 year old woman with history of DM, advanced\n   Alzheimer's dementia (nonverbal), and schizophrenia.  She presents to\n   the Emergency Department today from her nursing home after she was\n   found to be somnolent and febrile to 101.8 F.\n   .\n   In the ED, initial vs were: T 100 P 120 BP 111/86 R 16 O2 sat 99% 2L.\n   Chest x-ray was negative. Urinalysis was positive. Patient was given 4\n   L IV NS and acetaminophen for her persistent tachycardia.  She was\n   started on empiric cefepime 2 g IV and vancomycin 1g IV for her UTI.\n   .\n   On the floor, patient is unresponsive to verbal stimuli. Per son, she\n   does not have a indwelling catheter at baseline.  He does report\n   similar presentation to [**Hospital1 19**] last month during which she was diagnosed\n   with a UTI.\n   Patient admitted from: [**Hospital1 19**] ER\n   History obtained from Family / [**Hospital 75**] Medical records\n   Patient unable to provide history: Unresponsive\n   Allergies:\n   Penicillins\n   Unknown;\n   Depakote (Oral) (Divalproex Sodium)\n   Unknown;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   1. Insulin Lispro 100 unit/mL Solution [**Hospital **]: per sliding scale\n   Subcutaneous three times a day.\n   2. Miconazole Nitrate 2 % Powder [**Hospital **]: One (1) Appl Topical TID\n   (3 times a day): apply to below breasts.\n   3. Metoprolol Tartrate 25 mg Tablet [**Hospital **]: 0.25 Tablet PO TID (3\n   times a day).\n   4 Multivitamins Tablet, Chewable [**Hospital **]: One (1) Tablet,\n   Chewable PO once a day.\n   5 Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)\n   Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] once a day.\n   Past medical history:\n   Family history:\n   Social History:\n   CVA with left sided residual deficits\n   DM2\n   Renal insufficiency\n   Hypercalcemia\n   HTN\n   GERD\n   Osteoarthritis\n   Anemia\n   Severe Alzheimer's\n   Schizophrenia\n   UTIs\n   Noncontributory\n   Occupation: unemployed\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other: Lives in nursing home x 5 years. Son in area, health care\n   proxy.   Requires assistance for all ADLs.  Bed bound.\n   Review of systems:  Unable to assess given mental status\n   Flowsheet Data as of [**2161-3-10**] 03:04 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since [**62**] AM\n   Tmax: 38.5\nC (101.3\n   Tcurrent: 38.5\nC (101.3\n   HR: 118 (106 - 135) bpm\n   BP: 122/61(73) {122/61(73) - 149/62(83)} mmHg\n   RR: 16 (16 - 34) insp/min\n   SpO2: 100%\n   Heart rhythm: ST (Sinus Tachycardia)\n             Total In:\n             210 mL\n   PO:\n             TF:\n   IVF:\n   210 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    120 mL\n   Urine:\n   20 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                     90 mL\n   Respiratory\n   SpO2: 100%\n   Physical Examination\n   Vitals: T: 101.3 BP: 149/62P: 135 R:19 O2: 100% 2L NC\n   General: no acute distress, asleep, responds only to painful stimuli,\n   decorticate posture\n   HEENT: Sclera anicteric, MMM, oropharynx clear\n   Neck: supple, JVP elevated to angle of jaw no LAD\n   Lungs: Good air movement, crackles at bilateral bases, no wheezes,\n   rales, ronchi\n   CV: tachycardic, normal rhythm, normal S1 + S2, no murmurs, rubs,\n   gallops\n   Abdomen: obese, soft, non-tender, non-distended, bowel sounds present,\n   no rebound tenderness or guarding,\n   GU: foley in place\n   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema\n   .\n   Labs / Radiology\n   [**2161-3-9**] Blood cx: pending\n   .\n   [**2161-3-9**] Urine cx: pending\n   .\n   Images:\n   .\n   [**2161-3-9**] CXR: (prelim) No acute cardiopulmonary process.\n        [image002.jpg]\n   Assessment and Plan\n   75 year old woman with history of DM2, advanced Alzheimer's dementia\n   (nonverbal), and schizophrenia who presents from her nursing home with\n   somnolence, fever, tachycardia and positive UA.\n   .\n   # Urosepsis: Patient presents with tachycardia, leukocytosis, altered\n   mental status and ARF in the setting of positive UTI and history of\n   urosepsis.   Tachycardia responded well to 4 L IVF in the Emergency\n   Department.\n   - trend WBC and temps\n   - continue IVF boluses as needed for tachycardia\n   - continue empiric antibiotics\n   - follow up blood and urine cultures\n   - trend lactate\n   - remove foley when hemodynamically stable\n   - dose vanco per level given renal function\n   .\n   # Acute renal failure: Creatinine 2.7 on presentation (baseline 0.7).\n   Likely secondary to dehydration and poor perfusion in the setting of\n   sepsis.\n   - continue IVF and trend creatinine\n   - consider urine lytes if no improvement in am\n   - monitor UOP\n   - renally dose medications\n   - avoid nephrotoxins\n   .\n   # HTN: Blood pressure currently controlled.  Will hold home\n   antihypertensives (metoprolol) until patient proves hemodynamic\n   stability.\n   .\n   # DM: Continue to monitor fsbs qid.  Start sliding scale humalog.\n   - goal fsbs < 200 for optimal immune function\n   .\n   # Hypernatremia: Likely due to dehydration.  Will continue to trend.\n   .\n   # Goals of Care: [**Name (NI) **] son is health care proxy and appears to be\n   under a great deal of stress regarding his role in his mother's care.\n   Patient has been seen in past by Palliative Care team.\n   - consult Palliative Care\n   .\n   # FEN: IVF, replete electrolytes, npo given patient's mental status\n   # Prophylaxis: Subcutaneous heparin\n   # Access: peripherals x 2\n   # Communication: Son\n   # Code: DNR/DNI/NO lines\n   # Disposition: ICU until am\n   ------ Protected Section ------\n   MICU ATTENDING ADDENDUM\n   I saw and examined the patient, and was physically present with the ICU\n   team for the key portions of the services provided. I agree with the\n   note above, including the assessment and plan. I would emphasize and\n   add the following points:\n   She has received 5 L NS so far and SBP( 150\ns) and HR( 120\ns) have\n   improved. She still has poor skin turgor but is febrile ( >101) and has\n   features of asymmetric edema in right LE. She is nonverbal. Chronic\n   skin changes noted and I cannot appreciate flank tenderness.\n   Elevated Hct, BUN/Creatinine, lactate and Sodium all concerning for\n   profound hypovolemia. She is on Vanco/ Cefepime at this time.\n   Agree with plan to rescucitate with IVF\ns ( switch to D51/2NS pending\n   repeat labs) and await cultures. She will need RLE exam to r/o DVT. Her\n   son [**Name (NI) **] has been updated and is having a tough time with his mother\n   health/ care and decision not to re-hospitalize in the context of her\n   overall health decline. Palliative care consult will be useful again.\n   Remainder of plan as outlined above.\n   Patient is critically ill\n   Total time: 50 min\n   _________\n   [**First Name8 (NamePattern2) 3093**] [**Name8 (MD) **],  MD\n   Division of Pulmonary, Critical Care and Sleep Medicine\n   [**Hospital1 5791**]\n   [**Location (un) 5176**], KS-B23\n   [**Location (un) 23**], [**Numeric Identifier 960**]\n   ------ Protected Section Addendum Entered By:[**Name (NI) 3093**] [**Name8 (MD) **], MD\n   on:[**2161-3-10**] 04:05 ------\n"
+    },
+    {
+      "note_id": 528319,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 28,
+          "end": 49,
+          "code": "R41.82",
+          "code_system": "ICD-10-CM",
+          "description": "Altered mental status, unspecified",
+          "type": "Human",
+          "covered_text": "Altered Mental Status"
+        },
+        {
+          "begin": 160,
+          "end": 162,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 176,
+          "end": 196,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's dementia"
+        },
+        {
+          "begin": 214,
+          "end": 227,
+          "code": "F20.9",
+          "code_system": "ICD-10-CM",
+          "description": "Schizophrenia, unspecified",
+          "type": "Human",
+          "covered_text": "schizophrenia"
+        },
+        {
+          "begin": 331,
+          "end": 340,
+          "code": "R40.0",
+          "code_system": "ICD-10-CM",
+          "description": "Somnolence",
+          "type": "Human",
+          "covered_text": "somnolent"
+        },
+        {
+          "begin": 345,
+          "end": 363,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "febrile to 101.8 F"
+        },
+        {
+          "begin": 472,
+          "end": 495,
+          "code": "R82.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified abnormal findings in urine",
+          "type": "Human",
+          "covered_text": "Urinalysis was positive"
+        },
+        {
+          "begin": 565,
+          "end": 576,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 654,
+          "end": 657,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 1901,
+          "end": 1904,
+          "code": "I63.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cerebral infarction, unspecified",
+          "type": "Human",
+          "covered_text": "CVA"
+        },
+        {
+          "begin": 1942,
+          "end": 1945,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM2"
+        },
+        {
+          "begin": 1949,
+          "end": 1968,
+          "code": "N28.9",
+          "code_system": "ICD-10-CM",
+          "description": "Disorder of kidney and ureter, unspecified",
+          "type": "Human",
+          "covered_text": "Renal insufficiency"
+        },
+        {
+          "begin": 1972,
+          "end": 1985,
+          "code": "E83.52",
+          "code_system": "ICD-10-CM",
+          "description": "Hypercalcemia",
+          "type": "Human",
+          "covered_text": "Hypercalcemia"
+        },
+        {
+          "begin": 1989,
+          "end": 1992,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1996,
+          "end": 2000,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 2004,
+          "end": 2018,
+          "code": "M19.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified osteoarthritis, unspecified site",
+          "type": "Human",
+          "covered_text": "Osteoarthritis"
+        },
+        {
+          "begin": 2022,
+          "end": 2028,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 2032,
+          "end": 2050,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Severe Alzheimer's"
+        },
+        {
+          "begin": 2054,
+          "end": 2067,
+          "code": "F20.9",
+          "code_system": "ICD-10-CM",
+          "description": "Schizophrenia, unspecified",
+          "type": "Human",
+          "covered_text": "Schizophrenia"
+        },
+        {
+          "begin": 2071,
+          "end": 2075,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTIs"
+        },
+        {
+          "begin": 2794,
+          "end": 2811,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Sinus Tachycardia"
+        },
+        {
+          "begin": 3778,
+          "end": 3783,
+          "code": "E66.9",
+          "code_system": "ICD-10-CM",
+          "description": "Obesity, unspecified",
+          "type": "Human",
+          "covered_text": "obese"
+        },
+        {
+          "begin": 4243,
+          "end": 4246,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM2"
+        },
+        {
+          "begin": 4257,
+          "end": 4277,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's dementia"
+        },
+        {
+          "begin": 4298,
+          "end": 4311,
+          "code": "F20.9",
+          "code_system": "ICD-10-CM",
+          "description": "Schizophrenia, unspecified",
+          "type": "Human",
+          "covered_text": "schizophrenia"
+        },
+        {
+          "begin": 4355,
+          "end": 4365,
+          "code": "R40.0",
+          "code_system": "ICD-10-CM",
+          "description": "Somnolence",
+          "type": "Human",
+          "covered_text": "somnolence"
+        },
+        {
+          "begin": 4367,
+          "end": 4372,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 4374,
+          "end": 4385,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 4390,
+          "end": 4401,
+          "code": "R82.998",
+          "code_system": "ICD-10-CM",
+          "description": "Other abnormal findings in urine",
+          "type": "Human",
+          "covered_text": "positive UA"
+        },
+        {
+          "begin": 4413,
+          "end": 4422,
+          "code": "A41.9",
+          "code_system": "ICD-10-CM",
+          "description": "Sepsis, unspecified organism",
+          "type": "Human",
+          "covered_text": "Urosepsis"
+        },
+        {
+          "begin": 4446,
+          "end": 4457,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 4473,
+          "end": 4497,
+          "code": "R41.82",
+          "code_system": "ICD-10-CM",
+          "description": "Altered mental status, unspecified",
+          "type": "Human",
+          "covered_text": "altered\n   mental status"
+        },
+        {
+          "begin": 4502,
+          "end": 4505,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "ARF"
+        },
+        {
+          "begin": 4533,
+          "end": 4536,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 4568,
+          "end": 4579,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Tachycardia"
+        },
+        {
+          "begin": 5232,
+          "end": 5235,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 5381,
+          "end": 5383,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 5504,
+          "end": 5517,
+          "code": "E87.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperosmolality and hypernatremia",
+          "type": "Human",
+          "covered_text": "Hypernatremia"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:  Altered Mental Status/ Fever\n   HPI:\n   Ms. [**Known firstname **] [**Known lastname 6509**] is a 75 year old woman with history of DM, advanced\n   Alzheimer's dementia (nonverbal), and schizophrenia.  She presents to\n   the Emergency Department today from her nursing home after she was\n   found to be somnolent and febrile to 101.8 F.\n   .\n   In the ED, initial vs were: T 100 P 120 BP 111/86 R 16 O2 sat 99% 2L.\n   Chest x-ray was negative. Urinalysis was positive. Patient was given 4\n   L IV NS and acetaminophen for her persistent tachycardia.  She was\n   started on empiric cefepime 2 g IV and vancomycin 1g IV for her UTI.\n   .\n   On the floor, patient is unresponsive to verbal stimuli. Per son, she\n   does not have a indwelling catheter at baseline.  He does report\n   similar presentation to [**Hospital1 19**] last month during which she was diagnosed\n   with a UTI.\n   Patient admitted from: [**Hospital1 19**] ER\n   History obtained from Family / [**Hospital 75**] Medical records\n   Patient unable to provide history: Unresponsive\n   Allergies:\n   Penicillins\n   Unknown;\n   Depakote (Oral) (Divalproex Sodium)\n   Unknown;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   1. Insulin Lispro 100 unit/mL Solution [**Hospital **]: per sliding scale\n   Subcutaneous three times a day.\n   2. Miconazole Nitrate 2 % Powder [**Hospital **]: One (1) Appl Topical TID\n   (3 times a day): apply to below breasts.\n   3. Metoprolol Tartrate 25 mg Tablet [**Hospital **]: 0.25 Tablet PO TID (3\n   times a day).\n   4 Multivitamins Tablet, Chewable [**Hospital **]: One (1) Tablet,\n   Chewable PO once a day.\n   5 Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)\n   Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] once a day.\n   Past medical history:\n   Family history:\n   Social History:\n   CVA with left sided residual deficits\n   DM2\n   Renal insufficiency\n   Hypercalcemia\n   HTN\n   GERD\n   Osteoarthritis\n   Anemia\n   Severe Alzheimer's\n   Schizophrenia\n   UTIs\n   Noncontributory\n   Occupation: unemployed\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other: Lives in nursing home x 5 years. Son in area, health care\n   proxy.   Requires assistance for all ADLs.  Bed bound.\n   Review of systems:  Unable to assess given mental status\n   Flowsheet Data as of [**2161-3-10**] 03:04 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since [**62**] AM\n   Tmax: 38.5\nC (101.3\n   Tcurrent: 38.5\nC (101.3\n   HR: 118 (106 - 135) bpm\n   BP: 122/61(73) {122/61(73) - 149/62(83)} mmHg\n   RR: 16 (16 - 34) insp/min\n   SpO2: 100%\n   Heart rhythm: ST (Sinus Tachycardia)\n             Total In:\n             210 mL\n   PO:\n             TF:\n   IVF:\n   210 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    120 mL\n   Urine:\n   20 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                     90 mL\n   Respiratory\n   SpO2: 100%\n   Physical Examination\n   Vitals: T: 101.3 BP: 149/62P: 135 R:19 O2: 100% 2L NC\n   General: no acute distress, asleep, responds only to painful stimuli,\n   decorticate posture\n   HEENT: Sclera anicteric, MMM, oropharynx clear\n   Neck: supple, JVP elevated to angle of jaw no LAD\n   Lungs: Good air movement, crackles at bilateral bases, no wheezes,\n   rales, ronchi\n   CV: tachycardic, normal rhythm, normal S1 + S2, no murmurs, rubs,\n   gallops\n   Abdomen: obese, soft, non-tender, non-distended, bowel sounds present,\n   no rebound tenderness or guarding,\n   GU: foley in place\n   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema\n   .\n   Labs / Radiology\n   [**2161-3-9**] Blood cx: pending\n   .\n   [**2161-3-9**] Urine cx: pending\n   .\n   Images:\n   .\n   [**2161-3-9**] CXR: (prelim) No acute cardiopulmonary process.\n        [image002.jpg]\n   Assessment and Plan\n   75 year old woman with history of DM2, advanced Alzheimer's dementia\n   (nonverbal), and schizophrenia who presents from her nursing home with\n   somnolence, fever, tachycardia and positive UA.\n   .\n   # Urosepsis: Patient presents with tachycardia, leukocytosis, altered\n   mental status and ARF in the setting of positive UTI and history of\n   urosepsis.   Tachycardia responded well to 4 L IVF in the Emergency\n   Department.\n   - trend WBC and temps\n   - continue IVF boluses as needed for tachycardia\n   - continue empiric antibiotics\n   - follow up blood and urine cultures\n   - trend lactate\n   - remove foley when hemodynamically stable\n   - dose vanco per level given renal function\n   .\n   # Acute renal failure: Creatinine 2.7 on presentation (baseline 0.7).\n   Likely secondary to dehydration and poor perfusion in the setting of\n   sepsis.\n   - continue IVF and trend creatinine\n   - consider urine lytes if no improvement in am\n   - monitor UOP\n   - renally dose medications\n   - avoid nephrotoxins\n   .\n   # HTN: Blood pressure currently controlled.  Will hold home\n   antihypertensives (metoprolol) until patient proves hemodynamic\n   stability.\n   .\n   # DM: Continue to monitor fsbs qid.  Start sliding scale humalog.\n   - goal fsbs < 200 for optimal immune function\n   .\n   # Hypernatremia: Likely due to dehydration.  Will continue to trend.\n   .\n   # Goals of Care: [**Name (NI) **] son is health care proxy and appears to be\n   under a great deal of stress regarding his role in his mother's care.\n   Patient has been seen in past by Palliative Care team.\n   - consult Palliative Care\n   .\n   # FEN: IVF, replete electrolytes, npo given patient's mental status\n   # Prophylaxis: Subcutaneous heparin\n   # Access: peripherals x 2\n   # Communication: Son\n   # Code: DNR/DNI/NO lines\n   # Disposition: ICU until am\n"
+    },
+    {
+      "note_id": 528465,
+      "category": "General",
+      "description": "Generic Note",
+      "annotations": [
+        {
+          "begin": 86,
+          "end": 94,
+          "code": "F03.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified dementia without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 562,
+          "end": 571,
+          "code": "A41.9",
+          "code_system": "ICD-10-CM",
+          "description": "Sepsis, unspecified organism",
+          "type": "Human",
+          "covered_text": "Urosepsis"
+        },
+        {
+          "begin": 655,
+          "end": 699,
+          "code": "N28.9",
+          "code_system": "ICD-10-CM",
+          "description": "Disorder of kidney and ureter, unspecified",
+          "type": "Human",
+          "covered_text": "Acute renal failure secondary to dehydration"
+        },
+        {
+          "begin": 706,
+          "end": 719,
+          "code": "E87.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperosmolality and hypernatremia",
+          "type": "Human",
+          "covered_text": "Hypernatremia"
+        },
+        {
+          "begin": 726,
+          "end": 734,
+          "code": "F03.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified dementia without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "Dementia"
+        }
+      ],
+      "text": "TITLE:\n   I have seen and examined the patient with the resident.  The patient\n   has dementia and is unable to provide any further history.\n   Overnight, she had a drop in hematocrit but otherwise no new problems.\n   Tm 100.4 P 82 BP 131/72  RR 14  Saturation: 98%\n   Gen: Awake, dementia (baseline)\n   HEENT: slightly dry mucous memranes\n   Chest: CTA bilaterally\n   Heart: S1 S2 reg\n   Abd: Soft, NT ND\n   Ext: no edema\n   Labs reviewed in metavision and most notable for hypernatremia (151),\n   renal insufficiency (Cr 2.0), glucose 340\n   Assessment:\n   1) Urosepsis\n improved and now perfusing with normal blood pressure,\n   good urine output\n   2) Acute renal failure secondary to dehydration\n   3) Hypernatremia\n   4) Dementia\n   5) DNR/DNI\n   Plan:\n   1) Continue antibiotics\n   2) Change from normal saline to half-normal or LR given hypernatremia\n   3) Follow urine output/creatinine\n   4) Transfer to the floor\n   Time Spent: 30 minutes\n"
+    },
+    {
+      "note_id": 51612,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 242,
+          "end": 251,
+          "code": "A41.9",
+          "code_system": "ICD-10-CM",
+          "description": "Sepsis, unspecified organism",
+          "type": "Human",
+          "covered_text": "Urosepsis"
+        },
+        {
+          "begin": 422,
+          "end": 424,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 435,
+          "end": 455,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's dementia"
+        },
+        {
+          "begin": 473,
+          "end": 486,
+          "code": "F20.9",
+          "code_system": "ICD-10-CM",
+          "description": "Schizophrenia, unspecified",
+          "type": "Human",
+          "covered_text": "schizophrenia"
+        },
+        {
+          "begin": 583,
+          "end": 592,
+          "code": "R40.0",
+          "code_system": "ICD-10-CM",
+          "description": "Somnolence",
+          "type": "Human",
+          "covered_text": "somnolent"
+        },
+        {
+          "begin": 597,
+          "end": 615,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "febrile to 101.8 F"
+        },
+        {
+          "begin": 805,
+          "end": 816,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 1341,
+          "end": 1343,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 1354,
+          "end": 1374,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's dementia"
+        },
+        {
+          "begin": 1532,
+          "end": 1541,
+          "code": "R40.0",
+          "code_system": "ICD-10-CM",
+          "description": "Somnolence",
+          "type": "Human",
+          "covered_text": "somnolent"
+        },
+        {
+          "begin": 2204,
+          "end": 2216,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "hyponatremia"
+        },
+        {
+          "begin": 2413,
+          "end": 2416,
+          "code": "I63.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cerebral infarction, unspecified",
+          "type": "Human",
+          "covered_text": "CVA"
+        },
+        {
+          "begin": 2451,
+          "end": 2454,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM2"
+        },
+        {
+          "begin": 2455,
+          "end": 2474,
+          "code": "N28.9",
+          "code_system": "ICD-10-CM",
+          "description": "Disorder of kidney and ureter, unspecified",
+          "type": "Human",
+          "covered_text": "Renal insufficiency"
+        },
+        {
+          "begin": 2475,
+          "end": 2488,
+          "code": "E83.52",
+          "code_system": "ICD-10-CM",
+          "description": "Hypercalcemia",
+          "type": "Human",
+          "covered_text": "Hypercalcemia"
+        },
+        {
+          "begin": 2489,
+          "end": 2492,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 2493,
+          "end": 2497,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 2498,
+          "end": 2512,
+          "code": "M19.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified osteoarthritis, unspecified site",
+          "type": "Human",
+          "covered_text": "Osteoarthritis"
+        },
+        {
+          "begin": 2513,
+          "end": 2519,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 2520,
+          "end": 2538,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Severe Alzheimer's"
+        },
+        {
+          "begin": 2539,
+          "end": 2552,
+          "code": "F20.9",
+          "code_system": "ICD-10-CM",
+          "description": "Schizophrenia, unspecified",
+          "type": "Human",
+          "covered_text": "Schizophrenia"
+        },
+        {
+          "begin": 2553,
+          "end": 2557,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTIs"
+        },
+        {
+          "begin": 3867,
+          "end": 3889,
+          "code": "R06.5",
+          "code_system": "ICD-10-CM",
+          "description": "Mouth breathing",
+          "type": "Human",
+          "covered_text": "loudly mouth breathing"
+        },
+        {
+          "begin": 5446,
+          "end": 5449,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM2"
+        },
+        {
+          "begin": 7810,
+          "end": 7845,
+          "code": "R65.21",
+          "code_system": "ICD-10-CM",
+          "description": "Severe sepsis with septic shock",
+          "type": "Human",
+          "covered_text": "Sepsis from urinary tract infection"
+        },
+        {
+          "begin": 7846,
+          "end": 7849,
+          "code": "I63.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cerebral infarction, unspecified",
+          "type": "Human",
+          "covered_text": "CVA"
+        },
+        {
+          "begin": 7884,
+          "end": 7887,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM2"
+        },
+        {
+          "begin": 7888,
+          "end": 7907,
+          "code": "N28.9",
+          "code_system": "ICD-10-CM",
+          "description": "Disorder of kidney and ureter, unspecified",
+          "type": "Human",
+          "covered_text": "Renal insufficiency"
+        },
+        {
+          "begin": 7908,
+          "end": 7921,
+          "code": "E83.52",
+          "code_system": "ICD-10-CM",
+          "description": "Hypercalcemia",
+          "type": "Human",
+          "covered_text": "Hypercalcemia"
+        },
+        {
+          "begin": 7922,
+          "end": 7925,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 7926,
+          "end": 7930,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 7931,
+          "end": 7945,
+          "code": "M19.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified osteoarthritis, unspecified site",
+          "type": "Human",
+          "covered_text": "Osteoarthritis"
+        },
+        {
+          "begin": 7946,
+          "end": 7952,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 7953,
+          "end": 7971,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Severe Alzheimer's"
+        },
+        {
+          "begin": 7986,
+          "end": 7990,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTIs"
+        }
+      ],
+      "text": "Admission Date:  [**2161-3-9**]              Discharge Date:   [**2161-3-13**]\n\nDate of Birth:  [**2085-3-24**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPenicillins / Depakote\n\nAttending:[**First Name3 (LF) 898**]\nChief Complaint:\nUrosepsis\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\nMICU HPI\nMs. [**Known firstname **] [**Known lastname **] is a 75 year old woman with history of DM,\nadvanced Alzheimer's dementia (nonverbal), and schizophrenia.\nShe presents to the Emergency Department today from her nursing\nhome after she was found to be somnolent and febrile to 101.8 F.\n\n\nIn the ED, initial vs were: T 100 P 120 BP 111/86 R 16 O2 sat\n99% 2L. Chest x-ray was negative. Urinalysis was positive.\nPatient was given 4 L IV NS and acetaminophen for her persistent\ntachycardia.  She was started on empiric cefepime 2 g IV and\nvancomycin 1g IV for her UTI.\n\nOn the floor, patient is unresponsive to verbal stimuli. Per\nson, she does not have a indwelling catheter at baseline.  He\ndoes report similar presentation to [**Hospital1 18**] last month during\nwhich she was diagnosed with a UTI.\n\nReview of systems:  Unable to assess given mental status.\n\nFLOOR ACCEPTING TEAM HPI\nPlease see admit H&P for full details. Ms. [**Known firstname **] [**Known lastname **] is a 75\nyear old woman with history of DM, advanced Alzheimer's dementia\n(nonverbal at baseline), schizophrenia, recent admit\n[**Date range (1) 106956**] for AMS in setting of UTI who presented to the ED\nfrom NH after being found somnolent and febrile to 101.8 F.\n.\nIn the ED, initial vs were: T 100, P 120, BP 111/86, R 16, O2\nsat 99% 2L. CXR neg, U/A positive. Cr 2.7 (baseline 0.7).\nLactate 3.1. Pt given tylenol, cefepime 2g IV, vancomycin 1g IV,\nand 4L IVF but was persistently tachycardic so admitted to the\nMICU for urosepsis. No indwelling catheter at baseline.\n.\nIn the MICU, patient was initially unresponsive to verbal\nstimuli. her tachycardia improved with IV fluids, and VS\nremained stable. Pt continued on vanc (dosed by level) and\ncefepime; noted to have PCN allergy but tolerating fine. Lactate\nnormalized and ARF improving with IV fluids, and pt started on\nmaintenance fluids for mild hyponatremia to 51. Mental status\nnoted to be slightly improved (responsive to verbal stimuli) but\nnot yet back to baseline.\n.\nReview of systems: Unable to assess given mental status.\n.\n\nPast Medical History:\nCVA with left sided residual deficits\nDM2\nRenal insufficiency\nHypercalcemia\nHTN\nGERD\nOsteoarthritis\nAnemia\nSevere Alzheimer's\nSchizophrenia\nUTIs (not in our system)\n\nSocial History:\nLives in nursing home x 5 years. Son in area, health care proxy.\n\n\nFamily History:\nnoncontributory\n\nPhysical Exam:\nADMISSION PHYSICAL EXAM\nVitals: T: 101.3 BP: 149/62P: 135 R:19 O2: 100% 2L NC\nGeneral: no acute distress, asleep, responds only to painful\nstimuli, decorticate posture\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP elevated to angle of jaw no LAD\nLungs: Good air movement, crackles at bilateral bases, no\nwheezes, rales, ronchi\nCV: tachycardic, normal rhythm, normal S1 + S2, no murmurs,\nrubs, gallops\nAbdomen: obese, soft, non-tender, non-distended, bowel sounds\npresent, no rebound tenderness or guarding,\nGU: foley in place\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n\nFLOOR ACCEPTING TEAM PHYSICAL EXAM\n96.7   96.7   160/72 (152-168)  72 (65-77)  16  100%RA\nElderly lady, chornically ill and debilitated appearing. She is\nslumped over to the left. She doesn't respond to verbal stimuli\nbut responds minimally to sternal rub. Her eyes are open and she\nlooks around but not purposefully. She doesn't speak or even\nmake noises. She doesn't follow commands. Her L arm is flexed up\nin the air and is very rigid and her hand is in decorticate\nposition.\nUnable to listen to lungs posteriorly, from the anterior she is\nloudly mouth breathing\nS1 S2 clear RRR, no murmurs\nAbd soft but unable to tell if tender\nL arm as above, but R arm is not as rigid, able to be flexed and\nextended.\nNo BLE edema\n\nPertinent Results:\nADMISSION LABS\n\n[**2161-3-9**] 10:20PM BLOOD WBC-10.6# RBC-4.23 Hgb-13.1# Hct-39.6#\nMCV-94 MCH-31.1 MCHC-33.2 RDW-13.2 Plt Ct-153\n[**2161-3-10**] 05:58AM BLOOD WBC-6.3 RBC-3.44* Hgb-10.6* Hct-32.2*\nMCV-94 MCH-30.7 MCHC-32.8 RDW-13.2 Plt Ct-114*\n[**2161-3-9**] 10:20PM BLOOD Neuts-87.4* Lymphs-8.3* Monos-3.0 Eos-0.7\nBaso-0.5\n[**2161-3-9**] 09:30PM BLOOD Glucose-282* UreaN-51* Creat-2.7*#\nNa-150* K-4.1 Cl-112* HCO3-22 AnGap-20\n[**2161-3-10**] 05:58AM BLOOD Glucose-348* UreaN-41* Creat-2.0* Na-151*\nK-3.7 Cl-124* HCO3-19* AnGap-12\n[**2161-3-10**] 05:58AM BLOOD Calcium-9.0 Phos-1.5* Mg-1.5*\n[**2161-3-9**] 09:39PM BLOOD Lactate-3.1* K-4.1\n[**2161-3-10**] 06:12AM BLOOD Lactate-1.7\n[**2161-3-9**] 09:30PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.020\n[**2161-3-9**] 09:30PM URINE Blood-LG Nitrite-NEG Protein-75\nGlucose-250 Ketone-TR Bilirub-SM Urobiln-NEG pH-5.0 Leuks-MOD\n[**2161-3-9**] 09:30PM URINE RBC-0-2 WBC->50 Bacteri-MOD Yeast-MANY\nEpi-0-2\n\n[**2161-3-9**] Chest X ray:\nCOMPARISON: Multiple chest radiographs with the most recent from\n[**2161-2-9**].\n\nSINGLE FRONTAL VIEW OF THE CHEST: Lungs are clear with no\nevidence of\npneumonia or congestive heart failure. There is no pneumothorax\nor pleural\neffusion. Heart, mediastinum, and hila are normal.\n\nIMPRESSION: No acute intrathoracic abnormality.\n\n\nBrief Hospital Course:\n75 year old woman with history of DM2, advanced Alzheimer's\ndementia (nonverbal), and schizophrenia who presents from her\nnursing home with somnolence, fever, tachycardia, positive UA,\nand acute renal failure.\n\nUrosepsis: Patient presents with tachycardia, leukocytosis,\naltered mental status and ARF in the setting of positive UTI and\nhistory of urosepsis.   Tachycardia responded well to 4 L IVF in\nthe Emergency Department.  The patient was not on pressors. Pt\nwas started on Cefepime of which she received a couple days\nbefore IV access was lost and unable to be re-established. She\nremained afebrile and WBC's trended down, however given overall\ngrim prognosis of any functional recovery and overall poor\nmental status (brainstem reflexes intact, however pt basically\nunresponsive to environmental stimuli at baseline even before\nadmission), it was decided to make pt comfort measures only by\ndiscussion with [**Hospital **] healthcare proxy (son [**Doctor First Name 892**], social work,\npalliative care, and medical team. She is being discharged back\nto extended care facility and pt son stated that he will call\nhospice team which had previously been involved. Oral narcotic\nsolution and Tylenol suppositories were given to address pain\nand agitation.\n\nAcute renal failure: Responded to IV fluids and trended down to\nnormal by time of discharge.\n\nMedications on Admission:\n1. Insulin Lispro 100 unit/mL Solution [**Doctor First Name **]: per sliding scale\nSubcutaneous three times a day.\n2. Miconazole Nitrate 2 % Powder [**Doctor First Name **]: One (1) Appl Topical TID\n(3 times a day): apply to below breasts.\n3. Metoprolol Tartrate 25 mg Tablet [**Doctor First Name **]: 0.25 Tablet PO TID (3\ntimes a day).\n4 Multivitamins Tablet, Chewable [**Doctor First Name **]: One (1) Tablet,\nChewable PO once a day.\n5 Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)\nTablet,Rapid Dissolve, DR [**Last Name (STitle) **] once a day.\n\nDischarge Medications:\n1. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution [**Last Name (STitle) **]: 5-10 MLs\nPO Q2H (every 2 hours) as needed for pain.\n2. Acetaminophen 650 mg Suppository [**Last Name (STitle) **]: One (1) Suppository\nRectal Q4H (every 4 hours) as needed for pain, agitation.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital **] [**Hospital **] Nursing Home - [**Location (un) **]\n\nDischarge Diagnosis:\nSepsis from urinary tract infection\nCVA with left sided residual deficits\nDM2\nRenal insufficiency\nHypercalcemia\nHTN\nGERD\nOsteoarthritis\nAnemia\nSevere Alzheimer's\nSchizophrenia\nUTIs\n\n\nDischarge Condition:\nComfort measures only\n\n\nDischarge Instructions:\nYou were admitted to [**Hospital1 18**] with likely sepsis from a urinary\ntract infection. You were resuscitated with IV fluids and\nantibiotics however given your poor state of health it was\ndecided to make you comfort measures only. You are being\ndischarged back to your extended care facility.\n\nAll of your medicines were stopped and you were started on:\n1. OxycoDONE-Acetaminophen Elixir [**4-27**] mL PO/NG Q2H:PRN pain\n2. Acetaminophen 650 mg PR Q4H:PRN pain, agitation\n\nThese medicines are for your comfort only.\n\nFollowup Instructions:\nNo follow up is needed\n\n\nCompleted by:[**2161-3-13**]"
+    }
+  ]
+}

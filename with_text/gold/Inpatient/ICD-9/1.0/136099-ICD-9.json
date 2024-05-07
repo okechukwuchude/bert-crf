@@ -1,0 +1,183 @@
+{
+  "hadm_id": 136099,
+  "comment": "Tracheostomy, PEG OP reports not present",
+  "notes": [
+    {
+      "note_id": 634428,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 42,
+          "end": 72,
+          "code": "431",
+          "code_system": "ICD-9-CM",
+          "description": "Intracerebral hemorrhage",
+          "type": "MapType.APPROX",
+          "covered_text": "posterior brainstem hemorrhage"
+        },
+        {
+          "begin": 1089,
+          "end": 1106,
+          "code": "31.1",
+          "code_system": "ICD-9-PCS",
+          "description": "Temporary tracheostomy",
+          "type": "Human",
+          "covered_text": "OPEN TRACHEOSTOMY"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   HPI:59 year old male with posterior brainstem hemorrhage, blood in 4th\n   ventricle and developing hydrocephalus\n   [**9-1**]-failed speech and swallow for second time\n   [**9-3**]-s/p PEG, has esophageal candidiasis\n   [**9-4**]-contrast KUB showed no evid of extrav, cont abd pain\n   [**9-5**]-no events\n   [**9-6**]- consented for PEG, NPO after midnight for PEG. Tube feeds\n   restarted until midnight\n   [**9-7**]-slight abdominal pain overnight, responded to pain\n   PMH:HTN, prostate ca\n   [**9-8**]- wean to PS, perc trach'ed, sedated after trach, trach collar\n   tolerated o/n\n   Chief complaint:\n   Brainstem stroke\n   PMHx:\n   prostate ca\n   Current medications:\n   1. 2. 3. Acetaminophen 4. Bisacodyl 5. Chlorhexidine Gluconate 0.12%\n   Oral Rinse 6. Docusate Sodium (Liquid)\n   7. Fentanyl Citrate 8. Fluconazole 9. Heparin 10. HydrALAzine 11.\n   Insulin 12. Labetalol 13. Lactulose\n   14. Metoprolol Tartrate 15. Nystatin Oral Suspension 16. Potassium\n   Chloride 17. Senna 18. Sodium Chloride 0.9% Flush\n   19. Sodium Chloride 0.9% Flush\n   24 Hour Events:\n OPEN TRACHEOSTOMY - At [**2122-9-8**] 12:28 PM\n   Post operative day:\n   POD#6 - returned s/p PEG. Reversed but taking small tidal volumes so\n   arrived intubated with plan to extubate when awake\n   Allergies:\n   Iodine\n   Unknown;\n   Last dose of Antibiotics:\n   Fluconazole - [**2122-9-8**] 06:40 PM\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2122-9-9**] 08:00 AM\n   Hydralazine - [**2122-9-9**] 10:12 AM\n   Metoprolol - [**2122-9-9**] 10:12 AM\n   Other medications:\n   Flowsheet Data as of  [**2122-9-9**] 11:35 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**25**] a.m.\n   Tmax: 37.4\nC (99.3\n   T current: 37.4\nC (99.3\n   HR: 90 (80 - 110) bpm\n   BP: 125/73(84) {112/59(74) - 142/90(99)} mmHg\n   RR: 12 (9 - 37) insp/min\n   SPO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 83.3 kg (admission): 89.8 kg\n   Height: 67 Inch\n             Total In:\n                                                                  2,610 mL\n                                                                    863 mL\n   PO:\n             Tube feeding:\n                                                                  1,174 mL\n                                                                    748 mL\n   IV Fluid:\n                                                                  1,286 mL\n                                                                    115 mL\n   Blood products:\n   Total out:\n                                                                    947 mL\n                                                                    398 mL\n   Urine:\n                                                                    947 mL\n                                                                    398 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  1,663 mL\n                                                                    465 mL\n   Respiratory support\n   O2 Delivery Device: Trach mask\n   Ventilator mode: CPAP/PSV\n   Vt (Set): 550 (550 - 550) mL\n   Vt (Spontaneous): 356 (356 - 558) mL\n   PS : 5 cmH2O\n   RR (Set): 14\n   RR (Spontaneous): 18\n   PEEP: 5 cmH2O\n   FiO2: 40%\n   PIP: 18 cmH2O\n   SPO2: 100%\n   ABG: ///31/\n   Ve: 5.6 L/min\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular), (Distant heart sounds: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-tender\n   Left Extremities: (Pulse - Dorsalis pedis: Present)\n   Right Extremities: (Pulse - Dorsalis pedis: Present)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Neurologic exam stable\n   Labs / Radiology\n   260 K/uL\n   9.7 g/dL\n   123 mg/dL\n   0.7 mg/dL\n   31 mEq/L\n   3.3 mEq/L\n   21 mg/dL\n   105 mEq/L\n   141 mEq/L\n   27.7 %\n   6.1 K/uL\n        [image002.jpg]\n                             [**2122-8-31**]  10:28 AM\n                             [**2122-9-1**]  03:00 AM\n                             [**2122-9-2**]  03:03 AM\n                             [**2122-9-3**]  03:29 AM\n                             [**2122-9-4**]  02:49 AM\n                             [**2122-9-5**]  02:25 AM\n                             [**2122-9-6**]  03:17 AM\n                             [**2122-9-7**]  03:12 AM\n                             [**2122-9-8**]  03:25 AM\n                             [**2122-9-9**]  03:00 AM\n   WBC\n   4.2\n   4.7\n   4.7\n   5.7\n   10.6\n   8.8\n   7.1\n   6.9\n   6.1\n   Hct\n   36.2\n   35.8\n   35.3\n   31.1\n   34.9\n   34.1\n   33.7\n   33.1\n   27.7\n   Plt\n   [**Telephone/Fax (3) **]96\n   230\n   258\n   280\n   299\n   260\n   Creatinine\n   1.0\n   1.0\n   0.8\n   0.7\n   0.9\n   0.8\n   0.8\n   0.8\n   0.7\n   TCO2\n   35\n   Glucose\n   124\n   113\n   98\n   101\n   119\n   105\n   101\n   131\n   123\n   Other labs: ALT / AST:61/, Alk-Phos / T bili:30/0.8, Amylase /\n   Lipase:41/28, Lactic Acid:0.6 mmol/L, Albumin:3.4 g/dL, LDH:161 IU/L,\n   Ca:8.6 mg/dL, Mg:2.2 mg/dL, PO4:2.9 mg/dL\n   Assessment and Plan\n   CVA (STROKE, CEREBRAL INFARCTION), HEMORRHAGIC\n   Assessment and Plan: 59 year old male with CVA\n   Neurologic: Neurologically stable\n   Cardiovascular: metoprolol, hydralazine\n   Pulmonary: Trach, s/p trach for airway protection from secretions,\n   doing well post op\n   Gastrointestinal / Abdomen: PEG\n   Nutrition: Tube feeding, @ goal\n   Renal: Foley\n   Hematology: Serial Hct, stable\n   Endocrine: RISS\n   Infectious Disease: On fuconazole for [**First Name4 (NamePattern1) 474**]\n   [**Last Name (NamePattern1) 604**] / Tubes / Drains: Foley, G-tube, Trach\n   Wounds: Dry dressings\n   Imaging:\n   Fluids:\n   Consults: Neurology\n   Billing Diagnosis: (Hemorrhage, NOS: Sub-arachnoid, Subdural), CVA,\n   (Respiratory distress: Failure)\n   ICU Care\n   Nutrition:\n   Replete with Fiber (Full) - [**2122-9-8**] 02:00 PM 65 mL/hour\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   20 Gauge - [**2122-9-6**] 08:00 AM\n   18 Gauge - [**2122-9-6**] 08:00 AM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: Transfer to floor\n   Total time spent: 20 minutes\n"
+    },
+    {
+      "note_id": 45784,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 365,
+          "end": 406,
+          "code": "96.71",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous mechanical ventilation for less than 96 consecutive hours",
+          "type": "Human",
+          "covered_text": "Invasive Procedure:\nIntubation/Extubation"
+        },
+        {
+          "begin": 407,
+          "end": 420,
+          "code": "43.11",
+          "code_system": "ICD-9-PCS",
+          "description": "Percutaneous [endoscopic] gastrostomy [PEG]",
+          "type": "Human",
+          "covered_text": "PEG placement"
+        },
+        {
+          "begin": 421,
+          "end": 433,
+          "code": "31.1",
+          "code_system": "ICD-9-PCS",
+          "description": "Temporary tracheostomy",
+          "type": "Human",
+          "covered_text": "Tracheostomy"
+        },
+        {
+          "begin": 3528,
+          "end": 3547,
+          "code": "070.54",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic hepatitis C without mention of hepatic coma",
+          "type": "Human",
+          "covered_text": "Chronic hepatitis C"
+        },
+        {
+          "begin": 3694,
+          "end": 3709,
+          "code": "V10.46",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of prostate",
+          "type": "Human",
+          "covered_text": "Prostate cancer"
+        },
+        {
+          "begin": 4048,
+          "end": 4097,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "smoking 1 pack every 3 days for the past 43 years"
+        },
+        {
+          "begin": 7512,
+          "end": 7531,
+          "code": "431",
+          "code_system": "ICD-9-CM",
+          "description": "Intracerebral hemorrhage",
+          "type": "Human",
+          "covered_text": "Pontine Hemorrhage:"
+        },
+        {
+          "begin": 7610,
+          "end": 7613,
+          "code": "070.54",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic hepatitis C without mention of hepatic coma",
+          "type": "Human",
+          "covered_text": "HCV"
+        },
+        {
+          "begin": 7619,
+          "end": 7634,
+          "code": "V10.46",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of prostate",
+          "type": "Human",
+          "covered_text": "prostate cancer"
+        },
+        {
+          "begin": 10892,
+          "end": 10913,
+          "code": "041.85",
+          "code_system": "ICD-9-CM",
+          "description": "Other gram-negative organism infection in conditions classified elsewhere and of unspecified site",
+          "type": "Human",
+          "covered_text": "Moraxella catarrhalis"
+        },
+        {
+          "begin": 12989,
+          "end": 13007,
+          "code": "431",
+          "code_system": "ICD-9-CM",
+          "description": "Intracerebral hemorrhage",
+          "type": "Human",
+          "covered_text": "Pontine hemorrhage"
+        },
+        {
+          "begin": 13008,
+          "end": 13017,
+          "code": "473.0",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic maxillary sinusitis",
+          "type": "Human",
+          "covered_text": "Sinusitis"
+        },
+        {
+          "begin": 13018,
+          "end": 13040,
+          "code": "112.84",
+          "code_system": "ICD-9-CM",
+          "description": "Candidal esophagitis",
+          "type": "Human",
+          "covered_text": "Esophageal candidiasis"
+        },
+        {
+          "begin": 13053,
+          "end": 13065,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        }
+      ],
+      "text": "Admission Date:  [**2122-8-24**]              Discharge Date:   [**2122-9-10**]\n\nDate of Birth:  [**2064-8-3**]             Sex:   M\n\nService: NEUROLOGY\n\nAllergies:\nIodine\n\nAttending:[**Last Name (NamePattern1) 1838**]\nChief Complaint:\nAcute onset dizziness and bilateral leg weakness after sexual\nintercourse, transferred for pontine hemorrhage\n\nMajor Surgical or Invasive Procedure:\nIntubation/Extubation\nPEG placement\nTracheostomy\n\nHistory of Present Illness:\nThe patient is a 58 year old man with a history of uncontrolled\nhypertension, HCV, and prostate cancer s/p resection in [**2114**] who\npresents with a 2 week history of throbbing headaches and then 1\nday PTA developed acute onset dizziness and bilateral leg\nweakness after sexual intercourse and Viagra use, who was\ntransferred from an OSH with pontine hemorrhage and extension\ninto the fourth ventricle with resultant hydrocephalus. This\nhistory is obtained from the patient's wife and the medical\nrecord. Over the past 2 weeks, he has complained of headaches\nthat are not constant and relieved by Excedrin. They have not\nbeen associated with weakness, numbness, or visual changes. 2\ndays PTA, he was at a wedding and had a throbbing headache\naround 6:30-7:00 pm, but this was relieved by Excedrin. On the\nday of admission, he took a Viagra and had sexual intercourse\nwith his wife. This was not the first time he had used Viagra.\nAfter having sex, they were lying down in bed and talking, and\nhe had no deficits. Then he sat up on the side of the bed (at\napproximately 11:30 pm), and suddenly felt dizzy, SOB, and had\nthe feeling that he could not move his legs. He told his wife to\ncall 911. His wife had to dress him because he was unable to use\nhis legs. His wife reported that he had slurred speech like his\n\"voice was thick\", and she wondered if he was having trouble\nswallowing. He did not have a headache associated with this\nepisode. On the scene, EMS noted pinpoint pupils and gave Narcan\n4 mg total without change.\n\nHis wife reports that he misses his anti-hypertensives more\noften than he takes them. She is unclear what his blood pressure\nnormally runs, but his most recent PCP appointment in [**2122-4-22**]\nhis bp was 158/100.\n\nAt [**Hospital3 934**] Hospital, vitals on admission were temp 95.8,\nbp 203/98, HR 88, RR 16, SaO2 100% on NRB. He was reported to\n\"move UE bilaterally proximally\" and \"nod head to answer some\nquestions\", but \"no spontaneous movement of LE.\"  He was given\nNarcan 1 mg IV x1. He had SOB and was intubated with Etomidate\n20 mL IV x1, Succinylcholine, and Versed 2.5 mg x4. He was also\ngiven Vecuronium 10 mg IV x1. He was given Labetolol 10 mg IV\nx1, and Ativan 2 mg IV x2. Labs showed CKMB 2.0, Trop I 0.01, PT\n13.9, INR 1.1, PTT 27.9, WBC 7.2, Hct 38.8, plt 197. CT Head\nshowed pontine hemorrhage with extension into the fourth\nventricle, nonspecific bilateral frontal and parietal lobe white\nmatter disease, which may represent chronic small vessel\nischemia. He was transferred to [**Hospital1 18**] At the [**Hospital1 18**] ED, he had a\nCT head which showed moderate-sized pontine hemorrhage with\nextension into the fourth ventricle resulting in mild\nhydrocephalus involving the lateral ventricles and third\nventricle which appears progressed from outside imaging. He was\ngiven Labetalol 10 mg IV x1, 20 mg IV x1, then started on\nLabetalol gtt. Neurosurgery was consulted and indicated that\nthere is no neurosurgical indication at this time. He was\ntransferred to Neurology/SICU.\n\nPast Medical History:\n-Hypertension\n-Chronic hepatitis C genotype 1, stage 0-I fibrosis\n-? heart murmur vs. \"hole in heart\" per wife, takes [**Name (NI) **] [**Name (NI) 5**]\nprior to dental procedures\n-Prostate cancer s/p radical prostatectomy in [**3-31**]\n-Laparoscopic pelvic lymphocele decortication [**5-31**]\n\n\nSocial History:\nHe lives at home with his wife and brother. [**Name (NI) **] formerly was an\nunderground cable splicer for an electric company, but now works\nin electrical system design. He quit smoking in [**1-6**], but prior\nto that was smoking 1 pack every 3 days for the past 43 years.\nHe has not had a problem with alcohol abuse. He did use heroin\n40 years ago, which his wife reports was how he aquired HCV. He\nhas had no recent cocaine or heroin use.\n\n\nFamily History:\nHis mother had hypertension, strokes, and a heart valve\nreplacement. His brother had sleep apnea.\n\n\nPhysical Exam:\nVitals: T:97.6 P:78 R:13 BP146/88: SaO2:100% RA\nGeneral: Intubated.  Not sedated, but unresponsive as below.\nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in\noropharynx\nNeck: Supple, no carotid bruits appreciated. No nuchal rigidity\nPulmonary: Lungs CTA bilaterally without R/R/W\nCardiac: RR, nl. S1S2, no M/R/G noted\nAbdomen: soft, NT/ND, normoactive bowel sounds, no masses or\norganomegaly noted.\nExtremities: No C/C/E bilaterally, 2+ radial, DP pulses\nbilaterally.\nSkin: no rashes or lesions noted.\n\nNeurologic:\n-Mental Status: Unresponsive to name or noxious.  Doesn't follow\nany commands.  Eyes closed at all times.\n\n-Cranial Nerves: Pupils midline, pinpoint, symmetrical and\nunreactive.  No corneal reflexes.  No OCRs.  Minimal but\ndefinite response to nasal stimulus.  Inconsistent response to\ntug on the ETT.  No obvious facial droop.\n\n-Motor: No movement of any limbs to noxious stimuli.\n\n-Sensory: As above.\n\n- Reflex: No clonus\n [**Hospital1 **]  \tTri \tBra \tPat  \tAn   \tToes\n C5  \tC7  \tC6  \tL4   \tS1 \tCST\nLtr   \ttr   \ttr    \ttr    \t2   \tdown\nRtr   \ttr   \ttr    \ttr    \t2       down\n\nPertinent Results:\nIMAGING:\nCT Head ([**8-24**]): FINDINGS: There is a large brainstem hemorrhage\nmeasuring approximately 16.5 x 22.5 mm centered within the left\ndorsolateral aspect of the pons with extension into the fourth\nventricle, resulting in now worsening mild hydrocephalus with\ndilatation of the occipital and temporal horns when compared to\noutside imaging. The left occipital [**Doctor Last Name 534**] measures up to 14 mm.\nMild surrounding hyperattenuating changes noted around the\nhemorrhage likely related to underlying brainstem edema. The\nremaining cerebral matter is normal with appropriate maintenance\nof the [**Doctor Last Name 352**]-white differentiation and no evidence of acute large\nvascular territorial infarct. The globes are intact. Mild soft\ntissue asymmetry is noted along the left cerebral hemisphere\nlikely related to patient positioning. Aerosolized secretions\nare noted within the oral and nasopharynx in this intubated\npatient. The paranasal sinuses and mastoid air cells are\notherwise unremarkable.\nIMPRESSION: Moderate-sized pontine hemorrhage with extension\ninto the fourth ventricle resulting in mild hydrocephalus\ninvolving the lateral ventricles and third ventricle which\nappears progressed from outside imaging.\n\nECG ([**8-24**]): Sinus rhythm at a rate of 78, Prominent precordial\nlow QRS voltage - is nondiagnostic and is probably normal ECG\n\nCXR ([**8-24**]): IMPRESSION:\nProperly positioned lines and tubes with a minimal left basilar\natelectasis.\nProminent left upper mediastinal border of unclear etiology, but\nprobably related to thyroid enlargement or vascular ectasia.\n\nCTA Head/Neck ([**8-26**]): IMPRESSION:\n1. Stable appearance of pontine hemorrhage extending into the\nfourth ventricle. No vascular abnormality or abnormal\nenhancement is identified in the region of hemorrhage.\n2. Stable appearance of hydrocephalus.\n3. The carotid and vertebral arteries and their major branches\nare patent without evidence of stenosis.\n\nBrief Hospital Course:\n1. Pontine Hemorrhage: The patient is a 58 year old man with a\nhistory of uncontrolled hypertension, HCV, and prostate cancer\ns/p resection in [**2114**] who presented with a 2 week history of\nthrobbing headaches and then 1 day prior to admission developed\nacute onset dizziness and bilateral leg weakness after sexual\nintercourse and Viagra use, who was transferred from an OSH with\npontine hemorrhage and extension into the fourth ventricle with\nresultant hydrocephalus. On the day prior to admission after\nViagra use and sexual intercourse, he developed acute onset\ndizziness, weakness in bilateral legs, and SOB. He was\ntransferred to an OSH where he was found to have a blood\npressure of 203/98 and pinpoint pupils, and was intubated given\nhis SOB. Head CT there showed pontine hemorrhage with extension\ninto the fourth ventricle. He was transferred to [**Hospital1 18**] where\nneurosurgery determined there was no acute indication for\nneurosurgery. Head CT showed pontine hemorrhage with extension\ninto the fourth ventricle resulting in mild hydrocephalus of the\nlateral ventricles and third ventricles. Physical examination on\nadmission showed no response to verbal stimuli, pinpoint pupils\nthat are not reactive to light, fixed eyes on OCRs, does not\nblink to threat. He withdrew his bilateral UE and LE to nailbed\npressure, but was weaker on the right than left. His reflexes\nwere 3+ and symmetric in biceps, brachioradialis, triceps, and\nknees with nonfatiguable clonus in the bilateral ankles and\nupgoing toes bilaterally. The most likely cause of his pontine\nhemorrhage was uncontrolled hypertension. His neurological exam\ncontinued to improve, and subsequent head CTs showed stable\nappearance of the hemorrhage. CTA head showed no vascular\nabnormality or abnormal enhancement in the region of hemorrhage,\nthe carotid and vertebral arteries and their major branches are\npatent without evidence of stenosis. MRI head showed a pontine\nhemorrhage. Neurological examination on discharge showed Mr\n[**Name13 (STitle) **] exam was significant at discharge for:\nAlert, oriented to time and person. Non-fluent aphasia, with\npreserved comprehension. Follows commands.\nCN: pinpoint pupils 1.5 mm to 1.0 mm R eye, 1.0 mm to trace LEFT\neye both to direct and consensual stimuli. bl VI cranial nerve\nparesis, b/l face weakness, no palate elevation. RIGHT sided\nweakness: Delt 3, tric 3, biceps 3-, WE 3-, WF 3-, FE anf FF 3.\nLEFT sided weakness 5/5 for all muscle groups. Inferior\nextremity RIGHT weakness: [**2-3**] toe flexion and extension,\nhamstring [**3-4**], quad 3-,IP 3/ 5. Left leg: [**5-4**] all groups.\nDecreased pinprick sensation in left hemibody. The patient\nshould follow up with Dr. [**First Name (STitle) **] in Neurology as an outpatient.\n\n2. Hypertension: He was intially on a Labetalol gtt to keep his\nMAP <130 and SBP 120-150. His blood pressure medications on\ndischarge were [   ].\n\n3. Respiratory: The patient was intubated at the OSH after\ncomplaining of shortness of breath. He was extubated at [**Hospital1 18**] on\n[**2122-8-28**]. He continued to have increased secretions requiring\nfrequent suctioning, so a tracheostomy was placed on [**2122-9-8**].\n\n4. Sinusitis: Head CT on [**2122-8-24**] showed new air-fluid level seen\nwithin the left maxillary sinus. At that time he was having\nincreased secretions from his ET tube. A sputum culture grew\nmoderate Moraxella catarrhalis and sparse oropharyngeal flora.\nHe received 5 days of Unasyn.\n\n5. Esophageal candidiasis: During PEG placement, gastroscope\nshowed considerable whitened mucosa and exudate in the\nesophagus. He was started on Fluconazole to complete a [**10-13**] day\ncourse.\n\n6. FEN: Speech and swallow evaluated the patient after\nextubation, and recommended that he remain NPO. An NG tube was\nplaced initially, and a PEG tube was placed [**2122-9-3**]. He had pain\nat the PEG tube site after insertion, and KUB showed marked\ngaseous distension of splenic flexure and stomach. A\ngastrograffen study showed no leaking around the PEG. His pain\nimproved with Fentanyl prn, and he was tolerating tube feeds at\nthe time of discharge.\n\n7. Full Code: Social work and Palliative care were consulted\nduring this admission, and family meetings were held on [**2122-8-28**]\nand [**2122-9-2**]. His living will states he wishes no resuscitation,\nartificial feeding, or hydration IF in a persistent vegatative\nstate or has a terminal illness. Currently neither of these are\ntrue, so he remained full code. The family and patient agreed to\nPEG and tracheostomy placement. PT was consulted during the\nadmission.\n\nMedications on Admission:\nTriamterene/HCTZ 37.5-25 mg daily\nLisinopril 10 mg daily\nViagra 100 mg prn\n\n\nDischarge Medications:\n1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)\nInjection TID (3 times a day).\n2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed.\n3. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nHS (at bedtime) as needed.\n4. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID\n(4 times a day).\n5. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO BID (2\ntimes a day).\n6. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n7. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2\ntimes a day).\n8. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours) as needed for pain.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 700**] - [**Location (un) 701**]\n\nDischarge Diagnosis:\nPRIMARY:\nPontine hemorrhage\nSinusitis\nEsophageal candidiasis\n\nSECONDARY:\nHypertension\n\n\nDischarge Condition:\nMr [**Last Name (Titles) **] exam was significant at discharge for:\nAlert, oriented to time and person. Non-fluent aphasia, with\npreserved comprehension. Follows commands.\nCN: pinpoint pupils 1.5 mm to 1.0 mm R eye, 1.0 mm to trace LEFT\neye both to direct and consensual stimuli. bl VI cranial nerve\nparesis, b/l face weakness, no palate elevation. RIGHT sided\nweakness: Delt 3, tric 3, bicepd 3-, WE 3-, WF 3-, FE anf FF 3.\nLEFT sided weakness 5/5 for all muscle groups. Inferior\nextremity RIGHT weakness: [**2-3**] toe flexion and extension,\nhamstring [**3-4**], quad 3-,IP 3/ 5. Left leg: [**5-4**] all groups.\nDecreased pinprick sensation in left hemibody.\n\n\nFollowup Instructions:\nYou will need to follow up with Dr. [**First Name (STitle) **] in Neurology 10/ 06/\n08 at 2:30 pm in the stroke clinic ([**Hospital Ward Name 23**] [**Location (un) 442**]).\n\n\n\n"
+    },
+    {
+      "note_id": 634340,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 5196,
+          "end": 5208,
+          "code": "96.6",
+          "code_system": "ICD-9-PCS",
+          "description": "Enteral infusion of concentrated nutritional substances",
+          "type": "Human",
+          "covered_text": "Tube feeding"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   HPI:59 year old male with posterior brainstem hemorrhage, blood in 4th\n   ventricle and developing hydrocephalus\n   [**9-1**]-failed speech and swallow for second time\n   [**9-3**]-s/p PEG, has esophageal candidiasis\n   [**9-4**]-contrast KUB showed no evid of extrav, cont abd pain\n   [**9-5**]-no events\n   [**9-6**]- consented for PEG, NPO after midnight for PEG. Tube feeds\n   restarted until midnight\n   [**9-7**]-slight abdominal pain overnight, responded to pain\n   Chief complaint:\n   Brainstem stroke\n   PMHx:\n   HTN, prostate ca\n   Current medications:\n   1. 2. Acetaminophen 3. Bisacodyl 4. Docusate Sodium (Liquid) 5.\n   Famotidine 6. Fentanyl Citrate\n   7. Fluconazole 8. Heparin 9. HydrALAzine 10. Insulin 11. Labetalol 12.\n   Metoprolol Tartrate 13. Metoprolol Tartrate\n   14. Nystatin Oral Suspension 15. Senna 16. Sodium Chloride 0.9% Flush\n   24 Hour Events:\n   [**9-7**]-slight abdominal pain overnight, responded to pain\n   Post operative day:\n   POD#5 - returned s/p PEG. Reversed but taking small tidal volumes so\n   arrived intubated with plan to extubate when awake\n   Allergies:\n   Iodine\n   Unknown;\n   Last dose of Antibiotics:\n   Fluconazole - [**2122-9-7**] 06:00 PM\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2122-9-7**] 04:00 PM\n   Metoprolol - [**2122-9-7**] 04:00 PM\n   Hydralazine - [**2122-9-7**] 04:00 PM\n   Fentanyl - [**2122-9-7**] 11:50 PM\n   Other medications:\n   Flowsheet Data as of  [**2122-9-8**] 10:26 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**25**] a.m.\n   Tmax: 37.3\nC (99.2\n   T current: 37.3\nC (99.2\n   HR: 92 (82 - 116) bpm\n   BP: 129/74(86) {105/61(72) - 162/95(107)} mmHg\n   RR: 13 (12 - 21) insp/min\n   SPO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 82.6 kg (admission): 89.8 kg\n   Height: 67 Inch\n             Total In:\n                                                                  2,284 mL\n                                                                    564 mL\n   PO:\n             Tube feeding:\n                                                                    609 mL\n                                                                    524 mL\n   IV Fluid:\n                                                                  1,675 mL\n                                                                     40 mL\n   Blood products:\n   Total out:\n                                                                  1,545 mL\n                                                                    358 mL\n   Urine:\n                                                                  1,245 mL\n                                                                    358 mL\n   NG:\n                                                                    300 mL\n   Stool:\n   Drains:\n   Balance:\n                                                                    739 mL\n                                                                    206 mL\n   Respiratory support\n   O2 Delivery Device: Aerosol-cool\n   SPO2: 98%\n   ABG: ///30/\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-tender\n   Left Extremities: (Pulse - Dorsalis pedis: Present)\n   Right Extremities: (Pulse - Dorsalis pedis: Present)\n   Neurologic: (Awake / Alert / Oriented: x 3), unchanged exam\n   Labs / Radiology\n   299 K/uL\n   11.3 g/dL\n   131 mg/dL\n   0.8 mg/dL\n   30 mEq/L\n   3.4 mEq/L\n   22 mg/dL\n   103 mEq/L\n   140 mEq/L\n   33.1 %\n   6.9 K/uL\n        [image002.jpg]\n                             [**2122-8-31**]  03:17 AM\n                             [**2122-8-31**]  10:28 AM\n                             [**2122-9-1**]  03:00 AM\n                             [**2122-9-2**]  03:03 AM\n                             [**2122-9-3**]  03:29 AM\n                             [**2122-9-4**]  02:49 AM\n                             [**2122-9-5**]  02:25 AM\n                             [**2122-9-6**]  03:17 AM\n                             [**2122-9-7**]  03:12 AM\n                             [**2122-9-8**]  03:25 AM\n   WBC\n   5.7\n   4.2\n   4.7\n   4.7\n   5.7\n   10.6\n   8.8\n   7.1\n   6.9\n   Hct\n   37.7\n   36.2\n   35.8\n   35.3\n   31.1\n   34.9\n   34.1\n   33.7\n   33.1\n   Plt\n   [**Telephone/Fax (3) 500**]\n   258\n   280\n   299\n   Creatinine\n   1.0\n   1.0\n   1.0\n   0.8\n   0.7\n   0.9\n   0.8\n   0.8\n   0.8\n   TCO2\n   35\n   Glucose\n   138\n   124\n   113\n   98\n   101\n   119\n   105\n   101\n   131\n   Other labs: ALT / AST:61/, Alk-Phos / T bili:30/0.8, Amylase /\n   Lipase:41/28, Lactic Acid:0.6 mmol/L, Albumin:3.4 g/dL, LDH:161 IU/L,\n   Ca:8.8 mg/dL, Mg:2.2 mg/dL, PO4:2.8 mg/dL\n   Assessment and Plan\n   CVA (STROKE, CEREBRAL INFARCTION), HEMORRHAGIC\n   Assessment and Plan: 59 year male with brainstem stroke\n   Neurologic: stable\n   Cardiovascular: cont labetaol, hydralazine\n   Pulmonary: Trach today for secretion control\n   Gastrointestinal / Abdomen: Start bowel regiment\n   Nutrition: Tube feeding\n   Renal: Foley, Adequate UO\n   Hematology: Serial Hct\n   Endocrine: RISS\n   Infectious Disease: stable, afebvrile. on fluconazole\n   Lines / Tubes / Drains: Foley, G-tube\n   Wounds:\n   Imaging:\n   Fluids: KVO\n   Consults: Neurology\n   Billing Diagnosis: (Hemorrhage, NOS: Sub-arachnoid, Subdural), CVA\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2122-9-6**] 08:00 AM\n   18 Gauge - [**2122-9-6**] 08:00 AM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 28 minutes\n"
+    }
+  ]
+}

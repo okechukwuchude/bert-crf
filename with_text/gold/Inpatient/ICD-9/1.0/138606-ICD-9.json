@@ -1,0 +1,239 @@
+{
+  "hadm_id": 138606,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 15545,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 316,
+          "end": 342,
+          "code": "45.13",
+          "code_system": "ICD-9-PCS",
+          "description": "Other endoscopy of small intestine",
+          "type": "Human",
+          "covered_text": "Esophagogastroduodenoscopy"
+        },
+        {
+          "begin": 1855,
+          "end": 1859,
+          "code": "V45.81",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical aortocoronary bypass status",
+          "type": "MapType.EXACT",
+          "covered_text": "CABG"
+        },
+        {
+          "begin": 3926,
+          "end": 3938,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 3958,
+          "end": 3995,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "Chronic obstructive pulmonary disease"
+        },
+        {
+          "begin": 4018,
+          "end": 4035,
+          "code": "338.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pain",
+          "type": "MapType.EXACT",
+          "covered_text": "Chronic back pain"
+        },
+        {
+          "begin": 4038,
+          "end": 4046,
+          "code": "780.52",
+          "code_system": "ICD-9-CM",
+          "description": "Insomnia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Insomnia"
+        },
+        {
+          "begin": 4051,
+          "end": 4074,
+          "code": "327.23",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "MapType.EXACT",
+          "covered_text": "obstructive sleep apnea"
+        },
+        {
+          "begin": 4220,
+          "end": 4264,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "Tobacco: 3 PPD x 30 years, quit 45 years ago"
+        },
+        {
+          "begin": 7032,
+          "end": 7035,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 7037,
+          "end": 7040,
+          "code": "V12.54",
+          "code_system": "ICD-9-CM",
+          "description": "Transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "MapType.EXACT",
+          "covered_text": "CVA"
+        },
+        {
+          "begin": 7156,
+          "end": 7179,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "acute blood loss anemia"
+        },
+        {
+          "begin": 7518,
+          "end": 7521,
+          "code": "99.07",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of other serum",
+          "type": "MapType.APPROX",
+          "covered_text": "FFP"
+        },
+        {
+          "begin": 7571,
+          "end": 7594,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "MapType.APPROX",
+          "covered_text": "packed red blood cells,"
+        },
+        {
+          "begin": 7991,
+          "end": 8004,
+          "code": "553.3",
+          "code_system": "ICD-9-CM",
+          "description": "Diaphragmatic hernia without mention of obstruction or gangrene",
+          "type": "Human",
+          "covered_text": "hiatal hernia"
+        },
+        {
+          "begin": 8262,
+          "end": 8281,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute renal failure"
+        },
+        {
+          "begin": 8384,
+          "end": 8395,
+          "code": "276.52",
+          "code_system": "ICD-9-CM",
+          "description": "Hypovolemia",
+          "type": "MapType.EXACT",
+          "covered_text": "hypovolemia"
+        },
+        {
+          "begin": 9322,
+          "end": 9342,
+          "code": "V58.61",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of anticoagulants",
+          "type": "Human",
+          "covered_text": "On lifelong coumadin"
+        },
+        {
+          "begin": 9927,
+          "end": 9931,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 10357,
+          "end": 10380,
+          "code": "575.10",
+          "code_system": "ICD-9-CM",
+          "description": "Cholecystitis, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Recurrent cholecystitis"
+        },
+        {
+          "begin": 12565,
+          "end": 12574,
+          "code": "535.51",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified gastritis and gastroduodenitis, with hemorrhage",
+          "type": "Human",
+          "covered_text": "Gastritis"
+        },
+        {
+          "begin": 12588,
+          "end": 12625,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "chronic obstructive pulmonary disease"
+        },
+        {
+          "begin": 12626,
+          "end": 12643,
+          "code": "V12.54",
+          "code_system": "ICD-9-CM",
+          "description": "Transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "MapType.EXACT",
+          "covered_text": "history of stroke"
+        },
+        {
+          "begin": 12644,
+          "end": 12667,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "coronary artery disease"
+        },
+        {
+          "begin": 12668,
+          "end": 12680,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 12681,
+          "end": 12695,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Hyperlipidemia"
+        }
+      ],
+      "text": "Admission Date:  [**2145-2-6**]              Discharge Date:   [**2145-2-11**]\n\nDate of Birth:  [**2059-7-2**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 10488**]\nChief Complaint:\nBlack stools\n\nMajor Surgical or Invasive Procedure:\nEsophagogastroduodenoscopy\n\n\nHistory of Present Illness:\nThis is an 85 year old male with h/o CAD, CVA, HTN, COPD, with\nblack/maroon stools x 6-7 days. He has had 2 black BMs today\nwith increased fatigue and some lightheadedness when moving from\na sitting to standing position. He first noticed these dark\nbowel movements a few months ago, but they were intermittent and\nwould resolve on their own.  They start to increased in\nfrequency of the past 6-7 days, but did not result in any\nincreased stool output and he describes them currently as\nintermittent.  He denies any recent use of NSAIDs and has been\ntaking his Coumadin normally, without changing any doses.  He\ndenies any hematemesis, BRBPR, chest tightness/discomfort during\nthese episodes.  He does acknowledge coughing up pink-tinged\nsputum from time to time, but this has not worsened recently.\nOver the past year, since his CVA, he has complained of chronic\npins/needles over his right side, which seem to have worsened\nslightly during the last week or so.  When he arrived at\n[**Location (un) 620**], his INR was measured at 5.6, for which he was given Vit\nK 10mg PO x 1 and 2 units FFP. Hct reportedly measured at 31.\nPatient has been taking his [**Location (un) **], coumadin, and plavix at home\nand still has his biliary drain in place from the placement in\n[**Month (only) 404**].  He has gotten a few colonoscopies at [**Location (un) 620**] in the\npast 10 years, but does not remember the results.\n.\nOf note, during a hospitalization back in [**2144-3-26**], endoscopic\nCABG was performed d/t worsening exertional chest pain. His\nhospital course was c/b the need to return to the OR for\nre-exploration of his chest for bleeding after increased chest\ntube output was noted with a L sided pleural effusion and\nincreased O2 requirement.  1 week after discharge, the patient\nre-presented in [**2144-4-25**] with his 1st bout of acute\ncholecystitis.  Since he was deemed a poor surgical candidate,\nPTC was placed and he completed a 10-day course of Cipro/Flagyl.\n However, this hospitalization was c/b an acute stroke wit head\nCT and MRI showing acute infarctions in the left occipital lobe,\n\nleft thalamus, left cerebellar hemisphere and right superior\ncerebellum with resulting right-sided deficits.  The etiology\nwas thought to be cardioembolic and he was started on lifelong\nanticoagulation with coumadin.\n.\nHe was most recently admitted on [**2144-12-30**] with right upper\nquadrant pain, with management of acute cholecystitis once again\nwith placement of a percutaneous cholecystostomy tube, resulting\nin removal of purulent bile.  He was treated with augmentin for\n2 weeks.  This was immediately proceeded by an ERCP in [**2144-6-25**]\nwith stent placement for suspected cholangitis.\n.\nIn the ER, VS 99.8 81 111/72 16 100%. Hct dropped form 31 at OSH\nto 23. Pt had a NG lavage with minimal coffee grounds. Protonix\ngtt was started. RBCs x 2 units ordered. Noted to have ARF with\nCr 1.4 from baseline on 0.9 to 1.0. PIV 16 and 18 g. GI made\naware and plan to see patient in AM for likely EGD. At transfer,\nVS were 97.5 65 121/64 24 95% on 4L.\n.\nIn the ICU, he is comfortable, breathing well on 2-4L NC. He is\nnot usually on O2 at home. He has not had any bowel movements\nsince coming to the hospital yesterday.  He is feeling well with\nsome mild epigastric tenderness.\n\n\nPast Medical History:\n- CAD s/p right coronary artery stent x2 ([**10-3**], [**3-4**]) and s/p\nelective CABG on [**2144-4-21**] (LIMA-> LAD), c/b re-exploration\nrequired for bleeding\n- h/o stroke\n- h/o acute cholecystitis s/p perc chole placement on [**2144-5-12**]\n- Hypertension\n- Hyperlipidemia\n- Chronic obstructive pulmonary disease\n- Asbestos exposure\n- Chronic back pain\n- Insomnia and obstructive sleep apnea (untreated)\n\n\nSocial History:\nHe lives with his wife.  Defers all medical decisions to son who\nis a chiropractor.\nHe is a retired postal worker.\nTobacco: 3 PPD x 30 years, quit 45 years ago\nETOH: None\n\n\nFamily History:\nNon-contributory.\n\nPhysical Exam:\nAdmission exam\nVS: T 97.5, BP 133/63, HR 70, RR 16, O2 98% on 2L NC\nGEN: pleasant, comfortable, NAD, AAOx3\nHEENT: PERRL, EOMI, anicteric, MMM, OP without lesions or\nbleeding, no supraclavicular or cervical lymphadenopathy, no\nJVD, no carotid bruits, no thyromegaly or thyroid nodules\nRESP: bibasilar rales, R>L, with otherwise good air exchange B/L\n\nCV: RR, soft S1 and S2, no m/r/g appreciated\nABD: NABS, soft, ND, mild tenderness in to right of umbilicus,\nno tenderness over PTC drain, with dressings C/D/I and draining\nwell, no masses or hepatosplenomegaly\nEXT: no c/c/e\nSKIN: no rashes/no jaundice\nNEURO: AAOx3. Cn II-XII intact. 4/5 strength of right arm and\nleg, [**4-29**] on left.  Mild sensory deficits to light touch on right\nside. Hyporeflexic DTR's - patellar and biceps\n\nPertinent Results:\n[**2145-2-7**] 04:30AM BLOOD Hct-31.5*\n[**2145-2-6**] 10:00PM BLOOD Hct-30.9*\n[**2145-2-6**] 01:20PM BLOOD Hct-29.6*\n[**2145-2-6**] 05:58AM BLOOD Hct-29.5*\n[**2145-2-6**] 12:23AM BLOOD WBC-6.2 RBC-2.41* Hgb-8.0* Hct-23.8*\nMCV-99* MCH-33.1* MCHC-33.4 RDW-14.1 Plt Ct-388\n.\n[**2145-2-7**] 04:30AM BLOOD ALT-16 AST-19 LD(LDH)-151 AlkPhos-62\nTotBili-0.6\n[**2145-2-6**] 10:00PM BLOOD CK(CPK)-36*\n[**2145-2-6**] 05:58AM BLOOD ALT-17 AST-19 LD(LDH)-149 AlkPhos-62\nTotBili-1.2\n[**2145-2-6**] 12:23AM BLOOD ALT-18 AST-23 LD(LDH)-143 CK(CPK)-39*\nAlkPhos-69 TotBili-0.3\n.\n[**2145-2-6**] 12:23AM BLOOD Neuts-64.5 Lymphs-23.0 Monos-7.5 Eos-4.8*\nBaso-0.3\n.\n[**2145-2-7**] 04:30AM BLOOD PT-19.4* PTT-27.8 INR(PT)-1.8*\n.\n[**2145-2-7**] 04:30AM BLOOD Glucose-73 UreaN-25* Creat-1.1 Na-140\nK-4.0 Cl-110* HCO3-19* AnGap-15\n[**2145-2-7**] 04:30AM BLOOD Glucose-73 UreaN-25* Creat-1.1 Na-140\nK-4.0 Cl-110* HCO3-19* AnGap-15\n.\n[**2145-2-7**] 04:30AM BLOOD ALT-16 AST-19 LD(LDH)-151 AlkPhos-62\nTotBili-0.6\n[**2145-2-6**] 10:00PM BLOOD CK-MB-3 cTropnT-<0.01\n[**2145-2-6**] 10:00PM BLOOD CK-MB-3 cTropnT-<0.01\n[**2145-2-6**] 12:23AM BLOOD CK-MB-3 cTropnT-<0.01\n[**2145-2-7**] 04:30AM BLOOD Calcium-9.0 Phos-2.6* Mg-2.1\n\nEKG ([**2145-2-6**]): Baseline artifact. Sinus rhythm. Low amplitude P\nwaves with slight P-R interval prolongation of about 220\nmilliseconds. Borderline low\nlimb lead voltage. Slow R wave progression in leads V1-V2 which\nis\nnon-diagnostic. Cannot exclude underlying anteroseptal\nmyocardial infarction. Compared to the previous tracing of\n[**2144-12-30**] no diagnostic change.\n\nEGD ([**2145-2-10**]): Large hiatal hernia. Sloughing in the whole\nesophagus compatible with ischemic injury to esophagus. Erythema\nand granularity in the antrum compatible with antral gastritis.\nNormal mucosa in the duodenum. Otherwise normal EGD to third\npart of the duodenum\n\nBrief Hospital Course:\nICU course\n85M with hx of CAD, CVA, PTC x2 for recurrent cholecystitis and\nERCP for suspected cholangitis, now presenting with GI bleed.\n.\n# GI bleed/acute blood loss anemia: Patient has had maroon/dark\nstools and symptoms of orthostasis in setting of acute hemtocrit\ndrop. NG lavage was mildly positive + [**Last Name (LF) **], [**First Name3 (LF) **] likely a upper\nGI source. Pt at risk due to [**First Name3 (LF) **], plavix and coumadin. INR was\nsupratheraputic at [**Location (un) 620**] and reversed with FFP and Vitamin K.\nThe patient received two units of packed red blood cells, and\nhis hematocrit responded appropriately. Over the course of the\nnext day, his hematocrit remained stable.\nThe patient was started on a PPI drip, but then changed to PPI\niv BID. The patient's triple anticoagulation of aspirin,\nCoumadin, and Plavix was held, but metoprolol was\nrestarted once blood pressures were likely to remain stable. Pt\nthen underwent EGD on [**2145-2-10**] which revealed hiatal hernia,\nantral gastritis, and ischemic damage to esophageal mucosa with\nsloughing. GI thought that the latter represented a healing\nprocess. He was then transitioned to po PPI and did fine\nthroughout his hospital stay without any further evidence of\nbleeding.\n.\n# Acute renal failure: Acute rise to 1.4 from a baseline of 0.9\nto 1.0.  With concomitant increase in BUN, likely\npre-renal/hypovolemia due to GI bleed.  Given 2 units pRBCs. By\ntransfer from ICU, creatinine was 1.1, so no further work-up\npursued.\n.\n# Percutaneous biliary drain: placed [**2144-12-31**] with good drainage,\nand patient is without pain.  The patient had previously\nconsidered a poor surgical candidate due to multiple\ncomorbidities. Liver function tests were within normal limits.\n.\n# History of CAD: No signs or symptoms of ACS upon this\nadmission.  No evidence of demand ischemia, no EKG changes and\nno chest discomfort.  Negative CE. Some mild epigastric pain,\nbut patient not troubled by it. Aspirin and Plavix were held\nduring the admission. We contact[**Name (NI) **] Dr. [**Last Name (STitle) 11302**], her PCP, [**Name10 (NameIs) 1023**]\nagreed that we could stop his plavix (initial plan was to\ncontinue until 3/[**2144**]). He was therefore discharged only on\naspirin with follow up with Dr. [**Last Name (STitle) 11302**].\n.\n# CVA hx: On lifelong coumadin [**1-27**] likely cardioembolic etiology\nof CVA in past.  Residual right-sided \"pins/needles\" sensation\nand mild weakness with decreased functional ability. Held\ncoumadin for EGD, and reversed with FFP and vit K. Neurology was\ncontact[**Name (NI) **] regarding need for lifelong coumadin, given that his\ncardioembolic CVA was in the setting of off-pump CABG. It was\ndecided that he would not need coumadin, given the risk-benefit\nprofile, and he was thus discharged without coumadin. He will\nfollow-up with stroke neurologist Dr. [**Last Name (STitle) **] for further\nmanagement.\n.\n# COPD: Stable, no home O2 at baseline.  Mild bibasilar rales,\nwithout coughing or URI sx.  No evidence of an acute\nexacerbation on this admission. CXR if worsening oxygenation or\nincreased respiratory symptoms. He was continued on home [**Last Name (STitle) **]\nand spiriva, with albuterol nebs PRN. Pt noted, however, that he\nhas stopped taking [**Last Name (LF) **], [**First Name3 (LF) **] this medication was discontinued.\n.\n# Recurrent cholecystitis: Prior to hospitalization, there have\nthe discussions about elective cholecystectomy given pt\nanticoagulation. We contact[**Name (NI) **] surgery during this admission for\npossible cholecystectomy given that pt is off of\nanticoagulation. Given signs of ischemic injury (though\nresolving) in esophagus, surgery chose to defer surgery for now.\nHe will have outpt follow up with Dr. [**First Name (STitle) 2819**].\n\nMedications on Admission:\n-fluticasone-salmeterol 250-50 mcg/dose [**Hospital1 **]\n-tiotropium bromide 18 mcg Capsule, DAILY\n-albuterol sulfate 2.5 mg /3 mL (0.083 %) neb q6h prn\n-Plavix 75 mg once a day\n-metoprolol tartrate 25 mg Tablet PO BID\n-Colace 100mg [**Hospital1 **]\n-MV qday\n-Zocor 20mg HS\n-Coumadin 4mg qday\n-[**Hospital1 **] 81ng\n-Tylenol prn\n\nDischarge Medications:\n1. tiotropium bromide 18 mcg Capsule, w/Inhalation Device [**Hospital1 **]:\nOne (1) Cap Inhalation DAILY (Daily). Cap(s)\n2. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization [**Hospital1 **]: One (1)  Inhalation Q6H (every 6 hours) as\nneeded for SOB.\n3. simvastatin 10 mg Tablet [**Hospital1 **]: Two (2) Tablet PO [**Hospital1 **] (once a\nday (at bedtime)).\n4. metoprolol tartrate 25 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID\n(2 times a day).\n5. zolpidem 5 mg Tablet [**Hospital1 **]: One (1) Tablet PO HS (at bedtime)\nas needed for insomnia.\n6. senna 8.6 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n[**Hospital1 **]:*qs Tablet(s)* Refills:*0*\n7. docusate sodium 100 mg Capsule [**Hospital1 **]: One (1) Capsule PO BID (2\ntimes a day).\n[**Hospital1 **]:*60 Capsule(s)* Refills:*2*\n8. bisacodyl 10 mg Suppository [**Hospital1 **]: One (1) Suppository Rectal\nDAILY (Daily) as needed for constipation.\n[**Hospital1 **]:*qs Suppository(s)* Refills:*0*\n9. pantoprazole 40 mg Tablet, Delayed Release (E.C.) [**Hospital1 **]: One\n(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).\n[**Hospital1 **]:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*\n10. aspirin 81 mg po daily\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Location (un) 932**] Area [**Location (un) 269**]\n\nDischarge Diagnosis:\nPrimary: Gastritis\n.\nSecondary:\nchronic obstructive pulmonary disease\nhistory of stroke\ncoronary artery disease\nhypertension\nHyperlipidemia\n\n\nDischarge Condition:\nMental status - alert and appropriate\nAmbulatory status - ambulatory\nOverall - good\n\n\nDischarge Instructions:\nYou have been admitted with a bleed from your stomach worsened\nby the fact that you are on multiple blood thinning agents. We\nhave evaluated your stomach and found the source, which does not\nappear to be serious. You should however take your new\nmedication, which reduces the acid in your stomach.\n.\nYou were considered for possible removal of your gallbladder\nduring this admission, but the surgeons felt that you should\nbest weight until your stomach issues have completely resolved.\nYou are scheduled with follow-up appointments with your PCP, [**Last Name (NamePattern4) **].\n[**First Name (STitle) 2819**], and the gastroenterologist who saw you during this\nadmission, Dr. [**First Name (STitle) 679**].\n.\nMedication changes:\n1. Stop plavix\n2. Stop coumadin\n3. Stool softeners for constipation as needed\n4. Proton pump inhibitor for your stomach inflammation\n\nFollowup Instructions:\nName: [**Last Name (LF) 679**], [**Name8 (MD) 1158**] MD\nAddress: [**Doctor First Name **],STE 8A, [**Location (un) **],[**Numeric Identifier 718**]\nPhone: [**Telephone/Fax (1) 682**]\nAppt: [**2-18**] at 12noon\n\nName: [**Last Name (un) **],PERMINDER\nAddress: [**Apartment Address(1) 45001**], [**Location (un) **],[**Numeric Identifier 3862**]\nPhone: [**Telephone/Fax (1) 29110**]\nAppt: [**2-19**] at 11:15am\n\nDepartment: SURGICAL SPECIALTIES\nWhen: MONDAY [**2145-3-8**] at 1:30 PM\nWith: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 8318**], MD [**Telephone/Fax (1) 2998**]\nBuilding: [**Street Address(2) 3001**] ([**Location (un) 620**], MA) [**Location (un) **]\nCampus: OFF CAMPUS     Best Parking: Parking on Site\n\n[**2145-3-1**]  03:30p   [**Last Name (LF) **],[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 640**] C.\n  SC [**Hospital Ward Name **] CLINICAL CTR, [**Location (un) **]\n  NEUROLOGY UNIT CC8 (SB)\n\n\n\n"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "hadm_id": 110191,
+  "comment": "OP reports missing- unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 555605,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 5130,
+          "end": 5136,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "anemia"
+        }
+      ],
+      "text": "TSICU\n   HPI:\n   78 F recently treated for BOOP w prednisone, now admitted to [**Hospital1 **] w/\n   AMS, confusion.  Found to have large intracranial masses (left and\n   right frontal lobe) - abscesses.  s/p open drainage [**2-18**] of first\n   abscess, and now s/p stereotactic drainage [**2-19**] of second abscess.\n   Chief complaint:\n   mental status changes\n   PMHx:\n   COPD, BOOP (dx by CT bx), PNA ([**1-22**]), glaucoma, lipids, anxiety\n   Current medications:\n   LeVETiracetam 500 mg IV BID, MetRONIDAZOLE (FLagyl) 500 mg IV Q8H,\n   Ampicillin 2 g IV Q4H, CeftazIDIME 2 g IV Q8H, Chlorhexidine Gluconate\n   0.12% Oral Rinse 15 ml ORAL [**Hospital1 **], Dexamethasone 4 mg IV Q6H, Propofol\n   5-20 mcg/kg/min IV DRIP, Famotidine 20 mg IV Q12H, Insulin SC\n   24 Hour Events:\n INTUBATION - At [**2151-2-19**] 05:28 PM\n INVASIVE VENTILATION - START [**2151-2-19**] 05:31 PM\n ARTERIAL LINE - START [**2151-2-19**] 07:22 PM\n ARTERIAL LINE - STOP [**2151-2-19**] 09:10 PM\n MAGNETIC RESONANCE IMAGING - At [**2151-2-20**] 01:27 AM\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Vancomycin - [**2151-2-19**] 08:18 PM\n   Metronidazole - [**2151-2-19**] 11:34 PM\n   Ceftazidime - [**2151-2-20**] 02:57 AM\n   Ampicillin - [**2151-2-20**] 03:44 AM\n   Infusions:\n   Propofol - 15 mcg/Kg/min\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2151-2-19**] 09:33 PM\n   Other medications:\n   Flowsheet Data as of  [**2151-2-20**] 04:15 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**54**] a.m.\n   Tmax: 36.1\nC (97\n   T current: 35.8\nC (96.5\n   HR: 46 (46 - 71) bpm\n   BP: 113/40(60) {101/39(59) - 141/72(85)} mmHg\n   RR: 14 (12 - 16) insp/min\n   SPO2: 99%\n   Heart rhythm: SB (Sinus Bradycardia)\n             Total In:\n                                                                  1,249 mL\n                                                                    352 mL\n   PO:\n             Tube feeding:\n   IV Fluid:\n                                                                  1,249 mL\n                                                                    352 mL\n   Blood products:\n   Total out:\n                                                                    293 mL\n                                                                    158 mL\n   Urine:\n                                                                    293 mL\n                                                                    158 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    956 mL\n                                                                    194 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 14\n   RR (Spontaneous): 0\n   PEEP: 5 cmH2O\n   FiO2: 50%\n   PIP: 31 cmH2O\n   Plateau: 23 cmH2O\n   SPO2: 99%\n   ABG: 7.41/41/198/24/1\n   Ve: 7.2 L/min\n   PaO2 / FiO2: 396\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular), (Murmur: No(t) Systolic, No(t)\n   Diastolic)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present\n   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present), (Pulse - Posterior tibial: Present)\n   Neurologic: Follows simple commands, (Responds to: Verbal stimuli),\n   Moves all extremities\n   Labs / Radiology\n   212 K/uL\n   10.5 g/dL\n   108 mg/dL\n   0.6 mg/dL\n   24 mEq/L\n   4.1 mEq/L\n   12 mg/dL\n   112 mEq/L\n   144 mEq/L\n   32.0 %\n   16.7 K/uL\n        [image002.jpg]\n                             [**2151-2-19**]  06:01 PM\n                             [**2151-2-19**]  06:05 PM\n                             [**2151-2-20**]  03:24 AM\n   WBC\n   17.7\n   16.7\n   Hct\n   30.8\n   32.0\n   Plt\n   245\n   212\n   Creatinine\n   0.6\n   TCO2\n   27\n   Glucose\n   108\n   Other labs: PT / PTT / INR:11.8/19.5/1.0, Ca:8.8 mg/dL, Mg:2.3 mg/dL,\n   PO4:3.1 mg/dL\n   Assessment and Plan\n   [**Last Name **] PROBLEM - ENTER DESCRIPTION IN COMMENTS\n   Assessment and Plan: 78F s/p drainage of B frontal brain abscesses\n   Neurologic: Keppra for seizure prophylaxis, continue antibiotics for\n   brain abscesses and f/u cultures, f/[**Location 471**] MRI read today\n   Neuro checks Q:1\n   Pain: morphine PRN with good effect\n   Cardiovascular: Hemodynamically stable, will likely need TEE to r/o\n   endocarditis, cardiology is consulted\n   Pulmonary: Wean to extubate, possible abscess in right lung - discussed\n   w IP and will see the patient today regarding recommendations vs\n   possible drainage\n   Gastrointestinal / Abdomen: NPO\n   Nutrition: NPO\n   Renal: normal creatinine with good urine output, will check lytes and\n   replete as necessary\n   Hematology: stable anemia, coags normal\n   Endocrine: RISS\n   Infectious Disease: Currently w/o fevers.  Antibiotics - Flagyl, vanc,\n   unasyn, and ceftazidime.  ID following, will follow-up continued recs\n   today.  f/u OR cultures, now w GPCs from brain abscesses.\n   Lines / Tubes / Drains: PIV, Foley, a-line, ETT\n   Wounds: craniotomy wounds clean/dry/intact\n   Imaging: MRI\n   Fluids: NS @ 100\n   Consults: neurosurg, ID, IP, cardiology\n   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op)\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   18 Gauge - [**2151-2-19**] 07:22 PM\n   20 Gauge - [**2151-2-19**] 08:36 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: H2 blocker\n   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: ICU\n   Total time spent:\n"
+    },
+    {
+      "note_id": 35347,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2348,
+          "end": 2356,
+          "code": "365.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified glaucoma",
+          "type": "Human",
+          "covered_text": "Glaucoma"
+        },
+        {
+          "begin": 2360,
+          "end": 2367,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "Human",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 2371,
+          "end": 2382,
+          "code": "296.80",
+          "code_system": "ICD-9-CM",
+          "description": "Bipolar disorder, unspecified",
+          "type": "Human",
+          "covered_text": "Bipolar D/O"
+        },
+        {
+          "begin": 2416,
+          "end": 2424,
+          "code": "366.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other cataract",
+          "type": "Human",
+          "covered_text": "Cataract"
+        },
+        {
+          "begin": 2447,
+          "end": 2457,
+          "code": "355.9",
+          "code_system": "ICD-9-CM",
+          "description": "Mononeuritis of unspecified site",
+          "type": "Human",
+          "covered_text": "Neuropathy"
+        },
+        {
+          "begin": 2462,
+          "end": 2476,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "hyperlipidemia"
+        },
+        {
+          "begin": 2545,
+          "end": 2595,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "Smoked 3ppd\nfor many years, quit over 20 years ago"
+        },
+        {
+          "begin": 5718,
+          "end": 5731,
+          "code": "324.0",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial abscess",
+          "type": "Human",
+          "covered_text": "Brain Abscess"
+        },
+        {
+          "begin": 6395,
+          "end": 6417,
+          "code": "041.09",
+          "code_system": "ICD-9-CM",
+          "description": "Other Streptococcus infection in conditions classified elsewhere and of unspecified site",
+          "type": "Human",
+          "covered_text": "Streptococcus Viridans"
+        },
+        {
+          "begin": 7886,
+          "end": 7901,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "acute pneumonia"
+        },
+        {
+          "begin": 8641,
+          "end": 8647,
+          "code": "112.0",
+          "code_system": "ICD-9-CM",
+          "description": "Candidiasis of mouth",
+          "type": "Human",
+          "covered_text": "thrush"
+        },
+        {
+          "begin": 8785,
+          "end": 8807,
+          "code": "793.99",
+          "code_system": "ICD-9-CM",
+          "description": "Other nonspecific abnormal findings on radiological and other examinations of body structure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Endometrial thickening"
+        },
+        {
+          "begin": 9594,
+          "end": 9598,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 11565,
+          "end": 11590,
+          "code": "324.0",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial abscess",
+          "type": "Human",
+          "covered_text": "Bilateral Brain Abscesses"
+        }
+      ],
+      "text": "Admission Date:  [**2151-2-17**]              Discharge Date:   [**2151-3-2**]\n\nDate of Birth:  [**2072-10-22**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 5119**]\nChief Complaint:\nConfusion\n\nMajor Surgical or Invasive Procedure:\nBrain Abscess drainage\nBronchoscopy with biopsy\n\n\nHistory of Present Illness:\n78 F presents from [**Hospital3 **] for acute mental status\nchanges and bilateral frontal mass lesions. She began prednisone\ntherapy for 4 days ago for BOOP. She complained of a headache on\nover the weekend, which was unusual for her. Her family noted\nincreasing confusion x a few days, then yesterday she was noted\nto have some slurred speech and then this morning she couldn't\nspeak - could only say \"[**Last Name (un) 46536**]...\" and \"no.\" She was not able to\nbathe herself this AM as she forgot what to do. She normally\ncares for herself and is high functioning. She was taken to her\nPCP (Dr [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 80583**]), where a mini mental was given, she could only\ndo about half the items on the test -- this is a dramatic change\nfor her. Therefore, she was sent to the [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 4117**] ED. CT\nrevealed 2.4 cm lesion in the L frontoparietal region and a 20\nmm lesion in the Right frontal lobe. At OSH ED given decadron 24\nmg x1. Transferred to [**Hospital1 18**] for neurosurg eval.\n\nThe patient developed what was thought to be \"the flu\" in\n[**Month (only) 359**]; this then developed into pneumonia in [**Month (only) 1096**]. The\npneumonia did not go away despite a few rounds of antibiotics. A\nbiopsy was performed [**2151-2-5**] which showed \"metaplastic alveolar\nepithelial cells, fibroblasts and rare inflammatory cells\"\nthought to be consistant with BOOP. She was started Prednisone 4\ndays prior to admission.\n\nShe has not had a colonoscopy. She has yearly mammograms that\nhave been fine. Her daughter is not sure about her [**Name (NI) **] history.\n\n\nIn the [**Hospital1 18**] ED: Neurosurgery was consulted. She was loaded with\ndilantin. She was admitted to medicine for further workup.\n\n\nPast Medical History:\n1. COPD\n2. BOOP- diagnosed 3 weeks ago by CT guided biopsy\n3. Pneumonia ([**1-22**]) 3 days admission- [**Hospital1 **]\n4. Glaucoma\n5. Anxiety\n6. Bipolar D/O -- well controlled x 20 years\n7. Cataract\n8. fluid retention\n9. Neuropathy\n10. hyperlipidemia\n\n\nSocial History:\nLives at home with daughter, completes most ADLs. Smoked 3ppd\nfor many years, quit over 20 years ago. No EtOH.\n\n\nFamily History:\nFather- lung ca, CAD\n\nPhysical Exam:\nGen: NAD\nHEENT: MMM. PERRL, EOMI.\nCV: RRR\nPulm: CTA, minimal fine crackles at bases\nAbd: obese, soft, NT/ND\nLE: warm, no edema\nNeuro: alert, oriented to person and place. speech is slow,\nmostly limited to yes and no responses. seems to have some\nwordfinding difficulty. cranial nerves grossly intact. moves all\n4 ext with good strength, no gross sensory deficits.\n\n\nPertinent Results:\n[**2151-3-2**] 06:10AM BLOOD WBC-13.2* RBC-3.62* Hgb-11.2* Hct-33.2*\nMCV-92 MCH-31.1 MCHC-33.8 RDW-16.5* Plt Ct-135*\n[**2151-3-1**] 05:49AM BLOOD WBC-14.0* RBC-3.62* Hgb-11.1* Hct-33.2*\nMCV-92 MCH-30.5 MCHC-33.3 RDW-16.2* Plt Ct-143*\n[**2151-2-28**] 06:54AM BLOOD WBC-19.7* RBC-3.86* Hgb-11.9* Hct-35.4*\nMCV-92 MCH-30.8 MCHC-33.5 RDW-16.2* Plt Ct-163\n[**2151-2-27**] 05:29AM BLOOD WBC-14.9* RBC-3.87* Hgb-11.7* Hct-35.0*\nMCV-91 MCH-30.2 MCHC-33.4 RDW-16.3* Plt Ct-171\n[**2151-2-26**] 05:40AM BLOOD WBC-14.0* RBC-3.67* Hgb-11.1* Hct-33.2*\nMCV-91 MCH-30.3 MCHC-33.4 RDW-15.7* Plt Ct-163\n[**2151-2-28**] 06:54AM BLOOD Neuts-64 Bands-0 Lymphs-21 Monos-7 Eos-5*\nBaso-0 Atyps-2* Metas-1* Myelos-0\n[**2151-3-2**] 06:10AM BLOOD Glucose-86 UreaN-14 Creat-0.5 Na-143\nK-4.2 Cl-105 HCO3-33* AnGap-9\n[**2151-3-1**] 05:49AM BLOOD Glucose-80 UreaN-14 Creat-0.6 Na-143\nK-4.2 Cl-104 HCO3-33* AnGap-10\n[**2151-2-28**] 06:54AM BLOOD Glucose-67* UreaN-14 Creat-0.6 Na-145\nK-4.0 Cl-104 HCO3-31 AnGap-14\n[**2151-2-27**] 05:29AM BLOOD Glucose-105 UreaN-12 Creat-0.5 Na-139\nK-4.0 Cl-102 HCO3-32 AnGap-9\n[**2151-2-27**] 05:29AM BLOOD Calcium-8.5 Phos-3.4 Mg-2.1\n==========================================================\n\nMICROBIOLOGY:\n\n[**2151-2-17**]: Bld Culture x 1 Negative\n[**2151-2-17**]: Urine Cx x 1 negative\n[**2151-2-18**]: Tissue Cx Left Frontal Brain Abscess Wall: PMN\nLeukocytes 2+, no micro-organisms.\n[**2151-2-23**] BAL: PMN Leukocytes, no microorganisms, no Fungus, No\nAFBs\n[**2151-2-23**] RUL Tissue (during bronchoscopy)\n\nGRAM STAIN: POLYMORPHONUCLEAR LEUKOCYTES, NO MICROORGANISMS\nSEEN. NO GRWOTH\nANAEROBIC CULTURE: NO GROWTH.\nFUNGAL CULTURE (Preliminary): NO FUNGUS ISOLATED.\nACID FAST SMEAR: NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.\n\n[**2151-2-18**] BRAIN ABSCESS DRAINAGE\n\nGRAM STAIN (Final [**2151-2-19**]):\n      3+  (5-10 per 1000X FIELD):   POLYMORPHONUCLEAR\nLEUKOCYTES.\n      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.\n                                    IN PAIRS AND CLUSTERS.\n      REPORTED BY PHONE TO [**First Name8 (NamePattern2) **] [**Doctor Last Name 80584**] @ 00:08A [**2151-2-19**].\n      SMEAR REVIEWED; RESULTS CONFIRMED.\n\n   TISSUE (Final [**2151-2-25**]):\n      VIRIDANS STREPTOCOCCI.    SPARSE GROWTH.\n         NOT VIABLE FOR SENSITIVITIES.\n      VIRIDANS STREPTOCOCCI.    RARE GROWTH.  SECOND MORPHOLOGY.\n\n         NOT VIABLE FOR SENSITIVITIES.\n\n   ANAEROBIC CULTURE (Final [**2151-2-25**]):    NO ANAEROBES ISOLATED.\n\n\n   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.\n\n   ACID FAST CULTURE (Preliminary):\n\n   ACID FAST SMEAR (Final [**2151-2-19**]):\n      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.\n\n\nBrief Hospital Course:\n## Brain Abscess: Pt was admitted to [**Hospital1 18**] from an outside\nhospital following her history of altered mental status as well\nevidence of frontal bilateral masses. Pt underwent a CT scan and\nMRI which showed the appearance of cystic lesion. Pt was started\non IV steroids and neurosurgery were consult. On the night of\nadmission pt underwent an open bone flap and drainage to assess\nwhether lesion was metastatic versus an infection. Pus was noted\nand drained noted to have brain abscess on biopsy/drainage\nperformed on [**2-18**]. Pt was then admitted and observed in the\nNeurosurgical ICU where she underwent a second procedure to\nremove her remaining rt sided lesion. Streptococcus Viridans was\ncultured and pt was started on a course of Vancomycin and then\ntransitioned to Ceftriaxone per Infectious disease\nrecommendations 2gm IV q 12hrs on [**2-26**]. Per Neurosurgery\nrecommendations pt was started on Keppra for seizure\nprophylaxis. Pt currently has two sutures in place at time of\ndischarge, the largest will dissolve, the second will need to be\nremoved during a follow up visit to Dr.[**Name (NI) 12757**] office on\n[**2151-3-8**] 11:30. Pt will need a repeat CT scan as an outpatient\nwhich has been scheduled for [**2151-3-23**] 2:00, after CT head scan\npt will see Dr. [**Last Name (STitle) **].  Pt will need a minimum of a 4 week\ncourse of Ceftriaxone 2gm IV q12hrs. Pt will have, during this\nduration, a follow up Infectious Disease Clinic appointment\nwhere they will decide whether she needs additional treatment.\nPt underwent a TTE that did not show any endocarditis.  TEE was\ndeferred as it would not change management and was felt to be a\nhigh risk\nprocedure per our cardiology team.  The most likely etiology of\nher brain abscesses is seeding from her lung infection (see\nbelow) or from endocarditis.\n\n## Lung Lesion: Pt underwent a biopsy of lung mass recently that\nwas positive for BOOP. As the possibility of malignancy still\nexisted the pt's RUL mass went to the bronchoscopy suite where\nshe underwent 6 biopsies, BAL, brush examination. Biopsies\nshowed alveolar and peribronchial tissue with mixed inflammatory\ninfiltrate, suggestive of acute pneumonia. Bronchial mucosa with\nmildly increased goblet cells and focal acute inflammation. No\nmalignancy was identified. Pt was discharged with a 7 day\nsteroid taper per Interventional Pulmonary.  Pt will f/u with a\nrepeat CT chest with contrast scan on [**2151-4-9**] 1030 to check the\nRUL mass.  Results will be faxed to Dr. [**Name (NI) 80585**], pt will follow\nup with Dr. [**Last Name (STitle) 80585**] on [**2151-4-15**] 17:15.\n\n##. Mobility: Pt had bone flap removed for abscess drainage. She\nwill need to wear the helmet whenever she is mobile. She will\nlater need a graft however this will not be performed until\nseveral months from now.\n\n## Leukocytosis: Pt's WBC was noted to trend up and then down\nprior to discharge. Pt noted to have thrush as well as yeast in\nher urine. Pt was started on a 14 day course of oral\nFluconazole.\n- continue total 14 days Course of Fluconazole\n\n## Endometrial thickening: On CAT scan pt's endometrial lining.\nRecommend pt undergo a transvaginal U/S to evaluate endometrial\nthickening as an outpatient.\n\n## FEN: pt underwent bedside and swallow evaluation. Per speech\nand swallow recommendations pt was started and tolerated a soft\ndiet with thin liquids.\n\n## Psych: Pt has history of bipolar disorder, for which she\nusually takes Thoridazine. After discussion with Neurosurgery it\nwas decided that the Thoridazine would have a potential to\ninterfere with the pt's neurological examination. Pt will be\nre-evaluated by Dr. [**Last Name (STitle) **] on [**3-23**], at that time a decision\nwill be made whether Thoridazine can be restarted.\n- Recommend discussing with Dr. [**Last Name (STitle) **] on [**3-23**] whether pt can\nstart her Thoridazine again.\n\n## COPD: Pt noted intermittently to be wheezing on examination\nduring the first days of admission. Pt was discharged on\nTiotropium Bromide.\n\n## Code status: FULL CODE\n\n\nMedications on Admission:\nPrednisone 20 mg Daily (Started [**2151-2-13**])\nGabapentin 300 mg TID\nHCTZ 25 mg Daily\nSimvistatin 20 mg Daily\nSpiriva 18 mg Daily\nAlbuterol\nBetaxolol Ophth Susp 0.25%\nThioridazine 40 mg qHS\n\n\nDischarge Medications:\n1. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed.\n2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n4. Betaxolol 0.25 % Drops, Suspension Sig: One (1) Drop\nOphthalmic [**Hospital1 **] (2 times a day).\n5. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12\nhours).\n6. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n7. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n8. Ceftriaxone in Dextrose,Iso-os 2 gram/50 mL Piggyback Sig:\nOne (1)  Intravenous Q12H (every 12 hours) for 33 days: Your\nlast day of antibiotics will be on [**2151-4-3**].\n9. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:\nOne (1) Cap Inhalation DAILY (Daily).\n10. Polyvinyl Alcohol 1.4 % Drops Sig: 1-2 Drops Ophthalmic PRN\n(as needed).\n11. Fluconazole 100 mg Tablet Sig: One (1) Tablet PO Q24H (every\n24 hours) for 28 days: Your last dose will be [**2151-3-29**].\n12. Prednisone 5 mg Tablet Sig: Three (3) Tablet PO DAILY\n(Daily) for 13 doses: Please follow taper.\n\n[**Date range (3) 80586**] Please take 15mg of Prednisone once a day.\n[**Date range (1) 80587**] Please take 10mg of Prednisone once a day.\n[**Date range (1) 52680**] Please take 5mg of Prednisone once a day.\n[**Date range (1) 80588**] Please take 2.5mg of Prednisone once a day.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 700**] - [**Location (un) 701**]\n\nDischarge Diagnosis:\nBilateral Brain Abscesses\n\n\nDischarge Condition:\nStable, afebrile\n\n\nDischarge Instructions:\nYou were admitted to the hospital after it was found that you\nhad two brain abscesses. You were taken to the operating room by\nthe Neurosurgeons who drained your abscesses. The abscesses were\npositive for a bacteria called Streptococcus Viridans. We\nchecked your blood cultures, performed an echo of yor heart\ncheck for a source of the infection, all were negative. We\nconsulted the infectious disease specialists who recommended a\nminimum 4 weeks of antibiotics. They will see you as an\noutpatient to see whether you will need more antibiotics.\n\nPrior to leaving the hospital you were fitted for a helmet which\nyou will need to wear whenever you are walking as a part of you\nskull was removed for the abscess drainage.\n\nPlease take your medications as prescribed:\n\nYou will be on a Prednisone taper:-\n\n[**Date range (3) 80586**] Please take 15mg of Prednisone once a day.\n[**Date range (1) 80587**] Please take 10mg of Prednisone once a day.\n[**Date range (1) 52680**] Please take 5mg of Prednisone once a day.\n[**Date range (1) 80588**] Please take 2.5mg of Prednisone once a day.\n\nYou were also started on two antibiotics:\n\n1. Ceftriaxone 2gm IV every 12 hours, your last dose currently\nwill be given on [**2151-4-3**].\n2. Fluconazole for the yeast in your urine and oral thrush.\nPlease take 100mg Fluconazole once a day day. Your last dose\nwill be [**2151-3-29**].\n\nPlease follow up with all of your appointments.\n\nYou have been scheduled for 2 CAT scans.\nYour first scan is of your head and will be followed by Dr.\n[**Last Name (STitle) **], This is to check the progression of your abscesses and\nif they have come back. It is scheduled for [**2151-3-23**] 14:00 and\nit will be on the [**Location (un) **] of [**Hospital Ward Name 23**].\n\nThe second CAT scan is of your chest to see the progression of\nthe mass in your chest that was biopsied by Dr. [**Last Name (STitle) 80585**] and us.\nThe results will be faxed to Dr. [**Last Name (STitle) 80585**]. It is scheduled for\n[**2151-4-9**] 10:30 and it will be on the [**Location (un) **] of the [**Hospital Ward Name 23**]\nbuilding.\n\nIf you experienced any seizures, fevers, chills, difficulty\nbreathing please call your doctor or return to the ED.\n\nFollowup Instructions:\nYou will continue to receive antibiotics for a total of 4 weeks.\nYou can call [**Telephone/Fax (1) **] to reach the infectious disease\ndoctors [**First Name (Titles) **] [**Hospital1 **] for any questions.\n\nSUTURE REMOVAL APPOINTMENT: (DR.[**Doctor Last Name **] OFFICE) [**2151-3-8**] 11:30\nOFFICE Located aT [**Doctor First Name **]\n\nProvider: [**Name10 (NameIs) **] SCAN Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2151-3-23**] 2:00\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 12760**], MD Phone:[**Telephone/Fax (1) 1669**]\nDate/Time:[**2151-3-23**] 2:30\nProvider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2151-4-2**]\n11:30\nProvider: [**Name10 (NameIs) **] SCAN Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2151-4-9**] 10:30\nProvider: [**First Name4 (NamePattern1) 177**] [**Last Name (NamePattern1) **], MD Date/Time: [**2151-4-15**] 17:15\n\n\n                             [**First Name7 (NamePattern1) 1569**] [**Initial (NamePattern1) **] [**Name8 (MD) **] MD [**MD Number(2) 5122**]\n\n"
+    },
+    {
+      "note_id": 555660,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 47,
+          "end": 69,
+          "code": "96.71",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous mechanical ventilation for less than 96 consecutive hours",
+          "type": "Human",
+          "covered_text": "mechanical ventilation"
+        }
+      ],
+      "text": "Demographics\n   Day of intubation: 2\n   Day of mechanical ventilation: 2\n   Ideal body weight: 0 None\n   Ideal tidal volume: 0 / 0 / 0 mL/kg\n   Airway\n   Airway Placement Data\n   Known difficult intubation: No\n   Procedure location: ICU\n   Reason: Re-intubation\n   Tube Type\n   ETT:\n                   Position: 21 cm at teeth\n                   Route: Oral\n                   Type: Standard\n                   Size: 7mm\n   Tracheostomy tube:\n                   Type:\n                   Manufacturer:\n                   Size:\n                   PMV:\n   Cuff  Management:\n                   Vol/Press:\n                                   Cuff pressure:   cmH2O\n                                   Cuff volume:   mL /\n                   Airway problems:\n                   Comments:\n   Lung sounds\n   RLL Lung Sounds: Diminished\n   RUL Lung Sounds: Clear\n   LUL Lung Sounds: Clear\n   LLL Lung Sounds: Diminished\n   Comments:\n   Secretions\n   Sputum color / consistency: Tan / Thick\n   Sputum source/amount: Suctioned / Scant\n   Comments:\n   Ventilation Assessment\n   Level of breathing assistance: Continuous invasive ventilation\n   Visual assessment of breathing pattern: no breathing efforts\n   Assessment of breathing comfort: No response (sleeping / sedated)\n   Non-invasive ventilation assessment:\n   Invasive ventilation assessment:\n   Trigger work assessment: Not triggering\n   Dysynchrony assessment:\n   Comments:\n   Plan\n   Next 24-48 hours: Continue with daily RSBI tests & SBT's as tolerated\n   Reason for continuing current ventilatory support:\n   Respiratory Care Shift Procedures\n   Transports:\n   Destination (R/T)\n   Time\n   Complications\n   Comments\n   Bedside Procedures:\n   Comments:\n   [**Name (NI) 2739**] pt status on rounds\n"
+    }
+  ]
+}

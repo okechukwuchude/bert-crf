@@ -1,0 +1,131 @@
+{
+  "hadm_id": 169861,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 41774,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 359,
+          "end": 363,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Afib"
+        },
+        {
+          "begin": 382,
+          "end": 396,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "hypothyroidism"
+        },
+        {
+          "begin": 1934,
+          "end": 1946,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1947,
+          "end": 1952,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "NIDDM"
+        },
+        {
+          "begin": 1971,
+          "end": 1974,
+          "code": "443.9",
+          "code_system": "ICD-9-CM",
+          "description": "Peripheral vascular disease, unspecified",
+          "type": "Human",
+          "covered_text": "PVD"
+        },
+        {
+          "begin": 4487,
+          "end": 4502,
+          "code": "427.5",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac arrest",
+          "type": "Human",
+          "covered_text": "Cardiac arrest:"
+        },
+        {
+          "begin": 5707,
+          "end": 5718,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 6160,
+          "end": 6163,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 6376,
+          "end": 6397,
+          "code": "853.05",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified intracranial hemorrhage following injury, without mention of open intracranial wound, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level",
+          "type": "Human",
+          "covered_text": "IVH: likely secondary"
+        },
+        {
+          "begin": 6741,
+          "end": 6759,
+          "code": "276.2",
+          "code_system": "ICD-9-CM",
+          "description": "Acidosis",
+          "type": "Human",
+          "covered_text": "metabolic acidosis"
+        },
+        {
+          "begin": 6789,
+          "end": 6800,
+          "code": "276.3",
+          "code_system": "ICD-9-CM",
+          "description": "Alkalosis",
+          "type": "Human",
+          "covered_text": "respiratory"
+        },
+        {
+          "begin": 7351,
+          "end": 7353,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 7527,
+          "end": 7539,
+          "code": "793.11",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Lung nodules"
+        }
+      ],
+      "text": "Admission Date:  [**2161-9-5**]              Discharge Date:   [**2161-9-16**]\n\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 1253**]\nChief Complaint:\ns/p Arrest\n\nMajor Surgical or Invasive Procedure:\nIntubated with endotracheal tube\n\nHistory of Present Illness:\n[**Age over 90 **]M with history of Afib on coumadin, PVD, hypothyroidism\nadmitted to [**Hospital1 18**] s/p arrest found to have small\nintraventricular hemorrage, unclear etiology of arrest. Per\nsister, who lives in apt below, patient has been in usual state\nof health. She found him this am in bathtub with water running -\nreported to be breating. EMS arrived, AED with VT, had CPR, no\nshock given. Loaded with amiodorone in the field, transferred to\nLawsrence [**Hospital1 107**]. At [**Hospital3 1443**], Febrile to 100.8,\nrecieved avalox for possible PNA and Rocephin for UTI. CT with\nleft intraventricular hemorrhage. Recieved Vitamin K for\nelevated INR and fosphenytoin for seizure prophylaxis.\nTransferred on propofol for comfort. Of note, no written report\nof PEA arrest at OSH that was verbally reported in sign-out.\n.\nOn arrival to [**Hospital1 18**], patient arrived hypotensive 60-70/30 with\nHR 56. Propofol was discontinued, levophed started. He went into\nPEA arrest at 1244, recieved epi 1 mg (?2 mg), levophed titrated\nup, right femoral CVL placed. Large incontinence of stool.\nNeurosurgery consulted and recommended no intervention at this\ntime with serial CT Head and managment of coagulopathy. Neuro\nfelt seizure unlikely the cause of shock. Due to acidosis,\nstarted on bicarb gtt. Placed on Fentanyl/Versed for sedation.\nAlso recieved 18 units of Factor 9 to reverse coagulopathy and\n4L IVF. After ROSC, he was moving all 4 extremities. Not cooled\ndue to ICH.\n.\nMost recent set of vitals prior to transfer: 127 143/69 100% on\nvent 98.6F rectally.\n\n\nPast Medical History:\nAtrial Fibrillation\nHypertension\nNIDDM - diet controlled\nPVD\nHypothyroidism\nCHF diagnosed in [**2156**], no known ischemic disease\n\n\nSocial History:\nLives above sister, who is HCP.\n[**Name (NI) 1139**]: none\n\n\nFamily History:\nNon-contributory\n\nPhysical Exam:\nVitals: afebrile, 97 134/67 100% on vent AC 500/18 (breathing at\n26)/50%/5\nGeneral: intubated/sedated, opens eyes intermittently, does not\nrespond to commands, withdrawal to pain\nHEENT: Sclera anicteric, MMM\nNeck: supple, no LAD\nCV: RRR, normal S1 + S2, no murmurs, rubs, gallops\nLungs: CTAB, no wheezes, rales, ronchi\nAbdomen: soft, NT/ND\nGU: foley\nExt: warm, well perfused, 2+ pulses, no edema\n\n\nPertinent Results:\n[**2161-9-8**] 05:22AM BLOOD WBC-19.2* RBC-3.94* Hgb-12.2* Hct-35.7*\nMCV-91 MCH-31.0 MCHC-34.2 RDW-15.6* Plt Ct-84*\n[**2161-9-7**] 04:21AM BLOOD WBC-15.4* RBC-3.83* Hgb-11.9* Hct-36.4*\nMCV-95 MCH-31.0 MCHC-32.6 RDW-15.1 Plt Ct-99*\n[**2161-9-7**] 04:21AM BLOOD Neuts-80* Bands-12* Lymphs-5* Monos-3\nEos-0 Baso-0 Atyps-0 Metas-0 Myelos-0\n[**2161-9-8**] 05:22AM BLOOD Plt Ct-84*\n[**2161-9-8**] 05:22AM BLOOD PT-21.6* PTT-42.0* INR(PT)-2.0*\n[**2161-9-5**] 12:30PM BLOOD Fibrino-350\n[**2161-9-8**] 05:22AM BLOOD Glucose-174* UreaN-86* Creat-4.3* Na-138\nK-6.1* Cl-106 HCO3-12* AnGap-26*\n[**2161-9-7**] 04:01PM BLOOD Glucose-200* UreaN-76* Creat-3.7* Na-137\nK-5.6* Cl-105 HCO3-14* AnGap-24*\n[**2161-9-8**] 05:22AM BLOOD ALT-1881* AST-1045* CK(CPK)-1113*\nAlkPhos-40 Amylase-47 TotBili-2.9*\n[**2161-9-6**] 05:50AM BLOOD CK-MB-60* cTropnT-1.95* proBNP-[**Numeric Identifier **]*\n[**2161-9-6**] 06:30AM BLOOD TSH-0.31\n[**2161-9-8**] 05:22AM BLOOD Vanco-7.6*\n[**2161-9-7**] 01:13PM BLOOD Type-[**Last Name (un) **] pO2-34* pCO2-41 pH-7.21*\ncalTCO2-17* Base XS--12\n[**2161-9-7**] 01:13PM BLOOD Lactate-3.1*\n[**2161-9-5**] 08:26PM BLOOD freeCa-1.02*\n\nBrief Hospital Course:\n[**Age over 90 **]M admitted to [**Hospital1 18**] s/p PEA arrest. He was found in his\nbathrub with water running. Had CPR in the field with no shock\ngiven, amiodarone given. At [**Hospital3 1443**] Hosp, he was\ntreated with avalox and rocephin for possible pneumonia and UTI\nrespectively. CT showed left intraventricular hemorrhage.\nTransferred to [**Hospital1 18**] hypotensive. Started on levophed. Again\nwent into PEA arrest with epinephrine given, levophed titrated\nup, bicarb given due to acidosis. He was placed on\nfentanyl/versed for sedation, given 18 u factor 9 to reverse\ncoagulopathy. Not cooled due to ICH.  Decision was made to make\npatient CMO. He was extubated and transferred to the medicine\nservice for futher care.\n\n# Cardiac arrest: He achieved return of spontaneous circulation\nin the ED. He was transferred to the ICU intubated on pressure\nsupport with levophed for a MAP >60. Attempts were made to\ndetermine the etiology of the arrest. He had an echocardiogram\nwhich showed an \"ejection fraction of 25%, mildly dilated LA,\nmild symmetric LVH, mid-distal anteroseptal and apical akinesis\nand hypokinesis elsewhere, RV cavity dilated with moderate\nglobal free wall hypokinesis, mild AR, mild MR, no pericardial\neffusion.\" Cardiac enzymes did not suggest massive new MI.\nBilateral LENIs did not show any DVTs. Cardiac arrhythmia\npossible given hx of A-fib. A family meeting was held in which\nthe patient's code status was changed to DNR (no shocks or chest\ncompressions). It was determined that we would not further\nescalate care or pursue more invasive measures such as a-line\nplacement or HD at this time. On [**9-7**] he passed SBT with a RSBI\nof 23 and he was switched to pressure support. Upon further\ndiscussion with the family, it was decided to palliatively\nextubate. The palliative care team was made aware and will help\nmake patient as comfortable as possible. Pt was extubated on\n[**9-8**] and made comfort measures only.\n.\n# Hypotension: Unclear etiology of hypotension; echo showed\ndepressed ejection fraction so maybe cardiogenic in origin.\nUnlikely to be hypovolemia given lack of bleeding source and\nlack of response to aggressive fluid resucitation. Attempts were\nmade to place radial and femoral a-lines but were unsuccessful\ndue to peripheral arterial disease. IVF and levophed were used\nto keep urine output >30cc/hr and a MAP >60. ACEI and BB were\nheld throughout.\n.\n# CHF/A-fib: Acuity of his CHF is unclear as discussed above.\nHis supratherapeutic INR was reversed in the setting of IVH and\nhis anti-coagulation was held. His ACEI and BB were held in the\nsetting of hypotension.\n.\n# IVH: likely secondary to fall in the setting of\nsupratherapeutic INR. Bleed is not large enough to precipitate\nPEA arrest. A CT head showed no interval change in\nintraventricular hemorrhage in the temporal and occipital horns\nof the left lateral ventricle. He received frequent neuro\nchecks. The neurosurgery team felt no need for intervention at\nthis time.\n.\n# AG metabolic acidosis and appropriate compensatory respiratory\nalkalosis: AG likely due to lactic acidosis. No evidence of DKA\nor other toxin exposures. He was given aggressive fluid\nresuscitation and his lactate trended down throughout his MICU\nstay.\n.\n# [**Last Name (un) **]: Was likely to be pre-renal or ATN in the setting of\nshock. We do not know the baseline status of his renal function.\nHis lisinopril and HCTZ were held throughout his stay. He was\ngiven adequate fluid resucitation. On [**9-7**] he had a potassium\nof 5.7. An EKG did not demonstrate peaked T-waves. He was given\n30mg of kayexalate.\n.\n# DM - diet controlled with fingersticks qACHS, start gentle\ninsulin SS\n.\n# hypothydroidism  - thyroid medication dosage not confirmed\nprior to his status as being made CMO.\n.\n# Lung nodules - a CT demonstrate ground glass opacities and a\nnodules that should be followed up in [**2-1**] months.\n.\n# Comfort measures only\nThe decision was made to make the patient CMO. He was extubated\nand transferred to the medicine service. Palliative care was\nconsulted. Patient was made comfortable with morphine and\nscopolamine and other comfort measures. He was admitted to\nhospice care and expired on [**2161-9-16**].\n\nMedications on Admission:\nHCTZ\nLisinopril 2.5\nCoumadin 4mg 6xweek/5mg 1xweek\nPravastatin 80 mg daily\nNifedipine (dose unknown)\nEquate vision\nMultivitamins\nTrental 500 TID\nASA 81 mg daily\nSynthroid - dose unknown\n\n\nDischarge Medications:\npatient expired\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\npatient expired\n\nDischarge Condition:\npatient expired\n\nDischarge Instructions:\npatient expired\n\nFollowup Instructions:\npatient expired\n\n\nCompleted by:[**2161-9-16**]"
+    }
+  ]
+}

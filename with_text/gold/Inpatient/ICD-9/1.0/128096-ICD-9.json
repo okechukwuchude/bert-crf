@@ -1,0 +1,77 @@
+{
+  "hadm_id": 128096,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 53563,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 708,
+          "end": 730,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "severe aortic stenosis"
+        },
+        {
+          "begin": 1125,
+          "end": 1140,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "Aortic stenosis"
+        },
+        {
+          "begin": 1141,
+          "end": 1155,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 1156,
+          "end": 1168,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1216,
+          "end": 1248,
+          "code": "V45.72",
+          "code_system": "ICD-9-CM",
+          "description": "Acquired absence of intestine (large) (small)",
+          "type": "MapType.APPROX",
+          "covered_text": "s/p Laparoscopic cholecystectomy"
+        },
+        {
+          "begin": 1382,
+          "end": 1430,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "Smoked no [] yes [X] last cigarette - 60 yrs ago"
+        },
+        {
+          "begin": 7100,
+          "end": 7115,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "Aortic Stenosis"
+        }
+      ],
+      "text": "Admission Date:  [**2137-5-6**]              Discharge Date:   [**2137-5-13**]\n\nDate of Birth:  [**2052-1-5**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nDyspnea on exertion\n\n\nMajor Surgical or Invasive Procedure:\nAortic valve replacement (21mm [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] tissue valve) [**2137-5-7**]\n\n\nHistory of Present Illness:\n85 year old female with known history of heart murmur. She was\nrecently referred to Dr. [**Last Name (STitle) **] for cardiac evaluation. An\nechocardiogram in [**Month (only) 958**] revealed left ventricular hypertrophy\nand\nsevere aortic stenosis. She is symptomatic with dyspnea on\nexertion and 3 pillow orthopnea however her symptoms vary in the\nsense that she often has days where she is very active without\nlimitation or symptoms. Given the severity of her disease, she\nhas been referred for surgical management.  Cardiac cath was\nperformed prior to admission.  Coronary arteries are\nwithout significant disease.\n\n\nPast Medical History:\nAortic stenosis\nHyperlipidemia\nHypertension\nRight renal cyst\nAsthma\nPast Surgical History:\ns/p Laparoscopic cholecystectomy [**39**] yrs ago\n\n\nSocial History:\nLives with: Lives with son.\nContact:                      Phone #\nOccupation: Retired\nCigarettes: Smoked no [] yes [X] last cigarette - 60 yrs ago\nOther Tobacco use: Denies\nETOH: < 1 drink/week [] [**1-8**] drinks/week [X] >8 drinks/week []\nIllicit drug use: Denies\n\n\nFamily History:\nOne sister with CVA in her 70s\n\n\nPhysical Exam:\nPulse: 84  Resp: 16  O2 sat: 98%\nB/P  Right: 120/70    Left:\nHeight: 5'3.5\"     Weight: 169 lbs\n\nGeneral: Well-developed elderly female appears less than stated\nage\nSkin: Dry [X] intact [X]\nHEENT: PERRLA [X] EOMI [X]\nNeck: Supple [X] Full ROM [X]\nChest: Lungs clear bilaterally [X]\nHeart: RRR [X] Irregular [] Murmur [X] grade 3/6 systolic\nAbdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds\n+\n[X]\nExtremities: Warm [X], well-perfused [X] Edema [] _trace__\nVaricosities: Large varicosities on both legs\nNeuro: Grossly intact [X]\nPulses:\nFemoral      Right: 2+  Left: 2+\nDP           Right: 2+  Left: 2+\nPT           [**Name (NI) 167**]: 2+  Left: 2+\nRadial       Right: cath site  Left: 2+\n\nCarotid Bruit -    Right/Left: transmitted murmur\n\n\nPertinent Results:\n[**2137-5-7**] Intra-op TEE:\nConclusions\nPRE-BYPASS: The left atrium is mildly dilated. No spontaneous\necho contrast or thrombus is seen in the body of the left atrium\nor left atrial appendage. No spontaneous echo contrast is seen\nin the body of the right atrium. Left ventricular wall\nthicknesses are normal. The left ventricular cavity size is\nnormal. Overall left ventricular systolic function is low normal\n(LVEF 50-55%). The right ventricular cavity is mildly dilated\nwith normal free wall contractility. There are simple atheroma\nin the ascending aorta. There are complex (>4mm) atheroma in the\ndescending thoracic aorta. There is severe aortic valve stenosis\n(valve area 0.8-1.0cm2). Mild (1+) aortic regurgitation is seen.\nThe mitral valve leaflets are mildly thickened. There is\nmoderate thickening of the mitral valve chordae. There is no\npericardial effusion.\n\nPOST CPB:\n1.Preserved [**Hospital1 **]-ventricular systolic function\n2. A bioprosthetic valve is identified in aortic position. Well\nseated and good leaflet excursion. Np AI. Peak transvslvular\ngradient of 45 mm Hg, with carfiac output = 6.5 liters/min.\n3. MR is now mild.\n4. No other change\n\n[**2137-5-13**] 04:53AM BLOOD WBC-8.4 RBC-3.06* Hgb-9.8* Hct-29.3*\nMCV-96 MCH-32.1* MCHC-33.5 RDW-13.5 Plt Ct-219\n[**2137-5-6**] 01:00PM BLOOD WBC-6.5 RBC-4.13* Hgb-13.5 Hct-39.2\nMCV-95 MCH-32.7* MCHC-34.5 RDW-12.8 Plt Ct-192\n[**2137-5-7**] 12:30PM BLOOD PT-12.9* PTT-29.6 INR(PT)-1.2*\n[**2137-5-6**] 01:00PM BLOOD PT-11.9 INR(PT)-1.1\n[**2137-5-13**] 04:53AM BLOOD Glucose-96 UreaN-19 Creat-0.6 Na-141\nK-4.4 Cl-99 HCO3-33* AnGap-13\n[**2137-5-6**] 01:00PM BLOOD Glucose-102* UreaN-14 Creat-0.6 Na-140\nK-3.4 Cl-102 HCO3-25 AnGap-16\n\nBrief Hospital Course:\nThe patient was brought to the Operating Room on [**2137-5-7**] where\nshe underwent an Aortic Valve Replacement (#21 mm Biocor apical\ntissue valve)with Dr. [**Last Name (STitle) **].  Overall the patient tolerated\nthe procedure well and post-operatively was transferred to the\nCVICU in stable condition for recovery and invasive monitoring.\nPOD 1 found the patient extubated, alert and oriented and\nbreathing comfortably.  The patient was neurologically intact\nand hemodynamically stable, weaned from inotropic and\nvasopressor support.  Beta blocker, Statin, aspirin, and\ndiuresis was initiated and the patient was gently diuresed\ntoward her preoperative weight. POD#3 Mrs.[**Known lastname 110087**] was\ntransferred to the telemetry floor for further recovery.  Chest\ntubes and pacing wires were discontinued without complication.\nThe patient was evaluated by the physical therapy service for\nassistance with strength and mobility.  By the time of discharge\non POD #6 she was ambulating freely, the wound was healing and\npain was controlled with oral analgesia.  The patient was\ndischarged to [**Doctor First Name 37**] House Rehab & Nursing Center in\n[**Location (un) 38**] in good condition. All follow up appointments were\nadvised.\n\n\nMedications on Admission:\namlodipine 10mg daily, advair diskus 100/50 one puff [**Hospital1 **],\nsimvastatin 20mg daily, asa 81mg daily\n\n\nDischarge Medications:\n1. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours) as needed for pain.\nDisp:*45 Tablet(s)* Refills:*0*\n2. metoprolol tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2\ntimes a day).\n3. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as\nneeded for wheezing.\n4. fluticasone-salmeterol 100-50 mcg/dose Disk with Device Sig:\nOne (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).\n5. fluticasone 50 mcg/actuation Spray, Suspension Sig: One (1)\nSpray Nasal DAILY (Daily).\n6. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n7. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO HS (at bedtime) as needed for constipation.\n8. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n9. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n10. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H\n(every 4 hours) as needed for fever, pain.\n11. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID\n(2 times a day).\n12. potassium chloride 10 mEq Tablet Extended Release Sig: Two\n(2) Tablet Extended Release PO Q12H (every 12 hours).\n13. guaifenesin 600 mg Tablet Extended Release Sig: One (1)\nTablet Extended Release PO bid prn () as needed for secretions.\n\n14. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day: &\nreevaluate weight &  edema.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Doctor First Name 37**] House Rehab & Nursing Center - [**Location (un) 38**]\n\nDischarge Diagnosis:\nAortic Stenosis\nHyperlipidemia\nHypertension\nRight renal cyst\nAsthma\nPast Surgical History:\ns/p Laparoscopic cholecystectomy [**39**] yrs ago\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating, gait steady\nSternal pain managed with oral analgesics\nSternal Incision - healing well, no erythema or drainage\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming, and look at your incisions\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n\nFollowup Instructions:\nYou are scheduled for the following appointments:\nSurgeon Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 170**] 07/11/12/12 at 1:30pm\nCardiologist: [**Doctor First Name **] [**First Name8 (NamePattern2) **] [**Doctor Last Name **] [**2137-5-24**] 2:45p\n\nPlease call to schedule the following:\nPrimary Care Dr. [**First Name (STitle) 1877**],[**First Name3 (LF) 539**] E. [**Telephone/Fax (1) 4475**] in [**3-7**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\nCompleted by:[**2137-5-13**]"
+    }
+  ]
+}

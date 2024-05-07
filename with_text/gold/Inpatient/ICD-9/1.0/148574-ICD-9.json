@@ -1,0 +1,131 @@
+{
+  "hadm_id": 148574,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 45095,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 323,
+          "end": 333,
+          "code": "323.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified cause of encephalitis, myelitis, and encephalomyelitis",
+          "type": "MapType.APPROX",
+          "covered_text": "cerebritis"
+        },
+        {
+          "begin": 472,
+          "end": 474,
+          "code": "250.92",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with unspecified complication",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 481,
+          "end": 483,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HL"
+        },
+        {
+          "begin": 485,
+          "end": 488,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 501,
+          "end": 503,
+          "code": "412",
+          "code_system": "ICD-9-CM",
+          "description": "Old myocardial infarction",
+          "type": "Human",
+          "covered_text": "MI"
+        },
+        {
+          "begin": 761,
+          "end": 768,
+          "code": "784.3",
+          "code_system": "ICD-9-CM",
+          "description": "Aphasia",
+          "type": "MapType.EXACT",
+          "covered_text": "aphasic"
+        },
+        {
+          "begin": 2974,
+          "end": 2992,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Atypical pneumonia"
+        },
+        {
+          "begin": 3094,
+          "end": 3119,
+          "code": "577.2",
+          "code_system": "ICD-9-CM",
+          "description": "Cyst and pseudocyst of pancreas",
+          "type": "MapType.APPROX",
+          "covered_text": "Cystic pancreatic disease"
+        },
+        {
+          "begin": 3123,
+          "end": 3126,
+          "code": "600.00",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "MapType.APPROX",
+          "covered_text": "BPH"
+        },
+        {
+          "begin": 10511,
+          "end": 10522,
+          "code": "383.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified mastoiditis",
+          "type": "Human",
+          "covered_text": "mastoiditis"
+        },
+        {
+          "begin": 10540,
+          "end": 10557,
+          "code": "324.0",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial abscess",
+          "type": "Human",
+          "covered_text": "subdural\nempyema."
+        },
+        {
+          "begin": 12731,
+          "end": 12737,
+          "code": "285.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified anemias",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 15241,
+          "end": 15276,
+          "code": "320.2",
+          "code_system": "ICD-9-CM",
+          "description": "Streptococcal meningitis",
+          "type": "Human",
+          "covered_text": "Streptococcus pneumoniae meningitis"
+        }
+      ],
+      "text": "Admission Date:  [**2157-2-20**]              Discharge Date:   [**2157-3-4**]\n\nDate of Birth:  [**2089-2-1**]             Sex:   M\n\nService: NEUROSURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 1854**]\nChief Complaint:\nOSH transfer for pneumococcal meningitis and cerebritis\n\nMajor Surgical or Invasive Procedure:\nStereotactic Burr hole drainage of subdural empyema.\n\n\nHistory of Present Illness:\n68M with PMH of DM, HTN, HL, CAD s/p distant MI, who is\ntransferred from [**Hospital **] Hospital, where he presented on [**2157-2-13**]\nwith fever, cough, and sore throat. He was initially treated for\npneumonia with ceftriaxone and azithromycin. On the afternoon of\nadmission, he was noted to be acutely aphasic, with word finding\ndifficulty. There was concern for acute stroke. Neurology was\nconsulted, he was transferred to the ICU, and a stat head CT was\nperformed. Given that he was also febrile with an elevated WBC\ncount to 27 with 27% bands, an LP was performed. This revealed\n7800 WBCs with 94% polys, a glucose of 5, and a protein of 447.\nHe was initially covered with vanc/CTX/ampicillin/acyclovir. CSF\nand blood cultures from [**2-13**] grew strep pneumo. ID was consulted,\nand recommended PCN G and rifampin, which were started on\n[**2157-2-13**]. He was followed by neurology and ID. He steadily\nimproved and was transferred out fo the ICU on [**2157-2-15**]. An MRI\nperformed [**2157-2-16**] showed right cerebral meningeal enhancement c/w\nhis h/o meningitis, as well as concern for mastoiditis\n(non-communicating with the meninges). There was no evidence of\nabscess or hemorrhage, but a small frontal hygroma vs. subdural\nempyema. Nsurg was consulted, and there was NTD per them.\n\nOn [**2-19**], ENT performed a right myringotomy, and a copious amount\nof seromucoid purulent material was aspirated; tubes were\nplaced. Per his report, later that day he developed tingling of\nboth upper extremities and the LLE, as well as left hand\nweakness and general poor coordination. Neurology was\nre-consulted, and exam revealed left sided neglect and poor\ncoordination without frank dysmetria. A repeat MRI was\nperformed, the preliminary report of which showed evidence of\ncerebritis. Plans were initiated tranfer him to the [**Hospital1 18**] neuro\nICU, but they refused. He was instead accepted by the MICU.\nPrior to transfer, rifampin was resumed, and keppra was begun\nfor seizure ppx. His temp was 100.2 and he was hemodynamically\nstable.\n\nOn arrival to the [**Hospital1 18**] MICU, he complained of nausea. He\nendorsed ongoing numbness in his hands and feet since\nyesterday's ear operation.\n\n\nPast Medical History:\nPMH:\n1. CAD - s/p MI in [**2138**], [**2151**] tx with angioplasty\n2. HTN - currently managed w/ toprol XL 200mg\n3. DM2 - managed on glucophage 1000mg [**Hospital1 **], glyburide 3.75\n4. Hyperlipidemia - on lipitor 40mg\n5. S/p ORIF for R zygomatic fx, and orbital fx with 2 plate\ninsertion\n6. Atypical pneumonia in [**2144**], complicated by bronchocentric\ngranulomatosis and cold agglutinins hemolytic anemia\n7. Cystic pancreatic disease\n8. BPH s/p TURP\n9. Appendicitis s/p appendectomy\n10. S/p bladder polypectomy\n\n\nSocial History:\nMr. [**Known lastname 410**] is a retired immunologist at the [**Hospital3 328**] whose\nresearch interest was in monoclonal antibodies.  He and his wife\nlive in [**Name (NI) 1439**], MA.  He has at least one son and one daughter.\nDaughter is an OB/Gyn at [**Hospital1 18**].  Denies EtOH.  Tob use: 20 pack\nyear hx, d/c in [**2136**].\n\n\nFamily History:\nNon-contributory\n\nPhysical Exam:\nUpon transfer to medical service:\n\nVS: 98.9  120/54  106 w/ PVCs   24  95RA\nGen: Well-nourished elderly man, lying in bed, talking to son,\nnot SOB, in pain, or otherwise distressed.\nHEENT: H: R eye palpabral fissure slightly smaller than L (9mm\nvs. 12mm), no signs of trauma.  E: PERRLA 3mm->2mm, conjunctiva\nnot pale, anicteric.  E: Slightly tender to palpation.  No\ndrainage appreciated.  N: No signs of epistaxis.  T: Moist\nmucous membranes, no erythema or exudate.\nNeck: Soft, supple. No LAD at pre/post auricular, ant/post\ncervical, submandibular, supraclavicular nodes. No carotid\nbruits. No mastoid tenderness.\nCV: Tachycardic, reg rhythm with nl S1, S2. No m/r/g.  Pulses 2+\nin all 4 extremities (DP and PT on feet).  No splinter\nhemorrhages.\nLungs: Nl excursion on inspiration. No dullness to percussion.\nNo tactile fremitus. Lungs clear to auscult, bilat and ant/post.\nNo crackles, wheezes or rhonchi.  Diaphragms symmetric.\nAbd: Soft, non-tender.  Slightly distended, but not tympanic.\nHypoactive bowel sounds. Liver percussed at 8cm.  No renal\nbruits.\nBack: No spinal tenderness.  No CVA tenderness.  No paraspinal\ntenderness.\nExt: No edema, erythema. WWP.\nNeuro: AAOx3. Gives identifiers without prompting.  Able to name\npast 2 presidents only.  Can multiply 6x7.  Cannot subtract 17\nfrom 81.  Able to talk briefly about his research.  Three word\nrecall intact at 2min. Full strength (unable to break) in\ndeltoids, biceps, triceps, IPs, and gastrocs, bilaterally. R\ndoes seem slightly stronger however.  Able to hold pen in L\nhand, but trouble re-capping.  Dysmetria w/ finger to nose on\nthe L.  CN II: Lower left quadrant cut bilaterally.  III, IV,\nVI:EOMS intact. (son notes no ptosis as compared to baseline) V:\nSensation intact to light touch. VII/VIII: Face symmetric aside\nfrom eyes as mentioned above. Hearing intact to snaps, not light\nrustle. IX/X: coughs. XII:SCM intact, trap intact. XII:tongue\nmidline.\n\nUpon Discharge:\n\nc/o sl. HA controlled\nA&Ox3, PERRL, follows commands, 5/5 strength, wound C/D/I\n\n\nPertinent Results:\nFROM OUTSIDE HOSPITAL PRIOR TO TRANSFER:\nMICRO:\n[**2-13**] CSF HSV PCR: negative\n[**2-13**] CSF gram stain: GPCs in P+C, culture neg\n[**2-13**] BCx + pansenstive strep PNA\n[**2-13**] UCx: <10,000 CFU, mixed flora\nNo right ear fluid cultures sent from OR on [**2-19**]\n.\nOSH IMAGING:\n[**2-13**] CT-A:\nno evidence of PE. Calcified right costophrenic sulcus plaque\nwith associated.\n.\n[**2-15**] Head CT without contrast\nnew small amound of hypodense fluid in the right frontal\nsubdural space/ While this may represent a subdural hygroma,\ngiven the patient's h/o bacterial meningitis, a subdural empyema\nshould be considered. Complete opacification of the right\nmastoid air cells with fluid int he right middle ear, as seen\npreviously.\n.\n[**2157-2-15**] Temporal Bone CT\nbilateral cerumen plugs, extensive opacifiaction of the right\nmastoid air cells, antrum, and middle ear suggesting\notomastoiditis. No bony destruction.\n.\n[**2-16**] MRI Brain:\nextra-axial collection right cerebral hemisphere suggestive of\nmeningeal enchancement c/w clinical hx of bacterial meningitis.\nNo abscess or hemorrhage is seen.Non-aeration of mastoid air\ncells with fluid signal c/w mastoiditis. However, this does not\nappear to have broken through the subjacent meninges. Normal\nvenous sinuses.\n.\n[**2-16**] B/L carotid U/S:\n< 20% ICA stenosis on both sides\n.\n[**2-16**] TTE\nLVEF 40-45%, with inferior and posterior akinesis. Normla RV. 2+\nMR, 1+ TR. Negative bubble study.\n.\n[**2-17**] CXR\nfibrosis and scarring at the right base, small right pleural\neffusion. PICC line at jxn of SVC and RA.\n.\n[**2-21**] CT Head w/ and w/o contrast:\n\"1. Right otomastoiditis.\n2. Unchanged small right parietal subdural collection,\nconcerning for a\nsubdural empyema.\n3. Persistent cortical swelling in the right parietal, posterior\nfrontal, and temporal lobes, compatible with known cerebritis.\"\n.\n[**2-21**] CT Orbits, Sella w/ contrast:\n\"Findings compatible with severe right otomastoiditis with\npossible coalescence of the mastoid septae. There is also\nthinning and demineralization of the tegmen tympani. Would\nrecommend MRI with skull base protocol to assess for meningeal\nextension of infection.\n  Additionally, there is a tiny subdural collection on the\nright, again\nrecommend MRI for further evaluation and to exclude a subdural\nempyema.\"\n.\n[**2-22**] MR [**Name13 (STitle) 430**] w/ and w/o contrast, MRV Head:\n\"1. Unchanged small right parietal subdural empyema.\n2. Right cortical edema consistent with cerebritis is again\nseen. New mild\nslow diffusion suggests interval worsening.\n3. Mild right-sided leptomeningeal enhancement, consistent with\nmeningitis.\n4. Right otomastoiditis again seen.\n5. No evidence of venous sinus thrombosis. \"\n.\n[**2-24**] CT Head:\n\"No significant change from prior studies, with unchanged right-\n\nsided subdural collection, consistent with previously\ncharacterized subdural empyema. Persistent opacification of\nright mastoid air cells and middle ear cavity. \"\n.\n[**2-26**] CT Head:\n\"Stable examination demonstrating unchanged right subdural\ncollection consistent with previously characterized subdural\nempyema. No\ninterval change in opacification of right mastoid air cells and\nmiddle ear\ncavity.\n\"\n.\n[**2-28**] MR [**Name13 (STitle) 430**]:\n\"Stable appearance since [**2157-2-22**]. Evidence of right\nmastoiditis with adjacent subdural empyema, extensive dural\nenhancement,\nleptomeningeal enhancement, and no evidence of infarction or\nsinus\nthrombosis. \"\n.\nCBC:\n\n[**2157-2-20**] 11:14PM   WBC-14.5*# RBC-3.88* HGB-13.0*# HCT-35.7*#\nMCV-92 MCH-33.4* MCHC-36.3* RDW-13.1\n[**2157-2-20**] 11:14PM   NEUTS-87.7* LYMPHS-9.3* MONOS-1.9* EOS-1.0\nBASOS-0\n[**2157-2-20**] 11:14PM   PLT COUNT-399#\n[**2157-3-3**] 04:50AM    7.9 4.12* 13.5* 37.6* 91 32.8* 36.0* 13.7\n328\n\nCoags:\n\n[**2157-2-20**] 11:14PM   PT-15.2* PTT-33.9 INR(PT)-1.3*\n[**2157-3-3**] 04:50AM    16.2* 33.7   1.4*\n\nChem 7:\n[**2157-2-20**] 11:14PM   GLUCOSE-114* UREA N-15 CREAT-0.8 SODIUM-133\nPOTASSIUM-4.0 CHLORIDE-98 TOTAL CO2-24 ANION GAP-15\n[**2157-3-3**] 04:50AM    128* 18 1.0 139 4.1 101 28 14\n\nLFTs:\n[**2157-2-27**] 06:17AM    29 18 186   66   0.3\n\nHead CT [**3-3**]\nThere is a new posterior parietal burr hole, and pneumocephalus\noverlying the left posterior frontal and parietal lobes. Small\nlow-density extra-axial collection layers dependently, and\nappears slightly more dense in comparison to [**2156-2-26**]. Effacement\nof the underlying sulci is unchanged.\n\nThere is no hydrocephalus or shift of normally midline\nstructures. No\nintracranial hemorrhage is identified. [**Doctor Last Name **]-white matter\ndifferentiation\nremains normally preserved.\n\nComplete opacification of the right mastoid air cells persist.\n\n\n\nBrief Hospital Course:\n68M with PMH of DM, HTN, CAD s/p MI, who is transferred from an\nOSH with resolving pneumococcal meningitis and new neurological\ndeficits, found to have mastoiditis, cerebritis, and subdural\nempyema.\n.\n# Meningitis: Mr. [**Known lastname 410**] was treated with IV Ceftriaxone 2mg IV\nq12, in addition to 50mg [**Hospital1 **] Metronidazole upon arrival.\nMetronidazole was replaced with Clindamycin following a seizure,\nbut was changed back to metronidazole following the start of\nlevetiracem.   Since his transfer here, Mr. [**Known lastname 410**] has remained\nafebrile, with a WBC trending down.  Clinically, Mr. [**Known lastname 410**]\nimproved dramatically over the course of his stay to the point\nwhere no neurological deficits can be noted noted. He has no\nmeningeal signs at present.\n.\n#Cerebritis - Empyema was followed serially by CT and MR imaging\nwithout any change over his stay.  There was no involvement of\nthe sinuses.  The decision was made on [**2156-2-29**] by medicine,\nneurosurgery, and ID to surgically drain the fluid collection\nvia stereotactic biopsy.\n.\n# Mastoiditis-  Patient has ear tubes bilaterally that have\ndrained minimally.  He has remained afebrile since his arrival\nand w/o pain.  Hearing remains sensitive to loud snaps only.  He\ncontinues on Ciprofloxicin ear drops 0.3% Ophth Soln 4-10 drops\nto the right ear.\n.\n# Seizure - Patient had a single generalized, tonic clonic\nseizure in the MICU on [**2156-2-20**] while on Keppra 500mg.\nMetronidazole was stopped temporarily and the patient was loaded\nwith additional Keppra. Pt has not seized since MICU stay.  He\nremains on Keppra, now tritrated up to 1g for neurosurgical\nintervention.\n.\n# HTN - Mr. [**Known lastname 410**] was never hypotensive during his stay and his\npressures largely ranged in the 130s sytolic.  Metoprolol was\nstarted at 25 mg [**Hospital1 **] and titrated up to 50 mg tid, with the\ndischarge goal of home dosing of 200mg qd.\n.\n#Diabetes - Mr. [**Known lastname 410**] was initially covered under a sliding\nscale.  When full diet was resumed, his glucose values were in\nthe high 200s.  Medication was changed to pt's home PO metformin\nand glyburide, with modest effect.  Hyperglycemia thought to be\nresultant of stress and illness.\n.\n#CAD, hx of MI - Stable, no events.  Continued statin.  Given\npossibility of intervention, ASA was held throughout the stay.\n.\n#Anemia - Pt was down from baseline of 47.7 in [**2155**] to 37.8.\nBecause of history of cold agglutinin hemolysis, patient was\nworked up for anemia.  Haptoglobin was within normal limits.\nIron labs were consistent with anemia of inflammation, with\nnormal MCV, lower transferrin, and lower TIBC.\n\nOn [**3-2**] he was brought to the OR by Dr. [**Last Name (STitle) **] for a\nsteriotactic burr hole placement and washout of subdural\nempyema. He tolerated the procedure and was transferred to the\nfloor where he ambulated with nursing and tolerated a regular\ndiet. He was then safe to be d/c'd home with services and follow\nup appointment\n\n\nMedications on Admission:\nHome Meds:\nLipitor 40 mg\nASA 650 mg daily\nGlucophage 1000mg [**Hospital1 **]\nGlyburide 3.75mg [**Hospital1 **]\nToprol XL 200 mg\nMVI\n.\nTransfer Meds:\nRifampin\nKeppra 250mg po bid ([**2-20**] - )\nRISS\nFloxin otic gtt to right ear [**Hospital1 **]\nPCN G 4 million units q4h IV\nmetformin 1000mg [**Hospital1 **]\ntylenol q4h prn prn\nmetoprolol 25mg [**Hospital1 **]\n\nDischarge Medications:\n1. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n2. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n3. Glyburide 2.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n4. Ciprofloxacin 0.3 % Drops Sig: 4-10 Drops Ophthalmic TID (3\ntimes a day): Right ear only.\nDisp:*1 1* Refills:*2*\n5. Toprol XL 200 mg Tablet Sustained Release 24 hr Sig: One (1)\nTablet Sustained Release 24 hr PO once a day.\n6. Flagyl 500 mg Tablet Sig: One (1) Tablet PO three times a day\nfor 13 days: Do not consume alcohol while taking this\nmedication.\nDisp:*40 Tablet(s)* Refills:*0*\n7. Keppra 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.\nDisp:*60 Tablet(s)* Refills:*2*\n8. Ceftriaxone in Dextrose,Iso-os 2 gram/50 mL Piggyback Sig:\nOne (1)  Intravenous Q12H (every 12 hours) for 13 days.\nDisp:*26 IV Piggyback* Refills:*0*\n9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*60 Capsule(s)* Refills:*0*\n10. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed: Please do not exceed 4 grams per day. .\n11. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for Headache: Please do not drink or drive\nwhile taking this medication.\nDisp:*50 Tablet(s)* Refills:*0*\n12. PICC Line Care\nSaline flush 10cc SASH PRN\nHeparin flush 10u/ml 3cc SASH PRN\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Location (un) 932**] Area VNA\n\nDischarge Diagnosis:\nPrimary: Streptococcus pneumoniae meningitis, cerebritis, and\nmastoiditis.\n\nSecondary:\nDiabetes Mellitus, Type II, non-insulin dependent\nCoronary artery disease\nHTN\n\n\nDischarge Condition:\nStable.\n\n\nDischarge Instructions:\nYou were transferred from [**Hospital **] Hospital with an infection of\nyour brain and your mastoid bone.  While you were here, you\nreceived intravenous antibiotics, anti-seizure medication, and\nrepeated imaging of your brain. The medicine, [**Hospital 1083**]\ndisease, and neurosurgery teams decided that having surgical\ndrainage of the [**Hospital 1083**] collection around your brain would\nbest help clear the infection.\n\nYou were started on the following NEW medications, all of which\nyou will continue:\n1. Ceftriaxone 2 g IV Q12H\n2. Metronigazole (Flagyl) 500 mg PO Q8H\n3. Ciprofloxicin Ear Drops\n4. Levitracetam 1g PO BID\n\nThe first medication will be given through the picc line in your\narm.  A visiting nurse [**First Name (Titles) **] [**Last Name (Titles) 5050**] this.  The flagyl will be\nan oral medication, in the same amount, to be taken three times\na day.  [**Last Name (Titles) **] disease will determine the length of your\nantibiotics.\n\nBecause of the antibiotic ceftriaxone can interfere with your\nliver on rare occassion, you will need your liver enzymes tested\nonce per week.  Please have blood drawn and tested for CBCs,\nChem 7, and LFTs each week and send the results to the\n[**Last Name (Titles) 1083**] disease clinic at ([**Telephone/Fax (1) 1353**].\n\nIf you should become febrile, confused, lose bowel or bladder\nfunction, have a strong headache, experience any loss in vision,\nor lose conciousness, please return to the emergency room\nimmediately.\n\nYou will need follow-up appointments with your PCP, [**Name10 (NameIs) **]\nDisease, Neurology, Neurosurgery, and ENT.\n\nGeneral Instructions\n\n??????\tHave a friend/family member check your incision daily for\nsigns of infection.\n??????\tTake your pain medicine as prescribed.\n??????\tExercise should be limited to walking; no lifting, straining,\nor excessive bending.\n??????\tYou may wash your hair only after sutures and/or staples have\nbeen removed. If your wound closure uses dissolvable sutures,\nyou must keep that area dry for 10 days.\n??????\tYou may shower before this time using a shower cap to cover\nyour head.\n??????\tIncrease your intake of fluids and fiber, as narcotic pain\nmedicine can cause constipation. We generally recommend taking\nan over the counter stool softener, such as Docusate (Colace)\nwhile taking narcotic pain medication.\n??????\tUnless directed by your doctor, do not take any\nanti-inflammatory medicines such as Motrin, Advil, and Ibuprofen\netc.\n-You haven been discharged on Keppra (Levetiracetam), you will\nnot require blood work monitoring.\n??????\tClearance to drive and return to work will be addressed at\nyour post-operative office visit.\n??????\tMake sure to continue to use your incentive spirometer while\nat home, unless you have been instructed not to.\n\nCALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE\nFOLLOWING\n\n??????\tNew onset of tremors or seizures.\n??????\tAny confusion or change in mental status.\n??????\tAny numbness, tingling, weakness in your extremities.\n??????\tPain or headache that is continually increasing, or not\nrelieved by pain medication.\n??????\tAny signs of infection at the wound site: redness, swelling,\ntenderness, or drainage.\n??????\tFever greater than or equal to 101?????? F.\n\n*******You may resume your Asprin on [**2157-3-12**]******\n\n\nFollowup Instructions:\n\n\nPlease be sure to follow up with the following physicians:\n\n1. [**Date Range **] Disease - Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]\n  [**Hospital Ward Name **] BLDG ([**Doctor First Name **]), BASEMENT\n  ID WEST (SB)\n [**2157-3-22**]  11:30am\n\n2. Ear, Nose and Throat - Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3878**]\n[**Apartment Address(1) 96381**], [**Location (un) 55**]\n[**3-8**] @ 10:15 am, Tuesday\n[**Telephone/Fax (1) 2349**]\n\n4. PCP\n[**2157-3-8**] at 10am\nDr [**First Name4 (NamePattern1) 449**] [**Known lastname 410**]\n[**Location (un) **], [**Location (un) **], MA.\n\nBecause of the antibiotic ceftriaxone can interfere with your\nliver on rare occassion, you will need your liver enzymes tested\nonce per week.  Please have blood drawn and tested for LFTs each\nweek and send the results to the [**Location (un) 1083**] disease clinic at\nFAX number [**Telephone/Fax (1) 11959**].\n\nNeurosurgical Follow-Up Appointment Instructions\n\n??????Please return to the office [**2157-3-11**] for removal of your sutures\nand a wound check. This appointment can be made with the Nurse\nPractitioner.  Please make this appointment by calling\n[**Telephone/Fax (1) 1669**]. If you live quite a distance from our office,\nplease make arrangements for the same, with your PCP.\n??????You have an appointment with Dr. [**Last Name (STitle) **] on [**2157-3-15**] at 9a at [**Hospital Unit Name **], [**Hospital Unit Name **]\nIf you have any questions please call ([**Telephone/Fax (1) 88**]\n??????You are scheduled for an MRI of the brain with and without\ngadolinium contrast on [**3-15**] at 730 am in the [**Hospital Ward Name 517**]\nBasement.\n\n\n\n\nCompleted by:[**2157-3-4**]"
+    }
+  ]
+}

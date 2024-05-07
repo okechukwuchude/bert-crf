@@ -1,0 +1,174 @@
+{
+  "hadm_id": 175537,
+  "comment": "Craniotomy - Missing OP Note to validate PCS",
+  "notes": [
+    {
+      "note_id": 23617,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 278,
+          "end": 294,
+          "code": "342.91",
+          "code_system": "ICD-9-CM",
+          "description": "Hemiplegia, unspecified, affecting dominant side",
+          "type": "Human",
+          "covered_text": "Right hemiplegia"
+        },
+        {
+          "begin": 596,
+          "end": 600,
+          "code": "401.1",
+          "code_system": "ICD-9-CM",
+          "description": "Benign essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN,"
+        },
+        {
+          "begin": 605,
+          "end": 608,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 1227,
+          "end": 1286,
+          "code": "V10.52",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of kidney",
+          "type": "Human",
+          "covered_text": "Renal cell carcinoma, s/p nephrectomy approximately 5 years"
+        },
+        {
+          "begin": 1362,
+          "end": 1382,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 1383,
+          "end": 1410,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "MVP with moderate/severe MR"
+        },
+        {
+          "begin": 2075,
+          "end": 2083,
+          "code": "784.3",
+          "code_system": "ICD-9-CM",
+          "description": "Aphasia",
+          "type": "MapType.EXACT",
+          "covered_text": "aphasia."
+        },
+        {
+          "begin": 6459,
+          "end": 6484,
+          "code": "441.4",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal aortic aneurysm without mention of rupture",
+          "type": "Human",
+          "covered_text": "abdominal aortic aneurysm"
+        },
+        {
+          "begin": 6550,
+          "end": 6582,
+          "code": "562.10",
+          "code_system": "ICD-9-CM",
+          "description": "Diverticulosis of colon (without mention of hemorrhage)",
+          "type": "Human",
+          "covered_text": "Moderate sigmoid diverticulosis,"
+        },
+        {
+          "begin": 12619,
+          "end": 12635,
+          "code": "790.7",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified bacteremia",
+          "type": "Human",
+          "covered_text": "MRSA bacteremia:"
+        },
+        {
+          "begin": 13848,
+          "end": 13858,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonitis due to inhalation of food or vomitus",
+          "type": "Human",
+          "covered_text": "Pneumonia:"
+        },
+        {
+          "begin": 17367,
+          "end": 17399,
+          "code": "431",
+          "code_system": "ICD-9-CM",
+          "description": "Intracerebral hemorrhage",
+          "type": "Human",
+          "covered_text": "Left Intraparenchymal Hemorrhage"
+        },
+        {
+          "begin": 17502,
+          "end": 17522,
+          "code": "789.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatomegaly",
+          "type": "MapType.APPROX",
+          "covered_text": "Exophytic Liver Mass"
+        }
+      ],
+      "text": "Admission Date:  [**2128-12-5**]              Discharge Date:   [**2128-12-16**]\n\nDate of Birth:  [**2071-11-25**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 2474**]\nChief Complaint:\nRight hemiplegia\nHeadache with emesis\n\nMajor Surgical or Invasive Procedure:\n[**2128-12-5**] Left craniotomy for microsurgical tumor resection and\nhematoma evacuation.\nIntubation/extubation\n\nCT guided liver biopsy\n\nLeft PICC placement\n\nHistory of Present Illness:\n55 yo M with hx renal cell carcinoma s/p nephrectomy, HTN,\nand HLD presented to [**Hospital1 18**] ER on [**12-4**] with R-sided hemipelgia.\nOn [**12-3**] patient noted some upper back discomfort and went to\nbed but then woke up and vomitted. He then went on to shower and\nwas found down by his wife and 911 was called and brought to\n[**Hospital1 18**]. He arrived at [**Hospital1 18**] with a GCS of 15\nand a code stroke was called.  His NIHSS was 14.  A CT head\nrevealed a large intraparenchymal hemorrhage and a neurosurgical\nconsult was called.  While in the CT scanner the patient\ndeteriorated rapidly and was subsequently intubated and brought\nto the OR.\n\n\nPast Medical History:\nRenal cell carcinoma, s/p nephrectomy approximately 5 years\nprior\nMRSA skin abscesses\nHTN\ninfrarenal abdominal aneurysm\ndiverticulosis\nhypercholesterolemia\nMVP with moderate/severe MR\n\n\nSocial History:\nlives with wife, past history of alcohol abuse, current intake\nunknown, has 3 children\n\n\nFamily History:\nmother with pancreatic cancer\n\nPhysical Exam:\nOn Admission:\nVS; BP 153/77 P 105 RR 20  100% on vent\nGen; intubated, sedated\nPulm; CTA b/l\nCV; RRR, no murmurs\nAbd; soft, NT, ND\nExtr; no edema\nNeuro; unable to perform neurological assessment as patient\nreceived paralytic [**Doctor Last Name 360**] for urgent intubation and subsequent\ncraniotomy.  As per neurology and ED teams, patient was alert\nand\nresponsive at time of arrival.  Exam was notable for left gaze\npreference, RUQ visual field cut, plegic right arm and leg, and\nmild-moderate aphasia.\n\nUpon Discharge:\nGeneral: lying on back, 30 degree angle, A+Ox3\nHEENT: head partially shaved/stitches from craniotomy visible,\nno erythema or exudate. No scleral cterus.  EOMI.\nCardiac: Regular rhythm, normal rate.  Blowing systolic murmur,\nIII/VI, loudest in left axilla.\nLungs: mild bibasilar rhonchi, good air movement bilaterally\nAbd: NABS, soft, NT, ND, no HSM\nExtremities: right leg in contracture-prevention device.  No\nedema or calf pain bilaterally. Extremities warm and well\nperfused.\nNeuro: A&Ox3.  Appropriate. Right hemiparesis.  Light touch\nsensation preserved throughout.  5/5 strength on left; 0/5 on\nright.\nPsych: Listens and responds to questions appropriately.\n\nPertinent Results:\nHead CT [**12-5**]:\nNote is made of a large intraparenchymal hemorrhage centered at\nthe\nleft frontal lobe, difficult to precisely marginate though\nmeasuring\napproximately 41 x 34 x 79 mm. Notably, this focus of hemorrhage\ncontains  superolateral rim of frank parenchymal hemorrhage and\ninferomedial to this is a 26 x 64 mm ovoid collection displaying\na blood-fluid level (2:23). The ventricles and sulci are normal\nin size and in configuration. Extracranial soft tissue\nstructures are unremarkable. The included osseous structures\nreveal no fracture or lesion. The visualized paranasal sinuses\nare notable for mucus retention cysts at the maxillary sinuses\nbilaterally, though most prominently on the left, as well as a\nsmall amount of circumferential mucosal thickening at the\nethmoid air cells bilaterally.\n\nIMPRESSION: Large focus of intraparenchymal hemorrhage on the\nleft as described above. Diagnostic considerations include\nmetastatic disease in this patient with known history of\nprevious renal cell carcinoma, primary mass, and alternatively\nvascular malformations. These findings may be further\ncharacterized with an MRI.\n\nC-spine CT [**12-5**]:\nIMPRESSION:\nNo fracture. Multilevel DJD with Moderate canal stenosis and\nmoderate- severe left neural foraminal narrowing. Mild\neffacement of the ventral thecal sac at C5/6. If concern exists\nfor ligamentous and intrathecal abnormalities recommend\nfurther characterization with MR. [**First Name (Titles) **] [**Last Name (Titles) 60441**].\n\nMRI Brain w/ & w/o [**12-6**]:\nStatus post left frontoparietal craniectomy with post-surgical\nedema and\nhematoma at the resection site. No evidence of metastatic\ndisease.\nNo evidence of new hemorrhage or infarction.\nSubdural thickening most consistent with post-surgical changes.\n\n\n[**2128-12-12**] CXR:\nIll-defined opacities in the right upper and lower lobes\nbilaterally have\nimproved consistent with improving pneumonia. There are no large\npleural\neffusions. NG tube tip projects in the right upper quadrant as\nbefore. Left PICC remains in place.\n\n[**2128-12-9**] MRI C/T/L SPINE:\nIMPRESSION:\n1. 3-cm thoracic right paraspinal mass with a thick enhancing\nrim and central fluid-intensity signal. There is no appreciable\nbone marrow edema within the adjacent T12 vertebral body. In\nthis patient, status post right nephrectomy for renal cell\ncarcinoma, the findings are concerning for recurrent necrotic\ntumor, perhaps in a retrocrural lymph node. Though abscess with\na thick rind of enhancement cannot be fully excluded, the lack\nof reactive marrow change within the adjacent T12 vertebral\nbody, would be somewhat unusual.\nDedicated abdominal CT scan is recommended in further\nevaluation.\n2. Infrarenal aortic aneurysm, minimally changed from the prior\nCT scan from [**2127**] with a maximal diameter measurement of\napproximately 3.2 cm.\n3. Edema versus artifactual signal overlying the left parotid\ngland, which\nshould be correlated with clinical examination.\n\n[**2128-12-10**] CT ABDOMEN/PELVIS:\nIMPRESSION:\n1. Status post right nephrectomy. There is a right\nparavertebral/retrocrural soft tissue lesion, likely\nrepresenting a necrotic lymph node. There is an exophytic mass\narising from segment VI of the liver, with extension into the\nadjacent retroperitoneum. Findings are highly concerning for\nmetastatic renal cell carcinoma.\n2. Right lower lobe consolidation with thin peripheral clearing.\nFindings\ncould represent aspiration or organizing pneumonia. A nodular\nopacity at the left lung base has some surrounding ground-glass\nopacity and is likely\ninfectious or inflammatory. This does not have the typical\nappearance for\nmetastatic renal cell carcinoma.\n3. Infrarenal abdominal aortic aneurysm and focal dissection of\nthe aorta\njust above the bifurcation.\n4. Moderate sigmoid diverticulosis, without evidence of acute\ninflammation.\n5. Small focal peripheral wedge-shaped hypodensity within the\nspleen may\nrepresent a small infarct.\n6. New minimal pericardial fluid.\n\n[**2128-12-11**] BLE ULTRASOUND:\nIMPRESSION: No deep venous thrombosis within [**Month/Day/Year **] lower\nextremity veins.\n\n[**2128-12-14**] VIDEO SWALLOW:\nIMPRESSION: Unremarkable swallow study.\n\n[**2128-12-8**] TTE:\nThe left atrium is moderately dilated. The right atrium is\nmoderately dilated. No atrial septal defect is seen by 2D or\ncolor Doppler. There is mild symmetric left ventricular\nhypertrophy with normal cavity size and regional/global systolic\nfunction (LVEF>55%). There is no ventricular septal defect.\nRight ventricular chamber size and free wall motion are normal.\nThe aortic root is mildly dilated at the sinus level. The aortic\nvalve leaflets (3) are mildly thickened but aortic stenosis is\nnot present. No masses or vegetations are seen on the aortic\nvalve. No aortic regurgitation is seen. The mitral valve\nleaflets are mildly thickened. There is moderate/severe mitral\nvalve prolapse. There is probable partial mitral leaflet flail\n(posterior leaflet). No masses or vegetations are seen on the\nmitral valve, but cannot be fully excluded due to suboptimal\nimage quality. Torn mitral chordae are present. An eccentric,\nanteriorly directed jet of moderate to severe (3+) mitral\nregurgitation is seen.\nIMPRESSION: Mitral valve prolapse with moderate to severe MR. [**Name13 (STitle) **]\ndefinite valvular vegetation seen. If indicated, a TEE would\nbetter exclude a small valve vegetation.\n\n[**2128-12-14**] TEE:\nThe left atrium is moderately dilated. No mass/thrombus is seen\nin the left atrium or left atrial appendage. Overall left\nventricular systolic function is normal (LVEF>55%). Right\nventricular chamber size and free wall motion are normal. There\nare simple atheroma in the aortic arch. The aortic valve\nleaflets (3) are mildly thickened. No masses or vegetations are\nseen on the aortic valve. No aortic regurgitation is seen. There\nis moderate/severe mitral valve prolapse. There is focal\nposterior flail mitral leaflet. No mass or vegetation is seen on\nthe mitral valve. Severe (4+) mitral regurgitation is seen.\nThere is a trivial/physiologic pericardial effusion.\nCONCLUSION: Severe MVP with a focal flail posterior mitral\nleaflet. Severe mitral regurgitation. No evidence of\nendocarditis.\n\n[**2128-12-5**] PATHOLOGY\nDIAGNOSIS: Parietal \"tumor\":\nBlood clot, see note.\nNote: No viable or necrotic epithelial tumor is detected.\nConfirmed by cytokeratin cocktail.\n\n[**2128-12-13**] TOUCH PREP CYTOLOGY\nTouch prep of core, Liver: POSITIVE FOR MALIGNANT CELLS.\n\n[**2128-12-13**] LIVER BIOPSY:\nReport not finalized.\nAssigned Pathologist [**Last Name (LF) **],[**First Name3 (LF) **] H.\nPlease contact the pathology department, [**Name (NI) **] [**Numeric Identifier 1434**]\nPATHOLOGY # [**-1/4333**]\nLIVER BIOPSY (1 JAR)\n\n[**2128-12-15**] 05:49AM BLOOD WBC-9.1 RBC-3.50* Hgb-10.8* Hct-31.6*\nMCV-90 MCH-30.8 MCHC-34.1 RDW-13.7 Plt Ct-393\n[**2128-12-5**] 03:35AM BLOOD WBC-10.4 RBC-4.16* Hgb-13.5* Hct-37.4*\nMCV-90 MCH-32.5* MCHC-36.1* RDW-13.6 Plt Ct-210\n[**2128-12-15**] 05:49AM BLOOD Plt Ct-393\n[**2128-12-13**] 04:48AM BLOOD PT-11.7 PTT-23.6 INR(PT)-1.0\n[**2128-12-5**] 03:35AM BLOOD Plt Ct-210\n[**2128-12-5**] 03:35AM BLOOD PT-11.8 PTT-23.4 INR(PT)-1.0\n[**2128-12-15**] 05:49AM BLOOD Glucose-121* UreaN-25* Creat-1.0 Na-139\nK-4.1 Cl-103 HCO3-25 AnGap-15\n[**2128-12-5**] 09:57AM BLOOD Glucose-207* UreaN-23* Creat-1.7* Na-134\nK-4.6 Cl-102 HCO3-21* AnGap-16\n[**2128-12-13**] 04:48AM BLOOD Albumin-3.1* Calcium-8.6 Phos-2.8 Mg-2.2\n[**2128-12-5**] 09:57AM BLOOD Albumin-3.7 Calcium-9.0 Phos-3.7 Mg-1.4*\n[**2128-12-14**] 05:22AM BLOOD Vanco-19.4\n[**2128-12-5**] 09:57AM BLOOD Phenyto-12.9\n[**2128-12-13**] 04:48AM BLOOD Phenyto-1.2*\n\nBrief Hospital Course:\n57M with PMH significant for renal cell carcinoma s/p\nnephrectomy and MRSA skin abscesses who presented on [**12-4**] with\nright hemipelgia.\n\n1) Right hemiplegia: On [**12-5**], patient deteriorated and was\nemergently intubated and brought to the OR for a left sided\ncraniotomy for evacuation. During surgery there was question of\nan underlying lesion or cyst and the resected area was sent to\npathology for histology.  The pathology returned as hemorrhage\nand clot, there was no evidence of malignancy.  Post-operatively\nMr. [**Known lastname **] was brought to the SICU.  On [**12-6**] an MRI without\ncontrast was done which showed post-operative changes but no\nlesion was seen. His neurologic symptoms progressively improved\nduring his hospitalization.  At the time of discharge, he was\nalert and oriented x 3, and was able to communicate with some\ndysarthria, but mostly improved from admission. He continued to\nhave right sided weakness, but able to move slightly.  He was\ndetermined to be a candidate for rehab.  Of note, initially, he\nhad difficulty swallowing and concern for aspiration pneumonia.\nHe was planned for PEG placement, but subsequent speech and\nswallow consultation revealed that he had a good gag and\nswallow, and after a video swallow, the patient was cleared for\nsolid foods with thin liquids, but medications to be crushed in\npuree.  He should have monitored eating at all time.\n\nPatient will need to follow-up with Dr. [**Last Name (STitle) **] [**2129-1-11**] (appt in\nthe system) with a\nHead CT.  NSGY recommends no Aspirin, Coumadin, or Plavix until\nfollow-up appointment. He should continue Dilantin until seen by\nDr. [**Last Name (STitle) **]; Goal of [**11-30**]\n(inpatient Dilantin levels have been corrected w/Albumin levels)\nat current dose of 120 mg PO Q8H.  Repeat level should be drawn\nand dose should be adjusted accordingly on [**2128-12-17**].\n\nBacitracin should be applied to surgical incision on scalp TID\nfor 7 days per NSGY recommendations. Any questions or concerns\nregarding his incision after discharge\ncan be addressed by calling [**Telephone/Fax (1) 3231**] and asking for the NP\nfor Dr. [**Last Name (STitle) **] to be paged\n\n2) MRSA bacteremia:  During the patient's SICU course, the\npatient developed a fever to 102 on [**12-6**].  He was also noted to\nhave thick secretions at that time as well.  His blood cultures\nwere positive for MRSA.  The patient was started on vancomycin\nand ID was consulted at that time.  He had complained of back\npain, and an MRI C/T/L spine showed a paraspinal lesion that was\nconcerning for a necrotic lymph node or mets, and CT Abd/pelvis\nshowed a large liver mass.  Initially, there was concern for\nabscess or other infectious source there, but radiology did not\nfeel this was likely infectious.  The liver lesion was biopsied,\nand prelim pathology read was likely malignancy, not infectious\nthough final read is pending at the time of discharge.  Patient\nhad a TTE which showed severe mitral regurgitation, but no\nvegetations.  He subsequently had a TEE which also showed no\nvegetations, but there was posterior mitral leaflet flair with\nsevere MR.  ID felt that this would warrant a full 6 week course\nof antibiotic therapy as there may be some seeding or possible\nendocarditis there.  He will be maintained on vancomycin until\n[**2129-1-18**].  He has a left sided PICC for access.  ID will follow\nas an outpatient.\n\n3) Pneumonia: During the time the patient was in the SICU, there\nwas a CXR concerning for pneumonia.  Most likely this represents\nan aspiration pneumonia during the initial episode prior to\nintubation.  Other possibilites include a MRSA pneumonia as\nwell.  The patient completed an 8 day course of ceftazidime\nwhile he was in the hospital, but will need to complete a course\nof vancomycin as above.  Of note, at the time of discharge he\nwas satting well on room air.\n\n**Followup CXR should be performed in [**7-19**] weeks to ensure\nresolution.\n\n4) Exophytic mass on liver:  During the hospital course, imaging\nrevealed a liver mass concerning for malignancy.  The patient\nhad the mass biopsied under CT guidance. At the time of\ndischarge, the final path report is pending.  Preliminary read\nis that mass is neoplastic; otherwise not yet characterized. Dr.\n[**First Name (STitle) 1022**] (PCP) will follow up on results and inform the patient and\nhis family accordingly.  Follow up will be made with appropriate\nproviders based on the results of the pathology.\n\n**Follow-up of liver mass pathology will be needed as it was\npending at the time of discharge\n\n5) Nutrition: Cleared by video swallow study read as\nunremarkable. Speech/swallow recommends normal solids and thin\nliquid diet.\n\n6) Agitation: Patient has been intermittently agitated during\nstay, pulling foleys, NG tubes.  At discharge, he'd been fairly\ncalm, including nights.  He was maintained on uetiapine Fumarate\n12.5 mg PO DAILY in evening.  Also, he will continue Lorazepam\n0.5 mg IV Q4H:PRN agitation.\n\n7) PPX: no anticoagulation given recent bleed, continue bowel\nregimen\n\n8) ACCESS: Left Picc\n\n9) CODE:  Full\n\nMedications on Admission:\nAspirin 81 mg daily\nAmlodipine 5 mg daily\nAtenolol 100 mg daily\nLisinopril 40 mg daily\nAtivan 0.5 mg q4h prn anxiety\nZocor 80 mg daily\n\n\nDischarge Medications:\n1. Docusate Sodium 50 mg/5 mL Liquid [**First Name (STitle) **]: Ten (10) mL PO BID (2\ntimes a day).\n2. Simvastatin 80 mg Tablet [**First Name (STitle) **]: One (1) Tablet PO once a day.\n3. Lisinopril 40 mg Tablet [**First Name (STitle) **]: One (1) Tablet PO once a day.\n4. Senna 8.6 mg Tablet [**First Name (STitle) **]: One (1) Tablet PO BID (2 times a\nday).\n5. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) [**First Name (STitle) **]: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n6. Amlodipine 10 mg Tablet [**First Name (STitle) **]: One (1) Tablet PO once a day.\n7. Phenytoin 125 mg/5 mL Suspension [**First Name (STitle) **]: One [**Age over 90 **]y\n(120) mg PO Q8H (every 8 hours).\n8. Atenolol 100 mg Tablet [**Age over 90 **]: One (1) Tablet PO once a day.\n9. Quetiapine 25 mg Tablet [**Age over 90 **]: 0.5 Tablet PO DAILY (Daily):\nplease give dose at 1700 .\n10. Furosemide 20 mg Tablet [**Age over 90 **]: One (1) Tablet PO once a day.\n11. Vancomycin 500 mg Recon Soln [**Age over 90 **]: 1250 (1250) mg Intravenous\nQ 12H (Every 12 Hours) for 4 weeks: last day [**2129-1-18**].\n12. Lorazepam 0.5 mg Tablet [**Month/Day/Year **]: One (1) Tablet PO Q4H (every 4\nhours) as needed for anxiety/insomnia.\n13. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)\nTablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).\n14. Bacitracin 500 unit/g Ointment [**Last Name (STitle) **]: One (1) Appl Topical TID\n(3 times a day) for 7 days: apply to scalp incision.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 1107**] [**Hospital **] Hospital - [**Location (un) 38**]\n\nDischarge Diagnosis:\nLeft Intraparenchymal Hemorrhage s/p craniotomy\nMitral valve regurgiation with flail mitral valve\nMRSA Bacteremia\nAspiration Pneumonia\nExophytic Liver Mass\n\n\nDischarge Condition:\nstable\n\n\nDischarge Instructions:\nYou were admitted to [**Hospital1 18**] and found to have a bleed in your\nhead.  You had emergent surgery of your head on the neurosurgery\nservice, and had improvement of your neurological symptoms\nduring your hospitalization.  Below is regarding your\nneurosurgery follow up.\n\nNeurosurgery Discharge Instructions:\n\n??????Exercise should be limited to walking; no lifting, straining,\nor excessive bending. 10lb weight restriction x 4 weeks\n??????If you were on a medication such as Coumadin (Warfarin), or\nPlavix (clopidogrel), or Aspirin prior to your injury, do not\nrestart until cleared by your neurosurgeon\n??????If you have been prescribed Dilantin (Phenytoin) for\nanti-seizure medicine, take it as prescribed and follow up with\nlaboratory blood drawing in one week.  This can be drawn at your\nPCP??????s office, but please have the results faxed to [**Telephone/Fax (1) 87**].\n??????Please call the neurosurgeon's office if you experience: New\nonset of tremors or seizures; Any confusion, lethargy or change\nin mental status; Any numbness, tingling, weakness in your\nextremities; Pain or headache that is continually increasing, or\nnot relieved by pain medication; New onset of the loss of\nfunction, or decrease of function on one whole side of your\nbody.\n\nDuring your hospitalization, you were also found to have\nbacteria in your blood.  You had an extensive workup looking for\na source, but there was none evident at the time of discharge.\nYou also had a biopsy looking for infection, and this was\npending at the time of discharge.  You will need to follow the\nresults of this with Dr. [**First Name (STitle) 1022**].  You will need to complete a 3\nweek course of vancomycin for the bacteria in your blood, and\ncomplete an 8 day course of antibiotics for the pneumonia you\ndeveloped while you were in the hospital.  You will be\ndischarged to a rehabilitation facility.\n\nPlease take all medications as prescribed.\n\nThe following medication changes were made during your\nhospitalization:\n1) Phenytoin 120 mg every 8 hours\n2) Vancomycin 1250 mg IV Q12H for 6 week course (last day\n[**2129-1-18**])\n3) Furosemide 20 mg daily\n4) Quetiapine 12.5 mg QPM\n5) Bacitracin ointment to scalp TID\n\nIf you develop any of the following symptoms, please call your\nPCP or go to the ED: fevers, chills, nausea, vomiting, weakness,\ndifficulty breathing, chest pain, or any other concerning\nsymptoms.\n\nFollowup Instructions:\nDr. [**Last Name (STitle) **] (Neurosurgery):\nCT scan [**2129-1-11**] 2:30pm Clinical Center [**Location (un) **]\nOffice with Dr. [**Last Name (STitle) **] [**2129-1-11**] 3:00pm LMOB [**Location (un) **] Ste 3B\nPlease call [**Location (un) 3230**] at [**Telephone/Fax (1) 3231**] to make any changes or with\nquestions. NO ASPIRIN OR COUMADIN UNTIL SEEN WITH DR. [**Last Name (STitle) **]\n\nDr. [**Last Name (STitle) **], cardiology, [**12-31**] at 3:20pm\n\nProvider: [**Name10 (NameIs) **] SCAN Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2129-1-11**] 2:30\n\nPlease follow up with Dr. [**First Name (STitle) 1022**] [**Telephone/Fax (1) 250**] within 1 month of\ndischarge.\n\nPlease make an appointment with Dr. [**Last Name (STitle) 914**] (Cardiac Surgery)\nafter the pt. is discharged from rehab.  [**Telephone/Fax (1) **]\n\n\n                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2477**] MD, [**MD Number(3) 2478**]\n\n"
+    },
+    {
+      "note_id": 704463,
+      "category": "Rehab Services",
+      "description": "Occupational Therapy Evaluation Note",
+      "annotations": [
+        {
+          "begin": 415,
+          "end": 417,
+          "code": "715.90",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoarthrosis, unspecified whether generalized or localized, involving unspecified site",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "oa"
+        },
+        {
+          "begin": 419,
+          "end": 423,
+          "code": "274.9",
+          "code_system": "ICD-9-CM",
+          "description": "Gout, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "gout"
+        }
+      ],
+      "text": "History\n   Referral Date: [**2128-12-8**]\n   Reason for Referral: eval and treat\n   Medical Dx / ICD - 9: 432/ sdh\n   Activity Orders: oob with assist\n   HPI / Subjective Complaint: 57 year old male admit with right sided\n   weakness. found to have large left fronto- parietal hemorrhage and\n   tumor. taken to or for emergent left craniotomy and tumor/ hematoma\n   removal\n   Past Medical / Surgical History: htn, oa, gout, renal insufficiency\n   Labs\n   Hematocrit (serum): 31.1 ...\n   Hemoglobin: 10.6 ... g/dl\n   WBC: 9.9 ...\n   Platelet Count: 180 ...\n   Radiology\n   Radiology: Head CT: normal results s/p craniotomy\n   Occupational History\n   Occupational Profile: reports working as a realator\n   Baseline Occupational Performance: independent adl and iadl\n   Current Activities of Daily Living\n   Self Feeding: (Dependent)\n   Grooming: (Supervision)\n   UE Bathing: (Supervision)\n   LE Bathing: (max A)\n   UE Dressing: (mod A)\n   LE Dressing: (Supervision, max A)\n   Specify: cues for thoroughness with adl's. npo diet\n   Current Instrumental Activities of Daily Living\n   Home Management: Dependent\n   Money Management: Dependent\n   Performance Skills\n   Process Skills: alert, not oriented to year, follow 1 step commands,\n   fair insight, fair processing, left sided preference but can track to\n   right and turn head to right\n   Communication / Interactive Skills: pleasant and cooperative\n   Motor Skills - Functional Transfers\n   Rolling: (max A)\n   Supine / Side-lying to Sit: (max A)\n   Aerobic Capacity: Rest\n   Rest HR: 96\n   Rest BP: 146/70\n   Rest RR: 17\n   Rest O2 sat: 96 %\n   Supplemental O2: nc and shovel mask\n   Aerobic Capacity: Activity\n   Activity HR: 102\n   Activity BP: 180/62\n   Activity O2 sat: 96 %\n   Aerobic Capacity: Recovery\n   Recovery HR: 96\n   Recovery BP: 146/68\n   Recovery O2 sat: 96 %\n   Range of Motion\n   Range of Motion: bilateral ue intact\n   Muscle Performance: strength, power, endurance\n   Muscle Performance: flaccid right ue, left ue [**6-15**]\n   Additional Performance Skills\n   Motor Control: flaccid right ue\n   Coordination: used left ue only for adl\n   Limiting Symptoms: complains of right elbow pain with rom.\n   Sensation: intact to light touch only on left ue\n   Integumentary: foley, aline left ue, piv right ue, nc, shovel mask\n   Team Communication: rn re patient status\n   Patient Education: role of ot, right ue elevation\n   Diagnosis\n   Diagnosis 1: decrease adl\n   Diagnosis 2: decrease mobility\n   Diagnosis 3: decrease cognition\n   Clinical Impression / Prognosis\n   Clinical Impression / Prognosis: 57 year old male s/p left fronto\n   parietal craniotomy now presenting with all abilities and  limitations\n   above. pt is functioning below baseline and demonstrates the need to\n   d/c to rehab facility to maximize functional potential. recommend right\n   ue elevation for edema managent, daily rom of the extremeties, and\n   environmental setup to patients right side.\n   Goals: patient / family, objective, measurable\n   Goal 1: mod asssist le adl seated\n   Goal 2: mod assist commode tx\n   Goal 3: no cues for safety with seated grooming task\n   Time Frame (expected attainment): 1 week\n   Anticipated Discharge: Rehab\n   Treatment Plan: Interventions; patient / family education, community\n   resources\n   Treatment Plan: adl train, fxnl mobility, cog retraining, pt edu, d/c\n   plan\n   Frequency / Duration: 2x/wk\n   Therapist Information\n   Therapist's Name: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]\n   Date: [**2128-12-8**]\n   Time: 4:30 - 5:00\n   Pager #: [**Numeric Identifier 9450**]\n"
+    },
+    {
+      "note_id": 704385,
+      "category": "Rehab Services",
+      "description": "Bedside Swallowing Evaluation",
+      "annotations": [
+        {
+          "begin": 122,
+          "end": 137,
+          "code": "V45.73",
+          "code_system": "ICD-9-CM",
+          "description": "Acquired absence of kidney",
+          "type": "Human",
+          "covered_text": "s/p nephrectomy"
+        }
+      ],
+      "text": "TITLE:  BEDSIDE SWALLOWING EVALUATION:\nHISTORY:\nThank you for consulting on this 55 y/o male with hx renal cell\ncarcinoma s/p nephrectomy, HTN, and HLD who was admitted to [**Hospital1 5**]\non [**2128-12-5**] with R-sided weakness, posterior neck pain, headache,\nvomiting, and unsteady gait. Head CT upon arrival revealed a\nlarge intraparenchymal hemorrhage suspicious for\npossible underlying mass. While in the CT scanner the patient\ndeteriorated rapidly and was subsequently intubated.  Patient was\ntaken to the OR for emergent tumor resection and hematoma\nevacuation. Patient further c/b VAP. Patient was extubated on\n[**2128-12-7**]. We were consulted to evaluate patient's oral and\npharyngeal swallowing function and r/o aspiration while eating\nand drinking.\nPMHx;\nRenal cell carcinoma, s/p nephrectomy approximately 5 years prior\nEVALUATION:\nThe examination was performed while the patient was seated\nupright in the chair on the SICU with shovel mask and nasal\ncannula.\nCognition, language, speech, voice: Patient was awake, lethargic,\nbut stayed awake with cues. He was oriented to self and place and\nfollowed a few commands with models. Patient with consistent\nmoaning/grunting and voice wfl. Speech was dysarthric and mostly\nunintelligible.\nTeeth: present dentition\nSecretions: normal oral secretions from what I could see\nORAL MOTOR EXAM:\nTongue protruded weakly midline. Reduced labial seal and buccal\ntone. Unable to assess palatal elevation [**3-15**] patient with minimal\nmouth opening. No gag upon yankauer suctioning.\nSWALLOWING ASSESSMENT:\nPO trials included ice chips, thin liquids and nectar thick\nliquids via small cup sips. Patient was unable to pull liquid up\nthrough the straw. Oral phase was grossly wfl without oral\nresidue remaining. Laryngeal elevation felt reduced to palpation.\nThroat clearing and coughing was noted on all PO trials. O2 sats\nfluctuated between 92%-94%/95%.\nSUMMARY / IMPRESSION:\nMr. [**Known lastname **] presents with baseline secretions he appears unable to\nclear on his own. He was noted with s/sx of aspiration on all PO\ntrials. Recommend he remain NPO. We will return tomorrow to\nrepeat assessment to give more time to recover from extubation,\nhowever if patient's status does not improve he may need\nalternate means of nutrition.\nThis swallowing pattern correlates to a Functional Oral Intake\nScale (FOIS) rating of level 1, NPO.\nRECOMMENDATIONS:\n1. Continue NPO status.\n2. Q4 oral care.\n3. Meds IV as able.\n4. We will return tomorrow to repeat the evaluation.\n5. If patient's status does not improve he may need alternate\nmeans of nutrition via tube feeds.\nThese recommendations were shared with the patient, nurse and\nmedical team.\n____________________________________\n[**First Name11 (Name Pattern1) 5241**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5628**], M.S., CCC-SLP\nPager #[**Numeric Identifier 5629**]\nFace time: 0945-0955\nTotal time: 45 minutes\n"
+    }
+  ]
+}

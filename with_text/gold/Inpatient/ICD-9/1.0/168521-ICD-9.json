@@ -1,0 +1,121 @@
+{
+  "hadm_id": 168521,
+  "comment": "ERCP- Need OP note to Validate PCS",
+  "notes": [
+    {
+      "note_id": 727523,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 3634,
+          "end": 3641,
+          "code": "038.40",
+          "code_system": "ICD-9-CM",
+          "description": "Septicemia due to gram-negative organism, unspecified",
+          "type": "Human",
+          "covered_text": "sepsis."
+        }
+      ],
+      "text": "Chief Complaint: Gallstone Pancreatitis\n   24 Hour Events:\n   Overnight: pt remained afebrile and hemodynamically stable with a\n   benign belly exam.\n   Tolerating IVF w/o signs of volume overload.\n   CXR demonstrated marked cardiomegaly without evidence of edema.\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Ampicillin/Sulbactam (Unasyn) - [**2114-4-17**] 03:20 AM\n   Infusions:\n   Other ICU medications:\n   Morphine Sulfate - [**2114-4-17**] 04:56 AM\n   Other medications:\n   Diltiazem\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2114-4-17**] 07:45 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since [**16**] AM\n   Tmax: 37.2\nC (99\n   Tcurrent: 37.2\nC (99\n   HR: 63 (63 - 74) bpm\n   BP: 133/53(70) {105/45(59) - 136/54(72)} mmHg\n   RR: 21 (19 - 27) insp/min\n   SpO2: 97%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n             758 mL\n   PO:\n             TF:\n   IVF:\n   758 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    655 mL\n   Urine:\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                    103 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 97%\n   ABG: ///26/\n   Physical Examination\n   General: Obese Vietnamese woman, in no acute distress, sleeping\n   HEENT: PERRLA; sclerae anicteric; MMM; oropharynx clear; poor dentition\n   Neck: JVP @ 7cm\n   Lungs: Inspiratory crackles at R lung base, otherwise clear to\n   auscultation w/o wheezes\n   CV: RRR, nl S1, S2, [**4-14**] harsh early systolic murmur heard best at RUSB\n   Abdomen: Soft, obesely distended but not tympanitic, +BS, non-tender to\n   deep palpation without rebound or guarding\n   GU: Foley\n   Ext: Warm, well-perfused; DPs 2+ bilaterally; trace pedal edema\n   Labs / Radiology\n   206 K/uL\n   10.8 g/dL\n   101 mg/dL\n   1.0 mg/dL\n   26 mEq/L\n   5.3 mEq/L\n   18 mg/dL\n   101 mEq/L\n   139 mEq/L\n   33.2 %\n   6.7 K/uL\n        [image002.jpg]\n                             [**2114-4-17**]  02:01 AM\n   WBC\n   6.7\n   Hct\n   33.2\n   Plt\n   206\n   Cr\n   1.0\n   TropT\n   0.06\n   Glucose\n   101\n   Other labs: CK / CKMB / Troponin-T:388/5/0.06, ALT / AST:233/256, Alk\n   Phos / T Bili:166/4.1, Differential-Neuts:75.7 %, Lymph:19.2 %,\n   Mono:4.6 %, Eos:0.4 %, Albumin:3.2 g/dL, LDH:586 IU/L, Ca++:9.2 mg/dL,\n   Mg++:1.7 mg/dL, PO4:3.8 mg/dL\n   Assessment and Plan\n   Assessment and Plan: 73yF, Vietnamese-speaking only, hx of HTN and [**Hospital 5882**]\n   transferred from OSH with cholecystitis, gallstone pancreatitis,\n   possible cholangitis, now s/p unsuccessful ERCP complicated by A-fib\n   with RVR.\n   #) Gallstone pancreatitis. Attempt at treatment with early ERCP failed\n   [**3-13**] ampulla positioning within a diverticulum. CBD visualization was\n   not pursued because of the high risk of perforation with\n   sphincterotomy, also peri-procedure development of A-fib with RVR. Pt\n   now may have post-ERCP pancreatitis as well, given lipase bump to\n   1200s. Apache II score: 7, corresponding to a 7.6% mortality. Will\n   require repeat ERCP, given obstructive picture (elevated LFTs, CBD\n   measuring 11mm on US), GNR bacteremia, concern for evolving biliary\n   sepsis.\n   -NPO for bowel rest, plus expected ERCP and cholecystectomy\n   -IV morphine (2-4mg Q6H PRN) for pain control\n   -IVF (1L NS @ 150cc/hr) for fluid resuscitation\n   -ERCP tomorrow, per GI\n   -Cholecystectomy prior to hospital discharge\n   #) Biliary infection: Pt presented initially with fever and RUQ pain\n   [**3-13**] cholecystitis, diagnosed by RUQ ultrasound. Following a TBili bump\n   to 5.3 the following day, the picture became concerning for cholangitis\n   (class triad = fever, RUQ pain, jaundice), though pt was no longer\n   febrile. GNR+ bacteremia may be [**3-13**] to this infection. The predisposing\n   source is presumably biliary obstruction [**3-13**] biliary calculi. Concern\n   is for biliary sepsis.\n   -Unasyn (Ampicillin-Sulbactam 1.5 g IV Q6H)\n   -Coinsider ciprofloxacin (Ciprofloxacin HCl 500 mg PO/NG Q12H) for\n   additional GNR coverage\n   -ERCP for re-establishment of biliary drainage\n   #) SIRS/Hypotension: Resolving. Over past two days, pt has been febrile\n   to 103, hypotensive, with a bandemia and a clear infectious source: the\n   biliary tree. However, pt presented to [**Hospital1 5**] ED with transient\n   hypotension that resolved without fluid resuscitation. Most likely\n   explanation for patient's hypotension in our ED is the diltiazem\n   administered for A-fib w/ RVR, though given the GNR bacteremia, plus\n   unresolved gallstone pancreatitis +/- cholangitis, concern for sepsis\n   remains high.\n   -Unasyn and Cipro for broad-spectrum coverage, as above\n   -Monitor HR, BP, UOP\n   #) A-fib with RVR: Paroxysmal A-fib. Most likely etiology is systemic\n   infection. Though pt has reported hx of CHF, there are no signs of\n   volume overload on exam or CXR. Rate conrol achieved with diltiazem\n   prior to arrival on floor. Pt spontaneously converted to NSR. CHADS\n   score of 3 (for CHF, HTN, DM), therefore anticoagulation technically\n   indicated, though would wait to establish recurrence before treating.\n   -Continue Diltiazem 30mg PO daily for rate control\n   #) Troponin leak: Tn was 0.55 at OSH, 0.07 on admission here. Per\n   report, pt's Tn has been similarly elevated in the past. EKG normal in\n   ED. No prior.\n   -Cycle enzymes\n   -Repeat EKG\n   #) HTN: Pt treated with lisinopril and HCTZ at home. Currently\n   normotensive on floor.\n   -Hold home antihypertensives in setting of recent hypotension\n   -Anti-HTN support provided by diltiazem\n   #) Asthma: Stable. No evidence of reactive airways on exam.\n   -Nebulizers PRN\n   #) Diabetes: Presumed diet controlled, given no antiglycemics on\n   patient's home med regimen.\n   -ISS + hypoglycemia protocol\n   #) FEN:\n   -NPO, as above\n   -Replete lytes as necessary\n   ICU Care\n   Nutrition: NPO, as above\n   Glycemic Control:  ISS + hypoglycemia protocl\n   Lines:\n   20 Gauge - [**2114-4-17**] 01:59 AM\n   Prophylaxis:\n   DVT: Subcutaneous heparin\n   Stress ulcer: PPI\n   Communication: [**Name (NI) **] (son)  [**Telephone/Fax (1) 11880**]\n   Code status: Full code\n   Disposition: Pending ERCP, continued hemodynamic stability\n"
+    },
+    {
+      "note_id": 14279,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 991,
+          "end": 996,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": ". fib"
+        },
+        {
+          "begin": 1965,
+          "end": 1973,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "Diabetes"
+        },
+        {
+          "begin": 1996,
+          "end": 2002,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 4972,
+          "end": 4976,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN,"
+        },
+        {
+          "begin": 4977,
+          "end": 4986,
+          "code": "428.32",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, chronic",
+          "type": "Human",
+          "covered_text": "diastolic"
+        },
+        {
+          "begin": 4992,
+          "end": 4998,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "asthma"
+        },
+        {
+          "begin": 5884,
+          "end": 5897,
+          "code": "574.81",
+          "code_system": "ICD-9-CM",
+          "description": "Calculus of gallbladder and bile duct with acute and chronic cholecystitis, with obstruction",
+          "type": "Human",
+          "covered_text": "Cholecystitis"
+        },
+        {
+          "begin": 5898,
+          "end": 5909,
+          "code": "576.1",
+          "code_system": "ICD-9-CM",
+          "description": "Cholangitis",
+          "type": "Human",
+          "covered_text": "Cholangitis"
+        },
+        {
+          "begin": 6497,
+          "end": 6509,
+          "code": "577.0",
+          "code_system": "ICD-9-CM",
+          "description": "Acute pancreatitis",
+          "type": "MapType.APPROX",
+          "covered_text": "Pancreatitis"
+        },
+        {
+          "begin": 10858,
+          "end": 10867,
+          "code": "577.0",
+          "code_system": "ICD-9-CM",
+          "description": "Acute pancreatitis",
+          "type": "MapType.APPROX",
+          "covered_text": "Gallstone"
+        }
+      ],
+      "text": "Admission Date:  [**2114-4-16**]              Discharge Date:   [**2114-4-23**]\n\nDate of Birth:  [**2042-2-7**]             Sex:   F\n\nService: SURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 473**]\nChief Complaint:\nAbdominal pain, fevers, chills, and mid diarrhea.\n\nMajor Surgical or Invasive Procedure:\n[**2114-4-17**]: ERCP with sphincterotomy, stone and biliary sludge\nremoval and pancreatic stent placement.\n[**2114-4-19**]: Laparoscopic Cholecystectomy\n\nHistory of Present Illness:\nMs. [**Known lastname **] is a 72 year old female who was admitted yesterday to\n[**Hospital 8**] Hospital for abdominal pain, fevers, chills, and mid\ndiarrhea. She had a [**Hospital 5283**] which was concerning for cholecystitis\nand she was treated with ertapenem. She had a rising T. bili\ntoday to 5, so she was transferred to [**Hospital1 3494**] hopsital for\nERCP. During the ERCP, she was found to have a ampullary polyp.\nShe also developed A. fib with RVR to 140s, thoug her blood\npressure remained stable. She was sent to the [**Hospital1 3494**] ED\nwhere she received diltiazem 10 mg IV boluses x 2 and then was\nstarted on a diltiazem drip.\n.\nIn the ED, initial vital signs were HR of 80 on diltiazem drip\nat 10 mg/hour, BP 96/46, RR 18, 99% on 2l NC. She was given\nunasyn for treatment of cholecystitis. She was given morphine\nfor abdominal pain that she states is similar to prior episodes\nof pancreatitis. She was given diltiazem 30 mg PO and diltiazem\ndrip was stopped as patient was in NSR. Additionally, she\nexpressed frustration with being transferred to multiple\nhopsitals over the day and requested to leave AMA, however, she\nwas convinced to stay.\n.\nUpon arrival to the floor, patient reports mild epigastric pain\nwhich is improved with morphine. She denies fevers, chills,\ndiarrhea, chest pain, chest pressure, weight loss, weight gain,\nshortness of breath, cough.\n\n\nPast Medical History:\nHypertension\nDiabetes\nDiastolic dysfunction\nAsthma\n\n\nSocial History:\nPatient lives alone, but her daughter is nearby and she\noccasionally stays with her daughter. She denies alcohol or\ntobacco use.\n\nFamily History:\nThere is no family history of liver, gallbladder, or pancreas\ndiseases.\n\nPhysical Exam:\nOn Admission:\nVitals: afebrile, HR 67, BP 124/42, 98% on 2LNC\nGeneral: no acute distress\nHEENT: Sclera icteric, oropharynx clear\nNeck: supple, JVP not elevated\nLungs: crackles at right base, otherwise clear\nCV: Regular rate and rhythm, normal S1 + S2, +2/6 systolic\nmurmur at RUSB,\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly, negative\n[**Doctor Last Name **] sign\nGU: no foley\nExt: warm, well perfused, 2+ pulses, trace pedal edema\n\nOn Discharge:\nVS: 98.1, 72, 140/88, 18, 94% RA\nGENERAL: Awake and alert, NAD\nHEENT: NC/AT, sclera icteric, neck supple, oropharynx clear\nHEART: RRR with rare PACs\nLUNGS: CTAB\nABDOMEN: Normal post surgical tenderness along incisions,\notherwise soft, non-distended. BS x 4.\nGU: No Foley\nEXT: Warm, positive peripheral pulses 2+, trace pedal edema.\n\nPertinent Results:\n[**2114-4-16**] 07:40PM BLOOD WBC-8.0 RBC-3.89* Hgb-10.6* Hct-32.9*\nMCV-85 MCH-27.1 MCHC-32.1 RDW-13.6 Plt Ct-201\n[**2114-4-16**] 07:40PM BLOOD PT-12.5 PTT-24.1 INR(PT)-1.1\n[**2114-4-16**] 07:40PM BLOOD Glucose-102* UreaN-17 Creat-0.8 Na-141\nK-3.6 Cl-102 HCO3-27 AnGap-16\n[**2114-4-16**] 07:40PM BLOOD ALT-241* AST-255* CK(CPK)-372*\nAlkPhos-164* TotBili-5.2*\n[**2114-4-17**] 02:01AM BLOOD Albumin-3.2* Calcium-9.2 Phos-3.8 Mg-1.7\n[**2114-4-16**] 08:50PM URINE Blood-LG Nitrite-NEG Protein-NEG\nGlucose-NEG Ketone-50 Bilirub-SM Urobiln-4* pH-5.0 Leuks-NEG\n[**2114-4-16**] 08:50PM URINE RBC-[**12-29**]* WBC-0-2 Bacteri-OCC Yeast-NONE\nEpi-0-2\n[**2114-4-22**] 07:30AM BLOOD WBC-5.1 RBC-4.04* Hgb-11.1* Hct-35.2*\nMCV-87 MCH-27.4 MCHC-31.5 RDW-14.1 Plt Ct-298\n[**2114-4-22**] 07:30AM BLOOD Glucose-76 UreaN-8 Creat-0.7 Na-141 K-4.1\nCl-107 HCO3-22 AnGap-16\n[**2114-4-22**] 07:30AM BLOOD ALT-70* AST-38 AlkPhos-92 Amylase-49\nTotBili-0.8\n[**2114-4-22**] 07:30AM BLOOD Lipase-76*\n\n[**2114-4-17**]:  ECHOCARDIOGRAPHY\nThe left atrium is mildly dilated. There is mild symmetric left\nventricular hypertrophy. The left ventricular cavity size is\nnormal. Left ventricular systolic function is hyperdynamic (EF\n70-80%). Tissue Doppler imaging suggests an increased left\nventricular filling pressure (PCWP>18mmHg). Right ventricular\nchamber size and free wall motion are normal. There are focal\ncalcifications in the aortic arch. The aortic valve leaflets (3)\nare mildly thickened but aortic stenosis is not present. The\nmitral valve appears structurally normal with trivial mitral\nregurgitation. There is no mitral valve prolapse. The left\nventricular inflow pattern suggests impaired relaxation. There\nis mild pulmonary artery systolic hypertension. There is no\npericardial effusion\n\nBrief Hospital Course:\nMs. [**Known lastname **] is a 72 year old female with HTN, diastolic CHF,\nasthma, admitted to OSH with GNR bacteremia with cholesytitis,\ncholangitis, and gallstone pancreatitis, transferred to [**Hospital1 18**]\nfollowing unsuccessful ERCP complicated by A. fib with RVR.\n\n1. GNR bacteremia. Likely source of GNR bacteremia is\ncholecysitis/cholangitis. Patient's BP remained stable though\npatient was initially tachcyardic in setting of A. fib with RVR,\nnow resolved with diltiazem. Cultures done at OSH revealed\nE.coli sensitive to Cipro & Unsasyn. She was continued on Unasyn\nand Cipro for double GN coverage. Surgery co-managed this\npatient, who underwent successful ERCP on [**2114-4-17**] during which a\ngallstone was removed, resolving biliary obstruction. On [**2114-4-19**]\npatient underwent laparoscopic cholecystectomy. Post surgery\npatient's WBC was within normal range, patient was afebrile. She\nwas discharged home without any antibiotic coverage.\n.\n2. Cholecystitis/Cholangitis. Patient admitted to OSH with\nelevated LFTs, abdominal pain, and [**Name (NI) 5283**] sono consistent with\ncholecystitis. Given that LFTs were consistent with an\nobstructive picture, an ERCP was performed on [**2114-4-17**]. Source of\nGNR bacteremia was thought to be from a biliary source. The\npatient was continued on antibiotics as above, and was\ntransferred to surgery once stable for further management. On\n[**2114-4-19**] patient underwent laparoscopic cholecystectomy. Surgery\nwas done without complications. Post surgery patient was\ncontinue on antibiotics. WBC was normal.\n.\n3. Pancreatitis. Likely sedcondary to gallstone pancreatitis.\nShe was initially hydrated with IVFs, kept NPO, and her pain\nmanaged with morphine. Her lipase was downtrending. On [**2114-4-19**]\npatient underwent laparoscopic cholecystectomy. Surgery was done\nwithout complications. Post surgery patient's diet was advanced\nslowly to regular/diabetic, patient tolerated diet well.\nPatient's liver enzymes were normal prior disharge, her lipase\nwas slightly elevated.\n.\n4. A. fib with RVR. Paroxysmal and recurrent. Pt reports [**3-14**] yrs\nof palpitations. Developed A.fib with RVR in setting of\nprocedure, which resolved initially after diltiazem drip and\ncontinuation on diltiazem 30 PO [**Month/Day (3) **] but returned x5hrs on floor,\nwith spontaneous return to SR. Given patient's CHADS score of 3,\nshe may be a candidate for anticoagulation and should be\nscheduled with PCP [**Name9 (PRE) 702**] to discuss this further. With\nDiltiazem 30mg PO [**Name9 (PRE) **] patient heart rate continue to be sinus\nrhythm with occasional PACs. Patient was started on Aspirin 325\nmg PO QDay and her Diltiazem was converted to Diltiazem ER 240mg\nPO qday per cardiology recommendation. Patient will have a\nfollow up with cardiologist on [**2114-6-4**] regarding further A-fib\nmanagement.\n.\n5. HTN.  Anti-hypertensives were held in the setting of\ncholangitis/cholecystitis. Patient's BP was closly monitored\nduring hospital stay and her SBP was 120s-150s. Patient was\ninstructed to restart all her home anti-hypertensive medication\nafter discharge and follow up with her PCP for further\nmanagement.\n.\n6. Asthma.  Continued home advair, and given prn nebs.\n.\n7. Diabetes.  Kept on HISS and monitored fingersticks. On\ndischarge was started on Diabetic Diet with low carbohydrates.\nShe did not require exogenous insulin at discharge.\n.\n8. Diastolic CHF. Cardiomegaly on CXR. Echo demonstrated\nelevated LV filling pressures with preserved EF (70-80%) and no\nwall motion abnormalities. Per patient, she was told she had a\n\"large heart\" following her first pregnancy at age 26. During\nhospitalization patient didn't demonstrate any symptoms of CHF\nexacerbation. Lung x-ray was grossly normal, patient has trace\nlower extremities edema. Patient denies SOB or DOE. Patient will\nfollow-up with cardiology as an outpatient.\n.\nAt the time of discharge, the patient was doing well, afebrile\nwith stable vital signs.  The patient was tolerating a diabetic\nregular diet, ambulating, voiding without assistance, and pain\nwas well controlled.  She was discharged with VNA services. The\npatient received discharge teaching and follow-up instructions\nwith understanding verbalized and agreement with the discharge\nplan.\n\nMedications on Admission:\nMedications on admission:\nAspirin 81 mg PO qday\nLisinopril 20 mg PO qday\nSingular 10 mg PO qday\nAdvair 250/50 [**Hospital1 **]\nHydrochlorothiazide 25 mg PO qday\nProAir HFA 90  two inalation [**Name6 (MD) **] [**Name8 (MD) **] rn\nPrilosec 20 mg PO qday\nFosamax  70 mg PO qweek\n\n\nDischarge Medications:\n1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n2. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)\nas needed for pain.\nDisp:*30 Tablet(s)* Refills:*0*\n3. Diltiazem HCl 240 mg Capsule, Sustained Release Sig: One (1)\nCapsule, Sustained Release PO once a day.\nDisp:*30 Capsule, Sustained Release(s)* Refills:*2*\n4. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO once a day.\n5. Singulair 10 mg Tablet Sig: One (1) Tablet PO once a day.\n6. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once\na day.\n7. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO once a day.\n8. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:\nOne (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).\n9. ProAir HFA 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2)\nInhalation four times a day as needed for shortness of breath or\nwheezing.\n10. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.\n11. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every six\n(6) hours as needed for fever or pain.\n12. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID\n(2 times a day) as needed for constipation.\nDisp:*30 Capsule(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nMulticultural VNA\n\nDischarge Diagnosis:\n1. Gallstone pancreatitis.\n2. Cholecystitis/Cholangitis\n\n\nDischarge Condition:\nMental Status: Clear and coherent\nLevel of Consciousness: Alert and interactive\nActivity Status: Ambulatory - Independent\n\n\nDischarge Instructions:\nGeneral Discharge Instructions:\nPlease resume all regular home medications , unless specifically\nadvised not to take a particular medication. Also, please take\nany new medications as prescribed.\nPlease get plenty of rest, continue to ambulate several times\nper day, and drink adequate amounts of fluids. Avoid lifting\nweights greater than [**6-18**] lbs until you follow-up with your\nsurgeon, who will instruct you further regarding activity\nrestrictions.\nAvoid driving or operating heavy machinery while taking pain\nmedications.\nPlease follow-up with your surgeon and Primary Care Provider\n(PCP) as advised.\nIncision Care:\n*Please call your doctor or nurse practitioner if you have\nincreased pain, swelling, redness, or drainage from the incision\nsite.\n*Avoid swimming and baths until your follow-up appointment.\n*You may shower, and wash surgical incisions with a mild soap\nand warm water. Gently pat the area dry.\n*If you have steri-strips, they will fall off on their own.\nPlease remove any remaining strips 7-10 days after surgery.\n\n\nFollowup Instructions:\n1. Provider: [**First Name8 (NamePattern2) 251**] [**Name11 (NameIs) **], MD Phone:[**Telephone/Fax (1) 2835**]\nDate/Time:[**2114-5-14**] 1:00. [**Hospital Ward Name 23**] 3, [**Hospital Ward Name 516**].\n\n2. Please folow up with your PCP [**Last Name (NamePattern4) **] 2 weeks after discharge.\n\n3. Provider: [**Name10 (NameIs) 900**] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 62**] Date/Time:\n[**2114-6-4**] 10:20 am. [**Hospital Ward Name 23**] 7, Cardiology\n\n\n\nCompleted by:[**2114-5-8**]"
+    }
+  ]
+}

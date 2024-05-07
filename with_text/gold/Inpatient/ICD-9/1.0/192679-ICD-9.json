@@ -1,0 +1,104 @@
+{
+  "hadm_id": 192679,
+  "comment": "OP report not present- unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 28578,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 257,
+          "end": 280,
+          "code": "198.3",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of brain and spinal cord",
+          "type": "Human",
+          "covered_text": "right cerebellar lesion"
+        },
+        {
+          "begin": 470,
+          "end": 489,
+          "code": "V10.82",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant melanoma of skin",
+          "type": "Human",
+          "covered_text": "metastatic melanoma"
+        },
+        {
+          "begin": 1152,
+          "end": 1178,
+          "code": "197.0",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of lung",
+          "type": "Human",
+          "covered_text": "metastatic disease to lung"
+        },
+        {
+          "begin": 1152,
+          "end": 1184,
+          "code": "198.5",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of bone and bone marrow",
+          "type": "Human",
+          "covered_text": "metastatic disease to lung, bone"
+        },
+        {
+          "begin": 1190,
+          "end": 1195,
+          "code": "197.7",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of liver, specified as secondary",
+          "type": "Human",
+          "covered_text": "liver"
+        },
+        {
+          "begin": 1198,
+          "end": 1210,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1213,
+          "end": 1233,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "Hypercholesterolemia"
+        },
+        {
+          "begin": 1236,
+          "end": 1246,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 1249,
+          "end": 1263,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 6758,
+          "end": 6793,
+          "code": "432.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified intracranial hemorrhage",
+          "type": "Human",
+          "covered_text": "Right cerebellar hemorrhagic lesion"
+        }
+      ],
+      "text": "Admission Date:  [**2105-9-7**]              Discharge Date:   [**2105-9-10**]\n\nDate of Birth:  [**2041-12-18**]             Sex:   F\n\nService: NEUROSURGERY\n\nAllergies:\nSulfa (Sulfonamide Antibiotics)\n\nAttending:[**First Name3 (LF) 5084**]\nChief Complaint:\nright cerebellar lesion.\n\nMajor Surgical or Invasive Procedure:\n[**2105-9-7**]: posterior fossa craniotomy and tumor resection.\n\n\nHistory of Present Illness:\nMs. [**Known lastname 57655**] is a 63 y/o female with metastatic melanoma on study\ndrug PD1 antibody was recently seen with worst headache of life.\n She reports she was cleaning when she experienced sudden onset\ndiffuse headache which was associated eventually with nausea and\nvomiting.  When symptoms did not remit she took herself to [**Hospital **]\nHospital near her home where she underwent a CT scan that\ndemonstrated an area of acute right cerebellar hemorrhage.  She\nwas transferred to [**Hospital1 18**] for further care. After stabilization\nand further work up she was cleared for discharge home. She\nreturns [**9-7**] for posterior fossa craniotomy and resection.\n\n\nPast Medical History:\nPast Medical History:\n- Melanoma with metastatic disease to lung, bone, and liver\n- Hypertension\n- Hypercholesterolemia\n- Depression\n- Hypothyroidism\n- S/p hip stabilization [**2105-1-7**]\n- S/p TAH with BSO for fibroids\n\n\nSocial History:\nLives alone in [**State 1727**]. Widowed but has two adult sons ages 23 and\n28. Continues to work as a teacher (teaches early childhood\ndevelopment) and also has a part-time job working at [**First Name8 (NamePattern2) 9102**]\n[**Last Name (NamePattern1) 3060**]. Plans to retire from teaching at the end of this academic\nyear. Has a sister who lives in MA and will serve as emergency\ncontact.\n- Tobacco: None\n- Alcohol: Very rare\n- Illicits: None\n\n\nFamily History:\nFather died of melanoma.\n\nPhysical Exam:\nPhysical Examination on Admission:\n98.4  107  140/74  16  98%RA\nGen NAD, alert and oriented\nHEENT PERRLA, MMM\nCV RRR\nChest CTAB\nAbd soft\nExt WWP\nCN 2-12 intact\nStrength/sensation and reflexes equal and intact in UEs and [**Name Prefix (Prefixes) **]\n[**Last Name (Prefixes) **]/l\nCerebellar intact to finger-nose-finger; gate grossly normal\n\nPhysical Examination on Discharge:\nT 98.8, HR 83, BP 133/77, RR 20, O2 98% RA.\nGen: NAD; alert and oriented x3. Eyes open spontaneously.\nHEENT: PEERLA; pupil size 6mm-4mm bilaterally. EOMs intact\nbilaterally.\nFollows complex commands. Face symmetric; tongue midline.\nComprehension intact. CN II-XII grossly intact.\nMotor: Upper and lower extremity strength 5/5 bilaterally. No\npronator drift.\nIncision: Clean, dry and intact without edema, erythema or\ndischarge. Sutures in place.\nMild dysmetria bilaterally.\n\n\nPertinent Results:\n[**9-7**] CT Head:\nSuboccipital craniectomy and postoperative changes in the right\ncerebellum. Partially improved mass effect on the fourth\nventricle and partially improved leftward shift of the\ncerebellar vermis.\n\n[**9-8**] MRI Brain:\nBlood products in the right cerebellar surgical bed and thin\nlinear\nenhancement along the surgical cavity margins, without clear\nevidence for a residual mass. Recommend follow up after blood\nproducts resolve.\n\n[**2105-9-10**] 05:30AM BLOOD Plt Ct-237\n[**2105-9-10**] 05:30AM BLOOD PT-10.2 PTT-28.6 INR(PT)-0.9\n[**2105-9-10**] 05:30AM BLOOD Glucose-101* UreaN-19 Creat-0.5 Na-134\nK-4.3 Cl-100 HCO3-26 AnGap-12\n[**2105-9-10**] 05:30AM BLOOD WBC-10.5 RBC-4.55 Hgb-12.1 Hct-36.8\nMCV-81* MCH-26.7* MCHC-33.0 RDW-15.2 Plt Ct-237\n\nBrief Hospital Course:\nThis is a 63 year-old-female that electively presented and\nunderwent a posterior fossa craniotomy and resection of mass\nwith Dr [**Last Name (STitle) **]. The patient tolerated the surgery was without\ncomplication. She was extubated and transferred to the ICU for\nclose neurological observation. The post operative Head CT\nrevealed expected post operative changes. She remained stable\novernight.  On [**9-8**], the patient was neurologically intact and\nthe surgical dressing is clean dry and intact. The patient\nexhibited full strength there was no pronator drift. face was\nsymetric. Toungue was midline. Pupils were equal and reactive.\nThe foley catheter was discontinued and the patients diet was\nadvanced. The intravenous fluid was discontinued and the patient\nwas initiated on subcutaneous heparin dor deep vein thrombosis\nprophylaxis. A physical therapy consult was placed and the\npatient was transferred to the floor when a bed was available.\nThe patient continued her decadron taper.  She had complainted\nof headache and neck pain and was started on tizdanadine for\nmuscle spasm PRN.  She was feeling well on [**9-9**] and was working\nwith PT. She continued on her steroid taper and was covered by\nan insulin sliding scale. She was being screened for rehab. On\n[**9-10**] she was neurologically intact on examination with the\nexception of mild dysmetrial bilaterally.  The incision was\nclean, dry and intact with non-dissolvable sutures in place. It\nwas determined she would be discharged to rehabilitation today.\n\nMedications on Admission:\nDuloxetine 60mg PO daily.\nHydrochlorothiazide 25mg PO daily.\nLevothyroxine Sodium 150mcg PO daily.\nLisinopril 20mg PO daily.\nLoperamide 2mg PO QID prn diarrhea.\nMetoprolol Succinate XL 25mg PO daily.\nDexamethasone 4mg PO Q6H.\nDiazepam 5 mg PO Q8H prn anxiety/vertigo.\nDocusate Sodium 100mg PO BID.\nProchlorperazine 25mg PR Q12H prn nausea.\nPolyethylene Glycol 17 g PO daily until bowel movement.\nPantoprazole 40mg PO Q24H.\nHeparin 5000 Units SC TID.\n\nDischarge Medications:\n1. Dexamethasone 2 mg PO PER TAPER\nTake 3mg PO x1 tonight ([**9-10**]) at 18:00. Then take 2mg PO Q8 x24\nhours (start [**9-11**]). Then take 2mg PO BID x24 hours (start [**9-12**]).\nThen stop.\n2. Acetaminophen-Caff-Butalbital [**12-15**] TAB PO Q8H:PRN Headache\nmax apap 4g/24 hrs\n3. Bisacodyl 10 mg PO/PR DAILY:PRN constipation\n4. Docusate Sodium 100 mg PO BID:PRN constipation\n5. Duloxetine 60 mg PO DAILY\n6. Heparin 5000 UNIT SC TID\n7. Hydrochlorothiazide 25 mg PO DAILY\nHold for SBP <100.\n8. Levothyroxine Sodium 150 mcg PO DAILY\n9. Lisinopril 20 mg PO DAILY\nHold for SBP <100.\n10. Metoprolol Succinate XL 25 mg PO DAILY\nHold for SBP <100 and/or HR <60.\n11. Pantoprazole 40 mg PO Q24H\nTake this medication while taking Dexamethasone.  Once finished\nwith Dexamethasone taper, stop this medication.\n12. Senna 1 TAB PO BID:PRN constipation\n13. Tizanidine 2 mg PO TID:PRN muscle spasm\n14. Insulin SC\n      Sliding Scale\n\nFingerstick QACHS\nInsulin SC Sliding Scale using HUM Insulin\n15. OxycoDONE (Immediate Release)  5-10 mg PO Q6H:PRN pain\nRX *oxycodone 5 mg [**12-15**] tablet(s) by mouth Q6 PRN Disp #*30\nTablet Refills:*0\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\nNortheast rehabilation\n\nDischarge Diagnosis:\nRight cerebellar hemorrhagic lesion.\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nCraniotomy for Tumor Excision\n\n??????\tHave a friend/family member check your incision daily for\nsigns of infection.\n??????\tTake your pain medicine as prescribed.\n??????\tExercise should be limited to walking; no lifting, straining,\nor excessive bending.\n??????\tYour wound was closed with non-dissolvable sutures. You must\nwait until after they are removed to wash your hair. You may\nshower before this time using a shower cap to cover your head\nand the incision.\n??????\tIncrease your intake of fluids and fiber, as narcotic pain\nmedicine can cause constipation. We generally recommend taking\nan over the counter stool softener, such as Docusate (Colace) &\nSenna while taking narcotic pain medication.\n??????\tUnless directed by your doctor, do not take any\nanti-inflammatory medicines such as Motrin, Aspirin, Advil, and\nIbuprofen etc.\n??????\tIf you are being sent home on steroid medication, make sure\nyou are taking a medication to protect your stomach (Prilosec,\nProtonix, or Pepcid), as these medications can cause stomach\nirritation.  Make sure to take your steroid medication with\nmeals, or a glass of milk.\n??????\tClearance to drive and return to work will be addressed at\nyour post-operative office visit.\n??????\tMake sure to continue to use your incentive spirometer while\nat home.\n\n\nFollowup Instructions:\n??????Your sutures need to be removed 10-14 days from surgery. This\ncan be done at your follow-up appointment in the Brain [**Hospital 341**]\nClinic. If there are any problems they can contact the Physician\nAssistant or [**Name9 (PRE) **] Practitioner.  Please make this appointment\nby calling [**Telephone/Fax (1) 1669**]. If you live quite a distance from our\noffice, please make arrangements for the same, with your PCP.\n??????You have an appointment in the Brain [**Hospital 341**] Clinic for follow-up\non [**2105-9-28**] at 2:30 PM.  The Brain [**Hospital 341**] Clinic is\nlocated on the [**Hospital Ward Name 516**] of [**Hospital1 18**], in the [**Hospital Ward Name 23**] Building,\n[**Location (un) **]. Their phone number is [**Telephone/Fax (1) 1844**]. Please call if\nyou need to change your appointment, or require additional\ndirections.\n\n\n\nCompleted by:[**2105-9-10**]"
+    }
+  ]
+}

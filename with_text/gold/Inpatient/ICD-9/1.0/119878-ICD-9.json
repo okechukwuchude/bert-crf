@@ -1,0 +1,104 @@
+{
+  "hadm_id": 119878,
+  "comment": "OP report for hernia repair not present",
+  "notes": [
+    {
+      "note_id": 41625,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 270,
+          "end": 291,
+          "code": "553.3",
+          "code_system": "ICD-9-CM",
+          "description": "Diaphragmatic hernia without mention of obstruction or gangrene",
+          "type": "Human",
+          "covered_text": "Paraesophageal Hernia"
+        },
+        {
+          "begin": 348,
+          "end": 377,
+          "code": "53.80",
+          "code_system": "ICD-9-PCS",
+          "description": "Repair of diaphragmatic hernia with thoracic approach, not otherwise specified",
+          "type": "Human",
+          "covered_text": "Parasesophageal hernia repair"
+        },
+        {
+          "begin": 879,
+          "end": 905,
+          "code": "441.7",
+          "code_system": "ICD-9-CM",
+          "description": "Thoracoabdominal aortic aneurysm, without mention of rupture",
+          "type": "MapType.EXACT",
+          "covered_text": "thoracoabdominal aneurysym"
+        },
+        {
+          "begin": 1143,
+          "end": 1155,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1159,
+          "end": 1167,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "Diabetes"
+        },
+        {
+          "begin": 1171,
+          "end": 1175,
+          "code": "274.9",
+          "code_system": "ICD-9-CM",
+          "description": "Gout, unspecified",
+          "type": "Human",
+          "covered_text": "Gout"
+        },
+        {
+          "begin": 1192,
+          "end": 1207,
+          "code": "185",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of prostate",
+          "type": "Human",
+          "covered_text": "Prostate cancer"
+        },
+        {
+          "begin": 1382,
+          "end": 1428,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "pk years__\n                       quit: _1998_"
+        },
+        {
+          "begin": 2815,
+          "end": 2818,
+          "code": "427.0",
+          "code_system": "ICD-9-CM",
+          "description": "Paroxysmal supraventricular tachycardia",
+          "type": "MapType.APPROX",
+          "covered_text": "SVT"
+        },
+        {
+          "begin": 4278,
+          "end": 4306,
+          "code": "53.80",
+          "code_system": "ICD-9-PCS",
+          "description": "Repair of diaphragmatic hernia with thoracic approach, not otherwise specified",
+          "type": "Human",
+          "covered_text": "paraesophageal hernia repair"
+        }
+      ],
+      "text": "Admission Date:  [**2197-3-31**]              Discharge Date:   [**2197-4-2**]\n\nDate of Birth:  [**2120-5-17**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 4679**]\nChief Complaint:\nParaesophageal Hernia\n\nMajor Surgical or Invasive Procedure:\n[**2197-3-31**]  Parasesophageal hernia repair\n\n\nHistory of Present Illness:\nMr. [**Known lastname **] is a 76 year old male with multiple medical problems\nwho was referred to Dr. [**First Name (STitle) **] by his PCP [**Name Initial (PRE) **] 2 reasons.  He has a\nlarge paraesophageal hernia by CT scan and exhibits symptoms of\noccasional regurgitation.  He has no nausea or vomiting. He is\nable to eat all foods.  His weight is down 10 lbs over the last\nyear and he was also recently diagnosed with prostate cancer.\nHis second issue is that of a thoracoabdominal aneurysym 4 cm at\nits greatest diameter and he was also referred for possible\nstent placement. His main complaint is of a sore throat for the\npast 3 weeks.  He occasionally coughs up thin phlegm, denies SOB\nor wheezing.\n\n\nPast Medical History:\n1. Hypertension\n2. Diabetes\n3. Gout\n4. Arthritis\n5. Prostate cancer\n6. Thoracoabdominal aneurysm\n\n1. S/P APPY\n2. S/P RIH\n3. S/P right ear tumor excision years\n\n\nSocial History:\nCigarettes: [ ] never  [x] ex-smoker   [ ] current Pack-yrs:> 80\npk years__\n                       quit: _1998_____\nETOH:       [ ] No   [x] Yes     drinks/day: __occasional\nbeer___\nDrugs:\nExposure:   [x] No   [ ] Yes  [ ] Radiation\n                     [ ] Asbestos [ ] Other:\nOccupation:\nMarital Status: [x] Married  [ ] Single\nLives:          [ ] Alone    [x] w/ family  [ ] Other:\n\n\nFamily History:\nNon contributory\n\nPhysical Exam:\nVS:98.6 71  147/68 18 94% on room air\nGen: AOx3 NAD\nCor: RRR\nRes: CTAB\nAbd: Soft, NT/ND\nWounds: Lap port sites C/D/I\nExt: WWP without edema\n\n\nPertinent Results:\n[**2197-4-1**] 02:38AM BLOOD WBC-13.3*# RBC-3.68* Hgb-11.8* Hct-33.5*\nMCV-91 MCH-32.0 MCHC-35.1* RDW-13.6 Plt Ct-211\n[**2197-4-1**] 02:38AM BLOOD Glucose-147* UreaN-23* Creat-0.8 Na-137\nK-4.0 Cl-106 HCO3-23 AnGap-12\n[**2197-3-31**] 10:43PM BLOOD Type-ART pO2-177* pCO2-27* pH-7.50*\ncalTCO2-22 Base XS-0\n[**2197-3-31**] 10:43PM BLOOD Lactate-1.6\n[**2197-3-31**] 03:50PM BLOOD Hgb-12.9* calcHCT-39\n[**2197-3-31**] 03:50PM BLOOD freeCa-1.18\n\nBrief Hospital Course:\nThe patient was admitted to the Thoracic Surgical Service\nfollowing a repair of a paraesophageal hernia.  Please see the\ndictated operative note for further details of the patient's\nprocedure.  Postoperatively he required reintubation for\nagitation and was kept in the surgical intensive care unit\novernight.  He was subsequently extubated on POD1.  He had some\npain control issues initially which was accompanied by some\nhypertension and SVT, however with good pain control these\nsymptoms resolved.  He had an upper GI study which demonstrated\ngood flow with no leak hence he was started on sips and advanced\nto a soft liquid diet.  His pain was well controlled with oral\noxycodone elixir.  His vital signs were stable within normal\nlimits.  He was ambulating and voiding, and was judged to be\ndoign sufficiently well for discharge.\n\nMedications on Admission:\n1. ALLOPURINOL -  (Prescribed by Other Provider) - 300 mg Tablet\n- 1\nTablet(s) by mouth once a day\n2. AMLODIPINE -  (Prescribed by Other Provider) - 10 mg Tablet -\n1\nTablet(s) by mouth once a day\n3. ATENOLOL -  (Prescribed by Other Provider) - 50 mg Tablet - 1\nTablet(s) by mouth once a day\n4. METFORMIN -  (Prescribed by Other Provider) - 500 mg Tablet -\n1\nTablet(s) by mouth once a day\n5. SIMVASTATIN -  (Prescribed by Other Provider) - 10 mg Tablet\n- 1\nTablet(s) by mouth once a day\n\n\nDischarge Medications:\n1. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n2. atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n3. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n4. oxycodone 5 mg/5 mL Solution Sig: 5-10 Mg PO Q4H (every 4\nhours) as needed for pain.\nDisp:*200 ml* Refills:*0*\n5. polyvinyl alcohol-povidone 1.4-0.6 % Dropperette Sig: [**1-23**]\nDrops Ophthalmic TID (3 times a day).\n6. Allopurinol, 300mg PO daily\n7.  Metformin, 500mg PO Daily\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nS/P paraesophageal hernia repair\n\n\nDischarge Condition:\nMental status is clear and coherent at the patient's baseline.\nAmbulating and voiding without difficulty.\nTolerating full liquid diet.\nPain is controlled.\n\n\nDischarge Instructions:\nYou were admitted to the hospital for a paraesophageal hernia\nrepair.\n\nPain\n-Acetaminophen 650 mg every 6 hours as needed for pain\n-Oxycodone 5-10 mg every 4 hours as needed for pain, you may\ntake this less often if you are able.\n-Take stool softners with narcotics\n-No driving while taking narcotics\n\nActivity\n-Shower daily. Wash incision with mild soap and water, rinse,\npat dry\n-No tub bathing, swimming or hot tubs until incision healed\n-No lotions or creams to incision\n-Walk 4-5 times a day for 10-15 minutes increase to a Goal of 30\nminutes daily\n\nDiet:\nPlease stay on a full liquid diet for several days.\nEat small frequent meals. Sit in chair for all meals. Remain\nsitting up for 30-45 minutes after all meals\n\nNO CARBONATED DRINKS\n\n\nFollowup Instructions:\nCall Dr.[**Name (NI) 5067**] office [**Telephone/Fax (1) 2348**] to schedule a follow up\nappointment.\n\n\n\nCompleted by:[**2197-4-2**]"
+    }
+  ]
+}

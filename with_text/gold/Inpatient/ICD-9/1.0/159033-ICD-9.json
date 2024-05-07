@@ -1,0 +1,86 @@
+{
+  "hadm_id": 159033,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 30461,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 463,
+          "end": 466,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 468,
+          "end": 471,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 473,
+          "end": 477,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DMII"
+        },
+        {
+          "begin": 483,
+          "end": 489,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "MapType.APPROX",
+          "covered_text": "asthma"
+        },
+        {
+          "begin": 2008,
+          "end": 2017,
+          "code": "715.90",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoarthrosis, unspecified whether generalized or localized, involving unspecified site",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Arthritis"
+        },
+        {
+          "begin": 4779,
+          "end": 4791,
+          "code": "785.52",
+          "code_system": "ICD-9-CM",
+          "description": "Septic shock",
+          "type": "Human",
+          "covered_text": "Septic Shock"
+        },
+        {
+          "begin": 7163,
+          "end": 7184,
+          "code": "038.11",
+          "code_system": "ICD-9-CM",
+          "description": "Staphylococcus aureus septicemia",
+          "type": "Human",
+          "covered_text": "Methicillin-sensitive"
+        },
+        {
+          "begin": 7207,
+          "end": 7219,
+          "code": "421.0",
+          "code_system": "ICD-9-CM",
+          "description": "Acute and subacute bacterial endocarditis",
+          "type": "Human",
+          "covered_text": "endocarditis"
+        }
+      ],
+      "text": "Admission Date:  [**2100-9-29**]              Discharge Date:   [**2100-10-5**]\n\nDate of Birth:  [**2037-6-19**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 10593**]\nChief Complaint:\nSeptic Shock\n\n\nMajor Surgical or Invasive Procedure:\nendotrachial intubation (at outside hospital)\n\nHistory of Present Illness:\nMs. [**Known lastname 40750**] is a 63 year old female with a pmh of CAD, HLD, DMII,\nand asthma, who presented to an OSH after feeling generally\nunwell for 4 days. She reported getting a \"bug bite\" 4 days\nprior to admission, and it began to itch 2 days prior to\nadmission. She treated herself with Benadryl, without relief,\nand 24 hours prior to admission she had chills, temp to 102.5,\nand general weakness. Her FS were [**Location (un) 1131**] \"High.\" She was taken\nto [**Hospital6 17032**].\n.\nAt the OSH, her Tmax reached 104.2, 96.6 on transfer rectally\nshe was cooled with cooling blanket. She was started on Unasyn,\nVanco, and had a urine culture positive for GNRs, blood cultures\ngrew 4/4 bottles of GPCs in pairs and clusters. She was\nprogressively agitated and pulling at lines and was given 2mg\nativan and 2mg of morphine. CTA was done and it was negative.\nTroponin was positive 0.06 -> 0.32. WBC 14.2-> 15.9, H/H\n11.2/32.3, ESR 82, Na 129, K 3.4, Glucose 123. Her blood\npressures dropped and she was started on Neo/Levo, with\npressures responding to 90s/60s, 3L of IV fluid were given. A\ntotal of 485cc of UOP, BUN 19->38, Cr. 1.2-> 1.9. She desatted\nto 80s, CPAP, 6L with sats in the high 90s. Her husband and son\nwere at the bedside prior to transfer. ABG: 7.07, 49, 59 ->\n7.16, 37, 72, she appeared hypoxic and was desatting to the 70s\nto 80s on CPAP and was intubated prior to transfer.\n.\nOther studies: CT head no acute process, no bleed. CTA negative\nfor PE. CXR clear.\n.\nOn the floor, she is intubated. Unresponsive\n\nPast Medical History:\nHypertension\nPrior hyperlipidemia\nDiabetes Type 2\nAsthma\nArthritis\n[**8-11**] Arthroscopic right knee surgery\nLeft knee replacement\nHysterectomy\nCholecystectomy\nAppendectomy\nUmbilical hernia repair\nPrior heavy ETOH, quit > 20 years ago\n\n\nSocial History:\n(Obtained from OSH records) Lives with husband, has 2 children.\n\n- Tobacco:  Denied\n- Alcohol:  Denied\n- Illicits:  Denied\n\n\nFamily History:\nunobtainable\n\n\nPhysical Exam:\nAdmission Exam:\nGeneral: intubated, not responding\nHEENT: dry MM\nNeck: JVP not elevated, no LAD\nLungs: Rhonchorus BS bilaterally, no wheezes, dimished breath\nsounds on left.\nCV: Normal rate, distant heart sounds, difficult to appreciate\nwith rhonchi and ventilated breath sounds.\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: foley\nExt: cool extremities, no edema. Right forearm with erythema and\n3cm of firmness\nNeuro: Intubated, off sedation, not responsive to painful\nstimuli, sluggish pupilary response\n\nDischarge exam: deceased\n\nPertinent Results:\nAdmission Labs:\n[**2100-9-29**] 03:42AM BLOOD WBC-21.8* RBC-4.11* Hgb-11.8* Hct-35.4*\nMCV-86 MCH-28.7 MCHC-33.2 RDW-14.4 Plt Ct-288\n[**2100-9-29**] 03:42AM BLOOD Neuts-88.5* Lymphs-7.8* Monos-3.4 Eos-0.1\nBaso-0.3\n[**2100-9-29**] 03:42AM BLOOD PT-16.0* PTT-35.0 INR(PT)-1.4*\n[**2100-9-29**] 02:23PM BLOOD Fibrino-732*\n[**2100-9-29**] 03:42AM BLOOD Glucose-212* UreaN-43* Creat-1.9* Na-129*\nK-5.1 Cl-100 HCO3-15* AnGap-19\n[**2100-9-29**] 03:42AM BLOOD ALT-1568* AST-2451* CK(CPK)-389*\nAlkPhos-133* TotBili-0.3\n[**2100-9-29**] 03:42AM BLOOD CK-MB-4 cTropnT-0.07* proBNP-[**Numeric Identifier 72396**]*\n[**2100-9-29**] 03:42AM BLOOD Calcium-7.3* Phos-4.6* Mg-1.9\n[**2100-9-29**] 03:42AM BLOOD Cortsol-86.3*\n[**2100-9-29**] 03:54AM BLOOD Lactate-2.2*\n.\nTEE [**2100-9-30**]\nLarge mitral valve vegetation with possible abscess cavity vs.\nperforation and severe mitral regurgitation.\n.\nCT Head [**2100-10-2**]\nLimited study. Multiple intracranial areas of low density of\nuncertain chronicity, subacute versus chronic, without\nassociated hemorrhage. Though septic emboli are often associated\nwith hemorrhage, the diffuse distribution of these abnormalities\nis compatible with embolic infarcts. MRI is recommended for\nfurther evaluation.\n.\nMRI [**2100-10-3**]\nExtensive late acute-early subacute embolic infarction involving\n\nboth cerebral hemispheres and the infratentorial compartment,\nlikely related to known MSSA endocarditis. The largest region of\ninfarction, involving the right temporoparietal lobe\ndemonstrates evidence of early cortical \"pseudolaminar\nnecrosis,\" but there is no evidence of hemorrhagic conversion at\nthis time.\n\n\nBrief Hospital Course:\n63 year old female with a history of asthma, CAD, DMII\npresenting from an OSH with septic found to have MSSA\nendocarditis.\n.\nSeptic Shock: MSSA bacteremia (OSH with 4/4 bottles of blood\ncultures positive) and E. coli in the urine. She was on\nvancomycin and Unasyn at the OSH, with an increasing WBC. She\nwas started on Vancomycin, meropenem, clindamycin here and\ntapered to nafcillin and ceftriaxone based on Cx data from OSH.\nSurveillance Cx here negative. She was been weaned off of\npressors. TEE showed a large vegetation with 4+ mitral\nregurgitation with mitral prolapse. Her transaminitis from\nadmission was felt to be due to shock liver, and trended down\nduring her ICU stay. Renal failure was felt to be most likely\ndue to ATN.\n.\nEndocarditis: Large veg, mobile with MR [**First Name (Titles) **] [**Last Name (Titles) 50935**]. Thoracic\nsurgery following, but did not plan to take pt for surgery\nduring current acute illness.  Has not been responding to\ncommands or pain concerning for neurologic deficits, even when\nsedation off. She failed SBTs given irregular breathing patterns\nof tachypnea alternating with apnea. CT scan showed lesions that\ncould be septic emboli. Pupillary exam shows dilation then\nconstriction and then downward gaze. + Babinski sign. MRI was\ndone and showed midbrain lesions as well as A large right\nparietal stroke and L occipital stroke. Neuro was consulted;\nfelt that her neurologic prognosis was very poor. Give location\nof stroke, if she had any recovery, she would almost certainly\nbe blind. Her chance for any meaningful recovery overall was\nextremely poor. This was discussed with the family, who\nexpressed that [**Known firstname **] would not want to live if it could not be a\nmeaningful life. They decided to withdraw care and focus on\ncomfort. The patient was extubated the evening of [**2100-10-3**]. She\npassed away on [**2100-10-5**].\n.\n\nMedications on Admission:\nMeds at Home:\nViocdin prn\nDiltiazem ER 240 daily\nLisinopril 10mg daily\nMetoprolol 25 daily\nIsosorbide 20mg PO 3 times a day\nAspirin 81mg\nSerevent 2 puffs [**Hospital1 **]\nFlovent 2 puffs [**Hospital1 **]\nNPH Humulin 55 units in the morning, 10 units HS\nLabetalol 200mg [**Hospital1 **]\nAlbuterol nebs prn\n.\nOn Transfer:\nUnasyn 3g IV Q6H\nVanco 1250 Q18H\nAlbuterol Q4\nASA 81mg\nFlovent 220mcg [**Hospital1 **]\nFondaparinux 25mg SQ Q24\nTylenol 650 mg Q4H prn\nAlbuterol Nebs Q2 prn\nNeosynephrine\nLevophed\nInsulin SSI\n\n\nDischarge Medications:\nnone\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nMethicillin-sensitive staphylococcus aureas endocarditis, with\nseptic embolization to brain, resulting in neurologic\ndevastation, and death secondary to respiratory failure\n\nDischarge Condition:\nExpired\n\nDischarge Instructions:\nnone\n\nFollowup Instructions:\nnone\n\n\n"
+    }
+  ]
+}

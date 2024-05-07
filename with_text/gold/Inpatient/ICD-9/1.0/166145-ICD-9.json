@@ -1,0 +1,50 @@
+{
+  "hadm_id": 166145,
+  "comment": "Right Ilioprofounda Bypass- Need OP note to Validate PCS",
+  "notes": [
+    {
+      "note_id": 34873,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 290,
+          "end": 298,
+          "code": "998.12",
+          "code_system": "ICD-9-CM",
+          "description": "Hematoma complicating a procedure",
+          "type": "Human",
+          "covered_text": "hematoma"
+        },
+        {
+          "begin": 399,
+          "end": 404,
+          "code": "070.54",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic hepatitis C without mention of hepatic coma",
+          "type": "Human",
+          "covered_text": "Hep C"
+        },
+        {
+          "begin": 5518,
+          "end": 5533,
+          "code": "998.59",
+          "code_system": "ICD-9-CM",
+          "description": "Other postoperative infection",
+          "type": "Human",
+          "covered_text": "wound infection"
+        },
+        {
+          "begin": 5781,
+          "end": 5788,
+          "code": "038.12",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "sepsis."
+        }
+      ],
+      "text": "Admission Date:  [**2185-8-6**]              Discharge Date:   [**2185-8-10**]\n\nDate of Birth:  [**2133-5-27**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 6088**]\nChief Complaint:\nwound infection/hematoma\n\nMajor Surgical or Invasive Procedure:\ndrainage of hematoma\n\nHistory of Present Illness:\n52yoM with Hep C and h/o IVDA, POD#11\ns/p right ilioprofunda bypass with Dacron tube graft after found\nto have occluded right fem-AK popliteal bypass, now presents\nfrom\n[**Hospital3 8544**] hypotensive (sbp 80s) with erythematous wound\nand\n2.2x1.8x4.0cm fluid collection within right groin incision per\nCT\nscan. Reportedly, feeling well although noted groin incision\nprogressively \"red\" over past 2-3 days. He denies tenderness or\ndrainage from wound, fever/chills, nausea/vomiting,\nnumbness/tingling of extremities, or difficulty walking. On\npresentation to OSH, found to be afebrile but hypotensive with\nsbp 80s, with erythematous staple line, without dopplerable\nright\nlower extremity pulse, and reportedly with Cr 5.1. He was given\n3L IVF, vancomycin and levofloxacin, and underwent CT lower\nextremity prior to being transferred to [**Hospital1 18**] for further\nevaluation and [**Hospital1 **].\n\n\nPast Medical History:\nPAST MEDICAL HISTORY: Hepatitis C, h/o CVA [**2180**], h/o adrenal\ninsufficiency, h/o IVDA, h/o tobacco use\n\nPAST SURGICAL HISTORY: h/o fem-AK popliteal bypass, right\niliofemoral and profunda endarterectomy with Dacron patch\nangioplasty ([**3-/2184**]), angiogram ([**2185-7-25**]) - occluded fem-AK [**Doctor Last Name **]\nat proximal portion with reconstitution of flow at R profunda\nfemoris artery distally, s/p right ilioprofunda bypass with\nDacron tube graft ([**2185-7-26**])\n\n\nSocial History:\ndivorced\nlives with mother and x-wife  house\ncurrent tobacco use\nformer IV drug abuse, not at present- heroin\n\n\nFamily History:\nnoncontributory\n\nPhysical Exam:\nPHYSICAL EXAM\nNeuro/Psych: Oriented x3, Affect Normal, NAD.\nNeck: No masses, Trachea midline.\nNodes: No clavicular/cervical adenopathy.\nSkin: No atypical lesions.\nHeart: Regular rate and rhythm.\nLungs: Clear, Normal respiratory effort.\nGastrointestinal: Non distended, No masses.\nRectal: Abnormal: Guaiac positive.\nExtremities: No RLE edema, No LLE Edema, No varicosities.\n\nPulse Exam (P=Palpation, D=Dopplerable, N=None)\nRLE DP: N. PT: D.\nLLE DP: D. PT: D.\n\nDESCRIPTION OF WOUND: right groin staple line intact; wound with\nincreased warmth, erythematous and tender with no drainage\nexpressible\n\n\nPertinent Results:\n[**2185-8-6**] 02:15AM   PLT COUNT-129*#\n[**2185-8-6**] 02:15AM   WBC-6.0 RBC-3.90* HGB-12.5* HCT-36.7* MCV-94\nMCH-32.1* MCHC-34.1 RDW-13.9\n[**2185-8-6**] 02:15AM   ALT(SGPT)-240* AST(SGOT)-191* LD(LDH)-172 ALK\nPHOS-72 AMYLASE-102* TOT BILI-0.5\n[**2185-8-6**] 02:15AM   GLUCOSE-115* UREA N-33* CREAT-3.7*#\nSODIUM-133 POTASSIUM-4.4 CHLORIDE-101 TOTAL CO2-21* ANION GAP-15\n\nBrief Hospital Course:\nIn the ED, patient was hypotensive after 2 L fluid bolus and was\nsubsequently started on Levophed and admitted to the SICU.\nCipro, Flagyl, and vancomycin were started. Staples were removed\nfrom the groin site and the wound was packed with significant\nserous drainage noted. Echocardiogram showed normal ventricular\nfunction and was negative for effusion and vegetation. On\nhospital day 2, Levophed was weaned off.Creatinine declined to\n1.0. Blood cultures were positive for GPC in clusters. Wound\nculture grew MRSA. On hospital day 3, patient remained\nhemodynamically stable and was subsequently transferred out of\nthe SICU to the floor. A Wound-Vac was placed over the right\ngroin site. Metoprolol 25 mg [**Hospital1 **] was added for hypertension with\nimprovement.\nThe day of discharge, Vac was removed for transfer and wound was\nfound to be granulating well. Patient was ambulating and\ntolerating a regular diet. Pain was well-controlled. Patient is\nto be discharged on 2 weeks oral Bactrim/Cipro/Flagyl.\n\nMedications on Admission:\nlisinopril 10 mg daily, escitalopram 10 mg daily, colace 100 mg\n[**Hospital1 **],simvastatin 10 mg daily, ASA 81 mg daily, plavix 75 mg daily\n\n\n\nDischarge Medications:\n1. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H\n(every 12 hours) for 14 days.\nDisp:*28 Tablet(s)* Refills:*0*\n2. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\nDisp:*60 Tablet(s)* Refills:*2*\n3. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\nDisp:*30 Tablet, Chewable(s)* Refills:*2*\n5. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every\n8 hours) for 14 days.\nDisp:*42 Tablet(s)* Refills:*0*\n6. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n7. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n8. Bactrim DS 800-160 mg Tablet Sig: One (1) Tablet PO twice a\nday for 14 days.\nDisp:*28 Tablet(s)* Refills:*0*\n9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*60 Capsule(s)* Refills:*2*\n10. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily). Tablet(s)\n11. Percocet 5-325 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours\nas needed for pain.\nDisp:*20 Tablet(s)* Refills:*0*\n12. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\nDisp:*60 Tablet(s)* Refills:*2*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Location (un) 932**] VNA\n\nDischarge Diagnosis:\nwound infection\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted for a wound infection of your left groin with\npresumed sepsis. The wound was incised and drained and you were\nstarted on antibiotics. The wound culture suggested you were\ninfected with methicillin-resistant staph aureus (MRSA). We\nstarted you on metoprolol 25 mg orally twice a day for\n[**Location (un) **] of your blood pressure.\n1) You should continue the antibiotics by mouth for 2 weeks.\n2) A nurse will come to your home to change the dressing for the\nWound VAC. You should get daily wet-to-dry dressing changes\nuntil the WoundVac arrives.\n\nPlease call your doctor or go to the emergency department if:\n*You experience new chest pain, pressure, squeezing or\ntightness.\n*You develop new or worsening cough, shortness of breath, or\nwheeze.\n*You are vomiting and cannot keep down fluids or your\nmedications.\n*You are getting dehydrated due to continued vomiting, diarrhea,\nor other reasons.  Signs of dehydration include dry mouth, rapid\nheartbeat, or feeling dizzy or faint when standing.\n*You see blood or dark/black material when you vomit or have a\nbowel movement.\n*You experience burning when you urinate, have blood in your\nurine, or experience an unusual discharge.\n*Your pain is not improving within 12 hours or is not under\ncontrol within 24 hours.\n*Your pain worsens or changes location.\n*You have shaking chills, or fever greater than 101.5 degrees\nFahrenheit or 38 degrees Celsius.\n*You develop any concerning symptoms.\n\nGeneral Discharge Instructions:\nPlease resume all regular home medications, unless specifically\nadvised not to take a particular medication.  Please take any\nnew medications as prescribed.\nPlease take the prescribed analgesic medications as needed.  You\nmay not drive or heavy machinery while taking narcotic analgesic\nmedications.  You may also take acetaminophen (Tylenol) as\ndirected, but do not exceed 4000 mg in one day.\nPlease get plenty of rest, continue to walk several times per\nday, and drink adequate amounts of fluids.  Avoid strenuous\nphysical activity and refrain from heavy lifting greater than 10\nlbs., until you follow-up with your surgeon, who will instruct\nyou further regarding activity restrictions.  Please also\nfollow-up with your primary care physician.\n\nIncision Care:\n*Please call your surgeon or go to the emergency department if\nyou have increased pain, swelling, redness, or drainage from the\nincision site.\n*Avoid swimming and baths until cleared by your surgeon.\n*Keep your groin incision clean and dry after WoundVac dressing\nplacement.\n\n\nFollowup Instructions:\nDr. [**Last Name (STitle) **] in 2 weeks. Call ([**Telephone/Fax (1) 8343**] to schedule an\nappointment.\n\nFollow-up with your primary care doctor [**First Name (Titles) **] [**Last Name (Titles) **] of your\nblood pressure.\n\n\n\n"
+    }
+  ]
+}

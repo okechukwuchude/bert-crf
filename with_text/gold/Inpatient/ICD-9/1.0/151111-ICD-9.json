@@ -1,0 +1,158 @@
+{
+  "hadm_id": 151111,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 45120,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 484,
+          "end": 501,
+          "code": "198.3",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of brain and spinal cord",
+          "type": "Human",
+          "covered_text": "metastatic (brain"
+        },
+        {
+          "begin": 484,
+          "end": 506,
+          "code": "198.5",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of bone and bone marrow",
+          "type": "Human",
+          "covered_text": "metastatic (brain/bone"
+        },
+        {
+          "begin": 508,
+          "end": 539,
+          "code": "188.9",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of bladder, part unspecified",
+          "type": "Human",
+          "covered_text": "transitional cell CA of bladder"
+        },
+        {
+          "begin": 722,
+          "end": 725,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "PNA"
+        },
+        {
+          "begin": 1723,
+          "end": 1730,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "Human",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 1744,
+          "end": 1756,
+          "code": "733.00",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoporosis, unspecified",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 1762,
+          "end": 1770,
+          "code": "290.10",
+          "code_system": "ICD-9-CM",
+          "description": "Presenile dementia, uncomplicated",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Dementia"
+        },
+        {
+          "begin": 1859,
+          "end": 1862,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "fib"
+        },
+        {
+          "begin": 6316,
+          "end": 6323,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "hypoxic"
+        },
+        {
+          "begin": 6988,
+          "end": 7008,
+          "code": "197.7",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of liver, specified as secondary",
+          "type": "Human",
+          "covered_text": "new liver metastases"
+        },
+        {
+          "begin": 7950,
+          "end": 7956,
+          "code": "038.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified septicemia",
+          "type": "Human",
+          "covered_text": "Septic"
+        },
+        {
+          "begin": 7950,
+          "end": 7962,
+          "code": "785.52",
+          "code_system": "ICD-9-CM",
+          "description": "Septic shock",
+          "type": "Human",
+          "covered_text": "Septic shock"
+        },
+        {
+          "begin": 9515,
+          "end": 9521,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 9742,
+          "end": 9749,
+          "code": "584.5",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure with lesion of tubular necrosis",
+          "type": "Human",
+          "covered_text": "failure"
+        },
+        {
+          "begin": 10205,
+          "end": 10221,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "description": "Thrombocytopenia, unspecified",
+          "type": "Human",
+          "covered_text": "Thrombocytopenia"
+        },
+        {
+          "begin": 10227,
+          "end": 10239,
+          "code": "286.9",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified coagulation defects",
+          "type": "Human",
+          "covered_text": "coagulopathy"
+        }
+      ],
+      "text": "Admission Date:  [**2198-12-27**]              Discharge Date:   [**2199-1-1**]\n\nDate of Birth:  [**2123-2-24**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**Last Name (NamePattern4) 290**]\nChief Complaint:\nDyspnea\n\nMajor Surgical or Invasive Procedure:\nIntubation\narterial line placement\n\n\nHistory of Present Illness:\nHistory limited as patient intubated and family not present at\ntime of exam. This is a 75 yo F with metastatic (brain/bone)\ntransitional cell CA of bladder, here from [**Hospital 100**] Rehab with\ntachypnea (RR 40-42), hypoxia (70s%), tachycardia (119-128),\nhypotension (62/40), temp 98. CXR at rehab felt to be consistent\nwith bilateral PNA. She was given IV levofloxacin and referred\nto the ED.\n.\nOn arrival to the ED, initial VS were: 101 140 86/74 30 95% NRB.\nShe is on her 4th L of IVF. She was given vanc/zosyn here. EKG\nshowed sinus tach at 130 bpm, T wave flattening diffusely. She\nwas intubated with etomidate and succinylcholine, given\nphenylephrine bolus prior to intubation. She had a L femoral\nline placed in nonsterile conditions, later pulled with a clean\nR IJ placed. Currently on norepinephrine, had 5L IVF. Going to\ngive RBCs for hct 19. Has guaiac pos dark brown stool. CXR not\noverly impressive, getting CT torso prior to transfer. Current\nVS: 110-120s 110/70 100%. In the ICU, she is intubated and\nsedated.\n\n\nPast Medical History:\n1.  Right intertrochanteric hip fracture on [**2198-11-8**], status\npost\n[**11-9**] intramedullary nail placed at [**Hospital1 18**].\n2.  Chronic leg ulcers, improving.\n3.  History of Raynaud's phenomenon, stable.\n4.  History of skin cancer, basal cell, removed [**11-27**], stable.\n5.  Anxiety, stable.\n6.  Osteoporosis.\n7.  Dementia.\n8.  H/o C. diff infection.\n9.  Transitional cell CA with mets to brain and bone.\n10. A fib with RVR, bursts of SVT: in setting of post-op pain\nfrom hip fracture\n\nSocial History:\nFormerly worked in an administrative role at [**Hospital1 18**] in Pathology.\nFormer smoker. Lives with daughter, [**Name (NI) 6480**].\n\n\nFamily History:\nMother died of pancreatic CA.\n\n\nPhysical Exam:\nExam on Admission:\nGeneral: Intubated and sedated, NAD\nHEENT: ETT in place\nLungs: Coarse breath sounds anteriorly with slightly crackles on\nleft\nCV: Tachycardic, regular rhythm, no murmurs, rubs, gallops\nAbdomen: +BS. soft, non-tender, mildly distended. +hepatomegaly\n~6cm below costal maragin.\nExt: warm, well perfused, 2+ pulses, 1+ pitting edema at upper\nthighs, R thigh without tense compartments or apparent\necchymosis, ankles wrapped in gauze\n\nPertinent Results:\nI. Labs\n\nA. Admission\n[**2198-12-27**] 09:30PM BLOOD WBC-15.0* RBC-2.27* Hgb-6.7* Hct-22.1*\nMCV-97 MCH-29.6 MCHC-30.4* RDW-18.5* Plt Ct-169\n[**2198-12-27**] 09:30PM BLOOD Neuts-88.6* Lymphs-8.0* Monos-2.8 Eos-0.3\nBaso-0.3\n[**2198-12-27**] 09:30PM BLOOD Plt Ct-169\n[**2198-12-27**] 09:30PM BLOOD Glucose-70 UreaN-47* Creat-1.4* Na-136\nK-4.8 Cl-108 HCO3-13* AnGap-20\n[**2198-12-27**] 09:30PM BLOOD ALT-16 AST-44* LD(LDH)-774* AlkPhos-1086*\nTotBili-2.5*\n[**2198-12-27**] 09:30PM BLOOD Albumin-1.8* Calcium-6.6* Phos-3.9 Mg-1.6\n[**2198-12-27**] 10:22PM BLOOD Type-ART PEEP-5 FiO2-100 pO2-378* pCO2-37\npH-7.24* calTCO2-17* Base XS--10 AADO2-323 REQ O2-57\nIntubat-INTUBATED Vent-CONTROLLED\n[**2198-12-27**] 09:41PM BLOOD Glucose-67* Lactate-6.4* Na-136 K-4.9\nCl-111\n[**2198-12-27**] 09:41PM BLOOD Hgb-7.1* calcHCT-21\n[**2198-12-28**] 05:35AM BLOOD freeCa-1.11*\n.\nB. Day of Expiration\n[**2199-1-1**] 06:00AM BLOOD WBC-39.5* RBC-4.06* Hgb-11.6* Hct-38.0\nMCV-94 MCH-28.5 MCHC-30.5* RDW-19.8* Plt Ct-37*\n[**2199-1-1**] 06:00AM BLOOD Glucose-77 UreaN-59* Creat-1.5* Na-132*\nK-4.8 Cl-106 HCO3-12* AnGap-19\n[**2199-1-1**] 06:00AM BLOOD ALT-88* AST-354* LD(LDH)-5755*\nAlkPhos-1818* TotBili-5.7*\n[**2199-1-1**] 06:00AM BLOOD Albumin-1.6* Calcium-8.5 Phos-4.4 Mg-2.0\n[**2199-1-1**] 06:00AM BLOOD Vanco-25.8*\n[**2199-1-1**] 06:12AM BLOOD Type-ART Temp-36.0 pO2-90 pCO2-27*\npH-7.24* calTCO2-12* Base XS--14\n[**2199-1-1**] 06:12AM BLOOD Lactate-4.2*\n[**2199-1-1**] 06:12AM BLOOD freeCa-1.21\n\nII. Microbiology\n[**2198-12-28**] \tSPUTUM \tGRAM STAIN-FINAL; RESPIRATORY\nCULTURE-FINAL \tINPATIENT\n[**2198-12-28**] \tInfluenza A/B by DFA \tDIRECT INFLUENZA A\nANTIGEN TEST-FINAL; DIRECT INFLUENZA B ANTIGEN TEST-FINAL;\nRespiratory Viral Culture-FINAL \tINPATIENT\n[**2198-12-28**] \tMRSA SCREEN \tMRSA SCREEN-FINAL \tINPATIENT\n[**2198-12-27**] \tBLOOD CULTURE \tBlood Culture,\nRoutine-PENDING \tINPATIENT\n[**2198-12-27**] \tBLOOD CULTURE \tBlood Culture,\nRoutine-PENDING \tINPATIENT\n[**2198-12-27**] \tURINE \tURINE CULTURE-FINAL\n\nIII. Radiology\n\nA. CXR\n1. Endotracheal tube in satisfactory position as above.\n2. At least two patchy foci, one in the right infrahilar region\nand one in\nthe retrocardiac left lower lobe, which may represent foci of\naspiration or\nearly-developing multifocal pneumonia.\n3. Subtle pulmonary vascular indistinctness may indicate early\npulmonary\nedema\n4. Compression fracture of a lower thoracic vertebral body of\nindeterminate\nacuity.\n5. Small pleural effusions.\n\nB. CT Torso with Contrast:\n1. No evidence of PE.\n2. Multifocal opacities within both lungs are new and while they\nmay\nrepresent multifocal pneumonia in light of the other findings,\nmetastatic\ndisease is also a consideration.\n3. New bilateral small pleural effusions.\n4. New liver metastases involving both lobes.\n5. New retroperitoneal lymphadenopathy.\n6. Worsening bone metastases.\n7. Retroperitoneal soft tissue mass decreased in size.\n.\nCT Head:\n1. No evidence of acute intracranial findings. Grossly unchanged\nright\ncavernous sinus mass, extending along the tentorium. MRI would\nbe more\nsensitive for posterior fossa abnormalities and reassessment of\nmetastatic\ndisease, particularly if brainstem and cranial nerve involvement\nis suspected.\n2. Complete right mastoid opacification and middle ear\nopacification. Given concern for perineural tumor spread from\nthe right cavernous sinus, this finding may relate to\nobstruction of drainage by the skull base mass. Please correlate\nclinically to assess for acute infection.\n3. Partial left mastoid air cell opacification.\n\n\nBrief Hospital Course:\nHospital course: Mrs. [**Known lastname 19704**] is a 75-year-old female with\nmetastatic transitional cell carcinoma of the bladder who\npresented with hypoxic respiratory failure that was likely\nmultifactorial in setting of tumor burden and possible\nmultifocal pneumonia although aspiration is a consideration, and\nhemodynamic instability requiring aggressive volume\nresuscitation, pressor support with norepinephrine, and\nintubation. The patient had last been treated for cancer, but\nher regimen has been on hold since [**Month (only) **] secondary to a hip\nfracture with subsequent poor performance status and medical\nissues related to her rehabiliation and chronic medical\nconditions.  Imaging revealed further metastasis with suggested\nbrain involvement, new retroperitoneal lymphadenopathy,\nworsening bone metastases, new liver metastases, and possible\nmultifocal lung metastatis although pneumonia was a\nconsideration.  Patient was extubated on [**2199-1-1**] per family\ndesire to pursue comfort care given progressively worsening\nclinical status and died on [**2199-1-1**] at 12:35 PM.\n\n# Hypoxic respiratory failure:\nHer respiratory failure was thought to be secondary to either\nmultifocal pneumonia or worsening metastasis from underlying\nmalignancy. PE was excluded in setting of recent hip fracture\ns/p repair. She was intubated and required support throughout\nher hospitalization. She was treated broadly with vancomycin (IV\nand PO), cefepime, ciprofloxacin, metronidazole for both\nanaerobic and pulmonary infections in addition to C. diff given\nleukocytosis. Microbiology did not suggest infectious etiology.\nPatient was extubated on [**2199-1-1**] per family desire to pursue\ncomfort care given progressively worsening status and died on\n[**2199-1-1**] at 12:35 PM.\n\n.\n# Septic shock:\nPatient was hypotensive on presentation and required high-volume\nresuscitation, pressor support with levophed. Etiology was\nthought to be septic process although high tumor burden could\nhave caused destabilization and no overt evidence in favor of\nseptic process. She was empirically covered with aforementioned\nantimicrobials for infection although her blood, sputum, and\nurine cultures were not suggestive of infection. Patient\nsubsequently switched to phenylephrine as having episodes of\nhypotension associated with atrial fibrillation with rapid\nventricular response. Given evidence of worsening perfusion with\noliguria and upward trend of lactate, she was subsequently\nplaced back on levophed with minimal effect and continuing\ndeterioration until her death. It was unclear if her\ndeterioration was due mostly to a septic picture or worsening\nmalignancy.\n\n.\n# Metastatic transitional cell cancer: Patient was noted to have\nworsening metastasis on imaging as above. She had received\ntreatment in the past, which was limited of recent by a fall\nwith resultant hip fracture and subsequent poor performance.\nOncology was involved during her hospitalization indicating that\nfurther therapy would likely only worsen her condition in the\nsetting of an already poor prognosis.\n\n.\n# Atrial fibrillation: Patient likely developed atrial\nfibrillation in setting of acute illness and secondary to\ncardiostimulatory pressor. She was controlled with lopressor. On\nher last day of hospitalization, her episodes were causing\nsevere hemodynamic instability.\n\n.\n# Anemia: Patient noted to be anemic. Likely secondary to\noverwhelming systemic illness with marrow suppression with no\nevidence of acute blood loss. Hemolysis and DIC labs did not\nsuggest such processes.\n\n# Acute oliguric renal failure\nHer renal function declined likely secondary to pre-renal\nprocesses from poor perfusion leading to acute tubular necrosis.\nTumor lysis syndrome in setting of burden was thought to be less\nlikely.\n\n# Transaminitis\nPatient noted to have elevated liver function tests thought to\nbe secondary to liver metastasis and worsened by underling\nsystemic process.\n\n# Metabolic acidosis\nPatient developed marked acidosis likely to underlying\ninflammatory process.\n\n# Thrombocytopenia with coagulopathy\nPatient noted to develop thrombocytopenia likely multifactorial\netiology with marrow suppression, drug side effect from\nantibiotics (no known heparin usage). For coagulopathy, there\nwas a concern for DIC as above.\n\n\nMedications on Admission:\nAPAP 975mg TID\nCa carbonate 650mg [**Hospital1 **]\nEnoxaparin 40mg daily\nFolic acid 1mg daily\nLactobacillus 2 tab [**Hospital1 **]\nLoratadine 10mg daily\nMetoprolol 12.5 mg [**Hospital1 **]\nAlbuterol neb q6h prn\nBisacodyl 10mg PR prn\nIpratropium neb q4h prn\nMagnesium hydroxide 30ml daily prn\nMorphine sulfate 15mg q6h prn\nSenna 2 tabs daily prn\n\nDischarge Medications:\nNone\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nPrimary: Transitional cell carcinoma, metastatic, multi-organ\ndysfunction syndrome, respiratory failure\nSecondary: atrial fibrillation, anemia, renal failure\n\n\nDischarge Condition:\nExpired\n\n\nDischarge Instructions:\nExpired\n\nFollowup Instructions:\nExpired\n\n\n                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]\n\n"
+    }
+  ]
+}

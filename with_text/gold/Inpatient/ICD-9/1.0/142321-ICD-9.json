@@ -1,0 +1,299 @@
+{
+  "hadm_id": 142321,
+  "comment": "Angioplasty report not present- unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 684008,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 3703,
+          "end": 3722,
+          "code": "428.22",
+          "code_system": "ICD-9-CM",
+          "description": "Systolic heart failure, chronic",
+          "type": "Human",
+          "covered_text": "Pt c systolic CHF c"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:\n   24 Hour Events:\n EKG - At [**2155-7-25**] 11:[**Street Address(2) 7342**]\n   Allergies:\n   Sulfa (Sulfonamide Antibiotics)\n   Unspecified [**Doctor First Name **]\n   Flagyl (Oral) (Metronidazole)\n   Diarrhea;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Ranitidine (Prophylaxis) - [**2155-7-26**] 08:00 AM\n   Heparin Sodium (Prophylaxis) - [**2155-7-26**] 08:00 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2155-7-26**] 09:07 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.5\nC (99.5\n   Tcurrent: 36.8\nC (98.2\n   HR: 94 (87 - 120) bpm\n   BP: 107/57(69) {94/45(61) - 116/74(79)} mmHg\n   RR: 25 (17 - 25) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n                  Total In:\n                  PO:\n                  TF:\n   IVF:\n   Blood products:\n   Total out:\n                                                                    150 mL\n                                                                  1,000 mL\n   Urine:\n                                                                    150 mL\n                                                                  1,000 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                   -150 mL\n                                                                 -1,000 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 100%\n   ABG: ///29/\n   Physical Examination\n   Eyes: (Conjunctiva and lids: WNL)\n   Ears, Nose, Mouth and Throat: (Oral mucosa: Dry), (Teeth, gums and\n   palette: WNL)\n   Neck: (Right carotid artery: No bruit), (Left carotid artery: No\n   bruit), (Jugular veins: Not visible), (Thyroid: WNL)\n   Back / Musculoskeletal: (Chest wall structure: Midline sternotomy\n   incision well healed but slightly tender to palpation)\n   Respiratory: (Effort: WNL), (Auscultation: Abnormal, Decreased breath\n   sounds 2/3 up lung fields on left and diminished at right lung base\n   without wheezes or crackles)\n   Cardiac: (Rhythm: Regular, Tachycardic), (Palpation / PMI: WNL),\n   (Auscultation: S1: WNL, S3: Absent, S4: Absent), (Murmur / Rub: Absent)\n   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Bruits: No),\n   (Pulsatile mass: No), (Hepatosplenomegaly: No)\n   Genitourinary: (foley catheter in place)\n   Femoral Artery: (Right femoral artery: Groin site without hematoma,\n   minimal tenderness to palpation, No bruit), (Left femoral artery: No\n   bruit)\n   Extremities / Musculoskeletal: (Digits and nails: WNL), (Gait and\n   station: not assessed), (Edema: Right: 0, Left: 0)\n   Skin: ( WNL)\n   Labs / Radiology\n   482 K/uL\n   9.6 g/dL\n   134 mg/dL\n   0.9 mg/dL\n   29 mEq/L\n   4.4 mEq/L\n   13 mg/dL\n   105 mEq/L\n   140 mEq/L\n   33.9 %\n   6.0 K/uL\n        [image002.jpg]\n                             [**2155-7-26**]  02:14 AM\n                             [**2155-7-26**]  08:04 AM\n   WBC\n   6.0\n   Hct\n   29.7\n   33.9\n   Plt\n   482\n   Cr\n   0.9\n   TropT\n   0.04\n   Glucose\n   134\n   Other labs: PT / PTT / INR:14.0/45.1/1.2, CK / CKMB /\n   Troponin-T:38//0.04, Ca++:8.3 mg/dL, Mg++:2.0 mg/dL, PO4:2.9 mg/dL\n   Assessment and Plan\n   73F c 3VD and AAA, as well as DM, COPD and MMP now p/w increasing DOE\n   after failed CABG. Likely this represents an angina equivalent which is\n   exacerbated by her other pulmonary issues (effusion, COPD, asthma). To\n   cath tomorrow.\n   .\n   # PUMP: Pt c systolic CHF c EF of 45-55% on TTE in [**5-8**], BNP this\n   admission 8434.  While on the floor, pt with hypotensive episode and\n   SBP to 70's that responded to total of 1L IVF.  EKG remained\n   unchanged.  Given recent c.cath with small dissection to OM1,\n   hemopericardium or retroperitoneal bleed were of concern given relative\n   hypotension.  In addition, on admission, pt underwent thoracentesis of\n   L sided pleural effusion and removal of 1.5L possibly causing fluid\n   shifts and relative hypotension.  [**Name2 (NI) **] potential etiologies of\n   hypotension could include dehydration, or less likely medication effect\n   from meds received in the cath lab.  Pt currently asymptommatic but\n   tachycardic to 115.  Hct stable 32.2-->33.4 on the floor. CT\n   abdomen/pelvis without evidence of RP bleed or hematoma around femoral\n   vessels.  Bedside echo without evidence of significant pericardial\n   effusion and no gross change in LV function from prior study.\n   - Holding metoprolol for now until BP improves\n   - Follow Hct Q8 hours\n   - Active T&C\n   - IVF boluses as needed to maintain SBP>90\n   - Monitor on tele\n   - F/[**Location **] CT abdomen/pelvis read\n   - Monitor femoral groin site for signs of hematoma\n   .\n   # CORONARIES: 3VD on cath from [**5-8**], s/p recent attempted CABG but pt\n   unable to tolerate bypass, now s/p c.cath with POBA to OM1\n   -to cath in the am\n   -continue asa/plavix post procedure for 6 weeks\n   -continue Rosuvastatin\n   .\n   # RHYTHM: sinus in the 100s while on the floor pre-procedure and now\n   slightly more tachycardic to 110's which may represent blood loss or\n   dehydration\n   - continue to monitor on tele for now\n   - resume beta blocker to keep HR closer to 80 if BP tolerates\n   .\n   # COPD and asthma: continue home meds -- fluticasone, salmeterol,\n   albuterol/atrovent nebs.\n   .\n   # Pleural effusion: consistent with exudate based on Light's criteria;\n   s/p drainage on admission with improvement in effusion visualized on\n   repeat CXR.  Pt also with small apical post thoracentesis pneumothorax;\n   IP following patient on the floor and considering pleurex drain.\n   - plan IP procedure Monday.\n   .\n   # Anemia: improved from baseline on admission.\n   - Monitor Hct as above\n   .\n   # UTI: pt c 6-10 WBCs on UA s/p foley placement, started empirically on\n   Ciprofloxacin on floor for UTI.\n   - continue cipro 500 [**Hospital1 **] for now\n   - f/u UCx from [**7-24**]\n   - d/c foley\n   .\n   # DM: d/ced rosiglitazone given CHF.\n   - hold oral [**Doctor Last Name **] until she is returned home\n   - RISS\n   -FS QAC/HS\n   .\n   FEN: Cardiac diet/Diabetic diet\n   PROPHYLAXIS: pneumoboots, Hep SQ on hold for now until bleed ruled out,\n   colace, MOM prn\n   -[**Name2 (NI) 222**] management with tylenol prn\n   CODE: full\n   DISPO: Stable for return to [**Hospital Unit Name 7343**] Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   22 Gauge - [**2155-7-25**] 10:51 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status:\n   Disposition:\n"
+    },
+    {
+      "note_id": 683942,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 3706,
+          "end": 3720,
+          "code": "428.22",
+          "code_system": "ICD-9-CM",
+          "description": "Systolic heart failure, chronic",
+          "type": "Human",
+          "covered_text": "c systolic CHF"
+        },
+        {
+          "begin": 4953,
+          "end": 4968,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CORONARIES: 3VD"
+        },
+        {
+          "begin": 5467,
+          "end": 5482,
+          "code": "493.20",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic obstructive asthma, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "COPD and asthma"
+        },
+        {
+          "begin": 5569,
+          "end": 5585,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "Human",
+          "covered_text": "Pleural effusion"
+        },
+        {
+          "begin": 5752,
+          "end": 5783,
+          "code": "512.1",
+          "code_system": "ICD-9-CM",
+          "description": "Iatrogenic pneumothorax",
+          "type": "MapType.APPROX",
+          "covered_text": "post thoracentesis pneumothorax"
+        },
+        {
+          "begin": 5894,
+          "end": 5900,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 5975,
+          "end": 5978,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:\n   24 Hour Events:\n EKG - At [**2155-7-25**] 11:[**Street Address(2) 7342**]\n   Allergies:\n   Sulfa (Sulfonamide Antibiotics)\n   Unspecified [**Doctor First Name **]\n   Flagyl (Oral) (Metronidazole)\n   Diarrhea;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Ranitidine (Prophylaxis) - [**2155-7-26**] 08:00 AM\n   Heparin Sodium (Prophylaxis) - [**2155-7-26**] 08:00 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2155-7-26**] 09:07 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.5\nC (99.5\n   Tcurrent: 36.8\nC (98.2\n   HR: 94 (87 - 120) bpm\n   BP: 107/57(69) {94/45(61) - 116/74(79)} mmHg\n   RR: 25 (17 - 25) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n                  Total In:\n                  PO:\n                  TF:\n   IVF:\n   Blood products:\n   Total out:\n                                                                    150 mL\n                                                                  1,000 mL\n   Urine:\n                                                                    150 mL\n                                                                  1,000 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                   -150 mL\n                                                                 -1,000 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 100%\n   ABG: ///29/\n   Physical Examination\n   Eyes: (Conjunctiva and lids: WNL)\n   Ears, Nose, Mouth and Throat: (Oral mucosa: Dry), (Teeth, gums and\n   palette: WNL)\n   Neck: (Right carotid artery: No bruit), (Left carotid artery: No\n   bruit), (Jugular veins: Not visible), (Thyroid: WNL)\n   Back / Musculoskeletal: (Chest wall structure: Midline sternotomy\n   incision well healed but slightly tender to palpation)\n   Respiratory: (Effort: WNL), (Auscultation: Abnormal, Decreased breath\n   sounds 2/3 up lung fields on left and diminished at right lung base\n   without wheezes or crackles)\n   Cardiac: (Rhythm: Regular, Tachycardic), (Palpation / PMI: WNL),\n   (Auscultation: S1: WNL, S3: Absent, S4: Absent), (Murmur / Rub: Absent)\n   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Bruits: No),\n   (Pulsatile mass: No), (Hepatosplenomegaly: No)\n   Genitourinary: (foley catheter in place)\n   Femoral Artery: (Right femoral artery: Groin site without hematoma,\n   minimal tenderness to palpation, No bruit), (Left femoral artery: No\n   bruit)\n   Extremities / Musculoskeletal: (Digits and nails: WNL), (Gait and\n   station: not assessed), (Edema: Right: 0, Left: 0)\n   Skin: ( WNL)\n   Labs / Radiology\n   482 K/uL\n   9.6 g/dL\n   134 mg/dL\n   0.9 mg/dL\n   29 mEq/L\n   4.4 mEq/L\n   13 mg/dL\n   105 mEq/L\n   140 mEq/L\n   33.9 %\n   6.0 K/uL\n        [image002.jpg]\n                             [**2155-7-26**]  02:14 AM\n                             [**2155-7-26**]  08:04 AM\n   WBC\n   6.0\n   Hct\n   29.7\n   33.9\n   Plt\n   482\n   Cr\n   0.9\n   TropT\n   0.04\n   Glucose\n   134\n   Other labs: PT / PTT / INR:14.0/45.1/1.2, CK / CKMB /\n   Troponin-T:38//0.04, Ca++:8.3 mg/dL, Mg++:2.0 mg/dL, PO4:2.9 mg/dL\n   Assessment and Plan\n   73F c 3VD and AAA, as well as DM, COPD and MMP now p/w increasing DOE\n   after failed CABG. Likely this represents an angina equivalent which is\n   exacerbated by her other pulmonary issues (effusion, COPD, asthma). To\n   cath tomorrow.\n   .\n   # PUMP: Pt c systolic CHF c EF of 45-55% on TTE in [**5-8**], BNP this\n   admission 8434.  While on the floor, pt with hypotensive episode and\n   SBP to 70's that responded to total of 1L IVF.  EKG remained\n   unchanged.  Given recent c.cath with small dissection to OM1,\n   hemopericardium or retroperitoneal bleed were of concern given relative\n   hypotension.  In addition, on admission, pt underwent thoracentesis of\n   L sided pleural effusion and removal of 1.5L possibly causing fluid\n   shifts and relative hypotension.  [**Name2 (NI) **] potential etiologies of\n   hypotension could include dehydration, or less likely medication effect\n   from meds received in the cath lab.  Pt currently asymptommatic but\n   tachycardic to 115.  Hct stable 32.2-->33.4 on the floor. CT\n   abdomen/pelvis without evidence of RP bleed or hematoma around femoral\n   vessels.  Bedside echo without evidence of significant pericardial\n   effusion and no gross change in LV function from prior study.\n   - Holding metoprolol for now until BP improves\n   - Follow Hct Q8 hours\n   - Active T&C\n   - IVF boluses as needed to maintain SBP>90\n   - Monitor on tele\n   - F/[**Location **] CT abdomen/pelvis read\n   - Monitor femoral groin site for signs of hematoma\n   .\n   # CORONARIES: 3VD on cath from [**5-8**], s/p recent attempted CABG but pt\n   unable to tolerate bypass, now s/p c.cath with POBA to OM1\n   -to cath in the am\n   -continue asa/plavix post procedure for 6 weeks\n   -continue Rosuvastatin\n   .\n   # RHYTHM: sinus in the 100s while on the floor pre-procedure and now\n   slightly more tachycardic to 110's which may represent blood loss or\n   dehydration\n   - continue to monitor on tele for now\n   - resume beta blocker to keep HR closer to 80 if BP tolerates\n   .\n   # COPD and asthma: continue home meds -- fluticasone, salmeterol,\n   albuterol/atrovent nebs.\n   .\n   # Pleural effusion: consistent with exudate based on Light's criteria;\n   s/p drainage on admission with improvement in effusion visualized on\n   repeat CXR.  Pt also with small apical post thoracentesis pneumothorax;\n   IP following patient on the floor and considering pleurex drain.\n   - plan IP procedure Monday.\n   .\n   # Anemia: improved from baseline on admission.\n   - Monitor Hct as above\n   .\n   # UTI: pt c 6-10 WBCs on UA s/p foley placement, started empirically on\n   Ciprofloxacin on floor for UTI.\n   - continue cipro 500 [**Hospital1 **] for now\n   - f/u UCx from [**7-24**]\n   - d/c foley\n   .\n   # DM: d/ced rosiglitazone given CHF.\n   - hold oral [**Doctor Last Name **] until she is returned home\n   - RISS\n   -FS QAC/HS\n   .\n   FEN: Cardiac diet/Diabetic diet\n   PROPHYLAXIS: pneumoboots, Hep SQ on hold for now until bleed ruled out,\n   colace, MOM prn\n   -[**Name2 (NI) 222**] management with tylenol prn\n   CODE: full\n   DISPO: Stable for return to [**Hospital Unit Name 7343**] Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   22 Gauge - [**2155-7-25**] 10:51 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status:\n   Disposition:\n"
+    },
+    {
+      "note_id": 683919,
+      "category": "Physician",
+      "description": "Cardiology Comprehensive Physician Note",
+      "annotations": [
+        {
+          "begin": 2541,
+          "end": 2555,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 2767,
+          "end": 2794,
+          "code": "V10.02",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of other and unspecified parts of oral cavity and pharynx",
+          "type": "MapType.APPROX",
+          "covered_text": "Squamous cell ca of the lip"
+        },
+        {
+          "begin": 10931,
+          "end": 10937,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        }
+      ],
+      "text": "TITLE:\n   Date of service: [**2155-7-26**]\n   Initial visit, Cardiology service: CCU\n   Presenting complaint: (Other: Hypotension, tachycardia)\n   History of present illness: In brief, Ms. [**Known lastname **] is a 73 year old woman\n   who has a history of coronary artery disease s/p a myocardial\n   infarction in [**2131**] and a large abdominal aortic aneurysm.  Of note,\n   approximately two months ago, the patient was undergoing pre-op\n   evaluation and evaluation of chest pain prior to repair of a 6.6 cm AAA\n   when she was noted to have an abnormal office EKG.  Following this, the\n   patient underwent dobutamine stress test and was found to have\n   upsloping ST segment depressions during the study, subsequently\n   undergoing cardiac catherization on [**2155-6-13**] that revealed 3VD (mid LAD\n   occlusion, 90% LCx, 100% Ostial RCA lesion).  The patient proceeded to\n   CABG earlier this month but was unable to tolerate placement on bypass,\n   and therefore was not revascularized and was maintained on medical\n   therapy for her 3VD.\n   .\n   Two days prior to this admission, the patient presented to outpatient\n   cardiology clinic complaining of dyspnea, and worsening DOE, which was\n   felt to be an anginal equivalent.  Given her symptoms, she was admitted\n   to [**Hospital1 5**] for further evaluation. On admission the patient was found to\n   have a large left sided pleural effusion which was drained and found to\n   be exudative.  She then underwent repeat elective cardiac catherization\n   on [**2155-7-25**], however, cardiac catherization was complicated by a small\n   sprial dissection of the OM1.  The patient was hemodynamically stable\n   following her intervention and returned to the floor.  However, while\n   on the floor the patient was noted to be hypotensive down to a systolic\n   in the 70s and slightly more tachycardic to the low 100's (baseline\n   80's-90's).  After an initial 500cc IVF bolus, the patient's SBP\n   improved to the 100's but one hour later she was noted to have an SBP\n   in the 70s once again.  Given her recent cardiac catherization there\n   was concern for possible pericardial tamponade so a bedside TTE was\n   performed which showed no significant pericardial effusion.  En route\n   to the CCU, the patient was given an additional 500cc IVF bolus with\n   improvement of her SBP to the low 100's and the patient continued to\n   feel well with no symptoms of chest pain or shortness of breath.\n   Past medical history: CAD, s/p MI in [**2131**]\n   CHF (EF 45-50%)\n   Diabetes\n   Hyperlipidemia\n   Neuropathy\n   Sciatica\n   Asthma\n   Bursitis of the right shoulder\n   Rotator cuff tear, right shoulder\n   Dry eyes\n   H/O recurrent bronchitis\n   Seasonal allergies\n   GERD\n   H/O Proteinuria in the past\n   Squamous cell ca of the lip s/p resection\n   Tonsillectomy\n   S/P uvula removal\n   Diverticulitis\n   CAD Risk Factors\n   CAD Risk Factors Present\n   Diabetes mellitus, Dyslipidemia\n   CAD Risk Factors Absent\n   Hypertension, Family Hx of CAD, Family Hx of sudden cardiac death\n   (Tobacco: Yes), (Quit: Yes), (Cigarettes: 1 packs / day x 80 yrs)\n   Cardiovascular Procedural History\n   PCI: Most recent: [**2155-7-25**]\n   There is no history of:\n   CABG: Grafts: Not tolerated\n   Pacemaker / ICD\n   Allergies:\n   Sulfa (Sulfonamide Antibiotics)\n   Unspecified [**Doctor First Name **]\n   Flagyl (Oral) (Metronidazole)\n   Diarrhea;\n   Current medications: MEDICATIONS ON TRANSFER:\n   Aspirin 81 mg PO DAILY Start: In am\n   Clopidogrel 75 mg PO DAILY Start: In am\n   Ciprofloxacin HCl 500 mg PO Q12H\n   Rosuvastatin Calcium 20 mg PO DAILY\n   Gabapentin 300 mg PO Q12H\n   Acetaminophen 325 mg PO Q6H:PRN pain\n   Duloxetine 30 mg PO DAILY Start: In am\n   Milk of Magnesia 30 mL PO Q6H:PRN constipation\n   Insulin SC  (per Insulin Flowsheet)\n   Fluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **]\n   Salmeterol Xinafoate Diskus (50 mcg) 1 INH IH Q12H\n   Artificial Tears 1-2 DROP BOTH EYES PRN dry eyes\n   Ipratropium Bromide Neb 1 NEB IH Q6H:PRN SOB\n   Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN SOB\n   Docusate Sodium 100 mg PO BID\n   Fexofenadine 60 mg PO BID\n   Heparin 5000 UNIT SC TID\n   Ranitidine 150 mg PO BID\n   Cardiovascular ROS\n   Cardiovascular ROS Signs and Symptoms Present\n   SOB, DOE\n   Cardiovascular ROS Signs and Symptoms Absent\n   Murmur, Rheumatic fever, Chest pain, PND, Orthopnea, Edema,\n   Palpitations, Syncope, Presyncope, Lightheadedness, TIA / CVA,\n   Pulmonary embolism, DVT, Claudication, Exertional buttock pain,\n   Exertional calf pain\n   Cardiovascular ROS Details: Pt w/symptoms of SOB/DOE on admission but\n   not currently\n   Review of Systems\n   Signs and symptoms present\n   Black / red stool, Myalgias\n   Organ system ROS normal\n   Constitutional, Eyes, ENT, Respiratory, Gastrointestinal, Endocrine,\n   Hematology / Lymphatic, Genitourinary, Musculoskeletal, Integumentary,\n   Neurological, Psychiatric, Allergy / Immune\n   Signs and symptoms absent\n   Recent fevers, Chills, Rigors, Cough, Hemoptysis, Bleeding during\n   surgery, Joint pains\n   ROS Details: Pt with history of black stools while on iron\n   supplementation. Pt also complaining of left upper arm myalgias\n   Social History\n   (Alcohol: No), (Recreational drug use: No)\n   Family history: Non-contributory\n   Physical Exam\n   Date and time of exam: [**2155-7-25**]\n   Vital signs: per R.N.\n   BP right arm:\n   98 / 53 mmHg\n   supine\n   T current: 99.5 C\n   HR: 105 bpm\n   RR: 19 insp/min\n   O2 sat: 100 %  on Supplemental oxygen: 2L NC\n   Eyes: (Conjunctiva and lids: WNL)\n   Ears, Nose, Mouth and Throat: (Oral mucosa: Dry), (Teeth, gums and\n   palette: WNL)\n   Neck: (Right carotid artery: No bruit), (Left carotid artery: No\n   bruit), (Jugular veins: Not visible), (Thyroid: WNL)\n   Back / Musculoskeletal: (Chest wall structure: Midline sternotomy\n   incision well healed but slightly tender to palpation)\n   Respiratory: (Effort: WNL), (Auscultation: Abnormal, Decreased breath\n   sounds 2/3 up lung fields on left and diminished at right lung base\n   without wheezes or crackles)\n   Cardiac: (Rhythm: Regular, Tachycardic), (Palpation / PMI: WNL),\n   (Auscultation: S1: WNL, S3: Absent, S4: Absent), (Murmur / Rub: Absent)\n   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Bruits: No),\n   (Pulsatile mass: No), (Hepatosplenomegaly: No)\n   Genitourinary: (foley catheter in place)\n   Femoral Artery: (Right femoral artery: Groin site without hematoma,\n   minimal tenderness to palpation, No bruit), (Left femoral artery: No\n   bruit)\n   Extremities / Musculoskeletal: (Digits and nails: WNL), (Gait and\n   station: not assessed), (Edema: Right: 0, Left: 0)\n   Skin: ( WNL)\n   Labs\n   Outside / other labs: CT Abdomen/Pelvis [**2155-7-25**]:\n   Stable supra and infrarenal aortic aneurysms.  Trace pericardial\n   effusion.  No retroperitoneal bleed, free fluid, or free air.  No\n   hematoma near right femoral vessels.\n   Tests\n   ECG: (Date: [**2155-7-25**]), Sinus tachycardia, Q waves in II, III, aVF, poor\n   R wave progression, no ischemic ST segment changes\n   Stress Testing: (Date: [**5-8**]), (Protocol: Dobutamine), The patient was\n   infused with 15 and 30mcg/kg/min of Dobutamine at infusion time of 4.75\n   minutes. The test was stopped due to reaching the target submaximal\n   heart rate. The patient reported a lower RLQ discomfort [**4-8**] during\n   infusion. This symptom resolved after the Dobutamine was terminated. In\n   the presence of baseline changes, between 0.5-1mm of slowly upsloping\n   ST segment depression was seen in the inferior leads and V2-V6 at peak\n   infusion and in early recovery period; returning to baseline later in\n   recovery. The rhythm was sinus with rare isolated APBs and VPBs. The\n   blood pressure response to infusion was flat with an appropriate heart\n   rate response.\n   Cardiac Cath: (Date: [**2155-7-25**]), Initial angiography with a calcified\n   tortuous OM1\n   lesion to 90% and a longer 90% diagonal lesion. Access was quite\n   difficult.  We used a micropuncture set to get access in RFA but had to\n   use a Glidewire to negotiate the tortuous iliacs and aorta.  We\n   ultimated were able to get into ascending aorta and exchanged for a\n   Amplatz wire and then put up a 6F 90cm Shuttle sheath.\n   2.  Limited hemodynamics with BP 123/67 with HR 82 in sinus.\n   3.  POBA of OM1 with 2.25mm balloon resulting in dissection with good\n   flow.\n   Assessment and Plan\n   73F c 3VD and AAA, as well as DM, COPD and MMP now p/w increasing DOE\n   after failed CABG. Likely this represents an angina equivalent which is\n   exacerbated by her other pulmonary issues (effusion, COPD, asthma). To\n   cath tomorrow.\n   .\n   # PUMP: Pt c systolic CHF c EF of 45-55% on TTE in [**5-8**], BNP this\n   admission 8434.  While on the floor, pt with hypotensive episode and\n   SBP to 70's that responded to total of 1L IVF.  EKG remained\n   unchanged.  Given recent c.cath with small dissection to OM1,\n   hemopericardium or retroperitoneal bleed were of concern given relative\n   hypotension.  In addition, on admission, pt underwent thoracentesis of\n   L sided pleural effusion and removal of 1.5L possibly causing fluid\n   shifts and relative hypotension.  [**Name2 (NI) **] potential etiologies of\n   hypotension could include dehydration, or less likely medication effect\n   from meds received in the cath lab.  Pt currently asymptommatic but\n   tachycardic to 115.  Hct stable 32.2-->33.4 on the floor. CT\n   abdomen/pelvis without evidence of RP bleed or hematoma around femoral\n   vessels.  Bedside echo without evidence of significant pericardial\n   effusion and no gross change in LV function from prior study.\n   - Holding metoprolol for now until BP improves\n   - Follow Hct Q8 hours\n   - Active T&C\n   - IVF boluses as needed to maintain SBP>90\n   - Monitor on tele\n   - F/[**Location **] CT abdomen/pelvis read\n   - Monitor femoral groin site for signs of hematoma\n   .\n   # CORONARIES: 3VD on cath from [**5-8**], s/p recent attempted CABG but pt\n   unable to tolerate bypass, now s/p c.cath with POBA to OM1\n   -to cath in the am\n   -continue asa/plavix post procedure for 6 weeks\n   -continue Rosuvastatin\n   .\n   # RHYTHM: sinus in the 100s while on the floor pre-procedure and now\n   slightly more tachycardic to 110's which may represent blood loss or\n   dehydration\n   - continue to monitor on tele for now\n   - resume beta blocker to keep HR closer to 80 if BP tolerates\n   .\n   # COPD and asthma: continue home meds -- fluticasone, salmeterol,\n   albuterol/atrovent nebs.\n   .\n   # Pleural effusion: consistent with exudate based on Light's criteria;\n   s/p drainage on admission with improvement in effusion visualized on\n   repeat CXR.  Pt also with small apical post thoracentesis pneumothorax;\n   IP following patient on the floor and considering pleurex drain.\n   - f/u with IP in AM regarding possibility of drain if pt remains\n   hemodynamically stable overnight\n   .\n   # Anemia: improved from baseline on admission.\n   - Monitor Hct as above\n   .\n   # UTI: pt c 6-10 WBCs on UA s/p foley placement, started empirically on\n   Ciprofloxacin on floor for UTI.\n   - continue cipro 500 [**Hospital1 **] for now\n   - f/u UCx from [**7-24**]\n   .\n   # DM: d/ced rosiglitazone given CHF.\n   -RISS\n   -FS QAC/HS\n   .\n   FEN: Cardiac diet/Diabetic diet\n   PROPHYLAXIS: pneumoboots, Hep SQ on hold for now until bleed ruled out,\n   colace, MOM prn\n   -[**Name2 (NI) 222**] management with tylenol prn\n   CODE: full\n   DISPO: CCU\n"
+    },
+    {
+      "note_id": 36287,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 451,
+          "end": 474,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "coronary artery disease"
+        },
+        {
+          "begin": 475,
+          "end": 505,
+          "code": "412",
+          "code_system": "ICD-9-CM",
+          "description": "Old myocardial infarction",
+          "type": "Human",
+          "covered_text": "s/p a myocardial infarction in"
+        },
+        {
+          "begin": 529,
+          "end": 554,
+          "code": "441.4",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal aortic aneurysm without mention of rupture",
+          "type": "Human",
+          "covered_text": "abdominal aortic aneurysm"
+        },
+        {
+          "begin": 1242,
+          "end": 1259,
+          "code": "357.2",
+          "code_system": "ICD-9-CM",
+          "description": "Polyneuropathy in diabetes",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "diabetes mellitus"
+        },
+        {
+          "begin": 1261,
+          "end": 1282,
+          "code": "412",
+          "code_system": "ICD-9-CM",
+          "description": "Old myocardial infarction",
+          "type": "Human",
+          "covered_text": "myocardial\ninfarction"
+        },
+        {
+          "begin": 1314,
+          "end": 1324,
+          "code": "357.2",
+          "code_system": "ICD-9-CM",
+          "description": "Polyneuropathy in diabetes",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Neuropathy"
+        },
+        {
+          "begin": 1458,
+          "end": 1491,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "former smoker who quit 17 yrs ago"
+        },
+        {
+          "begin": 3424,
+          "end": 3428,
+          "code": "493.20",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic obstructive asthma, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 3685,
+          "end": 3696,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 5116,
+          "end": 5134,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "Human",
+          "covered_text": "L PLEURAL EFFUSION"
+        },
+        {
+          "begin": 5822,
+          "end": 5838,
+          "code": "719.41",
+          "code_system": "ICD-9-CM",
+          "description": "Pain in joint involving shoulder region",
+          "type": "MapType.APPROX",
+          "covered_text": "L SHOULDER PAIN:"
+        },
+        {
+          "begin": 6115,
+          "end": 6125,
+          "code": "733.90",
+          "code_system": "ICD-9-CM",
+          "description": "Disorder of bone and cartilage, unspecified",
+          "type": "MapType.MULTI",
+          "covered_text": "OSTEOPENIA"
+        },
+        {
+          "begin": 6261,
+          "end": 6267,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "ANEMIA"
+        },
+        {
+          "begin": 10167,
+          "end": 10170,
+          "code": "441.4",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal aortic aneurysm without mention of rupture",
+          "type": "Human",
+          "covered_text": "AAA"
+        },
+        {
+          "begin": 10172,
+          "end": 10180,
+          "code": "357.2",
+          "code_system": "ICD-9-CM",
+          "description": "Polyneuropathy in diabetes",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "diabetes"
+        },
+        {
+          "begin": 10182,
+          "end": 10194,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "dyslipidemia"
+        },
+        {
+          "begin": 10196,
+          "end": 10206,
+          "code": "357.2",
+          "code_system": "ICD-9-CM",
+          "description": "Polyneuropathy in diabetes",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "neuropathy"
+        },
+        {
+          "begin": 10252,
+          "end": 10256,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "MapType.EXACT",
+          "covered_text": "GERD"
+        }
+      ],
+      "text": "Admission Date:  [**2155-7-23**]              Discharge Date:   [**2155-7-31**]\n\nDate of Birth:  [**2081-12-1**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nSulfa (Sulfonamide Antibiotics) / Flagyl\n\nAttending:[**First Name3 (LF) 2387**]\nChief Complaint:\nDyspnea on exertion\n\nMajor Surgical or Invasive Procedure:\ncardiac catheterization\n\n\nHistory of Present Illness:\nMs. [**Known lastname **] is a 73 year old woman who has a history of chest\ncoronary artery disease s/p a myocardial infarction in [**2131**] and\na large abdominal aortic aneurysm. A recent cardiac\ncatheterization revealed 3VD. Admitted for CABG last month but\nwas unable to tolerate placement on bypass. In her cardiologists\noffice today, she was unable to walk 10 feet and had no breath\nsounds in her left lung base, thus she is admitted for ?pleural\neffusion and for possible coronary catheterization as she could\nnot tolerate CABG.\n.\nROS: as above. Also, pt has had syncope while straining to have\na bowel movement on several occasions.  Pt does c/o black stools\nwhich she attributes to taking iron supplements.\n.\nPt denies chest pain, PND, HA, fevers, night sweats, joint pain,\nmyalgias, bloody stool, dysuria.\n\n\nPast Medical History:\nAbdominal aortic aneurysm, diabetes mellitus, myocardial\ninfarction in [**2131**], Diverticulitis, Neuropathy, Sciatica,\nAsthmatic, Bronchitis, Bursitis Rt shoulder, Rotator cuff tear,\nDry eyes\n\n\nSocial History:\nMs. [**Known lastname **] is a former smoker who quit 17 yrs ago, with an 80\npack/yr history. She denies drinking alcohol or illicits. She\nlives with her daughter.\n\n\nFamily History:\nnoncontributory\n\nPhysical Exam:\nPHYSICAL EXAMINATION:\nVS: T=99.4...BP=98/58 (R), 130s systolic on L\n...HR=102...RR=20...O2 sat= 99% RA\nGENERAL: 73F in NAD. Oriented x3. Mood, affect appropriate.\nHEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink, no\npallor or cyanosis of the oral mucosa. No xanthalesma.\nNECK: Supple, JVP does not appear elevated.\nCARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3\nor S4.\nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp\nwere mildly labored, no accessory muscle use. Reduced breath\nsounds at L base.\nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not\npalpable. EXTREMITIES: No c/c. No femoral bruits. Mild pitting\nedema L>R (s/p recent L saphenous v removal). c/o some numbness\non the lateral side of her L leg. feet cool\nSKIN: thoracotomy site and saphenous v site healing well.\nPULSES:\nRight: Carotid 2+ DP 2+\nLeft: Carotid 2+ DP 2+\n\n\nPertinent Results:\non discharge:\n140 | 102 | 15\n---------------136\n4.3 | 30  | 0.9\n\n5.3>29.7<463\n\nINR 1\n\nalbumin 3.3\n\nPleural fluid: WBC 400, RBC [**Numeric Identifier **], PMNs 15, lymphs 30, monos 19,\neos 16, macrophages 14. tot prot 3.6 (blood tpro 5), glucose\n117, LDH 193 (blood LDH 250), amylase 47, alb 2.5\n\nCath [**2155-7-24**]: \"1.  Planned PCI.  Access was quite difficult.  We\nused a\nmicropuncture set to get access in RFA but had to use a\nGlidewire to\nnegotiate the tortuous iliacs and aorta.  We ultimated were able\nto get\ninto ascending aorta and exchanged for a Amplatz wire and then\nput up a\n6F 90cm Shuttle sheath.\n2.  Limited hemodynamics with BP 123/67 with HR 82 in sinus.\n3.  POBA of OM1 with 2.25mm balloon resulting in dissection with\ngood\nflow.\n  FINAL DIAGNOSIS:\n1. Three vessel coronary artery disease.\n2. POBA of OM1\"\n\n\nBrief Hospital Course:\n73F c 3VD and AAA, as well as DM, COPD and MMP now p/w\nincreasing DOE. Pt does have large L pleural effusion s/p cabg\nwhich was drained on [**2155-7-24**], but has been reaccumulating since\nthen. Pt also had cath on [**7-25**] which resulted in a dissected\nLcx. She was admitted to the unit for hypotension on [**7-25**], rp\nbleed and pericardial effusion ruled out and hypotension\nresolved c IVF and decreased bblocker. c/o L shoulder pain which\nseems msk in origin (reproducible by pressing on her shoulder\nand reproducible with abduction of shoulder)\n.\n# CORONARIES: 3VD on cath from [**5-8**], attempted CABG but pt could\nnot tolerate bypass. Now s/p cath on [**7-25**] c no stents,\ndissection of left circumflex. She was ruled out for MI. She was\ncontinued on aspirin and started on plavix, but the plavix was\ndiscontinued as patient did not recieves stents and may need\nthoracentesis or pleurex tube in the next few weeks. Pt had\nepisode of nausea and lightheadedness which was similar to her\nprior MI in [**2130**] on [**2155-7-30**] depressions in V4-V6.\nShe was ruled out for MI, and the EKG had normalized by the next\nday. The ST depressions were attributed to demand [**3-3**]\ntachycardia. Pt was continued on rosuvastatin.\n.\n# PUMP: Pt c systolic CHF c EF of ~40%. Her metoprolol was\ndecreased from 25 [**Hospital1 **] to 12.5 [**Hospital1 **] as her blood pressures were\nconsistently in the 90s on the higher dose. Of note, pt has\nhypotensive for several hours on the day following her first\nthoracentesis (pericardial eff and RP bleed were ruled out) and\npt responded well to 1LNS.\n.\n# RHYTHM: Pt was in sinus rhythm and monitored on telemetry\nthroughout her admission. Her rate was usually in the high 90s.\n.\n# L PLEURAL EFFUSION: Pt was found to have a large left pleural\neffusion believed to be [**3-3**] her recent CABG. She received\ndiagnostic/therapeutic thoracentesis on admission which\nreaccumulated over ~36 hours. Pt recieved a second thoracentesis\non [**7-28**] with a small amount of reaccumulation, but less than the\nfirst time. Both samples were sent for analysis and were found\nto be exudative which is consistent with post-cabg pleural\neffusion. Fluid was also sent for cytology, which is pending. Pt\nwas started on lasix 20 to try to limit reaccumulation, which\nshe tolerated well.\n.\n# COPD/asthma-continued home COPD/asthma medicines. Pt did\noccasionally recieve albuterol nebs with good result.\n.\n# L SHOULDER PAIN: Pt had some left shoulder pain which\ndeveloped after her first thoracentesis and radiated to her\nelbow, likely musculoskeletal in origin (though pt was ruled out\nfor MI again when she had this pain). She will follow up with\nher PCP [**Last Name (NamePattern4) **] 1 week.\n.\n# OSTEOPENIA: Pt was found to be osteopenic by cxr, and was\nstarted on calcium and vitamin D. She may benefit from a dexa\nscan as an oupatient.\n.\n# ANEMIA: improved from baseline, trended throughout her\nadmission. Felt to likely be [**3-3**] her MMP.\n.\n# continued rest of home meds (allergy meds, neuropathic pain\nmeds)\n.\n# DM: d/ced rosiglitazone and started on ISS as inpt. Her blood\nsugars were found to be in the 140s to 150s so rarely recieved\ncoverage with humalog. She can restart her rosiglitizone.\n.\n#PT consulted and believed she would benefit from [**Hospital 98**] rehab.\n.\nFEN: diabetic cardiac diet\n.\nPROPHYLAXIS: heparin sc 5000 TID, colace, senna prn\n.\nDaughter's cell is [**Telephone/Fax (1) 82228**]\nCODE: full\n\n\n\n\nMedications on Admission:\n Formoterol Fumarate 12 mcg Capsule, w/Inhalation Device Sig:\nOne (1)  Inhalation twice a day.\n loratidine  Sig: One (1) 10mg  once a day.\nPolyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: 1-2 Drops\nOphthalmic PRN (as needed) as needed for dry eyes.\n Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n Rosiglitazone 2 mg Tablet Sig: Two (2) Tablet PO once a day.\n Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two\n(2)  Inhalation every four (4) hours as needed for shortness of\nbreath or wheezing.\nNizatidine 150 mg Capsule Sig: One (1) Capsule PO once a day.\nBudesonide 180 mcg/Inhalation Aerosol Powdr Breath Activated\nSig: [**1-31**]  Inhalation at bedtime.\n Metoprolol Tartrate 25 mg [**Hospital1 **]\n Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO\nDAILY (Daily).\n Rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q12H (every\n12 hours).\n Tyelenol #3\n\n\n\n\nDischarge Medications:\n1. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: One\n(1) Capsule, Sustained Release PO once a day.\nDisp:*30 Capsule, Sustained Release(s)* Refills:*2*\n2. Formoterol Fumarate 12 mcg Capsule, w/Inhalation Device Sig:\nOne (1)  Inhalation twice a day.\n3. loratidine  Sig: One (1) 10mg  once a day.\n4. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**1-31**]\nDrops Ophthalmic PRN (as needed) as needed for dry eyes.\n5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n6. Rosiglitazone 2 mg Tablet Sig: Two (2) Tablet PO once a day.\n\n7. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n8. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\nTwo (2)  Inhalation every four (4) hours as needed for shortness\nof breath or wheezing.\n9. Nizatidine 150 mg Capsule Sig: One (1) Capsule PO once a day.\n\n10. Budesonide 180 mcg/Inhalation Aerosol Powdr Breath Activated\nSig: [**1-31**]  Inhalation at bedtime.\n11. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\nDisp:*30 Tablet(s)* Refills:*2*\n12. Aspirin 81 mg Tablet Enteric coated, Chewable Sig: One (1)\nTablet, Chewable PO DAILY (Daily).\n13. Rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n14. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q12H\n(every 12 hours).\n15. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ6H (every 6 hours) as needed for pain for 7 days.\nDisp:*25 Tablet(s)* Refills:*0*\n16. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n17. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n18. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)\nTablet, Chewable PO BID (2 times a day).\n19. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2)\nTablet PO DAILY (Daily).\n20. Tylenol #3 300/30 1-2 tabs PO q6h prn pain\n21. Ranitidine 150 [**Hospital1 **]\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\nAcademy Manor of [**Location (un) 7658**]\n\nDischarge Diagnosis:\nPrimary diagnoses: pleural effusion, coronary artery disease,\nCHF\n\nSecondary diagnoses: AAA, diabetes, dyslipidemia, neuropathy,\nsciatica, asthma, COPD, seasonal allergies, GERD\n\n\nDischarge Condition:\nfair\n\n\nDischarge Instructions:\nYou were admitted to the hospital because of shortness of\nbreath. We found that you had a fluid accumulation in your chest\n(called a pleural effusion) which can happen after heart\nsurgery. We drained it twice and will continue to watch it. You\nalso have some coronary disease. We tried to put a stent in one\nof your coronary arteries during a procedure called coronary\ncatheterization, but we were not able to do that. Lastly, you\nhad some left arm pain after the procedures to drain fluid in\nyour lungs, this was treated with percocet. Please mention this\nto Dr [**Last Name (STitle) **] if it has not resolved by your appointment.\n\nAT REHAB (these instructions are for REHAB not for PATIENT):\nPlease monitor vital signs at least 4 times daily. Please\ncontact Dr [**Name (NI) **] at [**Telephone/Fax (1) 17382**] for SBP < 90. Please keep O2\nsaturations >90%.\n\nPlease check chem-7 on on [**8-1**]. Please also check a chest\nxray on Friday [**8-1**]. Please fax results to Dr [**Last Name (STitle) **] at\n[**Telephone/Fax (1) 17382**].\n\nONCE YOU GO HOME (FOR PATIENT):\nPlease adhere to the medicine list that they give you when you\ngo. You will go to rehab on a water pill (called lasix) but you\nmay not need it by the time you go home. We did start you on\ncalcium and vitamin D for your bones, please do continue to take\nthose when you are at home.\n\nPlease weigh yourself every morning, call your doctor if your\nweight changes by > 3 lbs.\nAdhere to 2 gm sodium diet\nPlease do not drink more than 2 liters of fluid per day.\n\nFollowup Instructions:\nPlease see your primary care doctor, Dr [**Last Name (STitle) **], on Wednesday\n[**8-6**] at 11:45am\n\nYou have an appointment to see your lung doctor, Dr [**Last Name (STitle) 70216**], on\nTuesday [**8-26**] at 4:15pm\n\nYou have an appointment to see your cardiologist, Dr [**Last Name (STitle) **], at\n1:45 on Wednesday, [**8-13**]\n\nYou have an appointment to see your cardiac surgeon at [**Hospital1 18**], Dr\n[**First Name (STitle) **] R. [**Doctor Last Name **] Phone:[**Telephone/Fax (1) 170**] Date/Time:[**2155-8-7**] 2:30\n\nYou have an appointment to see your vascular surgeon at [**Hospital1 18**],\nDr [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] Phone:[**Telephone/Fax (1) 1237**] Date/Time:[**2155-8-22**] 10:45\n\n\n\nCompleted by:[**2155-7-31**]"
+    }
+  ]
+}

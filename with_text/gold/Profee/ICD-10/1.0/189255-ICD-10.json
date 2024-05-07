@@ -1,0 +1,634 @@
+{
+  "hadm_id": 189255,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 57530,
+      "category": "Discharge summary",
+      "description": "Addendum",
+      "annotations": [
+        {
+          "begin": 411,
+          "end": 441,
+          "code": "I50.22",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic systolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "CHRONIC systolic heart failure"
+        },
+        {
+          "begin": 658,
+          "end": 681,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 691,
+          "end": 710,
+          "code": "I48.0",
+          "code_system": "ICD-10-CM",
+          "description": "Paroxysmal atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 711,
+          "end": 718,
+          "code": "I48.92",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial flutter",
+          "type": "Human",
+          "covered_text": "flutter"
+        },
+        {
+          "begin": 719,
+          "end": 738,
+          "code": "I49.5",
+          "code_system": "ICD-10-CM",
+          "description": "Sick sinus syndrome",
+          "type": "Human",
+          "covered_text": "Sick Sinus syndrome"
+        },
+        {
+          "begin": 739,
+          "end": 769,
+          "code": "I50.20",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified systolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "Chronic systolic heart failure"
+        },
+        {
+          "begin": 770,
+          "end": 782,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        }
+      ],
+      "text": "Name:  [**Known lastname 11597**],[**Known firstname **]                    Unit No:   [**Numeric Identifier 11598**]\n\nAdmission Date:  [**2152-1-23**]              Discharge Date:   [**2152-1-29**]\n\nDate of Birth:  [**2083-7-16**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 741**]\nAddendum:\nThe patient has a history of CHRONIC systolic heart failure with\nEF 40% as documented on echo [**2152-1-24**].  Discharge diagnosis\nsection has been addended to reflect this.\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nVNA of Southeastern Mass.\n\nDischarge Diagnosis:\nCoronary artery disease s/p CABG\nAtrial fibrillation/flutter\nSick Sinus syndrome\nChronic systolic heart failure\nDyslipidemia\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) 747**] MD [**MD Number(2) 748**]\n\nCompleted by:[**2152-2-29**]"
+    },
+    {
+      "note_id": 1169454,
+      "category": "Radiology",
+      "description": "CHEST (PA & LAT)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 41,
+          "code": "71046",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; 2 views",
+          "type": "Human",
+          "covered_text": "CHEST (PA & LAT)"
+        },
+        {
+          "begin": 590,
+          "end": 607,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 614,
+          "end": 635,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "bibasilar atelectasis"
+        },
+        {
+          "begin": 860,
+          "end": 877,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusions"
+        }
+      ],
+      "text": "[**2152-1-27**] 6:09 PM\n CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 76589**]\n Reason: eval effusion pod 3 s/p cabg\n Admitting Diagnosis: CORONARY ARTERY DISEASE\\CORONARY ARTERY BYPASS GRAFT\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  68 year old man with s/p cabg\n REASON FOR THIS EXAMINATION:\n  eval effusion pod 3 s/p cabg\n ______________________________________________________________________________\n WET READ: JEKh FRI [**2152-1-28**] 12:09 AM\n  trace B pleural effusions; mild bibasilar atelectasis\n ______________________________________________________________________________\n                                 FINAL REPORT\n CHEST RADIOGRAPH\n\n INDICATION:  Status post CABG.\n\n FINDINGS:  Status post CABG, small bilateral pleural effusions, small\n bilateral areas of atelectasis.  No lung edema.  Borderline size of the\n cardiac silhouette.  Correct alignment of sternotomy wires.\n\n\n"
+    },
+    {
+      "note_id": 27177,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 282,
+          "end": 290,
+          "code": "R06.02",
+          "code_system": "ICD-10-CM",
+          "description": "Shortness of breath",
+          "type": "Human",
+          "covered_text": "exertion"
+        },
+        {
+          "begin": 583,
+          "end": 590,
+          "code": "I48.92",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial flutter",
+          "type": "Human",
+          "covered_text": "flutter"
+        },
+        {
+          "begin": 634,
+          "end": 657,
+          "code": "I21.19",
+          "code_system": "ICD-10-CM",
+          "description": "ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall",
+          "type": "Human",
+          "covered_text": "ischemia on stress test"
+        },
+        {
+          "begin": 692,
+          "end": 700,
+          "code": "R06.02",
+          "code_system": "ICD-10-CM",
+          "description": "Shortness of breath",
+          "type": "Human",
+          "covered_text": "exertion"
+        },
+        {
+          "begin": 893,
+          "end": 916,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "coronary artery disease"
+        },
+        {
+          "begin": 974,
+          "end": 981,
+          "code": "I48.92",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial flutter",
+          "type": "Human",
+          "covered_text": "flutter"
+        },
+        {
+          "begin": 1013,
+          "end": 1025,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "dyslipidemia"
+        },
+        {
+          "begin": 1026,
+          "end": 1040,
+          "code": "K57.92",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulitis of intestine, part unspecified, without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 2381,
+          "end": 2388,
+          "code": "I48.92",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial flutter",
+          "type": "Human",
+          "covered_text": "flutter"
+        },
+        {
+          "begin": 2483,
+          "end": 2506,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "ventricular hypertrophy"
+        },
+        {
+          "begin": 2860,
+          "end": 2880,
+          "code": "I34.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic mitral (valve) insufficiency",
+          "type": "Human",
+          "covered_text": "mitral regurgitation"
+        },
+        {
+          "begin": 3894,
+          "end": 3901,
+          "code": "I48.92",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial flutter",
+          "type": "Human",
+          "covered_text": "flutter"
+        },
+        {
+          "begin": 6134,
+          "end": 6157,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 6167,
+          "end": 6186,
+          "code": "I48.0",
+          "code_system": "ICD-10-CM",
+          "description": "Paroxysmal atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 6187,
+          "end": 6194,
+          "code": "I48.92",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial flutter",
+          "type": "Human",
+          "covered_text": "flutter"
+        },
+        {
+          "begin": 6195,
+          "end": 6214,
+          "code": "I49.5",
+          "code_system": "ICD-10-CM",
+          "description": "Sick sinus syndrome",
+          "type": "Human",
+          "covered_text": "Sick Sinus syndrome"
+        },
+        {
+          "begin": 6244,
+          "end": 6256,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        }
+      ],
+      "text": "Admission Date:  [**2152-1-23**]              Discharge Date:   [**2152-1-29**]\n\nDate of Birth:  [**2083-7-16**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\ndyspnea on exertion\n\n\nMajor Surgical or Invasive Procedure:\n[**2152-1-24**] Coronary artery bypass graft x3 (left internal\nmammary artery > left anterior descending, saphenous vein graft\n> diagonal, Saphenous vein graft > posterior descending)\n\n\nHistory of Present Illness:\n68 year old male who developed atrial flutter and was found to\nhave evidence of\ninferior ischemia on stress test.  He does c/o chest discomfort\non exertion, which resolves with rest.  Repeat cath in [**Month (only) **]\nrevealed CAD of a large diagonal vessel as well as the\ncircumflex.  He presents for surgical evaluation.\n\n\nPast Medical History:\ncoronary artery disease s/p DES to PDA [**2151-5-6**]\nsick sinus syndrome\natrial flutter\nchronic systolic heart failure\ndyslipidemia\ndiverticulosis\n\n\nSocial History:\nLives with:wife\nOccupation: driver of charter busses, plays guitar for fun\nTobacco: quit 6 years ago-prior [**4-8**] cigarettes/day\nETOH: [**2-6**] glasses of wine/day\n\n\nFamily History:\nnoncontributory\n\nPhysical Exam:\nVS; T 97.8  HR    BP 148/92   RR 18  O2sat 99%-RA\nWt 180 lbs\n\nGen NAD, lying in bed\nNeuro: Alert and oriented x3, MAE-nonfocal exam\nHEENT: PERRL/EOMI, anicteric-noninjected. MMM,\noropharynx-benighn\nNeck: supple, full ROM. no JVD or lymphadenopathy\nCV: irreg irreg no M/R/G\nPulm: CTA bilat\nAbdm: soft, NT/ND/NABS\nExt: warm, well perfused, no CCE. no varicosities\n\n\nPertinent Results:\n[**2152-1-29**] 05:45AM BLOOD WBC-8.4 RBC-3.87* Hgb-11.6* Hct-34.6*\nMCV-90 MCH-29.9 MCHC-33.4 RDW-15.6* Plt Ct-288#\n[**2152-1-29**] 05:45AM BLOOD PT-26.5* INR(PT)-2.6*\n[**2152-1-28**] 04:25AM BLOOD PT-22.5* INR(PT)-2.1*\n[**2152-1-27**] 04:25AM BLOOD PT-18.0* INR(PT)-1.6*\n[**2152-1-26**] 04:50AM BLOOD PT-14.8* PTT-29.1 INR(PT)-1.3*\n[**2152-1-24**] 03:29PM BLOOD PT-14.8* PTT-28.7 INR(PT)-1.3*\n[**2152-1-24**] 02:02PM BLOOD PT-16.8* PTT-27.1 INR(PT)-1.5*\n[**2152-1-23**] 03:43PM BLOOD PT-15.0* PTT-27.2 INR(PT)-1.3*\n[**2152-1-29**] 05:45AM BLOOD Glucose-100 UreaN-20 Creat-0.8 Na-140\nK-4.1 Cl-103 HCO3-30 AnGap-11\n[**2152-1-29**] 05:45AM BLOOD Mg-1.9\n\n[**2152-1-24**] Intra-op TEE\nConclusions\nPre Bypass: Patient is in A flutter. No left atrial appendage\nthrombus, velocities in LAA > 20 cm/s. There is mild symmetric\nleft ventricular hypertrophy. The left ventricular cavity size\nis normal. Overall left ventricular systolic function is low\nnormal (LVEF 50-55%). Right ventricular chamber size and free\nwall motion are normal. The aortic valve leaflets (3) appear\nstructurally normal with good leaflet excursion and no aortic\nregurgitation. The mitral valve appears structurally normal with\ntrivial mitral regurgitation.\n\nPost Bypass: Pateint is AV paced on Phenylepherine infusion.\nPreserved biventricular function and wall motion. LVEF 55%. No\nchange in valvular function. Aortic contours intact. Reamaining\nexam is unchanged. All findings discussed with surgeons at the\ntime of the exam.\n\n\nBrief Hospital Course:\nAdmitted [**2152-1-23**] for heparin bridge and surgical evaluation.\nOn [**1-24**] he was brought to the operating room and underwent\ncoronary artery bypass graft surgery, see operative report for\nfurther details.  He received cefazolin for perioperative\nantibiotics and was transferred to the intensive care unit for\npost operative management.  In the first twenty four hours he\nwas weaned from sedation, awoke, and was extubated without\ncomplications.  On postoperative day one he was started on\ndiuresis and beta blockers.  He was doing well and was\ntransferred to the floor for the remainder of his care.\nPhysical therapy worked with him on strength and mobility.  On\npost operative day three he went into atrial flutter in\ncontrolled rate and was treated with beta-blockers and\namiodarone.  Coumadin was resumed.  He was discharged home on\nPOD 5 with appropriate follow up instructions.\n\nMedications on Admission:\npravastatin 40mg daily\nwarfarin 6mg daily\nlisinopril 40mg daily\ntoprol 50mg daily\nasa 81mg daily\ncymbalta 30mg daily\nbupropion XL 300mg daily\nomeprazole 20mg daily\n\n\nDischarge Medications:\n1. pravastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*0*\n2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*60 Capsule(s)* Refills:*0*\n3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\nDisp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*0*\n4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\nDisp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*\n5. duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\nDisp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*0*\n6. bupropion HCl 150 mg Tablet Sustained Release Sig: One (1)\nTablet Sustained Release PO BID (2 times a day).\nDisp:*60 Tablet Sustained Release(s)* Refills:*0*\n7. lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*2*\n8. metoprolol succinate 100 mg Tablet Sustained Release 24 hr\nSig: 1.5 Tablet Sustained Release 24 hrs PO DAILY (Daily).\nDisp:*60 Tablet Sustained Release 24 hr(s)* Refills:*2*\n9. amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times\na day): 400mg [**Hospital1 **] x 1 week,then 400mg daily x 1 week,then 200mg\ndaily until further instructed.\nDisp:*120 Tablet(s)* Refills:*2*\n10. warfarin 2 mg Tablet Sig: One (1) Tablet PO once a day: Dr.\n[**Last Name (STitle) **] to dose for goal INR 2-2.5, dx: a-fib.\nDisp:*30 Tablet(s)* Refills:*2*\n11. Outpatient Lab Work\nLabs: PT/INR for Coumadin ?????? indication Atrial Flutter\nGoal INR 2.0-2.5\nFirst draw [**2152-2-1**]\nResults to Dr [**Last Name (STitle) **] phone [**Telephone/Fax (1) 30837**]  fax [**Telephone/Fax (1) 30838**]\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nVNA of Southeastern Mass.\n\nDischarge Diagnosis:\nCoronary artery disease s/p CABG\nAtrial fibrillation/flutter\nSick Sinus syndrome\nAcute systolic heart failure\nDyslipidemia\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with tylenol\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Left - healing well, no erythema or drainage.\nEdema -none\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr [**Last Name (STitle) **] [**Telephone/Fax (1) 170**] [**2-17**] at 2:30 pm\nCardiologist: Dr [**Last Name (STitle) 14522**] [**Telephone/Fax (1) 14525**] [**3-3**] at 4:00 pm\n\nPlease call to schedule appointments with your\nPrimary Care Dr [**Last Name (STitle) **] [**Telephone/Fax (1) 30837**] in [**5-10**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nLabs: PT/INR for Coumadin ?????? indication Atrial Flutter\nGoal INR 2.0-2.5\nFirst draw [**2152-2-1**]\nResults to Dr [**Last Name (STitle) **] phone [**Telephone/Fax (1) 30837**]  fax [**Telephone/Fax (1) 30838**]\n\n\n\nCompleted by:[**2152-1-29**]"
+    },
+    {
+      "note_id": 1168886,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 128,
+          "end": 138,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST PORT"
+        },
+        {
+          "begin": 261,
+          "end": 277,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "Pleural effusion"
+        },
+        {
+          "begin": 279,
+          "end": 294,
+          "code": "J81.0",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pulmonary edema",
+          "type": "Human",
+          "covered_text": "pulmonary edema"
+        },
+        {
+          "begin": 296,
+          "end": 304,
+          "code": "I31.4",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac tamponade",
+          "type": "Human",
+          "covered_text": "tamponad"
+        },
+        {
+          "begin": 574,
+          "end": 590,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "Pleural effusion"
+        },
+        {
+          "begin": 592,
+          "end": 607,
+          "code": "J81.0",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pulmonary edema",
+          "type": "Human",
+          "covered_text": "pulmonary edema"
+        },
+        {
+          "begin": 620,
+          "end": 632,
+          "code": "J93.9",
+          "code_system": "ICD-10-CM",
+          "description": "Pneumothorax, unspecified",
+          "type": "Human",
+          "covered_text": "pneumothorax"
+        }
+      ],
+      "text": "[**Last Name (LF) 3928**],[**First Name3 (LF) 3929**] R.                   CSURG CSRU                 [**2152-1-24**]  3:33 PM\n CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 76383**]\n Reason: CARDIAC SURGERY. Pleural effusion, pulmonary edema, tamponad\n Admitting Diagnosis: CORONARY ARTERY DISEASE\\CORONARY ARTERY BYPASS GRAFT\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  68 year old man with CABG\n REASON FOR THIS EXAMINATION:\n  CARDIAC SURGERY. Pleural effusion, pulmonary edema, tamponade, pneumothorax.\n ______________________________________________________________________________\n                                  PFI REPORT\n Normal postoperative chest radiograph.\n\n"
+    },
+    {
+      "note_id": 200521,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 28,
+          "end": 49,
+          "code": "I21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute myocardial infarction, unspecified",
+          "type": "Human",
+          "covered_text": "myocardial infarction"
+        }
+      ],
+      "text": "Sinus rhythm. Inferior wall myocardial infarction of indeterminate age.\nST segment elevation in leads I, aVL and V2-V6 concerning for transmural\nischemia. Clinical correlation is suggested. Compared to the previous tracing\nof [**2152-1-24**] QRS width has decreased but aforementioned ST segment changes are\nnew.\n\n\n"
+    },
+    {
+      "note_id": 81467,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 286,
+          "end": 316,
+          "code": "93318",
+          "code_system": "CPT",
+          "description": "Echocardiography, transesophageal (TEE) for monitoring purposes, including probe placement, real time 2-dimensional image acquisition and interpretation leading to ongoing (continuous) assessment of (dynamically changing) cardiac pumping function",
+          "type": "Human",
+          "covered_text": "Full Doppler and color Doppler"
+        },
+        {
+          "begin": 809,
+          "end": 842,
+          "code": "I70.0",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerosis of aorta",
+          "type": "Human",
+          "covered_text": "calcifications in\nascending aorta"
+        },
+        {
+          "begin": 1537,
+          "end": 1544,
+          "code": "I48.92",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial flutter",
+          "type": "Human",
+          "covered_text": "flutter"
+        },
+        {
+          "begin": 1639,
+          "end": 1662,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "ventricular\nhypertrophy"
+        },
+        {
+          "begin": 2016,
+          "end": 2036,
+          "code": "I34.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic mitral (valve) insufficiency",
+          "type": "Human",
+          "covered_text": "mitral regurgitation"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: Intraop CABG Evaluate Ventricular function, valves, wall motion, aortic contours\nHeight: (in) 67\nWeight (lb): 180\nBSA (m2): 1.94 m2\nBP (mm Hg): 120/60\nHR (bpm): 65\nStatus: Inpatient\nDate/Time: [**2152-1-24**] at 12:20\nTest: TEE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Adequate\n\n\nINTERPRETATION:\n\nFindings:\n\nLEFT ATRIUM: Normal LA and RA cavity sizes.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal interatrial septum. No\nASD by 2D or color Doppler.\n\nLEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. Low normal LVEF.\n\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\n\nAORTA: Normal aortic diameter at the sinus level. Focal calcifications in\naortic root. Normal ascending aorta diameter. Focal calcifications in\nascending aorta. Normal aortic arch diameter. Complex (>4mm) atheroma in the\naortic arch. Normal descending aorta diameter. Simple atheroma in descending\naorta.\n\nAORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.\n\nMITRAL VALVE: Normal mitral valve leaflets with trivial MR.\n\nTRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.\n\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets. Physiologic\n(normal) PR.\n\nPERICARDIUM: No pericardial effusion. Pericardial calcifications.\n\nGENERAL COMMENTS: A TEE was performed in the location listed above. I certify\nI was present in compliance with HCFA regulations. No TEE related\ncomplications.\n\nConclusions:\nPre Bypass: Patient is in A flutter. No left atrial appendage thrombus,\nvelocities in LAA > 20 cm/s. There is mild symmetric left ventricular\nhypertrophy. The left ventricular cavity size is normal. Overall left\nventricular systolic function is low normal (LVEF 50-55%). Right ventricular\nchamber size and free wall motion are normal. The aortic valve leaflets (3)\nappear structurally normal with good leaflet excursion and no aortic\nregurgitation. The mitral valve appears structurally normal with trivial\nmitral regurgitation.\n\nPost Bypass: Pateint is AV paced on Phenylepherine infusion. Preserved\nbiventricular function and wall motion. LVEF 55%. No change in valvular\nfunction. Aortic contours intact. Reamaining exam is unchanged. All findings\ndiscussed with surgeons at the time of the exam.\n\n\n"
+    },
+    {
+      "note_id": 1169206,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 45,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 804,
+          "end": 815,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "atelectatic"
+        }
+      ],
+      "text": "[**2152-1-26**] 11:23 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 76556**]\n Reason: s/p ct removal\n Admitting Diagnosis: CORONARY ARTERY DISEASE\\CORONARY ARTERY BYPASS GRAFT\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  68 year old man with POD 2 s/p CABG\n REASON FOR THIS EXAMINATION:\n  s/p ct removal\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  Chest tube removal after CABG.\n\n FINDINGS:\n\n In comparison with the study of [**1-14**], all of the monitoring and support\n devices have been removed.  Specifically, no evidence of pneumothorax.\n Continued low lung volumes with mild atelectatic changes at the bases.\n\n\n"
+    },
+    {
+      "note_id": 1168717,
+      "category": "Radiology",
+      "description": "CHEST (PRE-OP PA & LAT)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 47,
+          "code": "71046",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; 2 views",
+          "type": "Human",
+          "covered_text": "CHEST (PRE-OP PA & LAT"
+        },
+        {
+          "begin": 409,
+          "end": 412,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "cad"
+        },
+        {
+          "begin": 698,
+          "end": 714,
+          "code": "Q25.46",
+          "code_system": "ICD-10-CM",
+          "description": "Tortuous aortic arch",
+          "type": "Human",
+          "covered_text": "mildly\n tortuous"
+        },
+        {
+          "begin": 816,
+          "end": 849,
+          "code": "M51.35",
+          "code_system": "ICD-10-CM",
+          "description": "Other intervertebral disc degeneration, thoracolumbar region",
+          "type": "Human",
+          "covered_text": "degenerative changes in the spine"
+        }
+      ],
+      "text": "[**2152-1-23**] 4:51 PM\n CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 76515**]\n Reason: CORONARY ARTERY DISEASE\\CORONARY ARTERY BYPASS GRAFT\n Admitting Diagnosis: CORONARY ARTERY DISEASE\\CORONARY ARTERY BYPASS GRAFT\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  68 year old man with cad\n REASON FOR THIS EXAMINATION:\n  preop cabg\n ______________________________________________________________________________\n                                 FINAL REPORT\n CHEST\n\n HISTORY:  CABG.\n\n PA AND LATERAL VIEWS:\n\n The lungs are clear.  The heart is normal in size.  The aorta is mildly\n tortuous.  Mediastinal structures are otherwise unremarkable.  The bony thorax\n is grossly intact.  There are degenerative changes in the spine.  There are\n old healed fractures of the right ribs.\n\n IMPRESSION:\n No active disease.\n\n"
+    },
+    {
+      "note_id": 200523,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 7,
+          "end": 14,
+          "code": "I48.92",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial flutter",
+          "type": "Human",
+          "covered_text": "flutter"
+        },
+        {
+          "begin": 58,
+          "end": 77,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "non-specific T wave"
+        }
+      ],
+      "text": "Atrial flutter with moderate ventricular response.  Minor non-specific T wave\nabnormalities.  Cannot exclude old inferior myocardial infarction, although\nthis was not seen on the previous tracings in sinus rhythm.  Compared to the\nprevious tracing of [**2147-5-19**] atrial flutter is now present.\n\n"
+    },
+    {
+      "note_id": 1168885,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 35,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST PORT"
+        },
+        {
+          "begin": 158,
+          "end": 174,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "Pleural effusion"
+        },
+        {
+          "begin": 176,
+          "end": 191,
+          "code": "J81.0",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pulmonary edema",
+          "type": "Human",
+          "covered_text": "pulmonary edema"
+        },
+        {
+          "begin": 193,
+          "end": 201,
+          "code": "I31.4",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac tamponade",
+          "type": "Human",
+          "covered_text": "tamponad"
+        },
+        {
+          "begin": 471,
+          "end": 487,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "Pleural effusion"
+        },
+        {
+          "begin": 489,
+          "end": 504,
+          "code": "J81.0",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pulmonary edema",
+          "type": "Human",
+          "covered_text": "pulmonary edema"
+        },
+        {
+          "begin": 517,
+          "end": 529,
+          "code": "J93.9",
+          "code_system": "ICD-10-CM",
+          "description": "Pneumothorax, unspecified",
+          "type": "Human",
+          "covered_text": "pneumothorax"
+        }
+      ],
+      "text": "[**2152-1-24**] 3:33 PM\n CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 76383**]\n Reason: CARDIAC SURGERY. Pleural effusion, pulmonary edema, tamponad\n Admitting Diagnosis: CORONARY ARTERY DISEASE\\CORONARY ARTERY BYPASS GRAFT\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  68 year old man with CABG\n REASON FOR THIS EXAMINATION:\n  CARDIAC SURGERY. Pleural effusion, pulmonary edema, tamponade, pneumothorax.\n ______________________________________________________________________________\n PROVISIONAL FINDINGS IMPRESSION (PFI): MDAg MON [**2152-1-24**] 6:11 PM\n  Normal postoperative chest radiograph.\n ______________________________________________________________________________\n                                 FINAL REPORT\n CLINICAL HISTORY:  Status post cardiac surgery.\n\n COMPARISON:  CXR [**2152-1-23**].\n\n FINDINGS:  The endotracheal tube ends 5.4 cm above the carina.  Nasogastric\n tube ends in the stomach.  A Swan-Ganz catheter tip projects over the\n pulmonary outflow tract.  Three mediastinal and pleural drains are in place.\n The cardiac silhouette is enlarged with a widened mediastinum in this patient\n status post CABG with intact sternotomy wires.  A tiny left pleural effusion\n and associated atelectasis are new.  There is no pneumothorax or pulmonary\n edema.\n\n IMPRESSION:  Normal postoperative chest radiograph.\n\n"
+    },
+    {
+      "note_id": 200522,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 196,
+          "end": 203,
+          "code": "I48.92",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial flutter",
+          "type": "Human",
+          "covered_text": "flutter"
+        },
+        {
+          "begin": 208,
+          "end": 227,
+          "code": "I45.10",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified right bundle-branch block",
+          "type": "Human",
+          "covered_text": "right bundle-branch"
+        }
+      ],
+      "text": "Sinus rhythm.  Left atrial abnormality.  Right bundle-branch block.  Consider\nprior inferior myocardial infarction.  Since the previous tracing of [**2152-1-23**]\nsinus rhythm has replaced atrial flutter and right bundle-branch block is now\npresent.\n\n"
+    }
+  ]
+}

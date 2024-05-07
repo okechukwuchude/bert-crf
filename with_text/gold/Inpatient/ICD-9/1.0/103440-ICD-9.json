@@ -1,0 +1,280 @@
+{
+  "hadm_id": 103440,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 589872,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 4853,
+          "end": 4865,
+          "code": "286.9",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified coagulation defects",
+          "type": "MapType.APPROX",
+          "covered_text": "COAGULOPATHY"
+        }
+      ],
+      "text": "Chief Complaint: Fever, c diff coliitis, hypotension, lung ca\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   In MICU, patient has continued to have abdominal pain and manifests\n   some confusion. Blood pressure improved; dopamine stopped. Continues on\n   levophed. Urine output has been about 30-40 cc/hr.\n   CVP has been [**6-25**].\n   24 Hour Events:\n MULTI LUMEN - START [**2118-7-28**] 11:58 PM\n   History obtained from [**Hospital 31**] Medical records\n   Patient unable to provide history: Language barrier\n   Allergies:\n   Augmentin (Oral) (Amox Tr/Potassium Clavulanate)\n   Rash;\n   Last dose of Antibiotics:\n   Metronidazole - [**2118-7-29**] 02:15 AM\n   Meropenem - [**2118-7-29**] 03:31 AM\n   Vancomycin - [**2118-7-29**] 08:04 AM\n   Infusions:\n   Norepinephrine - 0.1 mcg/Kg/min\n   Other ICU medications:\n   Other medications:\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2118-7-29**] 09:52 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37\nC (98.6\n   Tcurrent: 37\nC (98.6\n   HR: 92 (87 - 102) bpm\n   BP: 106/56(68) {87/45(56) - 125/66(74)} mmHg\n   RR: 17 (10 - 22) insp/min\n   SpO2: 100%\n   Heart rhythm: RBBB (Right Bundle Branch Block)\n   Height: 68 Inch\n   CVP: 5 (4 - 11)mmHg\n   CO/CI (Fick): (6.5 L/min) / (3.5 L/min/m2)\n   Mixed Venous O2% Sat: 73 - 73\n                                Total In:\n                                                                      9 mL\n                                                                  6,960 mL\n   PO:\n                                TF:\n   IVF:\n                                                                      9 mL\n                                                                  2,760 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    248 mL\n   Urine:\n   248 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      9 mL\n                                                                  6,712 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 100%\n   ABG: ///23/\n   Physical Examination\n   General Appearance: Well nourished, No(t) No acute distress, No(t)\n   Overweight / Obese, Thin, No(t) Anxious, No(t) Diaphoretic\n   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva\n   pale, No(t) Sclera edema\n   Head, Ears, Nose, Throat: Normocephalic, No(t) Endotracheal tube, No(t)\n   NG tube, No(t) OG tube, Dry oral mucosa\n   Cardiovascular: (PMI Normal, Hyperdynamic), (S1: Normal, No(t) Absent),\n   (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split , No(t)\n   Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: No(t) Systolic, No(t)\n   Diastolic)\n   Respiratory / Chest: (Expansion: Symmetric, No(t) Paradoxical), (Breath\n   Sounds: Clear : right lung clear (patient lying on left side), No(t)\n   Crackles : , No(t) Bronchial: , No(t) Wheezes : , No(t) Diminished: ,\n   No(t) Absent : , No(t) Rhonchorous: )\n   Abdominal: Soft, No(t) Non-tender, Bowel sounds present, No(t)\n   Distended, Tender: Mild diffuse, No(t) Obese\n   Extremities: Right lower extremity edema: 2+ edema, Left lower\n   extremity edema: 2+, No(t) Cyanosis, No(t) Clubbing\n   Musculoskeletal: No(t) Muscle wasting, No(t) Unable to stand\n   Skin:  Warm, No(t) Rash: , No(t) Jaundice\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Oriented (to): Not able to assess - language, Movement:\n   Purposeful, No(t) Sedated, No(t) Paralyzed, Tone: Not assessed\n   Labs / Radiology\n   10.0 g/dL\n   459 K/uL\n   153 mg/dL\n   1.4 mg/dL\n   23 mEq/L\n   3.3 mEq/L\n   36 mg/dL\n   101 mEq/L\n   134 mEq/L\n   30.2 %\n   14.3 K/uL\n        [image002.jpg]\n                             [**2118-7-29**]  02:59 AM\n   WBC\n   14.3\n   Hct\n   30.2\n   Plt\n   459\n   Cr\n   1.4\n   Glucose\n   153\n   Other labs: PT / PTT / INR:18.0/31.2/1.6, Amylase / Lipase:/9,\n   Differential-Neuts:60.0 %, Band:16.0 %, Lymph:8.0 %, Mono:13.0 %,\n   Eos:0.0 %, Lactic Acid:1.0 mmol/L, Ca++:7.6 mg/dL, Mg++:2.0 mg/dL,\n   PO4:3.7 mg/dL\n   Imaging: CXR: elevated hemidiaphragm on the right\n   Abdominal CT\n mulitiple dilated loops of bowel\n   Assessment and Plan\n   FEVER\n   HYPOTENSION\n   C DIFF COLITIS\n   LUNG CA\n   ANEMIA\n   ACUTE RENAL FAIULRE\n   COAGULOPATHY\n   ======================\n   Hemodynamics have improved somewhat overnight. CVP indicates we have\n   not fully volume resuscitated the patient. Would give additional fluids\n   and attempt to wean levophed. If unable to do so despite CVP of 12 or\n   higher, would add vasopressin and consider ACTH stimulation,\n   particularly with hx of lung cancer.  Maintain antibiotics for possible\n   intra-abdominal source of infection. Oxygenation remains good with only\n   nasal supplementation.\n   Creat doubled from baseline. Probably relates to intravascular volume\n   depletion and hypotension; possible ATN. Creat down slightly this AM.\n   Would continue to support with fluids to raise CVP. Replete potassium.\n   Acid base status acceptable.\n   Mild anemia, likely related to underlying tumor. No evidence of active\n   bleeding.\n   Mild elevation in INR; possibly related to vitamin K deficiency. Will\n   supplement vitamin K.\n   ICU Care\n   Nutrition: Consider NG tube; felt to be at risk for aspiration\n   Glycemic Control:  insulin sliding scale.\n   Lines:\n   Multi Lumen - [**2118-7-28**] 11:58 PM\n   22 Gauge - [**2118-7-29**] 12:01 AM\n   18 Gauge - [**2118-7-29**] 12:01 AM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer: PPI\n   VAP:\n   Comments: Not applicable.\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: DNR / DNI\n   Disposition :ICU\n   Total time spent: 40 minutes\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 33786,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 275,
+          "end": 297,
+          "code": "38.93",
+          "code_system": "ICD-9-PCS",
+          "description": "Venous catheterization, not elsewhere classified",
+          "type": "MapType.APPROX",
+          "covered_text": "Central line placement"
+        },
+        {
+          "begin": 1319,
+          "end": 1331,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1335,
+          "end": 1354,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial Fibrillation"
+        },
+        {
+          "begin": 1358,
+          "end": 1362,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 2334,
+          "end": 2354,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "MapType.APPROX",
+          "covered_text": "70+ year h/o smoking"
+        },
+        {
+          "begin": 5621,
+          "end": 5647,
+          "code": "00.17",
+          "code_system": "ICD-9-PCS",
+          "description": "Infusion of vasopressor agent",
+          "type": "MapType.APPROX",
+          "covered_text": "He was briefly on levophed"
+        },
+        {
+          "begin": 5735,
+          "end": 5746,
+          "code": "276.52",
+          "code_system": "ICD-9-CM",
+          "description": "Hypovolemia",
+          "type": "MapType.EXACT",
+          "covered_text": "hypovolemia"
+        },
+        {
+          "begin": 5747,
+          "end": 5760,
+          "code": "995.29",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified adverse effect of other drug, medicinal and biological substance",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "from diuresis"
+        },
+        {
+          "begin": 6917,
+          "end": 6940,
+          "code": "782.3",
+          "code_system": "ICD-9-CM",
+          "description": "Edema",
+          "type": "MapType.APPROX",
+          "covered_text": "L leg swelling and pain"
+        },
+        {
+          "begin": 7530,
+          "end": 7549,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute renal failure"
+        },
+        {
+          "begin": 7763,
+          "end": 7769,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 7907,
+          "end": 7912,
+          "code": "162.8",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of other parts of bronchus or lung",
+          "type": "Human",
+          "covered_text": "NSCLC"
+        },
+        {
+          "begin": 8226,
+          "end": 8245,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 8566,
+          "end": 8578,
+          "code": "263.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified protein-calorie malnutrition",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "malnutrition"
+        },
+        {
+          "begin": 8644,
+          "end": 8655,
+          "code": "112.0",
+          "code_system": "ICD-9-CM",
+          "description": "Candidiasis of mouth",
+          "type": "Human",
+          "covered_text": "Oral thrush"
+        },
+        {
+          "begin": 12510,
+          "end": 12538,
+          "code": "008.45",
+          "code_system": "ICD-9-CM",
+          "description": "Intestinal infection due to clostridium difficile",
+          "type": "Human",
+          "covered_text": "Clostridium difficil colitis"
+        },
+        {
+          "begin": 12542,
+          "end": 12553,
+          "code": "276.51",
+          "code_system": "ICD-9-CM",
+          "description": "Dehydration",
+          "type": "MapType.EXACT",
+          "covered_text": "Dehydration"
+        },
+        {
+          "begin": 12557,
+          "end": 12569,
+          "code": "276.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hyposmolality and/or hyponatremia",
+          "type": "Human",
+          "covered_text": "Hyponatremia"
+        },
+        {
+          "begin": 12573,
+          "end": 12584,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 12609,
+          "end": 12635,
+          "code": "162.8",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of other parts of bronchus or lung",
+          "type": "Human",
+          "covered_text": "Non Small Cell Lung Cancer"
+        },
+        {
+          "begin": 12805,
+          "end": 12833,
+          "code": "008.45",
+          "code_system": "ICD-9-CM",
+          "description": "Intestinal infection due to clostridium difficile",
+          "type": "Human",
+          "covered_text": "clostridium dificile colitis"
+        }
+      ],
+      "text": "Admission Date:  [**2118-7-28**]              Discharge Date:   [**2118-8-11**]\n\nDate of Birth:  [**2040-2-5**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nAugmentin\n\nAttending:[**First Name3 (LF) 9598**]\nChief Complaint:\nFever\n\nMajor Surgical or Invasive Procedure:\nCentral line placement\n\nHistory of Present Illness:\nMr. [**Known lastname 78131**] is a 78M with stageIV NSCLC on palliative Tarceva\nwho presents from his nursing facility with fevers x2d as high\nas 103.6F. Per paperwork from rehab, he was given levofloxacin\n500mg.\n.\nOf note, he was recently admitted to the OMED service, having\npresented with fevers and discharged on [**7-14**] on cefpodoxime and\nazithromycin for suspected pneumonia.\n.\nIn the ED, initial vs were T98 P 73 BP 86/51 RR 22 98% on . He\nwas given vancomycin, cefepime, flagyl, acetaminophen, zofran,\nand started on peripheral dopamine. Awake and mentating, making\nsmall amounts of dark urine. CT abdomen done for h/o 1day of\ndiarrhea, noncontrast showed ?of colitis. Got 5L of saline. BP\nremains 70's systolic on 15mcg dopamine and levophed.\n.\nOn the floor, he denies any complaints - though initially\nreported some abdominal pain to the RN. Review of systems\notherwise negative, though unclear if patient's history is\nreliable.\n\n\nPast Medical History:\nPast Medical History:\n1. Hypertension\n2. Atrial Fibrillation\n3. COPD\n4. h/o bilateral hernia repair\n5. aspiration\n.\nOncologic History: (Per OMR note [**2118-6-15**] by Dr. [**Last Name (STitle) **]\n1. Stage IIB nonsmall cell lung cancer (adenocarcinoma) s/p\nsurgical resection and adjuvant chemotherapy.\n2. FDG avid left lower [**Last Name (STitle) 3630**] lung nodule with non-malignant\nbiopsy in [**2117-2-13**].\n3. Stage IV nonsmall cell lung cancer (bone and lung\nrecurrence)diagnosed in [**2118-4-15**].\nTREATMENT:\n1. Status post right thoracotomy with right lower lobectomy,\nmediastinal lymph node sampling in [**2117-4-13**].\n2. Status post 4 cycles of carboplatin 5AUC and pemetrexed\n500mg/m2 every 21 days of a 3 week cycle today. Started in\n[**2117-6-29**] and last dose was given [**2117-8-31**].\n3. Status post 3000 cGy of radiotherapy to left hip lesion\ncompleted in [**2118-5-10**].\n4. Started erlotinib 150 mg/day in [**2118-5-24**].\n5. h/o mets to sacral spine s/p radiation, on narcotics for pain\ncontrol\n\n\nSocial History:\n70+ year h/o smoking. Currently at rehab facility.\n\nFamily History:\nUnknown cause of death of mother or father. The patient does\nhave siblings that are alive. No recurrent cancers in the\nfamily.\n\n\nPhysical Exam:\nOn [**Hospital Unit Name 153**] admission:\nVitals 96.3 102 101/58 21 100% on 4L\nGeneral Chronically ill appearing man, appears anxious\nHEENT Sclera anicteric, dry MMM\nNeck supple\nPulm Lungs with few bibasilar rales L>R\nCV Tachycardiac regular S1 S1 no m/r/g\nAbd Soft +bowel sounds tender to palpation throughout without\nrigidity or guarding\nExtrem Warm tr bilateral edema palpable distal pulses\nNeuro Awake and interactive, oriented to hospital in [**Location (un) 86**],\ndoes not know date\nDerm No rash or jaundice\nLines/tubes/drains Foley with yellow urine, RIJ\n\n\nPertinent Results:\nOn admission [**2118-7-28**]:\n\nWBC-10.9 RBC-3.71* Hgb-10.3* Hct-32.1* MCV-87 MCH-27.8 MCHC-32.2\nRDW-17.1* Plt Ct-410\nNeuts-55 Bands-27* Lymphs-6* Monos-10 Eos-0 Baso-0 Atyps-0\nMetas-2* Myelos-0\nPT-17.9* PTT-33.4 INR(PT)-1.6*\nGlucose-143* UreaN-35* Creat-1.6* Na-130* K-4.1 Cl-94* HCO3-26\nAnGap-14\nALT-17 AST-34 AlkPhos-60 TotBili-0.7\nAlbumin-2.6* Calcium-7.6* Phos-3.7 Mg-2.0\n\n[**7-29**] FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA\n\n[**7-28**] EKG: Probable sinus rhythm with low amplitude P waves\n(visible in lead V1) versus ectopic atrial rhythm. Right\nbundle-branch block. Left anterior fascicular block. Q-T\ninterval prolongation. Compared to the previous tracing of\n[**2118-7-7**] P waves are less apparent. Q-T interval is more\nprolonged.\n\n[**7-28**] CXR: 1. Stable post-surgical changes in the right lung from\nprior right lower lobectomy and upper [**Month/Year (2) 3630**] wedge resection due\nto known non-small cell lung cancer.\n2. Hazy opacity in the left lower [**Last Name (LF) 3630**], [**First Name3 (LF) **] reflect atelectasis.\n\n\n[**7-28**] CT Abd/pelvis:\n1. Bibasilar lung consolidations, worse when compared to prior\nexam.\nDifferential diagnosis includes infectious etiologies as well as\na slow\ngrowing lesion such as bronchoalveolar carcinoma. Clinical\ncorrelation is\nrecommended.\n2. No evidence of small bowel obstruction. Colon appears\nrelatively\nfeatureless with air-fluid levels and possibly pericolonic fat\nstranding\nversus third spacing. These findings may suggest a colitis.\n3. Extensive vascular calcifications.\n4. Large prostate.\n5. S1 vertebral body fracture with buckling of the superior\ncortex, worse\nwhen compared to prior exam.\n\n[**7-30**] Left LENI:\nIMPRESSION: No left lower extremity DVT.\n\n[**7-31**] KUB:\nFINDINGS:\nSmall bowel loops containing air are seen without distension.\nThere is a\npaucity of air in the left lower quadrant which might be due to\nliquid stool within the descending colon. No free air is seen on\nthe right lateral decubitus film. The visualized osseous\nstructures are unremarkable. The right lung base is not well\nseen with the dome of the diaghragm being pushed superiorly.\nThis correlates with the right lower [**Month/Year (2) 3630**] atelactasis on the\ncorresponding CT.\nIMPRESSION: No distended loops of bowel seen.\n\n\nBrief Hospital Course:\nMr. [**Known lastname 78131**] is a 78M with stage IV NSLC who presents with\nfevers from his rehab facility.\n.\n* Hypotension: Patient presented with hypotension concerning for\nsepsis.  He was briefly on levophed and was taken off of\npressors when SBP 100s-110s.  His hypotension was probably due\nto hypovolemia from diuresis but severe hypotension in setting\nof developing sepsis was also considered.  Lactate down to 1.0\nfrom 1.3 on admission with SVO2 73.\nOn the floors, his SBP's ranged in the 130's to 140's and he was\nrestarted on his home doses of LASIX WAS HELD FOR THE SEVERAL\nDAYS PRIOR TO DISCHARGE BECAUSE HE WAS AUTODIURESING.  HE NEEDS\nTO BE RE-EVALUATED REGULARLY FOR WHETHER LASIX NEEDS TO BE\nRESTARTED. HE WILL LIKELY NEED HIS LASIX RESTARTED AT SOME POINT\nAT REHAB.  His pressures remained stable throughout\nhospitalization.\n.\n* Fever: Patient's fever likely caused by C diff as patient is\ntoxin positive, although aspiration pneumonia was also\nconsidered a possibility given evidence of dysphagia on prior\nvideo swallow. His underlying pulmonary malignancy predisposes\nhim to a post-obstructive pneumonia. However the absence of\ncough or hypoxia made a pulmonary etiology less compelling.\nBlood and urine cultures are negative.  His C difficile colitis\nwas originally treated with PO vancomycin and IV flagyl. Prior\nto discharge, as diarrhea began to resolve, he was switched to\nPO flagyl alone, to be continued for a two week course (until\n[**2118-8-12**]).\n.\n* L leg swelling and pain: Patient had lower extremity pain\nedema greater on left than right after receiving fluid\nresuscitation in the ICU.  LENI showed no evidence of DVT. He\nwas diuresed with lasix until his fluid output was negative. He\nwas autodiuresing on discharge so his lasix was held. His fluid\nstatus should be reassessed daily to determine if he needs to be\nrestarted on lasix.\n\n* Hyponatremia: Patient's hyponatremia resolved after\nintravenous fluids, which supports hypovolemia as cause on\nadmission.  Review of OMR shows Na's running ~130. At last\ndischarge, thought to have a component of SIADH.\n\n* Acute renal failure: Patient had creatinine elevated to 1.4\nand FeNa was 0.1 on admission.  Creatinine has improved to\n0.7-0.8 (his baseline). His acute renal failure has resolved and\nwas likely pre-renal as it improved with IVF.\n\n* Anemia:  His hematocrit is down from admission but suspect\nthis was secondary to hemoconcentration.  His anemia is\nconsistent with baseline.\n\n* NSCLC: Advanced disease, on palliative chemotherapy.  Social\nwork and palliative care were consulted throughout this\nhospitalization and discussed goals of care with the family.\nErlotinib will be restarted on [**2118-8-19**] and should be taked every\nother day. He will follow up with Dr. [**Last Name (STitle) **].\n\n* Atrial fibrillation: His sotalol was restarted now that his\nhypotension resolved.\n\n# Nutrition ?????? Patient has aspiration risks and is unable to\nswallow pills easily. He was evaluated by nutrition and kept on\na pureed diet with TID ensure.  He also had an elevated INR\ndespite not being on anticoagulation which possibly could be due\nto malnutrition.  INR improved after administration of one dose\nof vitamin K.\n\n# Oral thrush: Patient failed nystatin swish and swallow. He was\nloaded with 400mg fluconazole and should continue 200mg daily\nuntil [**2118-8-25**].\n\n#Pain control: Patient was maintained on methadone and diluadid\nPRN during hospitalization. His methadone should be tapered and\npain reassessed daily while in rehab.\n\n\nMedications on Admission:\nAt rehab:\nErlotinib 100mg daily\nSimvastatin 10mg daily\nLasix 20mg daily\nSotalol 80mg [**Hospital1 **]\nNifedipine 30mg daily\nMethadone 15mg tid\nFolate\nLidoderm patch\n[**Name (NI) **], [**Name (NI) 78132**], MOM, dulcolax, lactulose, senna, guiafenesin,\ncolace, tylenol all prn\nZofran prn\nNeurontin 300mg q12h\nHeparin 5000 units SQ TID\n\n\nDischarge Medications:\n1. Heparin (Porcine) 5,000 unit/mL Solution [**Name (NI) **]: One (1)\ninjection Injection TID (3 times a day).\n2. Metronidazole 500 mg Tablet [**Name (NI) **]: One (1) Tablet PO Q8H (every\n8 hours): continue util [**2118-8-12**].\n3. Neurontin 300 mg Capsule [**Month/Day/Year **]: One (1) Capsule PO every twelve\n(12) hours.\n4. Docusate Sodium 100 mg Capsule [**Month/Day/Year **]: One (1) Capsule PO BID (2\ntimes a day) as needed for constipation: once diarrhea subsides,\nplease start taking as standing dose [**Hospital1 **].\n5. Methadone 10 mg Tablet [**Hospital1 **]: One (1) Tablet PO TID (3 times a\nday).\n6. Simvastatin 10 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY\n(Daily).\n7. Acetaminophen 325 mg Tablet [**Hospital1 **]: 1-2 Tablets PO Q4H (every 4\nhours) as needed for pain: no more than 4g in 24 hours.\n8. Sotalol 80 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a\nday).\n9. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated [**Hospital1 **]:\nOne (1) Adhesive Patch, Medicated Topical DAILY (Daily): 12\nhours on, 12 hours off.\n10. Nystatin 100,000 unit/mL Suspension [**Hospital1 **]: Five (5) ML PO QID\n(4 times a day).\n11. Nifedipine 30 mg Tablet Sustained Release [**Hospital1 **]: One (1)\nTablet Sustained Release PO DAILY (Daily).\n12. Folic Acid 1 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).\n\n13. Therapeutic Multivitamin     Liquid [**Hospital1 **]: Five (5) ML PO\nDAILY (Daily).\n14. Oral Wound Care Products     Gel in Packet [**Hospital1 **]: One (1) ML\nMucous membrane TID (3 times a day) as needed.\n15. Miconazole Nitrate 2 % Powder [**Hospital1 **]: One (1) Appl Topical TID\n(3 times a day) as needed for fungal rash-groin.\n16. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)\nTablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).\n17. Simethicone 80 mg Tablet, Chewable [**Last Name (STitle) **]: One (1) Tablet,\nChewable PO QID (4 times a day) as needed for gas.\n18. Dilaudid 2 mg Tablet [**Last Name (STitle) **]: 1-2 Tablets PO every four (4)\nhours as needed for pain.\n19. Senna 8.6 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO twice a day as\nneeded for constipation: Please start taking after diarrhea has\nresolved.\n20. Polyethylene Glycol 3350 17 gram (100 %) Powder in Packet\n[**Last Name (STitle) **]: One (1) dose PO once a day as needed for constipation:\nPlease use as needed after diarrhea has resolved.\n21. Dulcolax 10 mg Suppository [**Last Name (STitle) **]: One (1)  Rectal once a day\nas needed for constipation: Please start using as needed after\ndiarrhea has resolved.\n22. Zofran 4 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO every eight (8)\nhours as needed for nausea.\n23. Ambien 5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO at bedtime as\nneeded for insomnia.\n24. Fluconazole 200 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO Q24H (every\n24 hours): continue until [**2118-8-25**].\n25. Erlotinib 100 mg Tablet [**Month/Day/Year **]: One (1) Tablet PO QOD.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 2670**] - [**Location (un) 4444**]\n\nDischarge Diagnosis:\nPRIMARY DIAGNOSIS:\n1. Clostridium difficil colitis\n2. Dehydration\n3. Hyponatremia\n4. Hypotension\nSECONDARY DIAGNOSIS:\n1. Non Small Cell Lung Cancer\n\n\nDischarge Condition:\nStable, afebrile [**2-16**] BM's per day.\n\n\nDischarge Instructions:\nYou were admitted to the hospital on [**2118-7-28**] with fevers\nsecondary to clostridium dificile colitis (an infection in your\ncolon).  You are being treated with an antibiotic called flagyl.\n You need to continue this antibiotics until [**2118-8-12**].\n\nYou should STOP taking lasix (water pill). Your body has been\neliminating excess fluid well without the lasix. Your doctors\n[**Name5 (PTitle) **] [**Name5 (PTitle) 4656**] your fluid status at rehab and decide whether or\nnot you need lasix in future.\n\nYou can continue to take methadone with dilaudid as needed for\nbreakthrough pain. Your doctors at rehab [**Name5 (PTitle) **] taper your\nmethadone as needed.  Never drive while taking these medications\nor perform any activities requiring a fast reaction time.  Never\ndrink alcohol with these medications. Once your diarrhea stops,\nyou should start taking colace and senna daily to prevent\nconstipation, which is a common side effect of narcotics.\n\nYou also had thrush in your mouth. Continue to take fluconazole\n200mg daily until [**2118-8-25**].\n\nYou should restart your erlotinib on [**2118-8-19**] and take it every\nother day.\n\nUse miconazole for the fungal rash in your groin. Apply it four\ntimes a day.\n\nPlease return to the emergency room if you have worsening\ndiarrhea >10 BM per day, bloody/black stools, fever>100.4, chest\npain, shortness of breath, or any other symptoms concerning to\nyou.\n\nFollowup Instructions:\nPlease follow up with Dr. [**Last Name (STitle) **] in [**12-17**] weeks.\n\n\n                             [**Name6 (MD) **] [**Last Name (NamePattern4) 9601**] MD, [**MD Number(3) 9602**]\n\nCompleted by:[**2118-8-11**]"
+    },
+    {
+      "note_id": 589884,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 3804,
+          "end": 3816,
+          "code": "785.52",
+          "code_system": "ICD-9-CM",
+          "description": "Septic shock",
+          "type": "Human",
+          "covered_text": "Septic Shock"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:\n   24 Hour Events:\n MULTI LUMEN - START [**2118-7-28**] 11:58 PM\n   - BP improved overnight, pt now off dopamine, only on levophed\n   Allergies:\n   Augmentin (Oral) (Amox Tr/Potassium Clavulanate)\n   Rash;\n   Last dose of Antibiotics:\n   Vancomycin - [**2118-7-29**] 01:30 AM\n   Metronidazole - [**2118-7-29**] 02:15 AM\n   Meropenem - [**2118-7-29**] 03:31 AM\n   Infusions:\n   Norepinephrine - 0.1 mcg/Kg/min\n   Other ICU medications:\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2118-7-29**] 07:22 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.3\nC (97.3\n   Tcurrent: 36.3\nC (97.3\n   HR: 91 (87 - 102) bpm\n   BP: 111/59(71) {87/45(56) - 111/66(73)} mmHg\n   RR: 19 (10 - 22) insp/min\n   SpO2: 100%\n   Heart rhythm: RBBB (Right Bundle Branch Block)\n   Height: 68 Inch\n    CVP: 7 (7 - 11)mmHg\n   CO/CI (Fick): (6.5 L/min) / (3.5 L/min/m2)\n   Mixed Venous O2% Sat: 73 - 73\n   Total In:\n                                                                      9 mL\n                                                                  5,800 mL\n   PO:\n   TF:\n   IVF:\n                                                                      9 mL\n                                                                  1,600 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    188 mL\n   Urine:\n                                                                    188 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      9 mL\n                                                                  5,612 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 100%\n   ABG: ///23/\n   Physical Examination\n   General Chronically ill appearing man, appears anxious\n   HEENT Sclera anicteric, dry MMM\n   Neck supple\n   Pulm Lungs with few bibasilar rales L>R\n   CV Tachycardiac regular S1 S1 no m/r/g\n   Abd Soft +bowel sounds tender to palpation throughout without rigidity\n   or guarding\n   Extrem Warm tr bilateral edema palpable distal pulses\n   Neuro Awake and interactive, oriented to hospital in [**Location (un) 168**], does not\n   know date\n   Derm No rash or jaundice\n   Lines/tubes/drains Foley with yellow urine, RIJ\n   Labs / Radiology\n   459 K/uL\n   10.0 g/dL\n   153 mg/dL\n   1.4 mg/dL\n   23 mEq/L\n   3.3 mEq/L\n   36 mg/dL\n   101 mEq/L\n   134 mEq/L\n   30.2 %\n   14.3 K/uL\n        [image002.jpg]\n                             [**2118-7-29**]  02:59 AM\n   WBC\n   14.3\n   Hct\n   30.2\n   Plt\n   459\n   Cr\n   1.4\n   Glucose\n   153\n   Other labs: PT / PTT / INR:18.0/31.2/1.6, Amylase / Lipase:/9,\n   Differential-Neuts:60.0 %, Band:16.0 %, Lymph:8.0 %, Mono:13.0 %,\n   Eos:0.0 %, Lactic Acid:1.0 mmol/L, Ca++:7.6 mg/dL, Mg++:2.0 mg/dL,\n   PO4:3.7 mg/dL\n   [**7-28**] CXR cardiomegaly with elevated R hemidiaphragm, R effusion vs\n   consolidation, ?small nodule on L no large infiltrate, otherwise\n   similar to prior\n   .\n   [**7-28**] CT abdomen (noncontrast, prelim dictation)\n   patchy consolidation R lung base, new from prior study\n   no SBO. colon with air fluid levels and ?pericolonic fat stranding vs\n   3rd spacing possibly c/w colitis\n   BCx, Ucx\n pending\n   CXR\n elevated right hemidiaphragm, hazy cardiac borders\n   Assessment and Plan\n   Mr. [**Known lastname 7717**] is a 78M with stage IV NSLC who presents with fevers from\n   his rehab facility.\n   .\n   * Hypotension/Septic Shock\n   Probably due to hypovolemia from diuresis but must consider severe\n   hypotension in setting of developing sepsis\n   - Volume resuscitate to CVP 10-12\n   - Continue pressors MAP>60-65\n   - Check SVO2\n   - Follow urine output, goal 0.5cc/kg/hr\n   - Repeat lactate\n   .\n   * Fever\n   His history is limited, but abdominal tenderness on exam and diarrhea\n   point toward a GI source. With his recent antibiotics and stay in\n   rehab, C difficile colitis is obviously a concern. With evidence of\n   dysphagia on prior video swallow an aspiration pneumonia is also a\n   possibility. His underlying pulmonary malignancy predisposes him to a\n   post-obstructive pneumonia. However the absence of cough or hypoxia\n   make a pulmonary etiology less compelling.\n   - continue PO vancomycin and IV flagyl for suspected severe C difficile\n   colitis\n   - continue meropenem for ?aspiration pna or non-Cdiff severe\n   intrabdominal infection\n   - check LFTs\n   - f/u blood and urine cultures, stool C diff, CIS\n   .\n   * Hyponatremia\n   Review of OMR shows Na's running ~130. At last discharge, thought to\n   have a component of SIADH. Suspect he is hypovolemic currently.\n   - Hold lasix, continue IVF hydration, follow Na\n   - Check urine osms, lytes\n   .\n   * Acute renal failure\n   Probably due to pre-renal etiology, consider also ATN given hypotension\n   - IVF as above, follow Cr and urine output, renally doses meds\n   - Hold ACEI and diuretics\n   .\n   * Anemia\n   - Hct stable follow, maintain active T+S\n   .\n   * NSCLC\n   Advanced disease, on palliative chemotherapy.\n   - Oncology recs appreciated\n   - Social work and palliative care, family meeting regarding goals of\n   care\n   - Continue outpatient pain meds\n   .\n   * Afib\n   - Hold sotalol in setting of renal failure. Could consider amiodarone\n   if needed.\n   - Not on anticoagulation\n   .\n   * HTN\n   - Hold home antihypertensives given hypotension\n   .\n   # Nutrition\n patient has aspiration risks, unable to swallow pills\n   easily.  Also has an elevated INR despite not being on anticoagulation,\n   can possibly be due to malnutrition, lack of Vit K\n   - Vitamin K 5 mg\n   - consider NG tube as patient has aspiration risks\n   ICU Care\n   Nutrition: thin liquids (see prior speech/swallow recommendations)\n   Glycemic Control: Blood sugar well controlled\n   Lines:\n   Multi Lumen - [**2118-7-28**] 11:58 PM\n   22 Gauge - [**2118-7-29**] 12:01 AM\n   18 Gauge - [**2118-7-29**] 12:01 AM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer: PPI\n   VAP:  aspiration precautions\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status: DNR / DNI\n   Disposition: ICU\n"
+    },
+    {
+      "note_id": 590023,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 3359,
+          "end": 3371,
+          "code": "785.52",
+          "code_system": "ICD-9-CM",
+          "description": "Septic shock",
+          "type": "Human",
+          "covered_text": "Septic shock"
+        },
+        {
+          "begin": 4211,
+          "end": 4214,
+          "code": "V49.86",
+          "code_system": "ICD-9-CM",
+          "description": "Do not resuscitate status",
+          "type": "MapType.EXACT",
+          "covered_text": "DNR"
+        }
+      ],
+      "text": "Chief Complaint: f/u hypotension\n   HPI:\n    78M with a history of stage IV NSCLC a/w fever and hypotension.\n   Denies respiratory symptoms.  Reports that he feels dramatically\n   improved.\n   24 Hour Events:\n   Weaned off levophed.\n   C. diff toxin positive.\n   Allergies:\n   Augmentin (Oral) (Amox Tr/Potassium Clavulanate)\n   Rash;\n   Last dose of Antibiotics:\n   Meropenem - [**2118-7-29**] 03:31 AM\n   Vancomycin - [**2118-7-30**] 12:49 AM\n   Metronidazole - [**2118-7-30**] 09:02 AM\n   Infusions:\n   Other ICU medications:\n   Lansoprazole (Prevacid) - [**2118-7-29**] 06:38 PM\n   Heparin Sodium (Prophylaxis) - [**2118-7-30**] 05:04 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2118-7-30**] 11:52 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.2\nC (99\n   Tcurrent: 35.9\nC (96.7\n   HR: 74 (73 - 92) bpm\n   BP: 119/69(80) {86/36(49) - 119/75(80)} mmHg\n   RR: 15 (12 - 27) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 74.7 kg (admission): 74 kg\n   Height: 68 Inch\n   CVP: 10 (8 - 10)mmHg\n   Total In:\n                                                                  8,077 mL\n                                                                    833 mL\n   PO:\n   TF:\n   IVF:\n                                                                  3,817 mL\n                                                                    833 mL\n   Blood products:\n   Total out:\n                                                                    613 mL\n                                                                    267 mL\n   Urine:\n                                                                    613 mL\n                                                                    267 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  7,464 mL\n                                                                    566 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SpO2: 100%\n   ABG: ///22/\n   Physical Examination\n   HEENT: OP clr\n   Neck supple.  CVL site c/d/i\n   Lungs: Bibasilar rales.\n   Heart: Irregularly irregular.  S1,S2. No m/r/g\n   Abd: +bs. Soft. ND. Mild TTP in RUQ.\n   Ext: LLE enlarged compared to R.  Mild tenderness to palpation.\n   Skin: No rashes.\n   Neurologic: alert and oriented x3.\n   Labs / Radiology\n   8.6 g/dL\n   348 K/uL\n   110 mg/dL\n   1.0 mg/dL\n   22 mEq/L\n   3.7 mEq/L\n   37 mg/dL\n   107 mEq/L\n   138 mEq/L\n   26.7 %\n   9.0 K/uL\n        [image002.jpg]\n                             [**2118-7-29**]  02:59 AM\n                             [**2118-7-29**]  06:09 PM\n                             [**2118-7-30**]  03:27 AM\n   WBC\n   14.3\n   10.5\n   9.0\n   Hct\n   30.2\n   27.9\n   26.7\n   Plt\n   459\n   396\n   348\n   Cr\n   1.4\n   1.1\n   1.0\n   Glucose\n   153\n   122\n   110\n   Other labs: PT / PTT / INR:14.3/37.4/1.2, Amylase / Lipase:/9,\n   Differential-Neuts:79.0 %, Band:2.0 %, Lymph:8.0 %, Mono:9.0 %, Eos:0.0\n   %, Lactic Acid:1.0 mmol/L, Albumin:2.6 g/dL, Ca++:7.8 mg/dL, Mg++:2.1\n   mg/dL, PO4:3.0 mg/dL\n   Assessment and Plan\n   Septic shock\n source likely c.diff.  Now stable off pressors.  Repeat\n   lactate 1.  Goal MAP 60, CVP 10.  Monitoring Uo.\n   C.diff colitis\n now on p.o. vanc, iv flagyl.  Continues to have\n   diarrhea.  Stable, no evidence of perforation.\n   Hyponatremia\n improved w/ volume.\n   Anemia\n no evidence of active bleeding. Guiac stools.\n   NSCLC\n palliative care following\n   Atrial fibrillation\n plan to re-start beta blocker today.\n   HTN\n plan to re-start over the next several days.\n   LLE\n u/s to evaluate for DVT.\n   ICU Care\n   Nutrition: Thick liquids. Speech and swallow following.\n   Glycemic Control:\n   Lines:\n   Multi Lumen - [**2118-7-28**] 11:58 PM\n   22 Gauge - [**2118-7-29**] 12:01 AM\n   18 Gauge - [**2118-7-29**] 12:01 AM\n   Prophylaxis:\n   DVT: sq heparin\n   Stress ulcer: PPI\n   Comments:\n   Communication:  Comments:\n   Code status: DNR / DNI\n   Disposition : Call out to OMED\n   Total time spent: 40 min\n"
+    },
+    {
+      "note_id": 589995,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 3926,
+          "end": 3938,
+          "code": "038.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified septicemia",
+          "type": "Human",
+          "covered_text": "Septic Shock"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:\n   24 Hour Events:\n   -Dr. [**Last Name (STitle) 1932**] to see him Monday - will re-start his palliative chemo med\n   on Monday\n   -C. diff positive --> D/C'd meropenem. Continued vanco/flagyl\n   -f/u Palliative care recs in AM\n   -on levophed drip for hypotension with SBP 110s.--> turned off at 10pm\n   with SBP 100s. UOP 25cc/hr.\n   Allergies:\n   Augmentin (Oral) (Amox Tr/Potassium Clavulanate)\n   Rash;\n   Last dose of Antibiotics:\n   Meropenem - [**2118-7-29**] 03:31 AM\n   Metronidazole - [**2118-7-29**] 04:39 PM\n   Vancomycin - [**2118-7-30**] 12:49 AM\n   Infusions:\n   Other ICU medications:\n   Lansoprazole (Prevacid) - [**2118-7-29**] 06:38 PM\n   Heparin Sodium (Prophylaxis) - [**2118-7-30**] 05:04 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2118-7-30**] 07:42 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.2\nC (99\n   Tcurrent: 36.2\nC (97.2\n   HR: 74 (73 - 92) bpm\n   BP: 114/53(68) {86/36(49) - 115/75(78)} mmHg\n   RR: 18 (12 - 27) insp/min\n   SpO2: 99%\n   Heart rhythm: RBBB (Right Bundle Branch Block)\n   Wgt (current): 74.7 kg (admission): 74 kg\n   Height: 68 Inch\n    CVP: 10 (5 - 10)mmHg\n   Total In:\n                                                                  8,077 mL\n                                                                    504 mL\n   PO:\n   TF:\n   IVF:\n                                                                  3,817 mL\n                                                                    504 mL\n   Blood products:\n   Total out:\n                                                                    613 mL\n                                                                    177 mL\n   Urine:\n                                                                    613 mL\n                                                                    177 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  7,464 mL\n                                                                    327 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SpO2: 99%\n   ABG: ///22/\n   Physical Examination\n   General Chronically ill appearing man, appears anxious\n   HEENT Sclera anicteric, dry MMM\n   Neck supple\n   Pulm Lungs with few bibasilar rales L>R\n   CV Tachycardiac regular S1 S1 no m/r/g\n   Abd Soft +bowel sounds tender to palpation throughout without rigidity\n   or guarding\n   Extrem Warm tr bilateral edema palpable distal pulses\n   Neuro Awake and interactive, oriented to hospital in [**Location (un) 168**], does not\n   know date\n   Derm No rash or jaundice\n   Lines/tubes/drains Foley with yellow urine, RIJ\n   Labs / Radiology\n   348 K/uL\n   8.6 g/dL\n   110 mg/dL\n   1.0 mg/dL\n   22 mEq/L\n   3.7 mEq/L\n   37 mg/dL\n   107 mEq/L\n   138 mEq/L\n   26.7 %\n   9.0 K/uL\n        [image002.jpg]\n                             [**2118-7-29**]  02:59 AM\n                             [**2118-7-29**]  06:09 PM\n                             [**2118-7-30**]  03:27 AM\n   WBC\n   14.3\n   10.5\n   9.0\n   Hct\n   30.2\n   27.9\n   26.7\n   Plt\n   459\n   396\n   348\n   Cr\n   1.4\n   1.1\n   1.0\n   Glucose\n   153\n   122\n   110\n   Other labs: PT / PTT / INR:14.3/37.4/1.2, Amylase / Lipase:/9,\n   Differential-Neuts:79.0 %, Band:2.0 %, Lymph:8.0 %, Mono:9.0 %, Eos:0.0\n   %, Lactic Acid:1.0 mmol/L, Albumin:2.6 g/dL, Ca++:7.8 mg/dL, Mg++:2.1\n   mg/dL, PO4:3.0 mg/dL\n   .\n   corrected Ca 8.72\n   BCx, Ucx\n pending\n   C diff positive\n   MRSA screen pending\n   Assessment and Plan\n   Mr. [**Known lastname 7717**] is a 78M with stage IV NSLC who presents with fevers from\n   his rehab facility.\n   .\n   * Hypotension/Septic Shock\n   Probably due to hypovolemia from diuresis but must consider severe\n   hypotension in setting of developing sepsis\n   - Volume resuscitate to CVP 10-12\n   - Goal MAP>60-65\n   - Check SVO2\n   - Follow urine output, goal 0.5cc/kg/hr\n   - Repeat lactate\n   .\n   * Fever\n   His history is limited, but abdominal tenderness on exam and diarrhea\n   point toward a GI source. With his recent antibiotics and stay in\n   rehab, C difficile colitis is obviously a concern. With evidence of\n   dysphagia on prior video swallow an aspiration pneumonia is also a\n   possibility. His underlying pulmonary malignancy predisposes him to a\n   post-obstructive pneumonia. However the absence of cough or hypoxia\n   make a pulmonary etiology less compelling.\n   - continue PO vancomycin and IV flagyl for suspected severe C difficile\n   colitis\n   - continue meropenem for ?aspiration pna or non-Cdiff severe\n   intrabdominal infection\n   - check LFTs\n   - f/u blood and urine cultures, stool C diff, CIS\n   .\n   * Hyponatremia\n   Review of OMR shows Na's running ~130. At last discharge, thought to\n   have a component of SIADH. Suspect he is hypovolemic currently.\n   - Hold lasix, continue IVF hydration, follow Na\n   - Check urine osms, lytes\n   .\n   * Acute renal failure\n   Probably due to pre-renal etiology, consider also ATN given hypotension\n   - IVF as above, follow Cr and urine output, renally doses meds\n   - Hold ACEI and diuretics\n   .\n   * Anemia\n   - Hct stable follow, maintain active T+S\n   .\n   * NSCLC\n   Advanced disease, on palliative chemotherapy.\n   - Oncology recs appreciated\n   - Social work and palliative care, family meeting regarding goals of\n   care\n   - Continue outpatient pain meds\n   .\n   * Afib\n   - Hold sotalol in setting of renal failure. Could consider amiodarone\n   if needed.\n   - Not on anticoagulation\n   .\n   * HTN\n   - Hold home antihypertensives given hypotension\n   .\n   # Nutrition\n patient has aspiration risks, unable to swallow pills\n   easily.  Also has an elevated INR despite not being on anticoagulation,\n   can possibly be due to malnutrition, lack of Vit K\n   - Vitamin K 5 mg\n   - consider NG tube as patient has aspiration risks\n   ICU Care\n   Nutrition: thin liquids (see prior speech/swallow recommendations)\n   Glycemic Control: monitoring\n   Lines:\n   Multi Lumen - [**2118-7-28**] 11:58 PM\n   22 Gauge - [**2118-7-29**] 12:01 AM\n   18 Gauge - [**2118-7-29**] 12:01 AM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer: PPI\n   VAP:  aspiration precautions\n   Comments:\n   Communication:  Comments:\n   Code status: DNR / DNI\n   Disposition:\n"
+    }
+  ]
+}

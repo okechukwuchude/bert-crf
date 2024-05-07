@@ -1,0 +1,140 @@
+{
+  "hadm_id": 180095,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 52515,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 423,
+          "end": 426,
+          "code": "205.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myeloid leukemia without mention of remission",
+          "type": "Human",
+          "covered_text": "AML"
+        },
+        {
+          "begin": 426,
+          "end": 431,
+          "code": "238.75",
+          "code_system": "ICD-9-CM",
+          "description": "Myelodysplastic syndrome, unspecified",
+          "type": "Human",
+          "covered_text": ", MDS"
+        },
+        {
+          "begin": 437,
+          "end": 452,
+          "code": "185",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of prostate",
+          "type": "Human",
+          "covered_text": "prostate cancer"
+        },
+        {
+          "begin": 2176,
+          "end": 2179,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 2209,
+          "end": 2212,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 2214,
+          "end": 2228,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 2290,
+          "end": 2299,
+          "code": "492.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other emphysema",
+          "type": "Human",
+          "covered_text": "emphysema"
+        },
+        {
+          "begin": 7209,
+          "end": 7228,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "MapType.APPROX",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 7976,
+          "end": 7982,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia of other chronic disease",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 8306,
+          "end": 8313,
+          "code": "780.61",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "Febrile"
+        },
+        {
+          "begin": 8306,
+          "end": 8325,
+          "code": "288.00",
+          "code_system": "ICD-9-CM",
+          "description": "Neutropenia, unspecified",
+          "type": "Human",
+          "covered_text": "Febrile neutropenia"
+        },
+        {
+          "begin": 8331,
+          "end": 8340,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "pneumonia"
+        },
+        {
+          "begin": 11331,
+          "end": 11345,
+          "code": "427.32",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial flutter",
+          "type": "Human",
+          "covered_text": "Atrial flutter"
+        },
+        {
+          "begin": 11346,
+          "end": 11355,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Pneumonia"
+        }
+      ],
+      "text": "Admission Date:  [**2137-3-29**]              Discharge Date:   [**2137-4-1**]\n\nDate of Birth:  [**2061-2-22**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPenicillins / Tetracycline Analogues / Atrovent / Chlorhexidine\n/ Cephalosporins\n\nAttending:[**First Name3 (LF) 3918**]\nChief Complaint:\nPalpitations/tachycardia\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\n76 yo M with history of AML, MDS, and prostate cancer who\npresents to [**Hospital1 18**] ED with palpitations after he had been sent\nhome from [**Hospital1 3242**] outpatient clinic after assessment for dyspnea and\nfevers. According to patient's wife, the patient had been\ncleared to go home from [**Hospital1 3242**] outpatient clinic after a CXR was\nunrevealing, though the patient was only home for a coupld of\nhours prior to feeling acutely unwell and EMS was called. EMS\nnoted HR of 190 and pushed diltiazem with little change in HR.\n.\nAt presentation to the ED, patient was noted to have HR of 150\nand EKG consistent with atrial flutter and was started on an\namiodarone bolus and infusion. Patient was given morphine for\ndyspnea per home regimen. Vitals prior to transfer to the MICU\nwere: T 100.8, HR 134, BP 98/56, RR 36, O2Sat 97% 3L NC.\n.\nUpon arrival to the floor the patient's wife and daughter\nindicated that patient would want to be DNR/DNI and would be\ndiscerning about performing any invasive procedures. Within 30\nminutes of arriving to the MICU, patient spontaneously converted\nto sinus rhythm and HR dropped from 150s to 80s.\n\n\nPast Medical History:\nPast Oncologic History:\n# AML status post induction with 7 and 3 on [**2134-12-5**].\nConsolidation treatment initiated on ALFA low dose 7+3\nchemotherapy regimen on [**2135-4-4**], s/p 3 cycles.  Currently\noff azecitadine.\n#MDS diagnosed in [**9-1**] s/p 2x decitabine then treated with\nNeulasta and Nplate, started on azacytidine in [**2136-11-24**]\n#Prostate Cancer - diagnosed in [**2121**] ([**Doctor Last Name **] 2+5) at which\ntime he received bracytherapy and was subsequently followed\nexpectantly by Dr. [**Last Name (STitle) **]; he's experienced a PSA only relapse\n.\nOther Past Medical History:\n#2V CAD s/p BMS to ramus [**2-28**]\n#HTN\n#Hyperlipidemia\n#AAA s/p endovascular repair in [**9-1**]\n#s/p appendectomy\n#emphysema\n#s/p basal cell ca excision\n\n\nSocial History:\nLives in [**Location **] with wife. 3 kids. Former VP Gillete for 32\nyrs, retired in [**2128**]. Smoked 68 yrs 2ppd. Quit smoking\n[**Holiday 1451**] in [**2135**]. Drinks 1 [**Doctor Last Name 6654**] a day.\n\n\nFamily History:\nFather died of lung cancer at age 44. Mother died of an MI.\n\n\nPhysical Exam:\nADMISSION EXAM:\n.\nGEN: Somnolent, appears comfortable, though high respiratory\nrate\n[**Doctor Last Name 4459**]: Corrective lenses, PERRL, oral mucosa dry\nNECK: Supple, no [**Doctor First Name **], no JVP elevation\nPULM: Anteriorly coarse breath sounds with inspiratory squeaks\nand mild exp wheezing\nCARD: Tachycardic, nl S1, nl S2, no M/R/G\nABD: BS+, soft, NT, ND\nEXT: 1+ BLE pitting edema\nSKIN: no rashes\nNEURO: somnolent, though easy to awake and is oriented x 3 when\nawake\n.\nDISCHARGE EXAM:\n.\nVS: T: 96.98.9  BP: 144/74 (100s-140s/50s-70s)  HR: 87\n(80s-100s)  RR: 18  O2: 94% 2L\nGEN: AOx3, interactive, NAD\n[**Doctor First Name 4459**]:  MMM. Neck supple.\nCards: RRR, S1/S2 normal, no murmurs/gallops/rubs.\nPulm: Scattered crackles\nAbd: Soft, NT/ND, no rebound/guarding\nExtremities: WWP, 1+ pitting LE edema bilaterally.\n\n\nPertinent Results:\nADMISSION LABS:\n.\n[**2137-3-29**] 09:25AM   GRAN CT-60*\n[**2137-3-29**] 09:25AM   PLT SMR-RARE PLT COUNT-10*#\n[**2137-3-29**] 09:25AM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-1+\nMACROCYT-NORMAL MICROCYT-1+ POLYCHROM-NORMAL OVALOCYT-1+\n[**2137-3-29**] 09:25AM   NEUTS-1* BANDS-0 LYMPHS-24 MONOS-48* EOS-0\nBASOS-0 ATYPS-3* METAS-0 MYELOS-0 BLASTS-24* NUC RBCS-1*\n[**2137-3-29**] 09:25AM   WBC-6.0# RBC-3.02* HGB-9.0* HCT-26.4* MCV-88\nMCH-29.9 MCHC-34.1 RDW-14.4\n[**2137-3-29**] 09:25AM   ALBUMIN-3.5 CALCIUM-8.4 PHOSPHATE-3.6\nMAGNESIUM-2.0\n[**2137-3-29**] 09:25AM   ALT(SGPT)-12 AST(SGOT)-42* LD(LDH)-1287* ALK\nPHOS-96 TOT BILI-0.6\n[**2137-3-29**] 09:25AM   UREA N-26* CREAT-0.8 SODIUM-138 POTASSIUM-4.1\nCHLORIDE-101 TOTAL CO2-28 ANION GAP-13\n[**2137-3-29**] 10:50AM URINE  RBC-3* WBC-2 BACTERIA-NONE YEAST-NONE\nEPI-<1\n[**2137-3-29**] 10:50AM URINE  BLOOD-TR NITRITE-NEG PROTEIN-30\nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5\nLEUK-NEG\n[**2137-3-29**] 10:50AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.019\n[**2137-3-29**] 01:05PM   PLT COUNT-22*#\n[**2137-3-29**] 03:30PM   PLT COUNT-35*#\n[**2137-3-29**] 09:55PM   PT-13.4 PTT-29.8 INR(PT)-1.1\n[**2137-3-29**] 09:55PM   PLT SMR-VERY LOW PLT COUNT-30*\n[**2137-3-29**] 09:55PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-2+\nMACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-OCCASIONAL OVALOCYT-1+\nBURR-1+ BITE-OCCASIONAL\n[**2137-3-29**] 09:55PM   NEUTS-1* BANDS-0 LYMPHS-4* MONOS-66* EOS-0\nBASOS-0 ATYPS-0 METAS-0 MYELOS-0 BLASTS-29* NUC RBCS-2*\n[**2137-3-29**] 09:55PM   WBC-7.3 RBC-2.93* HGB-9.2* HCT-24.5* MCV-84\nMCH-31.3 MCHC-37.5* RDW-14.6\n[**2137-3-29**] 09:55PM   LACTATE-1.5\n[**2137-3-29**] 09:55PM   TSH-1.5\n[**2137-3-29**] 09:55PM   cTropnT-0.01\n[**2137-3-29**] 09:55PM   GLUCOSE-106* UREA N-23* CREAT-0.9 SODIUM-137\nPOTASSIUM-3.8 CHLORIDE-101 TOTAL CO2-25 ANION GAP-15\n.\nDISCHARGE LABS:\n.\n[**2137-4-1**] 06:20AM BLOOD WBC-7.3 RBC-2.67* Hgb-7.9* Hct-23.5*\nMCV-88 MCH-29.5 MCHC-33.6 RDW-14.3 Plt Ct-28*#\n[**2137-4-1**] 06:20AM BLOOD Neuts-0 Bands-0 Lymphs-9* Monos-34* Eos-0\nBaso-0 Atyps-0 Metas-0 Myelos-0 Promyel-1* Blasts-56* NRBC-1*\nOther-0\n.\nSTUDIES:\n.\nCXR [**2137-3-29**]:\nIn comparison to study performed earlier the same day, lung\nvolumes are\ndecreased. This may account for increased bibasilar opacitites,\nthough new\nconsolidation should also be considered. Right apical opacity is\nlikely\nunchanged, though is now partially obscured by overlying soft\ntissue artifact. Left peripherally inserted central catheter\nreaches the mid SVC. Hilar and cardiomediastinal contours are\nunchanged. There is no large effusion or pneumothorax. There is\nno free air in the upper abdomen.\n\nIMPRESSION: Persistent right apical opacity with apparent new\nbibasilar\nopacities, which may in part reflect atelectasis in conjunction\nwith low lung volumes. Repeat PA and lateral radiographs with\nbetter inspiration would be helpful for further evaluation.\n.\nCXR [**2137-3-31**]:\nHeart size remains normal. Pulmonary vascularity is also within\nnormal limits. Lung volumes are increased compared to the recent\nradiograph, and recently described new bibasilar opacities have\nnearly resolved with only minimal linear atelectasis remaining.\nPoorly defined right apical opacity has slightly decreased in\nsize since prior studies and is likely due to slowly resolving\ninfection based on appearance on [**2137-3-2**] chest CT. Small\npleural effusions are present bilaterally.\n\nIMPRESSION:\n\n1. Near resolution of bibasilar opacities which were likely due\nto\natelectasis.\n\n2. Right apical opacity, likely due to slowly resolving\ninfection. Continued radiographic followup of this region may be\nhelpful to document complete resolution.\n\n\nBrief Hospital Course:\n#. Atrial fibrillation with RVR:\nPatient presented to ED primarily because of new palpitations at\nhome which was proven to be atrial fibrillation with RVR as well\nas one documented episode of atrial flutter. Patient converted\nto sinus rhythm soon after admission to MICU overnight. The\npatient was switched to oral amiodarone after having converted\nto sinus. He tolerated the PO well and was called out to the\nfloor and was transfered to the [**Hospital Ward Name **] under the care of\nthe oncology/[**Hospital Ward Name 3242**] service.  Pt was not not discharged on amio\ngiven that he converted prior to receiving his 1st dose and we\nthought the benefits did not outweight the drawbacks given his\nbaseline pulmonary disease and overall decreased life\nexpectancy.\n.\n#. Anemia:\nPt has long term anemia with frequent outpatient transfusions\nrelated to MDS. The patient was ordered for HCT daily with\ntransfusion threshold of HCT < 21. The patient had a stable\nhematocrit and did not require any transfusions while in the\nICU, but did receive 2U of PRBC for a Hct of 23.5 on the day of\ndischarge.\n.\n#. Febrile neutropenia with pneumonia:\nPatient with ANC of 60 at presentation and spiked a fever to\n100.8 in the ED and pneumonia on CXR. Patient with reported\nend-stage MDS and AML and will be difficult for him to mount a\nresponse to any infection. He was given neupogen recently as a\ntrial to attempt to affect change in his refractory neutropenia.\nThe patient was covered with broad antibiotics with Vancomycin,\nMeropenem. This was continued as the patient was called out to\nthe oncology floor.  Upon discharge he was sent home on\nlinezolid and levofloxacin with the course to be determined by\nhis outpatient oncologist.\n.\n#. MDS, AML:\nPatient and family aware of overall poor prognosis and have\nexpressed their wish for patient to be DNR/DNI. Counts were\ntrended, and he remained anemic, neutropenic, and\nthrombocytopenic as above.  He received a total of 2U PRBC and\n3U of platelets.\n\n\nMedications on Admission:\n1) Albuterol sulfate 90 mcg HFA Inhaler Q4H:PRN dyspnea/wheezing\n2) Dexamethasone 4 mg in the morning and 2 mg at noon\n3) Fluticasone-salmeterol 250 mcg-50 mcg [**Hospital1 **]\n4) Lorazepam 0.5-1 mg PO QHS:PRN insomnia\n5) Morphine 15-30 mg Q4H:PRNs hortness of breath or wheezing\n6) Omeprazole 40 mg DAILY\n7) Tiotropium bromide 18 mcg\n8) Voriconazole 400 mg [**Hospital1 **]\n9) Zolpidem 12.5 mg QHS\n10) Multivitamin\n\n\nDischarge Medications:\n1. voriconazole 200 mg Tablet Sig: Two (2) Tablet PO Q12H (every\n12 hours).\n2. linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 12\nhours): Please follow up with your oncologist to determine when\nto stop this medication.\nDisp:*60 Tablet(s)* Refills:*0*\n3. levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day:\nPlease follow up with your oncologist to determine when to stop\nthis medication.\nDisp:*30 Tablet(s)* Refills:*0*\n4. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\nOne (1)  Inhalation every four (4) hours as needed for shortness\nof breath or wheezing.\n5. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:\nOne (1)  Inhalation twice a day.\n6. multivitamin     Capsule Sig: One (1) Capsule PO once a day.\n\n7. lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO HS (at bedtime)\nas needed for insomnia.\n8. morphine 15 mg Tablet Sig: 1-2 Tablets PO every four (4)\nhours as needed for shortness of breath or wheezing.\n9. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO once a day.\n10. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:\nOne (1)  Inhalation once a day.\n11. zolpidem 12.5 mg Tablet,Ext Release Multiphase Sig: One (1)\nTablet,Ext Release Multiphase PO at bedtime.\n12. dexamethasone 2 mg Tablet Sig: 1-2 Tablets PO twice a day:\n[**11-25**] Tablet(s) by mouth As directed Take 2 tablets in the\nmorning, and 1 tablet at 12pm .\n13. methylphenidate 5 mg Tablet Sig: One (1) Tablet PO twice\ndaily at 8am, 12pm: [**Month (only) 116**] skip second dose if desired.\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital **] Home Health Care\n\nDischarge Diagnosis:\nAtrial flutter\nPneumonia\n\nSecondary Diagnosis:\nAcute Myelogenous Leukemia\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to the hospital for palpitations, and were\nfound to be in a rapid heart rhythm called atrial flutter.  You\nreceived medications for the rapid heart rhyrhm and your heart\nrate converted back to normal.  You had no further symptoms\nother than shortness of breath, and you received a dose of\nmedication called Lasix to remove fluid from your lungs.\n\nYour chest xray from admission showed a possible pneumonia, and\na repeat chest xray in the hospital was more consistent with\nresidual findings from a resolving pneumonia you had previously\nrather than a new pneumonia.  However, due to your frequent\nneutropenia and pneumonia infections, it was felt best to\nre-start you on antibiotics until follow-up with your primary\noutpatient oncologist.\n\nYou were also given a transfusion of platelets and red blood\ncells while in the hospital to increase your blood counts.\n\nThe following changes were made to your home medications:\n- Linezolid was re-STARTED.\n- Levofloxacin was re-STARTED.\nPlease follow up with your oncologist about when to stop taking\nthese medications.\n\nFollowup Instructions:\nDepartment: [**Hospital 3242**] CHAIRS & ROOMS\nWhen: WEDNESDAY [**2137-4-3**] at 12:30 PM\n\nDepartment: HEMATOLOGY/ONCOLOGY\nWhen: WEDNESDAY [**2137-4-3**] at 12:30 PM\nWith: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 13863**], RN [**Telephone/Fax (1) 3241**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\nDepartment: HEMATOLOGY/ONCOLOGY\nWhen: WEDNESDAY [**2137-4-3**] at 1 PM\nWith: [**Name6 (MD) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 22**]\nBuilding: [**Hospital6 29**] [**Location (un) **]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3922**]\n\n"
+    }
+  ]
+}

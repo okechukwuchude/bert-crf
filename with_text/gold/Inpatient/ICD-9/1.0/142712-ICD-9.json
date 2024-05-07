@@ -1,0 +1,184 @@
+{
+  "hadm_id": 142712,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 10539,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2174,
+          "end": 2177,
+          "code": "204.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute lymphoid leukemia without mention of remission",
+          "type": "MapType.EXACT",
+          "covered_text": "ALL"
+        },
+        {
+          "begin": 8320,
+          "end": 8339,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "RESPIRATORY FAILURE"
+        },
+        {
+          "begin": 9737,
+          "end": 9748,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "HYPOTENSION"
+        },
+        {
+          "begin": 10323,
+          "end": 10335,
+          "code": "263.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified protein-calorie malnutrition",
+          "type": "Human",
+          "covered_text": "MALNUTRITION"
+        },
+        {
+          "begin": 10341,
+          "end": 10353,
+          "code": "286.9",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified coagulation defects",
+          "type": "MapType.APPROX",
+          "covered_text": "COAGULOPATHY"
+        },
+        {
+          "begin": 10355,
+          "end": 10361,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "ANEMIA"
+        },
+        {
+          "begin": 10796,
+          "end": 10803,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "ANXIETY"
+        },
+        {
+          "begin": 10808,
+          "end": 10818,
+          "code": "307.47",
+          "code_system": "ICD-9-CM",
+          "description": "Other dysfunctions of sleep stages or arousal from sleep",
+          "type": "MapType.APPROX",
+          "covered_text": "NIGHTMARES"
+        },
+        {
+          "begin": 14853,
+          "end": 14862,
+          "code": "482.41",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia due to Staphylococcus aureus",
+          "type": "Human",
+          "covered_text": "Pneumonia"
+        }
+      ],
+      "text": "Admission Date:  [**2182-12-11**]              Discharge Date:   [**2183-1-1**]\n\nDate of Birth:  [**2142-12-11**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nSulfa (Sulfonamide Antibiotics) / Compazine / Tetanus / Morphine\n/ Cefoxitin / Codeine / Lactose\n\nAttending:[**First Name3 (LF) 3561**]\nChief Complaint:\nRespiratory distress\n\nMajor Surgical or Invasive Procedure:\nBronchoscopy\nG-tube placement\n\nHistory of Present Illness:\nThis is a 40-year-old with history of ALL s/p allo BMT [**2151**], c/b\nradiation-induced pulmonary fibrosis, underwent left lower lobe\ntransplant [**2170**], this was c/b left mainstem bronchomalacia, s/p\nstenting, recently s/p bronchoscopy on [**2182-12-9**] for cryo to\ngranulation tissue now presenting with respiratory distress.\n.\nHistory was obtained from medical records. On [**2182-12-9**], the\npatient underwent bronchoscopy for cryotherapy debridment of the\nmetallic left main stent under rigid bronchoscopy followed by\nesophageal dilation via thoracic surgery.  Her post operative\ncourse was complicated by respiratory distress and profound\nbronchospasm, which responded to positive pressure noninvasive\nventilation and albuterol nebs. The patient was monitored\novernight, and discharged on [**2182-12-10**].  The patient presented to\nan OSH ED on [**2182-12-11**] early am complaining of SOB that had\nstarted the prior evening.  At OSH ED the pt was noted to have a\npneumonia, and received levoquin 750mg and 500cc NS. The patient\nwas transfered to the [**Hospital1 18**] ED for further management.\n.\nAt the [**Hospital1 18**] ED, the pt's initial vitals were 98.3 92 126/72 18\n100% NRB. Patient was found to have worsening shortness of\nbreath, was tachypneic to 30s with ABG: 7.18/85/166. The pt was\nintubated and bronchoscopy was performed. ABG after intubation\nshowed: 7.00/99/196. Vent changed with decreased volume and\nincreased rate. Blood pressures dropped after being sedated. An\nA line and CVL (femoral) were placed. Sedation stopped with\nimprovement in blood pressures. Two liters IVF given.  Patient\nwas started on neosynephrine with mild improvement in blood\npressures. Given Vanc/Zosyn.\n\n\nPast Medical History:\n-ALL - [**2147**], treated with Vincristine, prednisone,\nMethotrexate, Adriamycin (total 450 mg/m2), 6MP and\nL-Asparaginase, and cranial XRT. Bone marrow relapse [**2150**]\ntreated with COAP, stopped secondary to toxicity. Reinduced with\n\nPrednisone, L-Asparaginase and oral Methotrexate in [**2151**] and\nunderwent allogeneic bone marrow transplant with whole body\nradiation.\n-Small bowel perforation - [**2167**]\n-Pulmonary fibrosis and left lobe transplant - [**2170**],\ncomplicated by pericardial and pleural effusion\n-Staph aureus bronchitis - [**2171**]\n-Left mainstem bronchomalacia, s/p stent placement [**2176**]\n-Chronic sinus tachycardia\n-Dyspnea on exertion and with lying supine\n-G-tube placement\n-Esophageal strictures - s/p multiple dilations\n-Moderate MR ([**3-12**])\n-Basal Cell Ca (Back - upper chest)\n-Edentulous with full dentures due to major dental work (now\nmissing her lower dentures, as described above)\n.\nPAST SURGICAL HISTORY:\n1- Surgical Debridement of thigh abcess from IM pentamidine [**2152**]\n\n2- Appendectomy [**2163**]\n3- Laparoscopy to remove ovarian cysts [**2162**]\n4- S.P Small bowel perforation complicated with candidal and\nbacterial paeritonitis requiring antifungals and antibiotics\n5- Cholecystectomy\n6- Pulmonary fibrosis S/P living related donor from father [**Name (NI) 25730**]\n\ntransplant)\n7- Post pericardiotomy syndrome [**2170**]\n8- L MS bronchomalacia\n9- Bilat SAH\n10- Ilesotomy and enterococcus fistula and reversed 10 months\nlater at [**Hospital1 112**]\n11- Closing of enterocutaneous fistula and ostomy [**2174**]\n12- S/P port placement for IV access [**9-7**]\n13- LMS granuloma debridement and mitomycin\n14- Esophageal dilatation [**2-11**] - [**7-11**]\n15- Debridement of granulation tissue around stent\n[**88**]- Pneumothorax post bronchoscopy with stent granulation tissue\n\ndebridement\n\nSocial History:\nPatient lives independently and has fantastic family support.\nShe helps take care of her 2-year-old nephew and 1-month-old\nniece 5 days/week.  She has never smoked.  She does not drink\nalcohol on a regular basis.\n\nFamily History:\nParents are both living. Father (66; aortic stenosis); Mother\n(65 years; smoking, hyperlipidemia). She has 3 siblings (one\nbrother has a history of testicular cancer).  She has no\nchildren.\n\n\nPhysical Exam:\nVS: Afebrile, 130, 100/58, 34, 100% on AC\nGen: Petite woman, appears older than stated age, sedated\nHEENT: left pupil>right pupil, both reactive, no icterus, MMM\nNeck: Supple, no cervical LAD, no supraclavicular LAD\nHeart: tachycardic, no m/r/g\nPulm: Coarse & diffuse bronchial breath sounds and rhonchi\nbilateral anteriorly\nChest: left chest port in place\nAbd: soft, flat, NT/ND, no hepatosplenomegaly\nExt: 2+ pulses, warm, no cyanosis or edema\nNeuro: Sedated, does not respond to noxious stimuli\nSkin: No rashes\n\n\nPertinent Results:\nLabs on admission:\n.\n[**2182-12-11**] 07:18AM   WBC-25.3* RBC-3.03* HGB-9.1* HCT-27.6* MCV-91\nMCH-30.0 MCHC-32.9 RDW-14.0\n[**2182-12-11**] 07:18AM   NEUTS-83* BANDS-6* LYMPHS-5* MONOS-4 EOS-0\nBASOS-0 ATYPS-0 METAS-2* MYELOS-0\n[**2182-12-11**] 07:18AM   PT-15.1* PTT-25.5 INR(PT)-1.3*\n[**2182-12-11**] 07:24AM   LACTATE-0.7\n[**2182-12-11**] 04:12PM   GLUCOSE-66* UREA N-8 CREAT-0.2* SODIUM-142\nPOTASSIUM-4.3 CHLORIDE-115* TOTAL CO2-21* ANION GAP-10\n.\nCT CHEST/ABDOMEN/PELVIS [**2182-12-22**]\n1. Interval improvement in right lower lobe consolidation,\nhowever\ndevelopment of patchy consolidations and ground-glass opacities\nthroughout\nalmost the entire left lung. Ground-glass opacity also involves\nthe right\nlower lobe and right upper lobe. The differential diagnosis is\nbroad, as\nfindings are nonspecific, and includes infection, edema and\nhemorrhage.\n2. No specific signs of empyema, however, superinfection of\nsimple pleural\neffusions cannot be excluded.\n3. No abdominal fluid collection.\n4. Decompressed distal descending and sigmoid colon. No clear\nwall thickening.\n5. Trace abdominal ascites.\n6. Mild perirectal stranding. The differential diagnosis\nincludes proctitis and third spacing in the setting of fluid\noverload.\n.\nECHO [**2182-12-23**]:\nThe left atrium and right atrium are normal in cavity size. Left\nventricular wall thickness, cavity size and regional/global\nsystolic function are normal (LVEF >55%). Right ventricular\nchamber size and free wall motion are normal. The aortic valve\nleaflets (3) are mildly thickened but aortic stenosis is not\npresent. No aortic regurgitation is seen. The mitral valve\nleaflets are mildly thickened. Mild to moderate ([**1-5**]+) mitral\nregurgitation is seen. There is borderline pulmonary artery\nsystolic hypertension. There is no pericardial effusion.\n.\nIMPRESSION: Mild moderate mitral regurgitation. Normal\nbiventricular cavity sizes with preserved global and regional\nbiventricular systolic function.\nCompared with the prior study (images reviewed) of [**2181-3-6**], the\nfindings are similar.\n.\nCLINICAL IMPLICATIONS:\nBased on [**2179**] AHA endocarditis prophylaxis recommendations, the\necho findings indicate prophylaxis is NOT recommended. Clinical\ndecisions regarding the need for prophylaxis should be based on\nclinical and echocardiographic data.\n.\nG-TUBE PLACEMENT [**2182-12-25**]:\nSuccessful uncomplicated placement of 12 French Wills-[**Doctor Last Name 12433**]\ngastrostomy feeding tube. The tube can be used after 24 hours\nand needs to be left to\ngravity drainage overnight.\n.\nLENIS [**2182-12-20**]:\nNo evidence of deep vein thrombosis in either leg.\n.\nABDOMINAL ULTRASOUND [**2182-12-31**]:  No ascites in all four\nquadrants.  No subcutaneous fluid collection about G-tube\ninsertion site.\n\nBrief Hospital Course:\nThis is a 40-year-old woman with a history of ALL, s/p BMT [**2151**]\ncomplicated by radiation therapy-related pulmonary fibrosis\nrequiring LLL lung transplant from her father [**5-/2171**] (on no\nimmunosuppresants), further complicated by L main stem bronchus\nstenosis s/p metal stent placement [**9-/2176**] requiring serial\ndebridements over the years who on [**2182-12-9**] had bronchoscopy with\ndebridement/cryotherapy and EGD with esophageal dilatation and\npresents [**2182-12-11**] with hypercarbic respiratory failure.\n\n# RESPIRATORY FAILURE: One day prior to admission, patient\nunderwent IP stenting, debridement and re-opening of stenosis as\nwell as esophageal manipulation.  On admisison, Ms. [**Known lastname 27785**] had\nimpressive multi-focal infiltrates suggestive of overwhelming\npneumonia, likely the result of recent manipulations.  Patient\nwas started on broad spectrum antibiotics (initially Vanc/\nzosyn/ levoflox/ tobramycin/ tamiflu-->subsequently\nNaf/Cipro/zosyn/Azithro then Naf/Vanc/Cipro/Azithro); her final\nantibiotic regimen includes VANCOMYCIN and CEFEPIME.  She will\nfinish a 14-day course of vancomycin and cefepime on [**2183-1-6**].\n.\nMs. [**Known lastname 27785**] was eventually extubated on [**12-20**] however, became\nincreasingly tachycardic and tachypneic with RR of 40 and was\nunable to speak in full sentances.  Ms. [**Known lastname 27785**] was re-intubated\non [**12-21**].  She underwent bronchoscopy on [**12-24**] for evaluation of\nstent patency (was patent).  Lower extremity dopplers on [**12-20**]\nwere negative for DVTs.  Percutaneous Tracheostomy was placed on\n[**12-27**] and ventilator setting were slowly weaned.  Prior to\ntransfer, patient was doing well on trach collar.  She\noccasionally required suctioning for mucus plugging.\n.\n# LEUKOCYTOSIS: Trended down once antibiotics changed to Vanco\nand Cefepime on [**12-22**]. All repeat cultures NGTD.  Only culture\npending is a B-glucan.\n.\n# HYPOTENSION:  Patient had hypotension requiring neosynephrine.\nThis was felt to be secondary to infection/sepsis, sedation and\nPEEP. Pressors were weaned off on [**12-26**] and she remained\nhemodynamically stable with MAP> 55-60.\n.\n#. RIGHT GOING HEMATOMA: Small hematoma at sight of prior\nfemoral line.\n.\n# ELEVATED LIVER ENZYMES:  with mixed pattern of hepatocellular\ninjury and cholestasis.  DDx is resolving shock, drug toxicity\nand also acalculous cholecystitis. Per US on [**12-13**], Ms. [**Known lastname 27785**]\nis status-post cholecystectomy.  Enzymes are trending down.\n.\n# MALNUTRITION WITH COAGULOPATHY, ANEMIA, AND HYPOCALCEMIA:  A\nG-tube was placed and Ms. [**Known lastname 27785**] was started on Nutren\nPulmonary TFs.  These were supplemented with MCT. Banana flakes\nwere added for diarrhea; c.diff was negative.\n.\n# ANEMIA:  Hematocrit basically remained stable throughout\nhospitalization.  Patient was guaiac positive from below\nintermittently, though unclear source.  Ms. [**Name14 (STitle) 34709**] was\nmaintained on an H2 blocker.\n.\n# ANXIETY AND NIGHTMARES:  Amitryptyline 20 qhs.\n.\n# ABDOMINAL PAIN:  Ms. [**Known lastname 27785**] complained of abdominal pain\naround the site of her G-tube.  An ultrasound was performed on\n[**12-31**], which was negative for subcutaneous fluid collection\nabout G-tube insertion site.\n.\n# POSITIVE B-GLUCAN:  B-glucan was positive during admission.\nThere are multiple reasons for a positive B-glucan aside from\nfungal infection.  Ms. [**Known lastname 27785**] was [**Doctor Last Name **] exceptionally well on\nvancomycin and cefepime and as such, fungal coverage was not\nstarted.  If patient does poorly, she will need to be\nre-evaluated with fungal infection on the differential.\n\nMedications on Admission:\nPer records, unable to be reconciled\namitriptyline 20 mg daily, carvedilol 6.25 mg [**Hospital1 **], codeine\nsulfate 15 mg q4-6h prn cough, estradiol 10 mcg vaginal\nsuppository 3x weekly, estradiol-levonorgestrel 0.045-0.015\nmg/24 hr TD weekly, cholecalciferol 1,000U daily, medium chain\ntriglycerides (7.7 kcal/mL) 1 tbsp TID (pt cannot afford med\nyet), Nutren Pulmonary Lacfree 3 cans daily, polyvinyl alcohol\ndrops prn, Vit K 100mcg daily\n\nDischarge Medications:\n1. heparin (porcine) 5,000 unit/mL Solution Sig: One (1)\nInjection [**Hospital1 **] (2 times a day).\n2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n3. polyvinyl alcohol-povidone 1.4-0.6 % Dropperette Sig: [**1-5**]\nDrops Ophthalmic PRN (as needed) as needed for dryness.\n4. amitriptyline 10 mg Tablet Sig: Two (2) Tablet PO HS (at\nbedtime).\n5. chlorhexidine gluconate 0.12 % Mouthwash Sig: One (1) ML\nMucous membrane [**Hospital1 **] (2 times a day).\n6. ipratropium bromide 17 mcg/Actuation HFA Aerosol Inhaler Sig:\nTwo (2) Puff Inhalation Q6H (every 6 hours) as needed for\nsob/wheeze.\n7. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\nSix (6) Puff Inhalation Q6H (every 6 hours) as needed for\nsob/wheeze.\n8. white petrolatum-mineral oil 56.8-42.5 % Ointment Sig: One\n(1) Appl Ophthalmic PRN (as needed) as needed for dryness.\n9. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **]\n(2 times a day).\n10. fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr\nTransdermal Q72H (every 72 hours).\n11. camphor-menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical\n[**Hospital1 **] (2 times a day) as needed for itching.\n12. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H\n(every 6 hours) as needed for pain or fever.\n13. medium chain triglycerides 7.7 kcal/mL Oil Sig: Fifteen (15)\nML PO BID (2 times a day).\n14. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2\ntimes a day) as needed for constipation.\n15. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush\nTemporary Central Access-ICU: Flush with 10mL Normal Saline\ndaily and PRN.\n16. Heparin Flush (10 units/ml) 2 mL IV PRN line flush\nPICC, heparin dependent: Flush with 10mL Normal Saline followed\nby Heparin as above daily and PRN per lumen.\n17. ondansetron HCl (PF) 4 mg/2 mL Solution Sig: One (1)\nInjection Q8H (every 8 hours) as needed for nausea.\n18. famotidine(PF) in [**Doctor First Name **] (iso-os) 20 mg/50 mL Piggyback Sig:\nOne (1)  Intravenous Q12H (every 12 hours).\n19. diphenhydramine HCl 50 mg/mL Solution Sig: One (1)\nInjection Q6H (every 6 hours) as needed for itching.\n20. lorazepam 2 mg/mL Syringe Sig: One (1)  Injection Q4H (every\n4 hours) as needed for anxiety, insomnia.\n21. cefepime 1 gram Recon Soln Sig: One (1) Recon Soln Injection\nQ8H (every 8 hours).\n22. fentanyl citrate (PF) 50 mcg/mL Solution Sig: One (1)\nInjection Q4H (every 4 hours) as needed for breakthrough pain.\n23. heparin, porcine (PF) 10 unit/mL Syringe Sig: One (1) ML\nIntravenous PRN (as needed) as needed for line flush.\n24. heparin lock flush (porcine) 100 unit/mL Syringe Sig: One\n(1) ML Intravenous PRN (as needed) as needed for DE-ACCESSING\nport.\n25. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1)\nIntravenous Q 12H (Every 12 Hours).\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 685**]\n\nDischarge Diagnosis:\n1.  Pneumonia\n2.  Respiratory failure\n3.  Tracheostomy and G-tube placement\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\nDischarge Instructions:\nDear Ms. [**Known lastname 27785**],\nIt was a pleasure taking care of you on this admission.  You\ncame to the hospital with a bad pneumonia.  We treated you with\nantibiotics and you improved.  A bronchoscopy revealed a patent\nstent.  It was difficult to wean you from the ventilator so we\nended up putting in a tracheostomy.  You are doing very well\nwith the trach, and hopefully you will continue to wean at\nrehab.\n.\nPlease see the attached updated medication list.\n.\nPlease keep all of your follow-up appointments.\n.\nReturn to the hospital if you develop worsening shortness of\nbreath, chest pain, nausea, vomiting, diarrhea, headache,\nfevers, chills, or any other concerning signs or symptoms.\n\nFollowup Instructions:\nDepartment: WEST PROCEDURAL CENTER\nWhen: MONDAY [**2183-1-13**] at 6:45 AM ARRIVAL\nWith: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 5072**]\nBuilding: De [**Hospital1 **] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **]\nCampus: WEST     Best Parking: [**Street Address(1) 592**] Garage\n\nDepartment: WEST PROCEDURAL CENTER\nWhen: MONDAY [**2183-1-13**] at 7:30 AM [**Telephone/Fax (1) 5072**]\nBuilding: [**Hospital Ward Name 121**] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **]\nCampus: WEST     Best Parking: [**Street Address(1) 592**] Garage\n\nDepartment: WEST PROCEDURAL CENTER\nWhen: MONDAY [**2183-1-13**] at 8:00 AM\nWith: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 5072**]\nBuilding: De [**Hospital1 **] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **]\nCampus: WEST     Best Parking: [**Street Address(1) 592**] Garage\n\nDepartment: WEST PROCEDURAL CENTER\nWhen: MONDAY [**2183-1-13**] at 8:00 AM\nWith: WPC ROOM TWO [**Telephone/Fax (1) 5072**]\nBuilding: [**Hospital Ward Name 121**] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **]\nCampus: WEST     Best Parking: [**Street Address(1) 592**] Garage\nNOTE: NOTHING TO EAT OR DRINK AFTER MIDNITE BEFORE THESE APPTS\nON [**2183-1-13**].  YOU WILL ALSO BE HAVING A FLEXIBLE BRONCHOSCOPY ON\nTHIS DAY.  ANY QUESTIONS, CALL DR [**Last Name (STitle) **].\n\n\n"
+    },
+    {
+      "note_id": 10509,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 326,
+          "end": 335,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "description": "Dysphagia, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "dysphagia"
+        },
+        {
+          "begin": 7044,
+          "end": 7064,
+          "code": "530.3",
+          "code_system": "ICD-9-CM",
+          "description": "Stricture and stenosis of esophagus",
+          "type": "MapType.EXACT",
+          "covered_text": "Esophageal stricture"
+        },
+        {
+          "begin": 7230,
+          "end": 7251,
+          "code": "136.3",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumocystosis",
+          "type": "MapType.EXACT",
+          "covered_text": "Pneumocystis Jiroveci"
+        },
+        {
+          "begin": 7279,
+          "end": 7293,
+          "code": "054.8",
+          "code_system": "ICD-9-CM",
+          "description": "Herpes simplex with unspecified complication",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Herpes Simplex"
+        },
+        {
+          "begin": 7306,
+          "end": 7319,
+          "code": "524.61",
+          "code_system": "ICD-9-CM",
+          "description": "Adhesions and ankylosis (bony or fibrous)",
+          "type": "MapType.APPROX",
+          "covered_text": "TMJ Ankylosis"
+        },
+        {
+          "begin": 7347,
+          "end": 7366,
+          "code": "366.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified cataract",
+          "type": "MapType.EXACT",
+          "covered_text": "Bilateral cataracts"
+        },
+        {
+          "begin": 7426,
+          "end": 7446,
+          "code": "568.0",
+          "code_system": "ICD-9-CM",
+          "description": "Peritoneal adhesions (postoperative) (postinfection)",
+          "type": "MapType.APPROX",
+          "covered_text": "Intestinal Adhesions"
+        },
+        {
+          "begin": 8056,
+          "end": 8070,
+          "code": "519.19",
+          "code_system": "ICD-9-CM",
+          "description": "Other diseases of trachea and bronchus",
+          "type": "MapType.APPROX",
+          "covered_text": "bronchomalacia"
+        },
+        {
+          "begin": 8074,
+          "end": 8083,
+          "code": "430",
+          "code_system": "ICD-9-CM",
+          "description": "Subarachnoid hemorrhage",
+          "type": "MapType.APPROX",
+          "covered_text": "Bilat SAH"
+        }
+      ],
+      "text": "Admission Date:  [**2182-12-9**]              Discharge Date:   [**2182-12-10**]\n\nDate of Birth:  [**2142-12-11**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nSulfa (Sulfonamide Antibiotics) / Compazine / Tetanus / Morphine\n/ Cefoxitin / Codeine / Lactose\n\nAttending:[**First Name3 (LF) 4679**]\nChief Complaint:\ndysphagia\n\nMajor Surgical or Invasive Procedure:\n[**2182-12-9**]:\nEGD with dilation and left main stem cryoablation of granulation\ntissue.\n\n\nHistory of Present Illness:\nMs [**Known lastname 27785**] is a 39-year-old woman with a complicated medical\nhistory including acute lymphocytic leukemia at age 4, status\npost bone marrow transplant, radiation therapy complicated by\nlung fibrosis requiring living donor lung transplant from her\nfather. This was further complicated by left main stem stenosis\nrequiring metal stent placement 5 years ago. Since then she has\nbeen requiring repeated bronchoscopies for stent evaluation,\nclean out and granulation tissue removal. She was last seen by\ninterventional pulmonary service in [**2182-5-4**]. After that time\nshe\nhad been doing OK in terms of her breathing, but about one month\nago she started having dry cough, and then dyspnea on exertion,\nboth of which have been worsening, which prompted her consult\nwith us today. Her cough is worse at night, and is not\nproductive. Her dyspnea is currently with mild to moderate\nexertion, like going up one flight of stairs. She was brought in\nfor rigid bronch and cryoablation of left main stem granulation\ntissue.\n\nThe patient also has esophageal stricture requiring past EGD\nwith dilation. Given dysphagia, the patient was also brought in\nfor combined EGD with dilation.\n\n\nPast Medical History:\nPAST MEDICAL HISTORY:\n1- ALL since age 4\n2- S/P Bone marrow transplant, and lung transplant from\nradiation\nfibrosis. The both of them were donated by her father.\n3- Pneumocystis Jiroveci Pneumonia in [**2152**]\n4- Herpes Simplex 2 (oral)\n5- TMJ Ankylosis with small oral opening\n6- Bilateral cataracts\n7- Esophagel stricture\n8- LL pneumonia ([**2179-3-7**])\n9- Intestinal Adhesions\n10- Basal Cell Ca (Back - upper chest)\n11- Edentulous with full dentures due to major dental work (now\nmissing her lower dentures, as described above).\n\nPAST SURGICAL HISTORY:\n1- Surgical Debridement of thigh abcess from IM pentamidine [**2152**]\n2- Appendectomy [**2163**]\n3- Laparoscopy to remove ovarian cysts [**2162**]\n4- S.P Small bowel perforation complicated with candidal and\nbacterial paeritonitis requiring antifungals and antibiotics\n5- Cholecystectomy\n6- Pulmonary fibrosis S/P living related donor from father [**Name (NI) 25730**]\ntransplant)\n7- Post pericardiotomy syndrome [**2170**]\n8- L MS bronchomalacia\n9- Bilat SAH\n10- Ilesotomy and enterococcus fistula and reversed 10 months\nlater at [**Hospital1 112**]\n11- Closing of enterocutaneous fistula and ostomy [**2174**]\n12- S/P port placement for IV access [**9-7**]\n13- LMS granuloma debridement and mitomycin\n14- Esophageal dilatation [**2-11**] - [**7-11**]\n15- Debridement of granulation tissue around stent\n[**88**]- Pneumothorax post bronchoscopy with stent granulation tissue\ndebridement.\n\n\nSocial History:\nLives at home alone, with family that can help her. No smoking.\n\nPhysical Exam:\nVS on day of discharge.\nT 97.8, HR 90's SR , BP 95/45, RR 18 94% RA\nPhysical Exam on discharge:\nGen: pleasant in NAD\nNeuro: alert and oriented x 4 without deficits\nLungs: wheezes t/o\nCV: Fast RRR S1, S2, no MRG or JVD\nAbd: soft, NT, ND\nExt: warm, without edema\n\n\nPertinent Results:\n[**2182-12-9**] 10:42PM BLOOD WBC-21.0*# RBC-3.04* Hgb-9.1* Hct-27.4*\nMCV-90 MCH-30.1 MCHC-33.4 RDW-13.9 Plt Ct-475*#\n[**2182-12-9**] 10:42PM BLOOD Neuts-95.0* Lymphs-2.5* Monos-1.7*\nEos-0.4 Baso-0.3\n[**2182-12-9**] 10:42PM BLOOD Glucose-72 UreaN-9 Creat-0.3* Na-134\nK-3.9 Cl-99 HCO3-26 AnGap-13\n[**2182-12-9**] 10:42PM BLOOD Calcium-7.9* Phos-2.3* Mg-1.7\n\nCXR [**2182-12-10**]:\nFINDINGS: As compared to the previous radiograph, the\npre-existing left\nparenchymal opacities have slightly decreased in severity. The\nright upper\nlobe opacity is unchanged. There is no evidence of pneumothorax.\n\n\nCXR [**2182-12-9**]:\n\nFINDINGS: As compared to the previous radiograph, there is\nminimal\nimprovement with better ventilation of both lungs and minimal\nregression of both the right upper lobe and the left lower lobe\nopacity. No parenchymal opacities have newly occurred. The size\nof the cardiac silhouette is unchanged. There is no evidence of\npneumothorax.\n\n\nBrief Hospital Course:\nMs. [**Known lastname 27785**] was taken to the operating room on [**2182-12-9**] by Dr.\n[**Last Name (STitle) **] and Dr. [**First Name (STitle) **] where she underwent EGD with dilation for her\nesophageal stricture and rigid bronchoscopy with cryoablation of\nthe granulation tissue surrounding the left main stem stent. She\nrecovered in the PACU, but over the evening developed\nrespiratory distress, therefore was admitted under Thoracic\nsurgery and stayed in PACU with Bipap. Her respiratory status\nimproved with bipap, albuterol, and morphine. She was observed\nand in the morning, after examination by IP attending Dr. [**Last Name (STitle) **]\nand the Thoracic surgery service, and review of chest xray, the\npatient was deemed stable for discharge home. The patient was\nambulating oxygenating mid 90's on RA, stating she felt much\nimprovement from the evening without shortness of breath. She\nwas tolerating a regular meal without dysphagia. She did not\nhave any pain. She was given albuterol for wheezing per the\npulmonary team with a script for guaifenesin with codeine for\ncough. Her home medications were resumed.\n\nMedications on Admission:\namitriptyline 10 mg Tablet Sig: Two (2) Tablet PO HS (at\nbedtime).\ncarvedilol 3.125 mg Tablet Sig: Two (2) Tablet PO twice a day.\nVagifem 10 mcg Tablet Sig: One (1) tab Vaginal three times per\nweek.\nClimara Pro 0.045-0.015 mg/24 hr Patch Weekly Sig: One (1) patch\nTransdermal as directed.\nVitamin D-3 1,000 unit Tablet, Chewable Sig: One (1) Tablet,\nChewable PO once a day.\nvitamin K 100 mcg Tablet Sig: One (1) Tablet PO once a day.\n\n\nDischarge Medications:\n1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\nTwo (2) puffs Inhalation q 4 hours prn  as needed for shortness\nof breath or wheezing.\nDisp:*1 2* Refills:*0*\n2. amitriptyline 10 mg Tablet Sig: Two (2) Tablet PO HS (at\nbedtime).\n3. Guaifenesin AC 10-100 mg/5 mL Liquid Sig: Ten (10) ML PO q 6\nhours prn as needed for cough: do not drive while on this as it\nmay cause drowsiness. Take stool softeners to avoid\nconstipation.\nDisp:*250 ML(s)* Refills:*0*\n4. carvedilol 3.125 mg Tablet Sig: Two (2) Tablet PO twice a\nday.\n5. Vagifem 10 mcg Tablet Sig: One (1) tab Vaginal three times\nper week.\n6. Climara Pro 0.045-0.015 mg/24 hr Patch Weekly Sig: One (1)\npatch Transdermal as directed.\n7. Vitamin D-3 1,000 unit Tablet, Chewable Sig: One (1) Tablet,\nChewable PO once a day.\n8. vitamin K 100 mcg Tablet Sig: One (1) Tablet PO once a day.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nLeft main stem stenosis\nEsophageal stricture\nPAST MEDICAL HISTORY:\n1- ALL since age 4\n2- S/P Bone marrow transplant, and lung transplant from\nradiation\nfibrosis. The both of them were donated by her father.\n3- Pneumocystis Jiroveci Pneumonia in [**2152**]\n4- Herpes Simplex 2 (oral)\n5- TMJ Ankylosis with small oral opening\n6- Bilateral cataracts\n7- Esophagel stricture\n8- LL pneumonia ([**2179-3-7**])\n9- Intestinal Adhesions\n10- Basal Cell Ca (Back - upper chest)\n11- Edentulous with full dentures due to major dental work (now\nmissing her lower dentures, as described above).\n\nPAST SURGICAL HISTORY:\n1- Surgical Debridement of thigh abcess from IM pentamidine [**2152**]\n2- Appendectomy [**2163**]\n3- Laparoscopy to remove ovarian cysts [**2162**]\n4- S.P Small bowel perforation complicated with candidal and\nbacterial paeritonitis requiring antifungals and antibiotics\n5- Cholecystectomy\n6- Pulmonary fibrosis S/P living related donor from father [**Name (NI) 25730**]\ntransplant)\n7- Post pericardiotomy syndrome [**2170**]\n8- L MS bronchomalacia\n9- Bilat SAH\n10- Ilesotomy and enterococcus fistula and reversed 10 months\nlater at [**Hospital1 112**]\n11- Closing of enterocutaneous fistula and ostomy [**2174**]\n12- S/P port placement for IV access [**9-7**]\n13- LMS granuloma debridement and mitomycin\n14- Esophageal dilatation [**2-11**] - [**7-11**]\n15- Debridement of granulation tissue around stent\n[**88**]- Pneumothorax post bronchoscopy with stent granulation tissue\ndebridement.\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nCall Dr. [**First Name (STitle) **] or Dr. [**Last Name (STitle) **] at [**Telephone/Fax (1) 2348**] if you experience:\nfevers, chills, nightsweats, shakes, difficult or painful\nswallowing, shortness of breath or cough.\n\nResume all home medications.\n\nGiven is a script for albuterol which will help you if you have\nwheezing or a tight airway with shortness of breath. If used and\nyour breathing does not improve call us.\n\nFollowup Instructions:\nFollowup with Dr. [**Last Name (STitle) **] and Dr. [**First Name (STitle) **] in two weeks. Please obtain\na chest xray 30 minutes before your visit. You should here from\nour office in the next few days regarding your appointment time,\nif not call [**Telephone/Fax (1) 2348**].\n\n\n\nCompleted by:[**2182-12-11**]"
+    }
+  ]
+}

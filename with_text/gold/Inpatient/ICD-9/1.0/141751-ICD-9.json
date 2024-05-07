@@ -1,0 +1,86 @@
+{
+  "hadm_id": 141751,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 22980,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2689,
+          "end": 2703,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "MapType.APPROX",
+          "covered_text": "Morbid obesity"
+        },
+        {
+          "begin": 2745,
+          "end": 2757,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 9603,
+          "end": 9607,
+          "code": "309.81",
+          "code_system": "ICD-9-CM",
+          "description": "Posttraumatic stress disorder",
+          "type": "Human",
+          "covered_text": "PTSD"
+        },
+        {
+          "begin": 9608,
+          "end": 9615,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "Human",
+          "covered_text": "ANXIETY"
+        },
+        {
+          "begin": 10122,
+          "end": 10134,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HYPERTENSION"
+        },
+        {
+          "begin": 10576,
+          "end": 10586,
+          "code": "427.9",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac dysrhythmia, unspecified",
+          "type": "Human",
+          "covered_text": "ARRHYTHMIA"
+        },
+        {
+          "begin": 11005,
+          "end": 11008,
+          "code": "327.23",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "Human",
+          "covered_text": "OSA"
+        },
+        {
+          "begin": 12431,
+          "end": 12462,
+          "code": "287.31",
+          "code_system": "ICD-9-CM",
+          "description": "Immune thrombocytopenic purpura",
+          "type": "Human",
+          "covered_text": "Immune Thrombocytopenic Purpura"
+        }
+      ],
+      "text": "Admission Date:  [**2130-1-21**]              Discharge Date:   [**2130-1-25**]\n\nDate of Birth:  [**2083-8-19**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nShellfish\n\nAttending:[**First Name3 (LF) 5606**]\nChief Complaint:\nPetechial rash\n\nMajor Surgical or Invasive Procedure:\nNone\n\nHistory of Present Illness:\nMs. [**Known lastname 59319**] is a 46F with a history of mild asthma, obesity,\nhypertension and chronic lower back pain who presents with a\npetechial rash to body (starting on right hand, also noticed\nspread to forehead) and tongue since yesterday. She also had\nsome bloody mucous with blowing her nose, but no gross\nepistaxis. She went to her PCP's office this morning, where she\nwas seen in urgent care by [**Name8 (MD) **] NP; bloodwork there was notable\nfor platelets of zero and ESR of 36. She was therefore referred\ninto [**Hospital1 18**] for further evaluation.\n\nShe reports use of hydrocodone x 1 dose for musculoskeletal pain\nabout a week prior to presentation. Otherwise, she denies any\nrecent medication changes or over-the-counter/herbal\nmedications, including no other pain medications or antibiotics.\n(There is a prescription for ophthalmic erythromycin ointment in\n[**Hospital1 **] records from the end of [**Month (only) 404**], but patient\nstates she never filled this prescription as it was not needed.)\n\nIn the ED, initial VS were: T 99.3, HR 63, BP 143/90, RR 16, O2\nsat 100% on RA. Hematology was contact[**Name (NI) **] and recommended 100 mg\nPO prednisone and 1 unit platelets. While in the ED, patient\ndeveloped a headache and was sent for head CT to rule out bleed\n(negative preliminarily for bleed). Hematology recommended\nfrequent neuro checks overnight given the hemorrhagic bullae in\nthe mouth (sometimes associated with intracranial bleed), which\nis the reason for ICU admission. Vitals on transfer were T98.7,\nHR 62, RR 16, BP 123/76, 98% on RA.\n.\nOn arrival to the MICU, she reports that her headache has\nresolved. She feels dehydrated due to nothing to drink since\n11AM, and also hungry. Otherwise, no complaints.\n.\nReview of systems:\n(+) Per HPI\n(-) Denies fever, chills, night sweats, recent weight loss or\ngain. Has felt fatigue recently, but she has attributed this to\nstress over her divorce. Denies sinus tenderness, rhinorrhea or\ncongestion though endorses sore throat for about 2 weeks which\nshe has attributed to \"allergies.\" Denies cough, shortness of\nbreath, or wheezing. Denies chest pain, chest pressure,\npalpitations, or weakness. Denies nausea, vomiting, diarrhea,\nconstipation, abdominal pain, or changes in bowel habits. Denies\ndysuria, frequency, or urgency. Denies arthralgias or myalgias.\n\n\nPast Medical History:\n- Morbid obesity\n- Asthma (not on medication)\n- Essential hypertension\n- Chronic lower back pain following fall in [**2117**] (fell from a\nfire escape that gave way; had two herniated disks, sacral\nfracture, abdominal hematoma which required \"panniculectomy\" to\ntreat; chronic bursitis in hip and chronic pain are\nconsequences, though not on pain medication)\n- History of abnormal LFTs (currently WNL)\n- Impaired fasting glucose\n- Rapid weight loss followed by weight re-gain a few years ago\n- Domestic abuse by ex-husband\n- [**Name (NI) **] apnea requiring CPAP\n- \"Arrhythmia\" for which she takes atenolol (? PVCs per Atrius\nrecords, unable to locate Holter study from [**2126**])\n- \"Water weight\" problems (no known heart problems)\n- Peripheral neuropathy in feet/hands of unclear etiology (has\nbeen told related to swelling, B12 deficiency, carpal tunnel in\nhands)\n- PTSD related to her fall as well as to history of abuse by her\nhusband and other instances of high stress (son sick as a child)\n\nSurgical history:\n- Panniculectomy x 2\n- Lipectomy (complicated by infection requiring two subsequent\nprocedures)\n- C-sections x 2\n\n\nSocial History:\nCurrently lives with 7-year old daughter and periodically hosts\n[**Name (NI) **] exchange students. 20-year old son lives with her part-time.\nShe has been engaged in an expensive and drawn out custody\nbattle with her ex-husband for the past two and a half years,\nwhom she says has been physically abusive toward her and has\nalso threatened to kill her.  Currently, she is in a\n\"quasi-relationship\" with a male partner, with whom she is\nsexually active by oral/anal sex (no vagnial sex). Significant\nsocial stress related to interactions with her ex-husband.\n- Tobacco: Never-smoker\n- Alcohol: None\n- Illicits: None\n\nFamily History:\nFather with diabetes and hypertension; mother with hypertension\nand reduced EF, paternal grandfather and great uncles with CAD.\nBrother has [**Name (NI) 13808**] (carrier for hemochromatosis) and has had\nbleeding/coagulopathy. No known FH of autoimmune disease or ITP.\n\n\nPhysical Exam:\nOn admission:\nGeneral: Alert, oriented, no acute distress. Periodically\ntearful during interview.\nSkin: Scattered petechiae over face, arms, legs, upper torso.\nEcchymoses on right arm at site of forearm BP cuff.\nHEENT: Sclera anicteric, no conjunctival hemorrhage, MMM, EOMI,\nPERRL. Hemorrhagic bullae on top center of tongue, under tongue,\nleft buccal mucosa.\nNeck: supple, JVP not elevated, no LAD\nCV: Regular rate and rhythm, distant S1 + S2, no murmurs, rubs,\ngallops\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nAbdomen: soft/obese, non-tender, non-distended, bowel sounds\npresent, no clear organomegaly but difficult to palpate given\nbody habitus\nGU: no foley\nExt: warm, well perfused, minimal LE edema but significant\nadipose tissue on lower extremities\nNeuro: No focal deficits appreciated; patient upset due to\nstress/PTSD and unable to cooperate with full exam at this time\n\n\nPertinent Results:\nLabs at [**Hospital1 **] [**2130-1-21**]:\n- Antistreptolysin O titer (pending at time of admission)\n- Smear from [**Hospital1 **] notable for zero platelets seen\n- Chem-7, liver panel all WNL (except for glucose 111)\n- Coags WNL\n- CBC 6.5/13.8/41/0, normal differential\n- ESR 36\n\nLabs on admission to [**Hospital1 18**]:\n[**2130-1-21**] 01:20PM   GLUCOSE-89 UREA N-13 CREAT-0.8 SODIUM-142\nPOTASSIUM-3.3 CHLORIDE-101 TOTAL CO2-24 ANION GAP-20\n[**2130-1-21**] 01:20PM   ALT(SGPT)-29 AST(SGOT)-28 LD(LDH)-255* ALK\nPHOS-56 TOT BILI-0.4\n[**2130-1-21**] 01:20PM   ALBUMIN-4.0 CALCIUM-9.2 PHOSPHATE-3.6\nMAGNESIUM-1.8\n[**2130-1-21**] 01:20PM   WBC-7.3 RBC-4.57 HGB-14.4 HCT-40.1 MCV-88\nMCH-31.4 MCHC-35.9* RDW-13.0\n[**2130-1-21**] 01:20PM   NEUTS-58.4 LYMPHS-33.3 MONOS-4.8 EOS-2.1\nBASOS-1.4\n[**2130-1-21**] 01:20PM   HYPOCHROM-NORMAL ANISOCYT-OCCASIONAL\nPOIKILOCY-OCCASIONAL MACROCYT-NORMAL MICROCYT-OCCASIONAL\nPOLYCHROM-NORMAL OVALOCYT-OCCASIONAL\n[**2130-1-21**] 01:20PM   PLT COUNT-5*\n[**2130-1-21**] 01:20PM   PT-11.6 PTT-31.6 INR(PT)-1.1\n\nMicrobiology:\n- EBV IgM\n- EBV IgG\n- HIV 1&2 antibody:\n\nImaging:\n\nCT HEAD W/O CONTRAST [**2130-1-21**]: No evidence of acute intracranial\nprocess. No definite evidence of intracranial hemorrhage.\n\n\nBrief Hospital Course:\n46 yo F with morbid obesity and hypertension who presented with\npetechial rash, found to have platelets of 0. Assumed to be ITP\nand started on steroids.\n\nACTIVE ISSUES:\n# THROMBOCYTOPENIA: Platelet count on admission was markedly\nabnormal at 5, which explains the patient's petechial rash. She\nis not known to have any chronic condition associated with low\nplatelets and has no history of similar symptoms. Differential\nis broad and includes ITP, TTP, and pregnancy-related,\ndrug-induced, and viral causes (no history to support\ngenetic/congenital conditions).  Serum hCG is negative which\nrules out gestational cause. She had not used medications\n(heparin, sulfonamides) commonly known to cause drug-induced\nthrombocytopenia. Smear was negative for schistocytes, making\nTTP unlikely. HCV, H pylori, EBV and HIV serologies were sent\nand returned negative for acute infection. Given the absence of\nother suggestive cause, the most likely etiology for the\npatient's presentation was felt to be ITP. She was evaluated by\nthe hematology service, who recommended treatment with high-dose\nprednisone (initial dose of 100 mg PO daily was increased to 150\nmg PO daily given patient's body weight of ~375lbs and desire to\navoid use of IVIg, which could be dangerous in this patient if\nused according to weight-based dosing guidelines). Given oral\nlesions which are associated with intracranial hemorrhage, she\nwas admitted to the MICU for close monitoring overnight. A head\nCT was done and read as negative for acute bleed. She received a\npartial platelet transfusion on admission (stopped due to\ndevelopment of hives as below).  Further platelet transfusions\nwere not required.  Platelet count trended up to 68 on\ndischarge. She was discharged on prednisone 150mg daily with\nfollowup with heme.\n\n# ALLERGIC REACTION: Patient began receiving a platelet\ntransfusion on arrival to ICU. About 10 minutes into the\ntransfusion, she developed hives on face, a \"heavy\" sensation in\nher chest and subjective SOB (had normal RR, no wheezing, no\ndesaturation, no evidence of angioedema or stridor). The\ntransfusion was discontinued, and she received 50 mg of IV\ndiphenhydramine and 20 mg of IV famotidine. She became very\nemotional (crying) and stated that this response reminded her of\na scary experience with her son's breathing when he was young\nand that it had triggered her PTSD. After approximately 20-30\nminutes hives began to resolve, and resolution was cmoplete by\none hour. She never developed objective evidence of respiratory\ncompromise. Emotional response was aided by one dose of IV\nlorazepam, supportive listening by staff, and speaking with her\nfamily on the phone.\n\n# PTSD/ANXIETY/SOCIAL STRESS: Patient was very tearful when she\ndeveloped hives. She reported flashbacks to when her son was ill\nat [**Hospital3 1810**] years ago.  She also was very concerned\nabout her on-going custody battle with her ex-husband and his\npotential to use her hospitalization to claim custody of their\n7-year old daughter.  She received one dose of IV lorazepam\novernight on the night of admission, and was seen by social work\nconsult the following day. Required PO ativan as needed.\n\nINACTIVE ISSUES:\n\n# HYPERTENSION: The patient was generally normotensive with SBPs\nranging ~115-140 off of medication. Her home antihypertensives\nwere held on admission at the recommendation of hematology\n(though chlorthalidone, lisinopril and atenolol have not been\ncommonly associated with thrombocytopenia, there have been case\nreports of low platelets with chlorthalidone and captopril),\nwith a plan to restart one medication at a time once platelets\nbecome stable.\n\n# \"ARRHYTHMIA\": Patient reported a history of \"arrhythmia\" on\nadmission which she states is the reason she uses the atenolol.\nThe \"arrhythmia\" seems most likely due to palpitations from PVCs\nbased on limited documentation in [**Hospital1 **] primary care\nand cardiology notes. She was monitored on telemetry in the ICU\nand other than sinus bradycardia to the 50s with sleep, no\narrhythmias were noted. She remained asymptomatic.\n\n# OSA: Patient reported using CPAP at home but did not know her\nsettings. She was seen by the respiratory therapist who selected\nsettings that resulted in good-quality sleep in-house per\npatient report. She required continuous O2 monitoring per\nhospital protocol, although she eventually requestd it be\nremoved.\n\n\nMedications on Admission:\n- Atenolol 25 mg PO daily\n- Chlorthalidone 25 mg PO daily\n- Lisinopril 20 mg PO daily\n- Cholecalciferol, Vitamin D3 2,000 unit PO daily (when\nremembers)\n- Vitamin B12 PO daily (when remembers)\n\n\nDischarge Medications:\n1. atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.\n2. chlorthalidone 25 mg Tablet Sig: One (1) Tablet PO once a\nday.\n3. lisinopril 20 mg Tablet Sig: One (1) Tablet PO once a day.\n4. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: One (1)\nTablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*0*\n5. calcium carbonate 400 mg Tablet, Chewable Sig: One (1)\nTablet, Chewable PO three times a day.\nDisp:*90 Tablet, Chewable(s)* Refills:*0*\n6. cyanocobalamin (vitamin B-12) 100 mcg Tablet Sig: 0.5 Tablet\nPO DAILY (Daily).\n7. prednisone 50 mg Tablet Sig: Three (3) Tablet PO DAILY\n(Daily).\nDisp:*90 Tablet(s)* Refills:*0*\n8. famotidine 20 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*0*\n9. Bactrim DS 800-160 mg Tablet Sig: One (1) Tablet PO once a\nday.\nDisp:*30 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nImmune Thrombocytopenic Purpura\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\nDischarge Instructions:\nMs. [**Known lastname 59319**],\n\nYou were admitted to [**Hospital1 18**] with low platelets that were thought\nto be due to a condition called Immune Thrombocytopenic Purpura.\nYou were given steroids which have increased your platelet\nnumbers. You will need to continue these steroids until the\nhematologist asks you to taper them.\n\nMedication Changes\nPlease START prednisone 150mg daily (until tapered by your\ndoctor)\nPlease START bactrim 1 DS tab daily for pneumonia prophylaxis\nPlease START famotidine 20mg daily for ulcer prophylaxis\n\nFollowup Instructions:\nName: [**Last Name (LF) **],[**First Name3 (LF) **] A.\nLocation: [**Location (un) 2274**] [**Location 1268**], Internal Medicine\nAddress: 291 INDEPENDENCE DR, [**Location **],[**Numeric Identifier 1700**]\nPhone: [**Telephone/Fax (1) 1701**]\nAppt:  [**2-3**] at 10:40am\n\nName: [**Last Name (LF) 349**], [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD\nLocation: [**Location (un) 2274**] [**Location (un) **], Oncology\nAddress: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 718**]\nPhone: [**Telephone/Fax (1) 3468**]\nAppt:  [**1-30**] at 3:30pm\n\n\n\n"
+    }
+  ]
+}

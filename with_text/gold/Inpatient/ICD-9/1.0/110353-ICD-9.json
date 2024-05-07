@@ -1,0 +1,158 @@
+{
+  "hadm_id": 110353,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 41982,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2853,
+          "end": 2868,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "Diabetes type 2"
+        },
+        {
+          "begin": 2872,
+          "end": 2884,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 2888,
+          "end": 2900,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 3220,
+          "end": 3243,
+          "code": "V43.64",
+          "code_system": "ICD-9-CM",
+          "description": "Hip joint replaced by other means",
+          "type": "MapType.APPROX",
+          "covered_text": "R total hip replacement"
+        },
+        {
+          "begin": 8253,
+          "end": 8256,
+          "code": "414.00",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of vessel, native or graft",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 8257,
+          "end": 8268,
+          "code": "V45.81",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical aortocoronary bypass status",
+          "type": "Human",
+          "covered_text": "s/p 3V CABG"
+        },
+        {
+          "begin": 8292,
+          "end": 8298,
+          "code": "412",
+          "code_system": "ICD-9-CM",
+          "description": "Old myocardial infarction",
+          "type": "MapType.EXACT",
+          "covered_text": "NSTEMI"
+        },
+        {
+          "begin": 8304,
+          "end": 8321,
+          "code": "V45.01",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac pacemaker in situ",
+          "type": "Human",
+          "covered_text": "DDD pacer implant"
+        },
+        {
+          "begin": 8484,
+          "end": 8496,
+          "code": "038.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified septicemia",
+          "type": "Human",
+          "covered_text": "Septic shock"
+        },
+        {
+          "begin": 8515,
+          "end": 8538,
+          "code": "E878.1",
+          "code_system": "ICD-9-CM",
+          "description": "Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",
+          "type": "Human",
+          "covered_text": "aortic valve dehiscence"
+        },
+        {
+          "begin": 9431,
+          "end": 9433,
+          "code": "427.1",
+          "code_system": "ICD-9-CM",
+          "description": "Paroxysmal ventricular tachycardia",
+          "type": "MapType.APPROX",
+          "covered_text": "VT"
+        },
+        {
+          "begin": 10002,
+          "end": 10017,
+          "code": "V58.66",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of aspirin",
+          "type": "MapType.EXACT",
+          "covered_text": "ASA 81 mg daily"
+        },
+        {
+          "begin": 10063,
+          "end": 10071,
+          "code": "V58.61",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of anticoagulants",
+          "type": "MapType.EXACT",
+          "covered_text": "Coumadin"
+        },
+        {
+          "begin": 10475,
+          "end": 10487,
+          "code": "785.52",
+          "code_system": "ICD-9-CM",
+          "description": "Septic shock",
+          "type": "Human",
+          "covered_text": "Septic Shock"
+        },
+        {
+          "begin": 10497,
+          "end": 10509,
+          "code": "424.90",
+          "code_system": "ICD-9-CM",
+          "description": "Endocarditis, valve unspecified, unspecified cause",
+          "type": "Human",
+          "covered_text": "Endocarditis"
+        },
+        {
+          "begin": 10510,
+          "end": 10547,
+          "code": "996.02",
+          "code_system": "ICD-9-CM",
+          "description": "Mechanical complication due to heart valve prosthesis",
+          "type": "Human",
+          "covered_text": "Mechanical Disruption of aortic valve"
+        }
+      ],
+      "text": "Admission Date:  [**2122-10-31**]              Discharge Date:   [**2122-11-2**]\n\nDate of Birth:  [**2061-9-18**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPenicillins / Beta-Blockers (Beta-Adrenergic Blocking Agts)\n\nAttending:[**First Name3 (LF) 7333**]\nChief Complaint:\nSyncope\n\nMajor Surgical or Invasive Procedure:\n-Central Venous Line Placement\n-Dialysis Line Placement\n\n\nHistory of Present Illness:\n61M transferred from [**Hospital3 26615**] hospital with CAD s/p 3V CABG\nand AVR @ [**Hospital3 2358**] [**4-/2121**] (90% distal left main extending to\nLAD and ostium of LCX with 80% mid-RCA) for NSTEMI, s/p DDD\npacer implant for intermittent complete heart block @ [**Hospital1 3343**] [**9-/2122**] transferred from OSH for evaluation and\nmanagement of VT with HD instability requiring shocks x 1. He\nwas admitted to OSH after being started back on metoprolol which\ncaused him symptoms of light-headedness, lethargy, and mental\nslowing (which he had previously experienced leading him to stop\ntaking metoprolol and lisinopril). He stopped the medication\nhimself and began to feel better but became extremely SOB when\nwalking up stairs and ended up lying on the floor due to his\ninability to catch his breath which prompted him to call 911 and\npresent to OSH. He was assessed has possibly having ACS and\nunderwent ROMI with trops <0.03 -> 0.16 -> 0.12, negative MB's\nthroughout and EKG with pacer rhythm and 100% capture. He was\nstarted on ASA 325, given lovenox 1mg/kg SQ.\n.\nThen rapid response was called at 3am today at OSH for VT with\nHR to 280 with pt found to be diaphoretic and dyspneic but then\nuresponsive for 5 seconds. VT self-teriminated after 2 minutes\nand pt started on amiodarone drip @ 3:30AM, crit found to be 26\n(stable from admission)and rec'd 1u pRBCs and trop drawn and\nfound to be 0.14.  Later went into monomorphic VT with rate in\nthe 250's @ 11:45AM, shocked x 1 with return to paced rate of 88\nand was apparently neurologically intact and AOx3 following. He\nwas transferred to the ICU and transferred to [**Hospital1 18**] for further\nevaluation and treatment.\n.\nOn the floor he describes shaking chills occasionally over the\npast 3 weeks after having his pacemaker placed although he\ndenies frank fevers. He also denies pain, redness, or drainage\nfrom the site of his pacemaker. He also describes having a cough\nover the past week but states it is non-productive.\n.\nOn review of systems, he denies any prior history of stroke,\nTIA, deep venous thrombosis, pulmonary embolism, bleeding at the\ntime of surgery, myalgias, joint pains, cough, hemoptysis, black\nstools or red stools.\n.\nCardiac review of systems is notable for dyspnea on exertion,\nnegative for paroxysmal nocturnal dyspnea, negative for\northopnea, ankle edema, palpitations.\n.\n\n\nPast Medical History:\nPAST MEDICAL HISTORY:\n1. CARDIAC RISK FACTORS: Diabetes type 2 +, Dyslipidemia +,\nHypertension +\n2. CARDIAC HISTORY:\n- CABG: Per report, CABG with AVR in [**4-/2121**] (90% distal left\nmain extending to LAD and ostium of LCX with 80% mid-RCA)\n- PERCUTANEOUS CORONARY INTERVENTIONS: C. Cath [**9-/2122**] with\nclean grafts per report at [**Hospital1 1774**]\n- PACING/ICD:\n3. OTHER PAST MEDICAL HISTORY:\nHTN\nHLD\nDM2\nR total hip replacement\n\nSocial History:\nMarried, works as carpenter.  Denies drugs, alcohol, smoking.\n\nFamily History:\nfather with CAD, brother with carotid vascular disease, paternal\ngrandfather with CAD\n\nPhysical Exam:\nADMISSION EXAM:\nVS: 100.9  98  127/62  14  98% on 2L\nGENERAL: NAD, sleeping comfortably in bed\nHEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor\nor cyanosis of the oral mucosa. No xanthalesma.\nNECK: Supple, JVP not appreciated\nCHEST: pacemaker pocket-no erythema, no discharge, no tenderness\nto palpation\nCARDIAC: RRR, normal S1, S2, + mechanical click, no\nmurmurs/rubs/gallops appreciated\nLUNGS: anterior lung fields clear to auscultation, patient\nrefused to sit up for posterior lung exam\nABDOMEN: soft, nontender, nondistended, +BS\nEXTREMITIES: No c/c/e. No femoral bruits.\nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.\nPULSES:  Right: Carotid 2+ DP 2+ PT 2+  Left: Carotid 2+ DP 2+\nPT 2+\nNeuro: CN 2-12 grossly intact, normal strength and sensation\nthroughout\n\n\nPertinent Results:\nADMISSION LABS:\n\n[**2122-10-31**] 05:56PM   GLUCOSE-142* UREA N-11 CREAT-0.8 SODIUM-133\nPOTASSIUM-4.2 CHLORIDE-99 TOTAL CO2-25 ANION GAP-13\n[**2122-10-31**] 05:56PM   CALCIUM-8.6 PHOSPHATE-3.3 MAGNESIUM-1.9\n[**2122-10-31**] 05:56PM   WBC-15.0* RBC-3.35* HGB-9.8* HCT-28.1* MCV-84\nMCH-29.3 MCHC-35.0 RDW-14.1\n[**2122-10-31**] 05:56PM   NEUTS-90.7* LYMPHS-5.0* MONOS-3.9 EOS-0.2\nBASOS-0.1\n[**2122-10-31**] 05:56PM   PLT COUNT-429\n[**2122-10-31**] 05:56PM   PT-29.0* PTT-45.8* INR(PT)-2.8*\n\n[**2122-10-31**] 05:56PM   CRP-143.7*\n[**2122-10-31**] 05:56PM   SED RATE-62*\n.\nMICRO:\n4/4 bottles positive for coagulase negative staph\n.\nECHO [**2122-11-2**]\nNo atrial septal defect is seen by 2D or color Doppler. Two\npacemaker leads are seen entering the right atrium from the SVC,\nwithout definite associated vegetations. Overall left\nventricular systolic function is normal (LVEF>55%). There are\nsimple atheroma in the descending thoracic aorta. A mechanical\naortic valve prosthesis is present. The anterior attachment of\nthe prosthesis is normal. The posterior half of the prosthesis\nappears hypermobile/partial dehiscence extending nearly [**12-14**] way\naround the prosthesis (clip [**Clip Number (Radiology) **]). An echolucent space is seen\nposteriorly with systolic flow into this space which is then\ncontiguous with the right atrium with continus flow (aorta to\nright atrial fistula). There are mobile echodensities (clip [**Clip Number (Radiology) **],\n84) seen at the posterior attachment site of the prosthesis c/w\ntissue, sutures and/or vegetations. No aortic regurgitation is\nseen through this area. There is trivial valvular aortic\nregurgitation (normal for this prosthesis). The mitral valve\nleaflets are structurally normal. No mass or vegetation is seen\non the mitral valve. Mild (1+) mitral regurgitation is seen.\nModerate to severe [3+] tricuspid regurgitation is seen.\n\nIMPRESSION: Partially posterior aortic valve prosthesis\ndehiscence with flow from the aorta into the right atrium.\nVegetations vs. suture vs. tissue in the area.Moderate to severe\ntricuspid regurgitation.\n.\nRUQ US [**2122-11-2**]\nIMPRESSION:\n1. Mildly coarsened hepatic echotexture. No frank biliary\ndilatation.\n2. A few peripheral echogenic foci in the liver likely represent\nsmall portal branches; however, portal venous gas cannot be\nentirely excluded. If there is clinical concern for ischemic\nbowel, further assessment should be performed with CT.\n3. Diffuse gallbladder wall thickening.\n4. Splenomegaly to 15 cm.\n.\nKUB [**2122-11-1**]\nFINDINGS: Two supine and one left lateral decubitus image show\nno evidence of free air. There are air-filled loops of\nnondilated small bowel. There is air and stool seen within the\ncolon extending into the sigmoid and rectum. There is no\nevidence of obstruction or ileus. Patient is status post a total\nleft hip arthroplasty with no evidence of loosening. There are\ndegenerative changes of L4 and L5 in the right hip. The bases of\nthe lungs are clear.  Sternotomy wires and pacemaker wires are\nseen within the chest.\nIMPRESSION: No evidence of obstruction or ileus.\n.\nKUB [**2122-11-2**]\nFINDINGS: Three supine frontal images of the abdomen show newly\ndilated loops of small bowel measuring up to 3.4 cm in the left\nupper quadrant. Given history of recent arrest, the dilation may\nbe secondary to ischemia. Could also consider the possibility of\nan early or partial small-bowel obstruction. There is no obvious\nfree air, although exam is somewhat limited due to supine\npositioning. There has been interval placement of a femoral line\non the right groin. A catheter overlies the left upper quadrant,\nand is likely external to the patient. Again noted is dense\ncalcification of the aorta and iliac vessels. A left total hip\narthroplasty is unchanged.\nIMPRESSION:\nInterval increasing dilation of air-filled loops of small bowel\nloops raises concern for ischemia.\n\n\nBrief Hospital Course:\nMr. [**Known lastname 91160**] is a 61M transferred from [**Hospital3 26615**] hospital with\nCAD s/p 3V CABG and AVR in [**2120**], NSTEMI, s/p DDD pacer implant\nfor intermittent complete heart block in [**9-/2122**] transferred\nfrom OSH for evaluation and management of VT with HD instability\nrequiring defibrillation.\n.\n# Septic shock/endocarditis with aortic valve dehiscence:  The\npatient underwent pacemaker placement [**2122-10-2**]. He was febrile\non admission with elevated wbc count and described weeks of\nshaking chills. Blood cultures grew coag negative staph and he\nwas started on Vancomycin. His blood pressure decreased to the\nSBPs in the 80-90s. He was started on cefepime in addition to\nvancomycin. A TEE showed aortic valve dehiscence with flow from\nthe aorta to the right atrium and possible vegetations. He later\nwent into PEA briefly then his pulse returned but because of\nhypotension and poor O2 saturation he was intubated and put on\npressors. His blood pressure continued to fall and he was\nrequiring 4 pressors and large volumes of IVF. A dialysis\ncatheter was placed to try to remove some volume and manage his\npotassium. However, after this was placed his BP would not\ntolerate dialysis. Shortly after he went into asystole and\npassed away.\n.\n# VT/rhythm:  In [**Month (only) 359**] he had a syncopal event thought to be\nrelated to heart block so a pacemaker was placed. He was\ntransferred to [**Hospital1 18**] from an OSH after he had pulseless VT\nrequiring defibrillation. He was not in VT when he arrived at\n[**Hospital1 18**]. He was planned to have an EP procedure and prior to the\nprocedure he was started on atenolol to prevent VT. However,\nbefore he could undergo any procedure he developed septic shock\nand aortic valve dehiscence and then expired as above.\n.\n\n\nMedications on Admission:\nHOME MEDICATIONS:\nASA 81 mg daily\nmetformin 1000 mg qam\nVitamin D 1000 u daily\nCoumadin\nsimvastatin 80 mg\nlisinopril 10 mg daily (stopped taking)\nmetoprolol 50 mg daily (stopped taking)\n.\nMedications on transfer:\natenolol 25 mg daily\nASA 325 daily\natorvastatin 40 mg daily\nNG\nheparin drip\nISS\nbisacodyl\ndocusate\nmilk of magnesia\nSimethacone\nguafenesin\nacetaminophen\nmetformin 1000 mg\namiodarone infusion\n\nDischarge Medications:\nDeceased\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nSeptic Shock\nPresumed Endocarditis\nMechanical Disruption of aortic valve\n\n\nDischarge Condition:\nn/a\n\n\nDischarge Instructions:\nn/a\n\nFollowup Instructions:\nn/a\n\n\n\n"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "hadm_id": 102965,
+  "comment": "No OP report for CABG",
+  "notes": [
+    {
+      "note_id": 42683,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 373,
+          "end": 474,
+          "code": "36.15",
+          "code_system": "ICD-9-PCS",
+          "description": "Single internal mammary-coronary artery bypass",
+          "type": "MapType.APPROX",
+          "covered_text": "Coronary artery bypass grafting x3 to left internal mammary\nartery to left anterior descending artery"
+        },
+        {
+          "begin": 476,
+          "end": 555,
+          "code": "36.12",
+          "code_system": "ICD-9-PCS",
+          "description": "(Aorto)coronary bypass of two coronary arteries",
+          "type": "Human",
+          "covered_text": "bypass from the\nascending aorta to the obtuse marginal branch of the circumflex"
+        },
+        {
+          "begin": 1770,
+          "end": 1855,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "Cigarettes: Smoked no [] yes [x-1 pk every three days since age\n11- quite 1 year ago]"
+        },
+        {
+          "begin": 10219,
+          "end": 10232,
+          "code": "V58.66",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of aspirin",
+          "type": "MapType.EXACT",
+          "covered_text": "ASA 325\ndaily"
+        },
+        {
+          "begin": 11071,
+          "end": 11116,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "MapType.MULTI",
+          "covered_text": "Coronary artery disease with worsening angina"
+        },
+        {
+          "begin": 11138,
+          "end": 11150,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 11151,
+          "end": 11157,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "asthma"
+        },
+        {
+          "begin": 11158,
+          "end": 11162,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 11163,
+          "end": 11166,
+          "code": "V12.54",
+          "code_system": "ICD-9-CM",
+          "description": "Transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "MapType.EXACT",
+          "covered_text": "CVA"
+        }
+      ],
+      "text": "Admission Date:  [**2132-2-10**]              Discharge Date:   [**2132-2-20**]\n\nDate of Birth:  [**2076-4-18**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 165**]\nChief Complaint:\nIntermittent chest pain and shortness of breath\n\nMajor Surgical or Invasive Procedure:\n[**2132-2-14**]\nCoronary artery bypass grafting x3 to left internal mammary\nartery to left anterior descending artery, bypass from the\nascending aorta to the obtuse marginal branch of the circumflex\nartery using reverse\nautologous saphenous vein graft and bypass from ascending aorta\nto the diagonal artery branch of left anterior descending artery\nusing reverse autologous saphenous vein graft\n\n\nHistory of Present Illness:\n55 year old [**Country **] Rican male who emigrated to US in\n[**2099**]-primarily spanish speaking but understands and speaks\nenglish relatively well. He is transferred to [**Hospital1 18**] today from\n[**Hospital6 **] after a positive stress test in the\nsetting of increasing episodes of chest pain over the last month\nwith minimal activity. The patient has a family history\nsignificant for premature coronary artery disease. The cath was\ndone with Plavix at LGH.  The cath showed that the patient has\nleft main coronary artery disease.  The patient\nwas subsequently transferred to [**Hospital3 **] Medical Center.\nSince the patient had Plavix, a decision was made to postpone\nthe procedure until the Plavix is washed out.\n\n\nPast Medical History:\nhypertension, asthma, GERD\nCVA in [**2131-3-20**] - ? residual\n\nSocial History:\nRace: [**Country **] Rican\nLast Dental Exam: edentulous\nLives with: sister\nContact:                      Phone #\nOccupation:disabled (previous forklift driver)\nCigarettes: Smoked no [] yes [x-1 pk every three days since age\n11- quite 1 year ago]\nHx:\nOther Tobacco use: marijuana -occas. onset age 17 heavy use\nuntil\n1 year ago now occasional\nETOH: < 1 drink/week [x]  [**3-25**] drinks/week [] >8 drinks/week []\nIllicit drug use: marijuana, cocaine-heroine inhaled. Denies\nIVDA. Stopped illicit drug use one year ago after CVA.\n\nFamily History:\nFamily History:Premature coronary artery disease\nFather MI < 55 [] died of cancer age 60    Mother < 65 [x-MI]\n\n\nPhysical Exam:\nPhysical Exam-Admission\nPulse:58 Resp: 18 O2 sat: 100%\nB/P  Right:146/93    Left:\nHeight: 5' 11\"    Weight: 69.2 kg\n\nGeneral: NAD\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur [] grade ______\nAbdomen: Soft [x] non-distended [x] non-tender [x]  +BS [x]\nExtremities: Warm [x], well-perfused [x]  Edema -none\nVaricosities: None [x]\nNeuro: Grossly intact [x]\nPulses:\nFemoral      Right: cath site- small hematoma  Left:+2\nDP           Right: +2  Left:+2\nPT           [**Name (NI) 167**]: +2  Left:+2\nRadial       Right: +2  Left:+2\n\nCarotid Bruit        Right:    Left:\n\n\nPertinent Results:\nLabs-Admission:\n[**2132-2-10**] 05:28PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG\nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5\nLEUK-NEG\n[**2132-2-10**] 05:28PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.008\n[**2132-2-10**] 07:50PM   PT-11.1 PTT-31.2 INR(PT)-1.0\n[**2132-2-10**] 07:50PM   PLT COUNT-142*\n[**2132-2-10**] 07:50PM   WBC-7.1 RBC-4.43* HGB-14.2 HCT-41.5 MCV-94\nMCH-32.0 MCHC-34.1 RDW-12.3\n[**2132-2-10**] 07:50PM   HCV Ab-POSITIVE*\n[**2132-2-10**] 07:50PM   HBsAg-NEGATIVE HBs Ab-NEGATIVE HBc\nAb-NEGATIVE\n[**2132-2-10**] 07:50PM   %HbA1c-5.5 eAG-111\n[**2132-2-10**] 07:50PM   ALBUMIN-4.5 MAGNESIUM-2.2\n[**2132-2-10**] 07:50PM   LIPASE-34\n[**2132-2-10**] 07:50PM   ALT(SGPT)-28 AST(SGOT)-26 ALK PHOS-74\nAMYLASE-126* TOT BILI-0.6\n[**2132-2-10**] 07:50PM   GLUCOSE-92 UREA N-19 CREAT-1.0 SODIUM-138\nPOTASSIUM-4.0 CHLORIDE-102 TOTAL CO2-23 ANION GAP-17\n[**2132-2-10**] 11:41PM   CK-MB-1 cTropnT-<0.01\n[**2132-2-10**] 11:41PM   CK(CPK)-102\nLabs-Discharge:\n[**2132-2-20**] 04:20AM BLOOD WBC-7.6 RBC-3.08* Hgb-10.0* Hct-29.2*\nMCV-95 MCH-32.4* MCHC-34.1 RDW-12.6 Plt Ct-292\n[**2132-2-20**] 04:20AM BLOOD Plt Ct-292\n[**2132-2-20**] 04:20AM BLOOD Glucose-102* UreaN-17 Creat-0.8 Na-135\nK-4.3 Cl-98 HCO3-27 AnGap-14\n[**2132-2-20**] 04:20AM BLOOD Calcium-9.1 Phos-3.4 Mg-2.2\n\n[**2132-2-14**] TTE\nLEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum.\nLEFT VENTRICLE: Overall normal LVEF (>55%).\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\nAORTA: Normal ascending aorta diameter. Simple atheroma in\ndescending aorta.\nAORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.\nMITRAL VALVE: Mildly thickened mitral valve leaflets. Trivial\nMR.\nTRICUSPID VALVE: Physiologic TR.\nPULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.\nPERICARDIUM: No pericardial effusion.\nGENERAL COMMENTS:\nConclusions:\nPre-CPB:\nNo spontaneous echo contrast is seen in the left atrial\nappendage.\nOverall left ventricular systolic function is normal (LVEF>55%).\n\nRight ventricular chamber size and free wall motion are normal.\nThere are simple atheroma in the descending thoracic aorta.\nThe aortic valve leaflets (3) appear structurally normal with\ngood leaflet excursion and no aortic stenosis or aortic\nregurgitation.\nThe mitral valve leaflets are mildly thickened. Trivial mitral\nregurgitation is seen.\nThere is no pericardial effusion.\nPost-CPB:\nThe patient is in SR, on no inotropes.\nPreserved biventricular systolic fxn.\nAorta intact. Trace MR, no AI.\n\nRadiology Report CT CHEST W/O CONTRAST Study Date of [**2132-2-19**]\n12:42 PM\nREASON FOR THIS EXAMINATION: eval RUL nodule, eval for source of\ninfection\nWet Read: JKSd [**First Name8 (NamePattern2) **] [**2132-2-19**] 5:10 PM\nFinal Report\nFINDINGS: A 5-mm nodule at the right lung apex (4:37)\ncorresponds with the\nnodule seen on the prior chest x-rays. An additional 3-mm\npulmonary nodule in the right middle lobe is also present\n(4:84). There is paraseptal emphysema, predominantly in the\nupper lobes bilaterally, with prominent apical bullae.\nThere are small bilateral pleural effusions with adjacent\natelectasis. There is no evidence of pulmonary infection. Linear\natelectasis is noted within the lingula. The airways are clear.\n\nPatient is status post CABG. There are small retrosternal fluid\ncollections, many of which contain small air-fluid levels. Other\nthan expected mild stranding within the subcutaneous fat, the\nchest wall subcutaneous fat remains preserved. There is no\npresternal fluid collection.\nThis examination is not tailored for subdiaphragmatic\nevaluation. A small\ncalcified granuloma is noted within the right lobe of the liver.\nOtherwise, the non-contrast appearance of the upper abdomen is\nwithin normal limits.\nBONE WINDOWS: Patient is status post recent sternotomy. There is\nno evidence of dehiscence or sternal wire fractures. There is no\nerosion of the bone.  There are no osseous lesions concerning\nfor metastatic disease.\nIMPRESSION:\n1. 5-mm right apical and 3-mm right middle lobe pulmonary\nnodules. Six-month followup chest CT is recommended.\n2. Moderate paraseptal emphysema with prominent apical bullae.\n3. No evidence of pneumonia. Small bilateral pleural effusions\nwith adjacent atelectasis.\n4. Multiple small retrosternal fluid collections, some with\nair-fluid levels, not unexpected in this recently post-surgical\npatient. No sternal dehiscence or evidence of sternal wire\nfracture. No presternal fluid collection.\n\nRadiology Report CHEST (PORTABLE AP) Study Date of [**2132-2-18**] 2:03\nPM\nFinal Report\nThe right IJ line has been removed.\nThe lungs are hyperinflated, suggesting background COPD, with\nprominent\nbullous change in the upper lobes bilaterally.\nThere are multiple sternal wires, similar in configuration to\n[**2132-2-17**]. No\nobvious break in the sternal wires is identified. Mediastinal\nclips\nconsistent with CABG are present. he cardiomediastinal\nsilhouette is stable compared with one day earlier, with\nmild-to-moderate cardiomegaly and an unfolded aorta.\nSlight patchy opacity at the left base is overall unchanged.\nLeft pleural\neffusion is smaller. Doubt CHF.\nAgain seen is the nodular opacity at the right lung apex,\nIMPRESSION:\n1. COPD and cardiomegaly.\n2. Patchy opacity left base, essentially unchanged.\n3. Small nodule at right lung apex again seen. Please see\nrecommendation for CT, described on prior CXR report.\n\n\n\nBrief Hospital Course:\nThe patient was admitted to the hospital and brought to the\noperating room on [**2-14**] where the patient underwent coronary\nartery bypass grafing x3 please see operative report for\ndetails. In summary he had: Coronary artery bypass grafting x3\nto left internal mammary artery to left anterior descending\nartery, bypass from the ascending aorta to the obtuse marginal\nbranch of the circumflex artery using reverse\nautologous saphenous vein graft and bypass from ascending aorta\nto the diagonal artery branch of left anterior descending artery\nusing reverse autologous saphenous vein graft. His bypass time\nwas 76 minutes with a crossclamp time of 62 minutes.\n The patient tolerated the procedure well and post-operatively\nwas transferred to the CVICU in stable condition for recovery\nand monitoring. POD 1 found the patient extubated, alert and\noriented and breathing comfortably.  The patient was\nneurologically intact and hemodynamically stable, phenylephrine\nwas sucessfully weaned off. Beta blocker was initiated and the\npatient was gently diuresed toward the preoperative weight.  The\npatient was transferred to the telemetry floor on POD #1 for\nfurther recovery.  Chest tubes and pacing wires were\ndiscontinued per cardiac surgery protocol.  The patient was\nevaluated by the physical therapy service for assistance with\nstrength and mobility.  The remainder of his hospital course was\nuneventful, by the time of discharge on POD6*the patient was\nambulating freely, the wound had small amount od bloody drainage\nfrom mid incision, and pain was controlled with oral analgesics.\n The patient was discharged home with visiting nurses in good\ncondition with appropriate follow up instructions.\n\n\nMedications on Admission:\nLisinopril 10 daily, atenolol 25 daily, HCTZ 25 daily, ASA 325\ndaily, omeprazole 20 daily, spiriva,\n\nDischarge Medications:\n1. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n2. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\nDisp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*\n3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*60 Capsule(s)* Refills:*2*\n4. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours) as needed for pain.\nDisp:*50 Tablet(s)* Refills:*0*\n5. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO TID\n(3 times a day).\nDisp:*90 Tablet(s)* Refills:*2*\n6. Keflex 500 mg Capsule Sig: One (1) Capsule PO three times a\nday for 10 days.\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Company 1519**]\n\nDischarge Diagnosis:\nCoronary artery disease with worsening angina\nSecondary Diagnosis:\nhypertension\nasthma\nGERD\nCVA [**2131-3-20**] - ? residual\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with Tylenol\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Left - healing well, no erythema or drainage. Trace Edema\n\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nFollowup Instructions:\nYou are scheduled for the following appointments:\nWOUND CARE CLINIC Phone:[**Telephone/Fax (1) 170**] Date/Time:[**2132-2-26**] 10:30\n\nSurgeon: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 170**]\nDate/Time:[**2132-3-25**] 1:00\nCardiologist: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 42394**] on [**2132-3-26**] @ 11:30AM\n\nPlease call to schedule appointments with:\nPrimary Care Dr. [**Last Name (STitle) **] in [**5-22**] weeks [**0-0-**]\n\n***Chest CT w/pulmonary nodules-recommend f/u CT in 6 months***\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]\n\nCompleted by:[**2132-2-20**]"
+    }
+  ]
+}

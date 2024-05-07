@@ -1,0 +1,173 @@
+{
+  "hadm_id": 176136,
+  "comment": "Abdominal Colectomy- Need OP note to Validate PCS",
+  "notes": [
+    {
+      "note_id": 557597,
+      "category": "Nutrition",
+      "description": "Clinical Nutrition Note",
+      "annotations": [
+        {
+          "begin": 1963,
+          "end": 1974,
+          "code": "569.83",
+          "code_system": "ICD-9-CM",
+          "description": "Perforation of intestine",
+          "type": "Human",
+          "covered_text": "perforation"
+        }
+      ],
+      "text": "Pertinent medications: Propofol, Citrate gtt, Abx, others noted\n   Labs:\n   Value\n   Date\n   Glucose\n   137 mg/dL\n   [**2193-2-26**] 09:27 AM\n   Glucose Finger Stick\n   173\n   [**2193-2-26**] 10:00 AM\n   BUN\n   44 mg/dL\n   [**2193-2-26**] 02:54 AM\n   Creatinine\n   2.9 mg/dL\n   [**2193-2-26**] 02:54 AM\n   Sodium\n   133 mEq/L\n   [**2193-2-26**] 09:27 AM\n   Potassium\n   3.7 mEq/L\n   [**2193-2-26**] 09:27 AM\n   Chloride\n   99 mEq/L\n   [**2193-2-26**] 02:54 AM\n   TCO2\n   25 mEq/L\n   [**2193-2-26**] 02:54 AM\n   PO2 (arterial)\n   112 mm Hg\n   [**2193-2-25**] 12:50 AM\n   PO2 (venous)\n   48 mm Hg\n   [**2193-2-24**] 07:46 AM\n   PCO2 (arterial)\n   44 mm Hg\n   [**2193-2-25**] 12:50 AM\n   PCO2 (venous)\n   40 mm Hg\n   [**2193-2-24**] 07:46 AM\n   pH (arterial)\n   7.23 units\n   [**2193-2-25**] 12:50 AM\n   pH (venous)\n   7.29 units\n   [**2193-2-26**] 03:12 AM\n   pH (urine)\n   5.0 units\n   [**2193-2-21**] 07:29 PM\n   CO2 (Calc) arterial\n   19 mEq/L\n   [**2193-2-25**] 12:50 AM\n   CO2 (Calc) venous\n   21 mEq/L\n   [**2193-2-24**] 07:46 AM\n   Albumin\n   2.0 g/dL\n   [**2193-2-26**] 02:54 AM\n   Calcium non-ionized\n   7.9 mg/dL\n   [**2193-2-26**] 02:54 AM\n   Phosphorus\n   4.3 mg/dL\n   [**2193-2-26**] 02:54 AM\n   Ionized Calcium\n   1.06 mmol/L\n   [**2193-2-26**] 09:40 AM\n   Magnesium\n   2.0 mg/dL\n   [**2193-2-26**] 02:54 AM\n   ALT\n   96 IU/L\n   [**2193-2-26**] 02:54 AM\n   Alkaline Phosphate\n   114 IU/L\n   [**2193-2-26**] 02:54 AM\n   AST\n   227 IU/L\n   [**2193-2-26**] 02:54 AM\n   Amylase\n   66 IU/L\n   [**2193-2-24**] 05:00 AM\n   Total Bilirubin\n   0.4 mg/dL\n   [**2193-2-26**] 02:54 AM\n   WBC\n   14.9 K/uL\n   [**2193-2-26**] 02:54 AM\n   Hgb\n   8.5 g/dL\n   [**2193-2-26**] 02:54 AM\n   Hematocrit\n   30.0 %\n   [**2193-2-26**] 02:54 AM\n   Current diet order / nutrition support: TF: off\n   Diet: NPO\n   GI: Abd remains open, absent BS\n   Assessment of Nutritional Status\n    61 y.o. F s/p total colectomy and end ileostomy for severe c diff\n   colitis and subsequent perforation.  Pt remains intubated and sedated\n   on propofol, and CVVHD was started for ARF.  Note that propofol gtt is\n   providing ~600kcals/day at current rate.  If TF will be started, a\n   lower goal rate will be needed temporarily due to propofol gtt to avoid\n   overfeeding pt.\n   Medical Nutrition Therapy Plan - Recommend the Following\n   1)       If medically stable, rec try trophic TF, Fibersource @\n   10cc/hr.  If tolerated, advance slowly by 10cc q6-8hrs to goal of\n   45cc/hr.  This is pt\ns TF goal if propofol gtt is still running.\n   2)       If pt off propofol gtt, TF goal will be Fibersource @ 65cc/hr\n   (1872kcals, 83g protein).\n          Following\n please page with ?\ns #[**Numeric Identifier 977**]\n   ------ Protected Section ------\n   Noted that team ordered for pt to start Day 1 std TPN today.  Note that\n   pt should not receive lipid in TPN if she continues on propofol gtt.\n   Please check TG\ns, if <400, lipid can be added to TPN after propofol\n   gtt is off.  If pt tolerates, rec adv to Day 2 std TPN [**2-27**].  Goal TPN\n   if pt continues on propofol gtt is 1400mL (245g dextrose, 95g amino\n   acid).    If propofol gtt is d/c\nd, rec TPN goal of 1700mL (300g\n   dextrose/ 95g amino acid/ 45g lipid) = 1850kcals.\n   Page with ?\ns #[**Numeric Identifier 977**]\n   ------ Protected Section Addendum Entered By:[**Name (NI) 544**] [**Last Name (NamePattern1) 3030**], RD, [**Name (NI) 399**]\n   on:[**2193-2-26**] 12:13 ------\n"
+    },
+    {
+      "note_id": 557578,
+      "category": "Rehab Services",
+      "description": "Physical Therapy Evaluation Note",
+      "annotations": [
+        {
+          "begin": 523,
+          "end": 530,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "urinary"
+        }
+      ],
+      "text": "Attending Physician:  [**Name10 (NameIs) 4155**]\n   Referral date: [**2193-2-23**]\n   Medical Diagnosis / ICD 9:  /  Fever\n   Reason of referral:  Eval and tx\n   History of Present Illness / Subjective Complaint: 61yo f c a\n   complicated medical history with recent hospital admit for  respiratory\n   failure, cardiac failure requiring a trach andPEG on the [**7-12**]. She subsequently was discharged to Rehab. She returned to\n   [**First Name5 (NamePattern1) 289**] [**Last Name (NamePattern1) 4152**] with line sepsis, urinary tract infection, and\n   C.DIF colitis on [**2-21**]. Pt developed increase abdominal pain [**2-24**], along\n   with worsening acute on chronic renal failure and was anuric for\n   48hours, follow-up imaging showing free air. She was taken originally\n   to the operating [****]  for exploratory laparotomy, however\n   underwent total abdominal colectomy [**2-11**] perforation. Pt remains in the\n   ICU, intubated, on propofol, and undergoing CVVHD\n   Past Medical / Surgical History: Hypertension\n   Diabetes\n   Obesity\n   COPD on home O2 2-3L at all times\n   Currently Tobacco use\n   Obstructive Sleep Apnea on home CPAP\n   Obesity hypoventilation syndrome\n   diastolic CHF\n   Medications: Propofol, FLagyl, Phenylephrine, Vancomycin, Ciprofloxacin\n   Radiology: cxr: [**2-24**] There is increased hazy opacity over the\n   visualized portion of the right lung suggesting that there may be an\n   element of fluid overload but given technique, this is difficult to\n   assess\n   Labs:\n   30.0\n   8.5\n   224\n   14.9\n         [image002.jpg]\n   Other labs:\n   Activity Orders: bedrest\n   Social / Occupational History: unable to obtain from patient, per chart\n   pt is married\n   Living Environment: unable to obtain information at this time\n   Prior Functional Status / Activity Level: PTA pt was in rehab\n   Objective Test\n   Arousal / Attention / Cognition / Communication: Pt intubated and\n   sedated, was arousable with turning, grimacing, and attempting to mouth\n   words.\n   Hemodynamic Response\n   Aerobic Capacity\n   HR\n   BP\n   RR\n   O[2 ]sat\n   HR\n   BP\n   RR\n   O[2] sat\n   RPE\n   Supine\n   /\n   Rest\n   /\n   Sit\n   /\n   Activity\n   /\n   Stand\n   /\n   Recovery\n   /\n   Total distance walked:\n   Minutes:\n   Pulmonary Status: Trach:  CPAP PEEP 15, Psup 10 FiO240% TV .400-.500s.\n   Integumentary / Vascular: Trach, R dialysis cath, L subclavian, CVVHD,\n   colostomy bag, abdominal dressing with moderate amounts of serosangeous\n   drainage. foley. B UE and LE with areas of flaky dry skin. B UE and LE\n   edema\n   Sensory Integrity: Pt withdraws to pain x 4\n   Pain / Limiting Symptoms: Pt grimacing in pain with turning\n   Posture: obese\n   Range of Motion\n   Muscle Performance\n   N/A\n   N/A\n   Motor Function: N/A\n   Functional Status:\n   Activity\n   Clarification\n   I\n   S\n   CG\n   Min\n   Mod\n   Max\n   Gait, Locomotion: Bed mobility; Pt required total A x 4 for rolling.\n   Rolling:\n\n\n\n\n\n\n   Supine /\n   Sidelying to Sit:\n\n\n\n\n\n   Transfer:\n\n\n\n\n\n   Sit to Stand:\n\n\n\n\n\n   Ambulation:\n\n\n\n\n\n   Stairs:\n\n\n\n\n\n   Balance: N/A\n   Education / Communication: RN educated on use of LIKO (no lift)\n   equipment to assist patient with turning.\n   Intervention: A no-lift transfer sheet was placed under patient. The\n   \"viking\" transfer assist equipment was used to perform bed mobility\n   including boosting and turning. RN was educated on use of equipment and\n   was able to demonstrate proper technique. If there are any problems\n   with the equipment the vendor can be called at this number: [**Doctor First Name 4153**]\n   [**Telephone/Fax (1) **]\n   Other:\n   Diagnosis:\n   1.\n   Arousal, Attention, and Cognition, Impaired\n   2.\n   Integumentary Integrity, Impaired\n   Clinical impression / Prognosis: 61 yo f with mmp readmitted from rehab\n   with c-diff, line sepsis, required total abdominal colectomy remains\n   intubated, sedated, and requiring CVVHD presents with above impairments\n   c/w decondidtioning. Pt is high risk for skin breakdown given obesity\n   and sedation, therefore equipment to aid in turning and repositioning\n   was ordered to optimize patients mobility and limit risks for nursing\n   and other caregivers. Pt tolerated using the Viking lift and transfer\n   sheet for bed mobility, at this time that is the only means of activity\n   patient can participate in. The no-lift sheet can be left under\n   patient, with either [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3863**] or sheet as a barrier. PT will continue to\n   follow patient from a far at this time as she is not stable to engage\n   in PT treatment, nursing can contact us for assistance with equipment\n   or can contact vendor who\ns information is listed above, and is also on\n   patients white board.\n   Goals\n   Time frame:\n   1.\n   Nursing will demonstrate proper technique while using no-lift equipment\n   2.\n   Mobility and activity goals to follow\n   3.\n   Pt will require max A x 2 to roll\n   4.\n   5.\n   6.\n   Anticipated Discharge: Rehab\n   Treatment Plan:\n   f/u for mobility assessment as appropriate.\n   Frequency / Duration:\n Patient agrees with the above goals and is willing to participate in\n   the rehabilitation program.\n"
+    },
+    {
+      "note_id": 32780,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 444,
+          "end": 452,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "morbidly"
+        },
+        {
+          "begin": 507,
+          "end": 509,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 511,
+          "end": 515,
+          "code": "404.91",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive heart and renal disease, unspecified, with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN,"
+        },
+        {
+          "begin": 516,
+          "end": 520,
+          "code": "428.32",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, chronic",
+          "type": "Human",
+          "covered_text": "dCHF"
+        },
+        {
+          "begin": 522,
+          "end": 526,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 586,
+          "end": 593,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "hypoxic"
+        },
+        {
+          "begin": 598,
+          "end": 609,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "hypercarbic"
+        },
+        {
+          "begin": 785,
+          "end": 788,
+          "code": "584.5",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure with lesion of tubular necrosis",
+          "type": "Human",
+          "covered_text": "ARF"
+        },
+        {
+          "begin": 1835,
+          "end": 1842,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "Tobacco"
+        },
+        {
+          "begin": 1847,
+          "end": 1858,
+          "code": "327.23",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "Human",
+          "covered_text": "Obstructive"
+        },
+        {
+          "begin": 6549,
+          "end": 6578,
+          "code": "008.45",
+          "code_system": "ICD-9-CM",
+          "description": "Intestinal infection due to clostridium difficile",
+          "type": "Human",
+          "covered_text": "Clostridium Difficile Colitis"
+        },
+        {
+          "begin": 6579,
+          "end": 6585,
+          "code": "995.91",
+          "code_system": "ICD-9-CM",
+          "description": "Sepsis",
+          "type": "Human",
+          "covered_text": "Sepsis"
+        }
+      ],
+      "text": "Admission Date:  [**2193-2-21**]              Discharge Date:   [**2193-3-5**]\n\nDate of Birth:  [**2131-11-17**]             Sex:   F\n\nService: SURGERY\n\nAllergies:\nSulfa (Sulfonamides) / Pentothal / Codeine / Wellbutrin / Zosyn\n/ Meropenem\n\nAttending:[**Doctor First Name 5188**]\nChief Complaint:\nabdominal pain\n\nMajor Surgical or Invasive Procedure:\nTotal Abdominal Colectomy and end ileostomy [**2193-2-24**]\n\n\nHistory of Present Illness:\n61 morbidly obese female with multiple medical problems\nincluding DM, HTN, dCHF, COPD. Was recently discharged on [**2-17**]\nafter admission for hypoxic and hypercarbic respiratory failure\nafter being found unresponsive at home by her husband, treated\nfor [**Name (NI) 16630**] with Vanco/Levo/Zosyn, s/p trach after prolonged wean,\ncourse c/b ARF and drug fever, transferred to [**Hospital1 **] on [**2193-2-17**].\nReadmitted yesterday after she was complaining of diffuse\nabdominal pain and had low grade fevers to 100.9. At [**Hospital1 **] on\nthe morning of [**2-20**], she had altered mental status, and was more\ndifficult to arouse. On exam she seemed to have significant\nright\nsided abdominal/flank pain. She was started on levoflox 250mg\nQ48h when she began to spike fevers to 103 with a dirty U/A no\nculture was sent. Blood Cx post for staph and vanco Iv was\nstarted yesterday. Flagyl IV Started yesterday after CT\nabd/pelvis which showed diffuse colitis (unchanged from previous\nexam.  C. Diff cultures came back positive today and Medical tem\nwas concerend that abdominla exam had changed overnight to\ninclude rebound tenderness. The patient has remianed\nhemodynamically stable throughout this admission thus far.\nPast Medical History:\n\n\nPast Medical History:\nrelative immobility, spends a lot of time in bed\nHypertension\nDiabetes\nObesity\nCOPD on home O2 2-3L at all times\nCurrently Tobacco use\nObstructive Sleep Apnea on home CPAP\nObesity hypoventilation syndrome\ndiastolic CHF (by c.cath [**1-/2192**])\n\n\nSocial History:\nSocial history is significant for the current tobacco use (40-50\npk yr). There is no history of alcohol abuse, only occasional\nwine She lives at home with her husband.\n\n\nFamily History:\nThere is family history of premature coronary artery disease-\nher father died in his 40s of an MI.\n\n\nPhysical Exam:\nPE:\n103.7 104 136/55 25 95% AC 500x14 PEEP 5 Fluids NaCL 200/hr UOP\n>100/hr\nAbX IV vanc/levo/flagyl started last night\nObese female\nMod distress\nNCAT trach in place\nmottled skin with drug rash\ndiffuse bilateral ronchi\ntachycardia\ngastrostomy tube in place Abd obese TTP diffusely R>L with no\ntap\ntenderness but with gaurding and rebound\nstool guiac neg\n\n\nPertinent Results:\n12.7>-----<294\n     28.4\n149 112  57\n---I---I---<153\n4.2 25   3.4\n\nCT [**2-21**]:\nInterval worsening of colitis extending from the\nascending colon to the splenic flexure, with new area of\ninvolvement within the sigmoid colon.\n\nStool Cx C.Diff pos\n\n\nBrief Hospital Course:\nThe patient was initially admitted to the MICU service.  General\nSurgery consulted for C.Diff colitis.  She was treated\nconservatively.  However, over the next 48 hours her abdominal\nbecome worrisome and she developed ARF and essentially became\nanuric. A KUB at this time demonstrated free air.  The patient\nwas then taken to the operating room where she underwent a total\nabdominal colectomy with end ileostomy.  She was noted to have\n2.5 Liters of purulent material in the abdomen in the OR.\n\nPOST-OP:\nThe patient was transferred to the SICU for further\nresuscitation.\nNeuro: pain was controlled and sedation minimized\n.\nCV: At this point her hemodynamics had begun to improve.  She\nwas quickly weaned off of pressors and required minimal fluid\nresuscitation.\n.\nPulm: She was eventually able to wean to minimal vent settings,\nbut only tolerated trach collar for a few hours at a time.  This\nis likely due to her pre-existing condition as well as severe\nillness she was recovering from.\n.\nGI/FEN: She was placed on trophic tube feeds and advanced to\ngoal which she tolerated.  Her stoma was functioning well at the\ntime of discharge.\n.\nRenal: Renal was consulted for her ARF.  She began CVVHD after a\nHD line was placed.  This was continued for about a week until\nenought volume had been taken off to adequately wean her vent\nsettings.  The CVVHD was stopped and she began making more\nurine, about 50-100cc per hour.  Her electrolytes and Creatinine\nremained stable.  Renal recommended holding off on further\ndialysis for now. She did receive a few doses of lasix and seems\nto respond well to this.\n.\nHeme: her Hct was stable but slowly drifted down to 22 by\ndischarge, she received one unit of PRBC for this.\n.\nID: she was initially treated with Cipro/Flagyl/Vanco.  The IV\nvanco was for a coag neg blood Cx.  The flagyl was for the\nC.Diff, and the cipro was continued for 7 days for coverage due\nto gross abdominal contamination.\n.\nEndo: blood sugars controlled with sliding scale insulin.\n\nMedications on Admission:\nBenadryl 50mg IV q6,Triamcinolone cream TID,Sarna,Insulin SS\nBisacodyl,Colace,Levofloxacin 250mg q48,Vancomycin x 1,Albuterol\n\nIpratropium,Fluticasone,TF's\n\n\nDischarge Medications:\n1. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical\nQID (4 times a day) as needed.\n2. Triamcinolone Acetonide 0.1 % Cream Sig: One (1) Appl Topical\nTID (3 times a day).\n3. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID\n(3 times a day) as needed.\n4. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Six (6)\nPuff Inhalation Q4H (every 4 hours).\n5. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\n6-8 Puffs Inhalation Q4H (every 4 hours).\n6. Fluticasone 110 mcg/Actuation Aerosol Sig: Four (4) Puff\nInhalation [**Hospital1 **] (2 times a day).\n7. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)\ninjection Injection [**Hospital1 **] (2 times a day).\n8. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every\n6 hours) as needed.\n9. Calcium Acetate 667 mg Capsule Sig: Two (2) Capsule PO TID\nW/MEALS (3 TIMES A DAY WITH MEALS).\n10. Insulin Regular Human 100 unit/mL Solution Sig: insulin\nsliding scale  Injection ASDIR (AS DIRECTED).\n11. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3\nhours) as needed for pain.\n12. Famotidine(PF) in [**Doctor First Name **] (Iso-os) 20 mg/50 mL Piggyback Sig:\nOne (1) dose Intravenous Q24H (every 24 hours).\n13. Metronidazole in NaCl (Iso-os) 500 mg/100 mL Piggyback Sig:\nOne (1)  Intravenous Q8H (every 8 hours).\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Location (un) 32674**] - [**Location (un) **]\n\nDischarge Diagnosis:\nClostridium Difficile Colitis\nSepsis\nAcute renal failure\nRespiratory Failure\n\n\nDischarge Condition:\nHemodynamics stable, still requiring some vent support but\ntolerating periods of trach collar.  Acute renal failure appears\nto be resolving.  Tolerating tube feeds.  Wound healing well\nwith wound VAC dressing.\n\n\nDischarge Instructions:\nDIET: patient should continue on tube feeds for now.  [**Month (only) 116**] try\nPOs if passes swallow evaluation, off ventilator, and tolerating\nPMV\nACTIVITY: OOB as much as possible, aggressive PT\nWOUND: abdominal wound with large wound vac.  Wound appears\nhealthy, should be changed every 3-4 days.\nOSTOMY: stoma healthy, putting out adequate stool, continue\ncurrent management.\nANTIBIOTICS: flagyl should continue for a total of 14 days from\nday of surgery (end on [**3-10**])\n\nFollowup Instructions:\nPlease follow up with Dr. [**Last Name (STitle) 5182**] in 2 weeks\n\n\n                             [**Name6 (MD) **] [**Last Name (NamePattern4) **] MD, [**MD Number(3) 5190**]\n\n"
+    },
+    {
+      "note_id": 1062719,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 364,
+          "end": 376,
+          "code": "V44.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tracheostomy status",
+          "type": "Human",
+          "covered_text": "tracheostomy"
+        }
+      ],
+      "text": "[**2193-2-23**] 3:51 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 39956**]\n Reason: eval for interval change\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  61 year old woman with recent admission for PNA,  +tracheostomy, now returns\n  with fevers\n REASON FOR THIS EXAMINATION:\n  eval for interval change\n ______________________________________________________________________________\n                                 FINAL REPORT\n STUDY:  AP CHEST [**2193-2-23**].\n\n HISTORY:  61-year-old woman with recent admission for pneumonia.  Now returns\n with fever, evaluate for interval change.\n\n IMPRESSION:  Comparison is made to prior study from [**2193-2-22**].\n\n Study is somewhat limited due to rotation of the patient.  There is likely\n cardiomegaly.  The left sided central venouscatheter tip terminates within the\n proximal brachiocephalic vein.  The right lung is clear.  The left lung is\n partly obscured due to the cardiac silhouette.  A tracheostomy is also\n visualized.\n\n\n"
+    }
+  ]
+}

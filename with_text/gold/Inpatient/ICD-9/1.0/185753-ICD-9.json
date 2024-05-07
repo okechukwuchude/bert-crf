@@ -1,0 +1,131 @@
+{
+  "hadm_id": 185753,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 40208,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 270,
+          "end": 277,
+          "code": "780.39",
+          "code_system": "ICD-9-CM",
+          "description": "Other convulsions",
+          "type": "Human",
+          "covered_text": "seizure"
+        },
+        {
+          "begin": 2243,
+          "end": 2246,
+          "code": "403.90",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive renal disease, unspecified, without mention of renal failure",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 2254,
+          "end": 2256,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HL"
+        },
+        {
+          "begin": 2259,
+          "end": 2266,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 2269,
+          "end": 2273,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "MapType.EXACT",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 2276,
+          "end": 2280,
+          "code": "274.9",
+          "code_system": "ICD-9-CM",
+          "description": "Gout, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Gout"
+        },
+        {
+          "begin": 6167,
+          "end": 6177,
+          "code": "V10.52",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of kidney",
+          "type": "Human",
+          "covered_text": "renal cell"
+        },
+        {
+          "begin": 7067,
+          "end": 7086,
+          "code": "198.3",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of brain and spinal cord",
+          "type": "Human",
+          "covered_text": "metastatic\nto brain"
+        },
+        {
+          "begin": 8369,
+          "end": 8386,
+          "code": "285.21",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia in chronic kidney disease",
+          "type": "Human",
+          "covered_text": "Normocytic Anemia"
+        },
+        {
+          "begin": 8683,
+          "end": 8687,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CKD:"
+        },
+        {
+          "begin": 8749,
+          "end": 8765,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "description": "Thrombocytopenia, unspecified",
+          "type": "Human",
+          "covered_text": "Thrombocytopenia"
+        },
+        {
+          "begin": 9172,
+          "end": 9176,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DMII"
+        },
+        {
+          "begin": 11082,
+          "end": 11089,
+          "code": "780.39",
+          "code_system": "ICD-9-CM",
+          "description": "Other convulsions",
+          "type": "Human",
+          "covered_text": "Seizure"
+        }
+      ],
+      "text": "Admission Date:  [**2144-1-24**]              Discharge Date:   [**2144-1-27**]\n\nDate of Birth:  [**2079-12-25**]             Sex:   M\n\nService: NEUROLOGY\n\nAllergies:\nSulfa (Sulfonamide Antibiotics) / Vicodin\n\nAttending:[**First Name3 (LF) 65686**]\nChief Complaint:\ns/p seizure\n\nMajor Surgical or Invasive Procedure:\nExtubation [**2144-1-25**]\n\n\nHistory of Present Illness:\n64M h/o brain mass undergoing cyber knife last Tx last teusday,\nfollowed by [**First Name5 (NamePattern1) 1151**] [**Last Name (NamePattern1) 6570**] (neuro-onc), no h/o sz but on keppra\nafter first cyberknife and stopped 2-3d ago, was also tapering\ndecadron, pt found by wife this morning with jerking movements\nof arms, unresponsive. Prior to this he had been having coughing\nfit and wife found him slumped on the couch with rhythmic\njerking of hands but did not respond to voice but could squeeze\nhis hands. He had not been having any fevers. Spontaneously\nresolved after several minutes, when EMS arrived pt was\npost-ictal with GCS 3. Intubated for airway protection at\nSouthern [**Hospital **] medical center because he was still unresponsive but\nhad stopped convulsing, got tylenol suppository there. got\ndecadron, keppra, ativan, propofol for sedation. Head CT was\nobtained at OSH which was unchanged from scan [**10-31**] when mass\ninitially discovered. He was transferred to [**Hospital1 **] ED for continuity\nof care.\n.\nSeen by Neuro in ED, reviewed CT head from OSH. Has not been\ngetting chemo but anemic and thrombocytopenic. His primary\nneuro-oncologist was paged and suggested that LP may be\nnecessary if he appears to be infected clinically. Dr. [**Last Name (STitle) 6570**]\nwill follow in house instead of neuro consult team. He\nrecommended: Keppra 1g IV BID 1:1 w/ PO as well as decadron 4mg\nQ6hrs. ED was not comfortable w/ doing LP given mass effect\n(though recommended by his neuro-oncologist) and\nthrombocytopenia to 64 (guideline is 80). He was not given\nempiric Abx because he was afebrile, no leukocytosis and had a\ngood reason for sz other than meningitis.\n.\nVS prior to transfer: 87, 102/63, 100% 550 18, PEEP 50% FiO2.\n.\n\n\nPast Medical History:\n# Mestatastic clear cell renal CA s/p R nephrectomy 3 yrs ago\n# Prostate CA s/p prostatectomy\n# HTN\n# DM\n# HL\n# Anxiety\n# GERD\n# Gout\n\n\nSocial History:\nMarried. Lives with his wife. [**Name (NI) **] is a retired insurance [**Doctor Last Name 360**].\nHe never smoked. No alcohol since [**2140**]. No drugs.\n\nFamily History:\nHe has two daughtres and one son, all healthy. His father died\nat age 49 after returning from WWII, cause unclear. His mother\ndied at age 85. He has no siblings.\n\n\nPhysical Exam:\nPHYSICAL EXAM ON ADMISSION:\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n\nPHYSICAL EXAM ON DISCHARGE:\nVital signs: Tc 98.2 Tmax 99.1 BP 118/74 (118-146/70-82) HR 63\n(63-70) O2 sat 100% RA FS 208-279\nGEN: AOx3, NAD\nHEENT: PERRL. MMM. No LAD. no JVD. neck supple. No cervical,\nsupraclavicular, or axillary LAD\nCards: RRR S1/S2 normal. no murmurs/gallops/rubs.\nPulm: CTAB, no wheezes/crackles\nAbd: BS+, soft, NT, no rebound/guarding, no HSM, no [**Doctor Last Name 515**]\nsign\nExtremities: wwp, no edema. DPs, PTs 2+. Contracture of right\nhand (chronic for 10 years)\nSkin: no rashes or bruising\nNeuro: A & O x 3, slow to speak, CNs II-XII intact. 5/5 strength\nin U/L extremities.\n\n\nPertinent Results:\nLABS ON ADMISSION:\n[**2144-1-24**] 01:00PM BLOOD WBC-6.4 RBC-3.43* Hgb-11.4* Hct-31.1*\nMCV-91 MCH-33.3* MCHC-36.7* RDW-15.7* Plt Ct-65*\n[**2144-1-24**] 01:00PM BLOOD PT-12.9 PTT-21.7* INR(PT)-1.1\n[**2144-1-24**] 01:00PM BLOOD Fibrino-481*\n[**2144-1-24**] 01:00PM BLOOD Ret Aut-4.0*\n[**2144-1-24**] 11:48PM BLOOD Glucose-260* UreaN-31* Creat-1.5* Na-138\nK-4.2 Cl-104 HCO3-22 AnGap-16\n[**2144-1-24**] 01:00PM BLOOD ALT-37 AST-23 LD(LDH)-377* AlkPhos-72\nTotBili-0.9\n[**2144-1-24**] 11:48PM BLOOD Calcium-7.8* Phos-4.2 Mg-1.3*\n[**2144-1-24**] 01:00PM BLOOD Hapto-234*\n[**2144-1-24**] 01:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG\nBnzodzp-NEG Barbitr-NEG Tricycl-NEG\n[**2144-1-24**] 01:19PM BLOOD Type-MIX pO2-209* pCO2-36 pH-7.46*\ncalTCO2-26 Base XS-2 Comment-GREEN TOP\n[**2144-1-24**] 01:19PM BLOOD Glucose-179* Lactate-1.0 Na-138 K-4.4\nCl-102\n\nLABS ON DISCHARGE:\n[**2144-1-27**] 07:20AM BLOOD WBC-7.6 RBC-3.86* Hgb-12.1* Hct-35.0*\nMCV-91 MCH-31.4 MCHC-34.6 RDW-15.1 Plt Ct-108*\n[**2144-1-27**] 07:20AM BLOOD Glucose-203* UreaN-34* Creat-1.3* Na-137\nK-4.5 Cl-100 HCO3-28 AnGap-14\n[**2144-1-27**] 07:20AM BLOOD TotProt-5.9* Calcium-9.3 Phos-3.7 Mg-1.5*\n[**2144-1-27**] 07:20AM BLOOD PEP-HYPOGAMMAG IgG-356* IgA-93 IgM-63\nIFE-TRACE MONO\n[**2144-1-26**] 01:58PM URINE U-PEP-NO PROTEIN\n[**2144-1-26**] 01:58PM URINE Hours-RANDOM TotProt-12\n\nPortable CXR [**2144-1-24**]:\n1. ET tube terminates 5 cm from the carina without evidence of\npneumothorax.\n2. There is prominence of hilar and mediastinal silhouette and\npulmonary\nvasculature, which may be reflective of increased pulmonary\nvascular pressure.\n3. Retrocardiac opacity, likely atelectasis or aspiration;\nhowever,\nsuperimposed infection cannot be entirely excluded.\n\nCXR (PA & LAT) [**2144-1-26**]:\nIMPRESSION: PA and lateral chest reviewed in the absence of\nprior chest\nradiographs:\n\nThe lateral view shows a wedge-shaped area of opacity in one of\nthe lower\nlungs, could be a composite shadow of anterior spinal\nosteophytes and large lower lung vessels. Two other regions of\nabnormality are the suggestion of 11-mm wide right upper lobe\nnodule at the level of the first anterior interspace and\nfullness in the right lower paratracheal mediastinum, which\ncould be adenopathy or fat. All these issues would be resolved\nwith routine chest CT.\n\nHeart is top normal size, there is no pulmonary edema or pleural\neffusion.\n\n\nBrief Hospital Course:\n64 yo M w/ renal cell CA to the brain p/w new onset seizure.\n.\n#. S/p seizure: Pt presented with new onset seizure at home.  Pt\nhad mass lesion in brain and had been recently taken off seizure\nprophylaxis.  He had been on a dexamethasone taper and had had\nhis last dose of keppra on [**2144-1-21**]. He initially presented to an\nOSH where he was intubated for airway protection.  Head CT at\nOSH was largely unchanged per neurology team.  Lumbar puncture\nwas not performed as he was afebrile with no leukocytosis and\nbecause he had thrombocytopenia (plts 60s).  Clinical suspicion\nfor infectious etiology for seizure was quite low.  He was\nplaced back on keppra and dexamethasone and extubated on [**2144-1-25**]\nwith no complications.  He did not have further seizures in the\nhospital.  He was discharged with follow-up with his primary\nneuro-oncologist.\n.\n#. Renal cell carcinoma: Pt with renal cell carcinoma metastatic\nto brain.  He was diagnosed with renal cell carcinoma in [**6-/2141**]\nand was s/p right nephrectomy [**8-/2141**] with recently diagnosed\nleft frontal brain mass.  He was s/p first cyberknife treatment\n[**2144-1-14**].  Pt had chronic mild right hemiparesis, anomia, and\ndysphasia but no new neurologic deficits.  He had recently\ncompleted keppra course and had been on dexamethasone taper\nprior to presenting with new onset seizure.  He had intermittent\nheadaches controlled with oxycodone.  He will follow up with his\nprimary oncologist as outpatient.\n.\n#. ?Aspiration: CXR on admission showed retrocardiac opacity,\nlikely atelectasis vs. aspiration but could not rule out PNA. Pt\nhad low grade temp 100.2 upon arrival to [**Hospital1 18**] ED but was\nafebrile with no leukocytosis throughout remainder of hospital\ncourse. Clinical suspicion for PNA was quite low and he was not\nstarted on antibiotics.  Repeat cxr showed an opacity that was\nread as possible composite shadow of osteophytes and lung\nvessels; two other regions of fullness were interpreted as\nadenopathy or fat.  Pt also reportedly had difficulty swallowing\nat ICU and was put on thickened liquid diet.  He underwent a\nspeech and swallow assessment and was deemed safe for thin\nliquids and regular consistency solids.\n\n#. Normocytic Anemia: Pt with normocytic anemia, Hct 30-35\nduring hospital admission.  Given anemia in conjunction with\nthrombocytopenia, SPEP and UPEP were sent to rule out multiple\nmyeloma.  SPEP showed low levels of IgG but was otherwise\nunremarkable.  Hct remained stable and pt had no evidence of\nbleeding.\n.\n#. CKD: Cr baseline was 1.7.  Cr was 1.3-1.5 during admission.\n\n.\n#. Thrombocytopenia:  Pt presented with thrombocytopenia, plt\ncount in 60s.  He was given 1 unit platelets upon admission to\nICU.  Platelet count had slowly been downtrending since\n[**2143-11-21**].  Peripheral smear was examined per ICU and did not\nshow schistocytes to suggest TTP.  Thrombocytopenia may have\nbeen [**12-25**] dexamethasone.  He was started on folic acid and plt\ncount rose to 108 by time of discharge.\n.\n#. DMII: Pt had been on glyburide at home and was maintained on\nHISS while in the hospital.  He had rare hyperglycemia to 400s\nwhile on dexamethasone which improved by time of discharge.  He\nwas discharged back on home dose of glyburide.\n\nMedications on Admission:\nALLOPURINOL -  (Prescribed by Other Provider) - 100 mg Tablet -\n1\nTablet(s) by mouth DAILY (Daily)\nDEXAMETHASONE -  (Prescribed by Other Provider; Dose adjustment\n-\nno new Rx) - 2 mg Tablet - 2 Tablet(s) by mouth once a day\nGLYBURIDE -  (Prescribed by Other Provider) - 5 mg Tablet - 1\nTablet(s) by mouth twice a day\nLEVETIRACETAM [KEPPRA] - 500 mg Tablet - One Tablet(s) by mouth\ntwice a day starting [**2144-1-12**] stopped [**2144-1-21**]\nLISINOPRIL -  (Prescribed by Other Provider) - Dosage uncertain\nLORAZEPAM - 0.5 mg Tablet - [**11-24**] Tablet(s) by mouth 30 minutes\nprior to your CyberKnife treatment\nOXYCODONE - 5 mg Tablet - 1 Tablet(s) by mouth every six (6)\nhours as needed for pain\nSIMVASTATIN -  (Prescribed by Other Provider) - 40 mg Tablet - 1\nTablet(s) by mouth DAILY (Daily)\n\nDischarge Medications:\n1. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n2. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n3. glyburide 5 mg Tablet Sig: One (1) Tablet PO twice a day.\n4. dexamethasone 4 mg Tablet Sig: One (1) Tablet PO qam.\nDisp:*90 Tablet(s)* Refills:*0*\n5. dexamethasone 2 mg Tablet Sig: One (1) Tablet PO at bedtime\nfor 3 days: Take in addition to dexamethasone 4mg in the morning\nthrough [**2144-1-29**].\nDisp:*3 Tablet(s)* Refills:*0*\n6. Keppra 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.\nDisp:*180 Tablet(s)* Refills:*0*\n7. oxycodone 5 mg Tablet Sig: One (1) Tablet PO twice a day as\nneeded for pain: [**Street Address(1) 87025**], DRINK ALCOHOL, OR OPERATE HEAVY\nMACHINERY WITH THIS MEDICATION.\nDisp:*30 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPrimary:\nSeizure\n\nSecondary:\nRenal cell carcinoma with metastases to brain\nDiabetes mellitus\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nIt was a pleasure taking care of you in the hospital.  You were\nadmitted with a new seizure.  This was likely caused by your\nbrain mass.  You were re-started on a medication to prevent\nseizures and steroids to reduce swelling in the brain.  You\nshould follow-up with your primary oncologist to discuss further\nmanagement of your renal cancer.\n\nYou were also evaluated with a speech and swallow assessment\ngiven your difficulties swallowing.  You were assessed to be\nsafe when swallowing.  If you have further difficulties with\nswallowing, please contact the speech and swallow clinic.\n\nThe following changes were made to your medications:\n1) Keppra 1000mg twice a day to prevent seizures\n2) Dexamethasone 4mg in the morning and 2mg at night for three\ndays until [**2144-1-29**], then take dexamethasone 4mg daily ONLY\nstarting on [**2144-1-30**]\n\n\nFollowup Instructions:\nYou have the following appointments scheduled for you:\n\nDepartment: RADIOLOGY\nWhen: MONDAY [**2144-2-10**] at 12:35 PM\nWith: RADIOLOGY MRI [**Telephone/Fax (1) 327**]\nBuilding: [**Hospital6 29**] [**Location (un) 861**]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\nDepartment: NEUROLOGY\nWhen: MONDAY [**2144-2-10**] at 2:00 PM\nWith: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 12567**] [**Name8 (MD) **], MD [**Telephone/Fax (1) 1844**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 858**]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\n\n\nCompleted by:[**2144-2-2**]"
+    }
+  ]
+}

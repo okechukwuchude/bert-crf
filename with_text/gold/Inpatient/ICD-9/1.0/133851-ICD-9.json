@@ -1,0 +1,122 @@
+{
+  "hadm_id": 133851,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 7479,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 229,
+          "end": 241,
+          "code": "276.7",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperpotassemia",
+          "type": "Human",
+          "covered_text": "Hyperkalemia"
+        },
+        {
+          "begin": 362,
+          "end": 370,
+          "code": "443.81",
+          "code_system": "ICD-9-CM",
+          "description": "Peripheral angiopathy in diseases classified elsewhere",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "DM2, PVD"
+        },
+        {
+          "begin": 412,
+          "end": 424,
+          "code": "V12.04",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "MRSA abscess"
+        },
+        {
+          "begin": 1780,
+          "end": 1792,
+          "code": "250.80",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with other specified manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "hypoglycemic"
+        },
+        {
+          "begin": 2504,
+          "end": 2507,
+          "code": "403.90",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive renal disease, unspecified, without mention of renal failure",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 2519,
+          "end": 2533,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "hyperlipidemia"
+        },
+        {
+          "begin": 2538,
+          "end": 2551,
+          "code": "V10.47",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of testis",
+          "type": "Human",
+          "covered_text": "testicular CA"
+        },
+        {
+          "begin": 2588,
+          "end": 2615,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "chronic renal insufficiency"
+        },
+        {
+          "begin": 2701,
+          "end": 2719,
+          "code": "V45.86",
+          "code_system": "ICD-9-CM",
+          "description": "Bariatric surgery status",
+          "type": "Human",
+          "covered_text": "s/p gastric bypass"
+        },
+        {
+          "begin": 2934,
+          "end": 2975,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "remote smoking history of 1 PPD x12 years"
+        },
+        {
+          "begin": 6677,
+          "end": 6689,
+          "code": "403.90",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive renal disease, unspecified, without mention of renal failure",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 6859,
+          "end": 6862,
+          "code": "443.81",
+          "code_system": "ICD-9-CM",
+          "description": "Peripheral angiopathy in diseases classified elsewhere",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "PVD"
+        }
+      ],
+      "text": "Admission Date:  [**2107-9-24**]              Discharge Date:   [**2107-9-29**]\n\nDate of Birth:  [**2041-4-11**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nLipitor\n\nAttending:[**First Name3 (LF) 2195**]\nChief Complaint:\nHyperkalemia\n\nMajor Surgical or Invasive Procedure:\nNone\n\nHistory of Present Illness:\nMr. [**Known lastname 665**] is a 66 yo M with DM2, PVD, s/p surgical debridement\nof right thigh MRSA abscess sent to ED for evaluation when he\nwas found to have elevated potassium at his PCP's office.  He\nreports that he presented to his PCP's for a scheduled follow up\nvisit but otherwise was without specific complaints.  He does\nendorse weight gain of 21 pounds since his hospital discharge on\n[**9-11**].  Due to this he took some of his wifes water pills, the\nname he cant remember for three doses total.  Otherwise he\nreports recent decrease in his total daily naproxen dose and\nslight increase in his tramadol dose.  He has recently been\ntaking Bactrim and Augmentin following surgical debridement\n\nRecent admission [**Date range (1) 27372**] to vascular surgery service for right\ngroin mass c/w abscess on CTA without any evidence of\ncommunication with prior right CIA to SFA graft.  He had\nultrasound guided drainage which showed purulent material so he\nwas taken to the OR for surgical debridement.  He was discharged\non bactrim and augmentin with a wound vac in place.\n\nIn the ED, initial vs were: T 98 P 58 BP 118/46 R 18 O2 sat 100%\nRA.  Potassium was checked in the ED and was noted to be 7.8.\nPatient was given calcium gluconate 1g IV x1, insulin 10 units\nx1, D50 x 1 amp, bicarb x1amp and kayexalate 30g po.  He had an\nEKG which showed PR prolongation compared with baseline but no\nother changes.  Following this therapy he became\nasymptomatically hypoglycemic with decrease in blood sugar to 56\nfrom 114 on arrival and he was given a second amp of D50.\nRepeat glucose three hours later was persistently low at 40 and\nhe was given a third amp of d50.  He reports being asymptomatic\nwith all of these levels.\n\nOn the floor, he reports feeling at his baseline.  His FSBG was\n100 on arrival.\n\nReview of sytems:\n(+) Per HPI\n(-) Denies fever, chills, night sweats.  Denied cough, he does\nendorse occasional dyspnea on exertion. Denied chest pain or\ntightness, palpitations. Denied nausea, vomiting, diarrhea,\nconstipation or abdominal pain. No recent change in bowel or\nbladder habits. No dysuria.\n\n\nPast Medical History:\nPast Medical History:\nDM2 - last A1C 5.9 [**1-/2106**]\nHTN\nsevere DJD\nhyperlipidemia\nPVD\ntesticular CA\nAnemia - unknown cause (bl HCT ~30)\nchronic renal insufficiency (bl creatinine ~1.5)\n.\nSurgical History:\ns/p right common iliac artery to SFA bypass\ns/p gastric bypass [**2101**]\nright groin dissection and XRT\nright cataract surgery\nappendectomy tonsillectomy\nmultiple foot surgeries\n\n\nSocial History:\nlives with wife, works as CEO of company and does a lot of\ntravelling for work, remote smoking history of 1 PPD x12 years\nquit in [**2071**], denies ETOH or drug use.\n\n\nFamily History:\nboth parents died from aplastic anemia\n\n\nPhysical Exam:\nVitals: T: 98.1 BP: 177/48 P:76 R:19 O2: 100% RA\nGeneral: Alert, oriented, no acute distress\nSkin: warm, scattered bruises over extremities\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen:  soft, non-tender, non-distended, well healed surgical\nscars, bowel sounds present, no rebound tenderness or guarding,\nno organomegaly\nExt: 2+ pitting edema of LE's bilaterally, atrophy of right\nlower leg muscles, clean bandage in placeover toes of letf foot.\n\n\n\nPertinent Results:\n[**2107-9-23**] 02:45PM BLOOD WBC-6.1 RBC-3.07* Hgb-9.3* Hct-30.1*\nMCV-98 MCH-30.2 MCHC-30.8* RDW-14.8 Plt Ct-404#\n[**2107-9-23**] 02:45PM BLOOD Neuts-45.0* Lymphs-40.5 Monos-8.4\nEos-5.4* Baso-0.7\n[**2107-9-23**] 11:00PM BLOOD PT-12.8 PTT-30.1 INR(PT)-1.1\n[**2107-9-23**] 02:45PM BLOOD UreaN-14 Creat-1.6* Na-132* K-7.8* Cl-107\nHCO3-21* AnGap-12\n[**2107-9-23**] 11:00PM BLOOD ALT-18 AST-28 LD(LDH)-157 CK(CPK)-27*\nAlkPhos-136* TotBili-0.2\n[**2107-9-23**] 11:00PM BLOOD Albumin-2.7* Calcium-8.5 Phos-3.8 Mg-1.9\n[**2107-9-23**] 02:45PM BLOOD VitB12-1824*\n[**2107-9-23**] 02:45PM BLOOD Triglyc-76 HDL-51 CHOL/HD-2.9 LDLcalc-80\n[**2107-9-24**] 07:43AM BLOOD TSH-9.0*\n[**2107-9-24**] 07:43AM BLOOD Free T4-1.0\n[**2107-9-24**] 02:09AM BLOOD Cortsol-6.5\n[**2107-9-24**] 07:43AM BLOOD Cortsol-15.5\n\n[**2107-9-29**] 06:55AM BLOOD WBC-5.9 RBC-3.06* Hgb-9.4* Hct-29.5*\nMCV-96 MCH-30.9 MCHC-32.1 RDW-14.0 Plt Ct-281\n[**2107-9-29**] 01:10PM BLOOD UreaN-17 Creat-1.6* Na-134 K-4.8 Cl-97\nHCO3-32 AnGap-10\n[**2107-9-29**] 06:55AM BLOOD Calcium-8.5 Phos-4.5 Mg-1.6\n\nBrief Hospital Course:\n[**Hospital Unit Name 153**] course:\n\n#Hyperkalemia - Patient presented with severe hyperkalemia K of\n7.8 with EKG changes of prolonged PR interval, it was 3.8 less\nthan a month ago. Unclear etiology, but  differential diagnoses\ninclude adrenal insufficiency given hyponatremia, hyperkalemia,\nand peripheral eosinophilia. However, he does not have\nhypotension. Morning cortisol was within normal limits.  Other\nconsideration would be hyperkalemia associated with metabolic\nacidosis, although ph normal on ABG. Another consideration was\nrenal tubular acidosis given elevated potassium and low serum\nbicarbonate on admission.  No evidence of tissue breakdown or\nhemolysis with normal CK.  Hypoaldosteronism was also a possible\ncause, however he was not volume depleted on examination.\nTranstubular potassium gradient was 2.5, suggesting that\npatient's hyperkalemia was likely secondary to\nhypoaldosteronism. Renal was consulted who suggested that\nhyperkalemia was likely due to renal K secretion inhibition by\nmultiple medications (benzapril, [**Last Name (un) **], triamtereme, nsaids,\nbactrim). All were discontinued. IV lasix was started to enhance\nK secretion and remove volume.  On discussion with ID, patient's\nbactrim was replaced with linezolid. Pt's K currently corrected\nto 4.8, and he is being discharged on Lasix 10mg PO Daily.\n\n#MRSA abscess s/p surgical debridement with wound vac in place -\nPatient was evaluated by vascular surgery team in the ED, no\nacute issues. As bactrim may have played a role in patient's\nhyperkalemia, it was replaced with linezolid after discussing\nwith ID. given the risk for serotonin syndrome, his Tramadol was\ndiscontinued.\n\n#DM2 - Diabetes was very well controlled per history with last\nA1c in our system of 5.9.  Humalog sliding scale was continued,\nand NPH [**Hospital1 **] was held per patient's request.\n\n#Hypertension - Clonidine 0.3mg qam and 0.2mg qpm was continued\nwhile metoprolol and benicar were held in the setting of\nhyperkalemia. His blood pressures remained well-controlled.\n\n#PVD - Arterial insufficiency ulcers were seen on lower\nextremities bilaterally. Aspirin was continue during his stay in\nthe hospital.\n\n\n\nMedications on Admission:\nReconciled on [**2107-9-26**] [**Doctor Last Name **]\n\nLotrel (Amlodipine/benazepril) 5/20 QD\nBenicar (olmesartan/hctz) 40/25 one tab [**Hospital1 **]\nBactrim DS 160-800 mg One (1) Tablet PO BID x 4 weeks.\nAugmentin 875-125 mg one po tid (stopped [**9-22**])\nMetoprolol Tartrate 50 [**Hospital1 **]\nClonidine 0.3mg AM and 0.2mg PM\nPantoprazole 40 mg [**Hospital1 **]\nJanuvia (Sitagliptin) 100mg QD\nAspirin-Coated 325 mg PO QD\nNPH 2 units [**Hospital1 **]\nHumulin R 10 units AM, 8 NOON, 9 PM\nZetia 10mg [**Hospital1 **]\nNaproxen 220mg [**Hospital1 **]\nTramadol 50mg qam and 100mg qpm\nAspirin 325 mg PO DAILY\nProtonix Pantoprazole Sodium 40mg in the morning\nFerrous Sulfate Ferrous Sulfate 325(65)mg 1 time per day\nMultivitamin Multivitamins 1 per day\nVitamin C Ascorbic Acid 1000mg 1 per day\nVitamin B-6 Pyridoxine Hcl 100mg twice a day\nViactiv Ca Carbonate/vitamin D3/vit K 500-500-40 twice a day\nVitamin B12 Cyanocobalamin 100mcg 1 time per day\nVitamin E Vitamin E Acetate\nSuper B Complex Vitamin B Complex 1 per day\nGlucagon Emergency Kit Glucagon 1mg as directed\nFolic Acid Folic Acid 0.4mg take 1 tablet (0.4MG) by ORAL route\nevery day\nChromium Picolinate Calcium Phosphate/[**First Name9 (NamePattern2) 27373**] [**Last Name (un) 27374**]\n\n\nDischarge Medications:\n1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).\n2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n3. Clonidine 0.1 mg Tablet Sig: Three (3) Tablet PO QAM (once a\nday (in the morning)).\n4. Clonidine 0.2 mg Tablet Sig: Two (2) Tablet PO QPM (once a\nday (in the evening)).\n5. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)\nTablet, Chewable PO TID (3 times a day).\n6. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2)\nTablet PO DAILY (Daily).\n7. Linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 12\nhours).\nDisp:*60 Tablet(s)* Refills:*2*\n8. Insulin Regular Human 100 unit/mL Solution Sig: As directed\nInjection ASDIR (AS DIRECTED).\n9. Furosemide 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).\nDisp:*20 Tablet(s)* Refills:*2*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nHyperkalemia\n\nDischarge Condition:\nImproved\n\nDischarge Instructions:\nPlease return to the hospital if you develop fevers, chills,\nnausea, vomiting, chest pain or shortness of breath. It is very\nimportant that you have your blood drawn tomorrow to make sure\nyour potassium and creatinine are stable. Dr.[**Last Name (STitle) 5263**] will\nfollow-up those results and help adjust your medications. You\nalso need to follow-up in the [**Hospital 1944**] clinic to have your\nblood pressure checked since two of your blood pressure\nmedicines have been stopped.\n\nFollowup Instructions:\nDr. [**Last Name (STitle) **], [**Location (un) **], Central Suite, [**Hospital **] Clinic:\nMonday [**10-3**] 8:30  [**Telephone/Fax (1) 250**]\n[**Name6 (MD) **] [**Last Name (NamePattern4) **], MD Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2107-10-19**]\n11:00\n[**First Name11 (Name Pattern1) 1112**] [**Last Name (NamePattern4) 2604**], MD Phone:[**Telephone/Fax (1) 1237**] Date/Time:[**2107-10-27**]\n12:40\n[**First Name4 (NamePattern1) 1877**] [**Last Name (NamePattern1) **],MD, PHD[**MD Number(3) 708**]:[**Telephone/Fax (1) 721**] Date/Time:[**2107-10-28**]\n9:00\n\n\n\n"
+    }
+  ]
+}

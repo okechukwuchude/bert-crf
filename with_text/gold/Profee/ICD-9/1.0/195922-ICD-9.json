@@ -1,0 +1,1467 @@
+{
+  "hadm_id": 195922,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1117844,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 177,
+          "end": 200,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CORONARY ARTERY DISEASE"
+        },
+        {
+          "begin": 201,
+          "end": 238,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "MapType.MULTI",
+          "covered_text": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE"
+        },
+        {
+          "begin": 239,
+          "end": 247,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DIABETES"
+        }
+      ],
+      "text": "[**2199-12-28**] 5:52 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 81546**]\n Reason: eval for PTX\n Admitting Diagnosis: CORONARY ARTERY DISEASE;CHRONIC OBSTRUCTIVE PULMONARY DISEASE;DIABETES\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  71 year old woman s/p ct pull\n REASON FOR THIS EXAMINATION:\n  eval for PTX\n ______________________________________________________________________________\n WET READ: SHfd SAT [**2199-12-28**] 8:28 PM\n  LEFT UPPER LOBE MEDIAL LINE IS LIKELY OVERLYING STRUCTURES. NO DEFINITE\n  PNEUMOTHORAX (REPEAT IF CLINICALLY CONCERNED).  LEFT LINGULA AND LOWER LOBE\n  OPACITY AT LOCATION OF PRIOR CT ? SMALL BLEED OR ATX.  R IJ CATHTER IS KINKED.\n ______________________________________________________________________________\n                                 FINAL REPORT\n PORTABLE CHEST, [**2199-12-28**]\n\n CLINICAL INFORMATION:  Status post chest tube pulled.\n\n FINDINGS:\n\n Comparison is made to the prior study from [**2199-12-26**].\n\n Since the prior study, the right IJ sheath has become kinked.  The left chest\n tube has been pulled.  There is a density in the left side of the chest along\n the chest tube tracts.  There is mild bibasilar atelectasis as well as a\n smaller left-sided pleural effusion.  Patient is status post CABG.  Since the\n prior study, endotracheal tube, nasogastric tube and mediastinal drains have\n been removed.\n\n\n"
+    },
+    {
+      "note_id": 719280,
+      "category": "Nutrition",
+      "description": "Clinical Nutrition Note",
+      "annotations": [
+        {
+          "begin": 51,
+          "end": 65,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "morbid obesity"
+        },
+        {
+          "begin": 67,
+          "end": 71,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 73,
+          "end": 77,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 114,
+          "end": 134,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 136,
+          "end": 139,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 537,
+          "end": 558,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "uncontrolled diabetes"
+        }
+      ],
+      "text": "Ht: 66\n   Admit wt: 133.7 kg\n   BMI: 47.5\n   PMHx: morbid obesity, IDDM, COPD, s/p left THR, s/p hysterectomy,\n   hypercholesterolemia, HTN\n   Labs: Noted; FSBG: 89-159 mg/dL\n   Meds: Insulin drip, Dextrose 5% @ 10ml/hr, Ranitidine, Colace\n   70 YO female s/p CABG x3 [**12-26**].  Extubated this AM.  NPO at this time\n   with plan to advance diet.  [**Name8 (MD) **] RN notes on floor prior to surgery,\n   patient tolerated po\ns with good appetite.  RN/PA in with patient,\n   unable to interview.  [**Last Name (un) 72**] following for uncontrolled diabetes.\n   Potential for nutrition risk. Patient being monitored. Current\n   intervention if any, listed below:\n   1.       Advance diet to heart healthy/diabetic when medically feasible\n   2.       BS management\n   3.       Replete lytes p.r.n.\n   4.       Will follow to check diet advancement/tolerance, page if\n   questions *[**Numeric Identifier 606**]\n   5.       Electronically signed by [**First Name8 (NamePattern2) 886**] [**Last Name (NamePattern1) 887**], RD, LDN\n   [**2199-12-27**] 11:15\n   6.\n   7.\n"
+    },
+    {
+      "note_id": 1117169,
+      "category": "Radiology",
+      "description": "CAROTID SERIES COMPLETE",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 49,
+          "code": "93880",
+          "code_system": "CPT",
+          "description": "Duplex scan of extracranial arteries; complete bilateral study",
+          "type": "Human",
+          "covered_text": "CAROTID SERIES COMPLETE"
+        },
+        {
+          "begin": 142,
+          "end": 145,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 179,
+          "end": 202,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CORONARY ARTERY DISEASE"
+        },
+        {
+          "begin": 203,
+          "end": 240,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "MapType.MULTI",
+          "covered_text": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE"
+        },
+        {
+          "begin": 241,
+          "end": 249,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DIABETES"
+        }
+      ],
+      "text": "[**2199-12-24**] 9:08 AM\n CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 81545**]\n Reason: CAD, ?STENOSIS\n Admitting Diagnosis: CORONARY ARTERY DISEASE;CHRONIC OBSTRUCTIVE PULMONARY DISEASE;DIABETES\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  70 year old woman with cad\n REASON FOR THIS EXAMINATION:\n  ? stenosis\n ______________________________________________________________________________\n                                 FINAL REPORT\n\n Standard Report Carotid US\n\n Study: Carotid Series Complete\n\n Reason:  CAD, r/o stenosis\n\n Findings: Duplex evaluation was performed of bilateral carotid arteries. On\n the right there is moderate heterogeneous plaque in the ICA and CCA. On the\n left there is mild heterogeneous plaque seen in the ICA and CCA.\n\n On the right systolic/end diastolic velocities of the ICA proximal, mid and\n distal respectively are 54/18, 56/25, 69/29 cm/sec. CCA  peak systolic\n velocity is 56 cm/sec. ECA peak systolic velocity is 66 cm/sec. The ICA/CCA\n ratio is 1.23. These findings are consistent with <40% stenosis.\n\n On the left systolic/end diastolic velocities of the ICA proximal, mid and\n distal respectively are 46/10, 59/22, 88/29 cm/sec. CCA peak systolic velocity\n is 63 cm/sec. ECA peak systolic velocity is 69 cm/sec. The ICA/CCA ratio is\n 1.4. These findings are consistent with <40% stenosis.\n\n  Right vertebral antegrade artery flow.\n  Left vertebral antegrade artery flow.\n\n Impression: Right ICA stenosis <40%.\n             Left ICA stenosis <40%.\n\n"
+    },
+    {
+      "note_id": 1117559,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 37,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST PORT."
+        },
+        {
+          "begin": 168,
+          "end": 191,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CORONARY ARTERY DISEASE"
+        },
+        {
+          "begin": 192,
+          "end": 229,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "MapType.MULTI",
+          "covered_text": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE"
+        },
+        {
+          "begin": 230,
+          "end": 238,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DIABETES"
+        },
+        {
+          "begin": 1177,
+          "end": 1188,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary collapse",
+          "type": "MapType.APPROX",
+          "covered_text": "atelectasis"
+        }
+      ],
+      "text": "[**2199-12-26**] 1:52 PM\n CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 81415**]\n Reason: ptx\n Admitting Diagnosis: CORONARY ARTERY DISEASE;CHRONIC OBSTRUCTIVE PULMONARY DISEASE;DIABETES\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  71 year old woman with s/p CABG - please [**First Name8 (NamePattern2) 43**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] if there is\n  concern with findings\n REASON FOR THIS EXAMINATION:\n  ptx\n ______________________________________________________________________________\n                                 FINAL REPORT\n PORTABLE CHEST, [**2199-12-26**]\n\n COMPARISON:  Radiograph of two days earlier.\n\n INDICATION:  Status post coronary artery bypass surgery.\n\n FINDINGS:  Interval median sternotomy.  Widening of cardiomediastinal contour\n is likely due to postoperative status of the patient and accentuation by\n portable supine technique.  Endotracheal tube, Swan-Ganz catheter, mediastinal\n drains and left chest tube are in standard position with no visible\n pneumothorax.  Scattered areas of atelectasis are present in the left upper\n and both lower lungs, but there are no dense areas of consolidation.\n\n\n"
+    },
+    {
+      "note_id": 1117166,
+      "category": "Radiology",
+      "description": "CHEST (PRE-OP PA & LAT)",
+      "annotations": [
+        {
+          "begin": 142,
+          "end": 165,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CORONARY ARTERY DISEASE"
+        },
+        {
+          "begin": 166,
+          "end": 203,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "MapType.MULTI",
+          "covered_text": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE"
+        },
+        {
+          "begin": 204,
+          "end": 212,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DIABETES"
+        },
+        {
+          "begin": 235,
+          "end": 258,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CORONARY ARTERY DISEASE"
+        },
+        {
+          "begin": 259,
+          "end": 296,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "MapType.MULTI",
+          "covered_text": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE"
+        },
+        {
+          "begin": 297,
+          "end": 305,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DIABETES"
+        },
+        {
+          "begin": 448,
+          "end": 452,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 641,
+          "end": 645,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        }
+      ],
+      "text": "[**2199-12-24**] 8:55 AM\n CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 81306**]\n Reason: CORONARY ARTERY DISEASE;CHRONIC OBSTRUCTIVE PULMONARY DISEASE;DIABETES\n Admitting Diagnosis: CORONARY ARTERY DISEASE;CHRONIC OBSTRUCTIVE PULMONARY DISEASE;DIABETES\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  70 year old woman with COPD/CAD\n REASON FOR THIS EXAMINATION:\n  ? pulm process\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  COPD and coronary artery disease, preoperative.\n\n FINDINGS:  No previous images.  There is enlargement of the cardiac silhouette\n with tortuosity of the aorta.  Mild indistinctness of pulmonary vessels could\n reflect some mild elevated pulmonary venous pressure.  However, no evidence of\n acute focal pneumonia.\n\n\n"
+    },
+    {
+      "note_id": 719739,
+      "category": "Physician",
+      "description": "ICU Note - CVI",
+      "annotations": [
+        {
+          "begin": 162,
+          "end": 176,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "morbid obesity"
+        },
+        {
+          "begin": 177,
+          "end": 181,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 182,
+          "end": 186,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 230,
+          "end": 250,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 251,
+          "end": 254,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 3332,
+          "end": 3337,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        },
+        {
+          "begin": 3468,
+          "end": 3473,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        },
+        {
+          "begin": 5730,
+          "end": 5736,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "anemia"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   HD8   POD 4-CABG x 3\n   Ejection Fraction:50%\n   Hemoglobin A1c:9.9\n   Pre-Op Weight:299 lbs   135.63 kgs\n   Baseline Creatinine:1.1-1.4\n   PMH: morbid obesity,IDDM,COPD(noc 3Lnc),s/p LT THR, s/p hysterectomy,\n   hypercholesterolemia,HTN\n   [**Last Name (un) **]:Verapamil 360mg daily,HCTZ 25mg daily,ASA 81mg daily,Lipitor 80mg\n   daily,Amitryptilline 50mg daily, Mirtazapine 15mg daily, Lantus 14u\n   HS,Humalog 4u at dinner,Ipratropium 0.5ml neb QID,Lisinopril 40mg\n   daily,Ranitidine 150mg [**Hospital1 **]\n   Current medications:\n   Acetaminophen, Albuterol-Ipratropium, Aspirin EC, Atorvastatin,\n   Docusate Sodium, Furosemide, Heparin, Insulin, Ipratropium Bromide Neb,\n   Metoprolol, Morphine Sulfate, Ranitidine, TraMADOL\n   24 Hour Events:\n   Remains in ICU awaiting floor bed\n MIDLINE - START [**2199-12-29**] 11:00 AM\n   left basilic\n [**Location (un) 549**] LINE - STOP [**2199-12-29**] 05:30 PM\n   Allergies:\n   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)\n   Nausea/Vomiting\n   Codeine\n   Nausea/Vomiting\n   Aspirin\n   Nausea/Vomiting\n   Last dose of Antibiotics:\n   Vancomycin - [**2199-12-28**] 08:30 AM\n   Infusions:\n   Other ICU medications:\n   Furosemide (Lasix) - [**2199-12-29**] 05:13 PM\n   Metoprolol - [**2199-12-29**] 05:13 PM\n   Heparin Sodium - [**2199-12-29**] 10:41 PM\n   Other medications:\n   Flowsheet Data as of  [**2199-12-30**] 08:18 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**01**] a.m.\n   Tmax: 37.4\nC (99.4\n   T current: 36.2\nC (97.1\n   HR: 95 (88 - 107) bpm\n   BP: 131/83(94) {94/48(58) - 136/87(132)} mmHg\n   RR: 16 (15 - 24) insp/min\n   SPO2: 99%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 138 kg (admission): 133.7 kg\n   Height: 66 Inch\n             Total In:\n                                                                    700 mL\n                                                                     50 mL\n   PO:\n                                                                    120 mL\n             Tube feeding:\n   IV Fluid:\n                                                                    230 mL\n                                                                     50 mL\n   Blood products:\n                                                                    350 mL\n   Total out:\n                                                                  3,950 mL\n                                                                    540 mL\n   Urine:\n                                                                  3,950 mL\n                                                                    540 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                 -3,250 mL\n                                                                   -490 mL\n   Respiratory support\n   O2 Delivery Device: Aerosol-cool\n   SPO2: 99%\n   ABG: ///32/\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes :\n   upper airways ), (Sternum: Stable )\n   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present\n   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Diminished), (Pulse - Posterior tibial: Diminished)\n   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Diminished), (Pulse - Posterior tibial: Diminished)\n   Skin: (Incision: Clean / Dry / Intact), left EVH\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   (Responds to: Verbal stimuli), Moves all extremities\n   Labs / Radiology\n   184 K/uL\n   9.0 g/dL\n   90 mg/dL\n   1.1 mg/dL\n   32 mEq/L\n    4.1 mEq/L\n   14 mg/dL\n   102 mEq/L\n   139 mEq/L\n   27.8 %\n   9.1 K/uL\n        [image002.jpg]\n                             [**2199-12-27**]  06:15 AM\n                             [**2199-12-27**]  08:00 AM\n                             [**2199-12-28**]  01:08 AM\n                             [**2199-12-28**]  03:00 AM\n                             [**2199-12-28**]  05:00 AM\n                             [**2199-12-28**]  07:00 AM\n                             [**2199-12-29**]  12:46 AM\n                             [**2199-12-29**]  06:00 AM\n                             [**2199-12-29**]  10:38 PM\n                             [**2199-12-30**]  02:53 AM\n   WBC\n   13.2\n   10.9\n   9.1\n   Hct\n   26.9\n   25.7\n   28.0\n   27.8\n   Plt\n   136\n   138\n   184\n   Creatinine\n   1.2\n   1.0\n   1.1\n   TCO2\n   24\n   26\n   Glucose\n   130\n   150\n   140\n   138\n   124\n   133\n   143\n   90\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Fibrinogen:231 mg/dL, Lactic\n   Acid:2.8 mmol/L, Ca:8.3 mg/dL, Mg:2.1 mg/dL, PO4:2.9 mg/dL\n   Assessment and Plan\n   AEROBIC CAPACITY / ENDURANCE, IMPAIRED, AIRWAY CLEARANCE, IMPAIRED,\n   BALANCE, IMPAIRED, COUGH, IMPAIRED, GAIT, IMPAIRED, KNOWLEDGE,\n   IMPAIRED, POSTURE, IMPAIRED, RESPIRATION / GAS EXCHANGE, IMPAIRED,\n   TRANSFERS, IMPAIRED, CORONARY ARTERY BYPASS GRAFT (CABG)\n   Assessment and Plan:\n   Neurologic: Neuro checks Q: 4 hr, Pain controlled, denies pain\n   currently, percocet prn effective\n   Cardiovascular: Aspirin, Beta-blocker, Statins, Discontinue epicardial\n   wires, no further pauses, continues in SR with betablocker increasing\n   doses, dc epicardial wires\n   Pulmonary: IS, cough and deep breath, increase ambulation\n   Gastrointestinal / Abdomen: bowel regimen\n   Nutrition: Regular diet\n   Renal: Foley, Adequate UO, dc foley, continue lasix for diuresis with\n   goal 1000 ml negative for 24 hours, cr at baseline\n   Hematology: stable anemia\n   Endocrine: RISS, Lantus (R), goal BG < 150\n   Infectious Disease: wbc 9, afebrile no evidence of infection\n   Lines / Tubes / Drains: Foley, Pacing wires, dc foley, dc wires\n   Wounds: Dry dressings\n   Consults: P.T.\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale, Lantus (R) protocol\n   Lines:\n   20 Gauge - [**2199-12-29**] 06:02 AM\n   Midline - [**2199-12-29**] 11:00 AM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: Transfer to floor\n"
+    },
+    {
+      "note_id": 88632,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 66,
+          "end": 69,
+          "code": "414.05",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of bypass graft",
+          "type": "MapType.APPROX",
+          "covered_text": "CAB"
+        },
+        {
+          "begin": 240,
+          "end": 270,
+          "code": "93318",
+          "code_system": "CPT",
+          "description": "Echocardiography, transesophageal (TEE) for monitoring purposes, including probe placement, real time 2-dimensional image acquisition and interpretation leading to ongoing (continuous) assessment of (dynamically changing) cardiac pumping function",
+          "type": "Human",
+          "covered_text": "Full Doppler and color Doppler"
+        },
+        {
+          "begin": 528,
+          "end": 538,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "dilated LV"
+        },
+        {
+          "begin": 1304,
+          "end": 1306,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "MR"
+        },
+        {
+          "begin": 1400,
+          "end": 1402,
+          "code": "424.2",
+          "code_system": "ICD-9-CM",
+          "description": "Tricuspid valve disorders, specified as nonrheumatic",
+          "type": "MapType.APPROX",
+          "covered_text": "TR"
+        },
+        {
+          "begin": 2766,
+          "end": 2780,
+          "code": "429.9",
+          "code_system": "ICD-9-CM",
+          "description": "Heart disease, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "RV\nhypokinesis"
+        },
+        {
+          "begin": 3115,
+          "end": 3135,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral regurgitation"
+        },
+        {
+          "begin": 3384,
+          "end": 3398,
+          "code": "429.9",
+          "code_system": "ICD-9-CM",
+          "description": "Heart disease, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "RV hypokinesis"
+        },
+        {
+          "begin": 3487,
+          "end": 3489,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "MR"
+        },
+        {
+          "begin": 3508,
+          "end": 3510,
+          "code": "424.2",
+          "code_system": "ICD-9-CM",
+          "description": "Tricuspid valve disorders, specified as nonrheumatic",
+          "type": "MapType.APPROX",
+          "covered_text": "TR"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: Coronary artery disease for CAB G\nHeight: (in) 66\nWeight (lb): 300\nBSA (m2): 2.38 m2\nBP (mm Hg): 100/60\nHR (bpm): 70\nStatus: Inpatient\nDate/Time: [**2199-12-26**] at 12:46\nTest: TEE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Adequate\n\n\nINTERPRETATION:\n\nFindings:\n\nLEFT ATRIUM: Dilated LA. No spontaneous echo contrast or thrombus in the\nLA/LAA or the RA/RAA.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.\n\nLEFT VENTRICLE: Mildly dilated LV cavity. Moderate regional LV systolic\ndysfunction. Mildly depressed LVEF.\n\nLV WALL MOTION: Regional LV wall motion abnormalities include: basal inferior\n- hypo; mid inferior - hypo; basal inferolateral - hypo; mid inferolateral -\nhypo; anterior apex - hypo; septal apex - hypo; inferior apex - hypo; lateral\napex - hypo;\n\nRIGHT VENTRICLE: Moderately dilated RV cavity.\n\nAORTA: Normal aortic diameter at the sinus level. Complex (mobile) atheroma in\naortic root. Normal ascending aorta diameter. Focal calcifications in\nascending aorta. Normal aortic arch diameter. Complex (mobile) atheroma in the\ndescending aorta.\n\nAORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. Trace AR.\n\nMITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. Mild (1+) MR.\n\nTRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild to moderate\n[[**12-7**]+] TR.\n\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. No PS.\nPhysiologic PR.\n\nPERICARDIUM: No pericardial effusion.\n\nGENERAL COMMENTS: A TEE was performed in the location listed above. I certify\nI was present in compliance with HCFA regulations. The patient was under\ngeneral anesthesia throughout the procedure. The TEE probe was passed with\nassistance from the anesthesioology staff using a laryngoscope. No TEE related\ncomplications. Suboptimal image quality - poor echo windows. Suboptimal image\nquality - body habitus. Image quality was suboptimald - poor esophageal\ncontact. The patient appears to be in sinus rhythm. Results were personally\nreviewed with the MD caring for the patient.\n\nConclusions:\nPRE-BYPASS:\nThe left atrium is dilated. No spontaneous echo contrast or thrombus is seen\nin the body of the left atrium/left atrial appendage or the body of the right\natrium/right atrial appendage. No atrial septal defect is seen by 2D or color\nDoppler.\nThe left ventricular cavity is mildly dilated. There is moderate regional left\nventricular systolic dysfunction with apical hypokinesis and mid basal\nhyokinesis in the RCA territory. Due to suboptimal imaging, other WMA might\nhave been missed.. Overall left ventricular systolic function is mildly\ndepressed (LVEF=40 %).\n\nThe right ventricular cavity is moderately dilated with mild global RV\nhypokinesis.\n\nThere are complex (mobile) atheroma in the aortic root There are complex\n(mobile) atheroma in the descending aorta.\nThe aortic valve leaflets (3) are mildly thickened but aortic stenosis is not\npresent. Trace aortic regurgitation is seen.\nThe mitral valve leaflets are mildly thickened. There is no mitral valve\nprolapse. Mild (1+) mitral regurgitation is seen.\nThe tricuspid valve leaflets are mildly thickened. There is no pericardial\neffusion.\nDr.[**Last Name (STitle) 28**] was notified in person of the results on Mrs.[**Known lastname 1067**] before surgical\nincision.\n\nPost_Bypass:\nMild global RV hypokinesis.\nOverall LVEF 40% with similar wall motional abnormalities.\nIntact thoracic aorta.\nMild MR. Mild to moderate TR.\n\n\n"
+    },
+    {
+      "note_id": 88633,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 236,
+          "end": 239,
+          "code": "93318",
+          "code_system": "CPT",
+          "description": "Echocardiography, transesophageal (TEE) for monitoring purposes, including probe placement, real time 2-dimensional image acquisition and interpretation leading to ongoing (continuous) assessment of (dynamically changing) cardiac pumping function",
+          "type": "Human",
+          "covered_text": "TTE"
+        },
+        {
+          "begin": 434,
+          "end": 444,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "dilated RA"
+        },
+        {
+          "begin": 1251,
+          "end": 1253,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "MR"
+        },
+        {
+          "begin": 1318,
+          "end": 1320,
+          "code": "424.2",
+          "code_system": "ICD-9-CM",
+          "description": "Tricuspid valve disorders, specified as nonrheumatic",
+          "type": "MapType.APPROX",
+          "covered_text": "TR"
+        },
+        {
+          "begin": 2297,
+          "end": 2317,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral regurgitation"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: Left ventricular function. Right ventricular function\nHeight: (in) 67\nWeight (lb): 287\nBSA (m2): 2.36 m2\nBP (mm Hg): 100/60\nHR (bpm): 77\nStatus: Inpatient\nDate/Time: [**2199-12-24**] at 15:12\nTest: TTE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Suboptimal\n\n\nINTERPRETATION:\n\nFindings:\n\nLEFT ATRIUM: Elongated LA.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA.\n\nLEFT VENTRICLE: Normal LV wall thickness, cavity size, and global systolic\nfunction (LVEF>55%). Suboptimal technical quality, a focal LV wall motion\nabnormality cannot be fully excluded. No resting LVOT gradient. No VSD.\n\nRIGHT VENTRICLE: Normal RV wall thickness. Dilated RV cavity. RV function\ndepressed.\n\nAORTA: Normal aortic diameter at the sinus level. Focal calcifications in\naortic root. Normal ascending aorta diameter. Focal calcifications in\nascending aorta. Mildly dilated aortic arch. Focal calcifications in aortic\narch.\n\nAORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. No AR.\n\nMITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. Moderate mitral\nannular calcification. Mild thickening of mitral valve chordae. Calcified tips\nof papillary muscles. No MS. Mild (1+) MR.\n\nTRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. Normal\ntricuspid valve supporting structures. No TS. Normal PA systolic pressure.\n\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. No PS.\nPhysiologic PR. Normal main PA. No Doppler evidence for PDA\n\nPERICARDIUM: No pericardial effusion.\n\nGENERAL COMMENTS: Suboptimal image quality - body habitus.\n\nConclusions:\nThe left atrium is elongated. Left ventricular wall thickness, cavity size,\nand global systolic function are grosslynormal (LVEF>55%). Due to suboptimal\ntechnical quality, a focal wall motion abnormality cannot be fully excluded.\nThere is no ventricular septal defect. The right ventricular cavity is dilated\nwith depressed free wall contractility. The aortic arch is mildly dilated.\nThere are focal calcifications in the aortic arch. The aortic valve leaflets\n(3) are mildly thickened but aortic stenosis is not present. No aortic\nregurgitation is seen. The mitral valve leaflets are mildly thickened. There\nis no mitral valve prolapse. Mild (1+) mitral regurgitation is seen. The\nestimated pulmonary artery systolic pressure is normal. There is no\npericardial effusion.\n\nIMPRESSION: Suboptimal image quality. Left ventricular systolic function\nappears grossly normal; right ventricular systolic function appears depressed\n\n\n"
+    },
+    {
+      "note_id": 229125,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 46,
+          "end": 69,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "ventricular hypertrophy"
+        },
+        {
+          "begin": 71,
+          "end": 104,
+          "code": "426.50",
+          "code_system": "ICD-9-CM",
+          "description": "Bundle branch block, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Intraventricular conduction delay"
+        }
+      ],
+      "text": "Sinus rhythm.  Left atrial abnormality.  Left ventricular hypertrophy.\nIntraventricular conduction delay.  Compared to the previous tracing of [**2199-12-26**]\nventricular pacing is no longer recorded.  The tracing is similar to that\nrecorded on [**2199-12-24**].  However, there are new T wave inversions in leads V4-V6,\nin the context of variation in precordial lead placement.  Clinical correlation\nis suggested.\n\n"
+    },
+    {
+      "note_id": 719247,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 21,
+          "end": 24,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 68,
+          "end": 71,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 73,
+          "end": 87,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "morbid obesity"
+        },
+        {
+          "begin": 88,
+          "end": 92,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 93,
+          "end": 97,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 141,
+          "end": 161,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 162,
+          "end": 165,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 3503,
+          "end": 3508,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        },
+        {
+          "begin": 3572,
+          "end": 3577,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        },
+        {
+          "begin": 5433,
+          "end": 5439,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "anemia"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   h/o CAD s/p CABGx3\n   Chief complaint:\n   PMHx:\n   CAD, morbid obesity,IDDM,COPD(noc 3Lnc),s/p LT THR, s/p hysterectomy,\n   hypercholesterolemia,HTN\n   Current medications:\n   Acetaminophen  6. Aspirin EC 11. Docusate Sodium 15. Insulin 16.\n   Magnesium Sulfate 17. Metoclopramide 19. Morphine Sulfate 22.\n   Phenylephrine 25. Propofol 26.  Ranitidine 29. Vasopressin 30.\n   Vancomycin\n   24 Hour Events:\n OR RECEIVED - At [**2199-12-26**] 01:00 PM\n INVASIVE VENTILATION - START [**2199-12-26**] 01:00 PM\n NASAL SWAB - At [**2199-12-26**] 01:51 PM\n ARTERIAL LINE - START [**2199-12-26**] 02:04 PM\n CCO PAC - START [**2199-12-26**] 02:04 PM\n [**Location (un) 549**] LINE - START [**2199-12-26**] 02:05 PM\n EKG - At [**2199-12-26**] 03:06 PM\n   Allergies:\n   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)\n   Nausea/Vomiting\n   Codeine\n   Nausea/Vomiting\n   Aspirin\n   Nausea/Vomiting\n   Last dose of Antibiotics:\n   Vancomycin - [**2199-12-26**] 08:52 PM\n   Infusions:\n   Phenylephrine - 0.8 mcg/Kg/min\n   Insulin - Regular - 2 units/hour\n   Other ICU medications:\n   Ranitidine (Prophylaxis) - [**2199-12-26**] 06:19 PM\n   Morphine Sulfate - [**2199-12-27**] 05:10 AM\n   Insulin - Regular - [**2199-12-27**] 05:56 AM\n   Other medications:\n   Flowsheet Data as of  [**2199-12-27**] 08:26 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**01**] a.m.\n   HR: 88 (67 - 91) bpm\n   BP: 112/60(75) {93/54(65) - 138/77(95)} mmHg\n   RR: 24 (10 - 27) insp/min\n   SPO2: 100%\n   Heart rhythm: AV Paced\n   Height: 66 Inch\n   CVP: 8 (8 - 24) mmHg\n   PAP: (31 mmHg) / (18 mmHg)\n   CO/CI (Fick): (8 L/min) / (3.4 L/min/m2)\n   CO/CI (CCO): (5 L/min) / (1.7 L/min/m2)\n   SvO2: 68%\n   Mixed Venous O2% sat: 66 - 76\n   Total In:\n                                                                  6,371 mL\n                                                                    280 mL\n   PO:\n   Tube feeding:\n   IV Fluid:\n                                                                  6,021 mL\n                                                                    280 mL\n   Blood products:\n                                                                    350 mL\n   Total out:\n                                                                  1,685 mL\n                                                                    795 mL\n   Urine:\n                                                                  1,505 mL\n                                                                    575 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  4,686 mL\n                                                                   -515 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CPAP/PSV\n   Vt (Set): 550 (550 - 550) mL\n   Vt (Spontaneous): 371 (371 - 551) mL\n   PS : 5 cmH2O\n   RR (Set): 18\n   RR (Spontaneous): 22\n   PEEP: 5 cmH2O\n   FiO2: 40%\n   RSBI: 75\n   PIP: 14 cmH2O\n   Plateau: 21 cmH2O\n   Compliance: 35.9 cmH2O/mL\n   SPO2: 100%\n   ABG: 7.31/49/122/24/-2\n   Ve: 8.6 L/min\n   PaO2 / FiO2: 305\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended, Non-tender\n   Left Extremities: (Edema: 1+), (Pulse - Dorsalis pedis: Present)\n   Right Extremities: (Edema: 1+), (Pulse - Dorsalis pedis: Present)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: Follows simple commands, Moves all extremities, Sedated,\n   minimal sedation\n   Labs / Radiology\n   147 K/uL\n   9.2 g/dL\n   130 mg/dL\n   1.1 mg/dL\n   24 mEq/L\n   4.9 mEq/L\n   15 mg/dL\n   110 mEq/L\n   137 mEq/L\n   27.3 %\n   9.5 K/uL\n        [image002.jpg]\n                             [**2199-12-26**]  03:15 PM\n                             [**2199-12-26**]  04:33 PM\n                             [**2199-12-26**]  05:06 PM\n                             [**2199-12-26**]  05:14 PM\n                             [**2199-12-26**]  09:52 PM\n                             [**2199-12-26**]  10:22 PM\n                             [**2199-12-27**]  01:54 AM\n                             [**2199-12-27**]  02:03 AM\n                             [**2199-12-27**]  06:15 AM\n                             [**2199-12-27**]  08:00 AM\n   WBC\n   9.5\n   Hct\n   25.1\n   29.4\n   27.3\n   Plt\n   147\n   Creatinine\n   1.1\n   TCO2\n   24\n   23\n   26\n   24\n   26\n   Glucose\n   127\n   100\n   95\n   151\n   94\n   130\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Fibrinogen:231 mg/dL, Lactic\n   Acid:2.8 mmol/L\n   Assessment and Plan\n   CORONARY ARTERY BYPASS GRAFT (CABG)\n   Assessment and Plan: 71 F POD#1 s/p CABG x 3 (LIMA to LAD, SVG to OM,\n   SVG to PDA)\n   Neurologic: Pain controlled, minimal sedation on propofol, wean for\n   extubation\n   Cardiovascular: Aspirin, No longer requiring pressors. A-V pacer\n   dependent at this point.  Restart Ca-channel blocker, ACE-I, and statin\n   as BP tolerates.\n   Pulmonary: Extubate today, (Ventilator mode: CPAP + PS), Requiring\n   minimal ventilatory support.\n   Gastrointestinal / Abdomen: Bowel regimen.  Start stress ulcer\n   prophylaxis\n   Nutrition: NPO, Advance diet after extubation\n   Renal: Foley, Adequate UO\n   Hematology: Stable anemia\n   Endocrine: RISS, Restart home insulin therapy once diet started\n   Infectious Disease: Peri-op ABx without evidence of infection\n   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - pleural , Chest\n   tube - mediastinal, Pacing wires\n   Wounds: Dry dressings\n   Imaging: CXR today\n   Fluids: KVO\n   Consults: CT surgery\n   Billing Diagnosis: Arrhythmia, (Respiratory distress: Insufficiency /\n   Post-op), Post-op hypotension\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2199-12-26**] 02:04 PM\n   CCO PAC - [**2199-12-26**] 02:04 PM\n   [**First Name4 (NamePattern1) 549**] [**Last Name (NamePattern1) **] - [**2199-12-26**] 02:05 PM\n   20 Gauge - [**2199-12-26**] 02:06 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP bundle:\n   Comments:\n   Communication: ICU consent signed Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 33 minutes\n"
+    },
+    {
+      "note_id": 719613,
+      "category": "Physician",
+      "description": "ICU Note - CVI",
+      "annotations": [
+        {
+          "begin": 162,
+          "end": 176,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "morbid obesity"
+        },
+        {
+          "begin": 177,
+          "end": 181,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 182,
+          "end": 186,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 230,
+          "end": 250,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 251,
+          "end": 254,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 3096,
+          "end": 3101,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        },
+        {
+          "begin": 3226,
+          "end": 3231,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   HD7   POD 3-CABG x 3\n   Ejection Fraction:50%\n   Hemoglobin A1c:9.9\n   Pre-Op Weight:299 lbs   135.63 kgs\n   Baseline Creatinine:1.1-1.4\n   PMH: morbid obesity,IDDM,COPD(noc 3Lnc),s/p LT THR, s/p hysterectomy,\n   hypercholesterolemia,HTN\n   [**Last Name (un) **]:Verapamil 360mg daily,HCTZ 25mg daily,ASA 81mg daily,Lipitor 80mg\n   daily,Amitryptilline 50mg daily, Mirtazapine 15mg daily, Lantus 14u\n   HS,Humalog 4u at dinner,Ipratropium 0.5ml neb QID,Lisinopril 40mg\n   daily,Ranitidine 150mg [**Hospital1 **]\n   Current medications:\n   Acetaminophen Albuterol-Ipratropium Albuterol 0.083% Neb Soln Aspirin\n   EC Atorvastatin Docusate Sodium  Furosemide Insulin Ipratropium Bromide\n   Neb Magnesium Sulfate Metoprolol Tartrate Metoclopramide Milk of\n   Magnesia Morphine Sulfate Potassium Chloride Ranitidine TraMADOL\n   (Ultram)\n   24 Hour Events: Chest tubes pulled, OOB\n   Allergies:\n   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)\n   Nausea/Vomiting\n   Codeine\n   Nausea/Vomiting\n   Aspirin\n   Nausea/Vomiting\n   Last dose of Antibiotics:\n   Vancomycin - [**2199-12-28**] 08:30 AM\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Flowsheet Data as of  [**2199-12-29**] 09:54 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**01**] a.m.\n   Tmax: 37.2\nC (99\n   T current: 36.9\nC (98.5\n   HR: 105 (96 - 110) bpm\n   BP: 135/83(96) {95/40(60) - 153/88(99)} mmHg\n   RR: 22 (14 - 28) insp/min\n   SPO2: 94%\n   Heart rhythm: ST (Sinus Tachycardia)\n   Wgt (current): 140.2 kg (admission): 133.7 kg\n   Height: 66 Inch\n             Total In:\n                                                                    677 mL\n                                                                     30 mL\n   PO:\n                                                                    240 mL\n             Tube feeding:\n   IV Fluid:\n                                                                    437 mL\n                                                                     30 mL\n   Blood products:\n   Total out:\n                                                                  2,625 mL\n                                                                  1,025 mL\n   Urine:\n                                                                  2,395 mL\n                                                                  1,025 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                 -1,948 mL\n                                                                   -995 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SPO2: 94%\n   ABG: ///27/\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular), (Distant heart sounds: Present),\n   tachy\n   Respiratory / Chest: (Breath Sounds: Diminished: at bases), (Sternum:\n   Stable )\n   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present\n   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present), (Pulse - Posterior tibial: Present)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 3)\n   Labs / Radiology\n   138 K/uL\n   8.5 g/dL\n   143\n   1.0 mg/dL\n   27 mEq/L\n   4.7 mEq/L\n   13 mg/dL\n   101 mEq/L\n   135 mEq/L\n   25.7 %\n   10.9 K/uL\n        [image002.jpg]\n                             [**2199-12-27**]  01:54 AM\n                             [**2199-12-27**]  02:03 AM\n                             [**2199-12-27**]  06:15 AM\n                             [**2199-12-27**]  08:00 AM\n                             [**2199-12-28**]  01:08 AM\n                             [**2199-12-28**]  03:00 AM\n                             [**2199-12-28**]  05:00 AM\n                             [**2199-12-28**]  07:00 AM\n                             [**2199-12-29**]  12:46 AM\n                             [**2199-12-29**]  06:00 AM\n   WBC\n   9.5\n   13.2\n   10.9\n   Hct\n   27.3\n   26.9\n   25.7\n   Plt\n   147\n   136\n   138\n   Creatinine\n   1.1\n   1.2\n   1.0\n   TCO2\n   26\n   24\n   26\n   Glucose\n   94\n   130\n   150\n   140\n   138\n   124\n   133\n   143\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Fibrinogen:231 mg/dL, Lactic\n   Acid:2.8 mmol/L, Mg:2.2 mg/dL\n   Assessment and Plan\n   71 F s/p CABG x 3 (LIMA to LAD, SVG to OM, SVG to PDA)[**12-26**]\n   Neurologic: Pain controlled, Ultram for pain\n   Cardiovascular: Aspirin, Beta-blocker, Statins, Increase beta blockers\n   with sinus tach.  V wires not capturing, A wires working.  EP following\n no further pauses\n   Pulmonary: IS, OOB/DB. nebs\n   Nutrition: Regular diet\n   Renal: Foley, Crea improving.  Auto diuresing.  Lasix PRN to run neg\n   Hematology: Serial Hct, Tx 1 unit RBC for Hct 25.9, tachy\n   Endocrine: RISS, Lantus (R), Start lantus, humalog at home doses\n   Infectious Disease: Afebrile, WBC decreasing\n   Lines / Tubes / Drains: Foley, Pacing wires\n   Wounds: Dry dressings\n   Fluids: KVO\n   Consults: P.T., EP dept\n   ICU Care\n   Glycemic Control:  Regular insulin sliding scale, Lantus (R) protocol\n   Lines:\n   [**First Name4 (NamePattern1) 549**] [**Last Name (NamePattern1) **] - [**2199-12-26**] 02:05 PM\n   20 Gauge - [**2199-12-29**] 06:02 AM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: Transfer to floor if bed available\n"
+    },
+    {
+      "note_id": 719757,
+      "category": "Rehab Services",
+      "description": "Physical Therapy Progress Note",
+      "annotations": [
+        {
+          "begin": 19,
+          "end": 24,
+          "code": "780.4",
+          "code_system": "ICD-9-CM",
+          "description": "Dizziness and giddiness",
+          "type": "MapType.EXACT",
+          "covered_text": "dizzy"
+        }
+      ],
+      "text": "Subjective:\n   I\"m dizzy\n   Objective:\n   Follow up PT visit to address goals of: [**2199-12-28**]. Patient seen today\n   for balance training, patient education\n   Updated medical status:\n   Activity\n   Clarification\n   I\n   S\n   CG\n   Min\n   Mod\n   Max\n   Rolling:\n\n\n\n\n\n   Supine/\n   Sidelying to Sit:\n\n\n\n\n\n   Transfer:\n\n\n\n\n\n   Sit to Stand:\n   Min A x 2\n\n\n\n                                      T\n\n\n   Ambulation:\n\n\n\n\n\n   Stairs:\n\n\n\n\n\n   Aerobic Activity Response:\n   Position\n   HR\n   BP\n   RR\n   O[2] sat\n   RPE\n   Rest\n   Sit\n   87\n   98/71\n   12\n   100 50% fm\n   Activity\n   Sit\n   87\n   94/46\n   18\n   100 4L NC\n   Recovery\n   /\n   Total distance walked:\n   Minutes:\n   Gait: attempted to ambulate. pt unable to tolerate ambulation [**1-7**]\n   dizziness\n   Balance: able to stand with cga and UE support. limited by dizziness\n   Education / Communication: pt ed: reenforced sternal precautions, pt\n   unable to recall precautions and not adhering to them despite max\n   cueing\n   case discussed with RN\n   Other: pain 0/10 at rest at incision. c/o pain with coughing. mod\n   strong dry cough\n   Assessment: 71 f s/p cabg x 3 presents with limited progression in\n   mobility [**1-7**] dizziness and fatigue. She will require rehab to maximize\n   functional independence. Prognosis is good to return to plof but pt\n   needs reminding of sternal precautions to protect her incision.\n   Anticipated Discharge: Rehab\n   Plan: progress ambulation, pt ed re: cardiac rehab/sternal precautions,\n   d/[**Name Initial (MD) **] planning\n   rn recs: oob to chair iwth 2 A.\n   Time: 10:25-10:50\n"
+    },
+    {
+      "note_id": 719742,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 133,
+          "end": 137,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 138,
+          "end": 142,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 187,
+          "end": 207,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 208,
+          "end": 211,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 3060,
+          "end": 3065,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        },
+        {
+          "begin": 3153,
+          "end": 3158,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        },
+        {
+          "begin": 5178,
+          "end": 5185,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypoxia"
+        },
+        {
+          "begin": 5212,
+          "end": 5226,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "morbid obesity"
+        },
+        {
+          "begin": 5426,
+          "end": 5432,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "anemia"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   71 y.o. F POD # 4 from CABG x 3 (LIMA to LAD, SVG to OM, SVG to PDA)\n   Chief complaint:\n   PMHx:\n   Morbid obesity,IDDM,COPD(noc 3Lnc), s/p LT THR, s/p hysterectomy,\n   hypercholesterolemia,HTN\n   [**Last Name (un) **]:Verapamil 360mg daily,HCTZ 25mg daily,ASA 81mg daily,Lipitor 80mg\n   daily,Amitryptilline 50mg daily, Mirtazapine 15mg daily, Lantus 14u\n   HS,Humalog 4u at dinner,Ipratropium 0.5ml neb QID,Lisinopril 40mg\n   daily,Ranitidine 150mg [**Hospital1 **]\n   Current medications:\n   24 Hour Events:\n MIDLINE - START [**2199-12-29**] 11:00 AM\n   left basilic\n [**Location (un) 549**] LINE - STOP [**2199-12-29**] 05:30 PM\n   Allergies:\n   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)\n   Nausea/Vomiting\n   Codeine\n   Nausea/Vomiting\n   Aspirin\n   Nausea/Vomiting\n   Last dose of Antibiotics:\n   Vancomycin - [**2199-12-28**] 08:30 AM\n   Infusions:\n   Other ICU medications:\n   Furosemide (Lasix) - [**2199-12-29**] 05:13 PM\n   Metoprolol - [**2199-12-29**] 05:13 PM\n   Heparin Sodium - [**2199-12-29**] 10:41 PM\n   Other medications:\n   Flowsheet Data as of  [**2199-12-30**] 08:23 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**01**] a.m.\n   Tmax: 37.4\nC (99.4\n   T current: 36.2\nC (97.1\n   HR: 95 (88 - 107) bpm\n   BP: 131/83(94) {94/48(58) - 136/87(132)} mmHg\n   RR: 16 (15 - 24) insp/min\n   SPO2: 99%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 138 kg (admission): 133.7 kg\n   Height: 66 Inch\n             Total In:\n                                                                    700 mL\n                                                                     50 mL\n   PO:\n                                                                    120 mL\n             Tube feeding:\n   IV Fluid:\n                                                                    230 mL\n                                                                     50 mL\n   Blood products:\n                                                                    350 mL\n   Total out:\n                                                                  3,950 mL\n                                                                    540 mL\n   Urine:\n                                                                  3,950 mL\n                                                                    540 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                 -3,250 mL\n                                                                   -490 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SPO2: 99%\n   ABG: ///32/\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular), (Murmur: No(t) Systolic, No(t)\n   Diastolic)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes :\n   )\n   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present\n   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present)\n   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present)\n   Neurologic: (Awake / Alert / Oriented: x 3), (Responds to: Verbal\n   stimuli), Moves all extremities\n   Labs / Radiology\n   184 K/uL\n   9.0 g/dL\n   90 mg/dL\n   1.1 mg/dL\n   32 mEq/L\n    4.1 mEq/L\n   14 mg/dL\n   102 mEq/L\n   139 mEq/L\n   27.8 %\n   9.1 K/uL\n        [image002.jpg]\n                             [**2199-12-27**]  06:15 AM\n                             [**2199-12-27**]  08:00 AM\n                             [**2199-12-28**]  01:08 AM\n                             [**2199-12-28**]  03:00 AM\n                             [**2199-12-28**]  05:00 AM\n                             [**2199-12-28**]  07:00 AM\n                             [**2199-12-29**]  12:46 AM\n                             [**2199-12-29**]  06:00 AM\n                             [**2199-12-29**]  10:38 PM\n                             [**2199-12-30**]  02:53 AM\n   WBC\n   13.2\n   10.9\n   9.1\n   Hct\n   26.9\n   25.7\n   28.0\n   27.8\n   Plt\n   136\n   138\n   184\n   Creatinine\n   1.2\n   1.0\n   1.1\n   TCO2\n   24\n   26\n   Glucose\n   130\n   150\n   140\n   138\n   124\n   133\n   143\n   90\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Fibrinogen:231 mg/dL, Lactic\n   Acid:2.8 mmol/L, Ca:8.3 mg/dL, Mg:2.1 mg/dL, PO4:2.9 mg/dL\n   Assessment and Plan\n   AEROBIC CAPACITY / ENDURANCE, IMPAIRED, AIRWAY CLEARANCE, IMPAIRED,\n   BALANCE, IMPAIRED, COUGH, IMPAIRED, GAIT, IMPAIRED, KNOWLEDGE,\n   IMPAIRED, POSTURE, IMPAIRED, RESPIRATION / GAS EXCHANGE, IMPAIRED,\n   TRANSFERS, IMPAIRED, CORONARY ARTERY BYPASS GRAFT (CABG)\n   Assessment and Plan: 71 y.o. F POD # 4 from CABG x 3 (LIMA to LAD, SVG\n   to OM, SVG to PDA)\n   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Tramadol with\n   adequate pain control. Please resume home anti-depresants medications\n   Cardiovascular: Aspirin, Beta-blocker, Statins, Discontinue epicardial\n   wires, HD stable. A few episodes of pauses at the end of last week, but\n   self-resolved with no further issues. B-blocker dose reduced.\n   Pulmonary: IS, Hypoxia, m/p related to patient's morbid obesity.\n   Ipratropium Bromide, Albuterol Nebs. OOB --> chair.\n   Gastrointestinal / Abdomen:\n   Nutrition: Regular diet\n   Renal: Foley, Adequate UO, Diurese 1-2 L today\n   Hematology: Serial Hct, Post-op anemia\n   Endocrine: RISS, BG well controlled. Keep < 150\n   Infectious Disease: No evidence of infection\n   Lines / Tubes / Drains: Foley\n   Wounds: Dry dressings\n   Imaging:\n   Fluids: KVO\n   Consults: CT surgery\n   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op)\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   20 Gauge - [**2199-12-29**] 06:02 AM\n   Midline - [**2199-12-29**] 11:00 AM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: Transfer to floor\n   Total time spent: 20 minutes\n"
+    },
+    {
+      "note_id": 1117917,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 27,
+          "end": 38,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST PORT."
+        },
+        {
+          "begin": 226,
+          "end": 249,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CORONARY ARTERY DISEASE"
+        },
+        {
+          "begin": 250,
+          "end": 287,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "MapType.MULTI",
+          "covered_text": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE"
+        },
+        {
+          "begin": 288,
+          "end": 296,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DIABETES"
+        },
+        {
+          "begin": 1294,
+          "end": 1305,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary collapse",
+          "type": "MapType.APPROX",
+          "covered_text": "atelectasis"
+        }
+      ],
+      "text": "[**2199-12-29**] 11:24 AM\n CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 81547**]\n Reason: Please do oblique view as well 60 cm Picc placed in left bas\n Admitting Diagnosis: CORONARY ARTERY DISEASE;CHRONIC OBSTRUCTIVE PULMONARY DISEASE;DIABETES\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  71 year old woman with new Picc\n REASON FOR THIS EXAMINATION:\n  Please do oblique view as well 60 cm Picc placed in left basilic vein, need\n  Picc tip placement\n ______________________________________________________________________________\n                                 FINAL REPORT\n PORTABLE CHEST [**2199-12-29**]\n\n CLINICAL INFORMATION:  PICC.\n\n FINDINGS:  Comparison is made to the prior study from [**2199-12-28**].  New left\n PICC terminates in the vicinity of the left subclavian vein.  Subclavian\n versus brachiocephalic.  It should be advanced.  Right IJ Cordis continues to\n be kinked.  Patient is status post median sternotomy.  Appearance of the chest\n is relatively unchanged.  Opacity along prior left chest tube tract remains at\n the left periphery mid lung zone.  There is a small left pleural effusion with\n left lower lobe atelectasis.\n\n IMPRESSION:\n Mild atelectasis at right base persists.  Heart and mediastinum within normal\n limits.\n\n\n"
+    },
+    {
+      "note_id": 719123,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 920,
+          "end": 927,
+          "code": "786.09",
+          "code_system": "ICD-9-CM",
+          "description": "Other dyspnea and respiratory abnormality",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Rhonchi"
+        },
+        {
+          "begin": 1091,
+          "end": 1113,
+          "code": "V46.11",
+          "code_system": "ICD-9-CM",
+          "description": "Dependence on respirator, status",
+          "type": "MapType.APPROX",
+          "covered_text": "Ventilation Assessment"
+        },
+        {
+          "begin": 1911,
+          "end": 1914,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 1915,
+          "end": 1919,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        }
+      ],
+      "text": "Demographics\n   Day of intubation: 1\n   Day of mechanical ventilation: 1\n   Ideal body weight: 59 None\n   Ideal tidal volume: [**Telephone/Fax (3) 430**] mL/kg\n   Airway\n   Airway Placement Data\n   Known difficult intubation: Yes\n   Procedure location: OR\n   Reason: Elective; Comments: For cardiac surgery\n   Tube Type\n   ETT:\n                   Position: 21 cm at teeth\n                   Route: Oral\n                   Type: Standard\n                   Size: 7.5mm\n   Tracheostomy tube:\n                   Type:\n                   Manufacturer:\n                   Size:\n                   PMV:\n   Cuff  Management:\n                   Vol/Press:\n                                   Cuff pressure:   cmH2O\n                                   Cuff volume:   mL /\n                   Airway problems:\n                   Comments:\n   Lung sounds\n   RLL Lung Sounds: Diminished\n   RUL Lung Sounds: Rhonchi\n   LUL Lung Sounds: Rhonchi\n   LLL Lung Sounds: Diminished\n   Comments:\n   Secretions\n   Sputum color / consistency: White  / Thick\n   Sputum source/amount: Suctioned / Small\n   Comments:\n   Ventilation Assessment\n   Level of breathing assistance: Continuous invasive ventilation\n   Visual assessment of breathing pattern:\n   Assessment of breathing comfort: No response (sleeping / sedated)\n   Non-invasive ventilation assessment:\n   Invasive ventilation assessment:\n   Trigger work assessment:\n   Dysynchrony assessment:\n   Comments:\n   Plan\n   Next 24-48 hours: Continue with daily RSBI tests & SBT's as tolerated,\n   Maintain PEEP at current level and reduce FiO2 as tolerated\n   Reason for continuing current ventilatory support: Sedated / Paralyzed,\n   Cannot protect airway, Hemodynimic instability, Underlying illness not\n   resolved\n   Respiratory Care Shift Procedures\n   Transports:\n   Destination (R/T)\n   Time\n   Complications\n   Comments\n   Bedside Procedures:\n   Comments:\n   Pt  S/P CABG, PMHx: CAD;COPD W/home O2;  (VRE,  MRSA). On fast track\n   wean but will not likely extubate till tomorrow.\n[**Name8 (MD) 530**], RRT  [**2199-12-26**] 17:23\n"
+    },
+    {
+      "note_id": 719514,
+      "category": "Rehab Services",
+      "description": "Physical Therapy Evaluation Note",
+      "annotations": [
+        {
+          "begin": 122,
+          "end": 125,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 279,
+          "end": 289,
+          "code": "786.50",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified chest pain",
+          "type": "MapType.EXACT",
+          "covered_text": "chest pain"
+        },
+        {
+          "begin": 735,
+          "end": 749,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "morbid obesity"
+        },
+        {
+          "begin": 751,
+          "end": 755,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 757,
+          "end": 761,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 777,
+          "end": 780,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1071,
+          "end": 1082,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary collapse",
+          "type": "MapType.APPROX",
+          "covered_text": "atelectasis"
+        }
+      ],
+      "text": "Attending Physician: [**Name10 (NameIs) 3641**]\n   Referral date: [**2199-12-26**]\n   Medical Diagnosis / ICD 9: 414.00 / CAD\n   Reason of referral: eval and treat\n   History of Present Illness / Subjective Complaint: 70yof admitted\n   [**2199-12-23**] with two week h/o R sided chest pain.  Upon admit p-MIBI\n   revealed anterior ischemia and cardiac cath on [**2199-12-23**] revealed 3VD and\n   50% EF.  On [**12-26**] pt underwent CABG x 3 (LIMA --> LAD, SVG --> OM, SVG\n   -> L PDA) with CPB 78\" and XCT 67\".  Pt closed with sternal wires and\n   talon procedure.  Pt extubated [**2199-12-27**] and post-op course complicated\n   by episodes of complete heart block and ventricular escape.\n   Past Medical / Surgical History: L THA, morbid obesity, IDDM, COPD,\n   inc. chol, HTN, 3LO2 @ night, 60py tob history, rare ETOH\n   Medications: Acetaminophen, Atorvastatin, Metoprolol, Tramadol, ASA,\n   Morphine\n   Radiology:\n   CXR [**12-24**]: no PNA, ?mild pulmonary venous pressure;\n   Carotid Duplex [**12-25**]: <40% stenosis bilaterally;\n   CXR [**12-26**]: scattered atelectasis in LUL and B LLs.\n   Labs:\n   26.9\n   8.8\n   136\n   13.2\n         [image002.jpg]\n   Other labs:\n   Cr: 1.2\n   HbA1c: 9.9\n   Activity Orders: Activity As Tolerated\n   Social / Occupational History: Drives, leaves house daily, no family\n   nearby\n   Living Environment: Lives alone in apartment, one level with stairs to\n   enter.\n   DME: walker, SC, tub seat and raised toilet seat\n   Prior Functional Status / Activity Level: I amb c AD, I ADLs, I IADLs,\n   no fall hx.\n   Objective Test\n   Arousal / Attention / Cognition / Communication: A&Ox3, however eyes\n   closed throughout treatment, needs max VCs to open eyes.\n   Hemodynamic Response\n   Aerobic Capacity\n   HR\n   BP\n   RR\n   O[2 ]sat\n   HR\n   BP\n   RR\n   O[2] sat\n   RPE\n   Supine\n   103\n   119/62\n   98% 1.5LO2\n   Rest\n   /\n   Sit\n   106/39\n   Activity\n   /\n   Stand\n   /\n   Recovery\n   106\n   113/77\n   99% 1.5LO2\n   Total distance walked: 3 lateral steps\n   Minutes:\n   Pulmonary Status: Diminished throughout posterior lungs, greatest in\n   lower lobes, sats well on 1.5LO2 throughout session.  Moderate dry,\n   non-productive cough, appropriately uses cough pillow with cues, unable\n   to initiate IS use as pt refusing to open eyes throughout treatment.\n   Integumentary / Vascular: Telemetry, R CVL, pacing wires, chest tube to\n   suction, sternal incisional dressing C/D/I, O2 via NC, foley catheter,\n   L LE ace wrap, R LE [**Male First Name (un) **] stalking\n   Sensory Integrity: not formally assessed, appeared intact to light\n   touch\n   Pain / Limiting Symptoms: c/o pain in L flank throughout treatment,\n   approximately [**6-14**], denies chest pain.\n   Posture: forward head, rounded shoulders, +obesity\n   Range of Motion\n   Muscle Performance\n   WFL B UEs/LEs\n   >/= [**2-7**] B UEs/[**Name Prefix (Prefixes) **]\n   [**Last Name (Prefixes) **] Function: Moves all extremities in isolation.\n   Functional Status:\n   Activity\n   Clarification\n   I\n   S\n   CG\n   Min\n   Mod\n   Max\n   Gait, Locomotion: Bed Mobility: modA x 2 semi-fowlers to short sit at\n   EOB, requires max VCs for technique and to avoid use of B UEs.\n   Sit to Stand: [**Female First Name (un) 332**] x 2 with max VCs to avoid B UE use.\n   Ambulation: 3 lateral steps to L with [**Female First Name (un) 332**] x 2.\n   Rolling:\n\n\n\n\n\n\n   Supine /\n   Sidelying to Sit:\n\n\n\n                                      T\n\n   Transfer:\n\n\n\n\n\n   Sit to Stand:\n\n\n                                      T\n\n\n   Ambulation:\n\n\n                                      T\n\n\n   Stairs:\n\n\n\n\n\n   Balance: Sits at EOB c CGA, eyes closed throughout.  Requires [**Female First Name (un) 332**] x 2\n   in stance [**1-7**] decreased endurance and LE muscle fatiguability as well\n   as L flank pain.\n   Education / Communication: Ed: role of PT, sternal precautions, D/C\n   plan, PT recs, cough pillow use.\n   [**Name6 (MD) **] c RN re: pt's status, level of A, D/C plan, PT recs.\n   Intervention: Sit to stand and ambulatory assessment.\n   Other:\n   Diagnosis:\n   1.\n   Aerobic Capacity / Endurance, Impaired\n   2.\n   Airway Clearance, Impaired\n   3.\n   Balance, Impaired\n   4.\n   Cough, Impaired\n   5.\n   Gait, Impaired\n   6.\n   Knowledge, Impaired\n   7.\n   Posture, Impaired\n   8.\n   Respiration / Gas Exchange, Impaired\n   9.\n   Transfers, Impaired\n   Clinical impression / Prognosis: 70yof s/p CABG x3, presents with above\n   impairments c/w cardiovascular pump dysfunction and subsequent\n   surgery.  Pt at this time is functioning significantly below her\n   previously independent baseline, limited primarily by her endurance,\n   functional strength and balance deficits.  Given pt's age, PLOF,\n   performance on initial eval and body habitus, pt would most benefit\n   from rehab once medically stable to maximize her functional potential\n   prior to d/c home.\n   Goals\n   Time frame: < 1 week\n   1.\n   [**Female First Name (un) 332**] x 2 all bed mobility\n   2.\n   [**Female First Name (un) 332**] to stand\n   3.\n   [**Female First Name (un) 332**] to ambulate 20' c RW\n   4.\n   [**First Name5 (NamePattern1) 332**] [**Last Name (NamePattern1) 11131**] step transfer to chair\n   5.\n   SpO2 >/= 90% on RA with mobility\n   6.\n   sits independently at EOB s LOB\n   Anticipated Discharge: Rehab\n   Treatment Plan:\n   Frequency / Duration: 2-4x/week x 1 week\n   *Bed Mobility\n   *Sit to Stand\n   *Transfer Training\n   *Balance Training\n   *O2 weaning and IS assessment\n   *Pt Education\n   *D/C Planning\n   T Patient agrees with the above goals and is willing to participate in\n   the rehabilitation program.\n   Time Frame: 16:45 -17:26\n   RN Recommendations: OOB to/from chair c RN A x2 or overhead Liko Lifts.\n"
+    },
+    {
+      "note_id": 719468,
+      "category": "Physician",
+      "description": "ICU Note - CVI",
+      "annotations": [
+        {
+          "begin": 145,
+          "end": 159,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "morbid obesity"
+        },
+        {
+          "begin": 160,
+          "end": 164,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 165,
+          "end": 169,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 213,
+          "end": 233,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 234,
+          "end": 237,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 3004,
+          "end": 3009,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   HD6\n   Ejection Fraction:50%\n   Hemoglobin A1c:9.9\n   Pre-Op Weight:299 lbs   135.63 kgs\n   Baseline Creatinine:1.1-1.4\n   PMH: morbid obesity,IDDM,COPD(noc 3Lnc),s/p LT THR, s/p hysterectomy,\n   hypercholesterolemia,HTN\n   [**Last Name (un) **]:Verapamil 360mg daily,HCTZ 25mg daily,ASA 81mg daily,Lipitor 80mg\n   daily,Amitryptilline 50mg daily, Mirtazapine 15mg daily, Lantus 14u\n   HS,Humalog 4u at dinner,Ipratropium 0.5ml neb QID,Lisinopril 40mg\n   daily,Ranitidine 150mg [**Hospital1 **]\n   Current medications:\n   Acetaminophen Albuterol-Ipratropium Albuterol Atorvastatin Docusate\n   Sodium Insulin Ipratropium Bromide Neb\n   Magnesium Sulfate Metoprolol Tartrate Metoclopramide Milk of Magnesia\n   Morphine Sulfate Potassium Chloride  Ranitidine TraMADOL (Ultram)\n   Vancomycin\n   24 Hour Events:\n   [**2199-12-27**] seen by EP for O/N pauses/junctional, no PPM planned\n   Allergies:\n   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)\n   Nausea/Vomiting\n   Codeine\n   Nausea/Vomiting\n   Aspirin\n   Nausea/Vomiting\n   Last dose of Antibiotics:\n   Vancomycin - [**2199-12-28**] 08:30 AM\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Flowsheet Data as of  [**2199-12-28**] 01:25 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**01**] a.m.\n   Tmax: 37.2\nC (99\n   T current: 37.2\nC (99\n   HR: 106 (81 - 110) bpm\n   BP: 118/58(72) {90/43(54) - 123/74(81)} mmHg\n   RR: 19 (11 - 22) insp/min\n   SPO2: 99%\n   Heart rhythm: ST (Sinus Tachycardia)\n   Wgt (current): 136 kg (admission): 133.7 kg\n   Height: 66 Inch\n             Total In:\n                                                                    628 mL\n                                                                    393 mL\n   PO:\n             60 mL\n   Tube feeding:\n   IV Fluid:\n                                                                    628 mL\n                                                                    333 mL\n   Blood products:\n   Total out:\n                                                                  2,625 mL\n                                                                  1,705 mL\n   Urine:\n                                                                  2,165 mL\n                                                                  1,485 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                 -1,997 mL\n                                                                 -1,312 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SPO2: 99%\n   ABG: ///28/\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular), Sinus tach\n   Respiratory / Chest: (Breath Sounds: Diminished: at bases)\n   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,\n   Hypoactive BS\n   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present), (Pulse - Posterior tibial: Present)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 3)\n   Labs / Radiology\n   136 K/uL\n   8.8 g/dL\n   124\n   1.2 mg/dL\n   28 mEq/L\n   5.0 mEq/L\n   14 mg/dL\n   105 mEq/L\n   137 mEq/L\n   26.9 %\n   13.2 K/uL\n        [image002.jpg]\n                             [**2199-12-26**]  09:52 PM\n                             [**2199-12-26**]  10:22 PM\n                             [**2199-12-27**]  01:54 AM\n                             [**2199-12-27**]  02:03 AM\n                             [**2199-12-27**]  06:15 AM\n                             [**2199-12-27**]  08:00 AM\n                             [**2199-12-28**]  01:08 AM\n                             [**2199-12-28**]  03:00 AM\n                             [**2199-12-28**]  05:00 AM\n                             [**2199-12-28**]  07:00 AM\n   WBC\n   9.5\n   13.2\n   Hct\n   29.4\n   27.3\n   26.9\n   Plt\n   147\n   136\n   Creatinine\n   1.1\n   1.2\n   TCO2\n   26\n   24\n   26\n   Glucose\n   151\n   94\n   130\n   150\n   140\n   138\n   124\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Fibrinogen:231 mg/dL, Lactic\n   Acid:2.8 mmol/L\n   Assessment and Plan\n   71 F s/p CABG x 3 (LIMA to LAD, SVG to OM, SVG to PDA)[**12-26**]\n   Neurologic: Ultram for pain.\n   Cardiovascular: Aspirin, Statins, EP consulted for complete heart\n   block/pauses.  OK to start low dose lopressor today per EP.  Keep V\n   demand at 50.  Keep PW in for the weekend per EP\n   Pulmonary: Discontinue chest tube(s), Pull drainage if drainage low.\n   IS/OOB\n   Nutrition: Regular diet\n   Renal: Foley, Good UOP with lasix to run neg.  Crea improving\n   Hematology: Hct stable.  ASA, teds, venodynes\n   Endocrine: RISS\n   Infectious Disease: afebrile, periop abx complete\n   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -\n   mediastinal, Pacing wires\n   Wounds: Dry dressings\n   Fluids: KVO\n   Consults: P.T.\n   ICU Care\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   [**First Name4 (NamePattern1) 549**] [**Last Name (NamePattern1) **] - [**2199-12-26**] 02:05 PM\n   Prophylaxis:\n   DVT: Boots, teds\n   Stress ulcer: H2 blocker\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: ICU\n"
+    },
+    {
+      "note_id": 229127,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 17,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Junctional rhythm"
+        },
+        {
+          "begin": 192,
+          "end": 217,
+          "code": "426.4",
+          "code_system": "ICD-9-CM",
+          "description": "Right bundle branch block",
+          "type": "MapType.APPROX",
+          "covered_text": "Right bundle-branch block"
+        }
+      ],
+      "text": "Junctional rhythm with atrial mechanism that could be independent sinus or\nectopic rhythm or possible varying retrograde conduction and also early\nquestion of capture, question of echo beats. Right bundle-branch block. Left\nanterior fascicular block. Consider left ventricular hypertrophy. ST-T wave\nabnormalities are primary and are non-specific. Clinical correlation is\nsuggested. Since the previous tracing of [**2199-12-24**] the rhythm as outlined has\nreplaced sinus rhythm and further ST-T wave changes are present.\n\n"
+    },
+    {
+      "note_id": 719252,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 68,
+          "end": 71,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 73,
+          "end": 87,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "morbid obesity"
+        },
+        {
+          "begin": 88,
+          "end": 92,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 93,
+          "end": 97,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 141,
+          "end": 161,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 162,
+          "end": 165,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 3503,
+          "end": 3508,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        },
+        {
+          "begin": 3572,
+          "end": 3577,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        },
+        {
+          "begin": 5433,
+          "end": 5439,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "anemia"
+        },
+        {
+          "begin": 5789,
+          "end": 5799,
+          "code": "427.9",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac dysrhythmia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Arrhythmia"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   h/o CAD s/p CABGx3\n   Chief complaint:\n   PMHx:\n   CAD, morbid obesity,IDDM,COPD(noc 3Lnc),s/p LT THR, s/p hysterectomy,\n   hypercholesterolemia,HTN\n   Current medications:\n   Acetaminophen  6. Aspirin EC 11. Docusate Sodium 15. Insulin 16.\n   Magnesium Sulfate 17. Metoclopramide 19. Morphine Sulfate 22.\n   Phenylephrine 25. Propofol 26.  Ranitidine 29. Vasopressin 30.\n   Vancomycin\n   24 Hour Events:\n OR RECEIVED - At [**2199-12-26**] 01:00 PM\n INVASIVE VENTILATION - START [**2199-12-26**] 01:00 PM\n NASAL SWAB - At [**2199-12-26**] 01:51 PM\n ARTERIAL LINE - START [**2199-12-26**] 02:04 PM\n CCO PAC - START [**2199-12-26**] 02:04 PM\n [**Location (un) 549**] LINE - START [**2199-12-26**] 02:05 PM\n EKG - At [**2199-12-26**] 03:06 PM\n   Allergies:\n   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)\n   Nausea/Vomiting\n   Codeine\n   Nausea/Vomiting\n   Aspirin\n   Nausea/Vomiting\n   Last dose of Antibiotics:\n   Vancomycin - [**2199-12-26**] 08:52 PM\n   Infusions:\n   Phenylephrine - 0.8 mcg/Kg/min\n   Insulin - Regular - 2 units/hour\n   Other ICU medications:\n   Ranitidine (Prophylaxis) - [**2199-12-26**] 06:19 PM\n   Morphine Sulfate - [**2199-12-27**] 05:10 AM\n   Insulin - Regular - [**2199-12-27**] 05:56 AM\n   Other medications:\n   Flowsheet Data as of  [**2199-12-27**] 08:26 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**01**] a.m.\n   HR: 88 (67 - 91) bpm\n   BP: 112/60(75) {93/54(65) - 138/77(95)} mmHg\n   RR: 24 (10 - 27) insp/min\n   SPO2: 100%\n   Heart rhythm: AV Paced\n   Height: 66 Inch\n   CVP: 8 (8 - 24) mmHg\n   PAP: (31 mmHg) / (18 mmHg)\n   CO/CI (Fick): (8 L/min) / (3.4 L/min/m2)\n   CO/CI (CCO): (5 L/min) / (1.7 L/min/m2)\n   SvO2: 68%\n   Mixed Venous O2% sat: 66 - 76\n   Total In:\n                                                                  6,371 mL\n                                                                    280 mL\n   PO:\n   Tube feeding:\n   IV Fluid:\n                                                                  6,021 mL\n                                                                    280 mL\n   Blood products:\n                                                                    350 mL\n   Total out:\n                                                                  1,685 mL\n                                                                    795 mL\n   Urine:\n                                                                  1,505 mL\n                                                                    575 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  4,686 mL\n                                                                   -515 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CPAP/PSV\n   Vt (Set): 550 (550 - 550) mL\n   Vt (Spontaneous): 371 (371 - 551) mL\n   PS : 5 cmH2O\n   RR (Set): 18\n   RR (Spontaneous): 22\n   PEEP: 5 cmH2O\n   FiO2: 40%\n   RSBI: 75\n   PIP: 14 cmH2O\n   Plateau: 21 cmH2O\n   Compliance: 35.9 cmH2O/mL\n   SPO2: 100%\n   ABG: 7.31/49/122/24/-2\n   Ve: 8.6 L/min\n   PaO2 / FiO2: 305\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended, Non-tender\n   Left Extremities: (Edema: 1+), (Pulse - Dorsalis pedis: Present)\n   Right Extremities: (Edema: 1+), (Pulse - Dorsalis pedis: Present)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: Follows simple commands, Moves all extremities, Sedated,\n   minimal sedation\n   Labs / Radiology\n   147 K/uL\n   9.2 g/dL\n   130 mg/dL\n   1.1 mg/dL\n   24 mEq/L\n   4.9 mEq/L\n   15 mg/dL\n   110 mEq/L\n   137 mEq/L\n   27.3 %\n   9.5 K/uL\n        [image002.jpg]\n                             [**2199-12-26**]  03:15 PM\n                             [**2199-12-26**]  04:33 PM\n                             [**2199-12-26**]  05:06 PM\n                             [**2199-12-26**]  05:14 PM\n                             [**2199-12-26**]  09:52 PM\n                             [**2199-12-26**]  10:22 PM\n                             [**2199-12-27**]  01:54 AM\n                             [**2199-12-27**]  02:03 AM\n                             [**2199-12-27**]  06:15 AM\n                             [**2199-12-27**]  08:00 AM\n   WBC\n   9.5\n   Hct\n   25.1\n   29.4\n   27.3\n   Plt\n   147\n   Creatinine\n   1.1\n   TCO2\n   24\n   23\n   26\n   24\n   26\n   Glucose\n   127\n   100\n   95\n   151\n   94\n   130\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Fibrinogen:231 mg/dL, Lactic\n   Acid:2.8 mmol/L\n   Assessment and Plan\n   CORONARY ARTERY BYPASS GRAFT (CABG)\n   Assessment and Plan: 71 F POD#1 s/p CABG x 3 (LIMA to LAD, SVG to OM,\n   SVG to PDA)\n   Neurologic: Pain controlled, minimal sedation on propofol, wean for\n   extubation\n   Cardiovascular: Aspirin, No longer requiring pressors. A-V pacer\n   dependent at this point.  Restart Ca-channel blocker, ACE-I, and statin\n   as BP tolerates.\n   Pulmonary: Extubate today, (Ventilator mode: CPAP + PS), Requiring\n   minimal ventilatory support.\n   Gastrointestinal / Abdomen: Bowel regimen.  Start stress ulcer\n   prophylaxis\n   Nutrition: NPO, Advance diet after extubation\n   Renal: Foley, Adequate UO\n   Hematology: Stable anemia\n   Endocrine: RISS, Restart home insulin therapy once diet started\n   Infectious Disease: Peri-op ABx without evidence of infection\n   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - pleural , Chest\n   tube - mediastinal, Pacing wires\n   Wounds: Dry dressings\n   Imaging: CXR today\n   Fluids: KVO\n   Consults: CT surgery\n   Billing Diagnosis: Arrhythmia, (Respiratory distress: Insufficiency /\n   Post-op), Post-op hypotension\n   ICU Care\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2199-12-26**] 02:04 PM\n   CCO PAC - [**2199-12-26**] 02:04 PM\n   [**First Name4 (NamePattern1) 549**] [**Last Name (NamePattern1) **] - [**2199-12-26**] 02:05 PM\n   20 Gauge - [**2199-12-26**] 02:06 PM\n   Communication: ICU consent signed Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 33 minutes\n"
+    },
+    {
+      "note_id": 719264,
+      "category": "Physician",
+      "description": "ICU Note - CVI",
+      "annotations": [
+        {
+          "begin": 95,
+          "end": 109,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "morbid obesity"
+        },
+        {
+          "begin": 110,
+          "end": 114,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 115,
+          "end": 119,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 163,
+          "end": 183,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 184,
+          "end": 187,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 3572,
+          "end": 3577,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        },
+        {
+          "begin": 3702,
+          "end": 3707,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   71 F s/p CABG x 3 (LIMA to LAD, SVG to OM, SVG to PDA)[**12-26**]\n   PMHx:\n   morbid obesity,IDDM,COPD(noc 3Lnc),s/p LT THR, s/p hysterectomy,\n   hypercholesterolemia,HTN\n   Current medications:\n   Aspirin 81 mg NG DAILY, Phenylephrine 0.2-2.0 mcg/kg/min IV DRIP,\n   Docusate Sodium (Liquid) 100 mg NG [**Hospital1 **], Ranitidine 150 mg NG DAILY,\n   HYDROmorphone (Dilaudid) 2-4 mg PO/NG Q4H:PRN pain, Vancomycin 1000 mg\n   IV Q12H\n   24 Hour Events:\n OR RECEIVED - At [**2199-12-26**] 01:00 PM\n INVASIVE VENTILATION - START [**2199-12-26**] 01:00 PM\n NASAL SWAB - At [**2199-12-26**] 01:51 PM\n ARTERIAL LINE - START [**2199-12-26**] 02:04 PM\n CCO PAC - START [**2199-12-26**] 02:04 PM\n [**Location (un) 549**] LINE - START [**2199-12-26**] 02:05 PM\n EKG - At [**2199-12-26**] 03:06 PM\n   Allergies:\n   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)\n   Nausea/Vomiting\n   Codeine\n   Nausea/Vomiting\n   Aspirin\n   Nausea/Vomiting\n   Last dose of Antibiotics:\n   Vancomycin - [**2199-12-26**] 08:52 PM\n   Infusions:\n   Phenylephrine - 0.8 mcg/Kg/min\n   Insulin - Regular - 3 units/hour\n   Other ICU medications:\n   Ranitidine (Prophylaxis) - [**2199-12-26**] 06:19 PM\n   Morphine Sulfate - [**2199-12-27**] 05:10 AM\n   Insulin - Regular - [**2199-12-27**] 05:56 AM\n   Flowsheet Data as of  [**2199-12-27**] 10:05 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**01**] a.m.\n   HR: 88 (67 - 91) bpm\n   BP: 92/59(71) {92/54(65) - 138/77(95)} mmHg\n   RR: 15 (10 - 27) insp/min\n   SPO2: 99%\n   Heart rhythm: AV Paced\n   Height: 66 Inch\n   CVP: 13 (8 - 24) mmHg\n   PAP: (34 mmHg) / (23 mmHg)\n   CO/CI (Fick): (6 L/min) / (2.5 L/min/m2)\n   CO/CI (CCO): (4.5 L/min) / (2 L/min/m2)\n   SvO2: 59%\n   Mixed Venous O2% sat: 66 - 76\n   Total In:\n                                                                  6,371 mL\n                                                                    334 mL\n   PO:\n   Tube feeding:\n   IV Fluid:\n                                                                  6,021 mL\n                                                                    334 mL\n   Blood products:\n                                                                    350 mL\n   Total out:\n                                                                  1,685 mL\n                                                                    975 mL\n   Urine:\n                                                                  1,505 mL\n                                                                    695 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  4,686 mL\n                                                                   -641 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CPAP/PSV\n   Vt (Set): 550 (550 - 550) mL\n   Vt (Spontaneous): 371 (371 - 551) mL\n   PS : 5 cmH2O\n   RR (Set): 18\n   RR (Spontaneous): 22\n   PEEP: 5 cmH2O\n   FiO2: 40%\n   RSBI: 75\n   PIP: 14 cmH2O\n   Plateau: 21 cmH2O\n   Compliance: 35.9 cmH2O/mL\n   SPO2: 99%\n   ABG: 7.31/49/122/24/-2\n   Ve: 8.6 L/min\n   PaO2 / FiO2: 305\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :\n   scattered), (Sternum: Stable )\n   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present\n   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present), (Pulse - Posterior tibial: Present)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 1), Follows simple commands,\n   Moves all extremities, difficult to assess orientation as patient does\n   not answer questions appropriately, non-focal exam\n   Labs / Radiology\n   147 K/uL\n   9.2 g/dL\n   130 mg/dL\n   1.1 mg/dL\n   24 mEq/L\n   4.9 mEq/L\n   15 mg/dL\n   110 mEq/L\n   137 mEq/L\n   27.3 %\n   9.5 K/uL\n        [image002.jpg]\n                             [**2199-12-26**]  03:15 PM\n                             [**2199-12-26**]  04:33 PM\n                             [**2199-12-26**]  05:06 PM\n                             [**2199-12-26**]  05:14 PM\n                             [**2199-12-26**]  09:52 PM\n                             [**2199-12-26**]  10:22 PM\n                             [**2199-12-27**]  01:54 AM\n                             [**2199-12-27**]  02:03 AM\n                             [**2199-12-27**]  06:15 AM\n                             [**2199-12-27**]  08:00 AM\n   WBC\n   9.5\n   Hct\n   25.1\n   29.4\n   27.3\n   Plt\n   147\n   Creatinine\n   1.1\n   TCO2\n   24\n   23\n   26\n   24\n   26\n   Glucose\n   127\n   100\n   95\n   151\n   94\n   130\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Fibrinogen:231 mg/dL, Lactic\n   Acid:2.8 mmol/L\n   Imaging: CXR no acute process\n   Microbiology: NGTD\n   ECG: AV paced\n   Assessment and Plan\n   CORONARY ARTERY BYPASS GRAFT (CABG)\n   Assessment and Plan: 71 F s/p CABG x 3 (LIMA to LAD, SVG to OM, SVG to\n   PDA)[**12-26**] now extubated but pacer dependent\n   Neurologic: Neuro checks Q: 6 hr, Pain poorly controlled, started on\n   dilaudid.  Orientation difficult to assess because patient does not\n   directly answer questions.\n   Cardiovascular: Aspirin, Pacer dependent, Beta-blockade held.  3rd\n   degree AV block under pacer.EP consult requested.  Statin started.\n   Pulmonary: IS, Nebs.\n   Gastrointestinal / Abdomen: Bowel regimen\n   Nutrition: Regular diet\n   Renal: Adequate UO\n   Hematology: Hct stable\n   Endocrine: insulin infusion\n   Infectious Disease: No current issues\n   Lines / Tubes / Drains: Chest tube - pleural , Chest tube -\n   mediastinal, Pacing wires\n   Wounds: Dry dressings\n   Consults: P.T., EP dept\n   ICU Care\n   Nutrition: Heart healthy\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2199-12-26**] 02:04 PM\n   CCO PAC - [**2199-12-26**] 02:04 PM\n   [**First Name4 (NamePattern1) 549**] [**Last Name (NamePattern1) **] - [**2199-12-26**] 02:05 PM\n   20 Gauge - [**2199-12-26**] 02:06 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: H2 blocker\n   VAP bundle: HOB elevation, Mouth care\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: ICU\n"
+    },
+    {
+      "note_id": 229128,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 46,
+          "end": 71,
+          "code": "426.4",
+          "code_system": "ICD-9-CM",
+          "description": "Right bundle branch block",
+          "type": "MapType.APPROX",
+          "covered_text": "Right bundle-branch block"
+        }
+      ],
+      "text": "Sinus rhythm. Left anterior fascicular block. Right bundle-branch block.\nConsider left ventricular hypertrophy. No previous tracing available for\ncomparison.\n\n"
+    },
+    {
+      "note_id": 719253,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 1044,
+          "end": 1066,
+          "code": "V46.11",
+          "code_system": "ICD-9-CM",
+          "description": "Dependence on respirator, status",
+          "type": "MapType.APPROX",
+          "covered_text": "Ventilation Assessment"
+        }
+      ],
+      "text": "Demographics\n   Day of intubation:\n   Day of mechanical ventilation: 0\n   Ideal body weight: 59 None\n   Ideal tidal volume: [**Telephone/Fax (3) 430**] mL/kg\n   Airway\n   Airway Placement Data\n   Known difficult intubation: Yes\n   Procedure location:\n   Reason:\n   Tube Type\n   ETT:\n                   Position:  cm at teeth\n                   Route:\n                   Type: Standard\n                   Size: 7.5mm\n   Tracheostomy tube:\n                   Type:\n                   Manufacturer:\n                   Size:\n                   PMV:\n   Cuff  Management:\n                   Vol/Press:\n                                   Cuff pressure:   cmH2O\n                                   Cuff volume:   mL /\n                   Airway problems:\n                   Comments:\n   Lung sounds\n   RLL Lung Sounds: Diminished\n   RUL Lung Sounds: Diminished\n   LUL Lung Sounds: Diminished\n   LLL Lung Sounds: Diminished\n   Comments:\n   Secretions\n   Sputum color / consistency: Yellow / Thick\n   Sputum source/amount: Suctioned / None\n   Comments:\n   Ventilation Assessment\n   Level of breathing assistance:\n   Visual assessment of breathing pattern:\n   Assessment of breathing comfort:\n   Non-invasive ventilation assessment:\n   Invasive ventilation assessment:\n   Trigger work assessment:\n   Dysynchrony assessment:\n   Comments:\n   Plan\n   Next 24-48 hours:\n   Reason for continuing current ventilatory support:\n   Respiratory Care Shift Procedures\n   Transports:\n   Destination (R/T)\n   Time\n   Complications\n   Comments\n   Bedside Procedures:\n   Comments:\n   Pt. extubated to a 40% cool neb. Sat = 99% appears to have some pain at\n   present.\n[**Name8 (MD) 530**], RRT  [**2199-12-27**] 08:59\n"
+    },
+    {
+      "note_id": 229126,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 17,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Underlying rhythm"
+        },
+        {
+          "begin": 81,
+          "end": 113,
+          "code": "794.31",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+          "type": "MapType.EXACT",
+          "covered_text": "Intermittent dual chamber pacing"
+        }
+      ],
+      "text": "Underlying rhythm is suggestive of sinus bradycardia with high degree\nA-V block. Intermittent dual chamber pacing. Compared to the previous tracing\nof [**2199-12-25**] pacing is new.\n\n"
+    },
+    {
+      "note_id": 37258,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 259,
+          "end": 269,
+          "code": "786.50",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified chest pain",
+          "type": "MapType.EXACT",
+          "covered_text": "Chest pain"
+        },
+        {
+          "begin": 622,
+          "end": 632,
+          "code": "786.50",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified chest pain",
+          "type": "MapType.EXACT",
+          "covered_text": "chest pain"
+        },
+        {
+          "begin": 991,
+          "end": 1005,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "morbid obesity"
+        },
+        {
+          "begin": 1006,
+          "end": 1010,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 1011,
+          "end": 1015,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 1053,
+          "end": 1073,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 1074,
+          "end": 1086,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 1658,
+          "end": 1663,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        },
+        {
+          "begin": 2170,
+          "end": 2180,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "dilated LV"
+        },
+        {
+          "begin": 2790,
+          "end": 2792,
+          "code": "424.2",
+          "code_system": "ICD-9-CM",
+          "description": "Tricuspid valve disorders, specified as nonrheumatic",
+          "type": "MapType.APPROX",
+          "covered_text": "TR"
+        },
+        {
+          "begin": 3562,
+          "end": 3576,
+          "code": "429.9",
+          "code_system": "ICD-9-CM",
+          "description": "Heart disease, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "RV hypokinesis"
+        },
+        {
+          "begin": 3910,
+          "end": 3930,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral regurgitation"
+        },
+        {
+          "begin": 4177,
+          "end": 4191,
+          "code": "429.9",
+          "code_system": "ICD-9-CM",
+          "description": "Heart disease, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "RV hypokinesis"
+        },
+        {
+          "begin": 4280,
+          "end": 4282,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "MR"
+        },
+        {
+          "begin": 4301,
+          "end": 4303,
+          "code": "424.2",
+          "code_system": "ICD-9-CM",
+          "description": "Tricuspid valve disorders, specified as nonrheumatic",
+          "type": "MapType.APPROX",
+          "covered_text": "TR"
+        }
+      ],
+      "text": "Admission Date:  [**2199-12-23**]              Discharge Date:   [**2199-12-31**]\n\nDate of Birth:  [**2128-12-24**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nPercocet / Codeine / Aspirin\n\nAttending:[**First Name3 (LF) 1406**]\nChief Complaint:\nChest pain\n\nMajor Surgical or Invasive Procedure:\n[**2199-12-26**]\nCoronary artery bypass grafting x3 with left internal mammary\nartery to the left anterior descending artery and reverse\nsaphenous vein graft to the left posterior descending artery and\nthe obtuse marginal artery\n\n\nHistory of Present Illness:\n70 year old female with 2 weeks of intermittent right chest pain\nwith and without exertion. No radiation of pain or associated\nnausea, vomiting or diaphoresis. The pain was relieved with\nrest. She called her pulmonologist and sent to ED, and was ruled\nout for myocardial infarction.  She was started on Heparin, no\nplavix given, underwent cardiac work up and was transferred for\nsurgical evaluation.\n\nPast Medical History:\nmorbid obesity\nIDDM\nCOPD(noc 3Lnc\ns/p LT THR\ns/p hysterectomy\nhypercholesterolemia\nhypertension\n\nSocial History:\nLives: alone\nOccupation: retired\nTobacco: 1ppd for 60yrs stopped 2yrs ago\nETOH: rare\n\n\nFamily History:\nnoncontributory\n\nPhysical Exam:\nPulse: Resp:14  O2 sat: 97% on  RA\nB/P  Right:138/70    Left: 136/70\nHeight:67\"     Weight:136kg\nGeneral:morbidly obese female, walking w/ cane. NAD\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur N\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]\nExtremities: Warm [x], well-perfused [x]  Edema Varicosities:\nNone [x]\nNeuro: Grossly intact\nPulses:\nFemoral      Right:2   Left:2\nDP           Right:1   Left:1\nPT           [**Name (NI) 167**]:1   Left:1\nRadial       Right:2   Left:2\n\nCarotid Bruit        Right:no   Left:no\n\n\nPertinent Results:\n[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT\n[**2199-12-26**] at 12:46:01 PM\nLEFT ATRIUM: Dilated LA. No spontaneous echo contrast or\nthrombus in the LA/LAA or the RA/RAA.\nRIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.\nLEFT VENTRICLE: Mildly dilated LV cavity. Moderate regional LV\nsystolic dysfunction. Mildly depressed LVEF.\nRIGHT VENTRICLE: Moderately dilated RV cavity.\nAORTA: Normal aortic diameter at the sinus level. Complex\n(mobile) atheroma in aortic root. Normal ascending aorta\ndiameter. Focal calcifications in ascending aorta. Normal aortic\narch diameter. Complex (mobile) atheroma in the descending\naorta.\nAORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.\nTrace AR.\nMITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP.\nMild (1+) MR.\nTRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild\nto moderate [[**12-7**]+] TR.\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.\nNo PS. Physiologic PR.\nPERICARDIUM: No pericardial effusion.\nPRE-BYPASS:\nThe left atrium is dilated. No spontaneous echo contrast or\nthrombus is seen in the body of the left atrium/left atrial\nappendage or the body of the right atrium/right atrial\nappendage. No atrial septal defect is seen by 2D or color\nDoppler.\nThe left ventricular cavity is mildly dilated. There is moderate\nregional left ventricular systolic dysfunction with apical\nhypokinesis and mid basal hyokinesis in the RCA territory. Due\nto suboptimal imaging, other WMA might have been missed..\nOverall left ventricular systolic function is mildly depressed\n(LVEF=40 %).\nThe right ventricular cavity is moderately dilated with mild\nglobal RV hypokinesis.\nThere are complex (mobile) atheroma in the aortic root There are\ncomplex (mobile) atheroma in the descending aorta.\nThe aortic valve leaflets (3) are mildly thickened but aortic\nstenosis is not present. Trace aortic regurgitation is seen.\nThe mitral valve leaflets are mildly thickened. There is no\nmitral valve prolapse. Mild (1+) mitral regurgitation is seen.\nThe tricuspid valve leaflets are mildly thickened. There is no\npericardial effusion.\nDr.[**Last Name (STitle) **] was notified in person of the results on Mrs.[**Known lastname 10936**] before\nsurgical incision.\nPost_Bypass:\nMild global RV hypokinesis.\nOverall LVEF 40% with similar wall motional abnormalities.\nIntact thoracic aorta.\nMild MR. Mild to moderate TR.\n[**2199-12-23**] 09:15PM   PT-11.9 PTT-22.1 INR(PT)-1.0\n[**2199-12-23**] 09:15PM   PLT COUNT-280\n[**2199-12-23**] 09:15PM   WBC-5.7 RBC-3.55* HGB-10.6* HCT-33.8* MCV-95\nMCH-29.8 MCHC-31.3 RDW-13.8\n[**2199-12-23**] 09:15PM   %HbA1c-9.9*\n[**2199-12-23**] 09:15PM   ALBUMIN-3.8 CALCIUM-9.4 PHOSPHATE-3.5\nMAGNESIUM-1.9 IRON-99\n[**2199-12-23**] 09:15PM   LIPASE-24\n[**2199-12-23**] 09:15PM   ALT(SGPT)-29 AST(SGOT)-29 LD(LDH)-256* ALK\nPHOS-87 AMYLASE-115* TOT BILI-0.2\n[**2199-12-23**] 09:15PM   GLUCOSE-297* UREA N-24* CREAT-1.6* SODIUM-140\nPOTASSIUM-4.6 CHLORIDE-104 TOTAL CO2-28 ANION GAP-13\n[**2199-12-31**] 06:09AM BLOOD WBC-8.9 RBC-3.20* Hgb-10.2* Hct-29.2*\nMCV-91 MCH-32.0 MCHC-35.0 RDW-14.7 Plt Ct-234\n[**2199-12-31**] 06:09AM BLOOD Plt Ct-234\n[**2199-12-26**] 01:31PM BLOOD PT-13.2 PTT-26.0 INR(PT)-1.1\n[**2199-12-31**] 06:09AM BLOOD Glucose-105* UreaN-18 Creat-1.3* Na-140\nK-4.3 Cl-102 HCO3-32 AnGap-10\n[**2199-12-31**] 06:09AM BLOOD Mg-2.5\nCHEST PORT. LINE PLACEMENT   Clip # [**Clip Number (Radiology) 83870**]\nReason: Please do oblique view as well 60 cm Picc placed in left\nbas\nFinal Report\nFINDINGS: Comparison is made to the prior study from [**2199-12-28**].\nNew left\nPICC terminates in the vicinity of the left subclavian vein.\nSubclavian\nversus brachiocephalic. It should be advanced. Right IJ Cordis\ncontinues to be kinked. Patient is status post median\nsternotomy. Appearance of the chest is relatively unchanged.\nOpacity along prior left chest tube tract remains at the left\nperiphery mid lung zone. There is a small left pleural effusion\nwith left lower lobe atelectasis.\nIMPRESSION:\nMild atelectasis at right base persists. Heart and mediastinum\nwithin normal limits.\nDR. [**First Name11 (Name Pattern1) 3993**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3994**]\nApproved: MON [**2199-12-30**] 4:06 PM\n\n\nBrief Hospital Course:\nTransferred from outside hospital and underwent preoperative\nworkup including pulmonary function test, and [**Last Name (un) 387**] consult for\nelevated hgba1c 9.9 on insulin at home.   On [**2199-12-26**] she was\ntaken to the operating room and underwent coronary artery bypass\ngraft surgery.  See operative report for further details. In\nsummary she had coronary artery bypass grafting x3 with LIMA-LAD\nsaphenous vein graft to OM and saphenous vein graft to PDA. Her\nbypass time was 78 minutes with a crossclamp of 67 minues. She\nreceived vancomycin for perioperative antibioticcs.  She was\ntransferred to the intensive care unit for hemodynamic\nmanagement in stable condition.  In the first twenty four hours\nshe was weaned from sedation, awoke neurologically intact, and\nwas extubated without complications.  Post operativly she had\ncomplete heart block and was 100% paced via epicardial wires.\nEP was consulted, her rhythm was monitored and recovered without\nintervention. On post operative day two she was started on beta\nblockers, tolerating well, and epicardial wires were removed on\npost operative day four. She was transferred from the ICU to\nstepdown floor on POD4  Physical therapy worked with her on\nstrength and mobility.  She continued to progress and was ready\nfor discharge to rehab on post operative day 5.\n\n\nMedications on Admission:\nverapamil 360mg daily,HCTZ 25mg daily,ASA\n81mg daily,Lipitor 80mg daily,Amitryptilline 50mg daily,\nMirtazapine 15mg daily, Lantus 14u HS,Humalog 4u at\ndinner,Ipratropium 0.5ml neb QID,Lisinopril 40mg\ndaily,Ranitidine\n150mg [**Hospital1 **]\n\n\nDischarge Medications:\n1. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n4. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Two\n(2) Puff Inhalation Q6H (every 6 hours).\n5. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n6. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every\n4 hours) as needed for pain.\n7. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for pain.\n8. Amitriptyline 50 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n9. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n10. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO HS (at bedtime) as needed for constipation.\n11. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO\ntwice a day.\n12. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)\nunits Injection TID (3 times a day).\n13. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n14. Potassium Chloride 10 mEq Tab Sust.Rel. Particle/Crystal\nSig: Two (2) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily).\n15. Insulin Glargine 100 unit/mL Solution Sig: Twenty (20) units\nSubcutaneous QAM.\n16. Humalog 100 unit/mL Solution Sig: sliding scale\nSubcutaneous QAC&HS.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Rehab & Nursing Center - [**Location (un) 47**]\n\nDischarge Diagnosis:\nCoronary Artery Disease s/p cabg x3\nDiabetes mellitus type 2\nChronic obtructive pulmonary disease\nHypercholesterolemia\nHypertension\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating, with assist\nSternal pain managed with ultram prn\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming, and look at your incisions\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month until follow up with\nsurgeon\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n\n\nFollowup Instructions:\nDr [**Last Name (STitle) **] (for Dr [**Last Name (STitle) **] [**Hospital1 **] heart center - Thrusday [**1-16**]\nat 9am\n[**Telephone/Fax (1) 6256**]\nDr [**Last Name (STitle) 20222**] (cardiologist) - [**Hospital1 **] heart center - Thrusday\n[**1-16**] at 330pm\n\nPlease call to schedule appointments\nPrimary Care Dr [**Last Name (STitle) **] in [**12-7**] weeks [**Telephone/Fax (1) 20261**]\n\n\n\nCompleted by:[**2199-12-31**]"
+    }
+  ]
+}

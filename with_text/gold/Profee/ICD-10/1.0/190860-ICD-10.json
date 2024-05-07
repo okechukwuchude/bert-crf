@@ -1,0 +1,1105 @@
+{
+  "hadm_id": 190860,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 41650,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 265,
+          "end": 273,
+          "code": "R17",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified jaundice",
+          "type": "Human",
+          "covered_text": "Jaundice"
+        },
+        {
+          "begin": 278,
+          "end": 285,
+          "code": "R53.81",
+          "code_system": "ICD-10-CM",
+          "description": "Other malaise",
+          "type": "Human",
+          "covered_text": "malaise"
+        },
+        {
+          "begin": 413,
+          "end": 425,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 427,
+          "end": 430,
+          "code": "G47.33",
+          "code_system": "ICD-10-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "Human",
+          "covered_text": "OSA"
+        },
+        {
+          "begin": 436,
+          "end": 446,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 537,
+          "end": 553,
+          "code": "R11.2",
+          "code_system": "ICD-10-CM",
+          "description": "Nausea with vomiting, unspecified",
+          "type": "Human",
+          "covered_text": "nausea, vomiting"
+        },
+        {
+          "begin": 555,
+          "end": 563,
+          "code": "R19.7",
+          "code_system": "ICD-10-CM",
+          "description": "Diarrhea, unspecified",
+          "type": "Human",
+          "covered_text": "diarrhea"
+        },
+        {
+          "begin": 579,
+          "end": 587,
+          "code": "R17",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified jaundice",
+          "type": "Human",
+          "covered_text": "jaundice"
+        },
+        {
+          "begin": 598,
+          "end": 609,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotensive"
+        },
+        {
+          "begin": 799,
+          "end": 806,
+          "code": "K51.80",
+          "code_system": "ICD-10-CM",
+          "description": "Other ulcerative colitis without complications",
+          "type": "Human",
+          "covered_text": "colitis"
+        },
+        {
+          "begin": 1153,
+          "end": 1164,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotensive"
+        },
+        {
+          "begin": 1412,
+          "end": 1437,
+          "code": "E87.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other disorders of electrolyte and fluid balance, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "electrolyte abnormalities"
+        },
+        {
+          "begin": 1586,
+          "end": 1610,
+          "code": "R94.5",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal results of liver function studies",
+          "type": "Human",
+          "covered_text": "LFTs were still abnormal"
+        },
+        {
+          "begin": 1660,
+          "end": 1672,
+          "code": "D72.829",
+          "code_system": "ICD-10-CM",
+          "description": "Elevated white blood cell count, unspecified",
+          "type": "Human",
+          "covered_text": "leukocytosis"
+        },
+        {
+          "begin": 1691,
+          "end": 1697,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "anemia"
+        },
+        {
+          "begin": 2409,
+          "end": 2414,
+          "code": "R05.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cough, unspecified",
+          "type": "Human",
+          "covered_text": "cough"
+        },
+        {
+          "begin": 2792,
+          "end": 2800,
+          "code": "R17",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified jaundice",
+          "type": "Human",
+          "covered_text": "jaundice"
+        },
+        {
+          "begin": 2828,
+          "end": 2840,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 2843,
+          "end": 2866,
+          "code": "G47.33",
+          "code_system": "ICD-10-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "Human",
+          "covered_text": "Obstructive Sleep Apnea"
+        },
+        {
+          "begin": 2890,
+          "end": 2900,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 3720,
+          "end": 3735,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Mildtachycardia"
+        },
+        {
+          "begin": 3781,
+          "end": 3800,
+          "code": "R01.1",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac murmur, unspecified",
+          "type": "Human",
+          "covered_text": "holosystolic murmur"
+        },
+        {
+          "begin": 3892,
+          "end": 3901,
+          "code": "R14.0",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal distension (gaseous)",
+          "type": "Human",
+          "covered_text": "distended"
+        },
+        {
+          "begin": 4337,
+          "end": 4348,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 4393,
+          "end": 4412,
+          "code": "R01.1",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac murmur, unspecified",
+          "type": "Human",
+          "covered_text": "holosystolic murmur"
+        },
+        {
+          "begin": 4516,
+          "end": 4525,
+          "code": "R14.0",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal distension (gaseous)",
+          "type": "Human",
+          "covered_text": "distended"
+        },
+        {
+          "begin": 4731,
+          "end": 4746,
+          "code": "H15.843",
+          "code_system": "ICD-10-CM",
+          "description": "Scleral ectasia, bilateral",
+          "type": "Human",
+          "covered_text": "Scleral icterus"
+        },
+        {
+          "begin": 7702,
+          "end": 7733,
+          "code": "B96.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified bacterial agents as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "GRAM POSITIVE COCCI IN CLUSTERS"
+        },
+        {
+          "begin": 7876,
+          "end": 7913,
+          "code": "Z95.828",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of other vascular implants and grafts",
+          "type": "Human",
+          "covered_text": "right internal jugular\ncentral venous"
+        },
+        {
+          "begin": 8039,
+          "end": 8056,
+          "code": "R09.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified symptoms and signs involving the circulatory and respiratory systems",
+          "type": "Human",
+          "covered_text": "vascular\ncrowding"
+        },
+        {
+          "begin": 9105,
+          "end": 9113,
+          "code": "R17",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified jaundice",
+          "type": "Human",
+          "covered_text": "jaundice"
+        },
+        {
+          "begin": 9731,
+          "end": 9740,
+          "code": "R14.0",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal distension (gaseous)",
+          "type": "Human",
+          "covered_text": "distended"
+        },
+        {
+          "begin": 10104,
+          "end": 10129,
+          "code": "R16.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hepatomegaly, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "spleen is mildly enlarged"
+        },
+        {
+          "begin": 10306,
+          "end": 10324,
+          "code": "K82.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified diseases of gallbladder",
+          "type": "Human",
+          "covered_text": "Gallbladder sludge"
+        },
+        {
+          "begin": 10461,
+          "end": 10476,
+          "code": "K76.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified diseases of liver",
+          "type": "Human",
+          "covered_text": "Echogenic liver"
+        },
+        {
+          "begin": 11029,
+          "end": 11042,
+          "code": "K76.0",
+          "code_system": "ICD-10-CM",
+          "description": "Fatty (change of) liver, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "heterogeneous"
+        },
+        {
+          "begin": 12552,
+          "end": 12571,
+          "code": "R18.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other ascites",
+          "type": "Human",
+          "covered_text": "perisplenic ascites"
+        },
+        {
+          "begin": 12807,
+          "end": 12829,
+          "code": "K82.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hydrops of gallbladder",
+          "type": "Human",
+          "covered_text": "Gallbladder wall edema"
+        },
+        {
+          "begin": 13199,
+          "end": 13213,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "LA enlargement"
+        },
+        {
+          "begin": 13908,
+          "end": 13920,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 14841,
+          "end": 14853,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 15088,
+          "end": 15098,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 15169,
+          "end": 15185,
+          "code": "R11.2",
+          "code_system": "ICD-10-CM",
+          "description": "Nausea with vomiting, unspecified",
+          "type": "Human",
+          "covered_text": "nausea, vomiting"
+        },
+        {
+          "begin": 15187,
+          "end": 15195,
+          "code": "R19.7",
+          "code_system": "ICD-10-CM",
+          "description": "Diarrhea, unspecified",
+          "type": "Human",
+          "covered_text": "diarrhea"
+        },
+        {
+          "begin": 15272,
+          "end": 15284,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        },
+        {
+          "begin": 16998,
+          "end": 17017,
+          "code": "K70.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic hepatitis without ascites",
+          "type": "Human",
+          "covered_text": "alcoholic hepatitis"
+        },
+        {
+          "begin": 17276,
+          "end": 17288,
+          "code": "D68.9",
+          "code_system": "ICD-10-CM",
+          "description": "Coagulation defect, unspecified",
+          "type": "Human",
+          "covered_text": "Coagulopathy"
+        },
+        {
+          "begin": 17301,
+          "end": 17310,
+          "code": "K70.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic hepatitis without ascites",
+          "type": "Human",
+          "covered_text": "hepatitis"
+        },
+        {
+          "begin": 17540,
+          "end": 17549,
+          "code": "K70.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic hepatitis without ascites",
+          "type": "Human",
+          "covered_text": "hepatitis"
+        },
+        {
+          "begin": 17555,
+          "end": 17566,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 18011,
+          "end": 18023,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "Hyponatremia"
+        },
+        {
+          "begin": 18201,
+          "end": 18213,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        },
+        {
+          "begin": 18254,
+          "end": 18268,
+          "code": "R63.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other symptoms and signs concerning food and fluid intake",
+          "type": "Human",
+          "covered_text": "poor PO\nintake"
+        },
+        {
+          "begin": 18515,
+          "end": 18527,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        },
+        {
+          "begin": 18610,
+          "end": 18628,
+          "code": "E87.2",
+          "code_system": "ICD-10-CM",
+          "description": "Acidosis",
+          "type": "Human",
+          "covered_text": "Metabolic Acidosis"
+        },
+        {
+          "begin": 18748,
+          "end": 18760,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        },
+        {
+          "begin": 18920,
+          "end": 18926,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 18991,
+          "end": 18999,
+          "code": "R19.7",
+          "code_system": "ICD-10-CM",
+          "description": "Diarrhea, unspecified",
+          "type": "Human",
+          "covered_text": "diarrhea"
+        },
+        {
+          "begin": 19396,
+          "end": 19408,
+          "code": "D72.829",
+          "code_system": "ICD-10-CM",
+          "description": "Elevated white blood cell count, unspecified",
+          "type": "Human",
+          "covered_text": "Leukocytosis"
+        },
+        {
+          "begin": 19511,
+          "end": 19520,
+          "code": "K70.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic hepatitis without ascites",
+          "type": "Human",
+          "covered_text": "hepatitis"
+        },
+        {
+          "begin": 19657,
+          "end": 19667,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 19754,
+          "end": 19764,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 20470,
+          "end": 20479,
+          "code": "K70.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic hepatitis without ascites",
+          "type": "Human",
+          "covered_text": "hepatitis"
+        },
+        {
+          "begin": 23087,
+          "end": 23097,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 23112,
+          "end": 23123,
+          "code": "G47.30",
+          "code_system": "ICD-10-CM",
+          "description": "Sleep apnea, unspecified",
+          "type": "Human",
+          "covered_text": "Sleep Apnea"
+        },
+        {
+          "begin": 23124,
+          "end": 23136,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 23425,
+          "end": 23433,
+          "code": "R17",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified jaundice",
+          "type": "Human",
+          "covered_text": "jaundice"
+        }
+      ],
+      "text": "Admission Date:  [**2186-6-17**]              Discharge Date:   [**2186-6-28**]\n\nDate of Birth:  [**2140-2-8**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 10293**]\nChief Complaint:\nJaundice and malaise\n\nMajor Surgical or Invasive Procedure:\nERCP\n\nHistory of Present Illness:\nThe patient is a 46 year old female with a history of\nhypertension, OSA, and depression who was transferred from [**Hospital1 **] after presenting to the ED there with 4 days of\nnausea, vomiting, diarrhea, and worsening jaundice.  She was\nhypotensive to the 70s in triage and received IV fluids.  She\nwas noted to have creatinine 8, TBili 10, and Lipase 3400.  RUQ\nultrasound showed biliary sludge with no visible stone.  CT\nabdomen showed colitis.  She was treated with Levofloxacin 500\nmg IV and Metronidazole 500 mg IV, and transferred to [**Hospital1 18**] for\nERCP due to concern for biliary obstruction, cholangitis, and\ngallstone pancreatitis.\n.\nIn the ED, initial vital signs were T 97.1, BP 103/60, HR 100,\nRR 20, SpO2 98% on RA.  She arrived on her seventh liter of NS,\nbut was still hypotensive in the 90s systolic.  Central access\nwas obtained with a right IJ line.  She also has access with two\n18g PIVs.  Foley catheter was placed for urine output\nmonitoring.  She was mentating well and in no acute distress.\nInitial labs showed multiple electrolyte abnormalities including\nNa 126, Ca 6.7, and bicarb 12 with anion gap 16 and lactate 2.3.\n Her creatinine had decreased to 4.6 from 8 at OSH after IV\nfluids.  Her LFTs were still abnormal but generally improved\nfrom OSH labs.  She had a leukocytosis with WBC 13.9 and anemia\nwith Hct 23.6.  Her INR was elevated to 1.6.  Her stool was\nguaiac negative.  ERCP and Surgery were consulted in the ED, and\nshe is planned for ERCP this morning.  She was admitted to the\nICU for further monitoring and management.  Vitals prior to\ntransfer were BP 114/57, HR 102, and CVP 8.\n.\nOnce in the ICU, she denied any pain or other specific\ncomplaints besides the Foley catheter being uncomfortable.  She\nwas in no acute distress and mentating well.  She denied any\ncurrent nausea or abdominal pain.\n.\nReview of systems:\n(+) Per HPI. She noted some chills at home prior to admission\nbut no fevers.  She reports losing about 25 lbs over the last\nfew weeks due to lack of appetite.  She has an occasional cough\nwhich has not changed recently.\n(-) Denies fever, night sweats. Denies headache, sinus\ntenderness, rhinorrhea, or congestion. Denies shortness of\nbreath or wheezing. Denies chest pain, chest pressure,\npalpitations, or weakness. Denies abdominal pain. Denies\ndysuria, frequency, urgency, or change in urine. Denies\narthralgias or myalgias. Denies rashes or skin changes besides\njaundice.\n\n\nPast Medical History:\n# Hypertension\n# Obstructive Sleep Apnea\n-- uses CPAP at home\n# Depression\n\n\nSocial History:\nSocial History:\n# Tobacco: Smoked 1 PPD for five years in the distant past.\n# Alcohol: Prior alcohol abuse, none in two years, now on\nCampral.\n# Illicits: None\n# Lives at home with husband, [**Name (NI) **] [**Telephone/Fax (1) 90543**]\n\n\nFamily History:\nFamily History:\n# Father: died from lymphoma at age 57\n# Mother: CAD with CABG, rapidly progressive dementia recently\n# Oldest Sister: died from alcohol abuse\n# Sister: cholecystectomy\n# Brother: GERD and hypertension\n\n\nPhysical Exam:\nAdmission Physical Exam:\nVitals: T 97.1, BP , HR 107, RR 23, SpO2 100% on RA\nGeneral: Alert, oriented, no acute distress\nHEENT: Scleral icterus, slightly dry MMs, oropharynx clear\nNeck: supple, JVP not elevated, no LAD, right IJ in place\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nrhonchi\nCV: Mildtachycardia with regular rhythm. Normal S1, S2.  Blowing\nholosystolic murmur at LLSB with radiation to axilla.\nAbdomen: Bowel sounds present.  Soft, non-tender, mildly\ndistended, no rebound tenderness or guarding.\nGU: Foley in place\nExt: Warm, well perfused, 2+ pulses. No clubbing, cyanosis, or\nedema\n\nICU Discharge Physical Exam:\nVS Tc 36.7 HR 98 BP 120/66 RR 21 O2 97/RA\nGeneral: Alert, oriented, no acute distress\nHEENT: Scleral icterus, slightly dry MMs, oropharynx clear\nNeck: supple, JVP not elevated, no LAD, right IJ in place\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nrhonchi\nCV: Mild tachycardia with regular rhythm. Normal S1, S2.\nBlowing holosystolic murmur at LLSB with radiation to axilla.\nAbdomen: normoactive bowel sounds present.  Soft, non-tender,\nmildly distended, no rebound tenderness or guarding.\nGU: no foley\nExt: Warm, well perfused, 2+ pulses. No clubbing, cyanosis, or\nedema\n\nDISCHARGE EXAM:\nVitals: 97.9 98/62 94 20 95/RA 1000+300/BRP\nGeneral: AAOx3 NAD\nHEENT: Scleral icterus, MMM, oropharynx clear\nNeck: supple, no LAD JVP 3+sternal angle\nLungs: CTAB no r/r/w\nCV: RRR. Normal S1, S2. holosystolic mumur LLSB radiates to\naxilla.\nAbdomen: Soft, non-tender, distended no rebound tenderness or\nguarding, liver palpable, +BS\nExt: Warm, well perfused, 2+ pulses. No c/c/e\n\n\nPertinent Results:\nADMISSION LABS:\n[**2186-6-17**] 01:00AM BLOOD WBC-13.9* RBC-2.28* Hgb-8.1* Hct-23.6*\nMCV-104* MCH-35.6* MCHC-34.3 RDW-15.0 Plt Ct-200\n[**2186-6-18**] 05:17AM BLOOD WBC-16.4* RBC-2.47* Hgb-8.7* Hct-25.3*\nMCV-102* MCH-35.3* MCHC-34.5 RDW-15.1 Plt Ct-202\n[**2186-6-17**] 01:00AM BLOOD Neuts-86.8* Lymphs-8.5* Monos-2.5 Eos-1.7\nBaso-0.4\n[**2186-6-18**] 05:17AM BLOOD Plt Ct-202\n[**2186-6-18**] 05:17AM BLOOD PT-18.8* PTT-37.1* INR(PT)-1.7*\n[**2186-6-18**] 05:17AM BLOOD Glucose-100 UreaN-32* Creat-1.7*# Na-137\nK-4.0 Cl-105 HCO3-18* AnGap-18\n[**2186-6-17**] 05:58AM BLOOD Glucose-91 UreaN-53* Creat-3.7* Na-131*\nK-4.0 Cl-102 HCO3-14* AnGap-19\n[**2186-6-18**] 05:17AM BLOOD ALT-50* AST-170* LD(LDH)-429*\nAlkPhos-497* TotBili-8.4*\n[**2186-6-17**] 01:00AM BLOOD ALT-53* AST-149* AlkPhos-463*\nTotBili-8.8*\n[**2186-6-18**] 05:17AM BLOOD Lipase-514*\n[**2186-6-17**] 01:00AM BLOOD Lipase-760*\n[**2186-6-17**] 05:58AM BLOOD TotProt-5.3* Calcium-6.7* Phos-3.6 Mg-1.6\nIron-50\n[**2186-6-17**] 05:58AM BLOOD calTIBC-163* VitB12-1777* Folate-6.0\nHapto-142 Ferritn-921* TRF-125*\n[**2186-6-17**] 12:34AM BLOOD Lactate-2.3* K-4.5\n.\nDSICHARGE LABS:\n[**2186-6-28**] 06:13AM BLOOD WBC-19.2* RBC-2.39* Hgb-8.4* Hct-25.2*\nMCV-106* MCH-35.2* MCHC-33.3 RDW-17.1* Plt Ct-252\n[**2186-6-28**] 06:13AM BLOOD Glucose-93 UreaN-13 Creat-1.2* Na-134\nK-4.0 Cl-100 HCO3-24 AnGap-14\n[**2186-6-28**] 06:13AM BLOOD ALT-29 AST-113* LD(LDH)-202 AlkPhos-324*\nTotBili-11.1*\n[**2186-6-28**] 06:13AM BLOOD Albumin-2.9* Calcium-9.0 Phos-4.7* Mg-2.2\n.\nOTHER PERTINENT LABS:\n[**2186-6-17**] 05:58AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE\nHBcAb-NEGATIVE HAV Ab-NEGATIVE\n[**2186-6-17**] 05:58AM BLOOD HCV Ab-NEGATIVE\n[**2186-6-19**] 04:55AM BLOOD AMA-NEGATIVE Smooth-POSITIVE *\n[**2186-6-19**] 04:55AM BLOOD [**Doctor First Name **]-NEGATIVE\n[**2186-6-17**] 05:58AM BLOOD PEP-NO SPECIFI IgG-1232 IgA-424* IgM-138\nIFE-NO MONOCLO\n[**2186-6-19**] 04:55AM BLOOD tTG-IgA-61*\n[**2186-6-17**] 05:58AM BLOOD calTIBC-163* VitB12-1777* Folate-6.0\nHapto-142 Ferritn-921* TRF-125*\n[**2186-6-19**] 04:55AM BLOOD TSH-13*\n[**2186-6-19**] 04:55AM BLOOD T4-7.2 T3-56*\n.\n--------\n--------\nMICRO\n[**6-17**], [**6-20**], [**6-21**], [**6-22**], 8/5 Blood Cultures NEGATIVE except [**11-20**]\nbottles on [**6-20**] which grew:\nBlood Culture, Routine (Final [**2186-6-26**]):\n      STAPHYLOCOCCUS, COAGULASE NEGATIVE.\n         Isolated from only one set in the previous five days.\n         SENSITIVITIES PERFORMED ON REQUEST..\n   Aerobic Bottle Gram Stain (Final [**2186-6-22**]):\n      Reported to and read back by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**2186-6-22**] 8:45AM\n9-0958.\n      GRAM POSITIVE COCCI IN CLUSTERS.\n-------\n-------\nIMAGING\n.\n[**6-17**] CXR:\nINDICATION: Central line placement.\nCOMPARISON: None available.\nFRONTAL RADIOGRAPH OF THE CHEST: A right internal jugular\ncentral venous line terminates with the tip at the upper\ncavoatrial junction. There is no\npneumothorax. Lung volumes are low with resultant vascular\ncrowding. Cardiac silhouette is top normal. Mediastinal and\nhilar contours are normal. There is no pleural effusion or\npneumothorax.\n.\n[**6-20**] CXR\nIMPRESSION No evidence of pneumonia.\n.\n[**6-25**] CXR\nFINDINGS: In comparison with the study of [**6-20**], there is no\ninterval change or\nevidence of acute cardiopulmonary disease. Specifically, no\npneumonia,\nvascular congestion, or pleural effusion.\n.\n[**6-17**] ERCP\nImpression: Successful biliary cannulation was achieved.\nPartial opacification of the biliary tree was performed because\nof clinical suspicion of cholangitis- no evidence of stones or\nfilling defects was seen.\nSuccessful placement of a 7cm x 10Fr stent for biliary drainage-\nwith drainage of clear bile.\nOtherwise normal ERCP to 3rd portion of duodenum.\nRecommendations: Juices when awake and alert, then advance diet\nas tolerated.\nContinue antibiotics.\nNo definitive explanation for jaundice found on ERCP, although\ncontrast opacification limited. It is possible that the patient\npassed a stone. Consider evaluation for other causes of jaundice\nincluding viral hepatitis.  Follow-up ERCP will allow for\ncomplete evaluation of intrahepatics given possibility of PSC.\nRepeat ERCP in 4 weeks for stent removal and complete evaluation\nof biliary tree.\n.\n[**6-18**] RUQ US\nFINDINGS: The liver is diffusely increased in echogenicity,\nconsistent with\nfatty infiltration of the liver. No focal hepatic mass is\ndefinitely noted.\nThere is no intrahepatic or extrahepatic ductal dilatation with\nthe common\nbile duct measuring 4mm. However, the known common bile duct\nstent is not\nvisualized. The main portal vein is patent with hepatopetal\nflow.\n\nThe gallbladder is mildly distended, without wall thickening,\npericholecystic\nfluid, or son[**Name (NI) 493**] [**Name2 (NI) 515**] sign. Sludge is visualized within\nthe\ngallbladder. Additionally, there are echogenic foci with dirty\nposterior\nshadowing in nondependent portions of the gallbladder is\nconsistent with air\nwithin the gallbladder lumen, likely from recent ERCP and\nsphincterotomy.\n\nThe spleen is mildly enlarged measuring 13 cm. There is no\nascites.\nBilateral kidneys are without evidence of hydronephrosis. The\npancreas is not\nwell visualized due to overlying bowel gas.\n\nIMPRESSION:\n1. Gallbladder sludge without acute cholecystitis. There is also\nevidence of\nair within the gallbladder lumen, likely from recent ERCP and\nsphincterotomy.\n2. Echogenic liver consistent with fatty infiltration of the\nliver. More\nsignificant liver disease including significant hepatic\nfibrosis/cirrhosis\ncannot be excluded based on this study.\n3. No biliary dilatation, although the common bile duct stent is\nnot\nvisualized.\n.\n[**6-21**] MRCP\nMR ABDOMEN WITH IV CONTRAST: There is marked diffuse fatty\ndeposition of the\nliver in addition to more focal areas of almost mass-like fatty\ndeposition\nsurrounding the gallbladder fossa (3A:9, 12). There is also\ndeposits of\nincreased fat within the periphery of the liver. There is a\nheterogeneous\nenhancement pattern to the liver suggesting diffuse liver\ndisease beyond fatty\ndeposition. This appearance could be seen with chronic fibrosis,\nalthough\nthere are no other findings on this study to suggest cirrhosis.\nThe hepatic\nand portal veins are patent. There is no intra- or extra-hepatic\nbiliary\ndilation.\n\nA stent is noted in place within the common bile duct. While\nthere is mild\nenhancement of the bile duct wall at the level of the stent,\nabove the level\nof the stent, the bile ducts do not demonstrate any abnormal\nenhancement to\nsuggest cholangitis.\n\nThere is diffuse gallbladder wall edema which is likely related\nto the\nunderlying liver process. There is no hyperenhancement of the\ngallbladder\nwall or surrounding liver to suggest acute cholecystitis. The\ngallbladder\ncontains sludge.\n\nNo pancreatic mass is identified. The pancreas demonstrates\nnormal\nhomogeneous enhancement throughout. The pancreatic duct appears\nnormal. There\nis small amount of peripancreatic fluid/edema consistent with\npatient's\ndiagnosis of acute pancreatitis. The splenic vein and superior\nmesenteric\nveins remain patent. There are no fluid collections.\n\nThere is a trace amount of perihepatic and perisplenic ascites.\nThe spleen,\nadrenal glands, kidneys, and stomach are within normal limits.\nThere is no\nretroperitoneal or mesenteric lymphadenopathy.\n\nIMPRESSION:\n1. No evidence of pancreatic mass. Small amount of\nperipancreatic fluid/edema\nis consistent with uncomplicated acute pancreatitis. Trace\nperihepatic and\nperisplenic ascites.\n\n2. Marked diffuse fatty deposition in the liver. However,\nheterogeneous\nenhancement of the liver suggests diffuse liver disease beyond\nfatty liver,\npossibly reflecting hepatitis oor fibrosis, though there is not\novert\ncirrhosis.\n\n3. Gallbladder wall edema, likely due to underlying liver\ndisease.\nGallbladder sludge.\n\n4. Biliary stent in place without intra or extraphepatic biliary\ndilation.\nMild enhancement of the common bile duct is likely from stent\nplacement.\nThere is no evidence of abnormal biliary ductal enhancement\nabove the level of\nthe stent to suggest cholangitis.\n\n.\n[**6-28**] ECHO\nFindings\nLEFT ATRIUM: Mild LA enlargement.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA.\n\nLEFT VENTRICLE: Normal LV wall thickness, cavity size and\nregional/global systolic function (LVEF >55%). Estimated cardiac\nindex is normal (>=2.5L/min/m2). TDI E/e' < 8, suggesting normal\nPCWP (<12mmHg). No resting LVOT gradient.\n\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\n\nAORTA: Normal diameter of aorta at the sinus, ascending and arch\nlevels.\n\nAORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.\nNo AR.\n\nMITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP.\nMild thickening of mitral valve chordae. No MR.\n\nTRICUSPID VALVE: Normal tricuspid valve leaflets. Physiologic\nTR. Moderate PA systolic hypertension.\n\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.\nNo PS. Physiologic PR.\n\nPERICARDIUM: No pericardial effusion.\n\nGENERAL COMMENTS: Suboptimal image quality - poor apical views.\n\nConclusions\nThe left atrium is mildly dilated. Left ventricular wall\nthickness, cavity size and regional/global systolic function are\nnormal (LVEF >55%). The estimated cardiac index is normal\n(>=2.5L/min/m2). Tissue Doppler imaging suggests a normal left\nventricular filling pressure (PCWP<12mmHg). Right ventricular\nchamber size and free wall motion are normal. The diameters of\naorta at the sinus, ascending and arch levels are normal. The\naortic valve leaflets (3) are mildly thickened but aortic\nstenosis is not present. No aortic regurgitation is seen. The\nmitral valve leaflets are mildly thickened. There is no mitral\nvalve prolapse. No mitral regurgitation is seen. There is mild\nto moderate pulmonary artery systolic hypertension. There is no\npericardial effusion.\n\nIMPRESSION: Normal global and regional biventricular systolic\nfunction. Mild to moderate pulmonary hypertension.\n\n\nBrief Hospital Course:\n46 year old female with a medical history of hypertension &\ndepression transferred from [**Hospital6 2561**] after\npresenting with 4 days of nausea, vomiting, diarrhea, and\nworsening jaundice. Admitted to the ICU, found to have acute\nalcoholic pancreatitis and hepatitis.\n.\n# Acute Alcoholic Pancreatitis:\nPt presented to OSH with symptoms consistent with acute\npancreatitis. The patient has a history of alcohol abuse, but\ninitial denied alcohol use within the past 2 years, so gallstone\npancreatitis was suspected. RUQ ultrasound at OSH reportedly\nshowed sludge without visible stone. She underwent ERCP with CBD\nstent placement. Lipase was initially quite elevated and trended\ndown moderately after aggressive IVF. Other possible causes for\nher pancreatitis were explored, including the possibility of\nabdominal trauma suffered in a single-car accident the patient\nsuffered two weeks before this admission. However, MRCP was\nnegative. When TTG was elevated and patient was confronted with\nthe lack of other explanations for her acute\npancreatitis/hepatitis, she admitted to drinking 1.5 bottles of\nwine/day prior to admission (see below, alcohol abuse).\n.\n# Acute Alcoholic Hepatitis:\nPt also presented with elevated LFTs and jaundice. Alcoholic\nhepatitis was diagnosed when biliary obstruction and viral\nhepatitis were ruled out. She had initially been started on\nantibiotics in the ED, but these were stopped given lack of\nconcern for infection. Patient provided additional history of\nrecent MVA with 6 g/day tylenol use for 3 days thereafter\n([**Date range (1) 24996**]) + intermittent alcohol use. Hepatology was consulted\nin the ICU with concern for PSC or other liver parenchymal\nprocess, in addition to alcohol and possible tylenol overdose;\nthe patient was transferred to the hepatology service after\ndischarge from the ICU. Her leukocytosis persisted, LFTs\nremained elevated and she continued to spike fevers. These were\nthought to be [**12-21**] underlying alcoholic hepatitis rather than\ninfection, especially since only 1 bottle of many many blood\nculture samples was ever positive for bacterial growth, and thus\nwas thought to be a lab contaminant. She received a 7-day course\nof vancomycin, then was started on pentoxyfilline.\n.\n# Coagulopathy:\nRelated to hepatitis. The patient??????s INR was elevated to 1.6 on\narrival at the [**Hospital1 18**] ED. She does not have a reported history of\nliver disease and is not on anticoagulation at home. Best\nexplained by new diagnosis of acute alcoholic hepatitis.\n.\n# Hypotension:\nRelated to pancreatitis. Patient was hypotensive on admission\nwith SBP 90s despite receiving significant IV fluids at OSH.\nHer hypotension was likely related to fluid shifts from acute\nalcoholic pancreatitis rather than sepsis. SBP improved to the\n110s with IV fluids. She was restarted on a decreased dose of\nhome metoprolol (25 mg QD) but home lisinopril was held given\nacute renal injury (below). Lisinopril was restarted at\ndischarge.\n.\n# Hyponatremia:\nRelated to pancreatitis/hepatitis. Resolved with current Na 137\nin the ICU, up from 126 on admission and 123 at OSH.  This\nlikely represented hypovolemic hyponatremia from her\npancreatitis and volume depletion from GI losses and poor PO\nintake.\n.\n# [**Last Name (un) **]:\nCreatinine 8.0 on admission to OSH, fell gradually during this\nadmission, to 1.2 at discharge. Baseline creatinine was unknown.\nThe most likely etiology was prerenal from hypotension and fluid\nshifts in the context of pancreatitis. Maintained urine output\nin the context of aggressive IVF hydration as above.\n.\n# Metabolic Acidosis:\nPatient had an anion gap acidosis at the OSH. Lactate was 1.2 at\nOSH and 2.3 here.  Acidosis thought to be related to\npancreatitis, [**Last Name (un) **], and ketones from alcohol intake/poor\nnutrition prior to admission. Resolved by time of discharge,\nwith bicarb 24 and anion gap 10.\n.\n# Anemia:\nHct was 28.2 at OSH. Baseline Hct unknown.  She reports recent\ndiarrhea that was sometimes black, but her stool was guaiac\nnegative in the ED.  She has not had a menstrual period since\n[**Month (only) 404**].  Her RBCs are macrocytic with MCV 104. Iron panel was\ndifficult to interpret in the setting of her current acute\nillness. Hct was trended, iron panel, B12, and folate were\nchecked. She received B12, folate, and iron supplementation\nduring this admission.\n.\n# Leukocytosis:\nPatient presented with a leukocytosis, WBC 13.9; this rose\nduring admission. Attributed to alcoholic hepatitis. Cultures\nall negative apart from a single spuriously-positive GPC blood\nculture. WBC remained >15 after treatment with vancomycin.\n.\n# Depression:\nReports 25-lb weight loss in past 3 weeks secondary to stress.\nShe is on Lexapro for depression and . These should be held for\nnow pending improvement in her renal and hepatic function, both\nof which are currently impaired. Recent alcohol use likely\ncontributed to her current presentation, and should be\nreaddressed prior to and after discharge as she will continue to\nneed support for this ongoing issue.\n.\n# Alcohol Abuse:\nPatient has longstanding history of alcohol abuse; she sees a\ntherapist [**Hospital1 **]-weekly and a psychopharmacologist for Campral\nprescription. Denies alcohol use within the past 2 years until\nconfronted with laboratory data (GGT) confirming her providers'\nsuspicion of ongoing alcohol use. Family meeting was held prior\nto discharge, to discuss prognosis for alcoholic hepatitis,\nrequest that husband remove all alcohol from the home, agree\nupon a plan for post-discharge detox program, and to re-inforce\nthe absolute importance of abstinence for her survival.\nInpatient social work has arranged for outpatient detox, to\nbegin the Monday after discharge ([**7-3**]); patient was unwilling\nto be discharged directly to a detox facility. Outpatient\ntherapist aware and will follow-up; psychopharmacologist alerted\nby telephone.\n.\n# Recent motor vehicle accident:\nLarge bruise noted on pt's lower back during physical\nexamination in the ICU. Pt reported history of a single-vehicle\ncar accident on [**6-5**]: she drove over two curbs in trying to\navoid other drivers, resulting in two blown tires. She denies\nsteering wheel impact and did not seek police or medical\nattention after the accident. Denied alcohol use prior to this\naccident. Took 6 g/day tylenol in the 3 days following, which\nmay have contributed to her liver failure.\n\nTRANSITIONAL ISSUES\n1. ***Alcohol abuse follow-up.*** Patient has agreed to\ninpatient detox but wanted to go home first to see her\n8-year-old son. Inpatient social worker [**Name (NI) 636**] [**Name (NI) 12471**] and\noutpatient therapist will follow-up to ensure this happens.\n\nMedications on Admission:\nLexapro 30 mg PO daily\nLisinopril 10 mg PO daily\nMetoprolol 50 mg PO BID\nCampral (Acamprosate) 333 mg 2 tabs TID\nOmeprazole OTC PO daily\n\nDischarge Medications:\n1. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n2. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*90 Tablet(s)* Refills:*2*\n3. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*90 Tablet(s)* Refills:*2*\n4. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\nDisp:*90 Capsule, Delayed Release(E.C.)(s)* Refills:*0*\n5. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every\n6 hours) as needed for fever, pain: Please limit to 2gm.\n6. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO once\na day.\nDisp:*30 Tablet(s)* Refills:*2*\n7. lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.\n8. Lexapro 20 mg Tablet Sig: One (1) Tablet PO once a day.\n9. Campral 333 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO three times a day.\n10. pentoxifylline 400 mg Tablet Extended Release Sig: One (1)\nTablet Extended Release PO TID (3 times a day).\nDisp:*90 Tablet Extended Release(s)* Refills:*2*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPrimary Diagnoses:\nAlcoholic Pancreatitis\nAlcoholic Hepatitis\n.\nSecondary Diagnoses:\nDepression\nAlcohol Abuse\nSleep Apnea\nHypertension\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nThank you for allowing us to participate in your care.\n.\nYou were admitted to the hospital for abdominal pain and\njaundice.\n.\nYou underwent an endoscopic procedure called ERCP, to visualize\nyour gallbladder and biliary tree. No gallstones or obstruction\nwas seen. A stent was placed in the bile duct, to allow free\ndrainage of bile into your intestines, in case there was some\nmild obstruction not seen on the test.\n.\nYour liver and pancreas enzyme levels were followed during this\nadmission. These were very elevated when you first arrived, but\nthey trended down with IV fluids and time. However, they were\nstill elevated at the time of discharge and you were still\njaundiced. You were not having any abdominal pain. We looked for\ninfection but did not see any signs. The inflammation in your\npancreas and liver appeared to be from another non-infectious\ncause.\n.\nWe thought your liver and pancreas inflammation was due to\nalcohol consumption. Lab tests showed that this was true. You do\nhave several reasons for increased stress in your life recently.\nYou met with a social worker during this hospitalization who\nwill help coordinate your care after you leave the hospital. We\nfelt it was very important that you get adequate support after\nyou leave the hospital so that you can stay sober. Drinking\nalcohol will further injury your pancreas and liver, which are\nalready fragile. You will see your own therapist, [**Female First Name (un) **], twice a\nweek from now on. She will help you follow-through with your\nintention to enroll in a full-time alcohol detox program within\na week after leaving the hospital.\n.\nWhen you first arrived, we treated you with intravenous\nantibiotics to fight a possible bacterial infection in your\ngallbladder. Later we gave you antibiotics again when we\nsuspected an infection in your blood. Laboratory tests showed\nthat you were not infected at the time you left the hospital.\n.\nWe made the following changes to your medications:\n1. We DECREASED your metoprolol dose to 25 mg per day.\n2. We STARTED you on Pentoxifylline 400 mg PO three times daily\n3. We STARTED you on multivitamins and thiamine which you should\ntake daily\n.\nPlease continue to take all other medications as prescribed, or\nas instructed by your doctor.\n.\n\nFollowup Instructions:\nWe arranged a follow-up appointment with your primary care\ndoctor:\n\nName: [**Last Name (LF) **],[**First Name8 (NamePattern2) 2671**] [**Last Name (NamePattern1) **]\nLocation: [**Hospital **] MEDICAL ASSOCIATION\nAddress: [**Apartment Address(1) 83440**], [**Hospital1 **],[**Numeric Identifier 4293**]\nPhone: [**Telephone/Fax (1) 26774**]\nAppointment: Friday [**6-30**] 2:15 PM\n.\nPlease call Dr.[**Name (NI) 90544**] office if you need to reschedule this\nappointment.\n\nPlease also call your Psychopharmacologist Dr. [**First Name8 (NamePattern2) **]\n[**Last Name (NamePattern1) 90545**] at [**Telephone/Fax (1) 90546**] to book a follow up appointment within\n1 week.\n.\nYou should also see your therapist next week. The [**Hospital1 18**] social\nworker will be in contact with your therapist to ensure a smooth\ntransition so you can receive the support you need.\n.\nYou will also need to follow-up with the ERCP service, to have\nthe stent removed. Dr[**Name (NI) 90547**] administrator, [**First Name8 (NamePattern2) 803**] [**Last Name (NamePattern1) 15954**],\nwill call you to arrange this appointment. If you don't hear\nfrom her by next Monday, please call her at [**Telephone/Fax (1) 21143**].\n\n\n\n"
+    },
+    {
+      "note_id": 1201842,
+      "category": "Radiology",
+      "description": "CHEST (PA & LAT)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 41,
+          "code": "71046",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; 2 views",
+          "type": "Human",
+          "covered_text": "CHEST (PA & LAT)"
+        },
+        {
+          "begin": 210,
+          "end": 222,
+          "code": "K85.90",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pancreatitis without necrosis or infection, unspecified",
+          "type": "Human",
+          "covered_text": "PANCREATITIS"
+        },
+        {
+          "begin": 365,
+          "end": 370,
+          "code": "R05.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cough, unspecified",
+          "type": "Human",
+          "covered_text": "cough"
+        },
+        {
+          "begin": 372,
+          "end": 378,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "fevers"
+        }
+      ],
+      "text": "[**2186-6-25**] 7:02 PM\n CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 23202**]\n Reason: Please evaluate for evidence of consolidation.\n Admitting Diagnosis: PANCREATITIS\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  46 year old woman with cough, fevers.\n REASON FOR THIS EXAMINATION:\n  Please evaluate for evidence of consolidation.\n ______________________________________________________________________________\n WET READ: PBec SUN [**2186-6-25**] 8:01 PM\n   no acute intrathoracic process. unchanged exam. PBishop\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  Cough and fever.\n\n FINDINGS:  In comparison with the study of [**6-20**], there is no interval change or\n evidence of acute cardiopulmonary disease.  Specifically, no pneumonia,\n vascular congestion, or pleural effusion.\n\n\n"
+    },
+    {
+      "note_id": 247823,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 15,
+          "end": 38,
+          "code": "R94.31",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal electrocardiogram [ECG] [EKG]",
+          "type": "Human",
+          "covered_text": "Non-specific ST segment"
+        }
+      ],
+      "text": "Sinus rhythm.  Non-specific ST segment changes in the inferolateral leads.\nNo previous tracing available for comparison.\n\n"
+    },
+    {
+      "note_id": 1200849,
+      "category": "Radiology",
+      "description": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 48,
+          "code": "76705",
+          "code_system": "CPT",
+          "description": "Ultrasound, abdominal, real time with image documentation; limited (eg, single organ, quadrant, follow-up)",
+          "type": "Human",
+          "covered_text": "LIVER OR GALLBLADDER US"
+        },
+        {
+          "begin": 150,
+          "end": 168,
+          "code": "K70.31",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic cirrhosis of liver with ascites",
+          "type": "Human",
+          "covered_text": "cirrhosis, ascites"
+        },
+        {
+          "begin": 170,
+          "end": 190,
+          "code": "K83.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified diseases of biliary tract",
+          "type": "Human",
+          "covered_text": "bile duct dilatation"
+        },
+        {
+          "begin": 224,
+          "end": 236,
+          "code": "K85.90",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pancreatitis without necrosis or infection, unspecified",
+          "type": "Human",
+          "covered_text": "PANCREATITIS"
+        },
+        {
+          "begin": 383,
+          "end": 393,
+          "code": "F10.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol abuse, uncomplicated",
+          "type": "Human",
+          "covered_text": "etoh abuse"
+        },
+        {
+          "begin": 395,
+          "end": 398,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 400,
+          "end": 403,
+          "code": "G47.33",
+          "code_system": "ICD-10-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "Human",
+          "covered_text": "OSA"
+        },
+        {
+          "begin": 405,
+          "end": 415,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 457,
+          "end": 475,
+          "code": "K70.31",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic cirrhosis of liver with ascites",
+          "type": "Human",
+          "covered_text": "cirrhosis, ascites"
+        },
+        {
+          "begin": 477,
+          "end": 497,
+          "code": "K83.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified diseases of biliary tract",
+          "type": "Human",
+          "covered_text": "bile duct dilatation"
+        },
+        {
+          "begin": 1180,
+          "end": 1189,
+          "code": "R14.0",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal distension (gaseous)",
+          "type": "Human",
+          "covered_text": "distended"
+        },
+        {
+          "begin": 1559,
+          "end": 1584,
+          "code": "R16.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hepatomegaly, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "spleen is mildly enlarged"
+        },
+        {
+          "begin": 1768,
+          "end": 1786,
+          "code": "K82.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified diseases of gallbladder",
+          "type": "Human",
+          "covered_text": "Gallbladder sludge"
+        },
+        {
+          "begin": 1927,
+          "end": 1942,
+          "code": "K76.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified diseases of liver",
+          "type": "Human",
+          "covered_text": "Echogenic liver"
+        }
+      ],
+      "text": "[**2186-6-18**] 6:28 PM\n LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 24438**]\n Reason: eval for cirrhosis, ascites, bile duct dilatation or strictu\n Admitting Diagnosis: PANCREATITIS\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  46 year old woman with PMH etoh abuse, HTN, OSA, depression\n REASON FOR THIS EXAMINATION:\n  eval for cirrhosis, ascites, bile duct dilatation or stricture, etc.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  Evaluation of patient with recent ERCP for ductal dilatation.\n\n COMPARISON:  Outside hospital CT from [**2186-6-16**].\n\n FINDINGS:  The liver is diffusely increased in echogenicity, consistent with\n fatty infiltration of the liver. No focal hepatic mass is definitely noted.\n There is no intrahepatic or extrahepatic ductal dilatation with the common\n bile duct measuring 4mm.  However, the known common bile duct stent is not\n visualized.  The main portal vein is patent with hepatopetal flow.\n\n The gallbladder is mildly distended, without wall thickening, pericholecystic\n fluid, or son[**Name (NI) 211**] [**Name2 (NI) 212**] sign. Sludge is visualized within the\n gallbladder.  Additionally, there are echogenic foci with dirty posterior\n shadowing in nondependent portions of the gallbladder is consistent with air\n within the gallbladder lumen, likely from recent ERCP and sphincterotomy.\n\n The spleen is mildly enlarged measuring 13 cm.  There is no ascites.\n Bilateral kidneys are without evidence of hydronephrosis.  The pancreas is not\n well visualized due to overlying bowel gas.\n\n IMPRESSION:\n 1.  Gallbladder sludge without acute cholecystitis.  There is also evidence of\n air within the gallbladder lumen, likely from recent ERCP and sphincterotomy.\n 2.  Echogenic liver consistent with fatty infiltration of the liver.  More\n significant liver disease including significant hepatic fibrosis/cirrhosis\n cannot be excluded based on this study.\n 3.  No biliary dilatation, although the common bile duct stent is not\n visualized.\n\n"
+    },
+    {
+      "note_id": 1201222,
+      "category": "Radiology",
+      "description": "MRCP (MR ABD W&W/OC)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 45,
+          "code": "76376",
+          "code_system": "CPT",
+          "description": "3D rendering with interpretation and reporting of computed tomography, magnetic resonance imaging, ultrasound, or other tomographic modality with image postprocessing under concurrent supervision; not requiring image postprocessing on an",
+          "type": "Human",
+          "covered_text": "MRCP (MR ABD W&W/OC)"
+        },
+        {
+          "begin": 199,
+          "end": 211,
+          "code": "K85.90",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pancreatitis without necrosis or infection, unspecified",
+          "type": "Human",
+          "covered_text": "PANCREATITIS"
+        },
+        {
+          "begin": 390,
+          "end": 402,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        },
+        {
+          "begin": 419,
+          "end": 427,
+          "code": "R17",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified jaundice",
+          "type": "Human",
+          "covered_text": "jaundice"
+        },
+        {
+          "begin": 862,
+          "end": 875,
+          "code": "K76.0",
+          "code_system": "ICD-10-CM",
+          "description": "Fatty (change of) liver, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "heterogeneous"
+        },
+        {
+          "begin": 986,
+          "end": 1008,
+          "code": "K82.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hydrops of gallbladder",
+          "type": "Human",
+          "covered_text": "Gallbladder wall edema"
+        },
+        {
+          "begin": 1050,
+          "end": 1070,
+          "code": "K82.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified diseases of gallbladder",
+          "type": "Human",
+          "covered_text": "Gallbladder\n  sludge"
+        },
+        {
+          "begin": 1447,
+          "end": 1459,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        },
+        {
+          "begin": 1477,
+          "end": 1485,
+          "code": "R17",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified jaundice",
+          "type": "Human",
+          "covered_text": "jaundice"
+        },
+        {
+          "begin": 2287,
+          "end": 2300,
+          "code": "K76.0",
+          "code_system": "ICD-10-CM",
+          "description": "Fatty (change of) liver, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "heterogeneous"
+        },
+        {
+          "begin": 3046,
+          "end": 3058,
+          "code": "K85.90",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pancreatitis without necrosis or infection, unspecified",
+          "type": "Human",
+          "covered_text": "PANCREATITIS"
+        },
+        {
+          "begin": 3808,
+          "end": 3820,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        },
+        {
+          "begin": 3964,
+          "end": 3983,
+          "code": "R18.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other ascites",
+          "type": "Human",
+          "covered_text": "perisplenic ascites"
+        },
+        {
+          "begin": 4257,
+          "end": 4269,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        },
+        {
+          "begin": 4294,
+          "end": 4313,
+          "code": "R18.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other ascites",
+          "type": "Human",
+          "covered_text": "perisplenic ascites"
+        },
+        {
+          "begin": 4377,
+          "end": 4390,
+          "code": "K76.0",
+          "code_system": "ICD-10-CM",
+          "description": "Fatty (change of) liver, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "heterogeneous"
+        },
+        {
+          "begin": 4557,
+          "end": 4579,
+          "code": "K82.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hydrops of gallbladder",
+          "type": "Human",
+          "covered_text": "Gallbladder wall edema"
+        }
+      ],
+      "text": "[**2186-6-21**] 9:09 AM\n MRCP (MR ABD W&W/OC)                                            Clip # [**Clip Number (Radiology) 24439**]\n Reason: eval for pancreatic mass, stricture\n Admitting Diagnosis: PANCREATITIS\n  Contrast: MAGNEVIST Amt: 17\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  46 year old woman with acute pancreatitis and obstructive jaundice w/stricture\n  seen on ERCP.\n REASON FOR THIS EXAMINATION:\n  eval for pancreatic mass, stricture\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: JKSd WED [**2186-6-21**] 12:11 PM\n  1. No evidence of pancreatic mass. Panc duct is normal.  Peripancreatic\n  fluid/edema consistent with pancreatitis.\n\n  2. Marked diffuse fatty deposition of liver. However, heterogeneous\n  enhancement of liver suggests diffuse liver disease beyond fatty liver\n  (possibly chronic fibrosis).\n\n  3. Gallbladder wall edema likely due to underlying liver disease.  Gallbladder\n  sludge.\n\n  4. Biliary stent in place; mild enhancement of CBD is likely from stent\n  placement.  No evidence of abnormal biliary wall enhancement above level of\n  stent to suggest cholangitis.\n WET READ VERSION #1\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  46-year-old woman with acute pancreatitis and obstructive\n jaundice with stricture seen on ERCP.  Evaluate for pancreatic mass.\n\n COMPARISON:  Outside hospital CT of [**2186-6-16**] and right upper quadrant\n ultrasound of [**2186-6-18**] performed at [**Hospital1 51**].\n\n TECHNIQUE:  Multiplanar T1- and T2-weighted images were acquired on a 1.5\n Tesla magnet including dynamic 3D imaging obtained prior to, during, and after\n the intravenous administration of gadolinium-DTPA (17 cc).  A mixture of\n GastroMARK and Redicat was administered orally as negative bowel contrast.\n\n MR ABDOMEN WITH IV CONTRAST:  There is marked diffuse fatty deposition of the\n liver in addition to more focal areas of almost mass-like fatty deposition\n surrounding the gallbladder fossa (3A:9, 12).  There is also deposits of\n increased fat within the periphery of the liver.  There is a heterogeneous\n enhancement pattern to the liver suggesting diffuse liver disease beyond fatty\n deposition.  This appearance could be seen with chronic fibrosis, although\n there are no other findings on this study to suggest cirrhosis.  The hepatic\n and portal veins are patent.  There is no intra- or extra-hepatic biliary\n dilation.\n\n A stent is noted in place within the common bile duct.  While there is mild\n enhancement of the bile duct wall at the level of the stent, above the level\n                                                             (Over)\n\n [**2186-6-21**] 9:09 AM\n MRCP (MR ABD W&W/OC)                                            Clip # [**Clip Number (Radiology) 24439**]\n Reason: eval for pancreatic mass, stricture\n Admitting Diagnosis: PANCREATITIS\n  Contrast: MAGNEVIST Amt: 17\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n of the stent, the bile ducts do not demonstrate any abnormal enhancement to\n suggest cholangitis.\n\n There is diffuse gallbladder wall edema which is likely related to the\n underlying liver process.  There is no hyperenhancement of the gallbladder\n wall or surrounding liver to suggest acute cholecystitis.  The gallbladder\n contains sludge.\n\n No pancreatic mass is identified.  The pancreas demonstrates normal\n homogeneous enhancement throughout. The pancreatic duct appears normal.  There\n is small amount of peripancreatic fluid/edema consistent with patient's\n diagnosis of acute pancreatitis.  The splenic vein and superior mesenteric\n veins remain patent.  There are no fluid collections.\n\n There is a trace amount of perihepatic and perisplenic ascites.  The spleen,\n adrenal glands, kidneys, and stomach are within normal limits.  There is no\n retroperitoneal or mesenteric lymphadenopathy.\n\n IMPRESSION:\n 1.  No evidence of pancreatic mass. Small amount of peripancreatic fluid/edema\n is consistent with uncomplicated acute pancreatitis. Trace perihepatic and\n perisplenic ascites.\n\n 2.  Marked diffuse fatty deposition in the liver.  However, heterogeneous\n enhancement of the liver suggests diffuse liver disease beyond fatty liver,\n possibly reflecting hepatitis oor fibrosis, though there is not overt\n cirrhosis.\n\n 3.  Gallbladder wall edema, likely due to underlying liver disease.\n Gallbladder sludge.\n\n 4.  Biliary stent in place without intra or extraphepatic biliary dilation.\n Mild enhancement of the common bile duct is likely from stent placement.\n There is no evidence of abnormal biliary ductal enhancement above the level of\n the stent to suggest cholangitis.\n\n\n\n"
+    },
+    {
+      "note_id": 91589,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 38,
+          "end": 44,
+          "code": "R01.1",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac murmur, unspecified",
+          "type": "Human",
+          "covered_text": "Murmur"
+        },
+        {
+          "begin": 188,
+          "end": 191,
+          "code": "93308",
+          "code_system": "CPT",
+          "description": "Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, follow-up or limited study",
+          "type": "Human",
+          "covered_text": "TTE"
+        },
+        {
+          "begin": 336,
+          "end": 350,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "LA enlargement"
+        },
+        {
+          "begin": 1045,
+          "end": 1057,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: Murmur.\nHeight: (in) 64\nWeight (lb): 192\nBSA (m2): 1.92 m2\nBP (mm Hg): 90/60\nHR (bpm): 93\nStatus: Inpatient\nDate/Time: [**2186-6-28**] at 11:08\nTest: TTE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Suboptimal\n\n\nINTERPRETATION:\n\nFindings:\n\nLEFT ATRIUM: Mild LA enlargement.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA.\n\nLEFT VENTRICLE: Normal LV wall thickness, cavity size and regional/global\nsystolic function (LVEF >55%). Estimated cardiac index is normal\n(>=2.5L/min/m2). TDI E/e' < 8, suggesting normal PCWP (<12mmHg). No resting\nLVOT gradient.\n\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\n\nAORTA: Normal diameter of aorta at the sinus, ascending and arch levels.\n\nAORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. No AR.\n\nMITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. Mild thickening\nof mitral valve chordae. No MR.\n\nTRICUSPID VALVE: Normal tricuspid valve leaflets. Physiologic TR. Moderate PA\nsystolic hypertension.\n\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. No PS.\nPhysiologic PR.\n\nPERICARDIUM: No pericardial effusion.\n\nGENERAL COMMENTS: Suboptimal image quality - poor apical views.\n\nConclusions:\nThe left atrium is mildly dilated. Left ventricular wall thickness, cavity\nsize and regional/global systolic function are normal (LVEF >55%). The\nestimated cardiac index is normal (>=2.5L/min/m2). Tissue Doppler imaging\nsuggests a normal left ventricular filling pressure (PCWP<12mmHg). Right\nventricular chamber size and free wall motion are normal. The diameters of\naorta at the sinus, ascending and arch levels are normal. The aortic valve\nleaflets (3) are mildly thickened but aortic stenosis is not present. No\naortic regurgitation is seen. The mitral valve leaflets are mildly thickened.\nThere is no mitral valve prolapse. No mitral regurgitation is seen. There is\nmild to moderate pulmonary artery systolic hypertension. There is no\npericardial effusion.\n\nIMPRESSION: Normal global and regional biventricular systolic function. Mild\nto moderate pulmonary hypertension.\n\n\n"
+    },
+    {
+      "note_id": 1200662,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 36,
+          "code": "75630",
+          "code_system": "CPT",
+          "description": "Aortography, abdominal plus bilateral iliofemoral lower extremity, catheter, by serialography, radiological supervision and interpretation",
+          "type": "Human",
+          "covered_text": "CHEST PORT"
+        },
+        {
+          "begin": 603,
+          "end": 640,
+          "code": "Z95.828",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of other vascular implants and grafts",
+          "type": "Human",
+          "covered_text": "right internal jugular central venous"
+        },
+        {
+          "begin": 770,
+          "end": 787,
+          "code": "R09.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified symptoms and signs involving the circulatory and respiratory systems",
+          "type": "Human",
+          "covered_text": "vascular crowding"
+        }
+      ],
+      "text": "[**2186-6-17**] 12:53 AM\n CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 25598**]\n Reason: placement of CL?\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  46 year old woman with central line placed\n REASON FOR THIS EXAMINATION:\n  placement of CL?\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  Central line placement.\n\n COMPARISON:  None available.\n\n FRONTAL RADIOGRAPH OF THE CHEST:  A right internal jugular central venous line\n terminates with the tip at the upper cavoatrial junction.  There is no\n pneumothorax.  Lung volumes are low with resultant vascular crowding.  Cardiac\n silhouette is top normal.  Mediastinal and hilar contours are normal.  There\n is no pleural effusion or pneumothorax.\n\n"
+    },
+    {
+      "note_id": 1201170,
+      "category": "Radiology",
+      "description": "CHEST (PA & LAT)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 41,
+          "code": "71046",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; 2 views",
+          "type": "Human",
+          "covered_text": "CHEST (PA & LAT)"
+        },
+        {
+          "begin": 200,
+          "end": 212,
+          "code": "K85.90",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pancreatitis without necrosis or infection, unspecified",
+          "type": "Human",
+          "covered_text": "PANCREATITIS"
+        },
+        {
+          "begin": 355,
+          "end": 360,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 362,
+          "end": 374,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "pancreatitis"
+        }
+      ],
+      "text": "[**2186-6-20**] 6:07 PM\n CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 23201**]\n Reason: Please evaluate for interval change.\n Admitting Diagnosis: PANCREATITIS\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  46 year old woman with fever, pancreatitis.\n REASON FOR THIS EXAMINATION:\n  Please evaluate for interval change.\n ______________________________________________________________________________\n WET READ: SPfc TUE [**2186-6-20**] 8:26 PM\n  No acute abnormality\n ______________________________________________________________________________\n                                 FINAL REPORT\n PA AND LATERAL VIEWS OF THE CHEST\n\n REASON FOR EXAM:  Fever.\n\n Cardiomediastinal contours are normal.  The lungs are clear.  There is no\n pneumothorax or pleural effusion.\n\n IMPRESSION\n No evidence of pneumonia.\n\n"
+    }
+  ]
+}

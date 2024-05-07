@@ -1,0 +1,104 @@
+{
+  "hadm_id": 140912,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 8587,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 340,
+          "end": 364,
+          "code": "35.21",
+          "code_system": "ICD-9-PCS",
+          "description": "Replacement of aortic valve with tissue graft",
+          "type": "Human",
+          "covered_text": "Aortic valve replacement"
+        },
+        {
+          "begin": 665,
+          "end": 677,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 679,
+          "end": 693,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "hyperlipidemia"
+        },
+        {
+          "begin": 964,
+          "end": 968,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 1153,
+          "end": 1157,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 1195,
+          "end": 1226,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "He quit smoking three years ago"
+        },
+        {
+          "begin": 10753,
+          "end": 10774,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "AORTIC REGURGITATION,"
+        },
+        {
+          "begin": 10808,
+          "end": 10827,
+          "code": "571.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic nonalcoholic liver disease",
+          "type": "MapType.APPROX",
+          "covered_text": "FATTY\nLIVER DISEASE"
+        },
+        {
+          "begin": 10828,
+          "end": 10838,
+          "code": "278.02",
+          "code_system": "ICD-9-CM",
+          "description": "Overweight",
+          "type": "MapType.EXACT",
+          "covered_text": "OVERWEIGHT"
+        },
+        {
+          "begin": 10878,
+          "end": 10906,
+          "code": "600.00",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "MapType.APPROX",
+          "covered_text": "BENIGN PROSTATIC HYPERTROPHY"
+        }
+      ],
+      "text": "Admission Date:  [**2194-8-14**]              Discharge Date:   [**2194-8-22**]\n\nDate of Birth:  [**2133-12-16**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nPenicillins\n\nAttending:[**First Name3 (LF) 1406**]\nChief Complaint:\nDiastolic Murmur, Vegetation on Aortic Valve\n\nMajor Surgical or Invasive Procedure:\n[**2194-8-18**]\nAortic valve replacement with a St. [**First Name5 (NamePattern1) 923**] [**Last Name (NamePattern1) 4041**] tissue valve,\nsize 23 mm.  Reference #[**Serial Number 13649**].  Serial #[**Serial Number 30122**].\nDental extractions (teeth number 23, 24, 25, 26).\n\n\nHistory of Present Illness:\n60M with a past medical history of hypertension, hyperlipidemia,\ntobacco use, who presents with three weeks of dyspnea on\nexertion. Found to have a new diastolic murmur, an echo\ndemonstrated a vegetation on his aortic valve and 4+ aortic\nregurgitation.\nHe was referred to cardiac surgery.\n\nPast Medical History:\nAORTIC REGURGITATION\n-COPD (CHRONIC AIRWAY OBSTRUCTION)\n-FATTY LIVER DISEASE -OVERWEIGHT\n-HEMANGIOMA, HEPATIC\n-ERECTILE DYSFUNCTION\n-BENIGN PROSTATIC HYPERTROPHY, WITH OBSTRUCTION\n-HYPERTENSION\n-HYPERLIPIDEMIA\n-GERD\n-Hx of TOBACCO USE\n\n\nSocial History:\nHe quit smoking three years ago and reports a forty pack year\nhistory.\ndrinks alcohol socially.\nHe lives alone and works as a manager of [**Company **] Airport.\n\n\nFamily History:\nHis brother died from complication of an aortic valve\nreplacement secondary to endocarditis. His uncle had an\nabdominal aortic aneurysm.\n\n\nPhysical Exam:\nADMISSION:\nVS: 98 138/65 70 18 97% RA\nGENERAL: NAD, AxOx3.\nHEENT: JVP unappreciable. Sclera anicteric. PERRL, EOMI. MMM\nCARDIAC: RRR, normal S1, S2. [**3-26**] diasolic rumbling murmur\nconsistent with AI. No S3 or S4.\nLUNGS: Poor aeration throughout, no basilar crackles\nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not\nenlarged by palpation.\nEXTREMITIES: no LE edema 2+ pulses\nSKIN: no osler nodes, splinter hemmhorages, [**Last Name (un) **] lesions,\nrash\n\nDischarge:\nVS: 98.2  86  126/80  18  94% RA\nWt 88.4kg\nGen: NAD\nNeuro: A&O x3, MAE. nonfocal exam\nPulm: CTA-bilat\nCV: RRR, no murmur. Sternum stable, incision-CDI\nAbdm: soft, NT/ND/+BS\nExt: warm, well perfused. 1+ bilat pedal edema\n\nPertinent Results:\n[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT\nEchocardiographic Measurements\nResults  Measurements  Normal Range\nLeft Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm\n\nLeft Ventricle - Diastolic Dimension:  5.2 cm  <= 5.6 cm\nLeft Ventricle - Ejection Fraction:  50% to 55%  >= 55%\nAorta - Annulus:  2.3 cm  <= 3.0 cm\nAorta - Sinus Level:  *4.3 cm  <= 3.6 cm\nAorta - Sinotubular Ridge:  2.9 cm  <= 3.0 cm\nAorta - Ascending:  *3.7 cm  <= 3.4 cm\nAortic Valve - Mean Gradient:  7 mm Hg\nAortic Valve - Valve Area:  *2.5 cm2  >= 3.0 cm2\nFindings\nLEFT ATRIUM: Normal LA size.\nRIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is\nseen in the RA and extending into the RV. Normal interatrial\nseptum.\nLEFT VENTRICLE: Wall thickness and cavity dimensions were\nobtained from 2D images. Normal LV wall thickness. Normal LV\ncavity size. Low normal LVEF.\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\nAORTA: Mildly dilated ascending aorta. Normal descending aorta\ndiameter. Complex (>4mm) atheroma in the descending thoracic\naorta.\nAORTIC VALVE: Abnormal aortic valve. Severe (4+) AR. Eccentric\nAR jet.\nMITRAL VALVE: Normal mitral valve leaflets with trivial MR.\nTRICUSPID VALVE: Normal tricuspid valve leaflets with trivial\nTR.\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.\nNo PS. Physiologic PR.\nPERICARDIUM: No pericardial effusion.\nGENERAL COMMENTS: Written informed consent was obtained from the\npatient. The patient was under general anesthesia throughout the\nprocedure. The patient appears to be in sinus rhythm. Results\nConclusions\nPrebypass:\nThe left atrium is normal in size. Left ventricular wall\nthicknesses are normal. The left ventricular cavity size is\nnormal. Overall left ventricular systolic function is low normal\n(LVEF 50-55%). Right ventricular chamber size and free wall\nmotion are normal. The ascending aorta is mildly dilated. There\nare complex (>4mm) atheroma in the descending thoracic aorta.\nThe aortic valve is abnormal with a coaptation defect between\nthe right and left cusps seen best in long axis view, there is\nquestion of leaftlet perforation. Severe (4+) aortic\nregurgitation is seen. The aortic regurgitation jet is\neccentric. The mitral valve appears structurally normal with\ntrivial mitral regurgitation. There is no pericardial effusion.\nDr. [**Last Name (STitle) **] was notified in person of the results on [**2194-8-18**] at\n0930.\nPostbypass:\nThere is a well seated bioprosthetic valve in the aortic\nposition with no perivalvular leak. There is no evidence of\naortic dissection. Estimated left ventricular function is\nunchanged from prebypass.\n\nRadiology Report CHEST (PORTABLE AP) Study Date of [**2194-8-20**]\n10:21 AM\nFinal Report: In comparison with the study of earlier in this\ndate, the right chest tube has been removed.  No evidence of\npneumothorax.  Bibasilar opacification persists and intact\nmidline sternal wires are present.\n\nAdmission labs:\n[**2194-8-14**] 04:25PM   PT-11.8 PTT-31.6 INR(PT)-1.1\n[**2194-8-14**] 04:25PM   PLT COUNT-158\n[**2194-8-14**] 04:25PM   WBC-8.3 RBC-4.80 HGB-15.3 HCT-43.7 MCV-91\nMCH-31.9 MCHC-35.0 RDW-12.9\n[**2194-8-14**] 04:25PM   cTropnT-<0.01\n[**2194-8-14**] 04:25PM   GLUCOSE-100 UREA N-16 CREAT-0.8 SODIUM-140\nPOTASSIUM-3.9 CHLORIDE-103 TOTAL CO2-26 ANION GAP-15\n[**2194-8-14**] 04:30PM   LACTATE-1.8\n[**2194-8-14**] 11:05PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG\ncocaine-NEG amphetmn-NEG mthdone-NEG\nDischarge labs:\n[**2194-8-22**] 06:15AM BLOOD WBC-9.0 RBC-3.78* Hgb-12.1* Hct-35.5*\nMCV-94 MCH-31.9 MCHC-33.9 RDW-13.1 Plt Ct-159#\n[**2194-8-22**] 06:15AM BLOOD Plt Ct-159#\n[**2194-8-22**] 06:15AM BLOOD Glucose-122* UreaN-12 Creat-0.9 Na-138\nK-3.9 Cl-98 HCO3-31 AnGap-13\n[**2194-8-21**] 06:05AM BLOOD Calcium-8.9 Phos-3.1 Mg-2.0\n\n[**2194-8-18**] 10:05 am TISSUE      AORTIC VALVE LEAFLET.\n   GRAM STAIN (Final [**2194-8-18**]):\n      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.\n      NO MICROORGANISMS SEEN.\n   TISSUE (Final [**2194-8-21**]):    NO GROWTH.\n   ANAEROBIC CULTURE (Preliminary):    NO GROWTH.\n   ACID FAST SMEAR (Final [**2194-8-19**]):\n      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.\n   ACID FAST CULTURE (Preliminary):\n   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.\n   POTASSIUM HYDROXIDE PREPARATION (Final [**2194-8-19**]):\n      NO FUNGAL ELEMENTS SEEN.\n\n\n\n\n\nBrief Hospital Course:\nMr. [**Known lastname 30123**] was admitted and placed on IV Vancomycin and\nGentamicin for aortic valve endocarditis per the direction of\nthe infectious disease service.  He was evaluated by cardiac\nsurgery for an aortic valve replacement and underwent a\npre-operative work-up including teeth extractions. The patient\nwas brought to the Operating Room on [**2194-8-18**] where the patient\nunderwent tissue aortic valve replacement (#23mm tissue).  The\npatient tolerated the procedure well and post-operatively was\ntransferred to the CVICU in stable condition for recovery and\ninvasive monitoring.\nThe patient remained stable in the immediate post-op period.\nAnesthesia was reversed, the patient was neurologically intact\nand he weaned from the ventilator and extubated. Over the next\nseveral hours he weaned from vasopressor support. On POD1 Beta\nblockers were initiated and he was started on diuretics and\ngently diuresed toward his preoperative weight.  On POD1 the\npatient was transferred to the telemetry floor for further\nrecovery.  Chest tubes and pacing wires were discontinued per\ncardiac surgery protocol without complication.  The patient was\nevaluated by the physical therapy service for assistance with\nstrength and mobility.  Per infectious disease service it was\nrecommended that he be discharged to home on a 2 week course of\nceftriaxone pending the results of his culture data. He declined\nthe recommendation from the infectious diseae service for IVAB\nhowever, did agree to a 7 day course of po levoflox. The\ninfectious disease service will contact Mr. [**Known lastname 30123**] [**Last Name (Titles) 30124**] he\nfinal results of his culture data. At teh time of discharge\nthere was no growth from the cultures taken and he was afebrile\nwith WBC 9.\nThe remainder of his hospital course was uneventful, by the time\nof discharge on POD 4 the patient was ambulating freely, the\nwound was healing and pain was controlled with oral analgesics.\nThe patient was discharged home with VNA in good condition with\nappropriate follow up instructions.\n\n\nMedications on Admission:\nPreadmission medications listed are correct and complete.\nInformation was obtained from PatientwebOMR.\n1. Lisinopril 20 mg PO DAILY\n2. Hydrochlorothiazide 12.5 mg PO DAILY\n3. Simvastatin 20 mg PO DAILY\n4. Gemfibrozil 600 mg PO BID\n5. Amlodipine 5 mg PO DAILY\n6. Omeprazole 20 mg PO DAILY\n7. Aspirin 81 mg PO DAILY\n8. Albuterol Inhaler 1 PUFF IH Q6H:PRN shortness of breath\n9. Fluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **]\n10. Vitamin E 400 UNIT PO DAILY\n11. Multivitamins 1 TAB PO DAILY\n12. Fish Oil (Omega 3) 1000 mg PO DAILY\n\n\nDischarge Medications:\n1. Aspirin EC 81 mg PO DAILY\n2. Gemfibrozil 600 mg PO BID\n3. Simvastatin 20 mg PO DAILY\n4. Acetaminophen 325-650 mg PO Q4H:PRN pain/temp\n5. Docusate Sodium 100 mg PO BID\n6. Furosemide 20 mg PO DAILY Duration: 1 Weeks\nRX *furosemide 20 mg 1 tablet(s) by mouth once a day Disp #*7\nTablet Refills:*0\nRX *furosemide 20 mg 1 tablet(s) by mouth once a day Disp #*7\nTablet Refills:*0\n7. Metoprolol Tartrate 25 mg PO BID\nHold for HR < 55 or SBP < 90 and call medical provider.\n[**Last Name (NamePattern4) 9641**] *metoprolol tartrate 25 mg 1 tablet(s) by mouth twice a day\nDisp #*60 Tablet Refills:*1\n8. Oxycodone-Acetaminophen (5mg-325mg) [**12-23**] TAB PO Q4H:PRN pain\nRX *oxycodone-acetaminophen 5 mg-325 mg [**12-23**] tablet(s) by mouth\nevery four (4) hours Disp #*75 Tablet Refills:*0\n9. Potassium Chloride 20 mEq PO DAILY Duration: 1 Weeks\nHold for K+ > 4.5\nRX *potassium chloride 20 mEq 20 mEq by mouth once a day Disp\n#*7 Tablet Refills:*0\n10. Fish Oil (Omega 3) 1000 mg PO DAILY\n11. Fluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **]\n12. Lisinopril 5 mg PO DAILY\nRX *lisinopril 5 mg 1 tablet(s) by mouth once a day Disp #*30\nTablet Refills:*1\n13. Multivitamins 1 TAB PO DAILY\n14. Omeprazole 20 mg PO DAILY\n15. Vitamin E 400 UNIT PO DAILY\n16. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheezing\n17. Levofloxacin 500 mg PO Q24H Duration: 7 Days\nRX *levofloxacin 500 mg 1 tablet(s) by mouth once a day Disp #*7\nTablet Refills:*0\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital3 **] VNA\n\nDischarge Diagnosis:\nAORTIC REGURGITATION,COPD (CHRONIC AIRWAY OBSTRUCTION),FATTY\nLIVER DISEASE,OVERWEIGHT HEMANGIOM HEPATIC,ERECTILE\nDYSFUNCTION,BENIGN PROSTATIC HYPERTROPHY, WITH\nOBSTRUCTION,HYPERTENSION, HYPERLIPIDEMIA,GERD, Hx of TOBACCO USE\n\n\nPast Surgical History:Right shoulder surgery, hernia repair and\ntonsillectomy\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with Percocet\nIncisions:\nSternal - healing well, no erythema or drainage\nEdema- 1+ bilat edema\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for one month or while taking narcotics. Driving will\nbe discussed at follow up appointment with surgeon.\nNo lifting more than 10 pounds for 10 weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nFollowup Instructions:\nYou are scheduled for the following appointments:\nSurgeon: Dr. [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 8583**], MD Phone:[**Telephone/Fax (1) 170**]\nDate/Time:[**2194-9-11**] 1:45, in the [**Hospital **] medical office building,\n[**Doctor First Name **], [**Hospital Unit Name **]\nWound check: Phone:[**Telephone/Fax (1) 170**] Date/Time:[**2194-9-2**] 10:15\nin the [**Hospital **] medical office building, [**Doctor First Name **], [**Hospital Unit Name **]\n\nInfectious disease:The infectious disease doctors [**Name5 (PTitle) **] [**Name5 (PTitle) 138**] [**Name5 (PTitle) **]\nregarding your final data\n\nCardiologist: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1013**], M.D. Phone:[**Telephone/Fax (1) 62**]\nDate/Time:[**2194-10-7**] 1:00\n\nPlease call to schedule appointments with your\nPrimary Care Dr.[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] [**Telephone/Fax (1) 798**] in [**3-27**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\nCompleted by:[**2194-8-22**]"
+    }
+  ]
+}

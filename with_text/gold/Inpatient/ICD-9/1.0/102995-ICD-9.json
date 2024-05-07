@@ -1,0 +1,149 @@
+{
+  "hadm_id": 102995,
+  "comment": "OP notes missing-unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 12482,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1687,
+          "end": 1698,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 2540,
+          "end": 2568,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical arthrodesis status",
+          "type": "MapType.APPROX",
+          "covered_text": "status post C3 and C4 fusion"
+        },
+        {
+          "begin": 2570,
+          "end": 2582,
+          "code": "733.00",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoporosis, unspecified",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 2817,
+          "end": 2875,
+          "code": "V10.83",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of other malignant neoplasm of skin",
+          "type": "Human",
+          "covered_text": "resection of basal cell carcinoma on the\nleft side of nose"
+        },
+        {
+          "begin": 8080,
+          "end": 8104,
+          "code": "999.31",
+          "code_system": "ICD-9-CM",
+          "description": "Infection due to central venous catheter",
+          "type": "Human",
+          "covered_text": "Possibly PICC infection,"
+        },
+        {
+          "begin": 8105,
+          "end": 8126,
+          "code": "730.10",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic osteomyelitis, site unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Chronic\nOsteomyelitis"
+        },
+        {
+          "begin": 11101,
+          "end": 11107,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia of other chronic disease",
+          "type": "MapType.APPROX",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 11407,
+          "end": 11417,
+          "code": "323.41",
+          "code_system": "ICD-9-CM",
+          "description": "Other encephalitis and encephalomyelitis due to infection classified elsewhere",
+          "type": "MapType.APPROX",
+          "covered_text": "Cerebritis"
+        },
+        {
+          "begin": 14626,
+          "end": 14648,
+          "code": "999.31",
+          "code_system": "ICD-9-CM",
+          "description": "Infection due to central venous catheter",
+          "type": "Human",
+          "covered_text": "PICC line complication"
+        },
+        {
+          "begin": 14662,
+          "end": 14683,
+          "code": "730.10",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic osteomyelitis, site unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Chronic osteomyelitis"
+        },
+        {
+          "begin": 14685,
+          "end": 14697,
+          "code": "338.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pain",
+          "type": "MapType.EXACT",
+          "covered_text": "Chronic pain"
+        },
+        {
+          "begin": 14699,
+          "end": 14703,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "MapType.EXACT",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 14705,
+          "end": 14710,
+          "code": "736.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acquired deformity of limb, site unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Lupus"
+        },
+        {
+          "begin": 14711,
+          "end": 14721,
+          "code": "323.41",
+          "code_system": "ICD-9-CM",
+          "description": "Other encephalitis and encephalomyelitis due to infection classified elsewhere",
+          "type": "MapType.APPROX",
+          "covered_text": "cerebritis"
+        },
+        {
+          "begin": 14735,
+          "end": 14751,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "Human",
+          "covered_text": "seizure disorder"
+        }
+      ],
+      "text": "Admission Date:  [**2134-7-31**]              Discharge Date:   [**2134-8-3**]\n\nDate of Birth:  [**2073-6-7**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nCodeine / Methadone / Tylenol / Penicillins / Oxycodone\n\nAttending:[**First Name3 (LF) 30**]\nChief Complaint:\nfevers, lost PICC access, hypotension\n\nMajor Surgical or Invasive Procedure:\nPICC line removal\nPICC line placement\n\nHistory of Present Illness:\nHPI: Mrs [**Known lastname 38739**] is a pleasant 61 year old female with hx chronic\nneck/back pain s/p multiple laminectomies/fusions complicated by\nrecurrent L5 osteomyelitis who presents from rehab facility with\nfever >102 after having pulled her PICC line halfway out. Pt\nstates that she has had back pain for the last 4 years c/b\nmultiple MRSA infections which were thought to have started\nwhile the pt was immunocompromised while on meds for SLE. She\nhas been on and off IV abx about 20x for the last 3-4 years,\nwith the most recent course started 2 wks ago by Dr [**Last Name (STitle) **] at [**Hospital1 2025**].\nPt also with fevers to 103 at rehab, which was worked up\nyesterday with CXR (+ for PNA), and UA/cxs (negative). She was\nstarted on levoflox for PNA. Of note, last two doses of\nvancomycin for osteo were held at rehab for supratherapeutic\nlevels.\n.\nOn arrival to our ED, vitals were 98.9 94 91/56 20 94% RA. While\nin the ED she had a fever to 100.4 for which she received 325\nasprin and was subsequently afebrile. UA at rehab was negative\nat rehab. She was given vancomycin for osteomyelitis,\nlevofloxacin was not given. Pt refused UA, Urine cx, cxr in the\nED. Lactate here was 1.6, no leukocytosis. PICC was pulled, tip\ncxs, blood cxs pending. Given hypotension, she was bolused 2 L\nNS. Pt was asymptomatic from hypotension and mentating well. She\nalso got 4 mg morphine for pain.\n.\nOn the floor pt c/o ongoing back pain and is asking for IV\ndilaudid. Although aaox3, she is tangential and drowsy.\n.\nROS:\n(+) Per HPI, + sinus congestion/allergy sxs.\n(-) Denies chills, night sweats, recent weight loss or gain.\nDenies headache, sinus tenderness, rhinorrhea. Denied cough,\nshortness of breath. Denied chest pain or tightness,\npalpitations. Denied nausea, vomiting, diarrhea, constipation or\nabdominal pain. No black/bloody or tarry stools. No recent\nchange in bowel or bladder habits. No dysuria. Denied\narthralgias or myalgias.\n\n\nPast Medical History:\n-SLE c/b lupus cerebritis\n-Chronic low back pain (spinal stenosis)\n-Status post [**Location (un) 931**] rods, removed and replaced\n-Chronic neck pain; status post C3 and C4 fusion\n-Osteoporosis\n-Hx hypertension, has been on lisinopril in the past, but not\ncurrently on medications\n-Hypercholesterolemia per chart hx, pt states it has resolved\n-History of positive purified protein derivative; status\npost isoniazid\n-Status post resection of basal cell carcinoma on the\nleft side of nose\n-Maxillary sinus incision and drainage\n-s/p implantable intrathecal pump\n-hx seixures\n-pt endorses enlarged lymph nodes in axilla and lungs, states\nshe says that they need to be biopsied\n-intubation for sepsis 1.5 years ago\n-hx MRSA skin infections\n-hx anemia, has required blood transfusions in the past.\nColonoscopy attempted but not completed due to back pain.\n\n\nSocial History:\nSocial History: Pt recently moved from TN with her husband who\nis a minister. About a month ago, her husband left for [**Country 5881**] to\ndo work for the church and left her at a rehab in [**Hospital1 1559**]. She\nwas subsequently admitted to [**Hospital1 2025**] approx 2 wks ago, treated for\nosteomyelitis and discharged to [**Hospital3 **]. Her husband will\nbe returning from [**Country 5881**] at the end of the month and they plan\non staying in [**Location (un) 86**]. Pt uses a wheelchair to get around. She\npreviously worked as a public health nurse and taught nursing,\nstopped 4 yrs ago when back problems started. Denies tobacco,\nEtOH, drugs.\n\nFamily History:\nFather with hx of cardiac disease, prostate CA, stomach CA\n\nPhysical Exam:\nADMISSION PHYSICAL EXAM:\nVS: Temp:98 BP: 121/75 HR:90 RR:12 O2sat: 98% RA\nGEN: pleasant, comfortable, NAD, somewhat somnolent and\ntangential\nHEENT: PERRL, pupils sluggish, EOMI, anicteric, MMM, op without\nlesions, no supraclavicular or cervical lymphadenopathy, no jvd.\n2-3 cm abrasion across bridge fo nose\nCV: RR, S1 and S2 wnl, no m/r/g\nRESP: CTA b/l with good air movement throughout\nABD: nd, +b/s, soft, nt, intrathecal pump palpable on L side of\nabdomen. Multiple surgical scars\nEXT: no c/c/e. Several 1-2 cm abrasions on [**Name Prefix (Prefixes) **]\n[**Last Name (Prefixes) **]: as above\nNEURO: AAOx2 (thinks it is still [**Month (only) **]). Cn II-XII intact.\nDecreased strength in LEs [**3-3**] pain. No sensory deficits to light\ntouch appreciated.\n\nDISCHARGE PHYSICAL EXAM:\nVS: Temp: 97.6 BP: 100/58 HR: 76 RR: 18 O2sat: 96% RA\nGEN: AOx3, comfortable, pleasant\nHEENT: anicteric sclera, MMM, OP clear, no supraclavicular or\ncervical lymphadenopathy, no jvd. 1-2 cm stable abrasion across\nbridge fo nose\nCV: RR, S1 and S2 wnl, no m/r/g\nRESP: CTAB, no w/r/r exam limited by poor inspiratory effort [**3-3**]\nto MSK pain (which is her baseline)\nABD: Soft, NT/ND, normal BS, no organomegaly\nEXT: No c/c/e. Few 1-2 cm abrasions on LEs\nNEURO: Cn II-XII intact. Decreased strength in LEs [**3-3**] pain. No\nsensory deficits to light touch appreciated.\n\nPertinent Results:\nADMISSION LABS:\n\n[**2134-7-31**] 05:00PM BLOOD WBC-7.3 RBC-3.58* Hgb-8.4*# Hct-26.6*#\nMCV-74*# MCH-23.5*# MCHC-31.7 RDW-13.9 Plt Ct-165\n[**2134-7-31**] 05:00PM BLOOD Neuts-71.3* Lymphs-20.2 Monos-5.5 Eos-2.5\nBaso-0.5\n[**2134-7-31**] 05:00PM BLOOD Ret Aut-2.1\n[**2134-7-31**] 05:00PM BLOOD Glucose-126* UreaN-14 Creat-0.7 Na-139\nK-3.5 Cl-102 HCO3-26 AnGap-15\n[**2134-7-31**] 05:00PM BLOOD Iron-10*\n[**2134-8-1**] 04:57AM BLOOD Calcium-8.5 Phos-3.7 Mg-2.0\n[**2134-7-31**] 05:00PM BLOOD calTIBC-410 Ferritn-16 TRF-315\n[**2134-7-31**] 05:00PM BLOOD Vanco-9.9*\n[**2134-8-1**] 04:57AM BLOOD Vanco-10.0\n[**2134-7-31**] 05:21PM BLOOD Lactate-1.6\n\nMICRO:\n\n\n[**2134-7-31**] 7:40 pm CATHETER TIP-IV      PICC TIP.\n\n                            **FINAL REPORT [**2134-8-2**]**\n\n   WOUND CULTURE (Final [**2134-8-2**]):    No significant growth.\n\n[**2134-8-1**] BLOOD CULTURE Blood Culture, Routine-PENDING\nINPATIENT\n[**2134-7-31**] BLOOD CULTURE Blood Culture, Routine-PENDING\nINPATIENT\n[**2134-7-31**] BLOOD CULTURE Blood Culture, Routine-PENDING\nEMERGENCY\n[**2134-8-2**] BLOOD CULTURE Blood Culture, Routine-PENDING\n\n[**2134-8-2**] BLOOD CULTURE Blood Culture, Routine-PENDING\n\n\nREPORTS:\n\nCXR AP [**2134-8-1**]:\nCLINICAL HISTORY: Left PICC line placed, check position.\nThe exact position of the PICC line cannot be determined because\nof overlying hardware. It is likely that it lies in the right\natrium but somewhat more oblique film would clarify this. The\nlung fields are clear.\n\nCXR AP [**2134-8-1**]:\nCLINICAL HISTORY: PICC line placed, check position.\nThe tip of the PICC line lies within the right atrium and should\nbe withdrawn into the SVC.\nIMPRESSION: PICC line in right atrium.\n\nCXR AP [**2134-8-2**]:\nIMPRESSION:\n1. Increased opacity in the right perihilar and right\ncardiophrenic regions\nand minimal increased opacity in the left infrahilar region,\nnonspecific. The\ndifferential diagnosis includes infectious and inflammatory\nprocesses and\nparenchymal scarring. The markings appear slightly more\npronounced than on\nthe film from one day earlier. However, doubt overt CHF.\n\n2. Hila are prominent bilaterally.\n\nDISCHARGE LABS:\n\n[**2134-8-3**] 12:51PM BLOOD Vanco-11.1\n[**2134-8-2**] 08:30AM BLOOD Glucose-125* UreaN-9 Creat-0.6 Na-140\nK-3.5 Cl-105 HCO3-25 AnGap-14\n[**2134-8-2**] 08:30AM BLOOD Plt Ct-162\n[**2134-8-2**] 08:30AM BLOOD WBC-6.2 RBC-3.77* Hgb-8.6* Hct-27.9*\nMCV-74* MCH-22.9* MCHC-31.0 RDW-14.1 Plt Ct-162\n[**2134-8-3**] 06:22AM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.007\n[**2134-8-3**] 06:22AM URINE Blood-SM  Nitrite-NEG Protein-NEG\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG\n\nBrief Hospital Course:\nACTIVE DIAGNOSES:\n.\n#Fever/Chills/Hypotension (Possibly PICC infection, Chronic\nOsteomyelitis, or Pneumonia): Pt was recently discharged from\n[**Hospital1 2025**] ([**7-23**]) where she was admitted and found to have chronic\nosteomyelitis, PICC line infection, and pneumonia.\nInterestingly, following her D/C from [**Hospital1 2025**] She was sent to rehab\nwith a fresh PICC line with a goal of 6 weeks of IV Vancomycin\nand a 1 week course of Levofloxacin which she completed prior to\nthis adission. She was sent here from [**Hospital3 2558**] rehab for\nspiking fevers with chills and hypotension as well as having\npulled her PICC line partway out. It was removed, the tip was\ncultured (negative final culture) and blood Cx's were drawn\n(NGTD at time of d/c, still pending). She was transferred to the\nMICU for concerns of hypotension with BP's in the 90's (which is\nabout her her baseline according to the patient) where she\nbecame afebrile and her pressures stabilized after fluids. In\nthe MICU it was discovered that 4/5 blood cultures from [**Hospital1 2025**] on\n[**7-14**] and [**7-15**] were positive for Gordonia species. ID was\nconsulted and she was re-started on her IV vancomycin. It was\nthought that this represented a line infection at [**Hospital1 2025**] and that\nthe line had been discontinued and that she had recieved at\nleast 2 weeks of IV vancomycin which is adequate treatment for\nsuch an infection. She refused various elements of the work-up\nincluding a physical exam on transfer to the floor, urine\ncultures, echocardiogram to evaluate for possible endocarditis,\nbone scan, and other further imaging. Her course was marked by\ndaily fever spikes (as high as 103 on this admission) including\na spike to 101.3 the morning of the day of discharge which she\ndescribed as her baseline for several years when in the\nhospital, in rehab, or at home. She indicated on numerous\noccasions her desire to avoid further workup and to return to\n[**Hospital3 2558**] for rehab despite spiking fevers, even\nthreatening to leave AMA if need be on several occasions. She\nremained hemodynamically stable throughout her admission and\nagreed to keep her follow-up appointments at [**Hospital1 2025**] with infectious\ndisease (Dr. [**First Name8 (NamePattern2) 2855**] [**Last Name (NamePattern1) **], who prescribes and manages her\nvancomycin and to whom all management questions should be\ndirected: [**Hospital1 2025**], [**Street Address(2) 38740**] [**Location (un) 86**], [**Numeric Identifier 18228**] [**Telephone/Fax (1) 38741**],\nappt on [**8-18**]), orthopaedic surgery (Dr. [**Last Name (STitle) 38742**] [**Name (STitle) **], appt on\n[**9-8**]), and GI for repeat EGD (Dr. [**Last Name (STitle) 38743**] [**Name (STitle) **], appt on [**9-8**]).\n.\nCHRONIC DIAGNOSES:\n.\n#Chronic Pain: This issue remained stable during her admission.\nShe was continued on her outpatient pain regimen with the\nexception of an increase in her PO dilaudid dose to 4mg PO Q3hrs\nPRN for breakthrough pain. She was discharged on her home dose\nof dilaudid of 2mg PO Q3hrs PRN.\n.\n# Anemia: This pt states she has anemia likely of chronic\ndisease as a result of chronic osteomyelitis. She currently does\nnot have an PCP as she is new to [**Location (un) 86**]. It is important for her\nto establish a PCP and undergo workup for her anemia including\ncolonoscopy and GYN evaluation.\n.\n#Lupus Cerebritis with related seizure disorder: She remained\nstable and exhibited no seizure activity on her home Keppra\ndose. We would recommend follow-up with her PCP once established\nor her neurologist\n.\n#GERD: Stable during this admission, continued on her home\nprilosec.\n\nTRANSITIONAL ISSUES:\n\nThis patient needs to maintain her follow-up appointments with\ninfectious disease, Dr. [**First Name8 (NamePattern2) 2855**] [**Last Name (NamePattern1) **], who prescribes and manages\nher vancomycin and to whom all management questions should be\ndirected: [**Hospital1 2025**], [**Street Address(2) 38740**] [**Location (un) 86**], [**Numeric Identifier 18228**] [**Telephone/Fax (1) 38741**],\nappt on [**8-18**], orthopaedic surgery Dr. [**Last Name (STitle) 38742**] [**Name (STitle) **] at [**Hospital1 2025**], appt\non [**9-8**], and GI for repeat EGD with Dr. [**Last Name (STitle) 38743**] [**Name (STitle) **] at [**Hospital1 2025**] with\nher appt on [**9-8**]. She should also establish a PCP for management\nof her multiple medical problems including but not limited to\nher anemia and seizure disorder.\n\n\nMedications on Admission:\n-multivitamin\n-aspirin PRN fever\n-lasix 20 mg on [**7-31**] and [**8-1**]\n-levaquin 500 mg x7 days (which was completed prior to\nadmission)\n-folic acid 1 mg daily\n-dilaudid 2 mg PO q 3 hrs PRN breakthrough pain\n-ativan 1 mg [**Hospital1 **]\n-prilosec 40 mg PO BID\n-senna 2 tabs PO BID\n-gabapentin 1200 PO TID\n-keppra 750 PO BID\n-ms contin 60 mg q 6 hrs\n-dulcolax supp 10 mg PR PRN constipation\n-Miralax 17 mg PO daily PRN constipation\n-Vancomycin-unclear dose and duration from [**Name (NI) **] records, pt states\nshe started 2 wks ago with intention to complete 6 wk course\n\n\nDischarge Medications:\n1. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1)\nIntravenous Q 12H (Every 12 Hours): This medication was\nprescribed by Dr. [**First Name8 (NamePattern2) 2855**] [**Last Name (NamePattern1) **],\n[**Hospital1 2025**], [**Street Address(2) 38740**] [**Location (un) 86**], [**Numeric Identifier 18228**] [**Telephone/Fax (1) 38741**]\nAll management questions should be directed to him.\n.\n2. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n3. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n4. lorazepam 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)\nCapsule, Delayed Release(E.C.) PO BID (2 times a day).\n6. gabapentin 600 mg Tablet Sig: Two (2) Tablet PO four times a\nday.\n7. levetiracetam 500 mg Tablet Sig: 1.5 Tablets PO BID (2 times\na day).\n8. morphine 30 mg Tablet Extended Release Sig: Two (2) Tablet\nExtended Release PO Q6H (every 6 hours).\n9. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nHS (at bedtime) as needed for constipation.\n10. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)\nPO DAILY (Daily) as needed for constipation.\n11. hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q3H (every\n3 hours) as needed for pain.\n12. senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a\nday) as needed for Constipation.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 2558**] - [**Location (un) **]\n\nDischarge Diagnosis:\nPrimary:\n- PICC line complication\n\nSecondary:\n-Chronic osteomyelitis\n-Chronic pain\n-GERD\n-Lupus cerebritis with related seizure disorder\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDear Mrs. [**Known lastname 38739**],\n\nYou were admitted to [**Hospital1 69**] for\nfevers/chills, low blood pressure, and compromise of your PICC\nline (it was almost pulled out) in rehab. Your PICC line was\nremoved, you were treated with fluids, antibiotics, and pain\nmedications and your condition improved. You are being\ndischarged back to rehab to continue your recovery. At the time\nof discharge your PICC line culture was negative and your final\nblood culture results were pending.\n\nThe following changes have been made to your medications:\n-RE-START Vancomycin 1gm IV twice daily\n-STOP Furosemide\n\nWe wish you the best of luck and a speedy recovery.\n\nFollowup Instructions:\nInfectious Disease Follow Up:\nDr. [**First Name8 (NamePattern2) 2855**] [**Last Name (NamePattern1) **] on [**8-18**] 10:40AM\n[**Street Address(2) 38740**]\n[**Location (un) 86**], [**Numeric Identifier 18228**]\n[**Doctor Last Name **] building [**Location (un) **]\n[**Telephone/Fax (1) 38741**]\n\nOrthopaedic Surgery Follow Up:\nDr. [**Last Name (STitle) 38742**] [**Name (STitle) **] on [**8-31**] 10:00am\n[**Hospital1 2025**] Yawkey Center, [**Hospital Unit Name **]\n[**Street Address(2) 38740**]\n[**Location (un) 86**], [**Numeric Identifier 18228**]\n[**Telephone/Fax (1) 38744**]\n\nGastroenterology Follow Up:\nDr. [**Last Name (STitle) 38743**] [**Name (STitle) **] on [**9-8**] at 3pm\n[**Doctor Last Name 406**] [**Location (un) **]\n[**Street Address(2) 38740**]\n[**Location (un) 86**], [**Numeric Identifier 18228**]\n[**Telephone/Fax (1) 38744**]\n\nDepartment: RHEUMATOLOGY\nWhen: THURSDAY [**2134-9-9**] at 2:30 PM\nWith: [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 2226**]\nBuilding: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) 861**]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\n\n\nCompleted by:[**2134-8-3**]"
+    }
+  ]
+}

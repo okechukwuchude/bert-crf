@@ -1,0 +1,208 @@
+{
+  "hadm_id": 122615,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 640810,
+      "category": "Rehab Services",
+      "description": "Physical Therapy Evaluation Note",
+      "annotations": [
+        {
+          "begin": 265,
+          "end": 287,
+          "code": "572.2",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatic coma",
+          "type": "Human",
+          "covered_text": "hepatic encephalopathy"
+        }
+      ],
+      "text": "Attending Physician: [**Name10 (NameIs) 744**]\n   Referral date: [**2187-10-8**]\n   Medical Diagnosis / ICD 9:  / 571.2\n   Reason of referral: Eval/Tx\n   History of Present Illness / Subjective Complaint: Pt is a 60M with\n   ESLD/cirrhosis admitted [**10-7**] with hepatic encephalopathy and now s/p\n   OLT and cadaveric kidney transplant [**2187-10-12**] and extubated [**10-14**]\n   Past Medical / Surgical History: See Eval\n   Medications: MethylPREDNISolone, Amlodipine, OxycoDONE\n   Radiology: [**10-14**] CXR Endotracheal tube has been removed. Retrocardiac\n   opacification persists. The right hemidiaphragm is not as well seen,\n   though this may be a technical factor.\n   Labs:\n   28.3\n   10.1\n   38\n   8.1\n         [image002.jpg]\n   Activity Orders: OOB c A\n   Social / Occupational History: See Eval\n   Living Environment: See Eval\n   Prior Functional Status / Activity Level: See Eval\n   Objective Test\n   Arousal / Attention / Cognition / Communication: A+O to\n   person/[**Hospital1 5**]/Current events/Current medical situation/ but reported yr\n   as [**2187**]. Able to follow all commands.\n   Aerobic Capacity\n   HR\n   BP\n   RR\n   O[2] sat\n   Rest\n   69\n   181/85\n   20\n   100 2LO2\n   Activity\n   72\n   178/86\n   28\n   98 RA\n   Recovery\n   68\n   171/88\n   24\n   100 2LO2\n   Pulmonary Status: Decreased at bases. 1250mL on IS. Weak, nonproductive\n   cough.\n   Integumentary / Vascular: R CVL. NGT. Foley. Abdominal incision c JP\n   drainx3.\n   Sensory Integrity: Intact to Lt touch.\n   Pain / Limiting Symptoms: Pt c/o min incision discomfort c mobility.\n   Posture: WNL\n   Range of Motion\n   Muscle Performance\n   WNL\n   hip flexion > 3+/5 limited by incisional pain but o/w grossly [**3-31**].\n   Motor Function: Able to MAE in isolation. Slight BUE intention tremor.\n   Functional Status:\n   Activity\n   Clarification\n   I\n   S\n   CG\n   Min\n   Mod\n   Max\n   Gait, Locomotion: Ambulation NT [**1-27**] hypertension.\n   Rolling:\n\n\n\n                                      T\n\n\n   Supine /\n   Sidelying to Sit:\n\n\n                                      T\n\n\n   Transfer:\n\n\n                                      T\n\n\n   Sit to Stand:\n   2 Reps\n\n\n\n                                      T\n\n\n   Balance: S at EOB c I UE support. [**Female First Name (un) **] for dynamic standing balance s\n   UE support.\n   Education / Communication: [**Name6 (MD) **] c RN RE Pt Status\n   Pt edu RE Role of PT and Importance of OOB\n   Diagnosis:\n   1.\n   Gait, Impaired\n   2.\n   Muscle Performace, Impaired\n   3.\n   Transfers, Impaired\n   4.\n   Ventilation, Impaired\n   Clinical impression / Prognosis: Pt is a 60M who p/w above impairments\n   c/w soft tissue surgery. Pt is functioning below baseline and has not\n   met goals of original eval [**1-27**] OLT/Kidney tx. Pt was limited today by\n   hypertension and would benefit from improved BP control. Pt has good\n   potential for home D/C given high baseline and progress thus far since\n   tx. Pt will require an additional 1-2 weeks of acute PT.\n   Goals\n   Time frame: One Week\n   1.\n   Amb 150 s AD s LOB I\n   2.\n   Sup to Sit to Stand I\n   3.\n   5 Stairs c Rail I\n   4.\n   RR < 30 c Above\n   5.\n   6.\n   Anticipated Discharge: Home with Home PT\n   Treatment [**Name (NI) 99**]:\n   Frequency / Duration: 3-5x/wk for One week\n   Functional Mobility/Balance Training\n   Breathing Exercises\n   T Patient agrees with the above goals and is willing to participate in\n   the rehabilitation program.\n   9:10-9:40\n"
+    },
+    {
+      "note_id": 1044337,
+      "category": "Radiology",
+      "description": "GUIDANCE/LOCALIZATION FOR NEEDLE BIOPSY US (S&I)",
+      "annotations": [
+        {
+          "begin": 2288,
+          "end": 2318,
+          "code": "50.11",
+          "code_system": "ICD-9-PCS",
+          "description": "Closed (percutaneous) [needle] biopsy of liver",
+          "type": "Human",
+          "covered_text": "ultrasound-guided liver biopsy"
+        }
+      ],
+      "text": "[**2187-11-1**] 3:32 PM\n BX-NEEDLE LIVER BY RADIOLOGIST; GUIDANCE/LOCALIZATION FOR NEEDLE BIOPSY US (S&I)Clip # [**Clip Number (Radiology) 36088**]\n Reason: please do US guided biopsy transplant liver with results [**Doctor Last Name **]\n Admitting Diagnosis: ALTERED MENTAL STATUS\n ********************************* CPT Codes ********************************\n * BX-NEEDLE LIVER BY RADIOLOGIST        GUIDANCE/LOCALIZATION FOR NEEDLE BIO   *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  60 year old man aortic stenosis s/p liver and kidney transplant [**10-11**] with\n  postop course complicated by bacteremia, sinus tach and increasing LFTs.\n  Concerned that he may be rejecting\n REASON FOR THIS EXAMINATION:\n  please do US guided biopsy transplant liver with results sent to pathology\n  -process RUSH for same day read. please try to do prior to 10am for same day\n  read\n CONTRAINDICATIONS for IV CONTRAST:\n  renal transplant\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  60-year-old man with aortic stenosis status post liver and kidney\n transplant on [**2187-10-11**] with post-op course complicated by bacteremia,\n sinus tach and increasing LFTs.  Concern for liver transplant rejection.\n\n TECHNIQUE:  After discussion of the risks and benefits of the procedure with\n the patient, written informed consent was obtained for an ultrasound-guided\n liver biopsy.  A timeout procedure was performed using three patient\n identifiers.\n\n The patient received 20 mcg of IV fentanyl with continuous radiology nursing\n staff monitoring of hemodynamic parameters.  The right upper quadrant was\n prepped and draped in the usual sterile fashion.  2% lidocaine was used for\n local anesthesia.\n\n Under ultrasound guidance, a single 18-gauge core biopsy was obtained.  The\n sample was placed in formalin and sent to pathology for expedited evaluation.\n\n Radiology attending, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1463**], was present and actively participated\n throughout the duration of the procedure.\n\n IMPRESSION:  Successful ultrasound-guided liver biopsy.  A single 18-gauge\n core biopsy was sent to pathology for expedited evaluation.\n\n\n"
+    },
+    {
+      "note_id": 640656,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 194,
+          "end": 213,
+          "code": "572.3",
+          "code_system": "ICD-9-CM",
+          "description": "Portal hypertension",
+          "type": "Human",
+          "covered_text": "portal hypertensive"
+        },
+        {
+          "begin": 214,
+          "end": 225,
+          "code": "537.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified disorders of stomach and duodenum",
+          "type": "Human",
+          "covered_text": "gastropathy"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   60M ESLD [**1-27**] EtOH cirrhosis s/p OLT and kidney transplant [**10-12**]\n   Chief complaint:\n   s/p OLT and kidney transplant\n   PMHx:\n   EtOH cirrhosis, esophageal varices, portal hypertensive gastropathy,\n   ascites, CRI (2.5-3.5, ? 2/2 HRS vs IgA nephropathy), h/o Bartonella\n   sepsis c/b multiorgan failure ('[**82**]), mod AS, HTN, Hchol, 4.5 aortic\n   aneurysm, depression, s/p L4-5 spinal fusion, s/p L hernia repair, s/p\n   R knee scope, s/p L knee open meniscus repair\n   Current medications:\n   1000 ml D5 1/2NS 2. 1000 mL 1/2NS 3. Chlorhexidine Gluconate 0.12% Oral\n   Rinse 4. Docusate Sodium\n   5. Fentanyl Citrate 6. Fluconazole 7. Heparin 8. Insulin 9.\n   MethylPREDNISolone Sodium Succ 10. MethylPREDNISolone Sodium Succ\n   11. Mycophenolate Mofetil Suspension 12. Nystatin Oral Suspension 13.\n   Ondansetron 14. Pantoprazole\n   15. Pamidronate 16. PredniSONE 17. PredniSONE 18. Prochlorperazine 19.\n   Sulfameth/Trimethoprim Suspension\n   20. Tacrolimus Suspension 21. ValGANCIclovir Suspension\n   24 Hour Events:\n   Post operative day:\n   POD#2 - S/P liver/Kidney transplant\n   Allergies:\n   Vicodin (Oral) (Hydrocodone Bit/Acetaminophen)\n   itching;\n   Last dose of Antibiotics:\n   Ampicillin/Sulbactam (Unasyn) - [**2187-10-13**] 12:10 AM\n   Infusions:\n   Insulin - Regular - 4 units/hour\n   Other ICU medications:\n   Other medications:\n   Flowsheet Data as of  [**2187-10-14**] 07:33 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**90**] a.m.\n   Tmax: 36.8\nC (98.3\n   T current: 36.8\nC (98.3\n   HR: 71 (66 - 102) bpm\n   BP: 169/80(112) {132/60(84) - 169/82(112)} mmHg\n   RR: 15 (9 - 21) insp/min\n   SPO2: 99%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 79.4 kg (admission): 73 kg\n   Height: 69 Inch\n   CVP: 5 (2 - 9) mmHg\n   PAP: (34 mmHg) / (16 mmHg)\n   CO/CI (Fick): (8.3 L/min) / (4.4 L/min/m2)\n   CO/CI (CCO): (6.8 L/min) / (3.6 L/min/m2)\n   SvO2: 80%\n   Mixed Venous O2% sat: 80 - 80\n   Total In:\n                                                                  6,939 mL\n                                                                  1,492 mL\n   PO:\n   Tube feeding:\n   IV Fluid:\n                                                                  5,578 mL\n                                                                  1,432 mL\n   Blood products:\n                                                                  1,231 mL\n   Total out:\n                                                                  5,147 mL\n                                                                  1,155 mL\n   Urine:\n                                                                  1,326 mL\n                                                                    530 mL\n   NG:\n                                                                    700 mL\n                                                                    200 mL\n   Stool:\n   Drains:\n                                                                  3,121 mL\n                                                                    425 mL\n   Balance:\n                                                                  1,792 mL\n                                                                    337 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CPAP/PSV\n   Vt (Set): 600 (600 - 600) mL\n   Vt (Spontaneous): 694 (403 - 704) mL\n   PS : 10 cmH2O\n   RR (Set): 14\n   RR (Spontaneous): 10\n   PEEP: 5 cmH2O\n   FiO2: 40%\n   RSBI: 22\n   PIP: 16 cmH2O\n   Plateau: 16 cmH2O\n   SPO2: 99%\n   ABG: 7.33/45/110/21/-2\n   Ve: 6.4 L/min\n   PaO2 / FiO2: 275\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:\n   Rhonchorous : )\n   Abdominal: Soft\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   61 K/uL\n   11.1 g/dL\n   119\n   2.1 mg/dL\n   21 mEq/L\n   3.5 mEq/L\n   55 mg/dL\n   111 mEq/L\n   141 mEq/L\n   30.7 %\n   12.4 K/uL\n        [image002.jpg]\n                            [**2187-10-13**]  02:28 PM\n                            [**2187-10-13**]  06:06 PM\n                            [**2187-10-13**]  06:32 PM\n                            [**2187-10-13**]  10:20 PM\n                            [**2187-10-14**]  01:15 AM\n                            [**2187-10-14**]  02:00 AM\n                            [**2187-10-14**]  03:00 AM\n                            [**2187-10-14**]  03:17 AM\n                            [**2187-10-14**]  05:00 AM\n                            [**2187-10-14**]  06:00 AM\n   WBC\n   12.9\n   12.4\n   Hct\n   29.2\n   30.7\n   Plt\n   80\n   61\n   Creatinine\n   2.2\n   2.1\n   TCO2\n   25\n   24\n   25\n   25\n   Glucose\n   97\n   85\n   119\n   113\n   132\n   118\n   119\n   117\n   119\n   Other labs: PT / PTT / INR:14.4/48.1/1.2, ALT / AST:171/127, Alk-Phos /\n   T bili:154/1.4, Amylase / Lipase:108/280, Fibrinogen:183 mg/dL, Lactic\n   Acid:1.1 mmol/L, Albumin:2.7 g/dL, LDH:229 IU/L, Ca:8.0 mg/dL, Mg:2.0\n   mg/dL, PO4:5.7 mg/dL\n   Assessment and Plan\n   Assessment and Plan: 60M ESLD [**1-27**] EtOH cirrhosis s/p OLT and kidney\n   transplant [**10-12**]\n   Neurologic: Fentanyl prn, pain controlled, consider longer term\n   Cardiovascular: HD stable, known AS, mild,\n   Pulmonary: Cont ETT, (Ventilator mode: CPAP + PS), Adequate gas on\n   current settings, [**9-30**], encourage aggressive chest PT/suctioning, SBT\n   today, consider dose of lasix if volume overload on next CXR\n   Gastrointestinal / Abdomen: post-op OLT, enzymes trending down, stable\n   Nutrition: NPO\n   Renal: Foley, s/p kidney transplant, adequate urine output\n   Hematology: plts trending down, ?secondary to transplant meds, HIT\n   pending\n   Endocrine: RISS\n   Infectious Disease:\n   Lines / Tubes / Drains: Foley, NGT\n   Wounds: Dry dressings\n   Imaging: CXR today\n   Fluids: 1/2 NS at 1:1, d5 [**12-27**] at 125\n   Consults: Transplant\n   Billing Diagnosis: Post-op complication\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2187-10-12**] 05:07 AM\n   PA Catheter - [**2187-10-12**] 05:08 AM\n   16 Gauge - [**2187-10-12**] 05:08 AM\n   Trauma line - [**2187-10-12**] 05:09 AM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 34 minutes\n"
+    },
+    {
+      "note_id": 640543,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 23,
+          "end": 48,
+          "code": "96.71",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous mechanical ventilation for less than 96 consecutive hours",
+          "type": "Human",
+          "covered_text": "mechanical ventilation: 2"
+        }
+      ],
+      "text": "Demographics\n   Day of mechanical ventilation: 2\n   Ideal body weight: 72.6 None\n   Ideal tidal volume: 290.4 / 435.6 / 580.8 mL/kg\n   Airway\n   Airway Placement Data\n   Known difficult intubation: No\n   Tube Type\n   ETT:\n                   Position: 21 cm at teeth\n                   Route: Oral\n                   Type: Standard\n                   Size: 7.5mm\n   Lung sounds\n   RLL Lung Sounds: Diminished\n   RUL Lung Sounds: Diminished\n   LUL Lung Sounds: Clear\n   LLL Lung Sounds: Diminished\n   Secretions\n   Sputum color / consistency: Blood Tinged / Thick\n   Sputum source/amount: Suctioned / Moderate\n   Ventilation Assessment\n   Level of breathing assistance: Continuous invasive ventilation\n   Visual assessment of breathing pattern: Normal quiet breathing\n   Assessment of breathing comfort: No claim of dyspnea\n   Plan\n   Next 24-48 hours: Continue with daily RSBI tests & SBT's as tolerated,\n   Periodic SBT's for conditioning\n   Reason for continuing current ventilatory support: Intolerant of\n   weaning attempts; Comments: Pt became hypercarbic on PS 5, required\n   increased on PS to 10, will increase vent support as required if\n   needed.\n"
+    },
+    {
+      "note_id": 43312,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1774,
+          "end": 1777,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1806,
+          "end": 1826,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Hypercholesterolemia"
+        },
+        {
+          "begin": 1902,
+          "end": 1912,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 2691,
+          "end": 2701,
+          "code": "553.1",
+          "code_system": "ICD-9-CM",
+          "description": "Umbilical hernia without mention of obstruction or gangrene",
+          "type": "MapType.EXACT",
+          "covered_text": "umb hernia"
+        },
+        {
+          "begin": 3232,
+          "end": 3253,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "chronic renal failure"
+        },
+        {
+          "begin": 10628,
+          "end": 10648,
+          "code": "572.4",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatorenal syndrome",
+          "type": "Human",
+          "covered_text": "Hepatorenal syndrome"
+        },
+        {
+          "begin": 10675,
+          "end": 10684,
+          "code": "571.2",
+          "code_system": "ICD-9-CM",
+          "description": "Alcoholic cirrhosis of liver",
+          "type": "Human",
+          "covered_text": "Cirrhosis"
+        },
+        {
+          "begin": 10721,
+          "end": 10736,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "aortic stenosis"
+        },
+        {
+          "begin": 10737,
+          "end": 10754,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Sinus tachycardia"
+        },
+        {
+          "begin": 10755,
+          "end": 10761,
+          "code": "041.49",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.APPROX",
+          "covered_text": "E.coli"
+        },
+        {
+          "begin": 10762,
+          "end": 10772,
+          "code": "790.7",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified bacteremia",
+          "type": "Human",
+          "covered_text": "bacteremia"
+        },
+        {
+          "begin": 10790,
+          "end": 10793,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 10819,
+          "end": 10822,
+          "code": "V09.80",
+          "code_system": "ICD-9-CM",
+          "description": "Infection with microorganisms resistant to other specified drugs, without mention of resistance to multiple drugs",
+          "type": "Human",
+          "covered_text": "VRE"
+        }
+      ],
+      "text": "Admission Date:  [**2187-10-7**]              Discharge Date:   [**2187-11-2**]\n\nDate of Birth:  [**2127-7-22**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nVicodin\n\nAttending:[**First Name3 (LF) 668**]\nChief Complaint:\nConfusion/lethargy\n\nMajor Surgical or Invasive Procedure:\n[**2187-10-19**]: combined liver/kidney transplant\n\n\nHistory of Present Illness:\n60 yo M w/ PMH of cirrhosis, encephalopathy p/w lethargy,\nvomiting and confusion. Pt. had a paracentesis (9.5L) on\nthursday and afterwards had been feeling somewhat tired as\nnormal for him after a paracentesis. He continued to feel tired\nuntil 0300 this am when he vomited, he went back to bed and then\nbegan having dry heaves around 0600. At this time his wife\nchecked him for asterixis and she noted that he did have a\nflapping tremor and she brought him to the ED. She noted that he\nhad had 4 BMs yesterday. He was admitted from the ED w/o workup.\nOn the floor he was lethargic but arousable and he was taken for\nabdominal u/s w/ IR paracentesis. ON presentation he only\ncomplains of thirst.\n\nPast Medical History:\n1) Etoh cirrhosis, diagnosed in '[**82**], transplant candidate (may\nneed liver-kidney), complicated by:\n- variceal bleeding in '[**83**], controlled with medications\n- ascites requiring periodic paracenteses\n- ? HRS [**8-3**]\n- last EGD [**8-3**]: esophageal varices, portal hypertensive\ngastropathy\n- last colonoscopy [**8-3**]: Two 3mm benign-appearing polyps\n2) Recurrent ARF with admissions [**6-3**] and [**8-3**] (? HRS vs IgA\nnephropathy). No renal disease known prior to these admissions.\n3) Hx sepsis from dog bite in '[**82**] c/b multiorgan failure\n4) L4-5 spinal fusion '[**78**] at [**Hospital **] Hospital\n5) AS of uncertain severity - scheduled for LHC on Fri [**9-14**]\n6) HTN - stable off medications\n7) Hypercholesterolemia\n8) hx aortic aneurysm, stable for last 20 yrs\n9) L sided hernia repair\n10) Depression\n11) R knee arthroscopy and meniscus repair\n12) L knee open meniscus repair\n\nSocial History:\nPt born in [**State **], lived in [**Male First Name (un) 1056**], then Mass for many\nyears. Retired school counselor and high school basketball\ncoach. Lives with wife and dog. Drank ~2 drinks/day for appx 40\nyrs, last drink [**2187-1-21**] for wife's birthday. Used tob rarely for\n8yrs, quit around [**2166**]. Walks [**12-27**] to [**2-27**] mi daily.\n\nFamily History:\nFather had CABG in 40s, also had 2 heart valve surgeries and 2\nCVAs. Mom died at age [**Age over 90 **]. No fhx of liver or kidney disease.\n\nPhysical Exam:\nVS - Temp 96.2F, BP 117/82, HR 86, R 18, O2-sat 97 % RA\nGENERAL - Drowsy but arousable to call, Flap +\nLUNGS - Clear B/L\nHEART - RRR Systolic murmur\nAbd: soft umb hernia non tender non distended\nRectal neg Guiaic neg\n\n\nBrief Hospital Course:\nInitially treated for encephalopathy by the medicine team until\n[**10-11**] when a liver and kidney donor became available. On\n[**2187-10-11**] he underwent Orthotopic deceased-donor liver transplant\n(piggyback); portal vein to portal vein anastomosis; common bile\nduct to common bile duct anastomosis with no T-tube; celiac\npatch (donor) with replaced right hepatic artery to a branch\npatch (recipient for Alcoholic cirrhosis; portal hypertension;\nascites; chronic renal failure; aortic stenosis. Surgeon was Dr.\n[**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] assisted by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]. Two JPs were\nplaced. There were no complications. He then underwent cadaveric\nkidney transplant into the right\niliac fossa with placement of a 6-French double-J stent. Surgeon\nwas Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 406**] drain was placed in the\nretroperitoneum. Please see both operative reports for complete\ndetails. Standard immunosuppressive induction therapy was given\n(solumedrol and cellcept).\n\nPostop, he was transferred to the SICU for postop management.\nPrograf was started on pod 1. He was extubated on [**10-14**] after\nbronchoscopy for LLL atelectasis. Platelets trended down.\nHeparin was stopped and a HIT was sent which was negative.\nMultiple blood products were given over SICU stay to maintain\nhemostasis.  Platelet count stabilized. Creatinine and LFTS\ntrended down. Urine output was excellent. Diet was advanced and\ntolerated. Glucoses were elevated from the solumedrol. An\ninsulin drip was initially used then sliding scale insulin was\ninitiated. [**Last Name (un) **] was later consulted and NPH with sliding scale\nwas used.\n\nHe was transferred out of the SICU to the Med-[**Doctor First Name **] floor on\n[**10-15**] where he continued to do well. He was assisted to\nambulate. PT followed him. The foley was removed with incident.\nThe 2 JPs and the [**Doctor Last Name 406**] drain outputs were in the 20-60cc range.\nPain was well managed with oxycodone. Solumedrol was tapered,\ncellcept was adjusted to 500mg qid for some GI complaints and\nprograf was adjusted daily per trough levels.\n\nOn POD 7, the NEOB called to report that the donor had had an\nE.coli bacteremia. Given this, blood cultures were drawn for\nsurveillance. These returned + for coag negative staph. IV Vanco\nwas started and continued for 2 days. Blood, urine and the RLQ\nretroperitoneal [**Doctor Last Name 406**] drain fluid cultures were positive for E.\ncoli. Initially, cipro was started for the urine. Dapto was\nstarted for a surveillance rectal swab that returned postive for\nVRE. This was only given for two days, then stopped on [**10-23**].\nMeropenum was started on [**11-23**] and continued thru [**10-26**]. ID was\nconsulted and recommended resuming Cipro. This was continued\nuntil ID re-evaluated and felt that he should remain on IV\nantibiotics for a 10 day course given h/o aortic valve stenosis,\nimmunosuppression. Ceftriaxone was started on [**10-29**] and continued\nuntil [**11-2**]. A PICC line was inserted and the plan was for a 10\nday course. Given known aortic stenosis and development of sinus\ntachycardia, a TTE was done to assess for vegetations. This was\nnegative. He then had a TEE to definitively rule out any\nvegetation. This was negative.\n\nAround POD 6, the medial JP and the [**Doctor Last Name 406**] (kidney) drainage\nincreased requiring IV fluid replacements. The 2 JPs around the\nliver were removed on POD 8 & 14. Creatinine of this fluid was\n1.7. Serum creatinine was 1.1. On POD 11 ([**10-23**]), urine output\nincreased to 3 liters. IV fluid replacement was given. He\ndeveloped dizziness, orthostatic hypotension with tachycardia\nand a sense that his heart was racing. He denied sob or chest\npain. This was initially treated with aggressive IV volume\nresuscitation. He continued to have sinus tachycardia.\nCardiology was consulted and IV lopressor was started. Sinus\ntach improved and lopressor was switched to Toprol 100mg qd.\nDuring this time his only complaint was fatigue that improved as\nheart rate was controlled.\n\nOn POD 11, an MRCP was done to evaluate elevated alk phos that\nhad been running in the 300-400 range. There was no evidence of\nbiliary dilatation. A small amount of ascites was noted. Alk\nphos improved some with daily range between 240-280. Alt and AST\nsomewhat increased. A duplex of the liver was done showing\nnormal vascular flow, no biliary dilatation or peri-hepatic\ncollections. On [**11-2**], an US guided biopsy was done to evaluate\nfor rejection given persistent elevation of LFTS. The biopsy was\nnegative.\n\nOn [**11-2**], he was discharged home to complete the Ceftriaxone\ncourse for 5 more day. VNA services were arranged. Blood\ncultures were to be done 72 hours after completing the\nCeftriaxone.\n\nStaples were removed from the subcostal incision as well as the\nRLQ incision. These incisions were clean, dry and intact. Vital\nsigns were stable with HRs in the 70-80s. He was ambulatory and\ntolerating a carb consistent diet.\n\n\nMedications on Admission:\n1. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n3. Multivitamin Tablet Sig: One (1) Tablet PO DAILy (Daily).\n4. Pantoprazole 40 mg Tablet, Sig: One tab Q12\n5. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO every\n4-6 hours: Titrate to >5 bowel movements daily.\n6. Compazine 10 mg Tablet Sig: One (1) Tablet PO every six (6)\nhours as needed for nausea.\n7. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO once a day.\n\n8. Rifaximin 200 mg Tablet Sig: Two (2) Tablet PO three times a\n\nday.\n\n\nDischarge Medications:\n1. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Twenty\n(20) units Subcutaneous once a day.\nDisp:*1 bottle* Refills:*2*\n2. Insulin Lispro 100 unit/mL Solution Sig: sliding scale\nSubcutaneous four times a day.\nDisp:*1 bottle* Refills:*2*\n3. syringes  Sig: One (1) box  four times a day: insulin\nsyringes-lo dose. 25 gauge needle. U 100.\nDisp:*1 box* Refills:*2*\n4. Prednisone 5 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).\n\n5. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)\nas needed for Pain.\nDisp:*30 Tablet(s)* Refills:*0*\n6. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n7. Fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every\n24 hours).\n8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*60 Capsule(s)* Refills:*2*\n9. Valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n10. Sertraline 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n11. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).\n12. Mycophenolate Mofetil 500 mg Tablet Sig: One (1) Tablet PO\nQID (4 times a day).\n13. Ceftriaxone-Dextrose (Iso-osm) 1 gram/50 mL Piggyback Sig:\nOne (1) gram Intravenous Q24H (every 24 hours) for 5 days.\nDisp:*5 gram* Refills:*0*\n14. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML\nIntravenous once a day as needed for line flush: after 10ml of\nsaline via the PICC line .\nDisp:*20 syringes* Refills:*0*\n15. Picc Line Supplies\npump, tubing, dressing supplies\nsupply: 1 week\nrefill: 1\n16. Outpatient Lab Work\nBlood cultures 3 days after antibiotics stop\nfax results to [**Telephone/Fax (1) 697**]\n17. Tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO Q12H\n(every 12 hours).\n18. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr\nSig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).\nDisp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital1 1474**] VNA\n\nDischarge Diagnosis:\nHepatorenal syndrome now s/p kidney transplant\nCirrhosis now s/p orthotopic liver transplant\naortic stenosis\nSinus tachycardia\nE.coli bacteremia [**2187-10-22**]\nUTI, E.coli [**2187-10-22**]\nVRE, rectal swab [**2187-10-11**]\n\n\nDischarge Condition:\nStable/good\n\n\nDischarge Instructions:\nCall the transplant clinic at [**Telephone/Fax (1) 673**] for fever > 101,\nchills, nausea, vomiting, \"racing heart\" or palpitations,\nshortness of breath, chest pain, diarrhea or constipation.\nCall if you are having difficulty taking foods, fluids,\nmedications\nDrink enough fluids to keep the urine light yellow\nLabwork every Monday and Thursday to be faxed to transplant\nclinic at [**Telephone/Fax (1) 697**]. CBC, Chem 10, AST, ALT, alk phos,\nalbumin, T bili, trough prograf level\nMonitor incisions for redness, drainage or bleeding. Staples to\nbe removed at your clinic visit\n\nFollowup Instructions:\n[**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 707**], MD, PHD[**MD Number(3) 708**]:[**Telephone/Fax (1) 673**] Date/Time:[**2187-11-7**]\n10:00\n[**Last Name (LF) **],[**First Name3 (LF) 156**] TRANSPLANT SOCIAL WORK Date/Time:[**2187-11-7**] 10:30\n[**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 707**], MD, PHD[**MD Number(3) 708**]:[**Telephone/Fax (1) 673**] Date/Time:[**2187-11-14**]\n11:00\nDr. [**First Name (STitle) 437**] (Cardiology)-[**11-21**] at 9:20 ([**Last Name (NamePattern1) **], LMOB [**Location (un) 3971**])\n\n\n\nCompleted by:[**2187-11-2**]"
+    }
+  ]
+}

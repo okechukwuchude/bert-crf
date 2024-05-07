@@ -1,0 +1,77 @@
+{
+  "hadm_id": 158386,
+  "comment": "CABG- Need OP note to Validate PCS",
+  "notes": [
+    {
+      "note_id": 37027,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 937,
+          "end": 952,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary Artery"
+        },
+        {
+          "begin": 986,
+          "end": 993,
+          "code": "303.93",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified alcohol dependence, in remission",
+          "type": "Human",
+          "covered_text": "Alcohol"
+        },
+        {
+          "begin": 1024,
+          "end": 1034,
+          "code": "265.1",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified manifestations of thiamine deficiency",
+          "type": "MapType.APPROX",
+          "covered_text": "Wernicke's"
+        },
+        {
+          "begin": 1188,
+          "end": 1200,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1201,
+          "end": 1205,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 1206,
+          "end": 1210,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 1211,
+          "end": 1225,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "Current Smoker"
+        }
+      ],
+      "text": "Admission Date:  [**2126-6-6**]              Discharge Date:   [**2126-6-11**]\n\nDate of Birth:  [**2062-1-22**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nSulfasalazine\n\nAttending:[**First Name3 (LF) 1406**]\nChief Complaint:\nChest pain\n\n\nMajor Surgical or Invasive Procedure:\n[**2126-6-7**]\nCoronary artery bypass grafting x4, with the\nleft internal mammary artery to the left anterior descending\nartery and reverse saphenous vein graft to the obtuse\nmarginal artery and a reverse saphenous vein Y-graft to the\nramus intermedius artery and the first diagonal artery.\n\n\nHistory of Present Illness:\n64 year old male complains of\nexertional chest pain and tightness in the last 3 months. He had\na stress test on [**2126-5-18**] that was positive and was referred for\na\ncardiac catheterization. He was found to have left main disease\nand is now being referred to cardiac surgery for\nrevascularization.\n\n\nPast Medical History:\nCoronary Artery Disease, s/p CABG this admission\nAlcohol abuse (last drink 1 year ago)\nWernicke's encephalopathy\nMultiple falls with injury/fractures (left humerus and\nshoulder)-\nhas only had 1 fall in the last year since arriving at the\nnursing home\nHypertension\nCOPD\nGERD\nCurrent Smoker\n\n\nSocial History:\nLives with:Lives at nursing home due to financial issues\nContact:[**Name (NI) 17**] [**Name (NI) **] (sister)   Phone# [**Telephone/Fax (1) 83483**]\nOccupation:does not currently work\nCigarettes: Smoked no [] yes [x] last cigarette [**2126-6-6**]\nHx:currently smokes 8 cigarettes a day x 2 years and history of\n3ppd x 50 years\nOther Tobacco use:none\nETOH: none in the past year, history of alcohol abuse\nIllicit drug use:none\n\n\nFamily History:\nSister with\n[**Name2 (NI) **] placed at age of 50\n\n\nPhysical Exam:\nPulse:59 Resp:16  O2 sat:99/RA\nB/P  Right:156/77    Left:142/70\nHeight:5'[**24**]\"     Weight:131 kgs\n\nGeneral:\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs wheezes bilaterally [x]\nHeart: RRR [x]  Irregular [x]  Murmur [] grade ______\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x] obese\nExtremities: Warm [x], well-perfused []  Edema +2\nVaricosities: +1 Chronic venous stasis\nNeuro: Grossly intact []\nPulses:\nFemoral      Right: cath site  Left: +2\nDP           Right: +1  Left: +1\nPT           [**Name (NI) 167**]: +1   Left: +1\nRadial       Right:  +2 Left: +2\n\nCarotid Bruit        Right:  0  Left: 0\n\n\nPertinent Results:\n[**2126-6-11**] 05:12AM BLOOD WBC-13.4* RBC-3.30* Hgb-10.1* Hct-29.1*\nMCV-88 MCH-30.5 MCHC-34.6 RDW-14.3 Plt Ct-193#\n[**2126-6-9**] 04:36AM BLOOD WBC-14.0* RBC-3.20* Hgb-9.9* Hct-28.2*\nMCV-88 MCH-31.1 MCHC-35.2* RDW-13.9 Plt Ct-113*\n[**2126-6-11**] 05:12AM BLOOD Glucose-143* UreaN-17 Creat-0.8 Na-130*\nK-4.0 Cl-94* HCO3-30 AnGap-10\n[**2126-6-9**] 04:36AM BLOOD Glucose-136* UreaN-17 Creat-0.7 Na-132*\nK-4.7 Cl-97 HCO3-28 AnGap-12\n\n[**2126-6-7**], Intra-op TEE\nConclusions\nPre-CPB:\nNo spontaneous echo contrast is seen in the left atrial\nappendage.\nOverall left ventricular systolic function is normal (LVEF>55%).\n\nRight ventricular chamber size and free wall motion are normal.\nThere are simple atheroma in the descending thoracic aorta.\nThe aortic valve leaflets (3) are mildly thickened. There is no\naortic valve stenosis. No aortic regurgitation is seen.\nThe mitral valve leaflets are mildly thickened. Mild (1+) mitral\nregurgitation is seen. There is no pericardial effusion.\n\nPost-CPB:\nThe patient is A-Paced, on no inotropes.\nPreserved biventricular systolic fxn.\nMR remains 1+.\nNo AI. Aorta intact.\n\n\nBrief Hospital Course:\nThe patient was brought to the Operating Room on [**2126-6-7**] where\nthe patient underwent CABG x 4.   Overall the patient tolerated\nthe procedure well and post-operatively was transferred to the\nCVICU in stable condition for recovery and invasive monitoring.\n\nPOD 1 found the patient extubated, alert and oriented and\nbreathing comfortably.  The patient was neurologically intact\nand hemodynamically stable, weaned from inotropic and\nvasopressor support.  Beta blocker was initiated and the patient\nwas gently diuresed toward the preoperative weight.  The patient\nwas transferred to the telemetry floor for further recovery.\nChest tubes and pacing wires were discontinued without\ncomplication.  The patient was evaluated by the physical therapy\nservice for assistance with strength and mobility.  By the time\nof discharge on POD 4 the patient was ambulating freely, the\nwound was healing and pain was controlled with oral analgesics.\nThe patient was discharged to RosCommon at [**State 83484**]in [**Location 1268**] in good condition with appropriate follow\nup instructions.\n\nMedications on Admission:\nFOLIC ACID -  (Prescribed by Other Provider) - 1 mg Tablet - 1\n(One) Tablet(s) by mouth once a day\nFUROSEMIDE -  (Prescribed by Other Provider) - 20 mg Tablet - 1\n(One) Tablet(s) by mouth once a day\nIPRATROPIUM-ALBUTEROL -  (Prescribed by Other Provider) - 0.5\nmg-3 mg (2.5 mg base)/3 mL Solution for Nebulization - 1 (One)\nunit dose vial inhaled three times a day\nMETOPROLOL SUCCINATE -  (Prescribed by Other Provider) - 50 mg\nTablet Extended Release 24 hr - 1 (One) Tablet(s) by mouth once\na\nday\nNITROGLYCERIN -  (Prescribed by Other Provider) - 0.4 mg Tablet,\nSublingual - 1 (One) Tablet(s) sub lingually every 5 minutes up\nto 3 times as need for chest pain\nSIMVASTATIN -  (Prescribed by Other Provider) - 40 mg Tablet - 1\n(One) Tablet(s) by mouth at bedtime\n\nMedications - OTC\nASPIRIN -  (Prescribed by Other Provider) - 81 mg Tablet,\nDelayed\nRelease (E.C.) - 1 (One) Tablet(s) by mouth once a day\nMULTIVITAMIN -  (Prescribed by Other Provider) -   Capsule - 1\n(One) Capsule(s) by mouth once a day\n\n\nDischarge Medications:\n1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n2. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n4. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n5. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n6. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n7. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n8. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\n9. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as\nneeded for dyspnea.\n10. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation\nQ6H (every 6 hours) as needed for dyspnea.\n11. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours) as needed for pain.\nDisp:*65 Tablet(s)* Refills:*0*\n12. hydrocodone-acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets\nPO Q4H (every 4 hours) as needed for pain.\nDisp:*60 Tablet(s)* Refills:*0*\n13. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nHS (at bedtime) as needed for constipation.\n14. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO DAILY (Daily) as needed for constipation.\n15. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n16. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day for 10\ndays.\n17. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:\nOne (1) Tablet, ER Particles/Crystals PO twice a day for 10\ndays.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\nRoscommon [**Hospital 1268**] Extended Care Center\n\nDischarge Diagnosis:\nAlcohol abuse (last drink 1 year ago), Werneke's encephalopathy,\nmultiple falls with injury/fractures (left humerus and\nshoulder), Hypertension, COPD, GERD, Current Smoker, s/p\nORIF(humerus) [**7-/2124**]\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with cane\nIncisional pain managed with oral anagesics\n\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Left - healing well, no erythema or drainage.\nEdema [**12-9**]+ pitting edema\n\n\n\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nFollowup Instructions:\nRecommended Follow-up:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**Last Name (STitle) **] [**2126-7-3**] at 1pm in the [**Hospital **] medical office\nbuilding\nCardiologist:  Dr. [**First Name8 (NamePattern2) 20204**] [**Last Name (NamePattern1) **] [**2126-6-25**] at 10:20 am\n[**Telephone/Fax (1) 33529**]\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nPlease call to schedule appointments with your\nPrimary Care Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 60013**] [**Telephone/Fax (1) 37824**]- make appointment for\n4-5 weeks\n\n\n\nCompleted by:[**2126-6-11**]"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "hadm_id": 162776,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 54476,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 348,
+          "end": 356,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 1192,
+          "end": 1200,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "Dementia"
+        },
+        {
+          "begin": 1271,
+          "end": 1290,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's disease"
+        },
+        {
+          "begin": 1291,
+          "end": 1299,
+          "code": "N18.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CKD with"
+        },
+        {
+          "begin": 1336,
+          "end": 1339,
+          "code": "I12.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1340,
+          "end": 1354,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 1374,
+          "end": 1388,
+          "code": "M19.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified osteoarthritis, unspecified site",
+          "type": "Human",
+          "covered_text": "Osteoarthritis"
+        },
+        {
+          "begin": 3837,
+          "end": 3850,
+          "code": "E87.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperosmolality and hypernatremia",
+          "type": "Human",
+          "covered_text": "hypernatremia"
+        },
+        {
+          "begin": 3855,
+          "end": 3874,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 4670,
+          "end": 4681,
+          "code": "E86.0",
+          "code_system": "ICD-10-CM",
+          "description": "Dehydration",
+          "type": "Human",
+          "covered_text": "dehydration"
+        },
+        {
+          "begin": 4683,
+          "end": 4686,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 5225,
+          "end": 5232,
+          "code": "B96.4",
+          "code_system": "ICD-10-CM",
+          "description": "Proteus (mirabilis) (morganii) as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "proteus"
+        }
+      ],
+      "text": "Admission Date:  [**2190-1-30**]              Discharge Date:   [**2190-2-4**]\n\n\nService: MEDICINE\n\nAllergies:\nLevaquin\n\nAttending:[**First Name3 (LF) 1257**]\nChief Complaint:\nCC:[**CC Contact Info 111485**]\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\nMs. [**Known lastname **] is a [**Age over 90 **]yo woman with h/o dementia who was noted by NH\nto be acting strangely. Although at baseline she has\n\"nonsensical speech,\" for the last few days, she was seen\nmoaning and holding her head in her hands. Her vital signs were\nnoted to be normal. Labs revealed Na of 175. At her NH, she is\nlisted as DNR/DNI/DNH, but a discussion was had with the\npatient's daughter, and decision was made to send her to [**Hospital1 18**]\nfor treatment.\n.\nIn the ED, initial VS were: 98.0 107/71 78 17 98%. She was awake\nbut not verbal and not following commands. She appeared\ncomfortable. Labs revealed a Na of 177 and Cr of 2.4. She was\ngiven ceftriaxone for a positive UA. Renal was contact[**Name (NI) **] and\nsuggested 1/2NS at 100cc/hr. She was then sent to the ICU for\nfurther care.\n.\nUpon arrival to the ICU, she is sleeping comfortably but\nrousable.\n\n\nPast Medical History:\nDementia: at baseline has \"non-sensical speech,\" incontinent,\nwheelchair-bound\nAlzheimer's disease\nCKD with baseline Cr 1.3-1.7 (in [**2188**])\nHTN\nHyperlipidemia\nUTIs\nHiatal hernia\nOsteoarthritis\nPossible sacral ulcer\n\n\nSocial History:\nLives at [**Hospital **] [**Hospital **] Nursing Home: [**Telephone/Fax (1) 62338**], where she\nwas placed in [**2185**]. No further history available at present.\n\nFamily History:\nNot contributory\n\nPhysical Exam:\n97.7 148/47 76 22 91% 2L\nLight yellow urine in Foley.\nSleeping comfortably in bed, rouses minimally when she is being\nexamined and moans or shifts position.\nPupils are small b/l, right has some surgical changes. Sclera\nare non-icteric.\nResists oral exam, but lips are moist.\nNeck is supple. No thyroid enlargement or nodule.\nS1, S2, RRR, +3/6 systolic murmur at apex, radiates to axilla.\nLungs are clear b/l with good air movement, although somewhat\ndiminished at bases. No wheeze or crackles.\nAbd: +BS, soft, NT and not distended.\nSkin: No bruising or rash noted.\nNeuro: Minimally rousable. Moves all extremities during exam.\nSome increased tone with cogwheeling in the LUE. Has pneumoboots\nin place.\nExt: Feet are warm, well-perfused. DPs palpable b/l.\n.\n\n\nPertinent Results:\nAdmission Labs:\n[**2190-1-30**] 06:55PM   PT-12.5 PTT-29.6 INR(PT)-1.1\n[**2190-1-30**] 06:55PM   NEUTS-74.3* LYMPHS-18.1 MONOS-3.4 EOS-3.1\nBASOS-1.2\n[**2190-1-30**] 06:55PM   WBC-10.3 RBC-4.62 HGB-13.7 HCT-45.9 MCV-99*#\nMCH-29.8 MCHC-30.0* RDW-14.1\n[**2190-1-30**] 06:55PM   GLUCOSE-200* UREA N-127* CREAT-2.4*\nSODIUM-177* POTASSIUM-4.9 CHLORIDE-GREATER TH TOTAL CO2-19*\n[**2190-1-30**] 09:00PM URINE  RBC->50 WBC->50 BACTERIA-MANY YEAST-NONE\nEPI-0-2\n[**2190-1-30**] 09:00PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-75\nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0\nLEUK-MOD\n[**2190-1-30**] 09:00PM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) 155**]-1.018\n[**2190-1-30**] 09:59PM   LACTATE-1.4\n[**2190-1-30**] 10:54PM   GLUCOSE-138* LACTATE-1.9 NA+-182* K+-4.9\nCL--148* TCO2-18*\n\nDischarge Labs:\n\nMicrobiology:\n[**1-30**] Urine Culture:  PROTEUS MIRABILIS.    >100,000\nORGANISMS/ML..\n[**1-30**] Blood Culture: NGTD\n\nImaging:\nCXR [**2190-1-30**]:\n1. Lucency projecting over the left hemithorax, question\nelevated left\nhemidiaphragm versus herniation of intra-abdominal contents.\nCorrelation with a lateral radiograph is recommended.\n2. Apparent widening of the mediastinum, most likely related to\npatient\npositioning and technique. This can also be further evaluated\nwith a PA and lateral view.\n\n\nBrief Hospital Course:\n[**Age over 90 **] year old woman with h/o dementia who was found to have severe\nhypernatremia and acute renal failure resulting in altered\nmental status/delirium. Her hypernatremia was due to poor access\nto free water in this demented elderly woman with impaired\nthirst and LASIX TREATMENT. She had no evidence of central or\nnephrogenic DI. Her free water deficit at admission was 7.6-9.2L\n(depending on whether her water is 50-60% of her body weight).\nShe was corrected with D5W and [**2-6**] normal saline for\nconservative management. On [**2-2**], she was switched back to D5W\nbecause of slowed correction. A picc line was placed for better\naccess and ease of blood draws given need for close monitoring\nof electrolytes. Her sodium on discharge was 147. She will\nreceive additional IV fluids for 24 hours and then oral\nhydration of 1500 ML/ Hour. Her delirium/altered mental status\nwas from her hypernatremia, dehydration, UTI, ARF, and abnormal\nmental status at baseline. Per daughter, the patient has\nnonsensical speech at baseline.  Her mental status improved back\nto baseline over the course of her hospitalization. The\npatient's creatinine was increased to 2.4 at admission (baseline\nCr 1.3-1.7. Her renal function improved to baseline with IV\nfluid rehydration given for hypernatremia correction. Lisinopril\nwas initially held and then restarted on [**2-2**] when renal\nfunction at baseline. She received Ceftriaxone for 5 days for\nUTI and urine culture grew proteus mirabilis and MORGANELLA\nMORGANII. She will receive Bactrim and Augmentin for additional\n3 days. Her Foley was discontinued on discharge. She had\nhypertensive urgency but no emergency. Lasix was stopped and\nshould NOT be resumed. She received Lisinopril and Norvasc for\nHTN treatment. She may remain hypertensive at NH but no evidence\nfrom radpi reduction of BP woith IV medications unless emergency\n(end organ damage). She was initially NPO except for medications\ngiven poor mental status. She had a speech and swallow\nevaluation that showed aspiration of thin liquids. She had a\nrepeat speech and swallow eval when sodium normalized and she\nwas able to have thickened liquids.\n\n# Code:  DNR/DNI BUT SHOULD BE HOSPICE AT SOME POINT\n\n.\n# Comm:  Daughter [**First Name4 (NamePattern1) 1785**] [**Known lastname **] (cell) [**Telephone/Fax (1) 111486**]; (home)\n[**Telephone/Fax (1) 111487**].  Need to clarify goals of care with daughter.\n\nMedications on Admission:\n(per NH sheet):\nASA 81mg daily\nLisinopril 20mg daily\nSimvastatin 40mg daily\nFurosemide 20mg daily\nDarvocet 100/650mg TID\nPrilosec 40mg daily\nCalcium with vitamin D 600/200 daily\nColace 100mg daily\nSenna\nMVI\nMetamucil\nFlovent 110mcg 2 puffs\nDuoneb 0.5/3mg Q4H\nSpiriva 18mcg\n\n\nDischarge Medications:\n1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day) as needed for constipatoin.\n2. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n3. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n6. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every\n6 hours) as needed for pain.\n7. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24\nhours).\n8. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n9. Lisinopril 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n10. Amoxicillin-Pot Clavulanate 500-125 mg Tablet Sig: One (1)\nTablet PO Q12H (every 12 hours) for 3 days.\n11. Bactrim DS 160-800 mg Tablet Sig: One (1) Tablet PO twice a\nday for 3 days.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital **] [**Hospital **] Nursing Home - [**Location (un) **]\n\nDischarge Diagnosis:\nSevere hypernatremia\nDelirium\nUTI\nUncontrolled hypertension without emergency\n\nDischarge Condition:\nMental Status:Confused - always\nLevel of Consciousness:Lethargic but arousable\nActivity Status:Bedbound\n\nDischarge Instructions:\nSevere hypernatremia related to impaired thirst and decreased\noral hydration. The patient needs constant stimulation for oral\nhydration with a goal of >1500 ML of daily FLUIDS. She also\nneeds supervision for feeding.\n\nFollowup Instructions:\nFollow up with PCP : [**Name10 (NameIs) **],[**First Name3 (LF) **] S. [**Telephone/Fax (1) 608**]\n\n\n"
+    },
+    {
+      "note_id": 611922,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 1649,
+          "end": 1665,
+          "code": "Z99.3",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on wheelchair",
+          "type": "Human",
+          "covered_text": "wheelchair-bound"
+        },
+        {
+          "begin": 1773,
+          "end": 1786,
+          "code": "K44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Diaphragmatic hernia without obstruction or gangrene",
+          "type": "Human",
+          "covered_text": "Hiatal hernia"
+        },
+        {
+          "begin": 1808,
+          "end": 1829,
+          "code": "L89.159",
+          "code_system": "ICD-10-CM",
+          "description": "Pressure ulcer of sacral region, unspecified stage",
+          "type": "Human",
+          "covered_text": "Possible sacral ulcer"
+        },
+        {
+          "begin": 5983,
+          "end": 5996,
+          "code": "D75.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified diseases of blood and blood-forming organs",
+          "type": "Human",
+          "covered_text": "Macrocytosis:"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:  \"not acting herself\"\n   Reason for ICU admission:  Hypernatremia to 182\n   HPI:\n   Ms. [**Known lastname **] is a [**Age over 90 **]yo woman with h/o dementia who was noted by NH to be\n   acting strangely.  Although at baseline she has \"nonsensical speech,\"\n   for the last few days, she was seen moaning and holding her head in her\n   hands.  Her vital signs were noted to be normal.  Labs revealed Na of\n   175.  At her NH, she is listed as DNR/DNI/DNH, but a discussion was had\n   with the patient's daughter, and decision was made to send her to [**Hospital1 1**]\n   for treatment.\n   In the ED, initial VS were:  98.0   107/71   78   17   98%.  She was\n   awake but not verbal and not following commands.  She appeared\n   comfortable.  Labs revealed a Na of 177 and Cr of 2.4.  She was given\n   ceftriaxone for a positive UA.  Renal was contact[**Name (NI) **] and suggested 1/2NS\n   at 100cc/hr.  She was then sent to the ICU for further care.\n   Upon arrival to the ICU, she is sleeping comfortably but rousable.\n   Allergies:\n   Levaquin (Oral) (Levofloxacin)\n   Unknown;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   (per NH sheet):\n   ASA 81mg daily\n   Lisinopril 20mg daily\n   Simvastatin 40mg daily\n   Furosemide 20mg daily\n   Darvocet 100/650mg TID\n   Prilosec 40mg daily\n   Calcium with vitamin D 600/200 daily\n   Colace 100mg daily\n   Senna\n   MVI\n   Metamucil\n   Flovent 110mcg 2 puffs\n   Duoneb 0.5/3mg Q4H\n   Spiriva 18mcg\n   Past medical history:\n   Family history:\n   Social History:\n   Dementia:  at baseline has \"non-sensical speech,\" incontinent,\n   wheelchair-bound\n   Alzheimer's disease\n   CKD with baseline Cr 1.3-1.7 (in [**2188**])\n   HTN\n   Hyperlipidemia\n   UTIs\n   Hiatal hernia\n   Osteoarthritis\n   Possible sacral ulcer\n   PCP:  [**First Name8 (NamePattern2) 2379**] [**Last Name (NamePattern1) 10077**] [**Telephone/Fax (1) 10078**]\n   Not contributory\n   Lives at [**Hospital 1792**] [**Hospital **] Nursing Home: [**Telephone/Fax (1) 10079**], where she was\n   placed in [**2185**].  No further history available at present.\n   Review of systems:\n   Flowsheet Data as of [**2190-1-31**] 04:16 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.5\nC (97.7\n   Tcurrent: 36.5\nC (97.7\n   HR: 72 (72 - 76) bpm\n   BP: 120/41(60) {120/41(60) - 148/47(127)} mmHg\n   RR: 18 (17 - 22) insp/min\n   SpO2: 92%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 60 Inch\n             Total In:\n             1,165 mL\n   PO:\n             TF:\n   IVF:\n   165 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    100 mL\n   Urine:\n   100 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  1,065 mL\n   Respiratory\n   O2 Delivery Device: Nasal cannula\n   SpO2: 92%\n   Physical Examination\n   97.7   148/47   76    22   91% 2L\n   Light yellow urine in Foley.\n   Sleeping comfortably in bed, rouses minimally when she is being\n   examined and moans or shifts position.\n   Pupils are small b/l, right has some surgical changes.  Sclera are\n   non-icteric.\n   Resists oral exam, but lips are moist.\n   Neck is supple.  No thyroid enlargement or nodule.\n   S1, S2, RRR, +3/6 systolic murmur at apex, radiates to axilla.\n   Lungs are clear b/l with good air movement, although somewhat\n   diminished at bases.  No wheeze or crackles.\n   Abd:  +BS, soft, NT and not distended.\n   Skin:  No bruising or rash noted.\n   Neuro:  Minimally rousable.  Moves all extremities during exam.  Some\n   increased tone with cogwheeling in the LUE.  Has pneumoboots in place.\n   Ext:  Feet are warm, well-perfused.  DPs palpable b/l.\n   Labs / Radiology\n   177 mEq/L\n        [image002.jpg]\n   CXR [**1-30**] (dictated):\n   Elevation of the left hemidiaphram vs hiatal hernia.  Recommend lateral\n   view.  No consolidation, pneumonia, or pulm edema.   Possible widening\n   of mediastinum, which may be due to technique.\n   Assessment and Plan\n   A/P:  [**Age over 90 **]yo woman with h/o dementia found to have hypernatremia and\n   acute renal failure in the setting of altered mental status.\n   # Hypernatremia:\n   Likely due to poor access to free water in this demented elderly\n   woman.  Other possibilities include central or nephrogenic DI, though\n   these are considerably less likely.  Her free water deficit is 7.6-9.2L\n   (depending on whether her water is 50-60% of her body weight).  This\n   should be given over a 3 day period to correct her at 0.5mEq/hour.\n   Thus, D5W at just over 100cc/hr should correct her at the appropriate\n   rate.  Per renal recs, we will start with 1/2 NS and monitor serial\n   sodiums so as not to correct her too quickly\n   - 1/2 NS at 100cc/hr, adjust prn\n   - monitor Q4H serum sodium for now\n   - appreciate input from renal\n   - check Posm, Uosm, UNa\n   # Altered mental status:\n   Most probably from her hypernatremia and dehydration superimposed on\n   abnormal mental status at baseline.\n   - contact [**Name (NI) 122**] for further information as to her baseline\n   - treat hypernatremia and likely UTI\n   - avoid sedating meds\n   - monitor for delirium\n   # Acute renal failure:  baseline Cr 1.3-1.7, current Cr 2.4\n   Suspect that patient is dehydrated, and lasix and lisinopril may have\n   contributed to the toxicity of her prerenal state.  She received 1L of\n   NS in the ED.\n   - recheck Cr in AM\n   - send urine lytes\n   - hold lisinopril\n   # Possible UTI:\n   - continue ceftriaxone started in the ED (day 1 = [**1-30**])\n   - f/u urine culture\n   - patient's foley was placed in ED; will leave in for now given\n   hypernatremia\n   # Macrocytosis:  check folate and B12\n   # Abnormal CXR:\n   Noted to possibly have widened mediastinum and possible hiatal hernia\n   on recent CXR.\n   - recheck PA/lat CXR in AM\n   # HTN:\n   - hold lisinopril and lasix for now given ARF\n   - continue ASA\n   # Hyperlipidemia:  continue statin\n   # FEN:  NPO except meds for now until mental status better; IVF as\n   above\n   # PPx:  subQ heparin [**Hospital1 **] given size and age; famotidine while NPO\n   # Access:  PIV\n   # Code:  DNR/DNI (paperwork in chart)\n   # Comm:  Daughter [**First Name4 (NamePattern1) 919**] [**Known lastname **] (cell) [**Telephone/Fax (1) 10080**]; (home)\n   [**Telephone/Fax (1) 10081**].  Need to clarify goals of care with daughter.\n   # Dispo:  eventually to floor vs NH depending on goals of care\n"
+    }
+  ]
+}

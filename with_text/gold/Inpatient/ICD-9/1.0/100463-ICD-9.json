@@ -1,0 +1,104 @@
+{
+  "hadm_id": 100463,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 55049,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2174,
+          "end": 2178,
+          "code": "96.71",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous mechanical ventilation for less than 96 consecutive hours",
+          "type": "Human",
+          "covered_text": "Vent"
+        },
+        {
+          "begin": 2287,
+          "end": 2327,
+          "code": "V15.52",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "SDH with coma for 3 mo about 5 years ago"
+        },
+        {
+          "begin": 2351,
+          "end": 2361,
+          "code": "303.93",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified alcohol dependence, in remission",
+          "type": "MapType.EXACT",
+          "covered_text": "Alcoholism"
+        },
+        {
+          "begin": 2508,
+          "end": 2532,
+          "code": "V15.51",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "foot and ankle fractures"
+        },
+        {
+          "begin": 6895,
+          "end": 6903,
+          "code": "780.52",
+          "code_system": "ICD-9-CM",
+          "description": "Insomnia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "insomnia"
+        },
+        {
+          "begin": 8942,
+          "end": 8972,
+          "code": "349.82",
+          "code_system": "ICD-9-CM",
+          "description": "Toxic encephalopathy",
+          "type": "MapType.MULTI",
+          "covered_text": "Toxic-metabolic encephalopathy"
+        },
+        {
+          "begin": 9019,
+          "end": 9044,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "Human",
+          "covered_text": "Acute respiratory failure"
+        },
+        {
+          "begin": 9223,
+          "end": 9235,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 9236,
+          "end": 9250,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 9251,
+          "end": 9264,
+          "code": "786.2",
+          "code_system": "ICD-9-CM",
+          "description": "Cough",
+          "type": "Human",
+          "covered_text": "Chronic cough"
+        }
+      ],
+      "text": "Admission Date:  [**2109-7-29**]              Discharge Date:   [**2109-7-31**]\n\nDate of Birth:  [**2045-11-6**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**Last Name (un) 11220**]\nChief Complaint:\nAltered mental status\n\nMajor Surgical or Invasive Procedure:\nIntubation and extubation\n\n\nHistory of Present Illness:\n[**Hospital Unit Name 153**] Admission Note\n\nPrimary Care Physician:  [**Last Name (NamePattern4) **]. [**Last Name (STitle) 1437**] ([**Location (un) **])\nNeurologist: Dr. [**Last Name (STitle) **] ([**Location (un) **])\n\nChief Complaint:  respiratory failure and altered mental status\n\nReason for MICU transfer:  intubated\n\nHistory of Present Illness: 63 yo F (real name [**First Name5 (NamePattern1) **] [**Known lastname 11135**])\nwith PMHx of alcohol abuse with withdrawal seizures, a SDH s/p R\ncraniotomy, HTN and HL who presents intubated from [**Hospital1 2519**] for confusion.\n\nPer OSH records, patient fell the night prior to arrival on\ncousin's floor and struck her head; denied LOC, but c/o left\nbrow pain, heaache,  chipped tooth and sore R shoulder.  A\npreliminary head CT showed no acute intracranial abnormality\nwith chronic findings (old R parietal craniotomy, old R burr\nhole).  Labs were notable for lactate 1.2, normal chem 7, normal\nCBC, normal UA, ammonia 32 (WNL). Tox negative for ethanol,\nsalicylates, acetominophen.  The patient was intubated for\nfailure to oxygenate/ventilate and inability to protect airway\n(sedation and confusion). CXR showed R mainstem intubation-->\npulled back 1 cm and improved L lung aeration.\n\nIn the ED, initial VS were:  98.7, 91, 137/78, 21, 99%.  Labs\nnotable for UA with small WBC, Pos nitrite, few bact.  ABG\n7.33/41/421 on 450/100%.  Initially in the ED, she was \"fighting\nthe vent\" and was making purposeful movements of all 4\nextremities to attempt to remove the ETT, she was then heavily\nsedated in the ED with fentanyl and midazolam.  She received\n500mg azithromycin and 1g of ceftriaxone.  Neurology was\nconsulted who recommended EEG.\n\nOn arrival to the MICU, patient's VS.  94.5, 73, 97/64. Patient\nwas intubated and sedated.  Vent 450/12/40%/5.\n\nReview of systems:  unable to perform, patient intubated and\nsedated\n\n\nPast Medical History:\nSDH with coma for 3 mo about 5 years ago s/p Burr hole\nSeizures\nAlcoholism\nHTN\nHLD\nchronic cough of unclear etiology (sig second-hand smoke\nexposure)\nh/o colostomy for unclear reasons\n8 pregnancies (G8)\nh/o breast bx x 2\nfoot and ankle fractures\n\nSocial History:\nPatient lives alone in [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] in [**Hospital1 **]. She has a brother in\nlaw in the area but often spends time with her cousin, [**Name (NI) 553**],\nwho is local.  She is currently disabled.  Denies having any\nproblems with alcohol currently, but did before her stroke.\nDrinks 3 glasses of wine a night, no significant beer or liquor,\nCAGE negative, denies illicits or tobacco but her ex-husband\n(married for 25 years) smoked a lot\n\nFamily History:\n Mother died of congenital heart condition in her 40s.  Brother\ndied of an MI in his 60s.  Otherwise, denies.\n\n\nPhysical Exam:\nADMISSION EXAM\n94.5, 73, 97/64. Vent 450/12/40%/5.\nGeneral: sedated, non-responsive\nHEENT: Sclera anicteric, PERRL\nNeck: supple, JVP not elevated, no LAD\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nLungs: Clear to auscultation anterior lung fields, no wheezes,\nrales, ronchi\nAbdomen: soft, non-distended, bowel sounds present, no\norganomegaly, no tenderness to palpation, no rebound or guarding\n\nGU: no foley\nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: sedated, non-responsive\n\n\nPertinent Results:\nADMISSION LABS\n\n[**2109-7-29**] 05:44AM BLOOD WBC-4.7 RBC-3.51* Hgb-11.8* Hct-35.4*\nMCV-101* MCH-33.5* MCHC-33.2 RDW-13.7 Plt Ct-104*\n[**2109-7-29**] 05:44AM BLOOD PT-11.1 PTT-26.3 INR(PT)-1.0\n[**2109-7-29**] 05:44AM BLOOD UreaN-17 Creat-0.6\n[**2109-7-30**] 05:20AM BLOOD Glucose-100 UreaN-7 Creat-0.3* Na-139\nK-3.1* Cl-110* HCO3-22 AnGap-10\n[**2109-7-29**] 05:44AM BLOOD ALT-20 AST-24 LD(LDH)-275* CK(CPK)-138\nAlkPhos-81 TotBili-0.4\n[**2109-7-30**] 05:20AM BLOOD Calcium-7.0* Phos-2.2* Mg-1.9\n[**2109-7-29**] 05:44AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG\nBnzodzp-NEG Barbitr-NEG Tricycl-POS\n[**2109-7-29**] 05:57AM BLOOD Type-ART Tidal V-450 FiO2-100 pO2-421*\npCO2-41 pH-7.33* calTCO2-23 Base XS--4 AADO2-252 REQ O2-49\n-ASSIST/CON\n[**2109-7-29**] 06:30PM BLOOD Type-ART pO2-83* pCO2-36 pH-7.39\ncalTCO2-23 Base XS--2 Intubat-NOT INTUBARED\n\nMICRO\n\nIMAGING\nCXR 8.20\nA feeding tube is noted with tip at the level of the gastric\nantrum.  ET tube is at the carina and should be repositioned.\nBilateral low lung volumes are noted with crowding of\nbronchovascular markings.  Cardiac silhouette is accentuated by\nlow lung volumes.  Additionally, opacification at the left lung\nbase and in the retrocardiac region appears concerning for\neither pleural effusion versus atelectasis, infectious process\nsuch as pneumonia cannot be completely excluded in the correct\nclinical setting.\n\nCXR 8.21\nIn comparison with the study of [**7-29**], there again are lower lung\n\nvolumes.  Cardiac silhouette is within upper limits of normal or\nslightly\nenlarged.  Minimal poor definition of pulmonary vessels could\nreflect slight\nelevation of pulmonary venous pressure.  Blunting of\ncostophrenic angles could\nreflect small effusions or pleural thickening.\n\nNo definite pneumonia is appreciated, though in the appropriate\nclinical\nsetting a supervening consolidation would be difficult to\nexclude in lower\nzones.\n\n\nBrief Hospital Course:\n63 yo F with PMH alcohol abuse with seizures, SDH s/p burr hole\n5 years ago admitted with acute change in mental status.\n\n# Acute Respiratory Failure:  Patient arrived to the ICU\nintubated for respiratory failure in settting of acute\nconfusional state.  The patient's initial ABG was reassuring and\nshe was deemed able to extubate.  She was extubated on the day\nof arrival to the ICU and tolerated it well.  Her oxygen\nsaturation remained in the mid to high 90s on room air.  The\netiology of her respiratory was felt to be her toxic-metabolic\nencephalopathy as noted below.\n\n# Toxic-metabolic encephalopathy:  The patient presented with\nacute altered mental status with history of alcohol abuse and\nseizures, also with history of SDH s/p craniotomy 5 years ago.\nThe etiology was unclear, but the differential included alcohol\nwithdrawal/seizure, toxic metabolic (hepatic encephalopathy),\nCVA/ICH, sepsis, wernicke's encephalopathy.  UA unremarkable.\nAmmonia level normal.  Lactic acid WNL.  Drug induced possible,\nhome medications were difficult to clarify (the patient and her\nfamily were poor historians).  The patient showed no signs of\nalcohol withdrawl and required only one dose of diazepam on the\nCIWA protocol, which was mostly given for insomnia.  She was\ngiven thiamine.  Neurology was consulted and they performed an\nEEG, which showed no epileptiform activity.  The day of\ndischarge, she developed a headache, but a repeat head CT was\nnormal, and she felt better after Tylenol and ibuprofen so was\ndischarged to follow-up as an outpatient.\n\n# Chronic cough: the pt had a non-productive cough during your\nadmission, which has been present for several years, according\nto the patient.  She had no fevers, chills, oxygen requirement\nor leukocytosis, so she was not treated for a pneumonia, and she\nfelt this was at her baseline.  I suspect she may have COPD due\nto second hand smoke exposure (ex-husband smoked for 25 years\nwith her).  She should have outpatient PFTs done to further\nevaluate this.\n\n# Coordination of care: I attempted to speak with the patient's\nPCP and Neurologist, but neither were available by phone on the\nday of discharge.  They will be sent a copy of this summary.\n\n# Inactive issues: The patient was continued on her home\namitriptyline, fluoxetine, furosemide, gabapentin, topiramate,\nand methocarbamol.\n\nMedications on Admission:\nPreadmission medications listed are correct and complete.\nInformation was obtained from Family/CaregiverPharmacy.\n1. risedronate *NF* 35 mg Oral WEEKLY\n2. Amitriptyline 100 mg PO HS\n3. Klor-Con *NF* (potassium chloride) 40 mg Oral [**Hospital1 **]\n4. Furosemide 40 mg PO DAILY\n5. Methocarbamol [**Telephone/Fax (1) 22024**] mg PO Q6H:PRN muscle pain\n6. Gabapentin 1200 mg PO TID\n7. Fluoxetine 60 mg PO DAILY\n8. Topiramate (Topamax) 100 mg PO QAM\n9. Topiramate (Topamax) 200 mg PO HS\n\n\nDischarge Medications:\n1. Amitriptyline 100 mg PO HS\n2. Fluoxetine 60 mg PO DAILY\n3. Gabapentin 1200 mg PO TID\n4. Methocarbamol [**Telephone/Fax (1) 22024**] mg PO Q6H:PRN muscle pain\n5. Topiramate (Topamax) 100 mg PO QAM\n6. Topiramate (Topamax) 200 mg PO HS\n7. Furosemide 40 mg PO DAILY\n8. Klor-Con *NF* (potassium chloride) 40 mg Oral [**Hospital1 **]\n9. risedronate *NF* 35 mg Oral WEEKLY\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nToxic-metabolic encephalopathy of unclear etiology -- resolved\nspontaneously\nAcute respiratory failure related to above -- resolved\nspontaneously\nSubdural hematomat with coma for 3 months about 5 years ago\nstatus post Burr hole\nSeizures, possibly related to alcoholism in the past\nHypertension\nHyperlipidemia\nChronic cough of unclear etiology (significant second-hand smoke\nexposure)\nHistory of colostomy for unclear reasons\n8 pregnancies (G8)\nHistory of breast biopsy x 2\nFoot and ankle fractures\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou developed confusion at home, fell and struck your head,\nsuffering a headache, chipped tooth and sore R shoulder. You\nbecame progressively more confused until you were taken to\n[**Hospital1 18**]-[**Hospital1 **] where your evaluation included a head CT, which was\nunchanged from your prior (not normal due to your history of\nsubdural hemorrhage ~5 yrs ago with old R parietal craniotomy,\nold R burr hole). Lab testing was unremarkable.  You were\nintubated (placed on a breathing machine) because your mental\nstatus was so poor and you could not protect your airway and you\nwere transferred to [**Hospital1 18**]-[**Location (un) 86**]. Here you were quickly\nextubated (taken off the breathing machine) and you\nspontaneously improved. The Neurology consult team saw you and\ncould not explain what had happened.  You developed a headache\non the day of discharge, but a repeat head CT was normal, and\nyou felt better after Tylenol and ibuprofen so were discharged\nto follow-up as an outpatient.\n\nFollowup Instructions:\nPrimary Care\nPlease follow-up with your primary care doctor within the next\nfew weeks.  Dr. [**Last Name (un) **] (your [**Hospital1 18**]-[**Location (un) 86**] discharging\nphysician) called Dr. [**Last Name (STitle) 1437**], but he was unavailable.  After\nreviewing your discharge summary, his office will call you with\nan appointment.  Please be sure to discuss your medications and\npossible pulmonary function testing at this appointment.\n\nNeurology\nPlease follow-up with Dr. [**Last Name (STitle) **] as you had previously planned.\n\n\n                             [**Name6 (MD) **] [**Last Name (un) **] MD [**MD Number(2) 11224**]\n\nCompleted by:[**2109-7-31**]"
+    }
+  ]
+}

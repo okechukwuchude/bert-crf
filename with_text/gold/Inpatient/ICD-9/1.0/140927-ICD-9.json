@@ -1,0 +1,113 @@
+{
+  "hadm_id": 140927,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 38678,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 367,
+          "end": 412,
+          "code": "36.06",
+          "code_system": "ICD-9-PCS",
+          "description": "Insertion of coronary artery stent(s)",
+          "type": "MapType.MULTI",
+          "covered_text": "bare metal stent to the right\ncoronary artery"
+        },
+        {
+          "begin": 2242,
+          "end": 2262,
+          "code": "362.50",
+          "code_system": "ICD-9-CM",
+          "description": "Macular degeneration (senile) of retina, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Macular degeneration"
+        },
+        {
+          "begin": 7749,
+          "end": 7767,
+          "code": "428.21",
+          "code_system": "ICD-9-CM",
+          "description": "Systolic heart failure, acute",
+          "type": "Human",
+          "covered_text": "Acute systolic CHF"
+        },
+        {
+          "begin": 7884,
+          "end": 7896,
+          "code": "397.9",
+          "code_system": "ICD-9-CM",
+          "description": "Rheumatic diseases of endocardium, valve unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "TR and 1+MR."
+        },
+        {
+          "begin": 8933,
+          "end": 8940,
+          "code": "410.41",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myocardial infarction, of other inferior wall, initial episode of care",
+          "type": "Human",
+          "covered_text": "Inf MI:"
+        },
+        {
+          "begin": 10345,
+          "end": 10348,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 10627,
+          "end": 10642,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "Diabetes type 2"
+        },
+        {
+          "begin": 10910,
+          "end": 10930,
+          "code": "696.0",
+          "code_system": "ICD-9-CM",
+          "description": "Psoriatic arthropathy",
+          "type": "Human",
+          "covered_text": "Psoriatic Arthritis:"
+        },
+        {
+          "begin": 11046,
+          "end": 11056,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 11057,
+          "end": 11070,
+          "code": "296.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified episodic mood disorder",
+          "type": "Human",
+          "covered_text": "mood disorder"
+        },
+        {
+          "begin": 13293,
+          "end": 13316,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary Artery Disease"
+        }
+      ],
+      "text": "Admission Date:  [**2147-11-20**]              Discharge Date:   [**2147-11-25**]\n\nDate of Birth:  [**2071-5-13**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 1145**]\nChief Complaint:\nshortness of breath x 4-6 weeks\n\nMajor Surgical or Invasive Procedure:\ncardiac catheterization with bare metal stent to the right\ncoronary artery\n\n\nHistory of Present Illness:\nPatient is a 76 year-old female with a past medical history of\ndiabetes who presented to her PCP's office earlier today with\nworsening DOE x 4-6 weeks.  An ECG done at the PCP's office\nshowed old inferior q waves with new ST elevations in II,III,\naVF.  She was taken to BIDN, where labs at notable for CK 6.2\nand trop 0.014 at noon today.  On arrival to the ED there, her\ninitial vitals were  28-34, o2 sat 95% r/a, bp 151/94, hr 115,\nand she was becoming increasingly dyspneic.  She was started on\na heparin and integrillin gtt, given plavix 600 mg, aspirin 325,\nmetoprolol 5 IV, and transferred to [**Hospital1 18**] for urgent\ncatheterization.\n.\nIn the cath lab, patient was increasingly tacypneic and was thus\nintubated prior to the procedure.  There was a 100% occlusion of\nthe RCA, and a BMS was placed over this lesion.  She also had a\n90% diag, 90% mid LAD, 90% mid Lcx.  Right heart cath notable\nfor a PCWP 31, PA oressures 54/32.  She was given 40 mg IV Lasix\nand transferred to the CCU intubated.\n.\nOn review of systems, she denies any prior history of stroke,\nTIA, deep venous thrombosis, pulmonary embolism, bleeding at the\ntime of surgery, myalgias, joint pains, cough, hemoptysis, black\nstools or red stools. She denies recent fevers, chills or\nrigors. She denies exertional buttock or calf pain. All of the\nother review of systems were negative.\n.\nCardiac review of systems is notable for absence of chest pain,\ndyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,\nankle edema, palpitations, syncope or presyncope.\n\n\nPast Medical History:\n1. CARDIAC RISK FACTORS: + Diabetes, - Dyslipidemia, -\nHypertension\n2. CARDIAC HISTORY:\n- CABG:  None\n- PERCUTANEOUS CORONARY INTERVENTIONS:  None\n- PACING/ICD:  None\n3. OTHER PAST MEDICAL HISTORY:\npsoriatic arthritis\ndepression\nNIDDM\nMacular degeneration\nPAST SURGICAL HISTORY:\nAppendectomy, bilateral vein ligation, and right knee surgery.\ns/p right breast partial masectomy [**10-7**]\n\nSocial History:\nSOCIAL HISTORY: Pt lives alone, has daughter in [**Name (NI) 620**]. Was\npreviously independent. no history of smoking, alcohol, drugs,\nas per OSH documentation; patient intubated here\n\nFamily History:\nFAMILY HISTORY:\n- No family history of early MI, arrhythmia, cardiomyopathies,\nor sudden cardiac death; otherwise non-contributory.\n\nPhysical Exam:\nAdmission PE:\nVS: 98.1 93/53 71 16 98% intubated on 60% FIO2\nGENERAL: NAD, intubated\nHEENT: NCAT\nNECK: Supple\nCARDIAC: RR, normal S1, S2. No m/r/g.\nLUNGS: anterior lung fields clear to ausculation b/l\nABDOMEN: soft, nondistended, +BS\nEXTREMITIES:  no LE edema, warm, well perfused, with soft cast\non R leg\nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.\nPULSES:\nRight: Carotid 2+ DP 2+ PT 2+\nLeft: Carotid 2+ DP 2+ PT 2+\n..\nGENERAL: 76 yo F in no acute distress\nHEENT: no lymphadenopathy, JVP non elevated\nCHEST: crackles bibasilar, [**Month (only) **] from prior.\nCV: S1 S2 Normal in quality and intensity RRR,\nABD: soft, non-tender, non-distended, BS normoactive.\nEXT: wwp, no edema. DPs, PTs 2+.\nNEURO: CNs II-XII intact. 5/5 strength in U/L extremities. gait\nWNL.\nSKIN: no rash\nPSYCH: alert, oriented, fair understanding of medical condition.\n\n\n\nPertinent Results:\nAdmission labs:\n\n[**2147-11-20**] 05:14PM BLOOD WBC-10.3 RBC-3.68*# Hgb-11.2*# Hct-32.1*#\nMCV-87 MCH-30.5 MCHC-35.0 RDW-14.1 Plt Ct-259\n[**2147-11-20**] 11:31PM BLOOD Hct-27.9* Plt Ct-212\n[**2147-11-21**] 03:58AM BLOOD WBC-7.7 RBC-3.10* Hgb-9.7* Hct-27.3*\nMCV-88 MCH-31.3 MCHC-35.4* RDW-14.2 Plt Ct-199\n[**2147-11-21**] 02:00PM BLOOD WBC-8.3 RBC-3.81* Hgb-11.3* Hct-34.0*\nMCV-89 MCH-29.7 MCHC-33.3 RDW-14.2 Plt Ct-250\n[**2147-11-20**] 05:14PM BLOOD PT-15.0* PTT-93.7* INR(PT)-1.3*\n[**2147-11-22**] 05:52AM BLOOD PT-14.3* INR(PT)-1.2*\n[**2147-11-20**] 05:14PM BLOOD Glucose-141* UreaN-17 Creat-1.0 Na-142\nK-3.2* Cl-107 HCO3-21* AnGap-17\n[**2147-11-20**] 11:31PM BLOOD Na-143 K-3.9 Cl-107\n[**2147-11-21**] 03:58AM BLOOD Glucose-132* UreaN-15 Creat-0.9 Na-142\nK-4.0 Cl-107 HCO3-23 AnGap-16\n[**2147-11-21**] 02:00PM BLOOD Glucose-124* UreaN-14 Creat-1.0 Na-141\nK-3.5 Cl-104 HCO3-23 AnGap-18\n[**2147-11-20**] 05:14PM BLOOD CK-MB-7 cTropnT-0.01\n[**2147-11-20**] 11:31PM BLOOD CK-MB-6\n[**2147-11-21**] 03:58AM BLOOD CK-MB-5 cTropnT-0.04*\n[**2147-11-20**] 05:14PM BLOOD Calcium-9.2 Phos-5.0* Mg-1.7\n[**2147-11-21**] 03:58AM BLOOD Calcium-8.8 Phos-3.4# Mg-1.9 Cholest-90\n[**2147-11-21**] 02:00PM BLOOD Calcium-8.7 Phos-3.5 Mg-2.7*\n[**2147-11-21**] 11:00PM BLOOD Calcium-8.9 Phos-3.9 Mg-2.0\n[**2147-11-21**] 03:58AM BLOOD %HbA1c-6.4* eAG-137*\n[**2147-11-21**] 03:58AM BLOOD Triglyc-100 HDL-38 CHOL/HD-2.4 LDLcalc-32\n[**2147-11-20**] 05:57PM BLOOD Type-ART Temp-36.7 Rates-16/ Tidal V-450\nPEEP-5 FiO2-100 pO2-332* pCO2-38 pH-7.35 calTCO2-22 Base XS--3\nAADO2-346 REQ O2-62 -ASSIST/CON Intubat-INTUBATED\n[**2147-11-20**] 06:53PM BLOOD Type-ART Temp-36.8 Rates-16/ Tidal V-450\nPEEP-5 FiO2-60 pO2-135* pCO2-40 pH-7.37 calTCO2-24 Base XS--1\n-ASSIST/CON Intubat-INTUBATED\n\nD/C labs:\n\n[**2147-11-24**] 07:35AM BLOOD WBC-11.6* RBC-4.23 Hgb-13.2 Hct-38.4\nMCV-91 MCH-31.2 MCHC-34.4 RDW-13.9 Plt Ct-250\n[**2147-11-25**] 06:35AM BLOOD WBC-11.1* RBC-4.24 Hgb-13.0 Hct-38.2\nMCV-90 MCH-30.8 MCHC-34.1 RDW-13.7 Plt Ct-294\n[**2147-11-23**] 05:30PM BLOOD Glucose-119* UreaN-22* Creat-1.0 Na-141\nK-4.1 Cl-98 HCO3-32 AnGap-15\n[**2147-11-24**] 07:35AM BLOOD Glucose-130* UreaN-25* Creat-1.0 Na-141\nK-4.1 Cl-99 HCO3-35* AnGap-11\n[**2147-11-25**] 06:35AM BLOOD Glucose-111* UreaN-35* Creat-1.1 Na-140\nK-3.9 Cl-99 HCO3-33* AnGap-12\n[**2147-11-21**] 03:58AM BLOOD CK(CPK)-89\n[**2147-11-23**] 05:06AM BLOOD Calcium-9.1 Phos-2.7 Mg-2.3\n[**2147-11-23**] 05:30PM BLOOD Calcium-9.8 Phos-3.0 Mg-2.1\n[**2147-11-24**] 07:35AM BLOOD Calcium-9.6 Phos-3.8 Mg-2.1\n\nStudies:\nECHO: [**2147-11-21**]\nLeft ventricular wall thicknesses are normal. The left\nventricular cavity is dilated. Overall left ventricular systolic\nfunction is severely depressed (LVEF= 15 %) secondary to\nextensive apical akinesis, inferior posterior akinesis, and\nseptal akinesis with focal dyskinesis. The right ventricular\nfree wall thickness is normal. Right ventricular chamber size is\nnormal. with borderline normal free wall function. [Intrinsic\nright ventricular systolic function is likely more depressed\ngiven the severity of tricuspid regurgitation.] There are focal\ncalcifications in the aortic arch. The aortic valve leaflets (3)\nare mildly thickened but aortic stenosis is not present. No\naortic regurgitation is seen. The mitral valve leaflets are\nmildly thickened. There is no mitral valve prolapse. Mild (1+)\nmitral regurgitation is seen. The tricuspid valve leaflets are\nmildly thickened. Moderate to severe [3+] tricuspid\nregurgitation is seen. There is moderate pulmonary artery\nsystolic hypertension. There is no pericardial effusion.\n\nCath [**2147-11-20**]\nFINAL DIAGNOSIS:\n1. Three vessel coronary artery disease.\n2. Severe diastolic ventricular dysfunction.\n3. Inferior wall STEMI.\n4. Acute occlusion at the level of mid-RCA successfully treated\nwith a\nbare metal Vision stent(3.0 x 12 mm).\n\n\nBrief Hospital Course:\nASSESSMENT & PLAN:\n76 year-old female with a past medical history of diabetes who\npresented to her PCP's office with worsening DOE x 4-6 weeks,\nfound to have ST elevations in inferior leads and now s/p BMS to\nmid-RCA, 3-vessel disease on cath.\n.\n# Acute systolic CHF: A post cath ECHO showed that the patient\nhad an EF of 15% with apical/septal/poterior AK and focal DK.\nAlso has 3+ TR and 1+MR.  [**Name13 (STitle) 17221**] than being an acute change, her\npoor heart function was though to be a more chronic progression\nover thelast few months.  This is consistent with the patient's\ndescription of NHYA class [**3-2**] symptoms at home. The patient\ninitially had crackles on exam, that improved during the\nhospitalization, as well as no peripheral edema.  Initially the\npatient was very tachypneic during the cath, and was intubated.\nShe also received 40 mg IV lasix at the time and made good\nurine.  Her respiratory status continued to improve as fluid was\ntaken off. The patient did no have an oxygen requirment on\ndischarge, and was sent home on Torsemide 40 mg daily.  The\npatient was also medically optimized for her CHF and started on\nmetoprolol, atorvastatin, and her home lisinopril dose was\nincreased.  She was also started on spironolactone.  The patient\nshould have a repeat ECHO in about one month to assess for any\nchanges in her heart failure now that she has been started on a\nheart failure medication regimen.\n.\n# Inf MI:  The patient was found to have old Q waves in the\ninferior leads, as well as new ST elevations in II, III, and\naVF.  The patient did not make troponins, with peak being 0.04.\nShe was taken to the cath lab and found to have a 100% occlusion\nof the RCA, and a BMS was placed over this lesion.  She also had\na 90% diag, 90% mid LAD, 90% mid Lcx. Other vessels not stented\nbecause of distal nature of occlusions.  The patient was started\non ASA 325 mg, as well as plavix 75 mg for at least one month.\nPost procedure, the patient was continued on integrillin drip\nfor 18 hours.  The patient was found to have an A1c of 6.4. Her\nlipid panel showed TC 90, TG 100, HDL 38, and LDL of 32.  The\npatient was started on atorvastatin 80 mg daily.\n.\n# elevated wedge/respiratory status: Pt was increasingly\ntachypneic prior to cath and was intubated, on assist control\nwith TV 450 cc, resp rate 16, PEEP 5, on 60% FIO2. Also found to\nhave right heart cath notable for a PCWP 31, PA oressures 54/32.\nShe was given 40 mg IV Lasix and transferred to the CCU\nintubated.  Right heart cath notable for a PCWP 31, PA oressures\n54/32.  She was given 40 mg IV Lasix and transferred to the CCU\nintubated.  The patient was extubated the next morning, and\ndiuresis was continued, and her respiratory status continued to\nimprove.  The patient was discharged on torsemide, and was\ninstructed to follow up labs as an outpatient.\n.\n# HTN:  The patient's home dose of lisinopril was increased from\n2.5 mg daily to 5 mg daily, and she was started on metoprolol\n12.5 mg [**Hospital1 **], that was later transitioned to 50 mg of metoprolol\nsuccinate daily.  The patient was also started on spironlactone\n12.5 daily.\n.\n# Diabetes type 2: The patient was taken metformin at home; it\nwas held during the hospitalization and she was kept on humalog\nsliding scale.  While in patient, she required minimal amounts\nof insulin and A1c was found to be 6.4.  She was discharged on\nher home dose of metformin.\n.\n# Psoriatic Arthritis:  The patient was continued on her home\ndose of methotrexate.  She has a rheumatologist at NWH who\nfollows her.\n.\n# Depression/mood disorder: The patient is followed by\noutpatient psychiatrist.  Her lithium and effexor were initially\nheld, but then restarted after she was extubated.  The patient\nhad a lithium level that was checked, which was normal.\n..\nTransitional Issues:\n- the patient will need to have her lytes checked on [**12-1**] and\nhave her results faxed to her primary care doctor's office.\n- the patient will need to have a repeat ECHO done, as she has\nbeen started on medications for her heart failure.\n\n\nMedications on Admission:\nLisinopril 2.5mg PO Daily\nMetformin 850mg PO BID\nMethotrexate 2.5mg tabs 6 tabs by mouth once weekly\nFolic acid 1mg PO daily\nEffexor 75mg PO TID\nLithium 300mg tabs, 2 tabs by mouth [**Hospital1 **] (1200mg total) (managed\nby Dr. [**Last Name (STitle) 85917**]\n\nDischarge Medications:\n1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n2. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n3. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n4. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n5. spironolactone 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n6. venlafaxine 75 mg Tablet Sig: One (1) Tablet PO TID (3 times\na day).\n7. lithium carbonate 300 mg Capsule Sig: Two (2) Capsule PO BID\n(2 times a day).\n8. metformin 850 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n9. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n10. metoprolol succinate 50 mg Tablet Extended Release 24 hr\nSig: One (1) Tablet Extended Release 24 hr PO once a day.\nDisp:*30 Tablet Extended Release 24 hr(s)* Refills:*2*\n11. torsemide 20 mg Tablet Sig: Two (2) Tablet PO once a day.\nDisp:*60 Tablet(s)* Refills:*2*\n12. Outpatient Lab Work\nPlease check basic metabolic profile on [**12-1**]. Please fax\nresults to Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 483**]  at [**Hospital1 18**] [**Location (un) 620**].\n13. methotrexate sodium 2.5 mg Tablet Sig: Six (6) Tablet PO\nonce a week.\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nCare Group Home Care\n\nDischarge Diagnosis:\nCoronary Artery Disease\nMyocardial Infarction, not acute\nAcute Systolic Dysfunction\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDear Ms. [**Known lastname 10351**],\n\nYou had increasing shortness of breath at home that is from\ncongestive heart failure and an old heart attack. You had some\nchanges on your ECG and was transferred to [**Hospital1 18**] for a cardiac\ncatheterization. A stent was placed in your right coronary\nartery and you have other blockages that were not fixed at this\ntime. You were started on aspirin and clopidogrel, Plavix, to\nkeep the stent from clotting off. Do not stop taking plavix or\naspirin for any reason unless Dr. [**Last Name (STitle) **] tells you it is OK. You\nrisk having another heart attack if you do not take these\nmedicines. The plan is to treat you with medicines to help your\nheart pump better and recover from the heart attack. Your heart\nfunction is very weak after the heart attack and you will need\nto take all of your medicines every day and check for any fluid\nbuild up. Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes\nup more than 3 lbs.You also need to follow a low sodium diet.\n.\nWe made the following changes to your medicines:\n1. START taking aspirin 325mg (not baby) and clopidogrel every\nday for at least one month and possibly longer to keep the stent\nfrom clotting off\n2. START taking metoprolol to lower your heart rate and help\nyour heart pump better.\n3. Increase the lisinopril to lower your blood pressure and help\nyour heart pump better\n4. START taking atorvastatin to lower your cholesterol\n5. START taking spironolactone daily to help your heart pump\nbetter\n6. START taking torsemide daily to get rid of extra fluid\n\nPlease have electrolytes checked with your primary care\nphysician [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 483**]. An order for these blood tests will be\nprovided in your discharge paperwork.\n\nFollowup Instructions:\nDepartment: [**Hospital **] HEALTHCARE OF [**Location (un) **]\nWhen: FRIDAY [**2147-12-1**] at 10:00 AM\nWith: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 85918**], MD [**Telephone/Fax (1) 3070**]\nBuilding: None [**Location (un) **]\nCampus: OFF CAMPUS     Best Parking: Parking on Site\n\nDepartment: CARDIAC SERVICES\nWhen: TUESDAY [**2147-12-26**] at 9:00 AM\nWith: [**Name6 (MD) **] [**Name8 (MD) 10828**], MD [**Telephone/Fax (1) 62**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\n\n\nCompleted by:[**2147-11-27**]"
+    }
+  ]
+}

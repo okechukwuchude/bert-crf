@@ -1,0 +1,174 @@
+{
+  "hadm_id": 149623,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 8174,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 281,
+          "end": 296,
+          "code": "348.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified condition of brain",
+          "type": "MapType.APPROX",
+          "covered_text": "R parietal mass"
+        },
+        {
+          "begin": 616,
+          "end": 635,
+          "code": "348.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified condition of brain",
+          "type": "MapType.APPROX",
+          "covered_text": "right parietal mass"
+        },
+        {
+          "begin": 991,
+          "end": 994,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 995,
+          "end": 1015,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Hypercholesterolemia"
+        },
+        {
+          "begin": 1016,
+          "end": 1019,
+          "code": "600.00",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "MapType.APPROX",
+          "covered_text": "BPH"
+        },
+        {
+          "begin": 1053,
+          "end": 1071,
+          "code": "477.8",
+          "code_system": "ICD-9-CM",
+          "description": "Allergic rhinitis due to other allergen",
+          "type": "MapType.APPROX",
+          "covered_text": "Seasonal allergies"
+        },
+        {
+          "begin": 1098,
+          "end": 1131,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "remote 25 pack yr smoking history"
+        },
+        {
+          "begin": 4364,
+          "end": 4376,
+          "code": "276.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hyposmolality and/or hyponatremia",
+          "type": "Human",
+          "covered_text": "hyponatremic"
+        },
+        {
+          "begin": 4605,
+          "end": 4626,
+          "code": "600.00",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "MapType.APPROX",
+          "covered_text": "Prostatic Hypertrophy"
+        },
+        {
+          "begin": 6517,
+          "end": 6528,
+          "code": "239.6",
+          "code_system": "ICD-9-CM",
+          "description": "Neoplasm of unspecified nature of brain",
+          "type": "MapType.EXACT",
+          "covered_text": "Brain Tumor"
+        }
+      ],
+      "text": "Admission Date:  [**2106-10-29**]              Discharge Date:   [**2106-11-5**]\n\nDate of Birth:  [**2041-4-13**]             Sex:   M\n\nService: NEUROSURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 3227**]\nChief Complaint:\nR parietal mass\n\nMajor Surgical or Invasive Procedure:\nCrainiotomy for tumor resection\n\n\nHistory of Present Illness:\nThis is a 65-year-old gentleman who initially\npresented with left hand numbness as well as tingling\nassociated with difficulty placing his hand in space. His\nwork-up ultimately included MRI of the head that revealed a\nright parietal mass, as well as a small contrast enhancing\nregion in the left cerebellum consistent with metastasis.\nWork-up revealed a left upper lung mass as well. The patient\npresents for a combined mediastinoscopy as well as a right\ncraniotomy for tumor resection. The mediastinoscopy will be\nseparately dictated by Dr. [**Last Name (STitle) **].\n\n\nPast Medical History:\nHTN\nHypercholesterolemia\nBPH (prostate bx 18 mo ago negative)\nSeasonal allergies\n\nSocial History:\nTobacco: remote 25 pack yr smoking history\nAlcohol: 2 beers per night\nIllicits: denies, no IVDA.\nNo herbal remedies.\n\n\nFamily History:\nFather - died of CHF aged 89\nMother - died of a stroke aged 73 (also had rheumatoid\narthritis)\n4 Siblings:\nNon-identical twin siblings: brother has ulcerative colitis and\n\nsister has diverticulitis\nOne sister died of AML aged 55\nA brother has OA\n\nPhysical Exam:\nA&Ox3, PERRL, follows commands, tongue midline, smile symmetric,\nno pronator drift. Strength is full [**5-31**]. Poor coordination of\nhis left hand (baseline)\n\nPertinent Results:\nMRI [**10-31**]:There is a new right frontal/parietal craniotomy.\nSubacute blood\nproducts are present at the site of the resected right frontal\nmass. There is hyperemia and mild linear enhancement along the\nmedial and superior margins of the surgical cavity. There is a\nsmall right subdural collection, a small right epidural\ncollection, and a small right subgaleal collection. Vasogenic\nedema in the right cerebral hemisphere has decreased in extent\ncompared to [**2106-10-11**]. A 4 mm enhancing mass in the\nleft cerebellar hemisphere is unchanged. A left parietal\ndevelopment venous anomaly is again seen. No new enhancing\nlesions are seen. The ventricles are normal in size.\n\nMRI [**10-29**]: Head Accounting for differences in head angulation and\npositioning, there is slight increase in the right parietal lobe\nmass but with decrease in the surrounding edema. The right\nfrontal lobe lesion currently measures 2.2 cm CC x 2.7 cm AP x\n2.5 cm TV dimensions compared to prior measurements of 2.2 x 1.7\nx 2.0 cm. There is less mass effect on the ventricles.\nThere is also a subtle enhancing lesion in the left cerebellum\nadjacent to\nthe tentorium. Ventricles and sulci are unchanged in size and\nconfiguration. There is no acute ischemia.\n\n[**2106-10-30**] 02:55AM BLOOD WBC-19.4*# RBC-4.45* Hgb-12.4* Hct-36.2*\nMCV-81* MCH-27.8 MCHC-34.1 RDW-14.2 Plt Ct-186\n[**2106-10-30**] 02:55AM BLOOD PT-12.3 PTT-22.0 INR(PT)-1.0\n[**2106-10-30**] 02:55AM BLOOD Glucose-179* UreaN-27* Creat-0.7 Na-134\nK-4.7 Cl-97 HCO3-27 AnGap-15\n[**2106-10-31**] 07:15AM BLOOD Phenyto-10.0\n[**2106-11-4**] 06:45AM BLOOD WBC-9.0 RBC-3.92* Hgb-11.1* Hct-31.9*\nMCV-81* MCH-28.3 MCHC-34.7 RDW-14.9 Plt Ct-151\n[**2106-11-4**] 06:45AM BLOOD Plt Ct-151\n[**2106-11-4**] 06:45AM BLOOD Glucose-99 UreaN-18 Creat-0.6 Na-133\nK-4.1 Cl-101 HCO3-26 AnGap-10\n[**2106-11-4**] 06:40AM BLOOD Phenyto-8.4*\n\nBrief Hospital Course:\nOn [**10-29**] Mr. [**Known lastname **] [**Last Name (Titles) 1834**] a R Parietal Crani for tumor\nresection. During that time he [**Last Name (Titles) 1834**] a biopsy of his LUL by\nThoracics. He tolerated both procedures well and was trasferred\nto the floor where he was neurologically stable. He did have LUE\nataxia and alt. proprioception which was at his baseline during\nthat time.\n\nHe did have confusion during the night on a couple of occasions\nand on [**11-1**] had a fall and hit head. There was a sm. amount of\nnew blood on CT however pt was neurologically stable. Subsequent\nCTs revealed no evidence of hematoma expansion.  His neurologic\nstatus continued to improve.  By POD2, he was consistently\ncoherent and without episodes of confusion.\n\nRoutine post-op serum electrolyte check revealed that he was\nhyponatremic (Na 132) and was started on fluid restriction and\nsalt tabs. The restriction and salt tab was tapered\nsubsequently.  By the time of discharge, his Na was 133 without\nfluid restriction or salt taps.\n\nThe patient has a history of Prostatic Hypertrophy and had\nvoiding difficulties post-op.  The urology service was called\nand a foley was placed.  Per urology recommendation, the patient\nwill go home with the Foley and a leg bag.  He will follow up\nwith the urology service after discharge.\n\nThe patient took in adequate POs and he worked well with PT/OT\nand was cleared for home with PT services.  His left hand\ncoordination had significantly improved by the time of\ndischarge.\n\nMedications on Admission:\nFlomax\nLisinopril\nSimvastatin\nASA\n\nDischarge Medications:\n1. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed.\n2. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n3. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)\nCapsule, Sust. Release 24 hr PO once a day: take 30 min after a\nmeal daily.\nDisp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*1*\n5. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed.\n6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ4H (every 4 hours) as needed.\nDisp:*30 Tablet(s)* Refills:*0*\n7. Docusate Sodium 100 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n8. Levaquin 500 mg Tablet Sig: One (1) Tablet PO once a day for\n7 days.\nDisp:*7 Tablet(s)* Refills:*0*\n9. Keflex 250 mg Capsule Sig: One (1) Capsule PO four times a\nday for 7 days.\nDisp:*28 Capsule(s)* Refills:*0*\n10. Dexamethasone 2 mg Tablet Sig: One (1) Tablet PO please\nfollow directions below: qid x 3days\ntid x 3days\n[**Hospital1 **] x 4days\nqc x2 4days\n\n.\nDisp:*33 Tablet(s)* Refills:*1*\n11. Keppra 500 mg Tablet Sig: One (1) Tablet PO twice a day.\nDisp:*60 Tablet(s)* Refills:*2*\n12. Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO TID\n(3 times a day).\nDisp:*90 Tablet(s)* Refills:*2*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nSouthshore VNA\n\nDischarge Diagnosis:\nBrain Tumor\n\n\nDischarge Condition:\nStable\n\n\nDischarge Instructions:\n\nFollowup Instructions:\nPLEASE CALL [**Telephone/Fax (1) **] TO SCHEDULE AN APPOINTMENT WITH DR.\n[**First Name (STitle) **] TO BE SEEN IN [**3-30**] WEEKS.\nYOU WILL NOT NEED AN MRISCAN OF THE BRAIN WITH and WITHOUT\nCONTRAST which will be arranged by the Brain tumor [**Date Range **]. Other\nappointments that are scheduled for you are as follow:\n\n[**2106-11-16**]  01:00p   Dr. [**Last Name (STitle) **],[**First Name3 (LF) **] A.\n  South Campus [**Hospital Ward Name **] CENTER, [**Location (un) **] UROLOGY\n\n[**2106-11-15**]  09:30a   Dr. [**Last Name (STitle) **],[**First Name3 (LF) **] [**Hospital **] [**Hospital **]\n  South Campus [**Hospital Ward Name **] CENTER, [**Location (un) **] NEUROLOGY UNIT\n  Phone:[**Telephone/Fax (1) 44**]\n[**2106-11-11**]  09:30a   [**Last Name (LF) **],[**First Name3 (LF) **] MULTI-SPECIALTY\n  South Campus [**Hospital Ward Name **] CLINICAL CTR, [**Location (un) **] MULTI-SPECIALTY\nTHORACIC UNIT-CC9\n\n[**2106-11-11**]  09:30a  Hematology/Oncology:  Dr. [**First Name (STitle) **],[**First Name3 (LF) **] J.\n  South Campus [**Hospital Ward Name **] CLINICAL CTR, [**Location (un) **]\n\nThis urology appointment was made for you to address your\nurinary retention, if you are unable to make this appointment\nplease call the office to re-schedual.\n\nProvider: [**Last Name (NamePattern4) **]. [**First Name (STitle) **] [**Doctor Last Name **] Phone:[**Telephone/Fax (1) 274**]\nDate/Time:[**2106-11-16**] 1:00PM\n\nBelow are appointments that were in the system and are reminders\nfor you.\nProvider: [**Name10 (NameIs) 13644**],NURSE [**First Name (Titles) 13644**] [**Last Name (Titles) **] Date/Time:[**2106-11-18**] 2:00\nProvider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], [**Name Initial (NameIs) **].D. Phone:[**Telephone/Fax (1) 250**]\nDate/Time:[**2106-12-29**] 9:30\n\n\n\nCompleted by:[**2106-11-9**]"
+    },
+    {
+      "note_id": 538272,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 74,
+          "end": 81,
+          "code": "348.5",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral edema",
+          "type": "Human",
+          "covered_text": "w/edema"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   65M w/new mass lesions LUL and [**Doctor Last Name 414**] w/edema no shift.admission exam\n   LUE ataxia, alt proprioception.  S/P mediastinoscopy and crni with\n   pariet lobe resection\n   Chief complaint:\n   Brain Mass\n   PMHx:\n   HTN, Dyslipidemia, BPH\n   Current medications:\n   20 mEq Potassium Chloride / 1000 mL D5NS 2. Docusate Sodium 3.\n   Famotidine 4. Gentamicin 5. HYDROmorphone (Dilaudid)\n   6. Heparin 7. Influenza Virus Vaccine 8. Labetalol 9. Phenytoin 10.\n   Phenytoin 11. Potassium Phosphate\n   12. Senna 13. Vancomycin\n   24 Hour Events:\n ARTERIAL LINE - START [**2106-10-29**] 06:44 PM\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Gentamicin - [**2106-10-30**] 02:00 AM\n   Infusions:\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2106-10-29**] 10:00 PM\n   Other medications:\n   Flowsheet Data as of  [**2106-10-30**] 07:55 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**10**] a.m.\n   Tmax: 36.7\nC (98.1\n   T current: 36.6\nC (97.8\n   HR: 68 (67 - 84) bpm\n   BP: 111/52(71) {111/52(71) - 164/90(118)} mmHg\n   RR: 13 (10 - 24) insp/min\n   SPO2: 94%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                    700 mL\n                                                                    788 mL\n   PO:\n             Tube feeding:\n   IV Fluid:\n                                                                    700 mL\n                                                                    788 mL\n   Blood products:\n   Total out:\n                                                                  1,110 mL\n                                                                    770 mL\n   Urine:\n                                                                  1,110 mL\n                                                                    770 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                   -410 mL\n                                                                     18 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SPO2: 94%\n   ABG: ///27/\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft\n   Left Extremities: (Edema: Absent)\n   Right Extremities: (Edema: Absent)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   186 K/uL\n   12.4 g/dL\n   179 mg/dL\n   0.7 mg/dL\n   27 mEq/L\n   4.7 mEq/L\n   27 mg/dL\n   97 mEq/L\n   134 mEq/L\n   36.2 %\n   19.4 K/uL\n        [image002.jpg]\n                             [**2106-10-30**]  02:55 AM\n   WBC\n   19.4\n   Hct\n   36.2\n   Plt\n   186\n   Creatinine\n   0.7\n   Glucose\n   179\n   Other labs: PT / PTT / INR:12.3/22.0/1.0, Ca:8.2 mg/dL, Mg:2.3 mg/dL,\n   PO4:4.8 mg/dL\n   Assessment and Plan\n   .H/O HYPERTENSION, BENIGN, PULMONARY NODULE (LUNG NODULE), [**Last Name **]\n   PROBLEM - ENTER DESCRIPTION IN COMMENTS\n   Parietal Mass, .H/O DYSLIPIDEMIA (CHOLESTEROL, TRIGLYCERIDE, LIPID\n   DISORDER)\n   Assessment and Plan: 65M w/new mass lesions LUL and [**Doctor Last Name 414**] w/edema no\n   shift.admission exam LUE ataxia, alt proprioception.  S/P\n   mediastinoscopy and crni with pariet lobe resection\n   Neurologic: Neuro checks Q: 2 hr, Pain controlled\n   Cardiovascular: stable\n   Pulmonary: stable\n   Gastrointestinal / Abdomen:\n   Nutrition: Regular diet\n   Renal: Foley\n   Hematology:\n   Endocrine:\n   Infectious Disease: vanc/gent\n   Lines / Tubes / Drains: Foley\n   Wounds:\n   Imaging:\n   Fluids:\n   Consults: Neuro surgery\n   Billing Diagnosis: Post-op complication\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Comments: stable\n   Lines:\n   Arterial Line - [**2106-10-29**] 06:44 PM\n   18 Gauge - [**2106-10-29**] 06:44 PM\n   16 Gauge - [**2106-10-29**] 06:44 PM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status:\n   Disposition: Transfer to floor\n   Total time spent: 31 minutes\n"
+    },
+    {
+      "note_id": 538274,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 224,
+          "end": 234,
+          "code": "348.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified condition of brain",
+          "type": "MapType.APPROX",
+          "covered_text": "Brain Mass"
+        },
+        {
+          "begin": 252,
+          "end": 264,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 3126,
+          "end": 3138,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI",
+          "covered_text": "HYPERTENSION"
+        },
+        {
+          "begin": 3140,
+          "end": 3164,
+          "code": "793.11",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "BENIGN, PULMONARY NODULE"
+        },
+        {
+          "begin": 3263,
+          "end": 3275,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "DYSLIPIDEMIA"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   65M w/new mass lesions LUL and [**Doctor Last Name 414**] w/edema no shift.admission exam\n   LUE ataxia, alt proprioception.  S/P mediastinoscopy and crni with\n   pariet lobe resection\n   Chief complaint:\n   Brain Mass\n   PMHx:\n   HTN, Dyslipidemia, BPH\n   Current medications:\n   20 mEq Potassium Chloride / 1000 mL D5NS 2. Docusate Sodium 3.\n   Famotidine 4. Gentamicin 5. HYDROmorphone (Dilaudid)\n   6. Heparin 7. Influenza Virus Vaccine 8. Labetalol 9. Phenytoin 10.\n   Phenytoin 11. Potassium Phosphate\n   12. Senna 13. Vancomycin\n   24 Hour Events:\n ARTERIAL LINE - START [**2106-10-29**] 06:44 PM\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Gentamicin - [**2106-10-30**] 02:00 AM\n   Infusions:\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2106-10-29**] 10:00 PM\n   Other medications:\n   Flowsheet Data as of  [**2106-10-30**] 07:55 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**10**] a.m.\n   Tmax: 36.7\nC (98.1\n   T current: 36.6\nC (97.8\n   HR: 68 (67 - 84) bpm\n   BP: 111/52(71) {111/52(71) - 164/90(118)} mmHg\n   RR: 13 (10 - 24) insp/min\n   SPO2: 94%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                    700 mL\n                                                                    788 mL\n   PO:\n             Tube feeding:\n   IV Fluid:\n                                                                    700 mL\n                                                                    788 mL\n   Blood products:\n   Total out:\n                                                                  1,110 mL\n                                                                    770 mL\n   Urine:\n                                                                  1,110 mL\n                                                                    770 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                   -410 mL\n                                                                     18 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SPO2: 94%\n   ABG: ///27/\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft\n   Left Extremities: (Edema: Absent)\n   Right Extremities: (Edema: Absent)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   186 K/uL\n   12.4 g/dL\n   179 mg/dL\n   0.7 mg/dL\n   27 mEq/L\n   4.7 mEq/L\n   27 mg/dL\n   97 mEq/L\n   134 mEq/L\n   36.2 %\n   19.4 K/uL\n        [image002.jpg]\n                             [**2106-10-30**]  02:55 AM\n   WBC\n   19.4\n   Hct\n   36.2\n   Plt\n   186\n   Creatinine\n   0.7\n   Glucose\n   179\n   Other labs: PT / PTT / INR:12.3/22.0/1.0, Ca:8.2 mg/dL, Mg:2.3 mg/dL,\n   PO4:4.8 mg/dL\n   Assessment and Plan\n   .H/O HYPERTENSION, BENIGN, PULMONARY NODULE (LUNG NODULE), [**Last Name **]\n   PROBLEM - ENTER DESCRIPTION IN COMMENTS\n   Parietal Mass, .H/O DYSLIPIDEMIA (CHOLESTEROL, TRIGLYCERIDE, LIPID\n   DISORDER)\n   Assessment and Plan: 65M w/new mass lesions LUL and [**Doctor Last Name 414**] w/edema no\n   shift.admission exam LUE ataxia, alt proprioception.  S/P\n   mediastinoscopy and crni with pariet lobe resection\n   Neurologic: Neuro checks Q: 2 hr, Pain controlled\n   Cardiovascular: stable\n   Pulmonary: stable\n   Gastrointestinal / Abdomen:\n   Nutrition: Regular diet\n   Renal: Foley\n   Hematology:\n   Endocrine:\n   Infectious Disease: vanc/gent\n   Lines / Tubes / Drains: Foley\n   Wounds:\n   Imaging:\n   Fluids:\n   Consults: Neuro surgery\n   Billing Diagnosis: Post-op complication\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Comments: stable\n   Lines:\n   Arterial Line - [**2106-10-29**] 06:44 PM\n   18 Gauge - [**2106-10-29**] 06:44 PM\n   16 Gauge - [**2106-10-29**] 06:44 PM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status:\n   Disposition: Transfer to floor\n   Total time spent: 31 minutes\n"
+    }
+  ]
+}

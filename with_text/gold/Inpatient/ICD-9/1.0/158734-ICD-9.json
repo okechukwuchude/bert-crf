@@ -1,0 +1,185 @@
+{
+  "hadm_id": 158734,
+  "comment": "Burr Hole Craniotomy for evacuation of SDH- Missing OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 48799,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 505,
+          "end": 512,
+          "code": "V12.51",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of venous thrombosis and embolism",
+          "type": "Human",
+          "covered_text": "RUE DVT"
+        },
+        {
+          "begin": 937,
+          "end": 940,
+          "code": "576.1",
+          "code_system": "ICD-9-CM",
+          "description": "Cholangitis",
+          "type": "MapType.APPROX",
+          "covered_text": "PSC"
+        },
+        {
+          "begin": 1125,
+          "end": 1136,
+          "code": "135",
+          "code_system": "ICD-9-CM",
+          "description": "Sarcoidosis",
+          "type": "Human",
+          "covered_text": "Sarcoidosis"
+        },
+        {
+          "begin": 1176,
+          "end": 1184,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "diabetes"
+        },
+        {
+          "begin": 1189,
+          "end": 1196,
+          "code": "278.00",
+          "code_system": "ICD-9-CM",
+          "description": "Obesity, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Obesity"
+        },
+        {
+          "begin": 1201,
+          "end": 1213,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1246,
+          "end": 1258,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 1263,
+          "end": 1271,
+          "code": "355.1",
+          "code_system": "ICD-9-CM",
+          "description": "Meralgia paresthetica",
+          "type": "MapType.APPROX",
+          "covered_text": "Meralgia"
+        },
+        {
+          "begin": 1581,
+          "end": 1597,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "smoking but quit"
+        },
+        {
+          "begin": 5938,
+          "end": 5943,
+          "code": "V54.16",
+          "code_system": "ICD-9-CM",
+          "description": "Aftercare for healing traumatic fracture of lower leg",
+          "type": "MapType.APPROX",
+          "covered_text": "right"
+        },
+        {
+          "begin": 5956,
+          "end": 5960,
+          "code": "V54.12",
+          "code_system": "ICD-9-CM",
+          "description": "Aftercare for healing traumatic fracture of lower arm",
+          "type": "MapType.APPROX",
+          "covered_text": "left"
+        },
+        {
+          "begin": 7014,
+          "end": 7028,
+          "code": "572.2",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatic coma",
+          "type": "Human",
+          "covered_text": "encephalopathy"
+        },
+        {
+          "begin": 7089,
+          "end": 7098,
+          "code": "571.5",
+          "code_system": "ICD-9-CM",
+          "description": "Cirrhosis of liver without mention of alcohol",
+          "type": "MapType.APPROX",
+          "covered_text": "Cirrhosis"
+        },
+        {
+          "begin": 7252,
+          "end": 7286,
+          "code": "852.21",
+          "code_system": "ICD-9-CM",
+          "description": "Subdural hemorrhage following injury, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "Human",
+          "covered_text": "Acute on chronic subdural hematoma"
+        },
+        {
+          "begin": 7605,
+          "end": 7624,
+          "code": "814.00",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of carpal bone, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Fracture left wrist"
+        },
+        {
+          "begin": 7605,
+          "end": 7640,
+          "code": "824.8",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified fracture of ankle, closed",
+          "type": "MapType.APPROX",
+          "covered_text": "Fracture left wrist and right ankle"
+        },
+        {
+          "begin": 7804,
+          "end": 7812,
+          "code": "V54.17",
+          "code_system": "ICD-9-CM",
+          "description": "Aftercare for healing traumatic fracture of vertebrae",
+          "type": "MapType.APPROX",
+          "covered_text": "fracture"
+        },
+        {
+          "begin": 7927,
+          "end": 7935,
+          "code": "053.9",
+          "code_system": "ICD-9-CM",
+          "description": "Herpes zoster without mention of complication",
+          "type": "Human",
+          "covered_text": "Shingles"
+        },
+        {
+          "begin": 9260,
+          "end": 9263,
+          "code": "327.23",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "MapType.EXACT",
+          "covered_text": "OSA"
+        }
+      ],
+      "text": "Admission Date:  [**2106-7-9**]              Discharge Date:   [**2106-7-20**]\n\nDate of Birth:  [**2045-2-10**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPenicillins / Kiwi (Actinidia Chinensis) / Cipro I.V. / Nsaids\n\nAttending:[**First Name3 (LF) 4393**]\nChief Complaint:\nLethargy, N/V\n\nMajor Surgical or Invasive Procedure:\nL burr hole craniotomy for evacuation of SDH\n\n\nHistory of Present Illness:\n61yo M with multiple medical problems including cirrhosis\n(reportedly on transplant list) and RUE DVT on lovenox, s/p MVC\n[**2106-6-25**] with SDH at that time, discharged to nursing facility on\n[**7-5**].  Woke this morning feeling lethargic; + HA; + n/v.\nPresented to the ED, where a repeat head CT was performed which\nshowed acute on subacute subdural hematoma overlying the left\nfrontotempoparietal convexity with 3 mm midline shift to the\nright. Basilar cisterns patent.\n\n\nPast Medical History:\n1. Cirrhosis secondary to PSC and hepatic sarcoid, previously\ndecompensated with hepatic encephalopathy. No hx of SBP,\n+varices, + variceal bleed [**4-/2106**], undergoing transplant work-up\nat [**Hospital1 **]\n2. Sarcoidosis (pt states this is resolved)\n3. Type 2 diabetes.\n4. Obesity.\n5. Hypertension (pt states this is resolved)\n6. Dyslipidemia.\n7. Meralgia paraesthetica.\n8. Recurrent thrombophlebitis - most recent bilateral LE dvt\n[**11/2105**]\n\n\nSocial History:\nMr. [**Known lastname 13751**] has retired from his teaching position last [**Month (only) 956**],\npreviously taught history. Denies recent etoh. Denies IVDU. The\npatient has a 30-pack-year history of smoking but quit 20 years\nago. Lives alone in walk up apartment. Still smokes marijuana.\nCurrently undergoing transplant evaluation at [**Hospital1 498**].\n\n\nFamily History:\nMother with diabetes and CAD. Father with diabetes, brother and\nsister with diabetes, white coat hypertension in maternal\nfamily, paternal grandmother with cervical cancer and breast\ncancer. No other cancers noted. No other heart disease.\n\nPhysical Exam:\nAdmission exam\nO: T: 98.9 BP: 111/52         HR: 66   R  16     O2Sats 100%\nGen: WD/WN, lethargic, NAD.\nHEENT: Pupils: 4->3        EOMs intact, no nystagmus\nNeck: Supple.\nLungs: CTA bilaterally.\nCardiac: RRR. S1/S2.\nAbd: Soft, NT, BS+\nExtrem: Warm and well-perfused.\nNeuro:\nMental status: Awake, lethargic, cooperative with exam, normal\naffect.\nOrientation: Oriented to person, place, but not date.\nLanguage: Speech fluent with good comprehension and repetition.\nNaming intact. No dysarthria or paraphasic errors.\n\nCranial Nerves:\nI: Not tested\nII: Pupils equally round and reactive to light, to\nmm bilaterally. Visual fields are full to confrontation.\nIII, IV, VI: Extraocular movements intact bilaterally without\nnystagmus.\nV, VII: Facial strength and sensation intact and symmetric.\nVIII: Hearing intact to voice.\nIX, X: Palatal elevation symmetrical.\n[**Doctor First Name 81**]: Sternocleidomastoid and trapezius normal bilaterally.\nXII: Tongue midline without fasciculations.\n\nMotor: Normal bulk and tone bilaterally. No abnormal movements,\ntremors. Strength full power [**5-22**] throughout. No pronator drift.\nStrength exam limited by external fixator on RLE and cast on LUE\n\nSensation: Intact to light touch, propioception, pinprick and\nvibration bilaterally.\n\nReflexes: B T Br Pa Ac\nNormal\n\nToes downgoing bilaterally\n\nHandedness Right\n\nDischarge exam\nVitals: Tm/c 98.7 72 114/64  20  100%ra FBS 191\nGENERAL: Awake, laying in bed, coherent but confused on some\nquestions. Looks better than he has in previously days\nHEENT: Sclera icteric, PERRL, C-collar in place\nCV: Normal rate, regular rhythm, no m/r/g\nPULM: Lungs CTA b/l posteriorly\nABD: Soft, nontender, nondistended, NABS\nEXT: Right ankle with external fixator, b/l pedal edema; left\nwrist with well-healing scar from ORIF\nNEU: no asterixis, AAOx2, coherent but confused on some\nquestions. Moves all extremities, sensation intact, EOMI, PERRL.\n\n\nPertinent Results:\nAdmission labs\n[**2106-7-9**] 05:45PM BLOOD WBC-4.4 RBC-3.68* Hgb-12.2* Hct-37.9*\nMCV-103* MCH-33.3* MCHC-32.3 RDW-18.2* Plt Ct-224#\n[**2106-7-9**] 05:45PM BLOOD PT-14.0* PTT-48.4* INR(PT)-1.3*\n[**2106-7-9**] 05:45PM BLOOD Glucose-158* UreaN-11 Creat-1.2 Na-136\nK-4.0 Cl-102 HCO3-27 AnGap-11\n[**2106-7-9**] 05:45PM BLOOD ALT-22 AST-57* AlkPhos-365* TotBili-2.7*\n[**2106-7-9**] 05:45PM BLOOD Albumin-2.9* Calcium-9.5 Phos-2.5* Mg-2.0\n\nDischarge labs\n[**2106-7-18**] 09:20AM BLOOD WBC-4.1 RBC-3.40* Hgb-11.5* Hct-35.1*\nMCV-103* MCH-33.8* MCHC-32.7 RDW-16.5* Plt Ct-145*\n[**2106-7-17**] 06:50AM BLOOD PT-15.5* PTT-41.5* INR(PT)-1.5*\n[**2106-7-18**] 09:20AM BLOOD Glucose-272* UreaN-10 Creat-1.1 Na-137\nK-4.3 Cl-109* HCO3-20* AnGap-12\n[**2106-7-16**] 03:43PM BLOOD ALT-22 AST-67* LD(LDH)-281* AlkPhos-418*\nTotBili-2.0*\n[**2106-7-18**] 09:20AM BLOOD Calcium-8.5 Phos-2.5* Mg-1.6\n\nHead CT [**7-9**]\n1. Acute on subacute/chronic subdural hematoma overlying the\nleft\nfrontoparietotemporal convexity with 3 mm of midline shift to\nthe right.\nBasilar cisterns are patent.  No hydrocephalus.\n2. Large bulging parotid glands with less fat than usual.\nCorrelate with\nphysical exam and clinical picture, consider normal variant\nversus a chronic inflammatory process; the appearance is\nunchanged however.\n\nHead CT [**7-10**]\nStable appearance of acute-on-chronic left subdural collection\nas\ndescribed above.\n\nRUE doppler ultrasound\nNo DVT\n\nRUQ U/S: 1.  Cirrhotic liver.  No focal liver lesions visualized\non this limited exam.\n2.  Patent portal veins with stable reversal of flow consistent\nwith portal hypertension. No recanalization of the paraumbilical\nvein, splenomegaly, or ascites.\n\nHead CT [**7-15**]:  No significant change from [**2106-7-13**].  No new\nhemorrhage.\n\nBrief Hospital Course:\nMr [**Known lastname 13751**] is 61yoM with h/o PSC cirrhosis c/b variceal bleed,\nhepatic encephalopathy, recent UE DVT treated with Lovenox, b/l\nLE DVTs, t2DM, s/p [**Known lastname 8751**] on [**2106-6-25**] with right tib/fib fx, left\nwrist fx, s/p ORIF, C7fx, discharged [**2106-6-30**], readmitted [**2106-7-10**]\nwith acute on subacute SDH\n\nPt was admitted to the neurosurgery service for further\nobservation and care. He was admitted to the ICU for strict SBP\ncontrol and q1 neuro checks. His repeat CT head on [**7-10**] appeared\nstable. He was found to have mild RUE weakness on exam and he\nwas planned for the OR for burr hole craniotomies on [**7-11**]. On\n[**7-11**] he underwent L burr hole craniotomy without complication.\nPost operatively he returned to the SICU for further care. On\npost op exam he was non focal and CT head showed no acute\nhemorrhage. He continued to have altered mental status, and was\nthought to have an exacerbation of hepatic encephalopathy. He\nwas then transferred to the hepatology service\n\nHe was found to have Bilateral sup. fem and popliteal DVTs.\nGiven SDH's, systemic anti-coagulation was not indicated.\nHeme-onc was consulted and recommended against IVC filter.\nDecided to use heparin 5000units SQ TID until he is fully\nambulating.\n\nHis hepatic encephalopathy was treated w/ lactulose and\nrifaximin, and he improved.\n\n# Cirrhosis: Secondary to PSC, complicated by variceal bleeds in\npast. Continues on lactulose, rifaximin, furosemide, nadolol.\nActive T&S kept while inpatient.\n.\n#  Acute on chronic subdural hematoma: Patient s/p evacuation\nwith burr hole placement on [**2106-7-11**].  Head CTs showed no\nre-accumulation. Started on phenytoin for seizure prophylaxis,\nand will continue on this till NSGY f/u in [**Month (only) 216**]. If he\ndevelops severe headaches and neurologic deficits, he should be\nre-evaluated immediately.\n.\n#Fracture left wrist and right ankle: s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8751**], [**First Name3 (LF) **] f/u with\northo (Dr [**Last Name (STitle) **] in 2 weeks time\n.\n# C7 fracture: f/u with neurosurgery in 8 weeks, w/ CT C and T\nspine at that time. Should continue in neck brace until then.\n.\n#Shingles: located on his back. Completed a 7 day total course\nof acyclovir\n.\n#CODE: Full\n#CONTACT:  [**First Name8 (NamePattern2) 2048**] [**Last Name (NamePattern1) 12528**]  [**Telephone/Fax (1) 102546**]\n.\n# TRANSITIONAL ISSUES\n1. Needs to be on heparin sq TID on discharge for DVT ppx\n2. Needs to wear c-collar until neurosurgery f/u.\n\n\nMedications on Admission:\nenoxaparin\nlasix 20qD\nhydroxyzine\nLantus\nlactulose PRN\nnadolol 20 qD\nomeprazole\nrifaximin 550 [**Hospital1 **]\ncrestor\nsucralfate\n\n\nDischarge Medications:\n1. Heparin 5000 UNIT SC TID\n2. Furosemide 20 mg PO DAILY\nhold for SBP<100\n3. Glargine 15 Units Dinner\nInsulin SC Sliding Scale using HUM Insulin\n4. Lactulose 60 mL PO TID\n5. Nadolol 20 mg PO DAILY\n6. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN Pain\nRX *oxycodone 5 mg 1 Capsule(s) by mouth every four (4) hours\nDisp #*80 Tablet Refills:*0\n7. Rifaximin 550 mg PO BID\n8. Sucralfate 1 gm PO TID\n9. Multivitamins 1 TAB PO DAILY\n10. Fish Oil (Omega 3) 1000 mg PO DAILY\n11. HydrOXYzine 25 mg PO BID:PRN anxiety\n12. Omeprazole 40 mg PO DAILY\n13. Rosuvastatin Calcium 5 mg PO DAILY\n14. Ursodiol 500 mg PO TID\n15. Phenytoin (Suspension) 100 mg PO Q8H\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 85**] - [**Location (un) 86**]\n\nDischarge Diagnosis:\nSubdural hematoma\nlethargy\nhepatic encephalopathy\nOSA\nhypertension\ncirrhosis\nShingles\nDiabetes mellitus type 2\n\n\nDischarge Condition:\nMental Status: Confused - always.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Out of Bed with assistance to chair or\nwheelchair.\n\n\nDischarge Instructions:\nDear Mr [**Known lastname 13751**],\n\nIt was a pleasure taking care of you at [**Hospital1 18**]. You were admitted\nfor a bleed in your head, for which you had a procedure. You\nwere also found to have blood clots. You should not receive\nhigh-dose anti-coagulation ever again, though we are sending you\nout on low-dose anti-coagulation. You also had altered mental\nstatus from your liver disease (hepatic encephalopathy), which\nwas treated with medications.\n\n??????\tExercise should be limited to walking; no lifting, straining,\nor excessive bending.\n??????\tYour wound was closed with sutures/staples. You may wash your\nhair only after sutures and/or staples have been removed.\n??????\tYou may shower before this time using a shower cap to cover\nyour head.\n??????\tUnless directed by your doctor, do not take any\nanti-inflammatory medicines such as Motrin, Aspirin, Advil, and\nIbuprofen etc.\n??????\tYou have been prescribed Dilantin (Phenytoin) for anti-seizure\nmedicine, take it as prescribed and follow up with laboratory\nblood drawing in one week.  This can be drawn at your PCP??????s\noffice, but please have the results faxed to [**Telephone/Fax (1) 87**].\n??????\tClearance to drive and return to work will be addressed at\nyour post-operative office visit.\n\t\n\nFollowup Instructions:\nDepartment: LIVER CENTER\nWhen: THURSDAY [**2106-7-22**] at 1:40 PM\nWith: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 8507**], MD [**Telephone/Fax (1) 2422**]\nBuilding: LM [**Hospital Unit Name **] [**Location (un) 858**]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\nDepartment: ORTHOPEDICS\nWhen: TUESDAY [**2106-8-3**] at 9:40 AM\nWith: ORTHO XRAY (SCC 2) [**Telephone/Fax (1) 1228**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 551**]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\nDepartment: ORTHOPEDICS\nWhen: TUESDAY [**2106-8-3**] at 10:00 AM\nWith: [**First Name11 (Name Pattern1) 2191**] [**Last Name (NamePattern4) 2192**], NP [**Telephone/Fax (1) 1228**]\nBuilding: [**Hospital6 29**] [**Location (un) 551**]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\n[**2106-8-23**]  02:00p   [**Last Name (LF) **],[**First Name3 (LF) **] L.\n  LM [**Hospital Ward Name **] BLDG ([**Doctor First Name **]), [**Location (un) **]\n  NEUROSURGERY WEST (NHB)\n\n[**2106-8-23**]  01:15p   XCT [**Apartment Address(1) 9394**] [**Hospital Ward Name **]\n  CC [**Location (un) **], [**Location (un) **]\n  RADIOLOGY\n\n[**2106-8-23**]  01:00p   XCT [**Apartment Address(1) 9394**] [**Hospital Ward Name **]\n  CC [**Location (un) **], [**Location (un) **]\n  RADIOLOGY\n\n[**2106-8-5**]  10:00a   PODIATRY,[**Doctor Last Name 722**]\n  BA [**Hospital Unit Name **] ([**Hospital Ward Name **] COMPLEX), [**Location (un) **]\n  [**Hospital 1947**] CLINIC (SB)\n  Create Visit Summary\n\n\n                             [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number(2) 4407**]\n\n"
+    }
+  ]
+}

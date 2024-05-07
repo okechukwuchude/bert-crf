@@ -1,0 +1,158 @@
+{
+  "hadm_id": 105983,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 38450,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 263,
+          "end": 269,
+          "code": "038.49",
+          "code_system": "ICD-9-CM",
+          "description": "Other septicemia due to gram-negative organisms",
+          "type": "Human",
+          "covered_text": "sepsis"
+        },
+        {
+          "begin": 644,
+          "end": 648,
+          "code": "585.6",
+          "code_system": "ICD-9-CM",
+          "description": "End stage renal disease",
+          "type": "Human",
+          "covered_text": "ESRD"
+        },
+        {
+          "begin": 649,
+          "end": 667,
+          "code": "V45.11",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "requiring dialysis"
+        },
+        {
+          "begin": 1570,
+          "end": 1577,
+          "code": "V42.7",
+          "code_system": "ICD-9-CM",
+          "description": "Liver replaced by transplant",
+          "type": "MapType.APPROX",
+          "covered_text": "s/p OLT"
+        },
+        {
+          "begin": 1771,
+          "end": 1826,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "Tobacco [**12-22**] pack\nx 20 years (quit in [**5-29**]"
+        },
+        {
+          "begin": 7297,
+          "end": 7336,
+          "code": "00.17",
+          "code_system": "ICD-9-PCS",
+          "description": "Infusion of vasopressor agent",
+          "type": "MapType.APPROX",
+          "covered_text": "He required vasopressors upon admission"
+        },
+        {
+          "begin": 7760,
+          "end": 7837,
+          "code": "V66.7",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for palliative care",
+          "type": "Human",
+          "covered_text": "The family made a decision to withdraw\nlife support including vasopressors on"
+        },
+        {
+          "begin": 8169,
+          "end": 8178,
+          "code": "96.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Insertion of endotracheal tube",
+          "type": "Human",
+          "covered_text": "intubated"
+        },
+        {
+          "begin": 8180,
+          "end": 8219,
+          "code": "96.71",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous mechanical ventilation for less than 96 consecutive hours",
+          "type": "Human",
+          "covered_text": "He remained intubated until he expired."
+        },
+        {
+          "begin": 8258,
+          "end": 8278,
+          "code": "008.45",
+          "code_system": "ICD-9-CM",
+          "description": "Intestinal infection due to clostridium difficile",
+          "type": "Human",
+          "covered_text": "C. difficile colitis"
+        },
+        {
+          "begin": 8295,
+          "end": 8298,
+          "code": "99.15",
+          "code_system": "ICD-9-PCS",
+          "description": "Parenteral infusion of concentrated nutritional substances",
+          "type": "Human",
+          "covered_text": "TPN"
+        },
+        {
+          "begin": 8346,
+          "end": 8358,
+          "code": "276.7",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperpotassemia",
+          "type": "MapType.EXACT",
+          "covered_text": "hyperkalemia"
+        },
+        {
+          "begin": 8553,
+          "end": 8566,
+          "code": "54.91",
+          "code_system": "ICD-9-PCS",
+          "description": "Percutaneous abdominal drainage",
+          "type": "MapType.APPROX",
+          "covered_text": "paracenthesis"
+        },
+        {
+          "begin": 8703,
+          "end": 8728,
+          "code": "038.49",
+          "code_system": "ICD-9-CM",
+          "description": "Other septicemia due to gram-negative organisms",
+          "type": "Human",
+          "covered_text": "The Klebsiella\nbacteremia"
+        },
+        {
+          "begin": 9401,
+          "end": 9404,
+          "code": "V49.86",
+          "code_system": "ICD-9-CM",
+          "description": "Do not resuscitate status",
+          "type": "Human",
+          "covered_text": "DNR"
+        },
+        {
+          "begin": 10178,
+          "end": 10192,
+          "code": "427.5",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac arrest",
+          "type": "MapType.APPROX",
+          "covered_text": "cardiac arrest"
+        }
+      ],
+      "text": "Admission Date:  [**2105-7-4**]              Discharge Date:   [**2105-7-12**]\n\nDate of Birth:  [**2043-5-24**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 5569**]\nChief Complaint:\nsepsis\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\n62M w/HCV and EtOH cirrhosis, s/p liver [**First Name3 (LF) **] [**2104-11-30**],\nnow presenting with fever and hypotension with pressor\nrequirement after HD today.  Mr. [**Known lastname **] has had a complex course\nsince his [**Known lastname **], including wash-out for intra-abdominal\nhemorrhage, ESRD requiring dialysis, recurrent HCV, pneumonia\nwith right empyema, and C. diff colitis.  He was most recently\ndischarged from [**Hospital1 18**] on [**2105-6-23**] for his c.diff infection.  He\nwas\ndoing well at rehab, and had HD today, which went without\nincident.  After completion, they noted that he was hypotensive\nto the 80's and febrile to 103, and he was brought to our ED for\nevaluation.  His wife reports his stools are still loose, but\nare\ndecreased in amount and the character is improved since\ncompleting c. diff treatment.  History is obtained from the\npatient's wife and [**Name (NI) **], as the patient is a very poor historian\nand is mostly non-verbal currently\n\nPast Medical History:\nrecurrent hepatitis C with the suspicion of fibrosing\ncholestatic hepatitis\ns/p ERCP on [**2105-2-24**] with biliary stent placement\nHCV; VL on [**2104-12-15**] was 32.6 million\nHCV/ETOH cirrhosis w/ hepatorenal syndrome s/p OLT [**2104-11-30**]\nIntra-abdominal hemorrhage\nMalnutrition\nVRE UTI\n\nSocial History:\nETOH history 5-6 years ago > 14 drinks/week secondary to\nbrothers death at age 50. Last drink [**2104-5-20**], Tobacco [**12-22**] pack\nx 20 years (quit in [**5-29**]), remote marijuana, no IVDU.\n\nFamily History:\nMom survived MI age 35, Father died age 59 of alcoholic\ncirrhosis. One brother died age 50 of ?mesothelioma. Sister had\n[**Location (un) 38204**] 12 yrs ago. Other four sibs are alive and well.\nOne niece survived ruptured brain aneurism in her 30s. No other\nfamily h/o liver disease, heart disease, or cancer.\n\n\nPhysical Exam:\nPE on admission:\nVitals: T 99.5, HR 128, BP 89/46, RR 16, O2 100%\nGen: sleepy but arousable, oriented x3; sclerae anicteric\nCV: tachycardic, no appreciable murmur\nResp: right-sided crackles and decreased breath sounds at base,\ndullness to percussion right base; left lung cta\nAbd: soft, non-tender, moderately distended, +fluid wave;\nincisions well-healed; - [**Doctor Last Name **] sign\nExtr: warm, 1+ pulses\nDRE: no gross blood, guaiac negative\n\nPE on discharge:\n- no vital signs, no resppirtaion, no pulse, no heart sounds, no\npupillary reflexes\n\nPertinent Results:\nimaging:\n[**2105-7-3**] Dupplex abdomen\n1. Patent portal and hepatic veins and hepatic arteries with\nnormal systolic upstroke.\n2. Coarsened liver with echogenic area in the left lobe\ncompatible with a\nresolving hematoma or complex fluid collection. Simple hepatic\ncyst also\nseen.\n3. Moderate-to-large amount of ascites.\n\n[**2105-7-4**] CT abdomen/pelvis\n1. Bilateral pleural effusions with compressive atelectasis.\n2. Dobbhoff tube curled twice, once in the stomach, once in the\nesophagus.\n3. Moderate to extensive ascites.\n4. Diffuse colitis, nonspecific in appearance but certainly\ncould be related to patient's known C. diff infection.\n\n[**2105-7-10**] CXR\nLarge bilateral pleural effusions and right basal atelectasis\nunchanged\nacutely. No pneumothorax. A feeding tube and a nasogastric tube\nends in the upper stomach. Right jugular line tip projects over\nthe low SVC. Heart is not enlarged. No pneumothorax.\n\nlaboratory:\n[**2105-7-3**] 07:30PM BLOOD WBC-17.0*# RBC-2.70* Hgb-9.1* Hct-30.8*\nMCV-114*# MCH-33.8* MCHC-29.6* RDW-18.3* Plt Ct-80*\n[**2105-7-4**] 06:36PM BLOOD WBC-34.6* RBC-2.53* Hgb-8.7* Hct-26.7*\nMCV-105* MCH-34.5* MCHC-32.8 RDW-19.2* Plt Ct-88*\n[**2105-7-6**] 01:52AM BLOOD WBC-13.5*# RBC-2.90* Hgb-9.6* Hct-28.2*\nMCV-97 MCH-33.2* MCHC-34.2 RDW-19.3* Plt Ct-68*\n[**2105-7-7**] 01:42AM BLOOD WBC-9.8 RBC-3.54* Hgb-11.4* Hct-33.0*\nMCV-93 MCH-32.2* MCHC-34.6 RDW-19.4* Plt Ct-53*\n[**2105-7-10**] 09:27AM BLOOD WBC-12.4* RBC-3.21* Hgb-10.5* Hct-31.7*\nMCV-99* MCH-32.6* MCHC-33.0 RDW-19.8* Plt Ct-33*\n[**2105-7-3**] 07:30PM BLOOD PT-22.9* PTT-48.2* INR(PT)-2.1*\n[**2105-7-4**] 01:37PM BLOOD Plt Ct-92*\n[**2105-7-6**] 01:52AM BLOOD PT-38.1* PTT->150* INR(PT)-3.9*\n[**2105-7-10**] 09:27AM BLOOD PT-51.0* PTT-88.0* INR(PT)-5.4*\n[**2105-7-10**] 09:27AM BLOOD Plt Smr-VERY LOW Plt Ct-33*\n[**2105-7-3**] 07:30PM BLOOD Glucose-553* UreaN-18 Creat-2.5*# Na-123*\nK-3.2* Cl-92* HCO3-18* AnGap-16\n[**2105-7-4**] 02:16AM BLOOD Glucose-72 UreaN-22* Creat-2.9* Na-135\nK-3.4 Cl-99 HCO3-15* AnGap-24*\n[**2105-7-4**] 01:37PM BLOOD Glucose-43* UreaN-25* Creat-3.4* Na-133\nK-4.0 Cl-97 HCO3-12* AnGap-28*\n[**2105-7-7**] 01:42AM BLOOD Glucose-89 UreaN-42* Creat-4.7* Na-129*\nK-3.1* Cl-99 HCO3-16* AnGap-17\n[**2105-7-7**] 04:45PM BLOOD Glucose-93 UreaN-19 Creat-2.6*# Na-136\nK-3.7 Cl-102 HCO3-26 AnGap-12\n[**2105-7-10**] 01:33AM BLOOD Glucose-133* UreaN-23* Creat-2.4* Na-137\nK-3.7 Cl-104 HCO3-25 AnGap-12\n[**2105-7-10**] 09:27AM BLOOD Glucose-145* UreaN-25* Creat-2.7* Na-138\nK-4.7 Cl-104 HCO3-27 AnGap-12\n[**2105-7-3**] 07:30PM BLOOD ALT-79* AST-172* AlkPhos-214*\nTotBili-5.4*\n[**2105-7-4**] 02:16AM BLOOD ALT-104* AST-239* AlkPhos-188* Amylase-73\nTotBili-5.5*\n[**2105-7-7**] 01:42AM BLOOD ALT-134* AST-197* AlkPhos-162*\nTotBili-13.0*\n[**2105-7-10**] 01:33AM BLOOD ALT-63* AST-83* AlkPhos-181*\nTotBili-21.3*\n[**2105-7-10**] 09:27AM BLOOD ALT-60* AST-76* AlkPhos-181*\nTotBili-22.0*\n[**2105-7-3**] 07:30PM BLOOD Albumin-1.8* Calcium-6.3* Phos-1.3*\nMg-1.6\n[**2105-7-8**] 03:03AM BLOOD Albumin-2.4* Calcium-8.1* Phos-2.8 Mg-1.9\n[**2105-7-10**] 09:27AM BLOOD Albumin-2.5* Calcium-8.3* Phos-3.9#\nMg-2.3\n[**2105-7-3**] 07:41PM BLOOD pH-7.31*\n[**2105-7-4**] 02:41AM BLOOD Type-ART pO2-118* pCO2-29* pH-7.35\ncalTCO2-17* Base XS--7\n[**2105-7-10**] 08:58AM BLOOD Type-ART Temp-36.4 pO2-50* pCO2-47*\npH-7.35 calTCO2-27 Base XS-0 Intubat-NOT INTUBA\n[**2105-7-10**] 12:50PM BLOOD Type-ART pO2-160* pCO2-38 pH-7.39\ncalTCO2-24 Base XS--1\n\nmicrobiology:\n[**2105-7-3**] blood culture\nKLEBSIELLA PNEUMONIAE.\n         IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE #\n326-4714B\n         [**2105-7-3**].\n\n[**2105-7-5**] blood culture\n    LACTOBACILLUS SPECIES.\n         Isolated from only one set in the previous five days.\n\n   Anaerobic Bottle Gram Stain (Final [**2105-7-7**]):\n      Reported to and read back by [**First Name9 (NamePattern2) 85588**] [**Last Name (un) 6977**] @ 1810 ON\n[**7-7**] - CC6C.\n      GRAM POSITIVE ROD(S).\n      IN CHAINS.\n[**2105-7-8**] Bclx - pend\n[**2105-7-9**] Bclx - pend\n[**2105-7-10**] Bclx - pend\n\nBrief Hospital Course:\nPatient was admitted to the [**Year (4 digits) **] surgery service with the\nbacteremia and sepsis. He was admitted to the ICU.\n\nNeuro: Since the time of admission patient was arousable and\nresponded to commands. He remained at his baseline until the day\nhe decompensated when his metal status has worsened and upon\nintubation, required no sedation. He received minimal pain\nmedications for abdominal pain/discomfort.\n\nCV: The patient was initially stable from a cardiovascular\nstandpoint. He required vasopressors upon admission, in the next\n48 hours he was weaned of the pressors. He developed vasopressor\nrequirement and became hemodynamically unstable approximately 48\nhour prior to his demise. Following the aspiration event on the\nfloor level of care on [**7-10**], patient was transferred to ICU,\nwhere he drooped his systolic blood pressure shortly after. He\nwas on one vasopressor for the 24 hours, later on 2 pressors,\nyet his sbp was in 70s. The family made a decision to withdraw\nlife support including vasopressors on [**7-12**] in the early\nmid-afternoon. Patient expired several hours after.\n\nPulmonary: The patient remained stable from a pulmonary\nstandpoint initially. On [**7-10**] he vomited and aspirated. His\noxygen saturation dropped and he was transferred to the ICU. His\noxygen saturation was low, his mental status worsened, thus he\nwas intubated. He remained intubated until he expired.\n\nGI/GU/FEN: Patient was found to have C. difficile colitis. He\nwas fed via TPN. The electrolytes was initially repleated. The\nhyperkalemia was treated with kayaxylate. Patient also [**Month/Year (2) 1834**]\nCVVH. The CVVH no longer continued after [**7-10**], when patient was\nintubated, due to family wishes. Patient had diagnostis\nparacenthesis, which did not show SBP.\n\nID: He was treated for C. difficile colitis initially with PO\nvancomycin and IV flagyl as well as tigacycine. The Klebsiella\nbacteremia was treated with meropenem. Prior to the cultures\nbecoming available, patient also recieved amikacin and cefepime.\nHe was afebrile for most of the hospital stay.\n\nEndocrine: The patient's blood sugar was monitored throughout\nhis stay; insulin dosing was adjusted accordingly.\n\nHematology: The patient's complete blood count was examined\nroutinely.\n\nProphylaxis: The patient received subcutaneous heparin and\nvenodyne boots were used during this stay.\n\nAs patient status declined rapidly on [**7-10**] following the\naspiration event, family made a well thought out decision to\nminimize the patient's suffering as his prognosis was not\nfavorable. Patient was initially made DNR status for about 24\nhours. Next, the family made the patient CMO with continued\nventilation on [**7-12**]. Patient expired one to hours after all the\nvasopressors were stopped. He was started on morphine gtt. He\nexpired comfortable, with no agonal breaths observed. The\nmedical examiner as well as the family refused an autopsy.\n\n\nMedications on Admission:\ntylenol 500'''' prn fever, darbepoetin alpha 40 qweek, folic\nacid, HSQ, lispro sliding scale, reglan 5 iv q8, mycophenolate\n180\", nepro TF 45/hr, nystatin swish/swallow\"\", zofran prn,\npromod syrup 10ml q8, protonix 40\", bactrim', tacrolimus\n0.5/0.5,\nursodiol 300\", renal vitamin\n\n\nDischarge Medications:\npatient was CMO:\n- morphine gtt\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nmultiorgan system failure\ncardiac arrest\n\nDischarge Condition:\ndeath\n\nDischarge Instructions:\nnot applicable\n\nFollowup Instructions:\nnot applicable\n\n\nCompleted by:[**2105-7-13**]"
+    }
+  ]
+}

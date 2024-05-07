@@ -1,0 +1,139 @@
+{
+  "hadm_id": 130520,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1250764,
+      "category": "Radiology",
+      "description": "TUBE CHOLANGIOGRAM",
+      "annotations": [
+        {
+          "begin": 391,
+          "end": 404,
+          "code": "87.54",
+          "code_system": "ICD-9-PCS",
+          "description": "Other cholangiogram",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CHOLANGIOGRAM"
+        }
+      ],
+      "text": "[**2194-8-20**] 11:48 AM\n BILIARY CATH CHECK                                              Clip # [**Clip Number (Radiology) 2905**]\n Reason: Please evaluate anatomy via drain study of PTBD.\n Admitting Diagnosis: CHRONIC DISTAL COMMON BILE DUCT/SDA\n  Contrast: OPTIRAY Amt: 20\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 162**] TUBE CHOLANGIOGRAM              -58 SERVIC BY SAME MD DURING POST OP   *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  43 year old woman s/p open chole and choledocoduodenostomy, with prior PTBD in\n  place which has been capped for past 2 days. Please evaluate anatomy with drain\n  study.\n REASON FOR THIS EXAMINATION:\n  Please evaluate anatomy via drain study of PTBD.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  43-year-old female with prior episode of pancreatitis obstructing\n the common bile duct, now status post surgical choledochoduodenostomy, with\n PTBD from right lobe left in place.  Please evaluate anatomy and to\n discontinue tube if possible.\n\n PHYSICIAN:  [**Last Name (NamePattern4) **], M.D., attending, was present and supervising.  [**First Name8 (NamePattern2) 60**]\n [**Last Name (NamePattern1) 61**], M.D., fellow, was performing the procedure.\n\n FLUOROSCOPY TIME:  1.4 minutes.\n\n MEDICATIONS:  Moderate sedation was provided by administering divided doses of\n Versed totaling 2 mg throughout the total intraservice time of 40 minutes,\n during which the patient's hemodynamic parameters were continuously monitored.\n Patient remained in control with her PCA device.\n\n PROCEDURES:  Gravity cholangiogram via indwelling right lobe biliary drain.\n Removal of drain.\n\n PROCEDURE DETAILS:  Informed consent was obtained from the patient.  She was\n positioned supine on the angiography table.  The area was prepped and draped\n in sterile fashion.  Appropriate timeout was performed.  Fluoroscopy was used\n intermittently.\n\n With gravity, contrast was dripped into the indwelling drain.  This showed\n adequate flow through the choledochoduodenostomy into the duodenum.  There was\n no appreciable flow through the ampulla.  The drain was then pulled back\n slightly and more contrast was administered.  No intrahepatic strictures were\n evident.  There was free flow of contrast into the bowel.  The drain was then\n removed.  Pressure was held for about 15 minutes until there was no longer\n leaking along the tract.  A pressure dressing was applied.  Patient left the\n department in stable condition without any immediate complication.\n\n FINDINGS:  Patent choledochoduodenostomy tract with free flow from the upper\n common bile duct into the duodenum.  The ampulla appears to be fully\n obstructed.  There was no appreciable flow along this anatomic pathway, though\n this is likely just higher resistance than the bypass.  No intrahepatic\n                                                             (Over)\n\n [**2194-8-20**] 11:48 AM\n BILIARY CATH CHECK                                              Clip # [**Clip Number (Radiology) 2905**]\n Reason: Please evaluate anatomy via drain study of PTBD.\n Admitting Diagnosis: CHRONIC DISTAL COMMON BILE DUCT/SDA\n  Contrast: OPTIRAY Amt: 20\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n strictures identified.  Left-sided ducts were not filled during this\n examination.\n\n CONCLUSION:  Uncomplicated tube gravity cholangiogram as above.  Uncomplicated\n removal of indwelling biliary drain.  Patient may continue to have some\n leaking into the bandage.  Please change the dressing p.r.n. with a\n pressure-type dressing.  The tract should close completely in several days.\n\n"
+    },
+    {
+      "note_id": 40383,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 267,
+          "end": 286,
+          "code": "576.2",
+          "code_system": "ICD-9-CM",
+          "description": "Obstruction of bile duct",
+          "type": "Human",
+          "covered_text": "Biliary obstruction"
+        },
+        {
+          "begin": 291,
+          "end": 308,
+          "code": "576.2",
+          "code_system": "ICD-9-CM",
+          "description": "Obstruction of bile duct",
+          "type": "Human",
+          "covered_text": "Biliary stricture"
+        },
+        {
+          "begin": 322,
+          "end": 343,
+          "code": "577.1",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic pancreatitis",
+          "type": "Human",
+          "covered_text": "chronic pancreatitis."
+        },
+        {
+          "begin": 508,
+          "end": 528,
+          "code": "51.22",
+          "code_system": "ICD-9-PCS",
+          "description": "Cholecystectomy",
+          "type": "Human",
+          "covered_text": "Open cholecystectomy"
+        },
+        {
+          "begin": 567,
+          "end": 592,
+          "code": "50.22",
+          "code_system": "ICD-9-PCS",
+          "description": "Partial hepatectomy",
+          "type": "Human",
+          "covered_text": "Partial wedge hepatectomy"
+        },
+        {
+          "begin": 597,
+          "end": 634,
+          "code": "51.36",
+          "code_system": "ICD-9-PCS",
+          "description": "Choledochoenterostomy",
+          "type": "Human",
+          "covered_text": "Choledochoduodenostomy biliary bypass"
+        },
+        {
+          "begin": 1261,
+          "end": 1264,
+          "code": "070.70",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified viral hepatitis C without hepatic coma",
+          "type": "Human",
+          "covered_text": "HCV"
+        },
+        {
+          "begin": 1266,
+          "end": 1269,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1271,
+          "end": 1281,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 1283,
+          "end": 1300,
+          "code": "338.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pain",
+          "type": "Human",
+          "covered_text": "chronic back pain"
+        },
+        {
+          "begin": 1302,
+          "end": 1308,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "asthma"
+        },
+        {
+          "begin": 5374,
+          "end": 5400,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "MapType.APPROX",
+          "covered_text": "transfused 2 units of PRBC"
+        }
+      ],
+      "text": "Admission Date:  [**2194-8-14**]              Discharge Date:   [**2194-8-25**]\n\nDate of Birth:  [**2150-10-24**]             Sex:   F\n\nService: SURGERY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 473**]\nChief Complaint:\n1. Biliary obstruction.\n2. Biliary stricture secondary to chronic pancreatitis.\n3. Status post fulminant necrotizing pancreatitis.\n4. Status post intraabdominal sepsis.\n\nMajor Surgical or Invasive Procedure:\n1. Extensive lysis of adhesions.\n2. Open cholecystectomy with common bile duct exploration.\n3. Partial wedge hepatectomy.\n4. Choledochoduodenostomy biliary bypass.\n\n\nHistory of Present Illness:\n43F with history of severe hemorrhagic pancreatitis ([**8-15**])\ncomplicated by pancreatic necrosis & retroperitoneal abcess\nformation & ampullary stricture s/p necrosectomy and abcess\ndrainage [**10/2192**] with PTBD drain placement. She has had multiple\nexchanges of this drain, the last on [**2194-8-7**]. She presented\nfor the following scheduled operation:\n1. Extensive lysis of adhesions.\n2. Open cholecystectomy with common bile duct exploration.\n3. Partial wedge hepatectomy.\n4. Choledochoduodenostomy biliary bypass.\n\n\nPast Medical History:\nPMH: necrotizing pancreatitis [**8-/2192**], HCV, HTN, depression,\nchronic back pain, asthma\n\nPSH: pancreatic necrosectomy, left and right peritoneal abscess\nwide drainage ([**2192-10-23**]); bilateral RP abscess washout and\nJ-tube\nplacement ([**2192-10-25**]); tracheostomy ([**2192-11-1**]); PTC with\nplacement of 8-Fr internal/external biliary drain ([**2192-12-24**])\nfor ampullary stenosis with multiple subsequent dilations and\nexchanges of PTC drain, most recently [**2192-4-14**] where a 12 Fr\nint/ext drain was placed\n\n\nSocial History:\nSH: 2 children.  Lives in [**Location 3610**].  Does not currently smoke\nand\nquit drinking alcohol since her episode of severe pancreatitis\nin\n[**2192**].\n\n\nFamily History:\nFH: liver disease and bone cancer, no known pancreatic issues\n\n\nPhysical Exam:\nUpon Discharge:\nAll vitals stable and within normal limits, afebrile\nGen - AAOx3, in no apparent distress\nCV - RRR +S1/S2 no murmurs/rubs/gallops\nResp - CTAB no wheezes/crackles/rhonchi\nAbd - soft, mildly tender to palpation appropriately near\nincision, non-distended, +BS, no rebound/rigidity/guarding, no\npalpable masses\nInc - clean/dry/intact, with no erythema/induration/drainage\nExt - no edema/clubbing/cyanosis\n\nPertinent Results:\nOPERATIVE PATHOLOGY ([**8-14**]):\nGallbladder, open cholecystectomy:\n     - Chronic cholecystitis.\n     - Cystic lymph node with reactive, florid follicular\nhyperplasia and sinus histiocytosis.\n\nDRAIN STUDY AND REMOVAL OF DRAIN ([**8-20**]):\n- Patent choledochoduodenostomy tract with free flow from the\nupper common bile duct into the duodenum.  The ampulla appears\nto be fully obstructed.  There was no appreciable flow along\nthis anatomic pathway, though this is likely just higher\nresistance than the bypass.  No intrahepatic strictures\nidentified.  Left-sided ducts were not filled during this\nexamination.\n- Uncomplicated removal of indwelling biliary drain.  Patient\nmay continue to have some leaking into the bandage.  Please\nchange the dressing p.r.n. with a pressure-type dressing.  The\ntract should close completely in several days.\n\nRUQ ULTRASOUND ([**8-24**]):\n1.  Diffuse pneumobilia, unchanged from prior.  No significant\nbiliary ductal dilatation.\n2.  No definite fluid collection within the region of the porta\nhepatis.\nExamination is limited due to overlying bowel gas.  If high\nclinical\nsuspicion, consider CT for further assessment.\n3.  Unchanged splenomegaly.\n4.  Mild abdominal ascites.\n\nBILATERAL LE ULTRASOUND ([**8-24**]): No lower extremity DVT\n\nDISCHARGE LABS:\n[**2194-8-25**] 07:10AM BLOOD WBC-4.9 RBC-3.12* Hgb-9.4* Hct-28.7*\nMCV-92 MCH-30.0 MCHC-32.7 RDW-13.2 Plt Ct-177\n[**2194-8-25**] 07:10AM BLOOD Plt Ct-177\n[**2194-8-23**] 01:28AM BLOOD Glucose-123* UreaN-5* Creat-0.7 Na-131*\nK-4.1 Cl-101 HCO3-26 AnGap-8\n[**2194-8-19**] 05:10AM BLOOD ALT-34 AST-38 AlkPhos-344* TotBili-0.7\nDirBili-0.3 IndBili-0.4\n[**2194-8-23**] 01:28AM BLOOD Calcium-7.6* Phos-2.1* Mg-1.6\n\nBrief Hospital Course:\nThe patient was admitted to the General Surgical Service for\nevaluation and treatment.  On [**2194-8-14**], the patient underwent\nthe following procedure:\n1. Extensive lysis of adhesions.\n2. Open cholecystectomy with common bile duct exploration.\n3. Partial wedge hepatectomy.\n4. Choledochoduodenostomy biliary bypass.\n\nThis procedure went well without complication (reader referred\nto the Operative Note for details). After her operation, the\npatient was admitted to the ICU NPO, on IV fluids, on a 1-day\ncourse of antibiotics, with a foley catheter, JP drain, PTBD,\nand NGT in place.  She remained intubated, on a ventillator, and\nwas hemodynamically stable.\n\nOn POD#1, the patient was successfully extubated, and placed on\na ketamine drip for pain control. Later that day, the ketamine\ndrip was discontinued, and an epidural was placed for pain\ncontrol. For a short period (approximately 1 hour) after placing\nthe epidural, the patient required a small dose of pressor\nsupport to maintain her blood pressures. Thereafter, she no\nlonger required this, and tolerated the epidural well. Her\ndrains were maintained. She remained NPO, with all her drains\nand tubes still in place.\n\nOn POD#2, the patient was transfused 2 units of PRBC. Her\nepidural and drains/tubes were maintained. She was out of bed to\nchair.\n\nOn POD#3, she was well enough to be transferred out of the ICU,\nand onto the general surgical floor. She remained NPO, with JP,\nPTBD, NGT and foley in place, as well as the epidural continued\nfor pain control.\n\nOn POD#5, her NGT was clamped, and epidural and all other drains\nwere maintained. On this day, due to some concern about erythema\naround her incision, she was stared on IV cefazolin. Her\nepidural was removed, and she was transitioned to a PCA for pain\ncontrol, which she tolerated well. Her foley was removed and she\nurinated independently. Later in the day, her NGT was removed,\nand she was permitted to have clear liquids, which she tolerated\nvery well.\n\nOn POD#6, her PTBD had a drain study performed on it, and upon\nsatisfactory results (reader referred to \"Pertinent Results\")\nthe drain was removed. Additionally, her JP drain was\ndiscontinued. Due to some concern for nausea, she was made NPO.\nHowever, upon feeling much better in the evening, she was put\nback on clear liquids, and then a regular diet. She tolerated\nthis very well.\n\nOn POD#7, due to a marked improvement in the appearance of her\nincision, her IV cefazolin was discontinued. Her epidural was\nremoved, and she was transitioned to oral pain medications,\nwhich she tolerated well. She was seen by Physical Therapy, and\nambulated mutiple times per day.\n\nShe continued to progress well. On POD#9, she was noted to spike\na fever to 102.4, upon which a fever workup was initiated, and\nall results were negative for any infectious process. A second\nfever on POD#10 prompted ultrasounds of the LEs and RUQ, both of\nwhich were unconcerning as well. Thereafter, the patient had no\nmore fevers. She continued to feel well, with good pain control,\nambulating multiple times per day, and tolerating regular diet.\nHer staples were removed on POD#10 and steri strips were placed.\n\n\nThe patient remained stable from a cardiovascular standpoint;\nvital signs were routinely monitored. Good pulmonary toilet,\nearly ambulation and incentive spirometry were encouraged\nthroughout hospitalization. Electrolytes were routinely\nfollowed, and repleted when necessary. The patient's white blood\ncount and fever curves were closely watched for signs of\ninfection. Wound care was performed regularly and thoroughly.\nThe patient's blood sugar was monitored throughout his stay;\ninsulin dosing was adjusted accordingly. The patient received\nsubcutaneous heparin and venodyne boots were used during this\nstay; was encouraged to get up and ambulate as early as\npossible.\n\nAt the time of discharge, the patient was doing well, afebrile\nwith stable vital signs.  The patient was tolerating a regular\ndiet, ambulating, voiding without assistance, and pain was well\ncontrolled.  The patient received discharge teaching and\nfollow-up instructions with understanding verbalized and\nagreement with the discharge plan.\n\n\nMedications on Admission:\nmethadone 20''', oxycodone 30''', losartan 50', ibuprofen  600'\n\n\nDischarge Medications:\n1. Docusate Sodium 100 mg PO BID\nRX *Colace 100 mg 1 capsule(s) by mouth twice per day Disp #*60\nCapsule Refills:*0\n2. Methadone 20 mg PO TID\n3. Losartan Potassium 50 mg PO DAILY\nHold for SBP<110 and HR<60\n4. Senna 1 TAB PO BID\nRX *senna 8.6 mg 1 tablet by mouth twice per day Disp #*30\nTablet Refills:*0\n5. Omeprazole 20 mg PO DAILY\nRX *omeprazole 20 mg 1 capsule(s) by mouth once per day Disp\n#*60 Tablet Refills:*0\n6. OxycoDONE (Immediate Release)  30 mg PO Q8H\nRX *oxycodone 30 mg 1 tablet(s) by mouth every 8 hours Disp #*30\nTablet Refills:*0\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nVNA Assoc. of [**Hospital3 **]\n\nDischarge Diagnosis:\n1. Biliary obstruction.\n2. Biliary stricture secondary to chronic pancreatitis.\n3. Status post fulminant necrotizing pancreatitis.\n4. Status post intraabdominal sepsis.\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to the surgery service at [**Hospital1 18**] for an open\ncholecystectomy and choledocoduodenostomy . You have done well\nin the post operative period and are now safe to return home to\ncomplete your recovery with the following instructions:\n\nPlease resume all regular home medications , unless specifically\nadvised not to take a particular medication.  Also, please take\nany new medications as prescribed.\n\nPlease get plenty of rest, continue to ambulate several times\nper day, and drink adequate amounts of fluids.  Avoid lifting\nweights greater than [**5-15**] lbs until you follow-up with your\n[**Month/Year (2) 5059**], who will instruct you further regarding activity\nrestrictions.\n\nAvoid driving or operating heavy machinery while taking pain\nmedications.\n\nPlease follow-up with your [**Month/Year (2) 5059**] and Primary Care Provider\n(PCP) as advised.\n\nIncision Care:\n*Please call your doctor or nurse practitioner if you have\nincreased pain, swelling, redness, or drainage from the incision\nsite.\n*Avoid swimming and baths until your follow-up appointment.\n*You may shower, and wash surgical incisions with a mild soap\nand warm water.  Gently pat the area dry.\n*If you have staples, they will be removed at your follow-up\nappointment.\n*If you have steri-strips, they will fall off on their own.\nPlease remove any remaining strips 7-10 days after surgery.\n\nPlease call your doctor or nurse practitioner if you experience\nthe following:\n*You experience new chest pain, pressure, squeezing or\ntightness.\n*New or worsening cough, shortness of breath, or wheeze.\n*If you are vomiting and cannot keep down fluids or your\nmedications.\n*You are getting dehydrated due to continued vomiting, diarrhea,\nor other reasons. Signs of dehydration include dry mouth, rapid\nheartbeat, or feeling dizzy or faint when standing.\n*You see blood or dark/black material when you vomit or have a\nbowel movement.\n*You experience burning when you urinate, have blood in your\nurine, or experience a discharge.\n*Your pain is not improving within 8-12 hours or is not gone\nwithin 24 hours. Call or return immediately if your pain is\ngetting worse or changes location or moving to your chest or\nback.\n*You have shaking chills, or fever greater than 101.5 degrees\nFahrenheit or 38 degrees Celsius.\n*Any change in your symptoms, or any new symptoms that concern\nyou.\n\nFollowup Instructions:\nProvider: [**First Name8 (NamePattern2) 251**] [**Name11 (NameIs) **], MD\nPhone:[**Telephone/Fax (1) 2835**]\nDate/Time:[**2194-9-1**] 11:00\nLocation: [**Hospital Ward Name **] BUILDING, [**Location (un) **]\n\n\n\nCompleted by:[**2194-8-25**]"
+    }
+  ]
+}

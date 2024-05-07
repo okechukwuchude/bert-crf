@@ -1,0 +1,77 @@
+{
+  "hadm_id": 129743,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 4998,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1259,
+          "end": 1275,
+          "code": "V45.82",
+          "code_system": "ICD-9-CM",
+          "description": "Percutaneous transluminal coronary angioplasty, postsurgical status",
+          "type": "MapType.APPROX",
+          "covered_text": "Cardiac stenting"
+        },
+        {
+          "begin": 1381,
+          "end": 1391,
+          "code": "355.8",
+          "code_system": "ICD-9-CM",
+          "description": "Mononeuritis of lower limb, unspecified",
+          "type": "Human",
+          "covered_text": "Neuropathy"
+        },
+        {
+          "begin": 1432,
+          "end": 1460,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "Cigarettes: quit 15 yrs ago,"
+        },
+        {
+          "begin": 2894,
+          "end": 2913,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial fibrillation"
+        },
+        {
+          "begin": 2919,
+          "end": 2938,
+          "code": "427.81",
+          "code_system": "ICD-9-CM",
+          "description": "Sinoatrial node dysfunction",
+          "type": "Human",
+          "covered_text": "sick sinus syndrome"
+        },
+        {
+          "begin": 4989,
+          "end": 4994,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "MapType.APPROX",
+          "covered_text": "PRBCs"
+        },
+        {
+          "begin": 6133,
+          "end": 6160,
+          "code": "162.5",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of lower lobe, bronchus or lung",
+          "type": "MapType.APPROX",
+          "covered_text": "Left lower lobe lung cancer"
+        }
+      ],
+      "text": "Admission Date:  [**2136-8-3**]              Discharge Date:   [**2136-8-9**]\n\nDate of Birth:  [**2064-2-14**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNiacin Preparations\n\nAttending:[**First Name3 (LF) 5790**]\nChief Complaint:\nLeft lower lobe mass\n\nMajor Surgical or Invasive Procedure:\n[**2136-8-3**] Left thoracotomy and left lower lobectomy with en bloc\nchest wall resection and reconstruction with a 2-mm [**Doctor Last Name 4726**]-Tex\nmesh, mediastinal lymph node dissection, intercostal muscle flap\nbuttress.\n\nHistory of Present Illness:\nMr. [**Known lastname 20692**] is a 72 year old male with a 10 cm LLL NSCLC\nconfirmed by EBUS with negative work up for nodal and distant\nmetastatic disease. Preoperative evaluation for resection of\nmass revealed borderline PFT's. He [**Known lastname 1834**] VQ scan on [**2136-7-19**]\nwith evidence of sufficient residual lung volume to tolerate LLL\nresection. Patient [**Month/Day/Year 1834**] preop cardiac evaluation today with\nMIBI and was found to have new onset atrial fibrillation with\nRVR 120's. Cardiologists\nrecommended no additional work up since patient was without\nangina or other symptoms of ischemia. Echo revealed normal\nsystolic function with mild MR.\n\nPast Medical History:\n- Cardiac stenting 12 years ago without recent stress test\n- 2 lumbar disk surgeries\n- Cholecystectomy [**45**] years ago\n- Neuropathy\n- Right thyroid nodule\n\nSocial History:\nCigarettes: quit 15 yrs ago, 20 pk yr hx\nETOH:       1 glass wine/night\n\n\nFamily History:\nSister had cervical CA in 80s, otherwise no family cancer hx.\nBoth mother and father died in 70's from DM complications:\namputations and DM.\n\n\nPhysical Exam:\nVital signs: T- HR- BP- RR- O2 Sat-\nGeneral: Well appearing, breathing comfortably\nHEENT: Moist mucous membranes, no nasal flaring\nCV: Irregular, Nl S1, S2\nResp: Right lung with breath sounds throughout, left lung -no\nbreath sounds at midchest downward, occasional wheezes\nAbdomen: Soft, nontender, nondistended\nExt: Mild pedal edema (at baseline), no cyanosis, or sking\nbreakdown\nNeuro: No gross abnormalities\nPsych: A&Ox3, appropriate\n\nPertinent Results:\n[**2136-8-8**]\nCBC: WBC-11.4 Hgb-10.7 Hct-32.8 Plt Ct-347\nChemistry: Na-137 K-4.1 Cl-102 HCO3-26 UreaN-16 Creat-0.7\nGlucose-105\n\nCXR [**2136-8-9**]:\nStatus post left lower lobectomy with according pleural and\nchest wall changes, as well as overall volume loss of the left\nhemithorax. There is\nno visualization of an apical pneumothorax.\n\nBrief Hospital Course:\nMr. [**Known lastname 20692**] [**Last Name (Titles) 1834**] a left lower lobectomy with en bloc 4 rib\nresection,  chest wall reconstruction with a 2-mm [**Doctor Last Name 4726**]-Tex mesh,\nmediastinal lymph node dissection, and intercostal muscle flap\nbuttress on [**2136-8-3**] without complications. He was extubated\nwithout difficulty in the OR and was admitted to the ICU for\nmanagement of atrial fibrillation with sick sinus syndrome. The\nrest of Mr. [**Known lastname 20693**] hospital course is described below by\nsystem:\n\n1. Respiratory:\nPostoperatively, Mr. [**Known lastname 20692**] was kept on 4L of oxygen by nasal\ncannula with O2 sats >95% and was breathing comfortably with\npain control by bupivicaine epidural and dilaudid PCA. Chest\ntube had minimal serosanginous ouput with no leak detected. On\nPOD#2, patient had an episode of desaturation to high 80s on\n100% O2. CXR showed complete collapse of left lung. Bronchoscopy\nwas performed with removal of copious clear mucus plugs from\nleft mainstem and LUL bronchi. Patient was placed on BIPAP\novernight for improved ventilation. AM CXR on POD#3 showed\nre-expansion of lung and patient was started on nebulizer\ntreatments, with improvement in dyspnea, cough production, and\noxygen saturation. Chest tube was removed on POD#4 without\nevidence of pneumothorax on post-pull CXR. Oxygen was gradually\nweaned to 2L and patient was transferred to the floor on POD#5.\nWith chest PT and continued nebs, oxygen was weaned completely\nby POD#5 during rest and exertion. Patient was discharged home\non POD#6 with O2 sats >98% on room air and arrangements for VNA\nand nebulizer treatments at home.\n2. Cardiac:\nMr. [**Known lastname 20693**] newly diagnosed afib was present throughout his\npostoperative period. He was started on IV lopressor and\ntransitioned to po lopressor with dose titrated to keep rate\nless than 120. He did not experience any ischemic symptoms\nthroughout this period. He was started on coumadin on POD#6, as\nper his cardiologist, with plans to follow up with his PCP for\ncoumadin dosing.\n3. Endocrine:\nMr. [**Known lastname 20693**] blood glucose was 150-200 in the PACU after\nsurgery. He was kept on a sliding scale during his hospital\nstay. He will follow up with his PCP regarding diabetes work up.\n\n4. Heme/Onc:\nPathology reports are pending on Mr. [**Known lastname 20693**] resected lung\nmass. EBL from surgery was 1 liter and patient's hct post-op\ntrended down to 25.2 from preop of 30. He was transfused 2U\nPRBCs with appropriate increase in HCT and Hct on day of\ndischarge was 32.8.\n5. ID: No issues.\n6. Renal: No issues, Cr less than 1 throughout stay, 0.7 on\ndischarge.\n7. GI/FEN: No issues, tolerated regular diet with normal bowel\nfunctions.\n\nMedications on Admission:\nHydrocodone 5 mg + acetaminophen 500 mg prn\n\nDischarge Medications:\n1. Nebulizers Kit Sig: One (1)  Miscellaneous every [**3-13**]\nhours.Disp:*1 * Refills:*0*\n2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n4. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3 hours)\nas needed for pain. Disp:*20 Tablet(s)* Refills:*1*\n5. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1)  Inhalation Q6H (every 6 hours).\nDisp:*1 * Refills:*2*\n6. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation\nQ6H (every 6 hours).Disp:*1 * Refills:*2*\n7. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\nDisp:*60 Tablet(s)* Refills:*0*\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital 119**] Homecare\n\nDischarge Diagnosis:\nLeft lower lobe lung cancer\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nCall Dr. [**Last Name (STitle) **] at [**Telephone/Fax (1) 2348**] if you develop fevers\ngreater than 101.5, chills, nightsweats, shortness of breath,\nunmanageable pulmonary secretions, uncontrolled pain or if left\nchest incision develops redness, drainage or opens.\n\nWalk 10-15 minutes 3-5 times a day. Start slow and increase.\nDo not drive while on narcotics for pain. Take stool softeners\nwhile on narcotics to prevent constipation.\n\nUse nebulizer treatments every 6 hours (albuterol and\nipratropium) until you can cough easily without them. Do daily\nbreathing exercises (deep breath in, hold for 3 sec, breath out)\nto keep your lungs expanded.\n\nFollowup Instructions:\nFollowup appointments:\nProvider: [**Name10 (NameIs) 1532**] [**Name11 (NameIs) 1533**], MD Phone:[**0-0-**]\nDate/Time:[**2136-8-21**] 1:00 [**Hospital Ward Name 23**] 9 [**Hospital Ward Name **]. Get a chest xray\n30 minutes before this appointment on the [**Location (un) **] radiology\ndepartment of the [**Hospital Ward Name **].\n\nProvider: [**Name10 (NameIs) **] [**Name8 (MD) 831**], MD Phone:[**0-0-**] Date/Time:[**2136-8-21**]\n11:45 [**Hospital Ward Name 23**] 9 [**Hospital Ward Name **]\n\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3404**], MD Date/Time:[**2136-8-23**] 8:30\n\n\n\nCompleted by:[**2136-8-14**]"
+    }
+  ]
+}

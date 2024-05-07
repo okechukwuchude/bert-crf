@@ -1,0 +1,113 @@
+{
+  "hadm_id": 179316,
+  "comment": "LS Fusion- Need OP note to Validate PCS",
+  "notes": [
+    {
+      "note_id": 4951,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 883,
+          "end": 893,
+          "code": "E10.40",
+          "code_system": "ICD-10-CM",
+          "description": "Type 1 diabetes mellitus with diabetic neuropathy, unspecified",
+          "type": "Human",
+          "covered_text": "neuropathy"
+        },
+        {
+          "begin": 895,
+          "end": 906,
+          "code": "E10.319",
+          "code_system": "ICD-10-CM",
+          "description": "Type 1 diabetes mellitus with unspecified diabetic retinopathy without macular edema",
+          "type": "Human",
+          "covered_text": "retinopathy"
+        },
+        {
+          "begin": 944,
+          "end": 947,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 950,
+          "end": 956,
+          "code": "J45.909",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified asthma, uncomplicated",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 1175,
+          "end": 1198,
+          "code": "G89.29",
+          "code_system": "ICD-10-CM",
+          "description": "Other chronic pain",
+          "type": "Human",
+          "covered_text": "Chronic Lower Back Pain"
+        },
+        {
+          "begin": 2447,
+          "end": 2464,
+          "code": "M43.16",
+          "code_system": "ICD-10-CM",
+          "description": "Spondylolisthesis, lumbar region",
+          "type": "Human",
+          "covered_text": "spondylolisthesis"
+        },
+        {
+          "begin": 7895,
+          "end": 7914,
+          "code": "Z94.0",
+          "code_system": "ICD-10-CM",
+          "description": "Kidney transplant status",
+          "type": "Human",
+          "covered_text": "s/p renal tranplant"
+        },
+        {
+          "begin": 8480,
+          "end": 8483,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 8502,
+          "end": 8520,
+          "code": "Z98.61",
+          "code_system": "ICD-10-CM",
+          "description": "Coronary angioplasty status",
+          "type": "Human",
+          "covered_text": "baloon angioplasty"
+        },
+        {
+          "begin": 10662,
+          "end": 10668,
+          "code": "M48.061",
+          "code_system": "ICD-10-CM",
+          "description": "Spinal stenosis, lumbar region without neurogenic claudication",
+          "type": "Human",
+          "covered_text": "Lumbar"
+        },
+        {
+          "begin": 10705,
+          "end": 10714,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "op anemia"
+        }
+      ],
+      "text": "Admission Date:  [**2160-5-15**]              Discharge Date:   [**2160-5-24**]\n\nDate of Birth:  [**2106-10-2**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nActonel\n\nAttending:[**First Name3 (LF) 7281**]\nChief Complaint:\nLBP/BLE pain\n\nMajor Surgical or Invasive Procedure:\n[**2160-5-15**]: L4-S1 posterior decompression and fusion w/ bone marrow\naspirate\n\n\nHistory of Present Illness:\nShe is s/p a left-sided L4-L5 and L5-S1 microlumbar discectomy\non [**12-26**].  She initially did well with her left lower\nextremity radiculopathy.  Unfortunately,she has gone on to\ndevelop progressive symptoms.  For that reason, she underwent\nfollowup MRI.  She describes pain that radiates down the left\nleg and into the little toe.  She has some right lower extremity\nweakness from prior surgery.  Her bowel and bladder function is\nnormal.\n\n\nPast Medical History:\n* DM1 - complicated by neuropathy, retinopathy autonomic\ndysfunction, gastropathy\n* HTN\n* Asthma\n* S/P Renal/Pancreas Transplant ([**2139**])\n* Numular Eczema\n* H/O Rectal Bleeding ([**2152**])\n* Psuedoaneurysm of left External Iliac Artery s/p stent ([**2154**])\n\n* H/O Deep Venous Thrombophlebitis ([**2155**])\n* Chronic Lower Back Pain\n* Left First Toe Osteomyelitis\n* Retinopathy of Right Eye\n\n\nSocial History:\nPatient denies tobacco or illicit drug use. She infrequently\nconsumes alcohol.\nShe was living with her daughter but recently moved out.  She\ncurrently lives alone.  She has a very close relationship with\nher daughter.\n\n\nFamily History:\nnc\n\nPhysical Exam:\nOn examination, her strength was [**5-28**] in hip flexion,\nextension,quadriceps, hamstrings, and plantarflexion\nbilaterally. Dorsiflexion was graded at 4/5 on the left and was\nnormal on the right.  Extensor hallucis longus could not be\nassessed on the left due to previous toe surgery and was normal\non the right.\nHer sensory examination revealed a decreased appreciation of\nlight touch in both the medial and lateral aspect of her left\nfoot.\n\nON DISCHARGE:\nBialteral IP's [**4-28**], quad, ham, gastroc, AT, and Right [**Last Name (un) 938**] 5-/5,\nleft [**Last Name (un) 938**] [**4-28**](secondary to toe surgery), incision clean dry\nintact with steri strips, sensation decreased to light touch on\nright lateral thigh and left lateral foot, ambulates with\nwalker.\n\n\nPertinent Results:\nAn MRI of the lumbosacral spine obtained on [**2160-3-3**],demonstrates prior surgery both L4-L5 and L5-S1.  There is\na grade 1 spondylolisthesis at L4-L5.  There is lateral recess\nstenosis bilaterally at L4-L5.  There is a recurrent residual\ndisc herniation at L5-S1 on the right side.  Flexion and\nextension x-rays were obtained which demonstrate a grade 1\nspondylolisthesis at L4-L5 and no abnormal movement when flexion\nand extension views were compared.\n\n[**2160-5-15**] 02:10PM BLOOD WBC-4.3 RBC-3.45* Hgb-10.2* Hct-30.8*\nMCV-90 MCH-29.7 MCHC-33.2 RDW-14.9 Plt Ct-216\n[**2160-5-24**] 07:35AM BLOOD WBC-4.6 RBC-3.10* Hgb-9.1* Hct-27.6*\nMCV-89 MCH-29.3 MCHC-33.0 RDW-15.0 Plt Ct-429\n[**2160-5-20**] 07:25AM BLOOD PT-11.1 PTT-23.6 INR(PT)-0.9\n[**2160-5-20**] 07:25AM BLOOD Ret Aut-1.3\n[**2160-5-15**] 02:10PM BLOOD Glucose-213* UreaN-23* Creat-1.2* Na-143\nK-4.8 Cl-114* HCO3-24 AnGap-10\n[**2160-5-24**] 07:35AM BLOOD Glucose-113* UreaN-25* Creat-1.5* Na-142\nK-3.8 Cl-103 HCO3-31 AnGap-12\n[**2160-5-16**] 01:13AM BLOOD CK(CPK)-235*\n[**2160-5-16**] 11:00AM BLOOD CK(CPK)-222*\n[**2160-5-16**] 07:30PM BLOOD CK(CPK)-236*\n[**2160-5-20**] 07:25AM BLOOD LD(LDH)-180\n[**2160-5-16**] 01:13AM BLOOD cTropnT-<0.01\n[**2160-5-16**] 11:00AM BLOOD CK-MB-8 cTropnT-<0.01\n[**2160-5-16**] 07:30PM BLOOD CK-MB-6 cTropnT-<0.01\n[**2160-5-15**] 02:10PM BLOOD Calcium-7.9* Phos-2.7 Mg-1.5*\n[**2160-5-24**] 07:35AM BLOOD Calcium-9.1 Phos-3.6 Mg-1.7\n[**2160-5-20**] 07:25AM BLOOD calTIBC-147* Hapto-214* Ferritn-186*\nTRF-113*\n[**2160-5-17**] 07:05AM BLOOD Cyclspr-58*\n[**2160-5-22**] 08:00AM BLOOD Cyclspr-60*\n[**2160-5-23**] 07:40AM BLOOD Cyclspr-204\n[**2160-5-24**] 07:35AM BLOOD Cyclspr-PND\n[**2160-5-20**] 01:15AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.008\n[**2160-5-20**] 01:15AM URINE Blood-NEG Nitrite-NEG Protein-100\nGlucose-300 Ketone-TR Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG\n[**2160-5-16**] 01:12AM URINE Hours-RANDOM Creat-136 Na-LESS THAN\n[**2160-5-17**] 05:51AM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.007\n[**2160-5-17**] 05:51AM URINE Blood-TR Nitrite-NEG Protein-25\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG\n[**2160-5-17**] 05:51AM URINE RBC-0-2 WBC-0-2 Bacteri-OCC Yeast-NONE\nEpi-0\n\n[**2160-5-20**] URINE URINE CULTURE-FINAL INPATIENT\n[**2160-5-19**] BLOOD CULTURE Blood Culture, Routine-PENDING\nINPATIENT\n[**2160-5-19**] BLOOD CULTURE Blood Culture, Routine-PENDING\nINPATIENT\n[**2160-5-17**] URINE URINE CULTURE-FINAL INPATIENT\n\nRadiology Report L-SPINE (AP & LAT) Study Date of [**2160-5-17**] 2:27\nPM\n\n\nFINDINGS: A frontal view is provided. The PLIF is in situ.\nUnremarkable\nappearance.\n\n\nRadiology Report CHEST (PA & LAT) Study Date of [**2160-5-19**] 6:04 PM\n\n\n\nThere are no findings to suggest pneumonia. Heart size is\nnormal. There is\nno pleural abnormality. Pulmonary vasculature is unremarkable.\nNo free\nsubdiaphragmatic gas.\n\n\nBrief Hospital Course:\n1. Lumbar fusion: Pt was admitted on [**2160-5-15**] and underwent above\nprocedure.  Postoperativley she was continued on her home meds.\nShe remained overnight in PACU and required multiple fluid\nboluses for low urine output.  She was seen in consult by renal\nand [**Last Name (un) **] who followed her throughout her hospital course.  She\nhad JP that was removed late in the POD#1.  She was out of bed\nwith PT.  She was managed on PO pain medications. On [**5-17**] her\nfoley was removed and a UA was negative. She had a chest X-ray\nwhich showed small bilateral pleural effusions. On [**5-18**] her\nhematocrit was 26 and was being followed for potential need for\ntransfusion. On [**5-19**] her hematocrit was 25.4 and did not require\ntrasnfusion.  She was screened for rehab, however due to\npostoperative complications of labile blood pressure, difficult\nto control blood glucose, anemia and low grade fevers, discharge\nwas delayed (see below for discussion of postoperative\ncomplications).\n\n2. Fevers: Post-operative fevers as high as 101.2 without focal\nsymptoms of infection. Blood and urine cultures were drawn and\npatient had CXR on [**5-19**].  Started empirically on ciprofloxacin\nfor presumed cystitis with positive U/A.  When urine culture\nreturned negative on [**2160-6-2**], ciprofloxacin was discontinued.\nPatient defervesced with no evidence of infectious etiology.\n\n3. labile BP: patient has history of autonomic instability from\nunderlying diabetes mellitus compounded by hypovolemia in\nsetting of low grade fevers and anemia.  Low salt diet was\ndiscontinued and midodrine was titrated up to 5mg TID in an\neffort to decrease orthostatic hypotension.  Medications with\nanticholinergic side effects were also discontinued/ decreased\nto alleviate orthostatic symptoms.  Although B-blocker was\nlikely contributing to orthostatic hypotension by blocking\ncompensatory response in heart rate, carvedilol was continued\ngiven marked supine hypertension.  Patient continued to have\nlabile blood pressure, but her symptoms had improved\nsignificantly and she was able to perform ADLs without\nsignificant difficulty.\n\n4. acute on chronic anemia: Hct on admission 30.8, drifted down\nto 25 following spinal surgery. Likely etiology from multiple\nchronic medical problems i.e. renal insufficiency and blood loss\nfrom surgery. Iron studies are indicative of some mild iron\n-deficiency with serum iron of 21 and a borderline low\ntransferrin saturation (14%). Ferritin is elevated in setting of\nillness. No signs of hemolysis. Patient continued on iron\nsupplementation with Hct remaining stable through remainder of\nhospital stay.  Hct on discharge was 27.6\n\n5. s/p renal tranplant: during course of hospitalization,\ncreatinine trended up to 1.6 from recent baseline of 1.1- 1.3.\nEtiology of renal damage unclear, may be indicative of brief\nperiod post op hypotension.  Continued cyclosporine/ prednisone/\nazathiodine at current dose.  Continued bactrim SS for PCP [**Name Initial (PRE) **]\n\n6. type 1 DM: hx of brittle diabetes with multiple medical cxs.\nContinued on home dose of lantus and humalog per sliding scale.\n[**Last Name (un) **] followed patient while in house, uring patient to\nconsider insulin pump for tighter glycemic control\n\n7. CAD s/p multiple PCI (baloon angioplasty): stable with no\nsigns of ischemia\n\n\nMedications on Admission:\nAlbuterol\nASA\nAzathioprine\nBactrim\nCaptopril\nClobetasol\nCyanocobalamin\nCyclosporine\nCymbalta\nFlovent\nFolate\nInsulin\nLyrica\nMetoprolol\nMidodrine\nNitroglycerine\nPravachol\nPrednisone\nSerevent\nSingulair\nVicodin\nVitamin D\n\nDischarge Medications:\n1. Insulin Regular Human 100 unit/mL Solution Sig: One (1) Unit\nInjection ac+hs: Dose as per PCP.\n2. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\nOne (1) Puff Inhalation Q4H (every 4 hours) as needed for\nshortness of breath or wheezing.\n3. Fluticasone 110 mcg/Actuation Aerosol Sig: One (1) Puff\nInhalation [**Hospital1 **] (2 times a day).\n4. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n5. Cyclosporine 25 mg Capsule Sig: Three (3) Capsule PO Q12H\n(every 12 hours).\n6. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n7. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n8. Salmeterol 50 mcg/Dose Disk with Device Sig: One (1)\nInhalation Q12H (every 12 hours).\n9. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) tablet\nSublingual PRN (as needed) as needed for chest pain.\n10. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n11. Duloxetine 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO twice a day.\n12. Sulfamethoxazole-Trimethoprim 400-80 mg Tablet Sig: One (1)\nTablet PO EVERY OTHER DAY (Every Other Day).\n13. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n14. Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for fever, pain.\n15. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)\nTablet, Chewable PO TID (3 times a day).\n16. Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n17. Pregabalin 150 mg Capsule Sig: One (1) Capsule PO twice a\nday.\n18. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.\n19. Midodrine 5 mg Tablet Sig: One (1) Tablet PO TID (3 times a\nday).\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nGreater [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 269**]\n\nDischarge Diagnosis:\nLumbar stenosis\nlabile blood pressure\npost op anemia of blood loss\n\n\nDischarge Condition:\nStable\n\n\nDischarge Instructions:\n??????        Do not smoke\n??????        Keep wound clean / No tub baths or pools until seen in\nfollow up / take daily showers including incision\n??????        You have steri-strips in place.  Do not pull them off.\nThey will fall off on their own or be taken off in the office\n??????        No pulling up, lifting> 10 lbs., excessive bending or\ntwisting for two weeks.\n??????        Limit your use of stairs to 2-3 times per day\n??????        Have a family member check your incision daily for\nsigns of infection\n??????        Take pain medication as instructed; you may find it\nbest if taken in the a.m. when you wake if you experience muscle\nstiffness and before bed for sleeping discomfort\n??????        Do not take any anti-inflammatory medications such as\nMotrin, Advil, aspirin, Ibuprofen etc. for 3 months.\n??????        Increase your intake of fluids and fiber as pain\nmedicine (narcotics) can cause constipation\n\nCALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE\nFOLLOWING:\n\n??????        Pain that is continually increasing or not relieved by\npain medicine\n??????        Any weakness, numbness, tingling in your extremities\n??????        Any signs of infection at the wound site: redness,\nswelling, tenderness, drainage\n??????        Fever greater than or equal to 101?????? F\n??????        Any change in your bowel or bladder habits\n\nFollowup Instructions:\nPLEASE CALL [**Telephone/Fax (1) **] TO SCHEDULE AN APPOINTMENT WITH DR.\n[**Last Name (STitle) **] TO BE SEEN IN 6 WEEKS.\n\nYOU WILL NEED XRAYS PRIOR TO YOUR APPOINTMENT\nPlease arrange follow up with Dr. [**Last Name (STitle) 14591**] at [**Telephone/Fax (1) 2384**] from\n[**Last Name (un) **].\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 7284**]\n\n"
+    }
+  ]
+}

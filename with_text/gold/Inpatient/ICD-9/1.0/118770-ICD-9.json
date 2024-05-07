@@ -1,0 +1,275 @@
+{
+  "hadm_id": 118770,
+  "comment": "OP reports missing- unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 435463,
+      "category": "General",
+      "description": "ICU Event Note",
+      "annotations": [
+        {
+          "begin": 71,
+          "end": 77,
+          "code": "427.5",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac arrest",
+          "type": "Human",
+          "covered_text": "arrest"
+        }
+      ],
+      "text": "TITLE:\n   Clinician:  Nurse\n   Late note:  pt had witnessed vtach/vfib arrest at 0420 , cpr\n   initiated,code blue called,  patent airway, shock 1 x at 200j, no drugs\n   pushed.  On exam of monitor strip R on T from sinus.  return to sinus\n   brady with cont. of cpr. pulse reestablish after defib. post exam pt.\n   at basline, able to nod to questions, mae, stated \"chest hurt.\n   amiodorone 150 mgm IV given in bolus with subsequest gtt started for 6\n   hrs at 1 mgm then decrease to .5mgm for added 18 hrs.   Magnesium\n   repleted, labs showed no need to repelete potassium.  wife and mother\n   at bedside with pt.\n   Total time spent:  15 minutes\n   Patient is critically ill.\n"
+    },
+    {
+      "note_id": 435776,
+      "category": "General",
+      "description": "Generic Note",
+      "annotations": [
+        {
+          "begin": 151,
+          "end": 153,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "Human",
+          "covered_text": "MR"
+        }
+      ],
+      "text": "TITLE:  Critical Care\n   Present for key portions of resident\ns history and exam. Agree with\n   assessment and plan as above.  TEE yesterday\n mild-mod MR, no\n   vegetations. Bronch with BAL\n polys but no organisms.  All cx remain\n   neg.  Creat is stable at 1.8.  Remains febrile to 103.  Bronchial BS\n   over L chest.\n   Several things suggest improvement\n declining WBC, stable creat and\n   increasing UO, declining need for pressors, decreased O2 requirement.\n   Yet his temp is increased, CT showed worsening infiltrate L > R, temp\n   is higher.\n   We have not had a single pos culture and I favor stopping abx. I have\n   increased concern this is a non-infectious process, possibly now with a\n   drug fever.  No eosinophilia but absence of incr WBC and declining\n   pressor need makes it unlikely this is sepsis. We are lightening\n   sedation, stopping abx, trying again to diurese, and trying to lighten\n   sedation.\n   Time spent\n 50 min\n   Critically ill\n"
+    },
+    {
+      "note_id": 435535,
+      "category": "General",
+      "description": "Generic Note",
+      "annotations": [
+        {
+          "begin": 752,
+          "end": 760,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "Human",
+          "covered_text": "effusion"
+        }
+      ],
+      "text": "TITLE:  Critical Care\n   Present for key portions of resident\ns history and exam.  Agree\n   substantially with assessment and plan above. He had an eventful\n   weekend.  Episode of VT requiring CPR, T increasing\n 103 today, Hct\n   down to 22, and troponin increasing after CPR.\n   For VT\n EP consult, monitor electrolytes\n have all been in reasonable\n   range, holding meds that might increase QT (although QT was normal,\n   loaded with amiodarone, TEE today\n   Fever\n all cx remain neg.  Plan for TEE, bronch with BAL, Rheum\n   consult for non-infectious process asso with fever, surgery re lymph\n   node bx. If bronch neg would be inclined to D/C abx and recx as could\n   have drug fever\n   Respiratory failure\n oxygenation improved with drainage of effusion.\n   He is better sedated and passive on vent. Will hold on current settings\n   with low Vt ventilation\n   Time spent\n 55 min\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 435338,
+      "category": "General",
+      "description": "ICU Event Note",
+      "annotations": [
+        {
+          "begin": 50,
+          "end": 52,
+          "code": "427.1",
+          "code_system": "ICD-9-CM",
+          "description": "Paroxysmal ventricular tachycardia",
+          "type": "Human",
+          "covered_text": "VT"
+        },
+        {
+          "begin": 145,
+          "end": 148,
+          "code": "99.62",
+          "code_system": "ICD-9-PCS",
+          "description": "Other electric countershock of heart",
+          "type": "Human",
+          "covered_text": "CPR"
+        }
+      ],
+      "text": "Clinician:  Attending\n   Patient with polymorphic VT.   Telemetry show R on T twice followed by\n   polymorphic VT consistent with Torsades.  Had CPR initiated and\n   defibrillation X1 with return of pulse.  Post-arrest patient was\n   following commands.  On exam, patient currently tachycardic, but no\n   pericardial rub.  Rhoncherous lung exam.  Labs show no hypomagnesemia\n   or hypokalemia.  EKG with QTc about 380 which was unchanged from\n   pre-arrest.  Does have ST depressions in precordial leads that are\n   improving over subsequent EKGs.   Meds include reglan and cipro.\n   Unclear what precipitated this polymorphic VT.  QTc is not prolonged.\n   Loaded on amiodarone.  Reglan and cipro can cause Torsades, but\n   unsusual in that QTc is not prolonged.  Will get cardiology input and\n   echo today.  Hold reglan.\n   Total time spent:  45 minutes\n   Patient is critically ill.\n"
+    },
+    {
+      "note_id": 3457,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2179,
+          "end": 2207,
+          "code": "V10.47",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of testis",
+          "type": "Human",
+          "covered_text": "Testicular rhabdomyosarcoma,"
+        },
+        {
+          "begin": 9222,
+          "end": 9226,
+          "code": "518.82",
+          "code_system": "ICD-9-CM",
+          "description": "Other pulmonary insufficiency, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "ARDS"
+        },
+        {
+          "begin": 10688,
+          "end": 10733,
+          "code": "34.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Insertion of intercostal catheter for drainage",
+          "type": "Human",
+          "covered_text": "chest\ntube was placed for continuous drainage"
+        },
+        {
+          "begin": 13437,
+          "end": 13440,
+          "code": "584.5",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure with lesion of tubular necrosis",
+          "type": "MapType.EXACT",
+          "covered_text": "ATN"
+        },
+        {
+          "begin": 13446,
+          "end": 13459,
+          "code": "785.52",
+          "code_system": "ICD-9-CM",
+          "description": "Septic shock",
+          "type": "Human",
+          "covered_text": "septic shock."
+        },
+        {
+          "begin": 13639,
+          "end": 13652,
+          "code": "790.4",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]",
+          "type": "MapType.EXACT",
+          "covered_text": "Transaminitis"
+        },
+        {
+          "begin": 13927,
+          "end": 13936,
+          "code": "724.5",
+          "code_system": "ICD-9-CM",
+          "description": "Backache, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Back pain"
+        },
+        {
+          "begin": 14152,
+          "end": 14163,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypothyroid"
+        },
+        {
+          "begin": 14253,
+          "end": 14269,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "description": "Thrombocytopenia, unspecified",
+          "type": "Human",
+          "covered_text": "Thrombocytopenia"
+        },
+        {
+          "begin": 14506,
+          "end": 14525,
+          "code": "372.73",
+          "code_system": "ICD-9-CM",
+          "description": "Conjunctival edema",
+          "type": "MapType.APPROX",
+          "covered_text": "Conjunctival edema:"
+        },
+        {
+          "begin": 15030,
+          "end": 15036,
+          "code": "038.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified septicemia",
+          "type": "Human",
+          "covered_text": "sepsis"
+        }
+      ],
+      "text": "Admission Date:  [**2139-12-16**]              Discharge Date:   [**2139-12-31**]\n\nDate of Birth:  [**2098-5-17**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**Last Name (NamePattern4) 290**]\nChief Complaint:\nHypoxia, Tachypnea\n\nMajor Surgical or Invasive Procedure:\nIntubation\nR chest tube\n\nHistory of Present Illness:\n41 yo M with remote pmh of testicular cancer at age 4\ntransferred to the MICU in the setting of hypoxia, tachypnea,\nevolving bilateral pulmonary infiltrates and acute renal\nfailure. On arrival to the MICU, he was intubated for increased\nwork of breathing. He was transiently hypotensive\nperi-intubation but his blood pressure stabilized.\n.\nHe states that he awoke suddenly [**12-14**] am with 8/10 nonradiating\nR sided pain over his posterior lower ribs, worse with\ninspiration. He went to [**Hospital1 18**] for evaluation, and was discharged\nwith dx of muscle strain from playing Wii bowling. His pain\nimproved with the oxycodone, ibuprofen 600mg, and valium he was\nrx'd at the ED. The following am (day of admission), he again\nawoke with 8/10 pain. He took his temp as advised by the ED\n(although had no subj fever) and noted T 101. Returned to [**Hospital1 18**]\nED, where vitals were T 100.5, 109, 114/57, 36, 92%. Labs showed\nWBC 11, Band 41, Cr 2.4. Received 3L IVF, ceftriaxone 1gm and\nazithromycin 500mg, as well as ibuprofen, percocet, valium, and\ntoradol and was admitted to the medical floor. On the floor, he\nwas hypoxic to the 70s on RA. He stated that he felt weak,\nfatigued, with poor appetite. He noted that his pain causes him\nto feel nauseated and shake occasionally. Also c/o SOB due to\nhis pain. Denies f/c/n, cough, sputum, hemoptysis, abd pain,\ndiarrhea, dysuria, hematuria, frequency, urgency, leg pain,\nweakness, numbness, tingling. No sick contacts or foreign travel\n(only notes 2.5 hr car ride yesterday).\n.\nOn ROS, he notes that he has occasional night sweats (had to\nchange his nightclothes X 2) and a [**4-24**] pound weight loss. His\nwife notes that he has been more tired recently.\n\n\nPast Medical History:\n1. +1 MR, +1 TR, borderline pulmonary HTN\n2. Testicular rhabdomyosarcoma, age 4, s/p orchiectomy and LN\ndissection\n3. Thyroid nodule, age 33, s/p surgical removal\n4. ?Excess rib cartilage ~8th grade, s/p excision c/b pleural\neffusion\n5. Pectus excavatum\n6. Recently diagnosed BCC\n\n\nSocial History:\nLives with wife, [**Name (NI) 8526**]. Attorney. EtOH [**2-20**] drinks/wk\n(although in past has had \"a couple\" of drinks per day). Denies\ntob. Uses pot occasionally. Was HIV neg 1.5 yrs ago with no new\npartners since.\n\nFamily History:\nHis mother was just diagnosed w/ diabetes and HTN.\n\nPhysical Exam:\nAdmission Exam:\nVitals: T: 99.4 axillary BP: 137/66 P: 122 R: AC 400X 14 100%\nFiO2 and 5 of PEEP. O2 Sat 100%.\nGeneral: Sleepy, oriented X 3, prior to intubation was toxic\nappearing, thin, tachypneic\nHEENT: Sclera anicteric, MMM, oropharynx clear, seemed to have\nsome trismus\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n\n\nPertinent Results:\nAdmission Labs:\n[**2139-12-16**] 10:47PM   LACTATE-3.5*\n[**2139-12-16**] 10:42PM   TYPE-CENTRAL VE TEMP-38.3 RATES-14/ TIDAL\nVOL-400 PEEP-5 O2-100 PO2-61* PCO2-61* PH-7.20* TOTAL CO2-25\nBASE XS--4 AADO2-585 REQ O2-97 -ASSIST/CON INTUBATED-INTUBATED\n[**2139-12-16**] 10:42PM   LACTATE-3.4* K+-5.4*\n[**2139-12-16**] 10:42PM   O2 SAT-84\n[**2139-12-16**] 09:47PM URINE  HOURS-RANDOM CREAT-135 SODIUM-52\n[**2139-12-16**] 09:47PM URINE  HOURS-RANDOM\n[**2139-12-16**] 09:47PM URINE  OSMOLAL-564\n[**2139-12-16**] 09:47PM URINE  GR HOLD-HOLD\n[**2139-12-16**] 09:47PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-POS\ncocaine-NEG amphetmn-NEG mthdone-NEG\n[**2139-12-16**] 07:56PM   GLUCOSE-185* UREA N-38* CREAT-1.6*\nSODIUM-132* POTASSIUM-5.4* CHLORIDE-100 TOTAL CO2-23 ANION\nGAP-14\n[**2139-12-16**] 07:56PM   GLUCOSE-178* UREA N-38* CREAT-1.8*\nSODIUM-132* POTASSIUM-6.5* CHLORIDE-104 TOTAL CO2-16* ANION\nGAP-19\n[**2139-12-16**] 07:56PM   ALT(SGPT)-134* AST(SGOT)-229* LD(LDH)-299*\nALK PHOS-61 AMYLASE-55 TOT BILI-0.5\n[**2139-12-16**] 07:56PM   ALT(SGPT)-96* AST(SGOT)-180* LD(LDH)-558* ALK\nPHOS-46 TOT BILI-0.4\n[**2139-12-16**] 07:56PM   LIPASE-19\n[**2139-12-16**] 07:56PM   CALCIUM-6.9* PHOSPHATE-4.6* MAGNESIUM-2.6\n[**2139-12-16**] 07:56PM   CALCIUM-6.5* PHOSPHATE-4.0 MAGNESIUM-2.1\n[**2139-12-16**] 07:56PM   WBC-4.5# RBC-4.62 HGB-14.0 HCT-39.9* MCV-87\nMCH-30.4 MCHC-35.1* RDW-14.1\n[**2139-12-16**] 07:56PM   WBC-2.1*# RBC-4.60 HGB-13.6* HCT-39.4* MCV-86\nMCH-29.6 MCHC-34.6 RDW-13.9\n[**2139-12-16**] 07:56PM   PLT COUNT-247\n[**2139-12-16**] 07:56PM   PT-16.7* PTT-91.8* INR(PT)-1.5*\n[**2139-12-16**] 07:56PM   PLT COUNT-191\n[**2139-12-16**] 07:56PM   PT-28.5* PTT-150* INR(PT)-2.9*\n[**2139-12-16**] 07:06PM   TYPE-ART PO2-92 PCO2-38 PH-7.34* TOTAL CO2-21\nBASE XS--4\n[**2139-12-16**] 07:06PM   LACTATE-2.3*\n[**2139-12-16**] 04:38PM   D-DIMER-1662*\n[**2139-12-16**] 04:38PM   D-DIMER-As of [**11-16**]\n[**2139-12-16**] 03:29PM   TYPE-[**Last Name (un) **] COMMENTS-GREEN TOP\n[**2139-12-16**] 03:00PM   GLUCOSE-100 UREA N-41* CREAT-2.0* SODIUM-133\nPOTASSIUM-5.5* CHLORIDE-102 TOTAL CO2-17* ANION GAP-20\n[**2139-12-16**] 03:00PM   ALT(SGPT)-64* AST(SGOT)-121* LD(LDH)-312* ALK\nPHOS-53 TOT BILI-0.4\n[**2139-12-16**] 03:29PM   LACTATE-3.2*\n[**2139-12-16**] 03:00PM   TSH-14*\n[**2139-12-16**] 03:00PM   ASA-NEG ACETMNPHN-5.4 bnzodzpn-NEG\nbarbitrt-NEG tricyclic-NEG\n[**2139-12-16**] 12:15PM   COMMENTS-GREEN TOP\n[**2139-12-16**] 12:15PM   LACTATE-2.5* K+-4.6\n[**2139-12-16**] 10:40AM URINE  HOURS-RANDOM\n[**2139-12-16**] 10:40AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.021\n[**2139-12-16**] 09:50AM   GLUCOSE-116* UREA N-41* CREAT-2.4*#\nSODIUM-132* POTASSIUM-5.7* CHLORIDE-96 TOTAL CO2-26 ANION GAP-16\n[**2139-12-16**] 09:50AM   estGFR-Using this\n[**2139-12-16**] 09:50AM   WBC-11.0# RBC-4.85 HGB-14.0 HCT-41.4 MCV-85\nMCH-28.9 MCHC-33.9 RDW-13.8\n[**2139-12-16**] 09:50AM   NEUTS-48* BANDS-41* LYMPHS-5* MONOS-3 EOS-0\nBASOS-0 ATYPS-0 METAS-3* MYELOS-0\n[**2139-12-16**] 09:50AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL\nPOIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL\nPOLYCHROM-NORMAL\n[**2139-12-16**] 09:50AM   PLT SMR-NORMAL PLT COUNT-214\n[**2139-12-15**] 11:50AM URINE  GR HOLD-HOLD\n[**2139-12-15**] 11:50AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.024\n[**2139-12-15**] 11:50AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG\nGLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0\nLEUK-NEG\n\nRelevant Imaging:\nTorso CT with Contrast: [**2139-12-26**] IMPRESSIONS:\n1. New pulmonary consolidation and ground- glass opacities, left\ngreater than\nright, consistent with interval development of pneumonia since\n[**2139-12-18**].\n2. Unchanged moderate left, and increased large right pleural\neffusions, with\nadjacent compressive atelectasis.\n3. Peripheral, wedge-shaped areas of low attenuation in the\nspleen and kidney\nare concerning for infection or infarction, possibly due to\nembolic\nphenomenon.\n4. Anasarca with trace perihepatic and trace pelvic fluid.\n5. Similarly distended gallbladder compared to eight days prior,\nwithout CT\nevidence for cholecystitis.\n6. Status post right orchiectomy and retroperitoneal\nlymphadenectomy, with\nnew increased axillary adenopathy.\n7. Small aorta, measuring 7 mm proximal to bifurcation, of\nuncertain\netiology, although finding could relate to prior radiation\ntherapy, if the\npatient has had such.\n8. Findings in the proximal femurs suggesting prior slipped\ncapital femoral epiphyses with bilateral hip degenerative\nchange.\n\nAbdominal U/S [**2139-12-25**]:\nIMPRESSION:\n1. Tiny hepatic cyst, otherwise normal appearance of the liver.\n2. Stable gallbladder distension, containing sludge which is\nbecoming\ntumefactive. No gallbladder wall thickening or edema,\npericholecystic fluid, or focal tenderness over the gallbladder\nduring the examination is seen. No specific sign of\ncholecystitis.\n3. Large pleural effusions bilaterally.\n4. Echogenic appearance of the kidneys, suggestive of possible\nparenchymal\nrenal disease.\n\nPortable CXR [**2139-12-30**]:\nThe ET tube tip is 3.7 cm above the carina. The NG tube tip is\nin the\nstomach. The right internal jugular line is at the proximal\nright atrium.\nThe pigtail catheter inserted in the right basal hemithorax is\nunchanged in position. There is no interval change in the\nwidespread consolidations mostly involving left lung but also\nseen in the right lung base. The surgical clips projecting over\nthe abdomen are unchanged.\n\nMicrobiology:\nNo growth on several blood, urine, stool, lavaged samples.\n\nBrief Hospital Course:\n41 year old man with a history significant for rhabdomyosarcoma\ntesticular cancer as a child s/p resection, chemotherapy and\nradiation who presented with back pain, admitted to the ICU for\nseptic shock.\n.\n# Hypoxic respiratory failure:  Based on initial CXR, etiology\nseemed most consistent with multifocal PNA and ARDS.  Initially\nPE was considered and the patient was started on heparin drip\nbriefly, however determined to be unlikely based on septic\nphysiology.  Unlikely cardiogenic pulmonary edema as initial\nmixed venous sat was in the 80s.  However, a repeat mixed venous\nsat the following day was 46.  A TTE was done at the bedside to\nevaluate for cardiogenic cause of respiratory failure, and found\nto have a globally decreased EF, consistent with septic\nphysiology.  The patient had worsening tachypnea and hypoxia on\nthe floor, was transferred to the ICU the night of admission and\nwas intubated within hours.  The patient was treated with ARDS\nnet protocol, with increased PEEP and decreased tidal volumes.\nThe patient was unable to be weaned from the ventilator despite\nbeing treated with broad spectrum antibiotics for bilateral\npneumonia and volume removal with CVVH after aggressive volume\nresuscitation.  Patient underwent bronchoscopy and BAL which\nwere unrevealing to cause.  As the patient became more difficult\nto ventilate and CXRs showed progression of bilateral\ninfiltrates despite volume removal and antibiotics, a contrast\nCT scan was done which showed large bilateral pleural effusions,\nworse on the right than left, ground glass infiltrates and\nairbronchograms especially on the left.  The descision was made\nto do a diagnostic thoracentesis.  Dark yellow, thick fluid with\n[**Last Name (un) 15936**] was expressed from the pleura on the right side.  A chest\ntube was placed for continuous drainage.  The fluid was found to\nbe exudative with a large number of WBC however no organisms\ngrew from this fluid, however it was thought to be a complicated\nparapneumonic fluid.  The patient was unable to be weaned from\nthe ventilator, had two episodes of cardiac arrest separated by\ndays, and was unable to be resuscitated from the second, see\nbelow.\n.\n# Shock:  The patient had bandemia of 41%, fever, tachypnea, and\nelevated lactate\non admission with evidence of a pulmonary source on CXR, however\nblood cultures were not drawn on admission.  Other sources\nconsidered were endocarditis, osteomyelitis, pancreatitis, and\nother intra-abdominal process, however pneumonia was thought to\nbe the source after thorough evaluation of other possibilities.\nAfter intubation the patient experienced hypotension, requiring\naggressive volume resuscitation and ultimately the use of\npressors.  Over the course of his hospitalization, the patient\nrequired the use of pressors, at times multiple pressors, to\nmaintain adequate blood pressure.  Multiple cultures were sent\nfrom sputum, blood, urine, pleural fluid, BALs however all\nfollowing the administration of IV antibiotics and all found to\nbe negative.  The patient was initially started on levofloxacin,\nvancomycin and zosyn for broad antibiotic coverage.  After ID\nconsultation, the patient was started on clindamycin for\npossible toxin mediated process given the rapidity of the\nprogression.  The patient continued to require pressors, renal\nfunction continued to worsen, and continued to spike fevers.\n      On [**2139-12-26**] at 4:30am the patient underwent a run of\npulseless polymorphic ventricular tachycardia.  Chest\ncompressions were started, he was shocked once and spontaneous\ncirculation returned.  At that time, his electrolytes were\nwithin normal limits.  He was started on an amiodarone drip.\nCardiology was consulted, and thought that the arrhythmia was\nsecondary to his metabolic derrangement.  Cardiology recommended\ncontinuing oral amiodarone.  The patient recovered from the code\nand was thought to be improving.  He was tolerating lasix for\nvolume removal and eventually weaned off of pressors for\nintermittent periods.  However, on [**2139-12-31**] the patient coded\nagain, initally started as hypotension, then progressed to\nbradycardia and eventually PEA.  The patient was given atropine\nand vasopression.  Defibrillation was attempted with no return\nof spontaneous circulation.  He was given calcium and magnesium.\n His bedside US did not show evidence of a pericardial effusion,\nhis labs were unremarkable.  The patient was pronounced dead\nafter 40min of resuscitation without spontaneous return of\ncirculation.\n.\n# Acute renal failure:  ATN from septic shock.  Renal was\nconsulted.  CVVH line was placed, CVVH started.  Volume was\nremoved by CVVH.  Renal function did not return to normal, the\npatient was unable to be taken off CVVH.\n.\n# Transaminitis:  Secondary to shock liver/hepatic congestion\nafter excluding other possible sources.  Hepatitis serologies\nwere negative.  Abdominal US unremarkable, aside from distended\ngall bladder, which IR declined to drain given no other signs of\ncholecystitis or cholelithiasis.\n.\n# Back pain:  R-sided, was tender to palpation over R mid-back.\nPer his wife he had had some intermittent scapular pain for the\npast 4 months.  Most likely this pain was the only symptom he\nhad of the developing pneumonia.\n.\n# Hypothyroid: TSH was elevated at 14. The patient was treated\nwith levothyroxine 50 mcg IV daily.\n.\n# Thrombocytopenia: Thought to be related to bone marrow\nsuppression secondary to overwhelming sepsis.  Heme/Onc was\nconsulted, agreed with above.  Eventually the thrombocytopenia\ndeveloped into a thrombocytosis likely secondary to infection as\nwell.\n.\n# Conjunctival edema: likely from volume overload.\nOphthalmology consulted and recommended diuresis and lacrilube\nointment applied to the eyes.\n.\n# FEN: IVF as above, replete electrolytes, tube feeds\n.\n# Prophylaxis: pneumoboots\n.\n# Access: RIJ placed [**12-15**], R femoral art line placed [**12-17**]\n\nMedications on Admission:\nLevothyroxine 100 mcg daily\nLisinopril 5 mg daily\nASA 325mg daily\n\n\nDischarge Medications:\nN/A\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nUnderlying diagnosis unknown at time of death, sepsis of unknown\ncause\n\nDischarge Condition:\nExpired\n\nDischarge Instructions:\nN/A\n\nFollowup Instructions:\nN/A\n\n                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]\n\nCompleted by:[**2140-1-12**]"
+    },
+    {
+      "note_id": 434728,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 23,
+          "end": 33,
+          "code": "96.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Insertion of endotracheal tube",
+          "type": "Human",
+          "covered_text": "intubation"
+        }
+      ],
+      "text": "Demographics\n   Day of intubation: [**12-15**]\n   Day of mechanical ventilation: 9\n   Ideal body weight: 48.1 None\n   Ideal tidal volume: 192.4 / 288.6 / 384.8 mL/kg\n   Airway\n   Airway Placement Data\n   Known difficult intubation: No\n   Reason: Hypoxic respiratory failure\n   Tube Type\n   ETT:\n                   Position: 21 cm at teeth\n                   Route: Oral\n                   Type: Standard\n                   Size: 7.5mm\n   :\n   Cuff  Management:\n                   Vol/Press:\n                                   Cuff pressure: 25  cmH2O\n                                   Cuff volume:   mL /\n   Lung sounds\n   RLL Lung Sounds: Diminished\n   RUL Lung Sounds: Clear\n   LUL Lung Sounds: Clear\n   LLL Lung Sounds: Clear\n   Secretions\n   Sputum color / consistency: White  / Thick\n   Sputum source/amount: Suctioned / Small\n   Ventilation Assessment\n   Level of breathing assistance: Continuous invasive ventilation\n   Visual assessment of breathing pattern: Normal quiet breathing;\n   Comments: Pt placed on PSV during the day and remains comfortable\n   overnight and tolerating well. Vt slightly higer but RR and PIP\n   decreased.\n   Assessment of breathing comfort: No response (sleeping / sedated)\n   Plan\n   Next 24-48 hours: Continue with daily RSBI tests & SBT's as tolerated;\n   Comments: ARDS net\n   Reason for continuing current ventilatory support:\n"
+    },
+    {
+      "note_id": 433504,
+      "category": "Physician",
+      "description": "Physician Attending Admission Note - MICU",
+      "annotations": [
+        {
+          "begin": 1433,
+          "end": 1449,
+          "code": "754.81",
+          "code_system": "ICD-9-CM",
+          "description": "Pectus excavatum",
+          "type": "Human",
+          "covered_text": "pectus deformity"
+        }
+      ],
+      "text": "Chief Complaint:  abdominal pain, septic shock\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   41 yo man two days ago ([**12-14**]) presented to ER with severe right upper\n   back pain.  CXR was unremarkable.  Dx with musculoskeletal pain and\n   sent home.  At home had fever so returned.  In ER Oxygen sat 92%, CXR\n   with b/l multifocal PNA.  Got CTX and azithro.  Admitted to floor where\n   he was found to be hypoxemic to 70s.    EKG with S1, Q3, T3, started on\n   heparin and given HCO3 in preparation for CTA.  Got tachypneic,\n   desatted, transferred to MICU where he was intubated  for RR in 50s.\n   Patient admitted from: [**Hospital1 19**] [**Hospital1 158**]\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Vancomycin - [**2139-12-16**] 11:00 PM\n   Piperacillin/Tazobactam (Zosyn) - [**2139-12-17**] 12:43 AM\n   Levofloxacin - [**2139-12-17**] 01:20 AM\n   Infusions:\n   Fentanyl - 25 mcg/hour\n   Midazolam (Versed) - 2 mg/hour\n   Phenylephrine - 4 mcg/Kg/min\n   Other ICU medications:\n   Other medications:\n   Past medical history:\n   Family history:\n   Social History:\n   1+ MR, 1+ TR, borderline pulm HTN in [**2137**]\n   Thyroid nodule removed not cancerous\n   rhabdomyosarcoma of testes at age 4.\n   excess rib cartilage removed, pectus deformity.\n   Meds at home:\n   Lisinopril\n   ASA\n   levoxyl\n   mother: HTN and DM\n   Occupation:\n   Drugs: no IVDU, occasional marijuana\n   Tobacco: none\n   Alcohol: [**2-20**]/wk\n   Other: HIV negative 1.5 years ago, no new partners since\n   Review of systems:\n   Constitutional: Fever\n   Cardiovascular: No(t) Chest pain\n   Respiratory: Dyspnea\n   Gastrointestinal: Nausea\n   Genitourinary: Foley\n   Musculoskeletal: some right upper back pain\n   Psychiatric / Sleep: No(t) Agitated\n   Pain: No pain / appears comfortable\n   Flowsheet Data as of [**2139-12-17**] 02:15 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.7\nC (99.8\n   Tcurrent: 37.7\nC (99.8\n   HR: 108 (107 - 138) bpm\n   BP: 66/48(51) {66/43(50) - 152/81(93)} mmHg\n   RR: 16 (6 - 44) insp/min\n   SpO2: 100%\n   Heart rhythm: ST (Sinus Tachycardia)\n   Height: 60 Inch\n   CVP: 20 (8 - 20)mmHg\n   Total In:\n                                                                    588 mL\n                                                                  1,015 mL\n   PO:\n   TF:\n   IVF:\n                                                                    588 mL\n                                                                  1,015 mL\n   Blood products:\n   Total out:\n                                                                    820 mL\n                                                                    140 mL\n   Urine:\n                                                                    520 mL\n                                                                     90 mL\n   NG:\n                                                                    300 mL\n                                                                     50 mL\n   Stool:\n   Drains:\n   Balance:\n                                                                   -232 mL\n                                                                    875 mL\n   Respiratory\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 400 (400 - 400) mL\n   RR (Set): 14\n   RR (Spontaneous): 0\n   PEEP: 5 cmH2O\n   FiO2: 100%\n   PIP: 23 cmH2O\n   Plateau: 20 cmH2O\n   Compliance: 26.7 cmH2O/mL\n   SpO2: 100%\n   ABG: 7.21/45/117\n   Ve: 10.6 L/min\n   Physical Examination\n   General Appearance: Thin\n   Eyes / Conjunctiva: PERRL\n   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Breath Sounds: Crackles : b/l, Bronchial: right\n   base)\n   Abdominal: Soft, Non-tender\n   Extremities: Right: Absent, Left: Absent\n   Musculoskeletal: point tenderness in back over rib\n   Skin:  Warm\n   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   247 K/uL\n   39.9 %\n   14.0 g/dL\n   185 mg/dL\n   1.6 mg/dL\n   38 mg/dL\n   23 mEq/L\n   100 mEq/L\n   5.4 mEq/L\n   132 mEq/L\n   4.5 K/uL\n        [image002.jpg]\n                            [**2139-12-16**]  07:56 PM\n   WBC\n                                     4.5\n   Hct\n                                    39.9\n   Plt\n                                     247\n   Cr\n                                     1.6\n   Glucose\n                                     185\n   Other labs: PT / PTT / INR:16.7/91.8/1.5, ALT / AST:134/229, Alk Phos /\n   T Bili:61/0.5, Lactic Acid:3.5 mmol/L, LDH:299 IU/L, Ca++:6.9 mg/dL,\n   Mg++:2.6 mg/dL, PO4:4.6 mg/dL\n   Assessment and Plan\n   Respiratory failure:  hypoxemic with infiltrates consistent with\n   pneumonia.  Consider atypicals including legionella.  Wean FiO2 as\n   tolerated.  Doubt PE given infiltrates with bandemia.\n   Shock:  Most likely septic given high mixed venous SvO2, fever,\n   bandemia suggest infection.  Possibilities include PNA, endocarditis\n   with abscess of spine resulting in back pain.  Other causes of\n   abdominal  pain include pancreatitis, cholangitis.\n                   -  diagnostically echo would be useful.  Obtain sputum\n   sample and legionella urine antigen.\n                   -  check pancreatic enzymes, abdominal CT if\n   stabilizes.\n   Acute renal failure:  Likely due to septic shock.  Improved with\n   hydration.  Follow urine output.\n   Abnormal liver function test:  could be from shock.  Or specific\n   infections such as mycoplasma, underlying hepatitis.  No signficant\n   ETOH history.\n   Hypothyroid:  empiric levoxyl.\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines / Intubation:\n   20 Gauge - [**2139-12-16**] 08:30 PM\n   Multi Lumen - [**2139-12-16**] 10:40 PM\n   Arterial Line - [**2139-12-17**] 01:38 AM\n   Comments:\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 60 minutes\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 433799,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 4641,
+          "end": 4650,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "PNEUMONIA"
+        }
+      ],
+      "text": "Chief Complaint: septic shock\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   24 Hour Events:\n EKG - At [**2139-12-17**] 09:00 AM\n BRONCHOSCOPY - At [**2139-12-17**] 12:15 PM\n TRANSTHORACIC ECHO - At [**2139-12-17**] 02:30 PM\n   ID consulted\n   SCvO2 trending up\n   Aggressive IVF\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Levofloxacin - [**2139-12-17**] 01:20 AM\n   Vancomycin - [**2139-12-17**] 11:10 PM\n   Piperacillin/Tazobactam (Zosyn) - [**2139-12-18**] 12:10 AM\n   Clindamycin - [**2139-12-18**] 04:11 AM\n   Infusions:\n   Fentanyl - 50 mcg/hour\n   Midazolam (Versed) - 2 mg/hour\n   Norepinephrine - 0.2 mcg/Kg/min\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2139-12-18**] 12:12 AM\n   Famotidine (Pepcid) - [**2139-12-18**] 04:11 AM\n   Other medications:\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2139-12-18**] 08:51 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.4\nC (99.4\n   Tcurrent: 36.4\nC (97.6\n   HR: 81 (81 - 105) bpm\n   BP: 99/54(72) {82/43(59) - 125/63(86)} mmHg\n   RR: 20 (20 - 30) insp/min\n   SpO2: 97%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 60 Inch\n   CVP: 10 (8 - 14)mmHg\n   Mixed Venous O2% Sat: 63 - 70\n   Total In:\n                                                                  6,930 mL\n                                                                  2,573 mL\n   PO:\n   TF:\n   IVF:\n                                                                  6,790 mL\n                                                                  2,573 mL\n   Blood products:\n   Total out:\n                                                                    741 mL\n                                                                    287 mL\n   Urine:\n                                                                    686 mL\n                                                                    287 mL\n   NG:\n                                                                     55 mL\n   Stool:\n   Drains:\n   Balance:\n                                                                  6,189 mL\n                                                                  2,286 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 450 (450 - 450) mL\n   RR (Set): 20\n   RR (Spontaneous): 0\n   PEEP: 5 cmH2O\n   FiO2: 40%\n   RSBI Deferred: No Spon Resp\n   PIP: 29 cmH2O\n   Plateau: 23 cmH2O\n   SpO2: 97%\n   ABG: 7.40/29/99.[**Numeric Identifier 508**]/18/-4\n   Ve: 8.8 L/min\n   PaO2 / FiO2: 250\n   Physical Examination\n   Gen: intubated and sedated\n   HEENT: scleral edema, ETT OGT\n   CV: RR\n   Chest: bilat dense rhonci at bases\n   Abd: well healed clam shell scar, distended but soft\n   Ext: cool hands and feet, no edema\n   Neuro: opens eyes to voice\n   Labs / Radiology\n   11.3 g/dL\n   108 K/uL\n   87 mg/dL\n   2.5 mg/dL\n   18 mEq/L\n   4.9 mEq/L\n   45 mg/dL\n   107 mEq/L\n   136 mEq/L\n   32.1 %\n   7.2 K/uL\n        [image002.jpg]\n                             [**2139-12-17**]  06:21 AM\n                             [**2139-12-17**]  07:00 AM\n                             [**2139-12-17**]  11:18 AM\n                             [**2139-12-17**]  12:59 PM\n                             [**2139-12-17**]  01:20 PM\n                             [**2139-12-17**]  05:31 PM\n                             [**2139-12-17**]  09:23 PM\n                             [**2139-12-18**]  03:15 AM\n                             [**2139-12-18**]  03:30 AM\n                             [**2139-12-18**]  06:29 AM\n   WBC\n   8.4\n   5.4\n   7.2\n   Hct\n   39.3\n   33.7\n   32.1\n   Plt\n   266\n   169\n   108\n   Cr\n   2.0\n   2.2\n   2.6\n   2.5\n   TCO2\n   11\n   16\n   17\n   19\n   21\n   19\n   Glucose\n   139\n   126\n   113\n   55\n   86\n   87\n   Other labs: PT / PTT / INR:18.5/70.1/1.7, ALT / AST:[**Telephone/Fax (1) 4746**], Alk Phos\n   / T Bili:117/1.3, Amylase / Lipase:55/19, Lactic Acid:3.2 mmol/L,\n   LDH:864 IU/L, Ca++:7.8 mg/dL, Mg++:2.0 mg/dL, PO4:5.1 mg/dL\n   Assessment and Plan\n ELECTROLYTE & FLUID DISORDER, OTHER\n SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)\n RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)\n PNEUMONIA, OTHER\n   ICU Care\n   Nutrition: tf\n   Glycemic Control:\n   Lines:\n   Multi Lumen - [**2139-12-16**] 10:40 PM\n   Arterial Line - [**2139-12-17**] 01:38 AM\n   Prophylaxis:\n   DVT: sc hep\n   Stress ulcer: ppi\n   VAP: HOB chlorhex\n   Communication:  with wife\n   [**Name (NI) 36**] status: Full code\n   Disposition :ICU\n   Total time spent: 45 minutes\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 434625,
+      "category": "Nutrition",
+      "description": "Clinical Nutrition Note",
+      "annotations": [
+        {
+          "begin": 2037,
+          "end": 2040,
+          "code": "99.15",
+          "code_system": "ICD-9-PCS",
+          "description": "Parenteral infusion of concentrated nutritional substances",
+          "type": "MapType.APPROX",
+          "covered_text": "TPN"
+        }
+      ],
+      "text": "Objective\n   Pertinent medications: Fentanyl, Norepinephrine, Versed, HISS, Abx,\n   NaPhos repletion, MagSO4 repletions, others noted\n   Labs:\n   Value\n   Date\n   Glucose\n   126 mg/dL\n   [**2139-12-23**] 07:54 AM\n   Glucose Finger Stick\n   137\n   [**2139-12-23**] 10:00 AM\n   BUN\n   21 mg/dL\n   [**2139-12-23**] 07:54 AM\n   Creatinine\n   1.1 mg/dL\n   [**2139-12-23**] 07:54 AM\n   Sodium\n   137 mEq/L\n   [**2139-12-23**] 07:54 AM\n   Potassium\n   3.5 mEq/L\n   [**2139-12-23**] 07:54 AM\n   Chloride\n   97 mEq/L\n   [**2139-12-23**] 07:54 AM\n   TCO2\n   30 mEq/L\n   [**2139-12-23**] 07:54 AM\n   PO2 (arterial)\n   80.[**Numeric Identifier 176**] mm Hg\n   [**2139-12-23**] 08:36 AM\n   PCO2 (arterial)\n   57 mm Hg\n   [**2139-12-23**] 08:36 AM\n   pH (arterial)\n   7.34 units\n   [**2139-12-23**] 08:36 AM\n   pH (urine)\n   5.5 units\n   [**2139-12-22**] 12:46 PM\n   CO2 (Calc) arterial\n   32 mEq/L\n   [**2139-12-23**] 08:36 AM\n   Calcium non-ionized\n   7.3 mg/dL\n   [**2139-12-23**] 07:54 AM\n   Phosphorus\n   2.3 mg/dL\n   [**2139-12-23**] 07:54 AM\n   Ionized Calcium\n   0.97 mmol/L\n   [**2139-12-23**] 08:36 AM\n   Magnesium\n   1.6 mg/dL\n   [**2139-12-23**] 07:54 AM\n   ALT\n   850 IU/L\n   [**2139-12-22**] 03:02 AM\n   Alkaline Phosphate\n   188 IU/L\n   [**2139-12-22**] 03:02 AM\n   AST\n   727 IU/L\n   [**2139-12-22**] 03:02 AM\n   Amylase\n   55 IU/L\n   [**2139-12-16**] 07:56 PM\n   Total Bilirubin\n   0.8 mg/dL\n   [**2139-12-22**] 03:02 AM\n   WBC\n   18.8 K/uL\n   [**2139-12-23**] 07:54 AM\n   Hgb\n   9.2 g/dL\n   [**2139-12-23**] 07:54 AM\n   Hematocrit\n   26.2 %\n   [**2139-12-23**] 07:54 AM\n   Current diet order / nutrition support: TPN: 1400mL (220dex/ 60aa/\n   30fat) = 1288kcals\n   GI: abd firm, negative bowel sounds, + BM\n   Assessment of Nutritional Status\n    41 y.o. M adm with hypoxia, ARF, now in septic shock still of unclear\n   etiology.  Pt has been on CVVH since\n for fluid removal and acidosis.\n    Pt is receiving TPN for nutrition support while it is unsafe to use\n   pt\ns gut [**1-18**] unstable BP and unclear source of sepsis.  Pt\ns TPN is at\n   goal, which provides 100% estimated needs: 25kcals/kg and 1.2g aa/kg.\n   Team wishes to concentrate TPN if possible; will be able to decrease\n   volume to ~1150mL.  Noted outside Phos and Mag repletions.  Pt needs\n   his TG to be checked, to ensure that they are <400 (requirement for\n   safely giving lipids in TPN).\n   Medical Nutrition Therapy Plan - Recommend the Following\n   1)       Rec TPN goal of 1150mL (220dex/ 60aa/ 30fat) = 1288kcal.\n   2)       Please check TG\ns, if >400, lipid will need to be removed from\n   TPN.\n   3)       Monitor lytes per daily chem. 10, adj as needed in TPN.\n   4)    Monitor lytes and hydration with TPN and CVVH running.\n   Please page with?\ns #[**Numeric Identifier 2337**]\n"
+    },
+    {
+      "note_id": 435241,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 45,
+          "end": 67,
+          "code": "96.72",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous mechanical ventilation for 96 consecutive hours or more",
+          "type": "Human",
+          "covered_text": "mechanical ventilation"
+        }
+      ],
+      "text": "Demographics\n   Day of intubation:\n   Day of mechanical ventilation: 11\n   Ideal body weight: 48.1 None\n   Ideal tidal volume: 192.4 / 288.6 / 384.8 mL/kg\n   Airway\n   Airway Placement Data\n   Known difficult intubation: No\n   Procedure location:\n   Reason:\n   Tube Type\n   ETT:\n                   Position: 23 cm at teeth\n                   Route: Oral\n                   Type: Standard\n                   Size: 7.5mm\n   Tracheostomy tube:\n                   Type:\n                   Manufacturer:\n                   Size:\n                   PMV:\n   Cuff  Management:\n                   Vol/Press:\n                                   Cuff pressure: 25  cmH2O\n                                   Cuff volume:   mL /\n                   Airway problems:\n                   Comments:\n   Lung sounds\n   RLL Lung Sounds: Diminished\n   RUL Lung Sounds: Rhonchi\n   LUL Lung Sounds: Rhonchi\n   LLL Lung Sounds: Rhonchi\n   Comments:\n   Secretions\n   Sputum color / consistency: Yellow / Thick\n   Sputum source/amount: Suctioned / Small\n   Comments:\n   Ventilation Assessment\n   Level of breathing assistance: Continuous invasive ventilation\n   Visual assessment of breathing pattern: Normal quiet breathing;\n   Comments: placed on paralytic prior to change of shift this AM 2to vent\n   dissynchrony w/ gd effect.\n   Assessment of breathing comfort: No response (sleeping / sedated);\n   Comments: paralyzed/sedated/ resting comf\n   Non-invasive ventilation assessment:\n   Invasive ventilation assessment:\n   Trigger work assessment: Not triggering\n   Dysynchrony assessment:\n   Comments: occassionally does trigger. MD [**First Name (Titles) **] [**Last Name (Titles) **] aware.\n   Plan\n   Next 24-48 hours: Reduce PEEP as tolerated; Comments: slow PEEP wean\n   following thoracenthesis.\n   Reason for continuing current ventilatory support: Underlying illness\n   not resolved\n   Respiratory Care Shift Procedures\n   Transports:\n   Destination (R/T)\n   Time\n   Complications\n   Comments\n   Bedside Procedures:\n   Comments: thoracenthesis to R side done by IP. Lg amt drainage to chest\n   tube.\n   15:25\n"
+    }
+  ]
+}

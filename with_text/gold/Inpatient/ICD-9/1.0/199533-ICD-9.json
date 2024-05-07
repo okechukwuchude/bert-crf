@@ -1,0 +1,158 @@
+{
+  "hadm_id": 199533,
+  "comment": "AVR-Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 30192,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 644,
+          "end": 662,
+          "code": "707.11",
+          "code_system": "ICD-9-CM",
+          "description": "Ulcer of thigh",
+          "type": "Human",
+          "covered_text": "chronic leg ulcers"
+        },
+        {
+          "begin": 1471,
+          "end": 1492,
+          "code": "459.81",
+          "code_system": "ICD-9-CM",
+          "description": "Venous (peripheral) insufficiency, unspecified",
+          "type": "Human",
+          "covered_text": "chronic venous stasis"
+        },
+        {
+          "begin": 7002,
+          "end": 7028,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "aortic valve\nendocarditis."
+        },
+        {
+          "begin": 7033,
+          "end": 7037,
+          "code": "041.11",
+          "code_system": "ICD-9-CM",
+          "description": "Staphylococcus aureus infection in conditions classified elsewhere and of unspecified site",
+          "type": "Human",
+          "covered_text": "MSSA"
+        },
+        {
+          "begin": 7038,
+          "end": 7048,
+          "code": "790.7",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified bacteremia",
+          "type": "Human",
+          "covered_text": "Bacteremia"
+        },
+        {
+          "begin": 8868,
+          "end": 8879,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "respiratory"
+        },
+        {
+          "begin": 10151,
+          "end": 10176,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute renal insufficiency"
+        },
+        {
+          "begin": 10627,
+          "end": 10633,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia of other chronic disease",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 10976,
+          "end": 10983,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "Human",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 11755,
+          "end": 11766,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "hypercarpic"
+        },
+        {
+          "begin": 11852,
+          "end": 11863,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "Respiratory"
+        },
+        {
+          "begin": 13637,
+          "end": 13645,
+          "code": "276.2",
+          "code_system": "ICD-9-CM",
+          "description": "Acidosis",
+          "type": "MapType.EXACT",
+          "covered_text": "acidosis"
+        },
+        {
+          "begin": 13901,
+          "end": 13905,
+          "code": "E888.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified fall",
+          "type": "Human",
+          "covered_text": "Fall"
+        },
+        {
+          "begin": 14087,
+          "end": 14102,
+          "code": "707.11",
+          "code_system": "ICD-9-CM",
+          "description": "Ulcer of thigh",
+          "type": "Human",
+          "covered_text": "Inguinal ulcers"
+        },
+        {
+          "begin": 14253,
+          "end": 14256,
+          "code": "070.54",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic hepatitis C without mention of hepatic coma",
+          "type": "Human",
+          "covered_text": "HCV"
+        },
+        {
+          "begin": 14811,
+          "end": 14815,
+          "code": "338.4",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic pain syndrome",
+          "type": "Human",
+          "covered_text": "Pain"
+        }
+      ],
+      "text": "Admission Date:  [**2146-11-28**]              Discharge Date:   [**2146-12-26**]\n\nDate of Birth:  [**2100-1-12**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 165**]\nChief Complaint:\nLeg pain, fever\n\nMajor Surgical or Invasive Procedure:\nTransesophageal echo\nUrgent aortic valve replacement with size 23 St.\n[**Male First Name (un) 923**] Epic tissue valve [**2146-12-21**]\n\n\nHistory of Present Illness:\n is 46 yo F with hx of IVDU, HCV, granulomatous disease of GI\ntract, liver, spleen, and bone, hx of cellulitis, osteomyelitis\nof spine, and chronic leg ulcers, and anxiety who p/w 2 days of\nleg pain, right worse than left, bilateral leg swelling that\nfeel hot to touch. She was in her usual state of health until 2\ndays ago when she noticed that her R leg was painful and\nswollen, she took 6 Advil for pain relief which did not help.\nMeasured her fever at home to be 103. Yesterday, she began to\nnotice swelling and pain in her L leg. No recent trauma in the\narea, no open cuts or wounds preceding swelling. She was seen\nyesterday at OSH where she was advised to be admitted for\nantibiotics, she left AMA because she had a negative experience\nduring an admission last year. Did not get any antibiotics PO on\ndischarge. Last night, she used a pin to put a hole in her R leg\nin hopes of relieving pressure, noticed minimal clear drainage\nfrom the area. Of note, pt has chronic venous stasis changes\nwith erythema on R leg. Also has large ulcers in inguinal areas\nL>R (6cm ulcer with pus and drainage in L inguinal area, 1cm\nulcer in R), she does dressing changes for these daily at home\nusing Silvedene. Inguinal ulcers are [**3-1**] heroin injection, pt\nreports she has not injected in about 6 months and ulcers have\nimproved since then. She never injected in her toes, has not\ninjected in arms in many years due to scarring. Pt says she was\ntested for HIV since stopping drugs and has been negative, HCV\ninfection is \"inactive\" per her, she was never treated for this.\n.\nIn ED vitals were 99.2, 96/49, 78, 16, 97% RA, she received 1g\nvancomycin.\n.\nReview of systems:\n+ Weight loss of 15 lbs in past month, decreased appetite;\nchronic headaches; + non-productive cough of few days\nNo N/V, no diarrhea, no changes in urine or bowel, abdominal\ndistension at baseline per pt\n\nPast Medical History:\nHepatitis C antibody positive, negative VL [**4-/2143**], neg VL [**4-5**]\nHIV negative as of [**4-5**]\nIVDU with unclear timeline of use\n[**Name (NI) **] Deficiency Anemia\nSeptic R shoulder s/p drainage and debridement of rotator cuff\nOsteo of spine\nThigh ulcers (left upper thigh ulcer for >7 years)\nMSSA bacteremia with endocarditis resulting in 8 week [**Hospital1 2025**]\nadmission in [**4-4**]\nMSSA osteo [**2143**] resulting in 7 week [**Hospital1 18**] admission in [**2143**]\n\nNon-caseating granulomas ([**6-3**]): liver biopsy, bone marrow,\ngastric antrum thought to be the etiology of her elevated alk\nphos (likely a result of injecting heroin with cocaine\ncontaining talc)\n\nSocial History:\nLives with parents given need for assistance but has her own\nhome. Parents are incredibly supportive and caring. Patient also\nhas a sister, brother and step-brother who are involved in her\nlife. She no longer works. Hx of IVDU, cocaine, heroin but clean\nfor 6 months.  >60 pack year history now 6 cigs/day, Hx of EtOH\nabuse now quit 10 years ago. Had daughter who died 2 years ago\nat age 24 from overdose.\n\n\nFamily History:\nDenies famiy history of CA, HTN, heart disease, liver disease.\n\nPhysical Exam:\nGA: AOx3, NAD\nHEENT:  PERRLA, moist oral mucosa, anicteric sclera\nCards: RRR, S1/S2, holosystolic murmur [**4-2**] in LUSB\nPulm: coarse breath sounds B/L, no wheezes or rales\nAbd: soft, distended, + hepatosplenomegaly, no appreciable fluid\nwave, non-tender, no rebound/guarding\n6x6cm draining ulcer in L inguinal area; 1x1cm ulcer in R\ninguinal area\nExtremities: R>L edema and erythema, no distinct border, warm to\ntouch b/l, erythematous, small draining tract on R dorsal shin,\nscaling b/l, 2+ distal pulses\nNeuro/Psych: CNs II-XII intact. no motor deficits, gait not\nassessed\n\nPertinent Results:\nAdmission labs:\n.\n[**2146-11-28**] 12:35PM BLOOD WBC-6.4# RBC-2.94* Hgb-9.2* Hct-27.4*\nMCV-93 MCH-31.4 MCHC-33.7 RDW-14.7 Plt Ct-217\n[**2146-11-28**] 12:35PM BLOOD Neuts-81.4* Lymphs-13.3* Monos-3.0\nEos-2.1 Baso-0.3\n[**2146-11-28**] 12:35PM BLOOD Glucose-94 UreaN-33* Creat-1.9* Na-134\nK-5.5* Cl-101 HCO3-22 AnGap-17\n[**2146-11-29**] 07:30AM BLOOD ALT-24 AST-25 AlkPhos-276* TotBili-0.4\n[**2146-11-29**] 07:30AM BLOOD Calcium-8.3* Phos-3.1 Mg-1.9\n[**2146-12-1**] 07:15AM BLOOD calTIBC-147* Hapto-189 Ferritn-761*\nTRF-113*\n[**2146-12-2**] 07:00AM BLOOD VitB12-419 Folate-12.2\n[**2146-11-29**] 07:30AM BLOOD AFP-1.2\n.\n\n[**2146-12-26**] 05:54AM BLOOD WBC-4.9 RBC-2.67* Hgb-8.4* Hct-24.7*\nMCV-93 MCH-31.5 MCHC-34.1 RDW-17.3* Plt Ct-215\n[**2146-12-25**] 03:38AM BLOOD WBC-5.1 RBC-2.67* Hgb-8.5* Hct-24.7*\nMCV-93 MCH-31.6 MCHC-34.2 RDW-17.4* Plt Ct-217\n[**2146-12-26**] 05:54AM BLOOD Glucose-96 UreaN-18 Creat-1.0 Na-139\nK-3.2* Cl-101 HCO3-31 AnGap-10\n[**2146-12-25**] 03:38AM BLOOD Glucose-93 UreaN-21* Creat-1.3* Na-137\nK-3.0* Cl-98 HCO3-31 AnGap-11\n[**2146-12-24**] 03:17AM BLOOD Glucose-114* UreaN-17 Creat-1.3* Na-139\nK-3.8 Cl-102 HCO3-27 AnGap-14\n\n[**2146-12-21**] TEE\nPRE-BYPASS: The left atrium is normal in size. No spontaneous\necho contrast or thrombus is seen in the body of the left atrium\nor left atrial appendage. No spontaneous echo contrast or\nthrombus is seen in the body of the right atrium or the right\natrial appendage. No atrial septal defect is seen by 2D or color\nDoppler. The left ventricular cavity is moderately dilated.\nOverall left ventricular systolic function is moderately\ndepressed (LVEF= 30-35 %). The right ventricular cavity is\nmildly dilated with moderate global free wall hypokinesis. There\nis a mass in the right ventricle. The ascending, transverse and\ndescending thoracic aorta are normal in diameter and free of\natherosclerotic plaque to XX cm from the incisors. The diameters\nof aorta at the sinus, ascending and arch levels are normal. The\naortic valve leaflets are moderately thickened. There is no\naortic valve stenosis. Severe (4+) aortic regurgitation is seen.\nThe mitral valve leaflets are mildly thickened. Trivial mitral\nregurgitation is seen. The tricuspid valve leaflets are mildly\nthickened. There is a very small pericardial effusion. There are\nno echocardiographic signs of tamponade.\n\nPOSR CPB:\n1. Improved [**Hospital1 **]-ventricular systolci function with inotropic\nsupport\n2. Bioprosthetic valve in aortic p[osition. Well seated and good\nleaflet excursion (PG =30 mm Hg\n3. RV mass in the subvalvular apparatus is still visible\n4. No other change\n\n\nBrief Hospital Course:\nPt is 46 yo F with hx of IVDU, HCV, hx of cellulitis and\nosteomyelitis who p/w chronic non-healing ulcers [**3-1**] heroin use\nb/l and fever, found to have MSSA bacteremia and aortic valve\nendocarditis.\n.\n# MSSA Bacteremia - blood cultures ([**3-3**]) bottles from admission\npositive for MSSA. The most likely source is the bilateral\nchronic non-healing ulcers [**3-1**] heroin use. Though pt reports not\nhaving used heroin in the past 6 months, ulcers have not healed\ndespite dressing changes at home. On admission, ulcers appeared\ninfected and pt was febrile. Pt was started on IV nafcillin for\nMSSA, to complete a total 6-week course. Of note, pt has history\nof MSSA infections in the past (abscesses, bacteremia, and R\nsided endocarditis) for which she completed nafcillin courses.\nPt also had history of thoracic osteomyelitis in [**2144**] treated at\n[**Hospital1 2025**], though this was considered as possible source of bacteremia\non this admission, it seems less likely given no clinical\nsymptoms of back pain and more likely source of ulcers. Pt\nrefused MRI imaging, but should consider outpatient open MRI if\ndoes not continue to have improvement. All surveillance cultures\nsince admission have had no growth to date. As described below,\npt was found to have aortic valve vegetation and infective\nendocarditis with no abscess seen on TEE.\n.\n# Endocarditis - in setting of MSSA bacteremia, pt was found to\nhave 1.4cm vegetation on aortic valve, new since echo in [**3-9**],\nwith moderate aortic insufficiency. Started on 6-week course of\nIV nafcillin as above. Cardiology and CT surgery were consulted\nand did not recommend acute surgical intervention given\nbacteremia and no decompensated heart function. Daily ECGs did\nnot show any abnormalities, pt had hypotension to SBP 100\nthroughout most of hospital stay and one episode of fever to\n100.5 a week into therapy; given this, a TEE was done to\nevaluate for cardiac abscess and was negative for this.\n-Patient was transferred into MICU after code was called on\nfloors for hypoxic respiratory failure.  This respiratory\nfailure was quickly reversed with diuresis and NIMV, and was\nthought to be [**3-1**] severe aortic valve insufficiency in the\nsetting of patient anxiety.  Similar episodes occurred\nintermittently in the ICU with any mild increase in SVR, so\npatient was kept with sedative/opiate regimen to stave off\nanxiety.  Cardiac surgery was consulted, and it was agreed that\nsurgical correction of valve was only viable therapeutic option.\n.\n# Inguinal ulcers - [**3-1**] long-standing heroin use though pt\nreports no use for past 6 months. She had been doing daily\ndressing changes at home though these ulcers were likely\ninfected on admission (6x6cm in L anterior thigh area, 2x2cm in\nR). Wound care and plastic surgery were consulted, plastic\nsurgery did not recommend surgical debriding, pt had wet-to-dry\ndressing changes three times a day which required 1mg IV\ndilaudid for pain control beforehand. Once pt completes\nantibiotic course for bacteremia and endocarditis, she will\nfollow up with plastic surgery to consider flap placement to\nensure healing. Pt had bilateral venous stasis changes and 1+\nedema below knees, in addition to leg elevation and\nbetamethasone cream, she was diuresed with lasix and had\ndecrease in edema and pain in legs.\n.\n# Acute renal insufficiency - likely pre-renal given poor PO\nintake recently and infection. Cr improved to 1.3 today, FeNa\n2.5% and FeUrea 52% both of which suggest resolution of\npre-renal state\n- encourage PO intake\n- continue to trend Cr\n.\n# Hypotension - now improved, SBP 110s-120s. Given aortic valve\nvegetation, will maintain high suspicion for valve dysfunction\ncontributing to hypotension.\n- encourage PO intake\n- monitor on tele, daily ECGs\n- continue abx as above\n.\n# Anemia - chronic, HCT baseline 26-27, [**Month/Day (2) **] studies in [**2145**]\nrevealed likely etiology as anemia of chronic inflammation. [**Year (4 digits) **]\npanel indicates likely ACI, no evidence for hemolysis. HCT\nbumped appropriately to 1U RBC. HCT stable today.\n- T+S, PIV\n- peripheral smear - no schistocytes\n- B12 / folate - normal\n.\n# Anxiety - continue home 1mg TID ativan\n.\n# HCV - \"inactive\", never treated for this. Pt had liver biopsy\nin [**6-6**] which showed fibrosis with no clear etiology for\nhepatomegaly. She follows in [**Hospital **] clinic here. Recent poor\nappetite and weight loss is concerning for malignancy, though\nAFP not elevated.\n- outpt work-up for ?malignancy\n- LFTs stable\n\n# IVDU - pt reports being clean for 6 months\n- social work consult\nMICU Course\nThe patient is a 46 yo F with hx of IVDU complicated by MSSA\nverebral osteo [**2143**], and prior history of endocarditis [**2145**] at\n[**Hospital1 2025**], h/o MRSA/pseudomonal hip wound infection, HCV,\ngranulomatous disease of GI tract, chronic inguinal ulcers, and\nanxiety with MSSA endocarditis who was transferred to the MICU\nfor hypercarpic respiratory failure and code blue after being\nbriefly unresponsive.\n.\n#. Hypercarpic Respiratory Failure:  Pt initial ABG showed ph\n6.84 and PCO2 of 112.  The differential for her respiratory\nfailure was medication related especially opioid use causing\nrespiratory depression. Although pt with high tolerance and has\nbeen stable on dilaudid dosing and no recent increase.  The\npatient does have a history of drug abuse and could have had an\nalternate source of drugs or been hording her medications.  Pt\nalso could have fallen because of a seizure with head injury\nleading to bleed or embolic/hemorrhagic stroke given\nendocarditis, but pt awake and interactive making major CNS\nprocess unlikely.  Pt does not have a history of COPD or other\nhistory of bronchospasm.  CXR did not show clear evidence of\nacute pathology.  LENIs performed yesterday negative for DVT,\nmaking PE less likely.  Pt was extubated after being intubated\nfor 2 days and sating well on 2L NC/RA.\n.\n#. MSSA Endocarditis: Pt previously on Nafcillin for MSSA\nendocarditis seen on TEE.  Pt had stat ECHO performed at bedside\nby cardiology  ID consulted and recommended changing to\nvancomycin and meropenem given concern for sepsis upon initial\npresentation to ICU, which was later switched back to Nafcillin\ngiven stable BP's and clinical status, as this provides better\ncoverage of her MSSA bacteremia.Follow-up blood, urine and\nsputum cultures\n.\n\n# Hypotension: Likely [**3-1**] cardiogenic shock given markedly\ndecreased EF.  Sepsis was initially also a concern in this pt\nwith MSSA endocarditis but given mixed venous of < 70,\ncardiogenic is more likely. Required briefly phenylephrine but\nwas later weaned off and tolerated well without.  TTE repeated\nyesterday showed EF 40%, worsening AR.  Was transfused 2 units\nof PRBC's.\n.\n#. ECG Changes: Pt with inverted t-waves in the setting of her\nsevere acidosis and tachycardia.  Troponin peaked at 0.27 and\ntrended down at 0.22.  Per cardiology, will not pursue\nanticoagulation for concern of ACS , according to ECHO report\npatient most likely experienced coronary artery embolization\nfrom her endocarditis\n.\n#. S/p Fall: Pt found down for undetermined time. She is\ncurrently complaining of neck pain.  MRI of the cervial and\nthoracic spine was unremarkable and trauma surgery cleared the\npatient.\n.\n# Inguinal ulcers - [**3-1**] long-standing heroin use.  No evidence\nof infection and was being followed by plastics.\n\n- wound care with wet to dry dressings TID\n\n.\n\n# HCV - Never underwent treatment. Pt had liver biopsy in [**6-6**]\nwhich showed fibrosis with no clear etiology for hepatomegaly.\nTrended LFTs Q daily\n.\n# IVDU - pt reports being clean for 6-8 months per prior notes\n.Social work following\n.\n#[**Last Name (un) **]??????Cr elevated to 1.6 from low of 1.1 a few days ago.  [**Month (only) 116**] be\nhypoperfusion [**3-1**] cardiogenic shock.  UA also positive; may have\nthrown septic emboli to kidneys. Urine lytes showed a boderline\nprerenal etiology with Fe urea 28%. Eosinophil smear showed.....\n.\n# Chronic Pain??????on opioids for pain.  However, given respiratory\nfailure after receiving dilaudid and ativan, will be\nconservative in dosing, ordered Lorazepam 1 mg PO/NG Q6H:PRN\nanxiety , HYDROmorphone (Dilaudid) 0.5-1 mg IV Q3H:PRN\npain/agitation\n.\n#Anemia: Hct drop from 27 to 22 this morning, 20 on repeat.\nTransfused 2 units PRBCs,did not increase appropiately to first\nunit and DIC labs were sent which were unremarkable, Guiac\nstools...\n\nCardiac Surgery Course:\nThe patient was brought to the operating room on [**2146-12-21**] where\nthe patient underwent aortic valve replacement with 23mm Porcine\ntissue valve.  Overall the patient tolerated the procedure well\nand post-operatively was transferred to the CVICU in stable\ncondition for recovery and invasive monitoring.  The patient\nremained intubated on POD 1 as she had no cuff leak and had been\nintubated multiple times during this admission, and it was\ndecided to manage her conservatively.  She remained on\nepinephrine and propofol drips. Decadron was initiated for lack\nof cuff leak on POD 2.\nPOD 3 found the patient extubated, alert and oriented and\nbreathing comfortably.  The patient was neurologically intact\nand hemodynamically stable, weaned from inotropic and\nvasopressor support.  Acute pain service was consulted, as she\nhas a h/o IVDA and refused MS Contin or Oxycontin.\nRecommendations were made for dilaudid.  ID continued to follow\nand the patient is to be maintained on Nafcillin for a 6 week\ncourse through [**2147-1-9**].  PICC was placed to facilitate therapy.\n Fluconazole was initiated for yeast in the urine.  Beta blocker\nwas initiated and the patient was gently diuresed toward the\npreoperative weight.  The patient was transferred to the\ntelemetry floor for further recovery.  Chest tubes and pacing\nwires were discontinued without complication.  The patient was\nevaluated by the physical therapy service for assistance with\nstrength and mobility.  By the time of discharge on POD 5, the\npatient was ambulating freely, the wound was healing and pain\nwas controlled with oral analgesics.  The patient was discharged\nto [**Hospital1 **], [**Location (un) 701**] in good condition with\nappropriate follow up instructions.\n\n\nMedications on Admission:\nCurrently taking only 1 mg lorazepam three times a\nday for anxiety.  Does not take any other medications at\npresent.\nMedications were reviewed and reconciled with the patient.\n\nDischarge Medications:\n1. betamethasone valerate 0.1 % Ointment Sig: One (1) Appl\nTopical [**Hospital1 **] (2 times a day): apply to both legs twice a day.\n2. trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as\nneeded for insomnia.\n3. zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).\n\n4. lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for anxiety.\n5. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\n6. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n7. hydromorphone 2 mg Tablet Sig: 3-5 Tablets PO Q3H (every 3\nhours) as needed for pain.\n8. diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO Q6H\n(every 6 hours) as needed for itching.\n9. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as\nneeded for wheezes.\n10. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO HS (at bedtime) as needed for constipation.\n11. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n12. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H\n(every 4 hours) as needed for pain.\n13. fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every\n24 hours).\n14. Nafcillin 2 g IV Q4H\n15. nafcillin 2 gram Recon Soln Sig: One (1)  Intravenous every\nfour (4) hours for 2 weeks: Last day of treatment [**2147-1-9**].\n16. HYDROmorphone (Dilaudid) 1 mg IV BID:PRN dressing changes\n17. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day\nfor 2 weeks.\n18. potassium chloride 20 mEq Tab Sust.Rel. Particle/Crystal\nSig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 2\nweeks.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 700**] - [**Location (un) 701**]\n\nDischarge Diagnosis:\nMSSA bacteremia\nInfective endocarditis, s/p AVR\nPMH:\nIVDA -heroin(says clean 6months).\nUlcers/cellulitis B thighs. HepC, ascites,T9 osteo w/paraspinal\nabscess [**2143**],hepatosplenomegaly\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating, gait steady\nSternal pain managed with oral analgesics\nSternal Incision - healing well, no erythema or drainage\nEdema- 1+ LEs\n\n\nDischarge Instructions:\nMedical Service:\nIt was a pleasure taking care of you at [**Hospital1 18**]. You were admitted\nwith fevers and leg pain. We found a bacteria growing in your\nblood called MSSA (which you have had in the past) and we\nstarted you on appropriate antibiotics for this. We did an\nechocardiogram of your heart which showed that the bacteria had\nspread to a valve in your heart. Your heart function was\nmonitored and was stable throughout your hospital stay. The most\nlikely source for your infection are the ulcers on your legs.\nOur plastic surgery team recommended that you get these debrided\nduring dressing changes by using wet-to-dry dressings, which we\nhave been doing three times a day in the hospital. We gave you\nsome water pills to take the fluid out of your legs. You should\ncontinue your antibiotic course for a total of 6 weeks\n.\nWe have made the following changes to your medications:\nContinue nafcillin for 6 weeks total (last day = [**2147-1-9**])\n\nCARDIAC SURGERY:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming, and look at your incisions\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n\n\nFollowup Instructions:\nThe following appointments have already been scheduled for you:\n.\nDepartment: DIV OF PLASTIC SURGERY\nWhen: FRIDAY [**2147-1-6**] at 2:00 PM\nWith: [**First Name11 (Name Pattern1) 2053**] [**Last Name (NamePattern1) 6751**], MD [**Telephone/Fax (1) 6742**]\nBuilding: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **]\nCampus: WEST Best Parking: [**Hospital Ward Name **] Garage\n.\nDepartment: [**Hospital3 249**]\nWhen: MONDAY [**2147-1-23**] at 11:40 AM\nWith: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3990**], [**First Name3 (LF) **] [**Telephone/Fax (1) 250**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n.\nDepartment: INFECTIOUS DISEASE\nWhen: THURSDAY [**2147-2-2**] at 10:00 AM\nWith: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 10000**], MD [**Telephone/Fax (1) 457**]\nBuilding: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Hospital 1422**]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\nCardiac Surgery\nProvider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) **], MD Phone:[**Telephone/Fax (1) 170**]\nDate/Time:[**2147-1-16**] 1:30\n\nCardiology:\nDr [**First Name (STitle) **] on [**2-2**] at 11:40am\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]\n\nCompleted by:[**2146-12-26**]"
+    }
+  ]
+}

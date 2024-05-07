@@ -1,0 +1,50 @@
+{
+  "hadm_id": 155246,
+  "comment": "Spinal Fusion - Missing OP Note to validate PCS",
+  "notes": [
+    {
+      "note_id": 44791,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 231,
+          "end": 242,
+          "code": "344.04",
+          "code_system": "ICD-9-CM",
+          "description": "C(5)-C(7) quadriplegia and quadriparesis, incomplete",
+          "type": "Human",
+          "covered_text": "Tetraplegia"
+        },
+        {
+          "begin": 581,
+          "end": 598,
+          "code": "952.09",
+          "code_system": "ICD-9-CM",
+          "description": "C(5)-C(7) level with other specified spinal cord injury",
+          "type": "MapType.APPROX",
+          "covered_text": "C5 burst fracture"
+        },
+        {
+          "begin": 615,
+          "end": 633,
+          "code": "805.05",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of fifth cervical vertebra",
+          "type": "MapType.APPROX",
+          "covered_text": "spinal cord injury"
+        },
+        {
+          "begin": 3114,
+          "end": 3132,
+          "code": "E883.0",
+          "code_system": "ICD-9-CM",
+          "description": "Accident from diving or jumping into water [swimming pool]",
+          "type": "Human",
+          "covered_text": "diving into a pool"
+        }
+      ],
+      "text": "Admission Date:  [**2176-7-15**]              Discharge Date:   [**2176-7-30**]\n\nDate of Birth:  [**2142-4-8**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nPenicillins\n\nAttending:[**First Name3 (LF) 4691**]\nChief Complaint:\nTetraplegia\n\nMajor Surgical or Invasive Procedure:\n[**2176-7-15**] C5 corpectomy with C4-C6 fusion\n[**2176-7-17**] Percutaneous tracheostomy\n[**2176-7-25**] [**Month/Day/Year 282**] tube\n\n\nHistory of Present Illness:\nThis is a 34-year-old male who dove into a pool and never\nresurfaced.  He was taken to an OSH where he was found to have\nsustained a C5 burst fracture with incomplete spinal cord injury\nat C5.  He was taken to the operating room for emergent\ndecompression.\n\nPast Medical History:\nNone\n\nSocial History:\nPositive ETOH\n\nFamily History:\nNoncontributory\n\nPhysical Exam:\nAfebrile, VSS\nNo distress, alert, communicative\nPERLA, EOMI, anicteric\nTracheostomy site clean\nRRR, lungs clear\nAbdomen soft, nontender, [**Last Name (LF) 19973**], [**First Name3 (LF) 282**] tube site clean\nExt: warm, well perfused, gross upper arm movement\n\nPertinent Results:\nWBC trend:\n[**2176-7-15**] 01:16AM BLOOD WBC-15.0* RBC-4.54* Hgb-14.6 Hct-40.7\nMCV-90 MCH-32.1* MCHC-35.9* RDW-13.5 Plt Ct-219\n[**2176-7-15**] 07:24AM BLOOD WBC-13.1* RBC-4.40* Hgb-13.7* Hct-39.6*\nMCV-90 MCH-31.1 MCHC-34.6 RDW-13.6 Plt Ct-175\n[**2176-7-15**] 04:56PM BLOOD WBC-18.7* RBC-4.70 Hgb-14.7 Hct-43.2\nMCV-92 MCH-31.4 MCHC-34.1 RDW-13.5 Plt Ct-239\n[**2176-7-16**] 01:00AM BLOOD WBC-22.9* RBC-4.60 Hgb-14.2 Hct-41.6\nMCV-91 MCH-30.8 MCHC-34.0 RDW-13.6 Plt Ct-310\n[**2176-7-17**] 02:07AM BLOOD WBC-11.8* RBC-3.76* Hgb-11.8* Hct-34.4*\nMCV-92 MCH-31.4 MCHC-34.3 RDW-13.6 Plt Ct-195\n[**2176-7-18**] 02:03AM BLOOD WBC-12.2* RBC-3.36* Hgb-10.7* Hct-30.3*\nMCV-90 MCH-31.8 MCHC-35.1* RDW-12.9 Plt Ct-177\n[**2176-7-22**] 03:14AM BLOOD WBC-9.4 RBC-3.02* Hgb-9.4* Hct-27.9*\nMCV-92 MCH-31.1 MCHC-33.8 RDW-13.0 Plt Ct-246\n[**2176-7-23**] 02:00AM BLOOD WBC-11.2* RBC-3.10* Hgb-9.4* Hct-28.3*\nMCV-91 MCH-30.4 MCHC-33.4 RDW-13.0 Plt Ct-265\n[**2176-7-24**] 02:15AM BLOOD WBC-11.5* RBC-3.23* Hgb-9.8* Hct-29.3*\nMCV-91 MCH-30.4 MCHC-33.6 RDW-13.3 Plt Ct-251\n[**2176-7-25**] 02:57AM BLOOD WBC-16.2* RBC-3.51* Hgb-10.9* Hct-31.9*\nMCV-91 MCH-31.0 MCHC-34.1 RDW-13.6 Plt Ct-298\n[**2176-7-26**] 03:20AM BLOOD WBC-18.2* RBC-3.58* Hgb-11.1* Hct-32.2*\nMCV-90 MCH-31.2 MCHC-34.7 RDW-13.7 Plt Ct-307\n[**2176-7-27**] 01:04AM BLOOD WBC-13.7* RBC-3.09* Hgb-9.6* Hct-28.1*\nMCV-91 MCH-30.9 MCHC-34.0 RDW-13.7 Plt Ct-311\n[**2176-7-28**] 01:59AM BLOOD WBC-10.0 RBC-3.09* Hgb-9.4* Hct-28.1*\nMCV-91 MCH-30.3 MCHC-33.4 RDW-13.8 Plt Ct-281\n[**2176-7-29**] 02:28AM BLOOD WBC-8.7 RBC-3.49* Hgb-10.7* Hct-32.4*\nMCV-93 MCH-30.8 MCHC-33.2 RDW-13.5 Plt Ct-290\n.\nABG:\n[**2176-7-23**] 03:16PM BLOOD Type-ART pO2-146* pCO2-41 pH-7.41\ncalTCO2-27 Base XS-1\n[**2176-7-24**] 02:49AM BLOOD Type-ART pO2-163* pCO2-46* pH-7.42\ncalTCO2-31* Base XS-5\n.\nMicro: all culture data negative for bacterial pathogens.\n\nBrief Hospital Course:\nMr. [**Known lastname 174**] was transferred to [**Hospital1 18**] after sustaining a C5 burst\nfracture with spinal cord involvement after diving into a pool.\nHe was taken emergenty to the operating room for decompression.\n\n.\nNeuro: On admission his sensory level was only intact above the\nnipple line.  He went to the operating room for an emergent C5\ncorpectomy with C4-C6 fusion.  He was initially unable to move\nany extremity but now is able to move his arms grossly.  He\nshould continue physical and occupational therapy.\n.\nCardiovascular: He initially required vasopressor support for\nspinal shock.  This was able to be weaned off.  He is now\nhemodynamically stable.\n.\nPulmonary: Due to his level of spinal cord injury, he required\npecutaneous tracheostomy.  He is currently on pressure support\nand being actively weaned to trach mask.\n.\nGI: He failed a speech and swallow evaluation and a [**Hospital1 282**] tube was\nplaced.  He is currently tolerating tube feeds at a goal rate.\n.\nGU: He had no genitourinary issues and has adequate urine\noutput.\n.\nID: He did spike fevers to 103 with no obvious source.  He was\nstarted on broad spectrum antibiotics.  Culture data has all\nbeen negative.  His WBC count became elevated and there was a\nquestionable LLL infiltration.  He underwent bronchoscopy with\nBAL.  All of these cultures have been negative.  His\nleukocytosis resolved.  He received a total of 9 days of\nvancomycin.  He was started on Cipro and will continue this for\n5 more days.\n.\nHeme: His hematocrit has remained stable.  Vascular surgery was\nconsulted for a potential IVC filter placement.  They did not\nrecommend an IVC filter at this time and that he should continue\non subcutaneous heparin.\n.\nEndo: His blood sugars were well controlled on sliding scale\ninsulin.\n\n\nMedications on Admission:\nNone\n\nDischarge Medications:\n1. Chlorhexidine Gluconate 0.12 % Mouthwash [**Hospital1 **]: One (1) ML\nMucous membrane [**Hospital1 **] (2 times a day).\n2. Albuterol Sulfate 0.63 mg/3 mL Solution for Nebulization [**Hospital1 **]:\nOne (1) neb Inhalation every six (6) hours as needed for SOB.\n3. Baclofen 10 mg Tablet [**Hospital1 **]: 0.5 Tablet PO TID (3 times a day)\nas needed for muscule spasm.\n4. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution [**Hospital1 **]: 5-10 MLs\nPO Q4H (every 4 hours) as needed for pain.\n5. Bisacodyl 5 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily) as\nneeded for constipation.\n6. Midodrine 5 mg Tablet [**Hospital1 **]: One (1) Tablet PO TID (3 times a\nday).\n7. Amitriptyline 25 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2\ntimes a day) as needed for neuropathic pain & depression.\n8. Docusate Sodium 50 mg/5 mL Liquid [**Hospital1 **]: [**12-1**]  PO BID (2 times a\nday).\n9. Magnesium Hydroxide 400 mg/5 mL Suspension [**Month/Day (2) **]: Thirty (30)\nML PO Q6H (every 6 hours) as needed for constipation.\n10. Senna 8.6 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO BID (2 times a\nday) as needed for cosntipation.\n11. Lorazepam 0.5 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO Q4H (every 4\nhours) as needed for anxiety.\n12. Heparin (Porcine) 5,000 unit/mL Solution [**Month/Day (2) **]: 5000 (5000)\nunits Injection TID (3 times a day).\n13. Ibuprofen 100 mg/5 mL Suspension [**Month/Day (2) **]: 400-800 mg PO Q6H\n(every 6 hours) as needed for pain,fever.\n14. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)\nTablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).\n15. Sodium Chloride 0.65 % Aerosol, Spray [**Last Name (STitle) **]: [**12-1**] Sprays Nasal\nQID (4 times a day) as needed for dry nares.\n16. Camphor-Menthol 0.5-0.5 % Lotion [**Month/Day (2) **]: One (1) Appl Topical\nTID (3 times a day) as needed for itching/rash.\n17. Triamcinolone Acetonide 0.025 % Cream [**Month/Day (2) **]: One (1) Appl\nTopical QID (4 times a day).\n18. Pregabalin 25 mg Capsule [**Month/Day (2) **]: Two (2) Capsule PO TID (3\ntimes a day).\n19. Ciprofloxacin 500 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO Q12H\n(every 12 hours) for 5 days.\n20. Ondansetron 4 mg IV Q8H:PRN Nausea\n21. Sodium Chloride 0.9%  Flush 3 mL IV Q8H:PRN line flush\nPeripheral line: Flush with 3 mL Normal Saline every 8 hours and\nPRN.\n22. DiphenhydrAMINE 25 mg IV Q6H:PRN itchy\n23. HYDROmorphone (Dilaudid) 1-3 mg IV Q3H:PRN pain\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 85**] - [**Location (un) 86**]\n\nDischarge Diagnosis:\nC5 burst fracture with spinal cord involvement\nTetraplegia\n\n\nDischarge Condition:\nFair\n\n\nDischarge Instructions:\nCall your surgeon or return to the ED if you experience:\n- fever > 101.5\n- chills\n- problems with your tracheostomy\n- problems with your [**Location (un) 282**] tube\n- inability to tolerate tube feeds\n.\nContinue daily trach care.\nContinue daily [**Location (un) 282**] care.\n.\nStay in your cervical collar for a total of 6 weeks.\n.\nContinue ciprofloxacin for 5 more days to complete a 10 day\ncourse for pneumonia.\n.\nContinue pressure support ventilation as needed.  Wean to trach\nmask as tolerated.\n\nFollowup Instructions:\nFollow up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1352**] in 4 weeks.  Call his office at\n([**Telephone/Fax (1) 2007**] to schedule your appointment.\n\nFollow up in the Trauma clinic in 4 weeks.  Call the clinic at\n([**Telephone/Fax (1) 22750**] to schedule your appointment.\n\n\n\n"
+    }
+  ]
+}

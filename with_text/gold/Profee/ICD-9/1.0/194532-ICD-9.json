@@ -1,0 +1,1063 @@
+{
+  "hadm_id": 194532,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 230365,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 15,
+          "end": 44,
+          "code": "794.31",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+          "type": "MapType.EXACT",
+          "covered_text": "Borderline short P-R interval"
+        }
+      ],
+      "text": "Sinus rhythm.  Borderline short P-R interval.  RSR' pattern in lead V1.\nSince the previous tracing of [**2102-4-2**] probably no significant change.\n\n"
+    },
+    {
+      "note_id": 632566,
+      "category": "Physician",
+      "description": "Physician Admission Note - MICU",
+      "annotations": [
+        {
+          "begin": 28,
+          "end": 31,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 33,
+          "end": 55,
+          "code": "796.2",
+          "code_system": "ICD-9-CM",
+          "description": "Elevated blood pressure reading without diagnosis of hypertension",
+          "type": "MapType.EXACT",
+          "covered_text": "labile blood pressures"
+        },
+        {
+          "begin": 88,
+          "end": 98,
+          "code": "344.1",
+          "code_system": "ICD-9-CM",
+          "description": "Paraplegia",
+          "type": "Human",
+          "covered_text": "paraplegia"
+        },
+        {
+          "begin": 179,
+          "end": 182,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 194,
+          "end": 219,
+          "code": "796.2",
+          "code_system": "ICD-9-CM",
+          "description": "Elevated blood pressure reading without diagnosis of hypertension",
+          "type": "MapType.EXACT",
+          "covered_text": "labile blood\n   pressures"
+        },
+        {
+          "begin": 310,
+          "end": 314,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTIs"
+        },
+        {
+          "begin": 389,
+          "end": 401,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypertensive"
+        },
+        {
+          "begin": 406,
+          "end": 417,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "tachycardic"
+        },
+        {
+          "begin": 575,
+          "end": 578,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 764,
+          "end": 786,
+          "code": "796.2",
+          "code_system": "ICD-9-CM",
+          "description": "Elevated blood pressure reading without diagnosis of hypertension",
+          "type": "MapType.EXACT",
+          "covered_text": "labile blood pressures"
+        },
+        {
+          "begin": 1129,
+          "end": 1150,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic dysreflexia"
+        },
+        {
+          "begin": 1479,
+          "end": 1488,
+          "code": "784.0",
+          "code_system": "ICD-9-CM",
+          "description": "Headache",
+          "type": "MapType.APPROX",
+          "covered_text": "headaches"
+        },
+        {
+          "begin": 1490,
+          "end": 1504,
+          "code": "368.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified visual disturbances",
+          "type": "MapType.APPROX",
+          "covered_text": "blurred vision"
+        },
+        {
+          "begin": 1553,
+          "end": 1567,
+          "code": "780.97",
+          "code_system": "ICD-9-CM",
+          "description": "Altered mental status",
+          "type": "MapType.APPROX",
+          "covered_text": "disorientation"
+        },
+        {
+          "begin": 1742,
+          "end": 1763,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic dysreflexia"
+        },
+        {
+          "begin": 1860,
+          "end": 1871,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 3062,
+          "end": 3105,
+          "code": "952.05",
+          "code_system": "ICD-9-CM",
+          "description": "C(5)-C(7) level spinal cord injury, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Traumatic C6 quadroplegia from car accident"
+        },
+        {
+          "begin": 3127,
+          "end": 3145,
+          "code": "599.60",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary obstruction, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Neurogenic bladder"
+        },
+        {
+          "begin": 3210,
+          "end": 3221,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "Dysreflexia"
+        },
+        {
+          "begin": 3253,
+          "end": 3263,
+          "code": "729.82",
+          "code_system": "ICD-9-CM",
+          "description": "Cramp of limb",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Spasticity"
+        },
+        {
+          "begin": 3280,
+          "end": 3284,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTIs"
+        },
+        {
+          "begin": 5623,
+          "end": 5641,
+          "code": "596.54",
+          "code_system": "ICD-9-CM",
+          "description": "Neurogenic bladder NOS",
+          "type": "Human",
+          "covered_text": "neurogenic bladder"
+        },
+        {
+          "begin": 5709,
+          "end": 5720,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 5722,
+          "end": 5734,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 6472,
+          "end": 6493,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic dysreflexia"
+        },
+        {
+          "begin": 6540,
+          "end": 6543,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 6860,
+          "end": 6870,
+          "code": "733.90",
+          "code_system": "ICD-9-CM",
+          "description": "Disorder of bone and cartilage, unspecified",
+          "type": "Human",
+          "covered_text": "Osteopenia"
+        },
+        {
+          "begin": 7019,
+          "end": 7023,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 7882,
+          "end": 7892,
+          "code": "344.1",
+          "code_system": "ICD-9-CM",
+          "description": "Paraplegia",
+          "type": "Human",
+          "covered_text": "paraplegia"
+        },
+        {
+          "begin": 7938,
+          "end": 7942,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTIs"
+        },
+        {
+          "begin": 8043,
+          "end": 8046,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 8178,
+          "end": 8181,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:  UTI, labile blood pressures\n   HPI:\n   55 y.o. male with C6 paraplegia ([**2069**]) c/b spasticity and autonomic\n   dysreflexia presents from OSH with UTI and widely labile blood\n   pressures.\n   Patient states today he began to have more \"spasms\" that are often\n   associated with UTIs.  Pt states he presented to [**Hospital3 **] today\n   and was found to be hypertensive and tachycardic.  He was treated with\n   ativan and labetalol.  He also reportedly had a CTA of his chest that\n   did not reveal a PE.  Subsequently, he was found to have a UTI and\n   given a dose of gentamycin.  Of note, patient was just discharged from\n   [**Hospital3 1672**] one week ago and completed a course of Levofloxacin this\n   morning.  Based on his labile blood pressures, the patient was\n   transferred to [**Hospital1 1**].\n   .\n   The patient suffered a C6 cord injury in [**2069**] following a motor vehicle\n   accident. His neurologic status has been stable for the past 33 years,\n   per his report.\n   .\n   Approximately 8 months ago he began experiencing episodes of\n   \"spasms\" associated with symptoms of autonomic dysreflexia. The spasms\n   are extensor only and begin in his legs and move proximally to involve\n   his hips, middle and upper back. Each extensor spasm lasts only a few\n   seconds, is recurrent every few minutes, and is painful, culminating in\n   discomfort in the left chest region. Associated with the spasms are:\n   acute onset severe headaches, blurred vision, mild sweating/hot\n   feeling, and a feeling of disorientation. Systolic blood pressure\n   (taken at work and at home) during these episodes is elevated to the\n   170-200 range. Sitting upright helps reduce the spasms and symptoms of\n   autonomic dysreflexia.\n   .\n   In the ED, initial vs were: 98.7 81 122/64 18 100, though he also had\n   an episode of hypotension in the 60s. Patient was given vancomycin for\n   concern for sepsis.  The patient received IVF and had a clonidine patch\n   was removed.  Admitted to MICU for hypotension with ? sepsis.\n   .\n   On the floor, patient continues to complain of spasms.  Denies any\n   dysuria, or fevers/chills.  Patient reports foley catheter was last\n   changed about a week ago.\n   .\n   Review of systems:\n   (+) Per HPI\n   (-) Denies fever, chills, night sweats, recent weight loss or gain.\n   Denies headache, sinus tenderness, rhinorrhea or congestion. Denies\n   cough, shortness of breath, or wheezing. Denies chest pain, chest\n   pressure, palpitations, or weakness. Denies nausea, vomiting, diarrhea,\n   constipation, abdominal pain, or changes in bowel habits. Denies\n   dysuria, frequency, or urgency. Denies arthralgias or myalgias. Denies\n   rashes or skin changes.\n   Patient admitted from: [**Hospital1 1**] ER\n   History obtained from [**Hospital 31**] Medical records\n   Allergies:\n   Bethanechol\n   Unknown;\n   Levofloxacin\n   Rash;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Past medical history:\n   Family history:\n   Social History:\n   (1) Traumatic C6 quadroplegia from car accident in [**2069**]\n   (2) Neurogenic bladder, has had indwelling foley catheter for last 10\n   years.\n   (3) Dysreflexia - autonomic and somatic\n   (4) Spasticity\n   (5) Multiple UTIs (including ESBL E. coli)\n   Non-Contributary\n   Lives alone, not married, no children. Smoked, quit 6 mos ago,\n   2-3 beers/night. Denies illicits. Works at VA in [**Hospital1 97**].\n   Review of systems:\n   As noted in  HPI\n   Flowsheet Data as of [**2102-5-23**] 11:43 PM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since [**04**] AM\n   Tmax: 35.8\nC (96.5\n   Tcurrent: 35.8\nC (96.5\n   HR: 78 (78 - 78) bpm\n   BP: 150/131(136) {150/131(136) - 150/131(136)} mmHg\n   RR: 26 (26 - 26) insp/min\n   SpO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n                  Total In:\n                  PO:\n                  TF:\n   IVF:\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    100 mL\n   Urine:\n   100 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                   -100 mL\n   Respiratory\n   O2 Delivery Device: Nasal cannula\n   SpO2: 98%\n   Physical Examination\n   General Appearance: Well nourished, No acute distress\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Normocephalic\n   Lymphatic: Cervical WNL, Supraclavicular WNL\n   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, Bowel sounds present\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: Absent\n   Musculoskeletal: Muscle wasting\n   Skin:  Warm\n   Neurologic: Attentive, Follows simple commands, Responds to: Not\n   assessed, Oriented (to): , Movement: Purposeful, Tone: Not assessed\n   Labs / Radiology\n   [**Telephone/Fax (2) 12009**]\n   96\n   3.9\n   137\n   38.3\n   10.6\n        [image002.jpg]\n   Lactate 3.9\n   U/A: Trace LE, Pos Nitrites, [**4-7**] WBC, Moderate Bacteria\n   Assessment and Plan\n   55 y.o. male s/p C6 injury ([**2069**]) c/b autonomic dysreflexia,\n   spasticity, neurogenic bladder with chronic foley who presents from OSH\n   with increased spasms, tachycardia, hypertension with a likely UTI\n   found in our ED to be hypotensive.\n   # Urinary Tract Infection/Neurogenic bladder - patient likely has\n   chronic urinary tract infection or incompletely eradicated urinary\n   tract infection.  He does have a recent history of ESBL E. Coli in the\n   urine that was sensitive to Zosyn.\n   - Zosyn for possible ESBL e. coli.  Will narrow antibiotics based upon\n   culture data.\n   - change foley catheter if not changed in emergency department.\n   - f/u urine culture\n   - continue home detrol/imipramine\n   - consider urology consult for ? suprapubic catheter.\n   # Autonomic Dysreflexia/Spasticity - AD likely exacerbated by urinary\n   tract infections causing worsening of spasticity. Previous\n   exacerbations of autonomic dysreflexia have improved with treatment of\n   underlying UTI.\n   - Monitor blood pressure closely\n   - continue home dose baclofen/diazepam/clonazepam\n   - nitropaste for blood pressure > 200 systolic.\n- Consider Physical Medicine and Rehabilitation consultation\n   # Depression/Anxiety\n patient appears to be euthymic.\n   - continued on home dose imipramine, sertraline.\n   # Osteopenia - likely due to non-weight bearing status, muscular\n   atrophy, and possible autonomic nervous system changes.\n   - continue calcium/vitamin D\n   # GERD\n   - continue home omeprazole\n   .\n   # FEN: No IVF, replete electrolytes, heart healthy diet\n   # Prophylaxis: Subcutaneous heparin, bowel regimen\n   # Access: peripherals\n   # Communication: Patient\n   # Code:  Full (discussed with patient)\n   # Disposition: ICU pending clinical improvement\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2102-5-23**] 11:00 PM\n   20 Gauge - [**2102-5-23**] 11:00 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status:\n   Disposition:\n   ------ Protected Section ------\n   I saw and examined the patient, and was physically present with the ICU\n   resident for the key portions of the services provided. I agree with\n   the note above, including the assessment and plan.  To that I would add\n   the following:\n   This is a 55 yo man with C6 paraplegia with known autonomic\n   dysreflexia, chronic UTIs, who is admitted to the ICU with\n   hypotension.  Of note, recently d/c\ns as above from an OSH with UTI.\n   Had a transient SBP in 60s in ED and lactate of 3.9.  In ICU, BPs have\n   normalized.  Will treat presumptively with Zosyn for UTI but have low\n   threshold to D/C given multiple recent abx courses.  Recheck lactate\n   suspect that it has normalized as well.\n   Patient is critically ill. Time spent 35 minutes.\n   ------ Protected Section Addendum Entered By:[**Name (NI) 2966**] [**Name8 (MD) 2967**], MD\n   on:[**2102-5-24**] 00:33 ------\n"
+    },
+    {
+      "note_id": 38771,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 247,
+          "end": 260,
+          "code": "728.85",
+          "code_system": "ICD-9-CM",
+          "description": "Spasm of muscle",
+          "type": "MapType.APPROX",
+          "covered_text": "Muscle spasms"
+        },
+        {
+          "begin": 530,
+          "end": 551,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic\ndysreflexia"
+        },
+        {
+          "begin": 566,
+          "end": 579,
+          "code": "728.85",
+          "code_system": "ICD-9-CM",
+          "description": "Spasm of muscle",
+          "type": "MapType.APPROX",
+          "covered_text": "muscle spasms"
+        },
+        {
+          "begin": 581,
+          "end": 592,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 633,
+          "end": 636,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 682,
+          "end": 691,
+          "code": "796.2",
+          "code_system": "ICD-9-CM",
+          "description": "Elevated blood pressure reading without diagnosis of hypertension",
+          "type": "MapType.EXACT",
+          "covered_text": "labile BP"
+        },
+        {
+          "begin": 881,
+          "end": 902,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic\ndysreflexia"
+        },
+        {
+          "begin": 957,
+          "end": 960,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 1252,
+          "end": 1273,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic dysreflexia"
+        },
+        {
+          "begin": 1279,
+          "end": 1292,
+          "code": "728.85",
+          "code_system": "ICD-9-CM",
+          "description": "Spasm of muscle",
+          "type": "MapType.APPROX",
+          "covered_text": "muscle spasms"
+        },
+        {
+          "begin": 1876,
+          "end": 1897,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic dysreflexia"
+        },
+        {
+          "begin": 1985,
+          "end": 1996,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 2179,
+          "end": 2190,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 2374,
+          "end": 2377,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 2398,
+          "end": 2408,
+          "code": "041.7",
+          "code_system": "ICD-9-CM",
+          "description": "Pseudomonas infection in conditions classified elsewhere and of unspecified site",
+          "type": "Human",
+          "covered_text": "Aeruginosa"
+        },
+        {
+          "begin": 2851,
+          "end": 2894,
+          "code": "952.05",
+          "code_system": "ICD-9-CM",
+          "description": "C(5)-C(7) level spinal cord injury, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Traumatic C6 quadroplegia from car accident"
+        },
+        {
+          "begin": 2913,
+          "end": 2931,
+          "code": "599.60",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary obstruction, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Neurogenic bladder"
+        },
+        {
+          "begin": 2990,
+          "end": 3001,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "Dysreflexia"
+        },
+        {
+          "begin": 3030,
+          "end": 3040,
+          "code": "729.82",
+          "code_system": "ICD-9-CM",
+          "description": "Cramp of limb",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Spasticity"
+        },
+        {
+          "begin": 3054,
+          "end": 3058,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTIs"
+        },
+        {
+          "begin": 5905,
+          "end": 5927,
+          "code": "041.7",
+          "code_system": "ICD-9-CM",
+          "description": "Pseudomonas infection in conditions classified elsewhere and of unspecified site",
+          "type": "Human",
+          "covered_text": "PSEUDOMONAS AERUGINOSA"
+        },
+        {
+          "begin": 6698,
+          "end": 6719,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic dysreflexia"
+        },
+        {
+          "begin": 6816,
+          "end": 6827,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 6829,
+          "end": 6841,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 6856,
+          "end": 6859,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 7429,
+          "end": 7432,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 7946,
+          "end": 7957,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "Dysreflexia"
+        },
+        {
+          "begin": 8091,
+          "end": 8112,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic dysreflexia"
+        },
+        {
+          "begin": 12625,
+          "end": 12628,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 12673,
+          "end": 12683,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 12688,
+          "end": 12695,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "anxiety"
+        },
+        {
+          "begin": 12696,
+          "end": 12706,
+          "code": "733.90",
+          "code_system": "ICD-9-CM",
+          "description": "Disorder of bone and cartilage, unspecified",
+          "type": "Human",
+          "covered_text": "Osteopenia"
+        },
+        {
+          "begin": 12707,
+          "end": 12711,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 13120,
+          "end": 13133,
+          "code": "728.85",
+          "code_system": "ICD-9-CM",
+          "description": "Spasm of muscle",
+          "type": "MapType.APPROX",
+          "covered_text": "muscle spasms"
+        },
+        {
+          "begin": 13491,
+          "end": 13494,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 13521,
+          "end": 13542,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic\ndysreflexia"
+        }
+      ],
+      "text": "Admission Date:  [**2102-5-23**]              Discharge Date:   [**2102-5-26**]\n\nDate of Birth:  [**2047-1-28**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nBethanechol / Levofloxacin\n\nAttending:[**First Name3 (LF) 348**]\nChief Complaint:\nMuscle spasms\n\nMajor Surgical or Invasive Procedure:\nPlacement of a PICC\n\n\nHistory of Present Illness:\nPatient is a 55 y.o. male s/p C6 injury ([**2069**]) c/b autonomic\ndysreflexia, spasticity, neurogenic bladder with chronic foley\nwho presented from OSH with increased episodes of autonomic\ndysreflexia that included muscle spasms, tachycardia,\nhypertension/hypotension in setting of UTI.  Patient was\ninitially admitted to unit for labile BP, including hypotension.\n Patient reports recently being treated for UTI at an OSH with\nlevofloxacin and macrobid.  He was discharged home with\nmacrobid.  He endorses increasing episodes of autonomic\ndysreflexia over the past few days despite being treated for\nESBL UTI.  He presented to OSH yesterday with these symptoms,\nand was transferred to [**Hospital1 18**] for further management.  The\npatient had endorsed chest pain that was not [**3-7**] ACS, and had\nCTA chest that was negative for PE.\n.\nApproximately 8 months ago he began experiencing episodes of\nautonomic dysreflexia. The muscle spasms associated with these\nepisodes are extensor only and begin in his legs and move\nproximally to involve his hips, middle and upper back. Each\nextensor spasm lasts only a few seconds, is recurrent every few\nminutes, and is painful, culminating in discomfort in the left\nchest region. Associated with the spasms are: acute onset severe\nheadaches, blurred vision, mild sweating/hot feeling, and a\nfeeling of disorientation. Systolic blood pressure (taken at\nwork and at home) during these episodes is elevated to the\n170-200 range. Sitting upright helps reduce the spasms and\nsymptoms of autonomic dysreflexia.\n.\nIn the ED, initial vs were: 98.7 81 122/64 18 100, though he\nalso had an episode of hypotension in the 60s. Patient was given\nvancomycin for concern for sepsis. Dropped pressures to the\n60's.  The patient received IVF and had a clonidine patch was\nremoved. Admitted to MICU for hypotension with ? sepsis.\n.\nIn the MICU, patient continued to complain of spasms. He denied\nany dysuria, fevers, or chills. Patient reports foley catheter\nwas last changed about a week ago. His UTI was positive for P.\nAeruginosa. His antibiotics were changed from zosyn to\nmeropenem.  His foley catheter was changed.\n.\nOn the medicine floor, the patient endorses spasms.  He denies\nchest pain/SOB.  He also denies f/c.  He has no abdominal pain.\nHe is concerned about his urologic care.  He had been followed\nby a urologist until recently.  He had a scheduled urodynamic\neval that he was not able to keep [**3-7**] his recent\nhospitalization.\n\n\nPast Medical History:\n(1) Traumatic C6 quadroplegia from car accident in [**2069**]\n(2) Neurogenic bladder, has had indwelling foley catheter for\nlast 10 years.\n(3) Dysreflexia - autonomic and somatic\n(4) Spasticity\n(5) Multiple UTIs (including ESBL E. coli)\n\nSocial History:\nLives alone, not married, no children. Smoked, quit 6 mos ago,\n2-3 beers/night. Denies illicits. Works at VA in [**Hospital1 1474**].\n\nFamily History:\nNon-contributory.\n\nPhysical Exam:\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen:  soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: foley draining clear yellow urine\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema. contractures of bilateral hands; external rotation of\nbilateral feet.\n\nExam at discharge:  afebrile, 120/80s,  HR 90s,  93% RA\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen:  soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: foley draining clear yellow urine\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema. contractures of bilateral hands; external rotation of\nbilateral feet.\nunchanged exam\n\nPertinent Results:\nLabs on admission:\n[**2102-5-23**] 06:20PM URINE  RBC-21-50* WBC-[**4-7**] BACTERIA-MOD\nYEAST-NONE EPI-0-2\n[**2102-5-23**] 06:20PM URINE  BLOOD-LG NITRITE-POS PROTEIN-25\nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0\nLEUK-TR\n[**2102-5-23**] 06:20PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.035\n[**2102-5-23**] 06:20PM   PLT COUNT-231\n[**2102-5-23**] 06:20PM   NEUTS-71.0* LYMPHS-22.8 MONOS-4.8 EOS-1.0\nBASOS-0.4\n[**2102-5-23**] 06:20PM   WBC-10.6# RBC-4.52* HGB-13.5* HCT-38.3*\nMCV-85 MCH-29.8 MCHC-35.3* RDW-14.1\n[**2102-5-23**] 06:20PM   estGFR-Using this\n[**2102-5-23**] 06:20PM   GLUCOSE-98 UREA N-9 CREAT-0.7 SODIUM-137\nPOTASSIUM-3.9 CHLORIDE-96 TOTAL CO2-25 ANION GAP-20\n[**2102-5-23**] 06:25PM   LACTATE-3.9*\n\nIMAGES / STUDIES:\n\n[**2102-5-23**] CXR: UPRIGHT AP VIEW OF THE CHEST: The left PICC has\nbeen removed. The heart size remains top normal. The mediastinal\nand hilar contours are unremarkable. The lungs are grossly\nclear. No large pleural effusion or pneumothorax is seen. There\nare no acute osseous abnormalities. Partially imaged is a\ncerclage wire within the cervical spine. IMPRESSION: No acute\ncardiopulmonary abnormality.\n\nMICRO:\n\n- [**2102-5-23**] Urine culture - P. aeruginosa see below\n- [**2102-5-23**] Blood culture - NGTD\n- [**2102-5-23**] MRSA screen - pending\n\n**FINAL REPORT [**2102-5-25**]**\n\n   URINE CULTURE (Final [**2102-5-25**]):\n      PSEUDOMONAS AERUGINOSA.    >100,000 ORGANISMS/ML..\n\n                              SENSITIVITIES: MIC expressed in\nMCG/ML\n\n_________________________________________________________\n                             PSEUDOMONAS AERUGINOSA\n                             |\nCEFEPIME--------------     2 S\nCEFTAZIDIME-----------     2 S\nCIPROFLOXACIN---------<=0.25 S\nGENTAMICIN------------     2 S\nMEROPENEM-------------   0.5 S\nPIPERACILLIN/TAZO-----     8 S\nTOBRAMYCIN------------   <=1 S\n\nMRSA screen (-)\n[**5-23**], [**5-25**], and [**5-26**] blood cultures pending\n\nUreaN Creat Na  K   Cl HCO3 AnGap\n  7    0.6 139 4.0 102   28   13\n\nWBC RBC   Hgb   Hct   MCV MCH  MCHC RDW  Plt Ct\n6.8 4.38* 12.9* 37.5* 86  29.5 34.4 14.1  184\n\n\n\n\nBrief Hospital Course:\n55 y.o. male s/p C6 injury ([**2069**]) c/b autonomic dysreflexia,\nspasticity, neurogenic bladder with chronic foley who presents\nfrom OSH with increased spasms, tachycardia, hypertension with a\nlikely UTI found in our ED to be hypotensive.\n\n# Urinary Tract Infection/Neurogenic bladder. Patient likely has\nchronic urinary tract infection or incompletely eradicated\nurinary tract infection.  He does have a recent history of ESBL\nE. Coli in the urine. He was initially started on Zosyn as prior\nESBL E. coli was listed as sensitive, but given this is also a\nbeta-lactam, he was converted to meropenem on the morning\nfollowing admission. Urine culture grew pan-sensitive\nPseudomonas.  Meropenem was continued, as patient had recent\nhistory of quinolone-resistent Enterococcus UTI and ESBL E. coli\nin past few months.  He was continued on home medications of\nDetrol and imipramine.  He was discharged on [**2102-5-26**] to rehab to\ncomplete a 10 day course of meropenem, a PICC was placed prior\nto discharge.  The patient will see Dr. [**Last Name (STitle) **] [**Last Name (STitle) **] Urology at [**Hospital1 18**]\non [**2102-6-5**] to establish care and for evaluation of his recurrent\nUTIs and possible uro-dynamic studies, as he does not have\naccess to urologic care at home.\n\n# Autonomic Dysreflexia/Spasticity - Symptoms were likely\nexacerbated by urinary tract infections causing worsening of\nspasticity. Previous exacerbations of autonomic dysreflexia have\nimproved with treatment of underlying UTI. BPs were monitored\nclosely and improved to baseline levels on teh morning following\nadmission. The patient was continued on home doses of\nbaclofen/diazepam/clonazepam.  The patient required nitro paste\ntwice in the setting of elevated BP, with good effect.\n\n# Depression/Anxiety. The patient was continued on home doses of\nimipramine, and sertraline.\n\n# Osteopenia. Likely due to non-weight bearing status, muscular\natrophy, and possible autonomic nervous system changes. The\npatient was continued on his home calcium/vitamin D.\n\n# GERD. Patient was continued on his home omeprazole.\n\n# FEN: No IVF, replete electrolytes, heart healthy diet\n# Prophylaxis: Subcutaneous heparin, bowel regimen\n# Access: peripherals\n# Communication: Patient\n# Code:  Full (discussed with patient)\n\nMedications on Admission:\n1. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n2. Sertraline 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n3. Imipramine HCl 10 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n4. Detrol LA 4 mg Capsule, Sust. Release 24 hr Sig: One (1)\nCapsule, Sust. Release 24 hr PO once a day.\n5. Baclofen 10 mg Tablet Sig: Two (2) Tablet PO QID (4 times a\nday).\n6. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for\nconstip.\n8. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1)  PO\n\nDAILY (Daily).\n9. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2)\nTablet PO DAILY (Daily).\n10. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)\nTablet, Chewable PO TID (3 times a day).\n11. Nitroglycerin 2 % Ointment Sig: [**2-4**] inch Transdermal prn\ndysreflexia as needed for SBP >190: Recheck 1 hour after placing\n\n(or earlier if pt lightheaded). Wipe off for BP <150.\n12. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO BID (2\ntimes a day).\n13. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID\n(2 times a day).\n14. Diazepam 10 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for spacticity: hold for sedation, rr<12\n15. Tylenol 325 mg Tablet Sig: 1-2 Tablets PO every six (6)\nhours as needed for headache.\n16. Clonazepam 1mg Tablet Sig 1.5 tablets PO every eight (8)\nhours.\n\nDischarge Medications:\n1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for\nConstipation.\n2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for Constipation.\n3. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2\ntimes a day).\n4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n5. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n6. Imipramine HCl 10 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n7. Baclofen 10 mg Tablet Sig: Two (2) Tablet PO QID (4 times a\nday).\n8. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n9. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1)  PO\nDAILY (Daily).\n10. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2)\nTablet PO DAILY (Daily).\n11. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)\nTablet, Chewable PO TID (3 times a day).\n12. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO BID (2\ntimes a day).\n13. Diazepam 10 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for spasticity.\n14. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H\n(every 6 hours) as needed for pain/headache.\n15. Tolterodine 2 mg Tablet Sig: One (1) Tablet PO BID (2 times\na day).\n16. Clonazepam 0.5 mg Tablet Sig: Three (3) Tablet PO TID (3\ntimes a day).\n17. Nitroglycerin 2 % Ointment Sig: One (1) [**2-4**] inch Transdermal\nPRN as needed for SBP>190: Recheck 1 hour after placing\n(or earlier if pt lightheaded). Wipe off for BP <150.\n18. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)\nInjection TID (3 times a day): please continue while at rehab.\n19. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: One (1) ML\nIntravenous PRN (as needed) as needed for line flush: for PICC\nmanagement.\n20. Meropenem 500 mg Recon Soln Sig: One (1)  Intravenous every\nsix (6) hours for 10 days: course to complete on [**2102-6-4**].\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 **] Senior Healthcare - [**Location (un) 1887**]\n\nDischarge Diagnosis:\nPrimary Diagnoses:\nPseudomonas UTI\nAutonomic dysreflexia\n\nSecondary Diagnoses:\nDepression and anxiety\nOsteopenia\nGERD\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Out of Bed with assistance to chair or\nwheelchair.\n\n\nDischarge Instructions:\nIt has been a pleasure to be involved in your care Mr. [**Known lastname 86093**]\nwhile you have been a patient at [**Hospital1 1170**]. You were transferred here from [**Hospital3 **] because\nyou were having muscle spasms, fast heart rate, and high blood\npressure consistent with previous episodes of autonomic\ndysreflexia. In our emergency department you had low blood\npressure and were admitted first to the ICU and then to the\ngeneral medicine [**Hospital1 **]. You were found to have a urinary tract\ninfection with a bacteria called pseudomonas aeruginosa. We\nthink that the UTI probably exacerbated your autonomic\ndysreflexia. We treated your infection with an antibiotic called\nmeropenem and you got better. We made plans for you to continue\nyour treatment in a rehab center and to follow-up with a\nurologist as an outpatient.\n\nPlease note that the following medications have changed:\n-Meropenem\n-No other changes were made to your medications.\n\nPlease see below for your follow up appointments.\n\nFollowup Instructions:\nPlease follow-up with the following:\n\nDepartment: SURGICAL SPECIALTIES\nWhen: MONDAY [**2102-6-5**] at 1 PM\nWith: [**First Name8 (NamePattern2) 161**] [**Name6 (MD) 162**] [**Name8 (MD) 163**], MD [**Telephone/Fax (1) 921**]\nBuilding: [**Hospital6 29**] [**Location (un) **]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\n\n\n"
+    },
+    {
+      "note_id": 632647,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 17,
+          "end": 21,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "HOTN"
+        },
+        {
+          "begin": 251,
+          "end": 261,
+          "code": "344.1",
+          "code_system": "ICD-9-CM",
+          "description": "Paraplegia",
+          "type": "Human",
+          "covered_text": "paraplegia"
+        },
+        {
+          "begin": 295,
+          "end": 319,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic\n   dysreflexia"
+        },
+        {
+          "begin": 329,
+          "end": 333,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTIs"
+        },
+        {
+          "begin": 361,
+          "end": 374,
+          "code": "728.85",
+          "code_system": "ICD-9-CM",
+          "description": "Spasm of muscle",
+          "type": "MapType.APPROX",
+          "covered_text": "muscle spasms"
+        },
+        {
+          "begin": 416,
+          "end": 427,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 486,
+          "end": 490,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "HOTN"
+        },
+        {
+          "begin": 4532,
+          "end": 4535,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 4710,
+          "end": 4731,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "Autonomic dysreflexia"
+        }
+      ],
+      "text": "Chief Complaint: HOTN\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   55 yo man with C6 paraplegia since [**2069**] with MVA, known autonomic\n   dysreflexia, chronic UTIs.  Yesterday with increased muscle spasms.\n   Went to OSH where he was HTNsive and tachycardia.  Transferred to [**Hospital1 1**]\n   ED.  Had episode of HOTN to 60s, responded to IVF.  Lactate was also\n   3.9\n   24 Hour Events:\n   Allergies:\n   Bethanechol\n   Unknown;\n   Levofloxacin\n   Rash;\n   Last dose of Antibiotics:\n   Piperacillin/Tazobactam (Zosyn) - [**2102-5-23**] 11:59 PM\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2102-5-24**] 08:49 AM\n   Omeprazole (Prilosec) - [**2102-5-24**] 08:49 AM\n   Other medications:\n   lactulose\n   CaCO3\n   vitamin D\n   miralax\n   baclofen\n   imipramamine\n   zoloft\n   prilosec\n   hep s/q\n   detrol\n   klonapin\n   Changes to medical and family history:\n   C6 paraplegia\n   autonomic dysreflexia in extensor muscles of LE and then chest muscles\n   associated\n   with H/A blurred vision, and disorientation.\n   recurrent UTIs\n   SHx\n   works at VA\n   quit smoking\n   occasiona ETOH\n   FHx: noncontributory for autonomic instabilility\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Constitutional: No(t) Fever\n   Eyes:  Blurry vision\n   Ear, Nose, Throat: No(t) Dry mouth\n   Cardiovascular: No(t) Chest pain\n   Nutritional Support: No(t) NPO\n   Respiratory: No(t) Dyspnea\n   Gastrointestinal: No(t) Abdominal pain\n   Genitourinary: Foley\n   Neurologic: No(t) Headache\n   Psychiatric / Sleep: No(t) Suicidal\n   Signs or concerns for abuse : No\n   Pain: No pain / appears comfortable\n   Flowsheet Data as of  [**2102-5-24**] 10:13 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since [**04**] AM\n   Tmax: 36.7\nC (98\n   Tcurrent: 36.3\nC (97.3\n   HR: 76 (62 - 78) bpm\n   BP: 193/84(96) {93/49(59) - 193/131(136)} mmHg\n   RR: 21 (10 - 26) insp/min\n   SpO2: 94%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                    100 mL\n                                                                  1,058 mL\n   PO:\n             960 mL\n   TF:\n   IVF:\n                                                                    100 mL\n                                                                     98 mL\n   Blood products:\n   Total out:\n                                                                    100 mL\n                                                                    825 mL\n   Urine:\n                                                                    100 mL\n                                                                    825 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                    233 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SpO2: 94%\n   ABG: ///27/\n   Physical Examination\n   General Appearance: No acute distress\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Normocephalic\n   Lymphatic: Cervical WNL\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, Bowel sounds present\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: Absent\n   Skin:  Not assessed\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Movement: Not assessed, Tone: Not assessed\n   Labs / Radiology\n   13.4 g/dL\n   191 K/uL\n   101 mg/dL\n   0.6 mg/dL\n   27 mEq/L\n   3.5 mEq/L\n   6 mg/dL\n   100 mEq/L\n   138 mEq/L\n   37.3 %\n   7.4 K/uL\n        [image002.jpg]\n                             [**2102-5-24**]  03:36 AM\n   WBC\n   7.4\n   Hct\n   37.3\n   Plt\n   191\n   Cr\n   0.6\n   Glucose\n   101\n   Other labs: PT / PTT / INR:11.9/28.5/1.0, Lactic Acid:3.0 mmol/L,\n   Ca++:8.7 mg/dL, Mg++:2.0 mg/dL, PO4:2.5 mg/dL\n   Assessment and Plan\n URINARY TRACT INFECTION (UTI):  H/o ESBL E. coli in urine.  Will\n   change to meropenem.  Will follow up [**Hospital 1373**] hospital records to see\n   if he had ESBL at [**Doctor First Name 1373**].\n   Autonomic dysreflexia:  most likely due to UTI.  should also r/o C.\n   diff.\n   depression: Stable.\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2102-5-23**] 11:00 PM\n   20 Gauge - [**2102-5-23**] 11:00 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: H2 blocker\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition :Transfer to floor\n   Total time spent: 35 minutes\n"
+    },
+    {
+      "note_id": 632562,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 28,
+          "end": 31,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 33,
+          "end": 55,
+          "code": "796.2",
+          "code_system": "ICD-9-CM",
+          "description": "Elevated blood pressure reading without diagnosis of hypertension",
+          "type": "MapType.EXACT",
+          "covered_text": "labile blood pressures"
+        },
+        {
+          "begin": 88,
+          "end": 98,
+          "code": "344.1",
+          "code_system": "ICD-9-CM",
+          "description": "Paraplegia",
+          "type": "Human",
+          "covered_text": "paraplegia"
+        },
+        {
+          "begin": 131,
+          "end": 155,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic\n   dysreflexia"
+        },
+        {
+          "begin": 179,
+          "end": 182,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 194,
+          "end": 219,
+          "code": "796.2",
+          "code_system": "ICD-9-CM",
+          "description": "Elevated blood pressure reading without diagnosis of hypertension",
+          "type": "MapType.EXACT",
+          "covered_text": "labile blood\n   pressures"
+        },
+        {
+          "begin": 310,
+          "end": 314,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTIs"
+        },
+        {
+          "begin": 389,
+          "end": 401,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypertensive"
+        },
+        {
+          "begin": 406,
+          "end": 417,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "tachycardic"
+        },
+        {
+          "begin": 575,
+          "end": 578,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 764,
+          "end": 786,
+          "code": "796.2",
+          "code_system": "ICD-9-CM",
+          "description": "Elevated blood pressure reading without diagnosis of hypertension",
+          "type": "MapType.EXACT",
+          "covered_text": "labile blood pressures"
+        },
+        {
+          "begin": 1129,
+          "end": 1150,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic dysreflexia"
+        },
+        {
+          "begin": 1479,
+          "end": 1488,
+          "code": "784.0",
+          "code_system": "ICD-9-CM",
+          "description": "Headache",
+          "type": "MapType.APPROX",
+          "covered_text": "headaches"
+        },
+        {
+          "begin": 1490,
+          "end": 1504,
+          "code": "368.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified visual disturbances",
+          "type": "MapType.APPROX",
+          "covered_text": "blurred vision"
+        },
+        {
+          "begin": 1553,
+          "end": 1567,
+          "code": "780.97",
+          "code_system": "ICD-9-CM",
+          "description": "Altered mental status",
+          "type": "MapType.APPROX",
+          "covered_text": "disorientation"
+        },
+        {
+          "begin": 1742,
+          "end": 1763,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic dysreflexia"
+        },
+        {
+          "begin": 2030,
+          "end": 2041,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 3062,
+          "end": 3105,
+          "code": "952.05",
+          "code_system": "ICD-9-CM",
+          "description": "C(5)-C(7) level spinal cord injury, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Traumatic C6 quadroplegia from car accident"
+        },
+        {
+          "begin": 3127,
+          "end": 3145,
+          "code": "599.60",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary obstruction, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Neurogenic bladder"
+        },
+        {
+          "begin": 3210,
+          "end": 3221,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "Dysreflexia"
+        },
+        {
+          "begin": 3253,
+          "end": 3263,
+          "code": "729.82",
+          "code_system": "ICD-9-CM",
+          "description": "Cramp of limb",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Spasticity"
+        },
+        {
+          "begin": 3280,
+          "end": 3284,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTIs"
+        },
+        {
+          "begin": 5065,
+          "end": 5086,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "lower extremity edema"
+        },
+        {
+          "begin": 5101,
+          "end": 5125,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "lower extremity\n   edema"
+        },
+        {
+          "begin": 5623,
+          "end": 5641,
+          "code": "596.54",
+          "code_system": "ICD-9-CM",
+          "description": "Neurogenic bladder NOS",
+          "type": "Human",
+          "covered_text": "neurogenic bladder"
+        },
+        {
+          "begin": 5709,
+          "end": 5720,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 5722,
+          "end": 5734,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 5820,
+          "end": 5838,
+          "code": "599.60",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary obstruction, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Neurogenic bladder"
+        },
+        {
+          "begin": 6332,
+          "end": 6343,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "Dysreflexia"
+        },
+        {
+          "begin": 6472,
+          "end": 6493,
+          "code": "337.3",
+          "code_system": "ICD-9-CM",
+          "description": "Autonomic dysreflexia",
+          "type": "Human",
+          "covered_text": "autonomic dysreflexia"
+        },
+        {
+          "begin": 6540,
+          "end": 6543,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 6751,
+          "end": 6761,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 6860,
+          "end": 6870,
+          "code": "733.90",
+          "code_system": "ICD-9-CM",
+          "description": "Disorder of bone and cartilage, unspecified",
+          "type": "Human",
+          "covered_text": "Osteopenia"
+        },
+        {
+          "begin": 7019,
+          "end": 7023,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:  UTI, labile blood pressures\n   HPI:\n   55 y.o. male with C6 paraplegia ([**2069**]) c/b spasticity and autonomic\n   dysreflexia presents from OSH with UTI and widely labile blood\n   pressures.\n   Patient states today he began to have more \"spasms\" that are often\n   associated with UTIs.  Pt states he presented to [**Hospital3 **] today\n   and was found to be hypertensive and tachycardic.  He was treated with\n   ativan and labetalol.  He also reportedly had a CTA of his chest that\n   did not reveal a PE.  Subsequently, he was found to have a UTI and\n   given a dose of gentamycin.  Of note, patient was just discharged from\n   [**Hospital3 1672**] one week ago and completed a course of Levofloxacin this\n   morning.  Based on his labile blood pressures, the patient was\n   transferred to [**Hospital1 1**].\n   .\n   The patient suffered a C6 cord injury in [**2069**] following a motor vehicle\n   accident. His neurologic status has been stable for the past 33 years,\n   per his report.\n   .\n   Approximately 8 months ago he began experiencing episodes of\n   \"spasms\" associated with symptoms of autonomic dysreflexia. The spasms\n   are extensor only and begin in his legs and move proximally to involve\n   his hips, middle and upper back. Each extensor spasm lasts only a few\n   seconds, is recurrent every few minutes, and is painful, culminating in\n   discomfort in the left chest region. Associated with the spasms are:\n   acute onset severe headaches, blurred vision, mild sweating/hot\n   feeling, and a feeling of disorientation. Systolic blood pressure\n   (taken at work and at home) during these episodes is elevated to the\n   170-200 range. Sitting upright helps reduce the spasms and symptoms of\n   autonomic dysreflexia.\n   .\n   In the ED, initial vs were: 98.7 81 122/64 18 100, though he also had\n   an episode of hypotension in the 60s. Patient was given vancomycin for\n   concern for sepsis.  The patient received IVF and had a clonidine patch\n   was removed.  Admitted to MICU for hypotension with ? sepsis.\n   .\n   On the floor, patient continues to complain of spasms.  Denies any\n   dysuria, or fevers/chills.  Patient reports foley catheter was last\n   changed about a week ago.\n   .\n   Review of systems:\n   (+) Per HPI\n   (-) Denies fever, chills, night sweats, recent weight loss or gain.\n   Denies headache, sinus tenderness, rhinorrhea or congestion. Denies\n   cough, shortness of breath, or wheezing. Denies chest pain, chest\n   pressure, palpitations, or weakness. Denies nausea, vomiting, diarrhea,\n   constipation, abdominal pain, or changes in bowel habits. Denies\n   dysuria, frequency, or urgency. Denies arthralgias or myalgias. Denies\n   rashes or skin changes.\n   Patient admitted from: [**Hospital1 1**] ER\n   History obtained from [**Hospital 31**] Medical records\n   Allergies:\n   Bethanechol\n   Unknown;\n   Levofloxacin\n   Rash;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Past medical history:\n   Family history:\n   Social History:\n   (1) Traumatic C6 quadroplegia from car accident in [**2069**]\n   (2) Neurogenic bladder, has had indwelling foley catheter for last 10\n   years.\n   (3) Dysreflexia - autonomic and somatic\n   (4) Spasticity\n   (5) Multiple UTIs (including ESBL E. coli)\n   Non-Contributary\n   Lives alone, not married, no children. Smoked, quit 6 mos ago,\n   2-3 beers/night. Denies illicits. Works at VA in [**Hospital1 97**].\n   Review of systems:\n   As noted in  HPI\n   Flowsheet Data as of [**2102-5-23**] 11:43 PM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since [**04**] AM\n   Tmax: 35.8\nC (96.5\n   Tcurrent: 35.8\nC (96.5\n   HR: 78 (78 - 78) bpm\n   BP: 150/131(136) {150/131(136) - 150/131(136)} mmHg\n   RR: 26 (26 - 26) insp/min\n   SpO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n                  Total In:\n                  PO:\n                  TF:\n   IVF:\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    100 mL\n   Urine:\n   100 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                   -100 mL\n   Respiratory\n   O2 Delivery Device: Nasal cannula\n   SpO2: 98%\n   Physical Examination\n   General Appearance: Well nourished, No acute distress\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Normocephalic\n   Lymphatic: Cervical WNL, Supraclavicular WNL\n   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, Bowel sounds present\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: Absent\n   Musculoskeletal: Muscle wasting\n   Skin:  Warm\n   Neurologic: Attentive, Follows simple commands, Responds to: Not\n   assessed, Oriented (to): , Movement: Purposeful, Tone: Not assessed\n   Labs / Radiology\n   [**Telephone/Fax (2) 12009**]\n   96\n   3.9\n   137\n   38.3\n   10.6\n        [image002.jpg]\n   Lactate 3.9\n   U/A: Trace LE, Pos Nitrites, [**4-7**] WBC, Moderate Bacteria\n   Assessment and Plan\n   55 y.o. male s/p C6 injury ([**2069**]) c/b autonomic dysreflexia,\n   spasticity, neurogenic bladder with chronic foley who presents from OSH\n   with increased spasms, tachycardia, hypertension with a likely UTI\n   found in our ED to be hypotensive.\n   # Urinary Tract Infection/Neurogenic bladder - patient likely has\n   chronic urinary tract infection or incompletely eradicated urinary\n   tract infection.  He does have a recent history of ESBL E. Coli in the\n   urine that was sensitive to Zosyn.\n   - Zosyn for possible ESBL e. coli.  Will narrow antibiotics based upon\n   culture data.\n   - change foley catheter if not changed in emergency department.\n   - f/u urine culture\n   - continue home detrol/imipramine\n   - consider urology consult for ? suprapubic catheter.\n   # Autonomic Dysreflexia/Spasticity - AD likely exacerbated by urinary\n   tract infections causing worsening of spasticity. Previous\n   exacerbations of autonomic dysreflexia have improved with treatment of\n   underlying UTI.\n   - Monitor blood pressure closely\n   - continue home dose baclofen/diazepam/clonazepam\n   - nitropaste for blood pressure > 200 systolic.\n- Consider Physical Medicine and Rehabilitation consultation\n   # Depression/Anxiety\n patient appears to be euthymic.\n   - continued on home dose imipramine, sertraline.\n   # Osteopenia - likely due to non-weight bearing status, muscular\n   atrophy, and possible autonomic nervous system changes.\n   - continue calcium/vitamin D\n   # GERD\n   - continue home omeprazole\n   .\n   # FEN: No IVF, replete electrolytes, heart healthy diet\n   # Prophylaxis: Subcutaneous heparin, bowel regimen\n   # Access: peripherals\n   # Communication: Patient\n   # Code:  Full (discussed with patient)\n   # Disposition: ICU pending clinical improvement\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2102-5-23**] 11:00 PM\n   20 Gauge - [**2102-5-23**] 11:00 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status:\n   Disposition:\n"
+    }
+  ]
+}

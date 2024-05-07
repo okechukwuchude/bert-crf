@@ -1,0 +1,235 @@
+{
+  "hadm_id": 119454,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 720563,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 45,
+          "end": 67,
+          "code": "96.71",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous mechanical ventilation for less than 96 consecutive hours",
+          "type": "Human",
+          "covered_text": "mechanical ventilation"
+        }
+      ],
+      "text": "Demographics\n   Day of intubation:\n   Day of mechanical ventilation: 2\n   Ideal body weight: 67.1 None\n   Ideal tidal volume: 268.4 / 402.6 / 536.8 mL/kg\n   Airway\n   Airway Placement Data\n   Known difficult intubation: No\n   Tube Type\n   ETT:\n                   Position: 24 cm at teeth\n                   Route: Oral\n                   Type: Standard\n                   Size: 8mm\n   Cuff  Management:\n                   Vol/Press:\n                                   Cuff pressure: 25\n   cmH2O\n   Lung sounds\n   RLL Lung Sounds: Diminished\n   RUL Lung Sounds: Clear\n   LUL Lung Sounds: Clear\n   LLL Lung Sounds: Diminished\n   Secretions\n   Sputum color / consistency: Blood Tinged / Thin\n   Sputum source/amount: Suctioned / Small\n   Ventilation Assessment\n   Level of breathing assistance: Continuous invasive ventilation\n   Visual assessment of breathing pattern: Normal quiet breathing\n   Assessment of breathing comfort: No response (sleeping / sedated)\n   Trigger work assessment: Triggering synchronously\n   Plan\n   Next 24-48 hours: Continue with daily RSBI tests & SBT's as tolerated\n   Reason for continuing current ventilatory support: Underlying illness\n   not resolved\n"
+    },
+    {
+      "note_id": 50353,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 284,
+          "end": 307,
+          "code": "96.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Insertion of endotracheal tube",
+          "type": "Human",
+          "covered_text": "Endotracheal Intubation"
+        },
+        {
+          "begin": 1404,
+          "end": 1412,
+          "code": "365.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified glaucoma",
+          "type": "Human",
+          "covered_text": "glaucoma"
+        },
+        {
+          "begin": 1413,
+          "end": 1425,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 1471,
+          "end": 1483,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "Prior smoker"
+        },
+        {
+          "begin": 4514,
+          "end": 4517,
+          "code": "414.00",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of vessel, native or graft",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 4518,
+          "end": 4526,
+          "code": "V45.81",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical aortocoronary bypass status",
+          "type": "MapType.EXACT",
+          "covered_text": "s/p CABG"
+        },
+        {
+          "begin": 4528,
+          "end": 4550,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "remote smoking history"
+        },
+        {
+          "begin": 4552,
+          "end": 4571,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial fibrillation"
+        },
+        {
+          "begin": 4652,
+          "end": 4659,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "Human",
+          "covered_text": "hypoxia"
+        },
+        {
+          "begin": 4937,
+          "end": 4948,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 5839,
+          "end": 5842,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 6028,
+          "end": 6036,
+          "code": "V58.61",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of anticoagulants",
+          "type": "Human",
+          "covered_text": "Coumadin"
+        },
+        {
+          "begin": 6801,
+          "end": 6810,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Pneumonia"
+        }
+      ],
+      "text": "Admission Date:  [**2105-2-19**]              Discharge Date:   [**2105-2-26**]\n\n\nService: MEDICINE\n\nAllergies:\nBeta-Blockers (Beta-Adrenergic Blocking Agts) / Terazosin\n\nAttending:[**First Name3 (LF) 800**]\nChief Complaint:\nShortness of Breath\n\nMajor Surgical or Invasive Procedure:\nEndotracheal Intubation\n\nHistory of Present Illness:\n88 M admitted to [**Hospital1 **] [**Location (un) 620**] with CAP and atrial fibrillation\nwith RVR on [**2-16**]. He was treated with levaquin and then changed\nto CTX/azithro/flagyl and subsequently transferred to ICU for\nhypoxia thought to be due to acute heart failure. TTE showed\npreserved systolic function but did show moderate RV dilation so\na CTA chest was done which was negative for PE. Remained hypoxic\nand placed on BIPAP which fell on his head causing laceration,\nhas had 2 CTH which were unrevealing for ICH. Has been on\ndiltiazem gtt for rate control and VSS at time of transfer wre\n90s on NRB and stable BP and HR.\n\nUpon arrival to the ICU patient comfortable and in no acute\ndistress, speaking in full sentences with clear sensorium. No\ncomplaints.\n\nPatient then became difficult to mantain adequate oxygenation on\nNRB and subsequently on BIPAP with saturations in the 90s,\npatient became progressively delirious and intubation was\nundertaken.\n\n\nPast Medical History:\natrial fibrillation\natrial flutter\nCAD s/p CABG\nhistory of PFO\nulcerative colitis\nglaucoma\nhypertension\nBPH s/p TURP\n\nSocial History:\nLives at home. Prior smoker quit several years ago\n\nFamily History:\nunremarkable.\n\nPhysical Exam:\nGeneral Appearance: Intubated, sedated\n\nEyes / Conjunctiva: PERRL\n\nHead, Ears, Nose, Throat: Normocephalic\n\nCardiovascular: Irregular\n\nRespiratory / Chest: Rhonchi bilaterally up to [**1-25**]\n\nAbdominal: Soft, Non-tender, Bowel sounds present\n\nExtremities: No lower extremity edema\n\nSkin:  Warm\n\nNeurologic: Intubated, sedated\n\n\nPertinent Results:\nLabs on Admission:\n[**2105-2-19**] 07:34PM BLOOD WBC-25.3*# RBC-3.02* Hgb-9.8* Hct-29.7*\nMCV-98 MCH-32.3* MCHC-32.9 RDW-13.9 Plt Ct-308\n[**2105-2-19**] 07:34PM BLOOD Neuts-90.1* Lymphs-6.8* Monos-2.7 Eos-0.3\nBaso-0.1\n[**2105-2-19**] 07:34PM BLOOD PT-15.6* PTT-27.7 INR(PT)-1.4*\n[**2105-2-19**] 07:34PM BLOOD Glucose-125* UreaN-40* Creat-1.0 Na-150*\nK-3.9 Cl-107 HCO3-32 AnGap-15\n[**2105-2-19**] 07:34PM BLOOD CK(CPK)-309\n[**2105-2-19**] 07:34PM BLOOD CK-MB-11* MB Indx-3.6 cTropnT-0.54*\n[**2105-2-20**] 03:52AM BLOOD CK-MB-5 cTropnT-0.54*\n[**2105-2-20**] 05:27PM BLOOD cTropnT-0.45*\n[**2105-2-19**] 07:34PM BLOOD Calcium-9.4 Phos-2.8 Mg-2.6\n[**2105-2-19**] 08:18PM BLOOD Type-[**Last Name (un) **] pO2-57* pCO2-55* pH-7.38\ncalTCO2-34* Base XS-5 Comment-GREEN TOP\n[**2105-2-19**] 09:09PM BLOOD Lactate-2.1*\n\nLabs on Discharge:\n\nMicro:\n\nStudies:\nECHO ([**2-20**]): The left atrium is normal in size. Left ventricular\nwall thicknesses and cavity size are normal. There is moderate\nregional left ventricular systolic dysfunction with mid- to\ndistal anterior and anteroseptal hypokinesis. The remaining\nsegments contract normally (LVEF = 35%). Right ventricular\nchamber size and free wall motion are normal. The aortic valve\nleaflets (3) are mildly thickened but aortic stenosis is not\npresent. Mild (1+) aortic regurgitation is seen. The mitral\nvalve leaflets are mildly thickened. There is no mitral valve\nprolapse. Mild to moderate ([**1-24**]+) mitral regurgitation is seen.\nThere is mild pulmonary artery systolic hypertension. Severe\npulmonic regurgitation is seen. There is no pericardial\neffusion.\n\nIMPRESSION: Moderate regional left ventricular systolic\ndysfunction, c/w LAD disease. Mild to moderate mitral\nregurgitation. Mild pulmonary hypertension.\n\nCXR ([**2-21**]): Asymmetrically distributed pulmonary edema improved\nsubstantially between [**2-19**] and [**2-20**] and heart size decreased.\nAllowing for lower lung volumes, there has been no subsequent\nchange. Since 8:10 p.m. on [**2-20**] more confluent areas of\npulmonary abnormality in the axillary subsegments of the right\nupper lobe and right lung base posteriorly, could be pneumonia\nbut could also be asymmetric edema and atelectasis, particularly\nthe latter. There is no appreciable pleural effusion. ET tube is\nin standard placement. Nasogastric tube ends in the stomach. No\npneumothorax.\n\nCXR ([**2-23**]):  In comparison with the study of [**2-22**], there is\ncontinued elevation of pulmonary venous pressure with\natelectasis at the left base medially.\n\nVideo swallow study ([**2-24**]): ****\n\nBrief Hospital Course:\n88 year old male with CAD s/p CABG, remote smoking history,\natrial fibrillation, [**Hospital **] transferred from [**Hospital1 **] [**Location (un) 620**] with\nhypoxia after being treated for a CAP\n.\n# Hypoxia: Initially intubated given difficulty with\noxygenation. TTE revealed regional akinesis and hypokinesis, as\nwell as LVEF 35%, possibly attributable to acute heart failure.\nHe was placed on furosemide gtt but was intermittently held for\nhypotension. Was placed on empiric antibiotics for CAP. Was\nevaluated by Speech & Swallow therapy, and was believed to be\naspirating as well has collecting significant pharyngeal\nresidue, to which he was insensate. This was potentially\nsecondary to irritation of his oropharynx from his brief\nintubation. His hypoxia improved greatly, and it was felt that\nhis swallow would likely recover over time.  A dobhoff was\nplaced for temporary nutrition and med administration.  ****\n.\n# Atrial fibrillation with RVR: Placed on diltiazem gtt for rate\ncontrol. Amiodarone was initially held for concern for\namiodarone-induced pneumonitis, but this was eventually\nrestarted. Warfarin was restarted on [**2-21**]. Dilt was switched\nover to PO and increased to 60qd with good rate control.  At\ndishcarge his home dose of verapamil SR was restarted.\n.\n# CAD s/p CABG/CHF:  Added lisinopril to home regimen.****\n.\n# HTN: Well controlled on home regimen.\n\nMedications on Admission:\nAmiodarone 200 mg daily.\nAccupril 5 mg daily.\nUrsodiol 300 mg t.i.d.\nLevothyroxine 25 mcg daily.\nSulfadiazine 100 mg b.i.d.\nCoumadin.\nVerapamil SR 180 mg daily.\nXalatan eye drops.\n\nDischarge Medications:\n1. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at\nbedtime).\n2. Metipranolol 0.3 % Drops Sig: One (1) drop Ophthalmic qd ().\n\n3. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. Warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4\nPM.\n5. Accupril 5 mg Tablet Sig: One (1) Tablet PO once a day.\n6. Ursodiol 300 mg Capsule Sig: One (1) Capsule PO three times a\nday.\n7. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO once a\nday.\n8. Verapamil SR 180 mg Tablet Sustained Release Sig: One (1)\nTablet Sustained Release PO twice a day.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 459**] for the Aged - MACU\n\nDischarge Diagnosis:\nMultifocal Pneumonia\n\n\nDischarge Condition:\nMental Status:Clear and coherent\nLevel of Consciousness:Alert and interactive\nActivity Status:Ambulatory - requires assistance or aid (walker\nor cane)\n\n\nDischarge Instructions:\n\nYou were transferred to [**Hospital3 **] for better managment of your\nlow oxgyen levels which had required intubation at the outside\nhospital.  It was determined that you had a complicated\npneumonia, which responded well to antibiotics.  It was\ndetermined that you need tube feeds to temporarily protect your\nwind pipe while your swallowing is not strong.\n\nThe following changes were made to your outpatient regimen:\nYour warfarin was changed to 2mg per day.\n\nFollowup Instructions:\nAs needed with Rehab Facility MD\n\nProvider [**Name9 (PRE) 161**] [**Name8 (MD) 6476**], MD Phone:[**Telephone/Fax (1) 2998**] Date/Time:[**2105-7-2**]\n11:15\n\n\n                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 810**] MD, [**MD Number(3) 811**]\n\nCompleted by:[**2105-3-1**]"
+    },
+    {
+      "note_id": 720680,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 5245,
+          "end": 5257,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 5386,
+          "end": 5395,
+          "code": "276.3",
+          "code_system": "ICD-9-CM",
+          "description": "Alkalosis",
+          "type": "MapType.EXACT",
+          "covered_text": "alkalosis"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: resp failure, CAP, afib RVR\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   24 Hour Events:\n   -progress weaning vent\n   -diuresed\n   History obtained from [**Hospital 19**] Medical records\n   Allergies:\n   Beta-Blockers (Beta-Adrenergic Blocking Agts)\n   Unknown;\n   Terazosin\n   Unknown;\n   Last dose of Antibiotics:\n   Ceftriaxone - [**2105-2-21**] 08:15 AM\n   Azithromycin - [**2105-2-21**] 09:00 AM\n   Infusions:\n   Midazolam (Versed) - 0.5 mg/hour\n   Fentanyl (Concentrate) - 25 mcg/hour\n   Furosemide (Lasix) - 5 mg/hour\n   Other ICU medications:\n   Fentanyl - [**2105-2-20**] 12:30 PM\n   Midazolam (Versed) - [**2105-2-20**] 12:30 PM\n   Famotidine (Pepcid) - [**2105-2-21**] 08:00 AM\n   Other medications:\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2105-2-21**] 11:28 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since [**07**] AM\n   Tmax: 37.8\nC (100.1\n   Tcurrent: 36.7\nC (98\n   HR: 94 (76 - 103) bpm\n   BP: 116/64(85) {82/48(61) - 135/69(95)} mmHg\n   RR: 17 (15 - 28) insp/min\n   SpO2: 96%\n   Heart rhythm: AF (Atrial Fibrillation)\n   Wgt (current): 58 kg (admission): 55.9 kg\n   Height: 67 Inch\n             Total In:\n                                                                  2,606 mL\n                                                                    494 mL\n   PO:\n             TF:\n   IVF:\n                                                                  2,506 mL\n                                                                    434 mL\n   Blood products:\n   Total out:\n                                                                  1,555 mL\n                                                                  1,060 mL\n   Urine:\n                                                                  1,555 mL\n                                                                  1,060 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  1,051 mL\n                                                                   -566 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: PSV/SBT\n   Vt (Set): 450 (450 - 450) mL\n   Vt (Spontaneous): 520 (471 - 520) mL\n   PS : 5 cmH2O\n   RR (Set): 16\n   RR (Spontaneous): 19\n   PEEP: 0 cmH2O\n   FiO2: 50%\n   RSBI: 53\n   PIP: 6 cmH2O\n   Plateau: 17 cmH2O\n   SpO2: 96%\n   ABG: 7.44/53/143/31/10\n   Ve: 9.6 L/min\n   PaO2 / FiO2: 286\n   Physical Examination\n   General Appearance: Thin\n   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube\n   Cardiovascular: (S1: Normal)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear :\n   anteriorly)\n   Abdominal: Soft, Non-tender, Bowel sounds present\n   Extremities: Right lower extremity edema: Trace, Left lower extremity\n   edema: Trace\n   Skin:  Warm\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Movement: Not assessed, Tone: Not assessed\n   Labs / Radiology\n   9.7 g/dL\n   309 K/uL\n   104 mg/dL\n   1.1 mg/dL\n   31 mEq/L\n   3.7 mEq/L\n   42 mg/dL\n   106 mEq/L\n   146 mEq/L\n   29.1 %\n   13.3 K/uL\n        [image002.jpg]\n                             [**2105-2-19**]  07:34 PM\n                             [**2105-2-19**]  09:09 PM\n                             [**2105-2-19**]  11:51 PM\n                             [**2105-2-20**]  03:52 AM\n                             [**2105-2-20**]  04:35 AM\n                             [**2105-2-20**]  05:27 PM\n                             [**2105-2-20**]  05:47 PM\n                             [**2105-2-21**]  03:35 AM\n                             [**2105-2-21**]  03:50 AM\n                             [**2105-2-21**]  08:49 AM\n   WBC\n   25.3\n   15.8\n   13.3\n   Hct\n   29.7\n   28.6\n   29.1\n   Plt\n   [**Telephone/Fax (3) 11219**]\n   Cr\n   1.0\n   1.2\n   1.1\n   1.1\n   TropT\n   0.54\n   0.54\n   0.45\n   TCO2\n   32\n   32\n   34\n   35\n   35\n   37\n   Glucose\n   125\n   164\n   124\n   104\n   Other labs: PT / PTT / INR:15.9/29.6/1.4, CK / CKMB /\n   Troponin-T:377/5/0.45, Differential-Neuts:80.1 %, Band:0.0 %,\n   Lymph:15.0 %, Mono:3.1 %, Eos:1.3 %, Lactic Acid:1.8 mmol/L, Ca++:8.7\n   mg/dL, Mg++:1.8 mg/dL, PO4:2.8 mg/dL\n   Assessment and Plan\n   88 yo man with hypoxemic respiratory failure due likely combination of\n   pneumonia and diastolic CHF.  Also with afib/RVR\n   1. Respiratory Failure\n   -Cont CTX/azithro empirically pending cx results\n   -Cont diuresis\n   -SBT - assess for possibility of extubation\n   -weaning sedation - following commands\n   2. Afib/RVR\n   -Rate well controlled\n   -able to wean dilt gtt\n   -cont amiodarone\n   3. Hypertension\n   4. Hypernatremia resolved with fH20\n   5. Access - place PICC\n   6. Mental status\n   -improving with sedation wean\n   7. Met alkalosis\n   -? Contraction from diuresis\n   -has compensatory mild resp acidosis\n   Remainder of issues per ICU team.\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   22 Gauge - [**2105-2-19**] 06:36 PM\n   Arterial Line - [**2105-2-19**] 11:28 PM\n   20 Gauge - [**2105-2-21**] 09:55 AM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition :\n   Total time spent: 35 minutes\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 721144,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 6619,
+          "end": 6640,
+          "code": "482.9",
+          "code_system": "ICD-9-CM",
+          "description": "Bacterial pneumonia, unspecified",
+          "type": "Human",
+          "covered_text": "PNEUMONIA, BACTERIAL,"
+        }
+      ],
+      "text": "Chief Complaint: Respiratory failure\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   Comfortable. Swallow study - major aspiration - does not sense bolus\n   24 Hour Events:\n   History obtained from [**Hospital 19**] Medical records\n   Allergies:\n   Beta-Blockers (Beta-Adrenergic Blocking Agts)\n   Unknown;\n   Terazosin\n   Unknown;\n   Last dose of Antibiotics:\n   Azithromycin - [**2105-2-23**] 08:30 AM\n   Ceftriaxone - [**2105-2-24**] 12:05 PM\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2105-2-24**] 12:06 PM\n   Other medications:\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Constitutional: Fatigue, Fever, No(t) Weight loss\n   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema\n   Ear, Nose, Throat: Dry mouth, No(t) Epistaxis, No(t) OG / NG tube\n   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,\n   No(t) Tachycardia, No(t) Orthopnea\n   Nutritional Support: NPO, No(t) Tube feeds, No(t) Parenteral nutrition\n   Respiratory: Cough, Dyspnea, No(t) Tachypnea, No(t) Wheeze\n   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,\n   No(t) Diarrhea, No(t) Constipation\n   Genitourinary: No(t) Dysuria, Foley, No(t) Dialysis\n   Musculoskeletal: No(t) Joint pain, No(t) Myalgias\n   Integumentary (skin): No(t) Jaundice, No(t) Rash\n   Endocrine: No(t) Hyperglycemia, No(t) History of thyroid disease\n   Heme / Lymph: No(t) Lymphadenopathy, Anemia, Coagulopathy, coumadin\n   Neurologic: Numbness / tingling, No(t) Headache, No(t) Seizure\n   Psychiatric / Sleep: No(t) Agitated, No(t) Suicidal, No(t) Delirious,\n   No(t) Daytime somnolence\n   Allergy / Immunology: No(t) Immunocompromised, No(t) Influenza vaccine\n   Pain: No pain / appears comfortable\n   Flowsheet Data as of  [**2105-2-24**] 12:41 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since [**07**] AM\n   Tmax: 37.7\nC (99.9\n   Tcurrent: 35.9\nC (96.7\n   HR: 100 (99 - 107) bpm\n   BP: 153/138(146) {104/42(80) - 162/140(295)} mmHg\n   RR: 26 (12 - 31) insp/min\n   SpO2: 100%\n   Heart rhythm: AF (Atrial Fibrillation)\n   Wgt (current): 55.6 kg (admission): 55.9 kg\n   Height: 67 Inch\n             Total In:\n                                                                    454 mL\n                                                                    220 mL\n   PO:\n                                                                     30 mL\n                                                                     30 mL\n   TF:\n   IVF:\n                                                                    424 mL\n                                                                    190 mL\n   Blood products:\n   Total out:\n                                                                  1,580 mL\n                                                                    345 mL\n   Urine:\n                                                                  1,580 mL\n                                                                    345 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                 -1,126 mL\n                                                                   -125 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 100%\n   ABG: ///34/\n   Physical Examination\n   General Appearance: No(t) Well nourished, No(t) No acute distress,\n   No(t) Overweight / Obese, Thin, No(t) Anxious, No(t) Diaphoretic\n   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva\n   pale, No(t) Sclera edema\n   Head, Ears, Nose, Throat: Normocephalic, Poor dentition, No(t)\n   Endotracheal tube, No(t) NG tube, No(t) OG tube\n   Lymphatic: No(t) Cervical WNL, No(t) Supraclavicular WNL, No(t)\n   Cervical adenopathy\n   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal, No(t)\n   Absent), (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split ,\n   No(t) Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: Systolic, No(t)\n   Diastolic), 2/6 SEM\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)\n   Respiratory / Chest: (Expansion: Symmetric, No(t) Paradoxical),\n   (Percussion: Resonant : , No(t) Hyperresonant: , No(t) Dullness : ),\n   (Breath Sounds: No(t) Clear : , Crackles : bilat lower mid insp, No(t)\n   Bronchial: , No(t) Wheezes : , No(t) Diminished: , No(t) Absent : ,\n   No(t) Rhonchorous: )\n   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,\n   No(t) Tender: , No(t) Obese\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: Absent, No(t) Cyanosis, No(t) Clubbing\n   Musculoskeletal: Muscle wasting, Unable to stand\n   Skin:  Warm, No(t) Rash: , No(t) Jaundice\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Oriented (to): x3, Movement: Purposeful, No(t) Sedated, No(t)\n   Paralyzed, Tone: Not assessed\n   Labs / Radiology\n   10.0 g/dL\n   359 K/uL\n   108 mg/dL\n   0.8 mg/dL\n   34 mEq/L\n   3.8 mEq/L\n   24 mg/dL\n   105 mEq/L\n   145 mEq/L\n   31.4 %\n   12.6 K/uL\n        [image002.jpg]\n                             [**2105-2-21**]  11:24 AM\n                             [**2105-2-21**]  12:37 PM\n                             [**2105-2-21**]  01:16 PM\n                             [**2105-2-22**]  03:14 AM\n                             [**2105-2-22**]  03:41 AM\n                             [**2105-2-22**]  11:32 AM\n                             [**2105-2-22**]  04:00 PM\n                             [**2105-2-23**]  02:50 AM\n                             [**2105-2-23**]  05:05 PM\n                             [**2105-2-24**]  03:21 AM\n   WBC\n   14.4\n   13.5\n   12.6\n   Hct\n   29.8\n   30.1\n   31.4\n   Plt\n   [**Telephone/Fax (3) 11277**]\n   Cr\n   1.0\n   0.8\n   0.7\n   0.6\n   0.7\n   0.8\n   TCO2\n   35\n   37\n   38\n   26\n   36\n   Glucose\n   98\n   109\n   131\n   117\n   118\n   108\n   Other labs: PT / PTT / INR:20.8/33.5/1.9, CK / CKMB /\n   Troponin-T:377/5/0.45, Differential-Neuts:80.1 %, Band:0.0 %,\n   Lymph:15.0 %, Mono:3.1 %, Eos:1.3 %, Lactic Acid:1.8 mmol/L, Ca++:8.7\n   mg/dL, Mg++:1.9 mg/dL, PO4:3.7 mg/dL\n   Assessment and Plan\n PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)\n ATRIAL FIBRILLATION (AFIB)\n   ASPIRATION\n   CAD, S/P CABG\n   INCR Na\n   Feels well but weak.  Aspirating on swallow study.  Would be inclined\n   to give him meds in soft solids and see if he can tolerate as he is not\n   a great candidate for feeding tube with anticoagulation.  Suspect some\n   of swallowing difficulty will improve as he gets away from intubation.\n   UO is somewhat low but adequate - may be somewhat dry so will give IVF\n   if urine drops off\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2105-2-19**] 11:28 PM\n   20 Gauge - [**2105-2-21**] 05:00 PM\n   PICC Line - [**2105-2-22**] 09:00 AM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition :Transfer to floor\n   Total time spent: 35 minutes\n"
+    },
+    {
+      "note_id": 720543,
+      "category": "Nutrition",
+      "description": "Clinical Nutrition Note",
+      "annotations": [
+        {
+          "begin": 2163,
+          "end": 2175,
+          "code": "263.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified protein-calorie malnutrition",
+          "type": "Human",
+          "covered_text": "Malnourished"
+        },
+        {
+          "begin": 2614,
+          "end": 2643,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "hypoxemic respiratory failure"
+        },
+        {
+          "begin": 2684,
+          "end": 2697,
+          "code": "428.33",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, acute on chronic",
+          "type": "Human",
+          "covered_text": "diastolic CHF"
+        },
+        {
+          "begin": 3047,
+          "end": 3060,
+          "code": "276.0",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperosmolality and/or hypernatremia",
+          "type": "Human",
+          "covered_text": "hypernatremia"
+        }
+      ],
+      "text": "Subjective:  Per patient\ns wife, patient usually eats very well, is\n   very careful to eat low fat and low sugar due to h/o multiple CABG\n   Patient also works out 30-45 minutes per day.\n   Objective\n   Height\n   Admit weight\n   Daily weight\n   Weight change\n   BMI\n   170 cm\n   55.9 kg\n   19.3\n   Ideal body weight\n   % Ideal body weight\n   Adjusted weight\n   Usual body weight\n   % Usual body weight\n   67.1 kg\n   83%\n   58.5 kg\n   96%\n   Diagnosis: PNA\n   PMHx: atrial fibrillation, atrial flutter, CAD s/p CABG, history of\n   PFO, ulcerative colitis, glaucoma, hypertension, BPH s/p TURP\n   Food allergies and intolerances:  none\n   Pertinent medications: Fentanyl, Versed, dextrose 5% @ 100mL/hr, ABx,\n   Pepcid, Heparin, others noted\n   Labs:\n   Value\n   Date\n   Glucose\n   164 mg/dL\n   [**2105-2-20**] 03:52 AM\n   Glucose Finger Stick\n   201\n   [**2105-2-20**] 10:00 AM\n   BUN\n   47 mg/dL\n   [**2105-2-20**] 03:52 AM\n   Creatinine\n   1.2 mg/dL\n   [**2105-2-20**] 03:52 AM\n   Sodium\n   150 mEq/L\n   [**2105-2-20**] 03:52 AM\n   Potassium\n   3.4 mEq/L\n   [**2105-2-20**] 03:52 AM\n   Chloride\n   109 mEq/L\n   [**2105-2-20**] 03:52 AM\n   TCO2\n   32 mEq/L\n   [**2105-2-20**] 03:52 AM\n   PO2 (arterial)\n   67 mm Hg\n   [**2105-2-20**] 04:35 AM\n   PO2 (venous)\n   57 mm Hg\n   [**2105-2-19**] 08:18 PM\n   PCO2 (arterial)\n   50 mm Hg\n   [**2105-2-20**] 04:35 AM\n   PCO2 (venous)\n   55 mm Hg\n   [**2105-2-19**] 08:18 PM\n   pH (arterial)\n   7.43 units\n   [**2105-2-20**] 04:35 AM\n   pH (venous)\n   7.38 units\n   [**2105-2-19**] 08:18 PM\n   pH (urine)\n   5.0 units\n   [**2105-2-19**] 09:44 PM\n   CO2 (Calc) arterial\n   34 mEq/L\n   [**2105-2-20**] 04:35 AM\n   CO2 (Calc) venous\n   34 mEq/L\n   [**2105-2-19**] 08:18 PM\n   Calcium non-ionized\n   8.5 mg/dL\n   [**2105-2-20**] 03:52 AM\n   Phosphorus\n   3.5 mg/dL\n   [**2105-2-20**] 03:52 AM\n   Magnesium\n   2.4 mg/dL\n   [**2105-2-20**] 03:52 AM\n   WBC\n   15.8 K/uL\n   [**2105-2-20**] 03:52 AM\n   Hgb\n   9.2 g/dL\n   [**2105-2-20**] 03:52 AM\n   Hematocrit\n   28.6 %\n   [**2105-2-20**] 03:52 AM\n   Current diet order / nutrition support: Diet: NPO\n   GI: abd soft, hypoactive bowel sounds\n   Assessment of Nutritional Status\n   Malnourished\n   Patient at risk due to: Malnourished due to 4% wt loss over past week,\n   minimal caloric intake for 5 days, low baseline wt, advanced age\n   Estimated Nutritional Needs\n   Calories: 1462-1755 (25-30 cal/kg)\n   Protein: 58-70 (1-1.2 g/kg)\n   Fluid: per team\n   Calculations based on: Usual body weight\n   Estimation of previous intake: Inadequate\n   Estimation of current intake: Inadequate\n   Specifics:\n   88 y.o. Male admitted with hypoxemic respiratory failure due to likely\n   combination of PNA and diastolic CHF.  Patient is currently intubated\n   and sedated.  Recommend starting enteral nutrition within the next\n   24-48hrs, as patient has had minimal nutrition for 5 days and had a low\n   body wt at baseline.  Recommend a low carbohydrate formula given\n   hyperglycemia with IV fluids.  Noted IV fluids at 100mL/hr to help\n   rehydrate patient and correct hypernatremia.\n   Medical Nutrition Therapy Plan - Recommend the Following\n          Recommend tube feeding goal of Boost Glucose Control @\n   57mL/hr (1450kcals, 79g protein).  Start at 15mL/hr and advance rate by\n   10mL q4hrs as tolerated to goal.\n          Adjust H20 flushes to help keep patient hydrated but not\n   fluid overloaded.\n          Multivitamin / Mineral supplement: via tube feeds\n          Following - #[**Numeric Identifier 1312**]\n"
+    }
+  ]
+}

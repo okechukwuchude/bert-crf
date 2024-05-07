@@ -1,0 +1,148 @@
+{
+  "hadm_id": 142254,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 481667,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 204,
+          "end": 215,
+          "code": "I95.81",
+          "code_system": "ICD-10-CM",
+          "description": "Postprocedural hypotension",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 7136,
+          "end": 7155,
+          "code": "E86.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypovolemia",
+          "type": "Human",
+          "covered_text": "hypovolemia-related"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   54F pediatric nurse [**First Name (Titles) 622**] [**Last Name (Titles) 9818**] adenoCA s/p primary [**Last Name (Titles) 9818**]\n   tumor resection [**1-5**], now presenting to SICU with hypotension s/p\n   pleuroscopy/pleural bx/tunneled CT/talc pleurodesis for right malignant\n   effusion (1.5L).  Procedure was performed for increasing dyspnea/cough\n   and O2 requirements.  Effusion has been drained multiple times in\n   past.  Pt has been hypotensive to 70s/40s in PACU desipte 3L IVF\n   boluses.  Recieved 350 mcg fentanyl in procedure and oxycodone, toradol\n   in PACU.  Unremarkable CT drainage volume in PACU.\n   Also of note pt has had self-reported poor PO fluid intake and N/V on\n   evening prior to procedure.\n   Chief complaint:\n   Hypotension, dyspnea\n   PMHx:\n   Asthma, Osteoporosis, GERD, h/o multiple PE [**2-2**] on lovenox preop, [**2130**]\n   DCIS left breast s/p lumpectomy, XRT, adjuvant.  Stage IV ovarian\n   cancer status post TAH BSO, primary [**Year (4 digits) 9818**] carcinoma\n   Current medications:\n   1. IV access: Indwelling port (Portacath), heparin dependent Order\n   date: [**7-30**] @ 1717 17. HYDROmorphone (Dilaudid) 2-4 mg PO Q3H:PRN pain\n   Order date: [**7-30**] @ 1744\n   2. IV access: Peripheral line Order date: [**7-30**] @ 1717 18.\n   HYDROmorphone (Dilaudid) 0.125 mg IV Q3H:PRN breakthrough pain  Order\n   date: [**7-30**] @ 1744\n   3. IV access: Indwelling port (Portacath), heparin dependent Location:\n   Left Order date: [**7-30**] @ 1717 19. Heparin Flush (10 units/ml) 5 mL IV\n   PRN line flush\n   Indwelling Port (e.g. Portacath), heparin dependent: Flush with 10 mL\n   Normal Saline followed by Heparin as above daily and PRN per lumen.\n   Order date: [**7-30**] @ 1717\n   4. 1000 mL NS\n   Continuous at 100 ml/hr for 1000 ml Start: After the current bolus is\n   done Order date: [**7-30**] @ 1717 20. Heparin Flush (100 units/ml) 5 mL IV\n   PRN DE-ACCESSING port\n   Indwelling Port (e.g. Portacath), heparin dependent: When de-accessing\n   port, instill Heparin as above per lumen.  Order date: [**7-30**] @ 1717\n   5. 1000 mL NS Bolus 1000 ml Over 30 mins Order date: [**7-30**] @ 1717 21.\n   Heparin 5000 UNIT SC TID  Order date: [**7-30**] @ 1717\n   6. 1000 mL NS Bolus 1000 ml Over 30 mins Order date: [**7-30**] @ 1717 22.\n   Heparin Flush (10 units/ml) 5 mL IV PRN line flush\n   Indwelling Port (e.g. Portacath), heparin dependent: Flush with 10 mL\n   Normal Saline followed by Heparin as above daily and PRN per lumen.\n   Order date: [**7-30**] @ 1717\n   7. 1000 mL NS\n   Continuous at 100 ml/hr for 1000 ml\n   Change to peripheral lock when taking POs Order date: [**7-30**] @ 1852 23.\n   Heparin Flush (100 units/ml) 5 mL IV PRN DE-ACCESSING port\n   Indwelling Port (e.g. Portacath), heparin dependent: When de-accessing\n   port, instill Heparin as above per lumen.  Order date: [**7-30**] @ 1717\n   8. 500 mL NS Bolus 500 ml Over 30 mins Order date: [**7-30**] @ 1717 24.\n   Insulin SC  (per Insulin Flowsheet)\n         Sliding Scale Order date: [**7-30**] @ 1718\n   9. 500 mL NS Bolus 500 ml Over 30 mins Order date: [**7-30**] @ 1717 25.\n   Ketorolac 15 mg IV ONCE Duration: 1 Doses Order date: [**7-30**] @ 1717\n   10. Acetaminophen 500 mg PO Q6H:PRN Pain\n   Please give no more than 2gm per day  Order date: [**7-30**] @ 1717 26.\n   Magnesium Sulfate  IV Sliding Scale Order date: [**7-30**] @ 1718\n   11. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB  Order date: [**7-30**] @\n   1717 27. Pantoprazole 40 mg PO Q24H  Order date: [**7-30**] @ 1717\n   12. Benzonatate 100 mg PO TID  Order date: [**7-30**] @ 1717 28. Potassium\n   Chloride  IV Sliding Scale Order date: [**7-30**] @ 1718\n   13. Calcium Carbonate 500 mg PO BID  Order date: [**7-30**] @ 1717 29.\n   Potassium Phosphate  IV Sliding Scale\n   Infuse over 6 hours  Order date: [**7-30**] @ 1718\n   14. Calcium Gluconate  IV Sliding Scale Order date: [**7-30**] @ 1718 30.\n   Prochlorperazine 10 mg IV Q6H:PRN nausea  Order date: [**7-30**] @ 1717\n   15. Cepacol (Menthol) 1 LOZ PO PRN cough  Order date: [**7-30**] @ 1717 31.\n   Sodium Chloride 0.9% Flush 3 mL IV Q8H:PRN line flush\n   Peripheral line: Flush with 3 mL Normal Saline every 8 hours and PRN.\n   Order date: [**7-30**] @ 1717\n   16. Docusate Sodium 100 mg PO BID:PRN Constipation  Order date: [**7-30**] @\n   1717\n   24 Hour Events:\n   ICU consent obtained.  Pt gently hydrated with 100cc/h NS and\n   encouraged po clears intake.  BPs near baseline 90s/60s but borderline\n   UOPs ~30/h and D/W thoracic team\n   Post operative day:\n   0\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Flowsheet Data as of  [**2139-7-30**] 08:56 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**41**] a.m.\n   Tmax: 35.8\nC (96.5\n   T current: 35.8\nC (96.5\n   HR: 119 (104 - 119) bpm\n   BP: 91/62(68) {84/49(57) - 105/67(73)} mmHg\n   RR: 25 (20 - 31) insp/min\n   SPO2: 90%\n   Heart rhythm: ST (Sinus Tachycardia)\n             Total In:\n             3,420 mL\n   PO:\n             120 mL\n   Tube feeding:\n   IV Fluid:\n   300 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                  2,110 mL\n   Urine:\n   230 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  1,310 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SPO2: 90%\n   ABG: ////\n   Physical Examination\n   General Appearance: No acute distress, Cachectic, Appears older than\n   stated age.\n   HEENT: PERRL, EOMI, MMs dry\n   Cardiovascular: (Rhythm: Regular), No appreciable M/R/G.\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : Mild coarse BS in right fields.)\n   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present\n   Left Extremities: (Edema: Absent), (Temperature: Warm)\n   Right Extremities: (Edema: Absent), (Temperature: Warm)\n   Skin: Right CT to clean dressing\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities, Alert, pleasant and conversational\n   Labs / Radiology\n   134\n   11.7\n   105\n   0.8\n   23\n   5.2\n   19\n   108\n   136\n   35.7\n   5.3\n        [image002.jpg]\n   Other labs: PT / PTT / INR://1.2\n   Fluid Analysis / Other Labs: Pleural fluid WBC 517, RBC [**Numeric Identifier 9819**], PMN 57,\n   Lymph 26\n   Imaging: [**2139-7-30**] CXR: R CT at R apex, distal pleurx at R CPA.  Improving\n   R effusion, L atelectasis, no PTX.\n   Microbiology: [**2139-7-30**] Pleural fluid GS no organisms, 3+ PMNs.\n   ECG: ST/105 on admission.  No appearance of ST changes.\n   Assessment and Plan\n   HYPOTENSION (NOT SHOCK)\n   Assessment and Plan: 54F with advanced metastatic ovarian adenoCA with\n   hypotension s/p pleuroscopy procedures, resolving with hydration.\n   Likely hypovolemia-related.  BPs near baseline and patient mentating\n   well at this time.\n   Neurologic: Follow mental status.  Dilaudid/percocet po and IV for\n   breakthrough pain.  Tylenol prn.\n   Cardiovascular: Monitor BPs.  No pressors given thus far.  IP contact[**Name (NI) **]\n   re: fluid restrictions/goals.\n   Pulmonary: Supplental O2, follow sats.  CT to pleurivac, Albuterol nebs\n   prn for asthma.  Repeat CXR.  Follow CT outputs.  Discuss\n   anticoagulation postop plan with Thoracic team, was on lovenox preop.\n   Gastrointestinal / Abdomen: Regular diet, compazine prn\n   Nutrition: Regular diet, Clear liquids, Advance diet as tolerated ,\n   Encourage PO, supplementation as appropriate.  Consider albumin if\n   large proteinaceous effusion drainage / continued clinical hypovolemia.\n   Renal: Foley, Borderline UOPs, follow with volume resuscitation.\n   Hematology: Postop CBC, monitor hemorrhagic O/P from chest tube.\n   Endocrine: RISS\n   Infectious Disease: Check cultures, Follow effusion\n   studies--protein/glucose/LDH pending.\n   Lines / Tubes / Drains: Foley, Surgical drains (hemovac, JP), Chest\n   tube - pleural , L Portacath, PIV, tunneled R chest tube to pleurivac,\n   R pleurix catheter capped\n   Wounds: Chest Tube dressing in situ\n   Imaging: AM CXR\n   Fluids: NS, 100 cc/h\n   Consults: CT surgery, Interventional Pulmonary\n   Billing Diagnosis: Post-op hypotension\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   Indwelling Port (PortaCath) - [**2139-7-30**] 05:00 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP bundle:\n   Comments:\n   Communication:  Comments:\n   Code status:\n   Disposition:\n   Total time spent:\n"
+    },
+    {
+      "note_id": 51877,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 396,
+          "end": 436,
+          "code": "0B9N30Z",
+          "code_system": "ICD-10-PCS",
+          "description": "Drainage of Right Pleura with Drainage Device, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "drainage with\nPleureX catheter placment."
+        },
+        {
+          "begin": 537,
+          "end": 565,
+          "code": "C48.1",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of specified parts of peritoneum",
+          "type": "Human",
+          "covered_text": "primary peritoneal carcinoma"
+        },
+        {
+          "begin": 952,
+          "end": 964,
+          "code": "Z85.3",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of malignant neoplasm of breast",
+          "type": "Human",
+          "covered_text": "- Breast CA,"
+        },
+        {
+          "begin": 983,
+          "end": 1004,
+          "code": "Z92.3",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of irradiation",
+          "type": "Human",
+          "covered_text": "status post radiation"
+        },
+        {
+          "begin": 1036,
+          "end": 1042,
+          "code": "J45.909",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified asthma, uncomplicated",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 1046,
+          "end": 1058,
+          "code": "M81.0",
+          "code_system": "ICD-10-CM",
+          "description": "Age-related osteoporosis without current pathological fracture",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 1062,
+          "end": 1066,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 1070,
+          "end": 1093,
+          "code": "Z85.43",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of malignant neoplasm of ovary",
+          "type": "Human",
+          "covered_text": "Stage IV ovarian cancer"
+        },
+        {
+          "begin": 1094,
+          "end": 1113,
+          "code": "Z90.710",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of both cervix and uterus",
+          "type": "Human",
+          "covered_text": "status post TAH BSO"
+        },
+        {
+          "begin": 1147,
+          "end": 1149,
+          "code": "Z86.711",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of pulmonary embolism",
+          "type": "Human",
+          "covered_text": "PE"
+        },
+        {
+          "begin": 1151,
+          "end": 1161,
+          "code": "Z79.01",
+          "code_system": "ICD-10-CM",
+          "description": "Long term (current) use of anticoagulants",
+          "type": "Human",
+          "covered_text": "on Lovenox"
+        },
+        {
+          "begin": 5319,
+          "end": 5341,
+          "code": "J91.0",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant pleural effusion",
+          "type": "Human",
+          "covered_text": "Right pleural effusion"
+        }
+      ],
+      "text": "Admission Date:  [**2139-7-28**]              Discharge Date:   [**2139-7-31**]\n\nDate of Birth:  [**2084-12-24**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 492**]\nChief Complaint:\nRight pleural effusion\n\nMajor Surgical or Invasive Procedure:\n[**2139-7-30**] Pleuroscopy, Right pleural effusion drainage with\nPleureX catheter placment.\n\n\nHistory of Present Illness:\n54 year old woman with history of right breast DCIS in [**2130**] and\nprimary peritoneal carcinoma with recurrent malignant right\npleural effusion requiring multiple thoracentesis. She presented\nthis time with progressive dyspnea\nand reports that she is more SOB at rest. She has also been\ncomplaining of cough that has been significat to a point where\nshe vomited on one occasion. She denies any chest pain, fevers,\nchills, night sweats, nausea, or vomiting.\n\n\nPast Medical History:\n1- Breast CA, DCIS ([**2130**]) status post radiation, lumpectomy,\nand tamoxifen.\n2- Asthma\n3- Osteoporosis\n4- GERD\n5- Stage IV ovarian cancer status post TAH BSO, primary\nperitoneal carcinoma\n6- PE, on Lovenox\n\nFamily History:\nSister with a history of breast cancer at 61. She has another\nsister with biliary cirrhosis and [**Doctor Last Name 17472**]\nsyndrome. She has another sister who is healthy. Her brother\ndied in his 40s of sepsis of unclear etiology. The patient's\naunt on her father side had a colon cancer in her 60s. Her\nmother died of ALS, but had a renal cell carcinoma, which was\ntreated completely with nephrectomy. She has two uncles on her\nmother's side, one of whom had bladder cancer, another had\nesophageal cancer. She had an aunt on her mother's side who had\nesophageal cancer as well.\n\nPertinent Results:\n[**2139-7-31**] WBC-9.3# RBC-3.53* Hgb-10.7* Hct-32.2* Plt Ct-94*\n[**2139-7-27**] WBC-4.4# RBC-2.96* Hgb-8.6* Hct-26.7* Plt Ct-257\n[**2139-7-30**] Neuts-85.3* Lymphs-11.6* Monos-1.9* Eos-0.8 Baso-0.3\n[**2139-7-31**] Glucose-140* UreaN-24* Creat-0.7 Na-137 K-4.3 Cl-111*\nHCO3-17\n[**2139-7-27**] Glucose-109* UreaN-21* Creat-0.7 Na-135 K-3.8 Cl-104\nHCO3-23\n\n[**2139-7-31**] CXR: The two right chest tubes, superior and inferior\nare in unchanged location.  The right basal atelectasis is\nunchanged. There is no evidence of reaccumulation of pleural\neffusion. There is no pneumothorax, although note is made that\nmultiple lines overlying the right apex and minimal amount of\npleural air can be undetected.\n\nThe Port-A-Cath catheter inserted through the left subclavian\nvein terminates at the level of low SVC. The lungs are well\nexpanded and the\ncardiomediastinal silhouette is stable.\n\n[**2139-7-31**] Lower extremity doppler: There is normal spontaneous\nphasic flow, compressibility, and augmentation in bilateral\nlower extremities from the level of the common femoral veins\nthrough the proximal calf.\n\nIMPRESSION: No evidence of deep vein thrombosis in either lower\nextremity.\n\n[**2139-7-27**]: Chest CT:\n1. No pulmonary embolus. No aortic dissection.\n2. Mildly increased moderate right pleural effusion and\nassociated\natelectasis.\n\n\n\nBrief Hospital Course:\nMrs. [**Known lastname 107418**] was admitted on [**2139-7-27**] for increased shortness of\nbreath.  A chest CT was done and revealed a right pleural\neffusion.  No pulmonary embolism was noted. On [**2139-7-28**]\ninterventional pulmonary was consulted.  They recommended a\npleuroscopy with pleur ex catheter placement. Her Lovenox was\nheld. On [**2139-7-30**] she underwent Rigid fluoroscopy.Right pleural\nbiopsies. Talc pleurodesis. Insertion of a 24-French right chest\ntube. Insertion of a right PleureX catheter. A total of 1400 mL\nof bloody fluid was aspirated.  She was transferred to the PACU\nand found to be hypotensive with blood pressure in the 70s/40s.\nDespite 3L IVF boluses she continued to be hypotensive and was\ntransferred to the SICU.  On [**2139-7-31**] she was tachycardia to the\n130s despite IVF, episode of anxiety/desaturation with\nincreasing O2 requirements.  An echocardiogram was done which\nshowed Markedly dilated RV with severe global systolic\ndysfunction. Small and under filled LV with hyperdynamic syst\nfxn. Moderate functional TR. Moderate pulmonary HTN. Bilateral\nlower extremity Dopplers were negative for DVT. She went into\nPEA arrest, she was coded without recovery.\n\n\nMedications on Admission:\nALENDRONATE [FOSAMAX] - 70 mg Tablet - 1 Tablet(s) by mouth q\nweek take w/ 8 oz of water, do not eat for 30 minutes\nafterwards,\nand remain upright after taking medication\nENOXAPARIN [LOVENOX] - 100 mg/mL Syringe - 1 injection (100\nunits) once daily\nMAGIC MOUTH WASH -  (Prescribed by Other Provider) - Dosage\nuncertain\nOMEPRAZOLE - 20 mg Capsule, Delayed Release(E.C.) - 1 Capsule(s)\nby mouth twice daily\nPROCHLORPERAZINE MALEATE - 10 mg Tablet - 1 Tablet(s) by mouth\nQ6\nhours as needed for nausea\nSCALP PROSTHESIS -   - Please provide patient with one scalp\nprosthesis. ICD-9 183.0.\n\nMedications - OTC\nACETAMINOPHEN -  (Prescribed by Other Provider) - 325 mg Tablet\n-\nTablet(s) by mouth\nCALCIUM CARBONATE-VITAMIN D3 [CALCIUM 500 + D] -  (Prescribed by\nOther Provider) - Dosage uncertain\nIBUPROFEN -  (Prescribed by Other Provider) - 200 mg Tablet -\nTablet(s) by mouth\n\n\nDischarge Medications:\nnone\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nRight pleural effusion\n\n\nDischarge Condition:\nExpired\n\n\nDischarge Instructions:\nnone\n\nFollowup Instructions:\nnone\n\n                             [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**Doctor First Name 494**]\n\nCompleted by:[**2139-10-16**]"
+    }
+  ]
+}

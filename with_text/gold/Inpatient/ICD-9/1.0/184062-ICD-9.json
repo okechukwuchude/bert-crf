@@ -1,0 +1,149 @@
+{
+  "hadm_id": 184062,
+  "comment": "Cardiac Cath-Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 32325,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 349,
+          "end": 357,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "diabetes"
+        },
+        {
+          "begin": 359,
+          "end": 371,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 373,
+          "end": 387,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "hyperlipidemia"
+        },
+        {
+          "begin": 400,
+          "end": 409,
+          "code": "714.0",
+          "code_system": "ICD-9-CM",
+          "description": "Rheumatoid arthritis",
+          "type": "Human",
+          "covered_text": "arthritis"
+        },
+        {
+          "begin": 438,
+          "end": 444,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "anemia"
+        },
+        {
+          "begin": 2456,
+          "end": 2468,
+          "code": "733.00",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoporosis, unspecified",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 2471,
+          "end": 2485,
+          "code": "V12.54",
+          "code_system": "ICD-9-CM",
+          "description": "Transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "Lacunar stroke"
+        },
+        {
+          "begin": 2554,
+          "end": 2563,
+          "code": "346.90",
+          "code_system": "ICD-9-CM",
+          "description": "Migraine, unspecified, without mention of intractable migraine",
+          "type": "Human",
+          "covered_text": "Migraines"
+        },
+        {
+          "begin": 5578,
+          "end": 5583,
+          "code": "410.91",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myocardial infarction, unspecified site, initial episode of care",
+          "type": "MapType.APPROX",
+          "covered_text": "STEMI"
+        },
+        {
+          "begin": 6751,
+          "end": 6754,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 7911,
+          "end": 7923,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 8136,
+          "end": 8150,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 8392,
+          "end": 8394,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 8669,
+          "end": 8675,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 11147,
+          "end": 11153,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        }
+      ],
+      "text": "Admission Date:  [**2168-1-16**]              Discharge Date:   [**2168-1-19**]\n\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 23009**]\nChief Complaint:\nchest pain\n\nMajor Surgical or Invasive Procedure:\nCardiac Catheterization [**2168-1-16**]\n\nHistory of Present Illness:\n89yo female with diabetes, hypertension, hyperlipidemia,\nrheumatoid arthritis on methotrexate, history of anemia, and\nhistory of low back pain who presents with arm and throat pain.\n.\nThe patient was in her usual state of health until 6pm yesterday\nwhen she developed sudden onset of arm pain associated with a\nsore throat.  This was not associated with diaphoresis, chest\npain, palpitations or shortness of breath.  Her symptoms\npersisted so, around 1130pm, she was brought to the ED by her\nfamily.\n.\nOn arrival to the ED, EKG demonstrated ST-elevations in I, aVL.\nShe received aspirin, heparin gtt and SL nitro with some relief\nof her symptoms and was taken to the cath lab.  While in the\ncath lab, she received plavix 300mg and bivalirudin.  Cath\ndemonstrated an occlusion of a small OM branch of LCx so no\nintervention was performed.  The patient remained\nhemodynamically stable after the procedure.  She is being\nadmitted to the CCU for further monitoring.\n.\nOn arrival to the CCU, vital signs were T- 96.1, HR 69, BP\n172/66, RR 21, SaO2- 100% on 2L NC.  The patient remains chest\npain free but has persistent arm and throat pain that is much\nimproved from prior to arrival to [**Hospital1 18**].\n.\nOn review of systems, she denies any deep venous thrombosis,\npulmonary embolism, bleeding at the time of surgery, cough,\nhemoptysis, black stools or red stools. She denies recent\nfevers, chills or rigors. She denies exertional buttock or calf\npain. All of the other review of systems were negative.\n.\nCardiac review of systems is notable for absence of chest pain,\ndyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,\nankle edema, palpitations, syncope or presyncope.  She only\nreports arm and throat pain.\n\nPast Medical History:\n1. CARDIAC RISK FACTORS: (+)Diabetes, (+)Dyslipidemia,\n(+)Hypertension\n2. CARDIAC HISTORY:\n- CABG:  N/A\n- PERCUTANEOUS CORONARY INTERVENTIONS: N/A\n- PACING/ICD:  N/A\n3. OTHER PAST MEDICAL HISTORY:\n- Anemia\n- Pancreatic cyst\n- Bursitis of right shoulder\n- Left and right total hip replacement ([**2161**], [**2149**])\n- Rheumatoid arthritis\n- Ovarian cyst\n- Monoclonal gammopathy\n- Osteoporosis\n- Lacunar stroke [**2159**]\n- Rosacea\n- Type II DM\n- Hypertension\n- Hyperlipidemia\n- Migraines\n\nSocial History:\nLives with son and daughter-in-law in [**Name (NI) 4628**].  No tobacco\nhistory.\n\nFamily History:\nSister- breast cancer, brother- CABG at age 45, mother- CAD/PVD\n\n\nPhysical Exam:\nADMISSION PHYSICAL EXAM:\nVS: T- 96.1, HR 69, BP 172/66, RR 21, SaO2- 100% on 2L NC\nGENERAL: NAD. Oriented x3. Mood, affect appropriate.\nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were\npink, no pallor or cyanosis of the oral mucosa.\nNECK: Supple with JVP of 8 cm.\nCARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3\nor S4.\nLUNGS: Resp were unlabored, no accessory muscle use. CTAB, no\ncrackles, wheezes or rhonchi.\nABDOMEN: Soft, NTND. No HSM or tenderness.\nEXTREMITIES: No c/c/e. No femoral bruits.\nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.\nPULSES:\nRight: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+\nLeft: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+\n.\nDISCHARGE PHYSICAL EXAM:\nGENERAL: 78yo F in NAD, AAOx3, pleasant and conversant\nHEENT: mucous membs moist, no lymphadenopathy, JVD 10 cm lying\ndown.\nCHEST: crackles BB, [**Month (only) **] BS overall. No wheezes. Crackles clear w\ndeep breath.\nCV: RRR no murmurs rubs or gallops\nABD: soft, non-tender, non-distended, BS normoactive.\nEXT: wwp, no edema. DPs, PTs 1+. R groin with mild ecchymoses.\nNEURO: 4/5 strength in U/L extremities. gait WNL.\nSKIN: no rash\n\nPertinent Results:\nLabs on Admission:\n[**2168-1-15**] 11:55PM BLOOD WBC-8.2 RBC-3.53* Hgb-11.0* Hct-32.6*\nMCV-92 MCH-31.1 MCHC-33.6 RDW-15.0 Plt Ct-184\n[**2168-1-15**] 11:55PM BLOOD WBC-8.2 RBC-3.53* Hgb-11.0* Hct-32.6*\nMCV-92 MCH-31.1 MCHC-33.6 RDW-15.0 Plt Ct-184\n[**2168-1-15**] 11:55PM BLOOD PT-10.9 PTT-27.2 INR(PT)-1.0\n[**2168-1-15**] 11:55PM BLOOD Glucose-227* UreaN-27* Creat-1.0 Na-138\nK-3.8 Cl-103 HCO3-25 AnGap-14\n[**2168-1-16**] 05:24AM BLOOD Calcium-8.7 Phos-4.4 Mg-1.9\n\nCardiac Enzymes:\n[**2168-1-16**] 05:24AM BLOOD CK(CPK)-390*\n[**2168-1-16**] 05:24AM BLOOD CK-MB-52* MB Indx-13.3* cTropnT-0.37*\n[**2168-1-16**] 11:27AM BLOOD CK(CPK)-584*\n[**2168-1-16**] 11:27AM BLOOD CK-MB-77* MB Indx-13.2* cTropnT-0.82*\n[**2168-1-16**] 05:02PM BLOOD CK(CPK)-614*\n[**2168-1-16**] 05:02PM BLOOD CK-MB-73* MB Indx-11.9* cTropnT-1.00*\n[**2168-1-17**] 03:56AM BLOOD CK(CPK)-321*\n[**2168-1-17**] 03:56AM BLOOD CK-MB-27* MB Indx-8.4* cTropnT-0.80*\n\nCadiac Catherization [**2168-1-16**]:\nCOMMENTS:\n1. Selective coronary angiography of this right dominant system\ndemonstrated one vessel coronary artery disease.  The LMCA was\nangiographically-free of any flow-limiting stenoses.  The LAD\nhad a mid\n30-40% lesion involving D1.  D1 itself was noted to have a\n50-60%\nstenosis.  The LCx had an occluded branch before a moderate OM1;\nno AV\ngroove Cx identified.  The RCA was a large vessel that had a\n40-50%\nlesion at the ostium, as well as a 50% lesion distally.\n2. Limited resting hemodynamics revealed normal systemic\nsystolic\narterial pressures, with a central aortic pressure of 135/59,\nmean 66\nmmHg.\n\nFINAL DIAGNOSIS:\n1. One vessel coronary artery disease - lateral STEMI likely due\nto\noccluded small OM branch of LCx.\n2. Systemic systolic arterial normotension.\n\nTTE ([**2168-1-16**]):\nThe left atrium and right atrium are normal in cavity size. Left\nventricular wall thicknesses and cavity size are normal. There\nis mild regional left ventricular systolic dysfunction with\nhypokinesis of the basal half of the anterolateral wall. The\nremaining segments contract normally (LVEF = 55 %). The\nestimated cardiac index is normal (>=2.5L/min/m2). Right\nventricular chamber size and free wall motion are normal. The\naortic valve leaflets (3) are mildly thickened but aortic\nstenosis is not present. No aortic regurgitation is seen. The\nmitral valve leaflets are structurally normal. There is no\nmitral valve prolapse. Mild to moderate ([**12-7**]+) mitral\nregurgitation is seen. There is borderline pulmonary artery\nsystolic hypertension. There is no pericardial effusion.\n\nIMPRESSION: Normal left ventricular cavity size with mild\nregional systolic dysfunction c/w CAD (LCX or Diagonal\ndistribution). Mild-moderate mitral regurgitation.\n\nBrief Hospital Course:\n89yo female with multiple cardiac risk factors admitted with\nST-elevation MI.\n.\n#.CAD: Patient with ST-elevation MI, found to have occlusion of\nsmall OM branch during cath. No intervention was indicated at\nthe time of the procedure. She was plavix loaded and started on\n75 daily in AM, also started ASA 325mg PO daily, bivalirudin and\nSL nitro. After procedure she was chest pain free but initially\nreported mild left arm/shoulder pain which resolved. Post-cath\necho showed normal left ventricular cavity size with mild\nregional systolic dysfunction (LVEF 55%) c/w CAD (LCX or\nDiagonal distribution) amd mild-moderate mitral regurgitation.\nPatient\ninitially on high-dose atorvastatin; discharged on pravastatin\n80mg daily given lower risk of myalgias. Also started ASA 325\ndaily, losartan 25mg daily, metoprolol 25mg daily and plavix 75\ndaily.\n.\n#.Fever: patient had fever to 100.8 in the 24hrs following cath.\nInitial concern was aspiration PNA given that she was seen\npossibly aspirating food while in CCU. However, CXR WNL. Blood\ncx and urine cx NGTD. Most likely etiology is post-STEMI\ninflammation causing cytokine release resulting in fever, as can\noccur in the natural history of myocardial infarction when no\nintervention occurs.\n.\n#.Hypertension:  Patient's blood pressures ranging from SBP\n130s-160s on admission; on amlodipine and losartan at home.\nAmlodipine was discontinued, losartan was continued and\nmetoprolol also added in the post-MI setting.\n.\n#. Hyperlipidemia- Lipid panel from [**12/2167**] demonstrated TC 210,\nHDL 44, LDL 148, TG 90. Pt treated with atorvastatin 80mg PO\ndaily while in hospital, but switched back to pravastatin 80mg\nPO daily on discharge due to lower risk of statin myopathy.\n.\n#.DM- On metformin 500mg daily at home. Last A1c- 6.6%.\nPatient's home metformin was held in the setting of recent\ncardiac cath and she was treated with ISS. Restarted metformin\non discharge.\n.\n#.Rheumatoid arthritis- continued home dose of methotrexate +\nacetaminophen PRN.\n.\n#.Asthma- continued home fluticasone but held albuterol in the\nsetting of recent MI.\n.\n#.Osteoporosis- continued home calcium and vitamin D.\n.\n# Pulmonary nodule: CXR showed incidental right upper lung\nopacity approximately 11 x 7 mm in diameter, slightly increased\nin size since previous study. Recommend outpatient CT chest to\nfurther evaluate.\n- outpatient chest CT for further evaluation\n.\n================================================\nTRANSITION OF CARE:\n-CXR showed incidental RUL opacity, ~11x7cm diameter, slightly\nincreased in size since previous study. Pt will need outpt chest\nCT to further evaluate.\n-Pt needs Chem 10 on Friday [**1-22**]\n\nMedications on Admission:\n1. Amlodipine 5mg daily\n2. Methotrexate 2.5mg tablet, 6 tablets PO q week\n3. Albuterol inh prn\n4. Fluticasone 1 puff [**Hospital1 **]\n5. Gabapentin 300mg qHS\n6. Metformin ER 500mg qAM\n7. Losartan 25mg daily\n8. Pravastatin 10mg daily\n9. Aspirin 81mg daily\n\n\nDischarge Medications:\n1. pravastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*2*\n2. methotrexate sodium 2.5 mg Tablet Sig: Six (6) Tablet PO once\na week.\n3. fluticasone 110 mcg/actuation Aerosol Sig: One (1) Puff\nInhalation [**Hospital1 **] (2 times a day).\n4. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig:\n1-2 puffs Inhalation every 4-6 hours as needed for shortness of\nbreath or wheezing.\n5. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablet\nSublingual as directed as needed for angina.\nDisp:*25 tablet* Refills:*0*\n6. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n7. gabapentin 300 mg Capsule Sig: One (1) Capsule PO HS (at\nbedtime).\n8. metformin 500 mg Tablet,ER [**Last Name (un) **].Retention 24 hr Sig: One (1)\nTablet,ER [**Last Name (un) **].Retention 24 hr PO once a day.\n9. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig:\nOne (1) Tablet Extended Release 24 hr PO DAILY (Daily).\nDisp:*30 Tablet Extended Release 24 hr(s)* Refills:*2*\n10. losartan 25 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*2*\n11. Outpatient Lab Work\nPlease check Chem-7 on Friday [**1-22**] with results to [**First Name8 (NamePattern2) 2563**]\n[**Last Name (NamePattern1) 2564**] at [**Telephone/Fax (1) 2258**]\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Location (un) 86**] VNA\n\nDischarge Diagnosis:\nST elevation Myocardial Infarction\nHypertension\nDiabetes mellitus\nDyslipidemia\nAnemia\n\n\nDischarge Condition:\nMental Status: Confused - sometimes.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nIt was a pleasure caring for you at [**Hospital1 18**].\nYou experienced several hours of left arm pain and sore throat\nat home and your family brought you to the Emergency Department\n(ED) at [**Hospital1 18**]. In the [**Last Name (LF) **], [**First Name3 (LF) **] EKG was completed and it indicated\nthat you had a Myocardial Infacrtion (MI), also known as a heart\nattack. You were then taken to the cardiac catherization lab and\na blockage of a small OM branch of the left circumflex artery\nwas seen. However, this artery was very small and no\ninterventions were indicated at that time. Your heart rate and\nblood pressure were stable, but you were taken to the Cardiac\nIntensive Unit (CCU) for further monitoring. An echocardiogram\nwas also completed, which showed that your heart function is\nessentially normal following the heart attack. You had a\nlow-grade fever, but urine and blood cultures were all negative\nand your chest xray did not indicate a pneumonia, your fever\nresolved, and you did not need any antibiotics. You were\ntransferred to the cardiac step down unit, where you continued\nto progress, even doing some work with Physical Therapy. Today,\nyou are ready to go home with your children and VNA (visiting\nnurses) will come to help with your care as you recover at home.\n\n\nWe made the following changes to your medicines:\n1. INCREASE the pravastatin to 80 mg daily to lower your\ncholesterol\n2. INCREASE the Aspirin to 325 mg daily to protect your heart\nand decrease your risk of blood clots.\n3. ADD a new blood pressure medication, Metoprolol Succinante\n25mg daily, and stop an old one, Amlopidine, because Metoprolol\nbetter protects your heart after a heart attack.\n\nFollowup Instructions:\nName: [**Last Name (LF) 67691**],[**First Name3 (LF) **]\nLocation: [**Location (un) 2274**] [**Location (un) **], Primary Care\nAddress: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 2260**]\nPhone: [**Telephone/Fax (1) 2261**]\nAppt:  Appt:  Friday, [**1-22**] at 11:40am\n\nName: [**First Name8 (NamePattern2) 2563**] [**Last Name (NamePattern1) 29819**], NP\nLocation: [**Location (un) 2274**] [**Location (un) **], Cardiology\nAddress: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 718**] [**Location (un) 551**]\nPhone: [**Telephone/Fax (1) 2258**]\nAppt:  Monday, [**2-1**] at 10:40am\n\n\n\n"
+    }
+  ]
+}

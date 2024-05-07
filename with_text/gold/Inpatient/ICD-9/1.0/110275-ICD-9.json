@@ -1,0 +1,122 @@
+{
+  "hadm_id": 110275,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 39269,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 404,
+          "end": 423,
+          "code": "332.0",
+          "code_system": "ICD-9-CM",
+          "description": "Paralysis agitans",
+          "type": "MapType.APPROX",
+          "covered_text": "Parkinson's disease"
+        },
+        {
+          "begin": 425,
+          "end": 445,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "MapType.APPROX",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 2376,
+          "end": 2384,
+          "code": "294.10",
+          "code_system": "ICD-9-CM",
+          "description": "Dementia in conditions classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "Dementia"
+        },
+        {
+          "begin": 2511,
+          "end": 2531,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "Hypercholesterolemia"
+        },
+        {
+          "begin": 2560,
+          "end": 2568,
+          "code": "365.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified glaucoma",
+          "type": "Human",
+          "covered_text": "Glaucoma"
+        },
+        {
+          "begin": 2569,
+          "end": 2593,
+          "code": "312.30",
+          "code_system": "ICD-9-CM",
+          "description": "Impulse control disorder, unspecified",
+          "type": "Human",
+          "covered_text": "Impulse control disorder"
+        },
+        {
+          "begin": 2594,
+          "end": 2597,
+          "code": "600.00",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "Human",
+          "covered_text": "BPH"
+        },
+        {
+          "begin": 2611,
+          "end": 2649,
+          "code": "300.3",
+          "code_system": "ICD-9-CM",
+          "description": "Obsessive-compulsive disorders",
+          "type": "Human",
+          "covered_text": "Obsessive-compulsive personality trait"
+        },
+        {
+          "begin": 6188,
+          "end": 6208,
+          "code": "745.5",
+          "code_system": "ICD-9-CM",
+          "description": "Ostium secundum type atrial septal defect",
+          "type": "Human",
+          "covered_text": "patent foramen ovale"
+        },
+        {
+          "begin": 7639,
+          "end": 7654,
+          "code": "V66.7",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for palliative care",
+          "type": "Human",
+          "covered_text": "cure to comfort"
+        },
+        {
+          "begin": 8356,
+          "end": 8401,
+          "code": "434.01",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral thrombosis, with cerebral infarction",
+          "type": "MapType.APPROX",
+          "covered_text": "Stroke Right Middle Cerebral Artery Territory"
+        },
+        {
+          "begin": 8402,
+          "end": 8428,
+          "code": "415.19",
+          "code_system": "ICD-9-CM",
+          "description": "Other pulmonary embolism and infarction",
+          "type": "Human",
+          "covered_text": "Bilateral Pulmonary Emboli"
+        }
+      ],
+      "text": "Admission Date:  [**2185-4-4**]              Discharge Date:   [**2185-4-6**]\n\nDate of Birth:  [**2102-9-13**]             Sex:   M\n\nService: NEUROLOGY\n\nAllergies:\nLatanoprost\n\nAttending:[**First Name3 (LF) 618**]\nChief Complaint:\nAltered mental status\n\nMajor Surgical or Invasive Procedure:\nNone\n\nHistory of Present Illness:\nHPI: The patient is an 82 year old man (unknown handedness) with\na history of Parkinson's disease, hypercholesterolemia, and\nright\nhip fracture s/p fall [**2-2**] s/p ORIF who presents with altered\nmental status for whom neurology was consulted when head CT\nshowed a right MCA infarct.\n\nThe following history is taken from a nurse ([**Doctor Last Name **] [**Telephone/Fax (1) 7233**])\nfrom the [**Hospital3 2558**]. Yesterday, the patient coughed up a\nlarge mucus plug, and was tired ever since then. It was not\ndocumented when the patient went to bed last night. At 6:00 am,\nhe was able to take his medications normally. At 8:00 am, the\npatient wasn't able to take his medications due to difficulty\nswallowing and had a productive cough. The charge nurse saw the\npatient, and he was still tired but was able to squeeze hand on\nthe right on cue (but the left hand was not checked) and open\nhis\neyes, saying a few words (\"yes/no\"). Vitals were bp 138/70, HR\n86, RR 18, FSBG 136, SaO2 88% on RA so was placed on 2L NC which\nimproved to 91%. Over a 3 hour period, he became less responsive\nand wasn't talking as much, and had a low grade temp to 99.9\naxillary so labs were ordered given concern for aspiration. They\ndid not notice any focalities or asymmetry. Per the ED staff,\nNarcan was given without response. The ambulance was called and\ncame at 11:15 pm, and by that time he was completely\nunresponsive.\n\nAt baseline, speaks in complete sentences slowly and can be\ndifficult to understand, tries to get out of bed, oriented x2\n(not always sure where he is). There have been no recent\nmedication changes in the past 2 weeks. Of note, he was listed\non\na mechanical soft diet with nectar thickened liquids. He has\nbeen\nnon-weightbearing since his [**Hospital3 **] discharge on [**2185-2-16**] to\njust 2 days ago (was set to start PT today).\n\nPer the patient's ex-wife, he has been coughing a lot more than\nusual since Friday.\n\n\n\nPast Medical History:\nParkinson's disease, followed by Dr. [**Last Name (STitle) 65301**] at [**Hospital 882**]\nHospital\nDementia\nRight hip fracture s/p fall and ORIF with trochanteric nail:\nadmitted to [**Last Name (un) 1724**] [**Date range (1) 86884**]\nHypercholesterolemia\nBilateral shoulder fracture\nGlaucoma\nImpulse control disorder\nBPH\nPositive PPD\nObsessive-compulsive personality trait\nRight 5th metacarpal fracture\n\n\nSocial History:\nHe has been in the [**Hospital3 2558**] x2 months after\na right hip fracture (and he has been weight bearing only over\nthe past 2 days). He is a former professor and chair in English\nand theology at [**Hospital1 3278**], and has written 42 books on literary\nhistory. His ex-wife, [**Name (NI) **] [**Name (NI) **], is active in his healthcare,\nbut his HCP is his daughter [**Name (NI) 794**] ([**Name2 (NI) 3235**]) [**Last Name (un) 86885**] in\n[**Name (NI) **].\nHis PCP is [**Last Name (NamePattern4) **]. [**First Name (STitle) **] at [**Last Name (un) 10526**] [**Hospital1 **].\n\n\nFamily History:\nUnable to obtain.\n\n\nPhysical Exam:\nPHYSICAL EXAM AT ADMISSION\nVS: temp 102.2, HR 101, bp 111/52, RR 32, SaO2 92% on NRB\nGenl: Eyes closed, NRB in place, does not open eyes to sternal\nrub\nHEENT: Sclerae anicteric, no conjunctival injection\nCV: Regular rate, Nl S1, S2, no murmurs, rubs, or gallops\nChest: Tachypnic, right basilar crackles, no wheezes or rhonchi\n\nAbd: Increased BS, soft, NTND abdomen\n\nNeurologic examination:\nMental status: Eyes closed. Does not open eyes on command or to\nsternal rub, only briefly groans to nailbed pressure. Squeezes\nright hand and wiggles right toes on command, does not move the\nleft hand or toes on command. Does not show 2 fingers or his\nthumb on the right.\n\nCranial Nerves: Pupils equally round and reactive to light, 4 to\n2 mm bilaterally. Does not move the left side of his face as\nwell\nwhen he groans.\n\nMotor/Sensation: Pill-rolling tremor of his right hand, worse\nwith noxious stimulus. Decreased tone in his left arm, cogwheel\nrigidity in his right arm. Increased tone in his bilateral legs.\nNo observed myoclonus. Does not keep his bilateral arms or legs\nlifted against gravity. Briskly withdraws his right arm to\nnailbed pressure, only slightly flexes his left forearm to\nnailbed pressure. Withdraws his right>left leg to nailbed\npressure.\n\nReflexes: 2+ right biceps, brachioradialis, triceps, knees; 1+\nin\nright ankle. Trace left biceps, 1+ left brachioradialis and\ntriceps, 3+ left knee, 2+ left ankle. Toes upgoing bilaterally.\n\n\nPertinent Results:\nAdmission Labs:\n\n147 | 106 | 22\n---------------< 144\n3.6 |  25 | 0.7\n\n      14.1\n14.3 >-----< 235\n      41.2\n\nCK-MB-NotDone cTropnT-0.13*\nPT-13.1 PTT-29.9 INR(PT)-1.1\n.\nURINE  BLOOD-TR NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-50\nBILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG\n.\nIMAGING\n.\nCT Head ([**2185-4-4**])\nIMPRESSION: Findings consistent with acute right MCA territory\nischemic\ninfarction with hyperdense thrombus in the right MCA. No\nintracranial\nhemorrhage.\n.\nCTA Chest ([**2185-4-4**]):\nIMPRESSION:\n1. Extensive bilateral pulmonary embolus with resulting\nhypoperfusion/developing infarction at lung bases.\n2. Early right heart strain.\n\n\nBrief Hospital Course:\nMr. [**Known firstname **] [**Known lastname **] was an 82 year old man (unknown handedness)\nwith a history of Parkinson's disease, hypercholesterolemia, and\nright hip fracture s/p fall [**2-2**] s/p\nORIF who presented to the [**Hospital1 18**] with altered mental status and\nwas found to have a right MCA infarct. He was admitted to the\nstroke service from [**2185-4-4**] to the time of his death on [**2185-4-6**].\n.\nHOSPITAL COURSE BY SYSTEM:\n.\n#Neuro -\nA non-contrast CT of the head done to evaluate altered mental\nstatus revealed a large infarct in the right Middle Cerebral\nArtery territory.  The stroke was thought to be secondary to a\nlarge embolic event, possibly in the context of prolonged\nimmobilization and a patent foramen ovale.  Initial plans were\nto obtain a CTA of the head and neck in addition to an\nechocardiogram.  However, these tests were not ultimately\nperformed as goals of care were transitioned to comfort in the\nsetting of a poor prognosis.\n.\n#Resp -\nOn admission the patient was noted to be in significant\nrespiratory distress, requiring a non-rebreather to maintain\noxygen saturation.  Intubation was discussed but not ultimately\npursued given the patient's overall poor prognosis.  He was\nstarted on broad spectrum antibiotics for presumed pneumonia,\nand underwent a chest CT to evaluate for possible pulmonary\nembolism.  CT showed large multiple bilateral emboli.  However,\ngiven the large cerebral infarct, he would have been at\nsignificant risk for hemorrhagic conversion were he to undergo\nanticoagulation.  An IVC filter was briefly discussed.  Since a\nfilter would not address the significant clot burden or\nassociated heart strain already present, it was not pursued.\n.\n#CV -\nOn admission Mr. [**Known lastname **] was noted to have an elevated troponin of\n0.13, as well as signs of right heart strain on EKG.  This was\nthought to be secondary to the large pulmonary embolism.\n.\n#Goals of Care -\nExtensive discussions were held with the patient's ex-wife, who\nwas in communication with his daughter and health care proxy.\n[**Name (NI) 227**] the patient's overall poor prognosis, the decision was\nmade to transition goals of care from cure to comfort. He was\ntransferred to the floor on [**4-5**].  Members of the palliative\ncare team participated in his care.  On [**2185-4-6**], he died.\n\nMedications on Admission:\nCarbidopa-Levodopa 25/100: 1.5 tabs PO q6AM and 10 am; 1 tab q2\npm and 6 pm\nComtan 200 mg PO q6 am, 10 am, 2 pm, 6 pm\nNamenda 10 mg [**Hospital1 **]\nProzac 40 mg qAM\nSeroquel 25 mg qhs\nRemeron 30 mg qhs\nTylenol 650 mg qid\nColace [**Hospital1 **]\nTimoptic 0.5% OU daily\nXalatan 0.005% drop OU qhs\nVitamin D3 50,000 U qweekly (last dose 4/8)\nCalcium carbonate 600 mg [**Hospital1 **]\nNatural tears prn\nOxycodone 5-10 mg q4 hr prn\nMilk of magnesia prn\n\n\nDischarge Medications:\n- none\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nStroke Right Middle Cerebral Artery Territory\nBilateral Pulmonary Emboli\n\nDischarge Condition:\nExpired\n\nDischarge Instructions:\nNot Applicable\n\nFollowup Instructions:\nNot Applicable\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD, [**MD Number(3) 632**]\n\n"
+    }
+  ]
+}

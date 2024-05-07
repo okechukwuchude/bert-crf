@@ -1,0 +1,175 @@
+{
+  "hadm_id": 116543,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 44453,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 391,
+          "end": 394,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 404,
+          "end": 427,
+          "code": "425.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other primary cardiomyopathies",
+          "type": "Human",
+          "covered_text": "ischemic cardiomyopathy"
+        },
+        {
+          "begin": 466,
+          "end": 469,
+          "code": "V45.02",
+          "code_system": "ICD-9-CM",
+          "description": "Automatic implantable cardiac defibrillator in situ",
+          "type": "MapType.EXACT",
+          "covered_text": "ICD"
+        },
+        {
+          "begin": 475,
+          "end": 488,
+          "code": "403.90",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive renal disease, unspecified, without mention of renal failure",
+          "type": "Human",
+          "covered_text": "HTN, HLD, CKD"
+        },
+        {
+          "begin": 480,
+          "end": 483,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 485,
+          "end": 488,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "CKD"
+        },
+        {
+          "begin": 490,
+          "end": 510,
+          "code": "V49.72",
+          "code_system": "ICD-9-CM",
+          "description": "Other toe(s) amputation status",
+          "type": "MapType.APPROX",
+          "covered_text": "R 4th toe amputation"
+        },
+        {
+          "begin": 1898,
+          "end": 1902,
+          "code": "V45.81",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical aortocoronary bypass status",
+          "type": "MapType.EXACT",
+          "covered_text": "CABG"
+        },
+        {
+          "begin": 2167,
+          "end": 2175,
+          "code": "250.40",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "Diabetes"
+        },
+        {
+          "begin": 2214,
+          "end": 2246,
+          "code": "585.3",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, Stage III (moderate)",
+          "type": "Human",
+          "covered_text": "Stage III chronic kidney disease"
+        },
+        {
+          "begin": 2290,
+          "end": 2301,
+          "code": "250.50",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with ophthalmic manifestations",
+          "type": "Human",
+          "covered_text": "Retinopathy"
+        },
+        {
+          "begin": 2303,
+          "end": 2313,
+          "code": "250.60",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with neurological manifestations",
+          "type": "Human",
+          "covered_text": "neuropathy"
+        },
+        {
+          "begin": 2319,
+          "end": 2330,
+          "code": "250.40",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "nephropathy"
+        },
+        {
+          "begin": 2493,
+          "end": 2497,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "MapType.EXACT",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 3119,
+          "end": 3178,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "Tobacco history: 40-50 pack year history, quit 15 years ago"
+        },
+        {
+          "begin": 9146,
+          "end": 9157,
+          "code": "038.12",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "MRSA sepsis"
+        }
+      ],
+      "text": "Admission Date:  [**2112-10-10**]              Discharge Date:   [**2112-10-16**]\n\nDate of Birth:  [**2041-10-20**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nLevofloxacin / Ace Inhibitors\n\nAttending:[**First Name3 (LF) 10488**]\nChief Complaint:\nN/V/D\n\nMajor Surgical or Invasive Procedure:\nNone.\n\nHistory of Present Illness:\nMr. [**Known lastname **] is a 70 year old man with h/o CAD, dilated\nischemic cardiomyopathy (EF 10%), aflutter on Dabigatran, BiV\nICD, DM, HTN, HLD, CKD, R 4th toe amputation with debridement in\n[**2112-6-3**], s/p 6 weeks of Vanc/Ctx for osteomyelitis, who\npresents with N/V/D x4 days.\n\nPatient has been having nausea, vomiting, and diarrhea for the\npast 4 days. Diarrhea is watery stool, nonbloody. No recent\ntravel or sick contacts. [**Name (NI) **] abdominal pain. +subjective fevers\nand chills. Of note, patient finished 6 week course of Vanc/Ctx\nfor R foot osteomyelitis on [**2112-9-11**].\n\nIn the ED, initial VS were stable. Patient was given Dilaudid\nfor chronic LE pain, 250cc NS, and Zofran. RUQ U/S with sludge,\nnegative [**Doctor Last Name 515**], no wall edema. Labs notable for lactate 2.7,\nanion gap 19, Cr 2.2, HCO3 9. pH was 7.21 on VBG. Patient has\nbeen relatively hypotensive, SBP 90s. On the Medicine floor, the\npatient was treated with IVF boluses (1.5L) and started on\nbroad-spectrum antibiotics for concern for sepsis. Patient was\naltered in the AM, but became more alert in the afternoon. He\nwas refusing VS and lab draws at times. Lactate and anion gap\nimproved initially, but then worsened in the early evening.\nGiven concern for worsening labs, patient was transferred to the\nICU for closer monitoring.\n\nIn the ICU, the patient is currently not complaining of nausea,\nvomiting, or abdominal pain. He has had no episodes of diarrhea\ntoday. He is c/o L knee pain, new from a few weeks ago.\n\n\nPast Medical History:\n1. CAD, multiple MIs, CABG ([**2101**]) ([**2101**]): SVG-PL, SVG-Diagonal\nand LIMA-LAD. He had a PTCA only of the mid Cx with an Apex OTW\n2.25x15 mm\n2. Dilated ischemic cardiomyopathy with LVEF of 10%.\n3. Atrial flutter, status post cardioversion [**2110-11-28**].\n4. BiV ICD pacemaker.\n5. Diabetes.\n6. Dyslipidemia.\n7. Hypertension.\n8. Stage III chronic kidney disease secondary to hypertension\nand diabetes.\n9. Retinopathy, neuropathy, and nephropathy from diabetes.\n10. Left hip fracture with attempted surgery, which resulted in\na cardiac arrest.\n11. History of substance abuse.\n12. History of pancreatitis.\n13. GERD.\n14. Colonic polyps.\n15. [**6-6**] Right fourth toe amputation.\n16. [**5-/2111**] ORIF left hip with persistent nonunion of his\nsubtrochanteric femur fracture\n17. Left eye vitrectomy\n18. [**2112-7-1**]: RLE Balloon angioplasty of tibioperoneal trunk,\nBalloon angioplasty of the anterior tibialis artery.\n19. [**2112-7-5**]: Debridement of wound down through subcutaneous\ntissue and including bone with placement of vacuum-assisted\nclosure dressing.\n20. R foot osteomyelitis, s/p 6 weeks Vanc/Ctx, finished\n[**2112-9-11**]\n\nSocial History:\n- Previously employed as cab driver, now retired. Lives at home\n\nwith his wife.\n- Tobacco history: 40-50 pack year history, quit 15 years ago\n- ETOH: heavy use until [**2090**]\n- Illicit drugs: previous heroin/cocaine use\n\nFamily History:\nMother and father died in 70's-80s of cancer. Denies any family\nhistory of cardiac disease. No family history of early MI.\n\nPhysical Exam:\nADMISSION EXAM:\nVitals: T: 98.8 BP: 92/55 P: 87 R: 20 O2: 98% RA\nGeneral: Alert, orientedx2, no acute distress\nHEENT: Sclera anicteric, dry MM, oropharynx clear\nNeck: supple, JVP elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nrhonchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: soft, mild ttp in RLQ, non-distended, bowel sounds\npresent, no rebound tenderness or guarding, no organomegaly\nGU: foley\nExt: cool to touch, palpable/dopplerable distal pulses, no\nedema, R 4th toe amputated with dry gauze overlying ulcer, L\nknee with effusion, no warmth/erythema, mild tenderness\nNeuro: grossly intact\n\nPertinent Results:\nADMISSION LABS:\n[**2112-10-10**] 04:30AM BLOOD WBC-12.8*# RBC-3.88*# Hgb-9.3*#\nHct-30.2*# MCV-78* MCH-24.0*# MCHC-30.9* RDW-16.0* Plt Ct-256\n[**2112-10-10**] 04:30AM BLOOD Neuts-91.3* Lymphs-4.5* Monos-3.4 Eos-0.6\nBaso-0.2\n[**2112-10-10**] 09:36AM BLOOD PT-21.5* PTT-40.6* INR(PT)-2.0*\n[**2112-10-11**] 03:04PM BLOOD Fibrino-556*#\n[**2112-10-11**] 03:04PM BLOOD ESR-35*\n[**2112-10-10**] 04:30AM BLOOD Glucose-156* UreaN-47* Creat-2.2*#\nNa-132* K-4.4 Cl-104 HCO3-9* AnGap-23*\n[**2112-10-10**] 04:40AM BLOOD ALT-32 AST-37 AlkPhos-330* TotBili-1.4\n[**2112-10-10**] 04:40AM BLOOD Lipase-17\n[**2112-10-10**] 09:36AM BLOOD CK-MB-4\n[**2112-10-10**] 09:36AM BLOOD Calcium-8.7 Phos-4.4# Mg-2.0\n[**2112-10-11**] 05:59AM BLOOD CRP-161.1*\n[**2112-10-10**] 06:00PM BLOOD Digoxin-1.0\n[**2112-10-10**] 08:08AM BLOOD pO2-62* pCO2-38 pH-7.21* calTCO2-16* Base\nXS--12 Comment-GREENTOP\n[**2112-10-10**] 04:41AM BLOOD Lactate-2.7*\n[**2112-10-10**] 06:07PM BLOOD O2 Sat-68\n[**2112-10-10**] 11:50AM BLOOD freeCa-1.13\n\nURINE:\n[**2112-10-10**] 10:45PM URINE Color-Red Appear-Cloudy Sp [**Last Name (un) **]-1.016\n[**2112-10-10**] 10:45PM URINE Blood-LG Nitrite-NEG Protein-100\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-LG\n[**2112-10-10**] 10:45PM URINE RBC-36* WBC->182* Bacteri-FEW Yeast-NONE\nEpi-0\n[**2112-10-10**] 10:45PM URINE WBC Clm-FEW\n[**2112-10-10**] 10:45PM URINE Hours-RANDOM UreaN-92 Creat-124 Na-91\nK-25 Cl-63\n[**2112-10-10**] 10:45PM URINE Osmolal-312\n\nMICRO:\n[**2112-10-10**] BCx: MRSA\nSTAPH AUREUS COAG +\n                             |\nCLINDAMYCIN-----------<=0.25 S\nERYTHROMYCIN----------   =>8 R\nGENTAMICIN------------ <=0.5 S\nLEVOFLOXACIN----------     4 R\nOXACILLIN-------------   =>4 R\nRIFAMPIN-------------- <=0.5 S\nTETRACYCLINE----------   <=1 S\nTRIMETHOPRIM/SULFA---- <=0.5 S\nVANCOMYCIN------------     1 S\n\n[**2112-10-10**] UCx: negative\n\nSTUDIES:\n[**2112-10-10**] ECHO:\nLeft ventricular hypertrophy with cavity dilatation and severe\nglobal biventricular hypokinesis c/w diffuse process\n(multivessel CAD, toxin, metabolic, etc.) Severe pulmlonary\nartery hypertension. Tricuspid regurgitation. Mild-moderate\nmitral regurgitation.\nCompared with the prior study (images reviewed) of [**2110-12-1**],\nglobal and regional left ventricular systolic function is now\nmore depressed. The severity of tricuspid regurgitation is\nslightly increased.\n\n[**2112-10-10**] RUQ U/S:\n1. Nondistended gallbladder filled with sludge, negative\nson[**Name (NI) 493**] [**Name2 (NI) 515**] sign, and minimal gallbladder wall edema\nand pericholecystic fluid. Findings likely due to chronic liver\ndisease.\n2. Mild perihepatic ascites and small left pleural effusion.\n3. Normal common bile duct diameter measuring 3 mm.\n4. Homogeneous echogenicity of the liver without focal lesion.\n\n[**2112-10-11**] L Knee XR:\n1. Incompletely seen intramedullary rod with distal interlocking\nscrew, with ossification surrounding the head of the screw and\ndistal lateral femur. No signs of orthopedic hardware loosening.\n\n2. No definite acute fracture or dislocation.\n3. Extensive vascular calcified atherosclerotic disease at the\nleft knee soft tissues.\n4. Trace knee joint effusion\n\n[**2112-10-12**] CXR:\nLeft pectoral CCD with defibrillator leads leading to the right\nventricle and other two leads each terminating into the right\natrium and left ventricle are unchanged in position. Patient is\nstatus post median sternotomy and has intact sternal sutures.\nModerate-to-large cardiomegaly and mediastinal and hilar\ncontours are stable. Bilateral lung volumes remain low with mild\nimprovement in the pulmonary edema. No pleural effusion. No\ndiscrete opacities concerning for pneumonia.\n\n\n\nBrief Hospital Course:\nMr. [**Known lastname **] is a 70 year old man with h/o CAD, sCHF (EF <20%),\nDM, HTN, CKD, s/p R 4th toe amputation and recent Abx, who was\nadmitted with N/V/D x 4days. He was transferred from the medical\nfloor to the ICU for sepsis, found to have MRSA bacteremia.\nLikely source is from his R foot, where he recently had a toe\namputation and osteomyelitis. Despite treatment with\nbroad-spectrum antibiotics (Linezolid and Zosyn), the patient\ndeclined rapidly and had multi-system organ failure. The patient\nand family declined further invasive lines and treatments. The\nfamily and medical team decided to make the patient comfort\nmeasures only on [**2112-10-13**]. The patient was transitioned to\ninpatient hospice on the medical floor.  He expired on [**2112-10-16**].\n\nMedications on Admission:\nASA 81mg PO daily\nAtorvastatin 40mg PO qhs\nDabigatran 150mg PO BID\nDigoxin 0.125mg PO daily\nMetoprolol XL 50mg PO daily\nImdur 30mg PO daily\nNTG 0.4mg SL q5min prn\nValsartan 80mg PO daily\nSpironolactone 25mg PO daily\nTorsemide 60mg PO daily\nGabapentin 100mg PO TID\nOxycontin 10mg PO BID\nPercocet 2tabs PO q4-6h prn\nOxycodone 5mg PO BID prn\nLorazepam 0.5mg PO q6h prn\nTrazodone 25mg PO BID\nNPH\nHumalog\nAscorbic acid 250mg PO BID\nColace 100mg PO BID\nFerrous sulfate 325mg PO BID\n\nDischarge Medications:\nExpired\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nMRSA sepsis\n\nDischarge Condition:\nExpired\n\nDischarge Instructions:\nExpired\n\nFollowup Instructions:\nExpired\n\n\nCompleted by:[**2112-10-18**]"
+    },
+    {
+      "note_id": 58722,
+      "category": "Discharge summary",
+      "description": "Addendum",
+      "annotations": [
+        {
+          "begin": 864,
+          "end": 885,
+          "code": "V66.7",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for palliative care",
+          "type": "Human",
+          "covered_text": "comfort focused care."
+        }
+      ],
+      "text": "Name:  [**Known lastname 15075**],[**Known firstname 240**] J              Unit No:   [**Numeric Identifier 15076**]\n\nAdmission Date:  [**2112-10-10**]              Discharge Date:   [**2112-10-16**]\n\nDate of Birth:  [**2041-10-20**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nLevofloxacin / Ace Inhibitors\n\nAttending:[**First Name3 (LF) 1991**]\nAddendum:\nAfter being called out to the medical floor from the ICU,\nanother family meeting was held to again explain Mr. [**Known lastname 15091**]\ndire medical condition, and that the medical therapies that we\nhad to offer were highly unlikely to allow the patient to\nrecover a meaningful quality of life.  Given this information,\nthe patient's wife [**Name (NI) 3053**] and son [**Name (NI) **] at that time reaffirmed his\ndesire not to go forward with potentially life sustaining\ntherapies and rather have comfort focused care.\n\nLater on [**2112-10-14**], the patient's other sons and daughters\narrived, and requested that we consult the renal team concerning\nthe possibility of dialysis or CVVH.  The renal team came and\nsaw the patient and discussed with the family what the potential\nbenefits and harms of dialysis, in particular the benefits that\ncould be realized for Mr. [**Known lastname **] at the current stage of his\ndisease.  After further discussion amongst the family, the HCPs\n([**Name (NI) 3053**] and [**Name (NI) **]) reaffirmed the decision to have comfort focused\ncare.  The patient expired on [**2112-10-16**].\n\nDischarge Disposition:\nExpired\n\n                             [**First Name11 (Name Pattern1) 77**] [**Last Name (NamePattern4) 1992**] MD [**MD Number(2) 1993**]\n\nCompleted by:[**2112-10-18**]"
+    }
+  ]
+}

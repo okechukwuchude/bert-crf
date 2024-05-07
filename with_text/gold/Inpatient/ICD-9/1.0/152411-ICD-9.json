@@ -1,0 +1,192 @@
+{
+  "hadm_id": 152411,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 675130,
+      "category": "Nutrition",
+      "description": "Clinical Nutrition Note",
+      "annotations": [
+        {
+          "begin": 306,
+          "end": 310,
+          "code": "491.21",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive chronic bronchitis with (acute) exacerbation",
+          "type": "Human",
+          "covered_text": "COPD"
+        }
+      ],
+      "text": "Ht: 66\n (estimated)\n   Admit wt: 75kg\n   116% IBW/ BMI = 26.6\n   Previous wt [**4-25**]) 78.6kg\n   Diet: regular; NPO for procedure\n   Meds/Labs: noted\n   Potential for nutrition risk. Patient being monitored. Current\n   intervention if any, listed below:\n   80 YO male with right hemidiaphragm paralysis, COPD, bronchiectais and\n   tracheal malacia with stent placed in [**2144**].  Presented with low grade\n   fevers, increased cough from pulmonary rehab to outside hospital.\n   Transferred to [**Hospital1 5**] for further management.  (+) focal findings on\n   x-ray, no evidence of fibrosis on CT scan and it is more suggestive of\n   bronchiectasis and tracheal malacia.  Patient currently off floor for\n   replacement of [**Location (un) 6045**] cannula trach (originally placed [**5-30**]).\n   Patient was taking small amount of po\ns; NPO for procedure.\n   Recommendations:\n   1.       resume regular diet when medically feasible\n   2.       lytes and BS management\n   3.       Will follow up to check diet advancement and po\ns; page if\n   questions *[**Numeric Identifier 606**]\n"
+    },
+    {
+      "note_id": 674183,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 2309,
+          "end": 2330,
+          "code": "V58.61",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of anticoagulants",
+          "type": "Human",
+          "covered_text": "renal artery stenosis"
+        },
+        {
+          "begin": 7223,
+          "end": 7253,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute on chronic renal failure"
+        }
+      ],
+      "text": "Chief Complaint:  dyspnea\n   HPI:\n   Mr. [**Known lastname **] is an 80M with COPD, pulmonary fibrosis, and h/o TBM s/p\n   tracheal stent [**2144**] who presents with respiratory distress. Of note he\n   was recently admitted to the medical service [**Date range (1) 6306**] with increased\n   respiratory distress, felt at that time to be due to mucous plugging.\n   He received ceftriaxone and azithromycin during this admission, which\n   were stopped prior to discharge and respiratory status was improved by\n   discharge. Patient developed increased cough [**5-27**] and started on\n   levofloxacin as an outpatient without significant improvement. He was\n   initially evaluated at an OSH where vitals were 98.8 88 115/47 24 95%\n   on 4L. Given 40mg lasix - apparently without benefit. CBC there with\n   WBC 11.6, 19% bands per OSH records. He was transferred to [**Hospital1 5**] for\n   further management.\n   .\n   In the ER, vitals were 100.9 114 148/76 98% 3L -> 100% on BiPAP.  Exam\n   with rhonchi with supraclavicular retractions. CXR showing mild\n   pulmonary edema. Given vanco, ctx in ED. Respiratory attempted\n   secretions but too thick. IP called - stent is in same place, plan for\n   scope in MICU. Started on BIPAP and admitted to MICU for further care.\n   .\n   On evaluation in the ICU, pt reports SOB is improved. He recalls\n   breathing worsened day prior to admission. Denies any chest discomfort,\n   abdominal discomfort, diarrhea, dysuria.\n   Allergies:\n   Opioid Analgesics\n   Confusion/Delir\n   Sulfa (Sulfonamides)\n   Unknown;\n   Tetanus\n   Unknown;\n   Benzodiazepines\n   Confusion/[**Hospital 6307**]\n   Rehab meds\n   Levofloxacin 500mg daily 5/11start\n   Saline nebs QID between dunebs\n   Duonebs QID\n   Mucomyst 10% 4cc nebs TID\n   Omeprazole 20 daily\n   Velafaxine XR 37.5 daily\n   Warfarin 6mg daily\n   Neurontin 400mg TID\n   Lisinopril 5mg daily\n   Lidoderm patch\n   Folate, Colace, Guiafenesin, Mag Oxide, Miconazole\n   Past medical history:\n   Family history:\n   Social History:\n   COPD with recent exacerbations in [**12-24**] and [**2-26**].\n   pulmonary fibrosis ([**9-/2146**]: FVC: 49%, FEV1: 59%, restrictive\n   pattern)\n   tracheobronchomalacia s/p Y stent 3 years ago\n   PVD s/p right femoral artery bypass\n   HTN\n   sleep apnea on bipap: 12 inspiratory/6 expiratory\n   renal artery stenosis\n   chronic kidney disease\n   Parkinsonism\n   coronary atherosclerosis (stress test [**4-/2147**]: No anginal type\n   symptoms or ischemic EKG changes, 57% Max HR achieved)\n   hyperlipidemia\n   depression/ anxiety\n   pulmonary nodule\n   paralyzed right hemidiaghragm per daugther's report\n   H/O PNA in [**2147**], requiring intubation\n   H/O R foot cellulitis\n   DJD\n   s/p spinal surgery with hardware\n   n/c\n   Occupation: retired\n   Drugs:\n   Tobacco: remote history, 20 pack years\n   Alcohol:\n   Other:\n   Review of systems:\n   See HPI\n   Flowsheet Data as of [**2148-5-28**] 12:49 PM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.7\nC (99.8\n   Tcurrent: 37.7\nC (99.8\n   HR: 102 (101 - 103) bpm\n   BP: 123/64(79) {106/54(64) - 123/64(79)} mmHg\n   RR: 24 (24 - 28) insp/min\n   SpO2: 97%\n   Heart rhythm: ST (Sinus Tachycardia)\n             Total In:\n             500 mL\n   PO:\n             TF:\n   IVF:\n   500 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                      0 mL\n   Urine:\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                    500 mL\n   Respiratory\n   O2 Delivery Device: Aerosol-cool\n   SpO2: 97%\n   ABG: 7.43/38/150//1\n   PaO2 / FiO2: 300\n   Physical Examination\n   Vitals 99.8 102 123/64 24 97% on 50% facemask\n   General Mildly tachypneic, but able to converse\n   HEENT Sclera anicteric, dry MM\n   Neck No JVD\n   Pulm Bilateral rales minimal on R, coarse on L\n   CV Mildly tachy regular S1 S2 no m/r/g appreciated\n   Abd Soft nontender +bowel sounds nontender\n   Extrem Warm no edema palpable distal pulses\n   Neuro Alert and awake, following commands\n   Lines/tubes/drains Foley, PIV\n   Labs / Radiology\n   CBC 13>31<267 N 86 no bands\n   Chem 134/4.6/96/25/33/1.5<96 prior Cr [**4-25**] was 1.2\n   CK 106, Tropn 0.03\n   BNP 972\n   INR 2.6 PTT 33\n   UA no wbc\n   Blood cx pending\n   Sputum gram stain + cx pending\n   ABG 7.43 38 150 26, lactate 0.9 on 50% facemask\n   CXR official read pending - elevated R hemidiaphram, L CP angle not\n   well seen with possible infiltrate, increased vascularity\n   .\n   EKG SR @114, nl axis, RBBB +PVCs similar to prior\n   poor baseline\n                                  [**2145-1-18**]\n                          2:33 A5/12/[**2148**]  11:02 AM\n                                  [**2145-1-22**]\n                                   10:20 P\n                                  [**2145-1-23**]\n                                   1:20 P\n                                  [**2145-1-24**]\n                                   11:50 P\n                                  [**2145-1-25**]\n                                   1:20 A\n                                  [**2145-1-26**]\n                                   7:20 P\n                                  1//11/006\n                                   1:23 P\n                                  [**2145-2-18**]\n                                   1:20 P\n                                  [**2145-2-18**]\n                                   11:20 P\n                                  [**2145-2-18**]\n                                   4:20 P\n   TC02\n                                     26\n   Assessment and Plan\n   This 80M with COPD, pulmonary fibrosis, Parkinsons, and TBM s/p\n   stenting returns with increased respiratory distress.\n   .\n   1. Dyspnea\n   History concerning for possible pneumonia given fever and cough. His\n   CXR shows no clear infiltrate, which raises the possibility of an\n   atypical bacterial infection or viral pneumonia such as influenza. In\n   the setting of recent hospitalization and rehab, health care associated\n   pathogens much be addressed and could have been easily missed with\n   recent ceftriaxone, azithromycin. In setting of Parkinsons, may be\n   prone to aspiration. Other possibilities include recurrent mucous\n   plugging, COPD exacerbation. He certainly may have an element of HF.\n   ACS, PE seems less likely.\n   - Gram stain and culture of sputum, DFA with respiratory viral panel\n   - Urine legionella antigen, blood cultures\n   - Empiric vancomycin and Zosyn, plus levoflox (recently got azithro)\n   - Continue bronchodilators, mucomyst nebs\n   - Chest PT\n   - Check ABG\n   - PA/Lat CXR when stabilizes\n   - Hold on further diuresis for now\n   - Recheck BNP\n   - Consider swallow eval\n   .\n   2. Fever\n   Suspect due pulmonary infection, as above. No diarrhea to suggest C\n   diff, UA without evidence of UTI. Other noninfectious causes such as PE\n   seem less likely.\n   - Pulmonary workup as above\n   - UA/UCX, blood cultures\n   .\n   3. Acute on chronic renal failure\n   Labs suggestive of a pre-renal picture in setting of diuresis, poor PO\n   - Hold on further diuresis\n   - Urinalysis, urine electrolytes\n   - Follow urine output, renally dose meds\n   - Hold lisinopril\n   .\n   4. HTN\n   Holding lisinopril in setting of elevated Cr. Continue diltiazem.\n   .\n   5. Parkinsons\n   Continue home Sinemet\n   .\n   6. PVD s/p stent\n   Continue home warfarin, ASA, statin. Will discuss need for warfarin\n   with vascular.\n   .\n   7. Depression/Anxiety\n   Continue duloxetine\n   .\n   8. Hyperlipidemia\n   Continuing home statin\n   ICU Care\n   Nutrition:\n   Comments: regular diet, NPO after midnight for ?bronch\n   Glycemic Control: Blood sugar well controlled\n   Lines:\n   20 Gauge - [**2148-5-28**] 12:00 PM\n   Comments: place 2nd PIV\n   Prophylaxis:\n   DVT: (Systemic anticoagulation: Coumadin)\n   Stress ulcer: PPI\n   VAP: HOB elevation\n   Communication: with Daughter\n   [**Name (NI) 156**] status: Full code\n   Disposition: ICU\n"
+    },
+    {
+      "note_id": 32090,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1817,
+          "end": 1821,
+          "code": "491.21",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive chronic bronchitis with (acute) exacerbation",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 2110,
+          "end": 2132,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "chronic kidney disease"
+        },
+        {
+          "begin": 2135,
+          "end": 2147,
+          "code": "332.0",
+          "code_system": "ICD-9-CM",
+          "description": "Paralysis agitans",
+          "type": "Human",
+          "covered_text": "Parkinsonism"
+        },
+        {
+          "begin": 2150,
+          "end": 2174,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "coronary atherosclerosis"
+        },
+        {
+          "begin": 2277,
+          "end": 2280,
+          "code": "403.90",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive renal disease, unspecified, without mention of renal failure",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 2300,
+          "end": 2310,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 2312,
+          "end": 2319,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "Human",
+          "covered_text": "anxiety"
+        },
+        {
+          "begin": 2470,
+          "end": 2473,
+          "code": "715.90",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoarthrosis, unspecified whether generalized or localized, involving unspecified site",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "DJD"
+        },
+        {
+          "begin": 9680,
+          "end": 9699,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute renal failure"
+        },
+        {
+          "begin": 9913,
+          "end": 9916,
+          "code": "567.23",
+          "code_system": "ICD-9-CM",
+          "description": "Spontaneous bacterial peritonitis",
+          "type": "MapType.EXACT",
+          "covered_text": "SBP"
+        },
+        {
+          "begin": 10051,
+          "end": 10057,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "MapType.EXACT",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 10181,
+          "end": 10184,
+          "code": "443.9",
+          "code_system": "ICD-9-CM",
+          "description": "Peripheral vascular disease, unspecified",
+          "type": "Human",
+          "covered_text": "PVD"
+        },
+        {
+          "begin": 10614,
+          "end": 10628,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 13918,
+          "end": 13950,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "health-care associated pneumonia"
+        },
+        {
+          "begin": 13951,
+          "end": 14011,
+          "code": "491.21",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive chronic bronchitis with (acute) exacerbation",
+          "type": "Human",
+          "covered_text": "acute exacerbation of chronic obstructive pulmonary disorder"
+        }
+      ],
+      "text": "Admission Date:  [**2148-5-28**]              Discharge Date:   [**2148-6-4**]\n\nDate of Birth:  [**2068-1-6**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nOpioid Analgesics / Sulfa (Sulfonamides) / Tetanus /\nBenzodiazepines\n\nAttending:[**First Name3 (LF) 9415**]\nChief Complaint:\ndyspnea\n\nMajor Surgical or Invasive Procedure:\ntracheostomy ([**Location (un) **] button and T-stent placement)\n\n\nHistory of Present Illness:\nMr. [**Known lastname **] is an 80M with COPD, pulmonary fibrosis, and h/o TBM s/p\ntracheal stent [**2144**] who presents with respiratory distress. Of\nnote he was recently admitted to the medical service [**Date range (1) 12721**]\nwith increased respiratory distress, felt at that time to be due\nto mucous plugging. He received ceftriaxone and azithromycin\nduring that admission, which were stopped prior to discharge and\nrespiratory status was improved by discharge. Patient developed\nincreased cough [**5-27**] and started on levofloxacin as an\noutpatient without significant improvement. He was initially\nevaluated at an OSH where vitals were 98.8 88 115/47 24 95% on\n4L. Given 40mg lasix - apparently without benefit. CBC there\nwith WBC 11.6, 19% bands per OSH records. He was transferred to\n[**Hospital1 18**] for further management.\n.\nIn the ER, vitals were 100.9 114 148/76 98% 3L -> 100% on BiPAP.\n Exam with rhonchi with supraclavicular retractions. CXR showing\nmild pulmonary edema. Given vanco, ctx in ED, respiratory\nattempted secretions but too thick. IP called - stent is in same\nplace, plan for scope in MICU. Started on BIPAP and admitted to\nMICU for further care.\n.\nOn evaluation in the ICU, pt reports SOB is improved. He recalls\nbreathing worsened day prior to admission. Denies any chest\ndiscomfort, abdominal discomfort, diarrhea, dysuria.\n\nPast Medical History:\n- COPD with recent exacerbations in [**12-24**] and [**2-26**].\n- Pulmonary fibrosis ([**9-/2146**]: FVC: 49%, FEV1: 59%, restr\npattern)\n- Tracheobronchomalacia s/p Y stent in [**2144**]\n- PVD s/p right femoral artery bypass\n- OSA on bipap: 12 inspiratory/6 expiratory\n- renal artery stenosis\n- chronic kidney disease\n- Parkinsonism\n- coronary atherosclerosis (stress test [**4-/2147**]: No anginal type\n\nsymptoms or ischemic EKG changes, 57% Max HR achieved)\n- HTN\n- hyperlipidemia\n- depression/ anxiety\n- pulmonary nodule\n- paralyzed right hemidiaghragm per daugther's report\n- H/O PNA in Fall [**2146**], requiring intubation\n- H/O R foot cellulitis\n- DJD\n- s/p spinal surgery with hardware\n\n\nSocial History:\nNo currrent EtOH or tobacco. Prior smoking history  was 50 years\n\nago, smoked for 1 ppd for 20 years. Normally lives at home but\nwas in rehab before coming in for this admission. Daughter is\nvery involved in his care and is a respiratory therapist.\n\nFamily History:\nDenies family history of pulmonary problems.\n\nPhysical Exam:\nOn admission:\nVitals 99.8 102 123/64 24 97% on 50% facemask\nGeneral Mildly tachypneic, but able to converse\nHEENT Sclera anicteric, dry MM\nNeck No JVD\nPulm Bilateral rales minimal on R, coarse on L\nwheezy bilaterally\nCV Mildly tachy regular S1 S2 no m/r/g appreciated\nAbd Soft nontender +bowel sounds nontender\nExtrem Warm no edema palpable distal pulses\nNeuro Alert and awake, following commands\nLines/tubes/drains Foley, PIV\n\nPertinent Results:\nLABS ON ADMISSION:\n[**2148-5-28**] 07:00AM BLOOD WBC-13.0* RBC-3.65* Hgb-10.6* Hct-31.3*\nMCV-86 MCH-29.1 MCHC-33.9 RDW-16.2* Plt Ct-267\n[**2148-5-28**] 07:00AM BLOOD Neuts-85.5* Lymphs-8.8* Monos-4.2 Eos-0.9\nBaso-0.6\n[**2148-5-28**] 07:00AM BLOOD PT-26.5* PTT-32.8 INR(PT)-2.6*\n[**2148-5-28**] 07:00AM BLOOD Glucose-96 UreaN-33* Creat-1.5* Na-134\nK-4.6 Cl-96 HCO3-25 AnGap-18\n[**2148-5-28**] 07:00AM BLOOD Calcium-9.2 Phos-3.6 Mg-1.7 Cholest-144\n[**2148-5-28**] 07:00AM BLOOD Triglyc-63 HDL-48 CHOL/HD-3.0 LDLcalc-83\n.\nLABS ON DISCHARGE:\n...\n.\nURINE:\n[**2148-5-28**] 03:12PM URINE Blood-LG Nitrite-NEG Protein-NEG\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR\n[**2148-5-28**] 03:12PM URINE RBC-0-2 WBC-[**12-6**]* Bacteri-NONE\nYeast-NONE Epi-0-2\n[**2148-5-28**] 03:12PM URINE Eos-NEGATIVE\n[**2148-5-28**] 03:12PM URINE Hours-RANDOM UreaN-334 Creat-35 Na-78\n[**2148-5-28**] 07:00AM URINE Blood-LG Nitrite-NEG Protein-NEG\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG\n[**2148-5-28**] 07:00AM URINE RBC-0-2 WBC-0 Bacteri-RARE Yeast-NONE\nEpi-[**3-21**]\n.\nMICRO:\nBlood cx - NEGATIVE\nSputum cx - sparse GNRs, rare Proteus\nUrine Cx - NEGATIVE\nUrinary Legionella Ag - negative\nResp viral screen: ADENO,PARAINFLUENZA 1,2,3 INFL A,B AND RSV -\nNEGATIVE\n.\nEKG SR @114, nl axis, RBBB +PVCs similar to prior poor baseline\n.\nRADIOLOGY:\nCXR ([**5-28**]):\n1. Mild CHF.\n2. Tracheal stent appears to lie slightly to the left relative\nto the\ntracheal contour. A CT of the chest is suggested to exclude a\ntracheal stent migration.\n.\nCXR ([**5-29**]):\nEvolving airspace change, particularly in the right mid zone\nsuggestive of\npneumonia. Generalized peribronchial cuffing suggestive of\nleft heart decompensation.\n.\nCXR ([**5-31**]):\nFINDINGS: New tube overlies the proximal trachea and may reflect\na\ntracheostomy tube. Preexisting Y-stent within the trachea and\nmain bronchi\nappear unchanged. Interval worsening of pulmonary edema as well\nas slight\nprogression in degree of right lower lobe atelectasis with\nassociated\nelevation of right hemidiaphragm. Probable adjacent small right\npleural\neffusion. No pneumothorax or pneumomediastinum.\n.\nCXR ([**6-1**]):\nFINDINGS: Tracheostomy tube and Y-stent remain in place in the\nairways.\nInterval improvement and pulmonary edema which is nearly\nresolved, as well as improving aeration at the right lung base\nwith some residual minor atelectasis remaining as well as a\npersistent elevation of right hemidiaphragm. Minimal patchy\nopacity at the left base also likely represents atelectasis,\naccompanied by a small pleural effusion.\n.\n\n[**2148-6-4**] 05:16AM BLOOD WBC-11.7* RBC-3.63* Hgb-10.4* Hct-31.7*\nMCV-88 MCH-28.6 MCHC-32.7 RDW-16.3* Plt Ct-225\n[**2148-5-31**] 04:52AM BLOOD WBC-17.0* RBC-3.30* Hgb-9.8* Hct-28.1*\nMCV-85 MCH-29.6 MCHC-34.7 RDW-16.6* Plt Ct-251\n[**2148-5-28**] 07:00AM BLOOD WBC-13.0* RBC-3.65* Hgb-10.6* Hct-31.3*\nMCV-86 MCH-29.1 MCHC-33.9 RDW-16.2* Plt Ct-267\n[**2148-5-30**] 02:37AM BLOOD Neuts-89.8* Lymphs-6.0* Monos-4.1 Eos-0.1\nBaso-0\n[**2148-6-4**] 05:16AM BLOOD PT-13.8* PTT-30.3 INR(PT)-1.2*\n[**2148-6-4**] 05:16AM BLOOD Plt Ct-225\n[**2148-5-30**] 02:37AM BLOOD PT-18.0* PTT-27.1 INR(PT)-1.6*\n[**2148-5-29**] 01:16PM BLOOD PT-24.9* PTT-34.7 INR(PT)-2.4*\n[**2148-5-28**] 07:00AM BLOOD PT-26.5* PTT-32.8 INR(PT)-2.6*\n[**2148-6-4**] 05:16AM BLOOD Glucose-87 UreaN-25* Creat-0.9 Na-139\nK-4.3 Cl-103 HCO3-29 AnGap-11\n[**2148-5-29**] 04:15AM BLOOD Glucose-146* UreaN-33* Creat-1.4* Na-137\nK-4.1 Cl-102 HCO3-23 AnGap-16\n[**2148-5-29**] 04:15AM BLOOD CK(CPK)-95\n[**2148-5-28**] 03:23PM BLOOD CK(CPK)-127\n[**2148-5-28**] 07:00AM BLOOD CK(CPK)-106\n[**2148-5-29**] 04:15AM BLOOD CK-MB-NotDone cTropnT-0.01\n[**2148-5-28**] 03:23PM BLOOD CK-MB-5 cTropnT-0.03*\n[**2148-5-28**] 07:00AM BLOOD CK-MB-6 proBNP-972*\n[**2148-5-28**] 07:00AM BLOOD cTropnT-0.03*\n[**2148-6-4**] 05:16AM BLOOD Calcium-8.7 Phos-3.6 Mg-1.9\n[**2148-5-28**] 07:00AM BLOOD Calcium-9.2 Phos-3.6 Mg-1.7 Cholest-144\n[**2148-5-28**] 07:00AM BLOOD Triglyc-63 HDL-48 CHOL/HD-3.0 LDLcalc-83\n[**2148-5-29**] 01:16PM BLOOD Vanco-5.0*\n[**2148-5-29**] 09:43AM BLOOD Type-ART pO2-73* pCO2-38 pH-7.42\ncalTCO2-25 Base XS-0\n[**2148-5-29**] 09:43AM BLOOD Lactate-0.7\n\nBrief Hospital Course:\nIn brief, Mr [**Known lastname **] is an 80M w COPD (on home Bipap)), pulmonary\nfibrosis, and tracheobronchomalacia s/p Y-stent in [**2146**], PVDz\ns/p LE stenting on Warfarin, Parkinson's dz, and recent\nadmissions for similar complaints, who was admitted with\nincreased respiratory distress, s/p MICU stay.\n.\n# DYSPNEA: Likely multifactorial from combination of HCAP\n(fever, cough, infiltrate on CXR [**5-29**], leukocytosis), acute\nexacerbation of COPD from infection (given wheezing, O2\nrequirement), possible recurrent mucous plugging given extensive\nbaseline pulmonary disease/bronchiectasis. Acute on chronic\nsystolic CHF exacerbation (LVEF 40% [**5-/2147**], mild pulm edema on\nCXR at OSH) and aspiration in the setting of Parkinson's dz also\nconsidered, esp w witnessed aspiration of chicken broth as\ninpatient. ACS/PE seemed less likely, cardiac enzymes negative.\nSputum grew GNRs and Proteus, for which Meropenem was started\nfor a 10-day course ([**Date range (1) 51975**]). Blood cxs negative.\nBronchoscopy was performed and pt taken to the OR for\ntracheostomy and T-tube placement for suctioning. Necrotic skin\nwas seen around the incision, hence vancomycin was started for a\n10-day course ([**Date range (1) 72760**]). The COPD exacerbation was treated\nwith prednisone initially with 40mg, with plan for taper over 15\ndays.  Taper should begin on [**6-5**] at 20mg through [**6-7**], then\n10mg on [**6-8**] to [**6-10**], then 5mg on [**6-11**] to [**6-13**], then 2mg [**6-14**] to\n[**6-16**], then 1mg [**6-17**] to [**6-19**].  Patient was also treated with\nbronchodilators/acetylcysteine nebs and supplemental oxygen as\nneeded. Pt evaluated w video speech and swallow, showed\nDysphagia Outcome\nSeverity Scale (DOSS) rating of level 5, mild dysphagia,\nrecommended repeat instrumental evaluation at rehab prior to\nupgrading patient's diet or if patient continues to improve.\nTracheostomy capped on discharge, which the pt is tolerating\nwell. Oxygenating on room air > 93%.\n.\n# tracheostomy site: it was felt patient had a tracheostomy site\ninfection, was initiated on vancomycin on [**5-29**], with plan to\ncomplete 10d course, to end [**6-8**].\n.\n# Acute renal failure: Cr 1.5 up from recent baseline of Cr ~1.\nLikely prerenal in the setting of diuresis, poor PO intake and\nacute processes (infection). Lisinopril was held until Cr\nresolved to baseline. Cr=1 on discharge.\n.\n# HTN: SBP varied in the 100-160 range given acute\nhospitalization. Mostly in the 130s on discharge on home regimen\n(diltiazem, lisinopril).\n.\n# Anemia: normocytic, likely [**2-19**] ACD and possibly acute losses\nfrom procedures. Stable at baseline Hct ~30 on discharge.\n.\n# PVD s/p stent: Coumadin held for tracheostomy, restarted on\n[**2148-6-3**], will need INR monitoring and adjustments in dosing.\nPatient's coumadin was initially held, then restarted [**6-3**] at\n7.5mg.  This will need to be followed at rehab, with goal inr 2\nto 3.\n- continue home ASA, statin\n- continue coumadin - will need inr check until therapeutic\n.\n# Parkinson's dz: stable, continued home carbidopa/levodopa on\ndischarge.\n.\n# Hyperlipidemia: stable, continued home statin.\n.\n# Depression/Anxiety: stable, continued home venlafexine.\n.\nCODE STATUS: FULL\nCommunication: Daughter [**Name (NI) 1785**] ([**Telephone/Fax (1) **])\n\nMedications on Admission:\nLevofloxacin 500mg daily\nSaline nebs QID between dunebs\nDuonebs QID\nMucomyst 10% 4cc nebs TID\nOmeprazole 20 daily\nVelafaxine XR 37.5 daily\nWarfarin 6mg daily\nNeurontin 400mg TID\nLisinopril 5mg daily\nLidoderm patch\nFolate, Colace, Guiafenesin, Mag Oxide, Miconazole\n\nDischarge Medications:\n1. Vancomycin in Dextrose 1 gram/250 mL Solution Sig: One (1)\nIntravenous once a day for 4 days: to complete 10 d course,\nbegan on [**5-29**], to end [**6-8**].\n2. Meropenem 500 mg Recon Soln Sig: One (1) Recon Soln\nIntravenous Q8H (every 8 hours) for 4 days: to end 10d course on\n[**6-8**], start date [**5-29**].\n3. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation\nevery six (6) hours as needed for shortness of breath or\nwheezing.\n4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n5. Diltiazem HCl 120 mg Capsule, Sustained Release Sig: One (1)\nCapsule, Sustained Release PO DAILY (Daily).\n6. Venlafaxine 37.5 mg Capsule, Sust. Release 24 hr Sig: One (1)\nCapsule, Sust. Release 24 hr PO DAILY (Daily).\n7. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n9. Trifluridine 1 % Drops Sig: One (1) Drop Ophthalmic Q4H\n(every 4 hours).\n10. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:\nOne (1) Adhesive Patch, Medicated Topical DAILY (Daily) for 7\ndays.\n11. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n12. Carbidopa-Levodopa 25-100 mg Tablet Sig: One (1) Tablet PO\nQID (4 times a day).\n13. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n14. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)\nInjection TID (3 times a day): until more fully functional at\nrehab.  course to be decided by MD.\n15. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical QID\n(4 times a day).\n16. Acetaminophen 500 mg Tablet Sig: One (1) Tablet PO Q6H\n(every 6 hours) as needed for pain: do not exceed 4g/d.\n17. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n18. Acetylcysteine 20 % (200 mg/mL) Solution Sig: One (1) ML\nMiscellaneous [**Hospital1 **] (2 times a day).\n19. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n20. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1)  Inhalation Q4H (every 4 hours) as\nneeded for wheezing, sob.\n21. Capsaicin 0.025 % Cream Sig: One (1) Appl Topical TID (3\ntimes a day) as needed for neck pain for 7 days: in lieu of\nlidocaine patch if not working.\n22. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3\ntimes a day) as needed for constipation.\n23. Polyethylene Glycol 3350 100 % Powder Sig: One (1)  PO DAILY\n(Daily) as needed for constipation.\n24. Warfarin 2.5 mg Tablet Sig: Three (3) Tablet PO Once Daily\nat 4 PM.\n25. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily): will taper over next 14 days.  see paperwork for taper\nplan.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 1970**] - [**Hospital1 1559**]\n\nDischarge Diagnosis:\nhealth-care associated pneumonia\nacute exacerbation of chronic obstructive pulmonary disorder\nmucous plugging\n.\nperipheral vascular disease, s/p stenting\nanemia\nhypertension\n\n\nDischarge Condition:\nimproved\n\n\nDischarge Instructions:\nYou were admitted to the hospital for respiratory distress. We\nthink that it was likely caused by a combination of factors\nincluding a lung infection, exacerbation of your COPD, and\npossible mucous plugging in your airways. We treated you with\nantibiotics, nebulizers, steroids, and tracheostomy. Your\ncondition has improved.\n.\nIf you have fevers, chills, shortness of breath, chest pain,\nabdominal pain, or any other concerning symptoms, please call\nyour physician [**Name Initial (PRE) 2227**].\n\nFollowup Instructions:\nPlease follow up with your providers:\n1. Dr [**First Name (STitle) 75120**] [**First Name (STitle) **] (primary care): [**2148-6-17**] @ 2pm - [**Telephone/Fax (1) 75119**].\n2. Dr [**Last Name (STitle) **] (pulmonary): [**Hospital **] CLINIC INTERVENTIONAL PULMONARY\n(SB) Phone:[**Telephone/Fax (1) 3020**] Date/Time:[**2148-7-8**] 9:30\nProvider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) **], MD Phone:[**Telephone/Fax (1) 5072**] Date/Time:[**2148-7-8**]\n10:30\nProvider: [**Name10 (NameIs) **] INTAKE,ONE [**Name10 (NameIs) **] ROOMS/BAYS Date/Time:[**2148-7-8**] 10:00\n\n\n\n"
+    }
+  ]
+}

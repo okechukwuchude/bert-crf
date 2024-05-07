@@ -1,0 +1,343 @@
+{
+  "hadm_id": 139284,
+  "comment": "Missing procedure reports to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 542474,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 4613,
+          "end": 4632,
+          "code": "E87.2",
+          "code_system": "ICD-10-CM",
+          "description": "Acidosis",
+          "type": "Human",
+          "covered_text": "ACIDOSIS, METABOLIC"
+        }
+      ],
+      "text": "Chief Complaint:\n   24 Hour Events:\n   - Held sedation, with small boluses PRN\n   - Attempted to diurese, with encouraging results and attempted a second\n   time (20 IV lasix each time).\n   - Bronchoscopy, for which TF were held\n   - Discontinued flagyl\n   - FDP pending.\n   - Legionella ag sent\n   - Renal ultrasound: nl kidneys,\n   - Follow up podiatry's recs: adaptic on dorsum and betadine in between\n   toes.\n   - Fluids: -.18\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefipime - [**2120-10-15**] 06:00 AM\n   Metronidazole - [**2120-10-17**] 04:45 AM\n   Vancomycin - [**2120-10-17**] 08:00 AM\n   Levofloxacin - [**2120-10-17**] 12:00 PM\n   Piperacillin/Tazobactam (Zosyn) - [**2120-10-17**] 08:03 PM\n   Infusions:\n   Other ICU medications:\n   Ranitidine (Prophylaxis) - [**2120-10-17**] 08:03 PM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2120-10-18**] 05:00 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 38.2\nC (100.7\n   Tcurrent: 37.1\nC (98.8\n   HR: 87 (87 - 126) bpm\n   BP: 162/63(97) {117/52(74) - 173/74(112)} mmHg\n   RR: 20 (11 - 28) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 46 kg (admission): 39.6 kg\n   Height: 60 Inch\n    CVP: 7 (6 - 12)mmHg\n   Total In:\n                                                                  2,090 mL\n                                                                    240 mL\n   PO:\n   TF:\n                                                                    458 mL\n                                                                    100 mL\n   IVF:\n                                                                  1,572 mL\n                                                                     50 mL\n   Blood products:\n   Total out:\n                                                                  2,270 mL\n                                                                    650 mL\n   Urine:\n                                                                  1,820 mL\n                                                                    650 mL\n   NG:\n   Stool:\n                                                                     50 mL\n   Drains:\n   Balance:\n                                                                   -180 mL\n                                                                   -411 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CPAP/PSV\n   Vt (Spontaneous): 486 (485 - 585) mL\n   PS : 10 cmH2O\n   RR (Spontaneous): 17\n   PEEP: 12 cmH2O\n   FiO2: 50%\n   RSBI Deferred: PEEP > 10\n   PIP: 22 cmH2O\n   SpO2: 100%\n   ABG: 7.38/39/68/24/-1\n   Ve: 8.5 L/min\n   PaO2 / FiO2: 136\n   Physical Examination\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Skin:  Not assessed\n   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   81 K/uL\n   7.8 g/dL\n   93 mg/dL\n   1.9 mg/dL\n   24 mEq/L\n   3.4 mEq/L\n   27 mg/dL\n   116 mEq/L\n   147 mEq/L\n   23.6 %\n   13.4 K/uL\n        [image002.jpg]\n                             [**2120-10-16**]  03:04 AM\n                             [**2120-10-16**]  07:49 AM\n                             [**2120-10-16**]  08:00 AM\n                             [**2120-10-16**]  11:30 AM\n                             [**2120-10-17**]  01:34 AM\n                             [**2120-10-17**]  01:51 AM\n                             [**2120-10-17**]  09:16 AM\n                             [**2120-10-17**]  11:34 AM\n                             [**2120-10-17**]  06:35 PM\n                             [**2120-10-18**]  01:57 AM\n   WBC\n   11.6\n   16.4\n   13.4\n   Hct\n   25.0\n   24.6\n   23.6\n   Plt\n   97\n   89\n   81\n   Cr\n   1.7\n   1.6\n   1.9\n   1.9\n   TCO2\n   17\n   17\n   23\n   23\n   24\n   Glucose\n   154\n   87\n   123\n   163\n   101\n   89\n   87\n   88\n   107\n   93\n   Other labs: PT / PTT / INR:15.7/45.3/1.4, CK / CKMB /\n   Troponin-T:35/5/0.05, ALT / AST:14/21, Alk Phos / T Bili:108/0.2,\n   Amylase / Lipase:38/7, Differential-Neuts:49.0 %, Band:26.0 %,\n   Lymph:13.0 %, Mono:0.0 %, Eos:3.0 %, Fibrinogen:341 mg/dL, Lactic\n   Acid:1.8 mmol/L, Albumin:1.8 g/dL, LDH:321 IU/L, Ca++:8.6 mg/dL,\n   Mg++:1.7 mg/dL, PO4:3.3 mg/dL\n   Assessment and Plan\n ACIDOSIS, METABOLIC\n RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])\n PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)\n RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)\n IMPAIRED SKIN INTEGRITY\n DELIRIUM / CONFUSION\n .H/O DIABETES MELLITUS (DM), TYPE I\n .H/O SEIZURE, WITHOUT STATUS EPILEPTICUS\n SEPSIS WITHOUT ORGAN DYSFUNCTION\n HYPOGLYCEMIA\n HYPOTENSION (NOT SHOCK)\n HYPOTHERMIA\n HYPOXEMIA\n URINARY TRACT INFECTION (UTI)\n   ICU Care\n   Nutrition:\n   Nutren Renal (Full) - [**2120-10-17**] 05:00 PM 20 mL/hour\n   Lines:\n   18 Gauge - [**2120-10-15**] 01:31 AM\n   20 Gauge - [**2120-10-15**] 01:32 AM\n   Arterial Line - [**2120-10-15**] 04:00 AM\n   Multi Lumen - [**2120-10-15**] 08:14 AM\n"
+    },
+    {
+      "note_id": 542112,
+      "category": "Physician",
+      "description": "Physician Attending Admission Note - MICU",
+      "annotations": [
+        {
+          "begin": 267,
+          "end": 270,
+          "code": "I73.9",
+          "code_system": "ICD-10-CM",
+          "description": "Peripheral vascular disease, unspecified",
+          "type": "Human",
+          "covered_text": "PVD"
+        }
+      ],
+      "text": "Chief Complaint:  hypothermia\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   69 yr old woman with CHF, PVD s.p BKA, CAD, CKD, who was picked up by\n   dtr at daycare today and noted to be somnelent, fingerstick was 25 and\n   pt given amp d50 and taken to OSh- desating and given Zosyn, tc to [**Hospital1 **]\n   ER.\n   temp 93 rectal HR 60 BP 160/60 rr 20 98% on NRB blood and urine cx sent\n   lactate 1.5 CXR pulm edema and Cr 1.8\n   ROS: seizure of few days ago\n   Patient admitted from: [**Hospital1 1**] ER\n   History obtained from Family / [**Hospital 380**] Medical records\n   Patient unable to provide history: dementia\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Heparin Sodium - 650 units/hour\n   Other ICU medications:\n   Other medications:\n   Past medical history:\n   Family history:\n   Social History:\nCHF EF 20%:\nDM II x 15 years - complicated by peripheral neuropathy;\nretinopathy\nCAD - h/o distant MI per family report, no PCI or CABG\nPancreatitis\n- s/p pancreatic duct stent\nCKD (baseline 1.1-1.3 per report)\nAnemia - Mixed iron deficient and anemia of chronic disease\nThrombocytopenia\nosteopenia\nHistory of stroke\nDementia\n? Seizure disorder\n   Occupation: retired\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other: lives with dtr\n   Review of systems:\n   Constitutional: Fatigue\n   Eyes: No(t)  Blurry vision\n   Ear, Nose, Throat: No(t) Dry mouth\n   Respiratory: No(t) Cough, Dyspnea, Tachypnea, No(t) Wheeze\n   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea\n   Endocrine: Hyperglycemia\n   Heme / Lymph: Anemia\n   Neurologic: Seizure\n   Psychiatric / Sleep: Agitated\n   Flowsheet Data as of [**2120-10-15**] 02:14 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 33.6\nC (92.4\n   Tcurrent: 33.6\nC (92.4\n   HR: 67 (67 - 67) bpm\n   BP: 83/35(47) {83/35(47) - 83/35(47)} mmHg\n   RR: 30 (20 - 30) insp/min\n   SpO2: 94%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n             4 mL\n   PO:\n             TF:\n   IVF:\n   4 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    280 mL\n   Urine:\n   280 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                   -276 mL\n   Respiratory\n   O2 Delivery Device: Non-rebreather\n   SpO2: 94%\n   ABG: ////7.32/35/67\n   Physical Examination\n   Labs / Radiology\n   122\n   30.5\n   266\n   1.8\n   23\n   19\n   118\n   5.6\n   144\n   3.4\n        [image002.jpg]\n   Other labs: PT / PTT / INR://11.6/31/1.0, CK / CKMB /\n   Troponin-T://51/-/ 0.03, Differential-Neuts:69, Lymph:27, Mono:4,\n   Lactic Acid:1.5, Ca++:8.6, Mg++:3.5, PO4:2.0\n   Fluid analysis / Other labs: BNP 1843\n   UA > 50 WBC mod leuk nitrite neg\n   Microbiology: Blood Cx and Urine Cx pending\n   Assessment and Plan\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines / Intubation:\n   18 Gauge - [**2120-10-15**] 01:31 AM\n   20 Gauge - [**2120-10-15**] 01:32 AM\n   Comments:\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status:\n   Disposition:\n   Total time spent:\n"
+    },
+    {
+      "note_id": 29370,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 280,
+          "end": 292,
+          "code": "E11.649",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with hypoglycemia without coma",
+          "type": "Human",
+          "covered_text": "Hypoglycemia"
+        },
+        {
+          "begin": 568,
+          "end": 598,
+          "code": "E11.42",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with diabetic polyneuropathy",
+          "type": "Human",
+          "covered_text": "IDDM c/b\nperipheral neuropathy"
+        },
+        {
+          "begin": 613,
+          "end": 626,
+          "code": "Z89.511",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of right leg below knee",
+          "type": "Human",
+          "covered_text": "s/p right BKA"
+        },
+        {
+          "begin": 932,
+          "end": 943,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "bradycardic"
+        },
+        {
+          "begin": 2139,
+          "end": 2150,
+          "code": "E11.319",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema",
+          "type": "Human",
+          "covered_text": "retinopathy"
+        },
+        {
+          "begin": 2161,
+          "end": 2164,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 2167,
+          "end": 2181,
+          "code": "I25.2",
+          "code_system": "ICD-10-CM",
+          "description": "Old myocardial infarction",
+          "type": "Human",
+          "covered_text": "h/o distant MI"
+        },
+        {
+          "begin": 2274,
+          "end": 2277,
+          "code": "N18.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CKD"
+        },
+        {
+          "begin": 2476,
+          "end": 2493,
+          "code": "Z86.73",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "History of stroke"
+        },
+        {
+          "begin": 2497,
+          "end": 2505,
+          "code": "F03.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified dementia without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "Dementia"
+        },
+        {
+          "begin": 2794,
+          "end": 2848,
+          "code": "Z87.891",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of nicotine dependence",
+          "type": "Human",
+          "covered_text": "Quit 1 year ago, previously [**12-13**] PPD x 50 years"
+        },
+        {
+          "begin": 3204,
+          "end": 3232,
+          "code": "E11.621",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with foot ulcer",
+          "type": "Human",
+          "covered_text": "multiple ulcers on left foot"
+        },
+        {
+          "begin": 5246,
+          "end": 5248,
+          "code": "E11.22",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with diabetic chronic kidney disease",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 5250,
+          "end": 5253,
+          "code": "I13.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 5331,
+          "end": 5337,
+          "code": "A41.9",
+          "code_system": "ICD-10-CM",
+          "description": "Sepsis, unspecified organism",
+          "type": "Human",
+          "covered_text": "Sepsis"
+        },
+        {
+          "begin": 7297,
+          "end": 7316,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute Renal Failure"
+        },
+        {
+          "begin": 7722,
+          "end": 7753,
+          "code": "I50.32",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic diastolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "Chronic diastolic heart failure"
+        },
+        {
+          "begin": 7920,
+          "end": 7938,
+          "code": "R56.9",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified convulsions",
+          "type": "Human",
+          "covered_text": "History of seizure"
+        },
+        {
+          "begin": 8444,
+          "end": 8447,
+          "code": "B95.2",
+          "code_system": "ICD-10-CM",
+          "description": "Enterococcus as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "VRE"
+        },
+        {
+          "begin": 11302,
+          "end": 11327,
+          "code": "J96.01",
+          "code_system": "ICD-10-CM",
+          "description": "Acute respiratory failure with hypoxia",
+          "type": "Human",
+          "covered_text": "Acute respiratory failure"
+        },
+        {
+          "begin": 11331,
+          "end": 11350,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute renal failure"
+        },
+        {
+          "begin": 11364,
+          "end": 11377,
+          "code": "D65",
+          "code_system": "ICD-10-CM",
+          "description": "Disseminated intravascular coagulation [defibrination syndrome]",
+          "type": "Human",
+          "covered_text": "Low-grade DIC"
+        },
+        {
+          "begin": 11451,
+          "end": 11463,
+          "code": "I13.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 11526,
+          "end": 11546,
+          "code": "E78.00",
+          "code_system": "ICD-10-CM",
+          "description": "Pure hypercholesterolemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hypercholesterolemia"
+        }
+      ],
+      "text": "Admission Date:  [**2120-10-14**]              Discharge Date:   [**2120-10-28**]\n\nDate of Birth:  [**2057-12-17**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 13541**]\nChief Complaint:\nHypoglycemia, hypoxemia, hypothermia\n\n\nMajor Surgical or Invasive Procedure:\nendotracheal intubation\nArterial line placement\nCentral venous line placement\nPeripherally-inserted venous catheter\n\nHistory of Present Illness:\nMs. [**Known lastname 32496**] is a 62 yo wheelchair bound F with IDDM c/b\nperipheral neuropathy with CHF 20%, s/p right BKA, daughter\nnurse, picked her up at adult day care, noticed somnolence,\nchecked glu - 25.  Went to local ER.  Gave amp D50 and gave her\nzosyn, but there is no documented temperature.  She was noted to\ndesat to the 70s on RA, but she was asymptomatic.  She was put\non nonrebreather. She was also noted to be bradycardic in 40s.\nShe was tx here for further management.  Upon arrival, she was\nagain without complaints.  She was noted to desat to 82 without\nNRB.\n\nVitals in the ED: HR 60s.  T 92-93 rectal.  HR 60, BP 160/63, RR\n19, 98%NRB.  No other antibiotics.  1 blood and urine here.  2\nbloods at outside ed.  lactate 1.5.  Cr 1.4 there, 1.8 here.  No\nCTA done, but she was placed on heparin out of concern for PE.\nShe was put on a warming blanket.\n\nIn the ICU, she endorsed cough x 2 days, atypical chest pain.\nShe denies abd pain, dysuria or increased frequency, diarrhea,\nn/v.  She subsequently developed hypotension with SBP 70s to\n80s.  Given her evolving sepsis picture, pulmonary edema,\npossible benefit of better monitoring, and possible need for\npressors, an arterial line was placed and she was intubated.\n\nPast Medical History:\n#. Chronic Systolic CHF EF 20%:\n- h/o hospitalizations for CHF exacerbation\n- Echo [**10-17**]: Moderate symmetric LVH with severe global left\nventricular dysfunction (EF 20-25%) Moderate tricuspid\nregurgitation. Moderate pulmonary hypertension. Small\npericardial effusion.\n- MIBI [**2117**] with normal perfusion\n#. DM II x 15 years - complicated by peripheral neuropathy;\nretinopathy\n#. HTN\n#. CAD - h/o distant MI per family report, no PCI or CABG\n#. History of Pancreatitis\n- s/p pancreatic duct stent\n#. CKD (baseline 1.1-1.3 per report, but was 0.7-0.9 in [**4-17**])\n#. Anemia - Mixed iron deficient  and anemia of chronic disease\n#. Thrombocytopenia\n#. h/o thickened endometrium per US\n#. osteopenia\n#. History of stroke\n#. Dementia\n#. ? Seizure disorder\n\n\nSocial History:\nThe patient was previously living in [**Location (un) **] with her other\ndaughter. She recently returned to [**Location 86**] to live with her\ndaughter [**Name (NI) 70555**] who is employed at [**Hospital1 18**] as a coworker\n[**Name (NI) 1139**]: Quit 1 year ago, previously [**12-13**] PPD x 50 years\nETOH: Rare\nIllicits: None\n\n\nFamily History:\nMother with DM, breast cancer, MI in her 70's. Brother has DM.\nSister with heart disease.\n\n\nPhysical Exam:\nvitals: 92 axillary, HR 67  83/35-->121/84  RR20  O2 83-94% NRB\nheent: ncat, mmm, eomi\nneck: no lad\npulm: ctab, no w/r/r\ncv: hrrr, no m/r/g\nabd: s/nd, mild diffuse ttp, hypoactive bs\nextr: s/p right BKA, multiple ulcers on left foot without\nerythema.  exudate between 3rd and 4th toes where there is an\nulcer.\nneuro: ao x 1 (self)\n\n\nPertinent Results:\n[**2120-10-14**] 11:06PM   PO2-67* PCO2-35 PH-7.32* TOTAL CO2-19* BASE\nXS--7\n[**2120-10-14**] 11:06PM   LACTATE-1.5\n\n[**2120-10-14**] 10:55PM   GLUCOSE-266* UREA N-23* CREAT-1.8* SODIUM-144\nPOTASSIUM-5.6* CHLORIDE-118* TOTAL CO2-19* ANION GAP-13\n\n[**2120-10-14**] 10:55PM   CK(CPK)-51\n[**2120-10-14**] 10:55PM   cTropnT-0.03*\n\n[**2120-10-14**] 10:55PM   CALCIUM-8.6 PHOSPHATE-3.5 MAGNESIUM-2.0\n\n[**2120-10-14**] 10:55PM   TSH-11*\n[**2120-10-14**] 10:55PM   TSH-11*\n[**2120-10-14**] 10:55PM   T4-8.7\n\n[**2120-10-14**] 10:55PM   PLT SMR-NORMAL PLT COUNT-122* LPLT-3+\n[**2120-10-14**] 10:55PM   PLT SMR-NORMAL PLT COUNT-122* LPLT-3+\n[**2120-10-14**] 10:55PM   PT-11.6 PTT-31.3 INR(PT)-1.0\n\nCXR [**10-23**]:\nFINDINGS: In comparison with the study of [**10-22**], there is\npersistence of\ndiffuse bilateral pulmonary opacifications. Again, this is\nconsistent with\nARDS, though vascular congestion or diffuse pneumonia can\ncertainly not be\nexcluded radiographically. Various monitoring and support\ndevices remain in place. The left hemidiaphragm is not sharply\nseen on the current study. This could reflect some pleural\nfluid, atelectatic change, or even focal\nconsolidation at the left base.\n\nABD/PELVIS CT [**10-18**]:\n1. Significantly limited CT examination without intravenous\ncontrast with no source of infection identified. If there\nremains a high clinical concern for an occult infection, can\nconsider correlation with a dedicated tagged white cell scan.\n2. Ground glass and interstitial opacities within visualized\nlung bases in\nconjunction with small bilateral pleural effusions, small\npericardial\neffusion, and probable compression atelectasis. These all likely\nrelate to\nfluid overload/CHF with no discrete pneumonia noted.\n3. Diffuse anasarca.\n4. Unchanged pancreatic parenchymal calcifications again\nsuggestive of prior episodes of pancreatitis.\n\nBrief Hospital Course:\n62 yo female with DM, HTN, CAD, dementia, who presented with\nhypothermia, hypoxia, and hypotension.\n\n# Sepsis: The patient's clinical picture was consistent with\nsepsis, initially concerning for urosepsis based on her UA in\nthe ED. Early goal-directed therapy was initiated, with prompt\ntransfer to the ICU.  However, no bacteria grew from the urine,\nand nothing was grown from blood and sputum cultures. She was\ncovered broadly with vancomycin, zosyn, and levofloxacin and she\nimproved clinically.  She was ruled out for respiratory viruses.\n Podiatry was consulted and did not feel that her left foot was\ninfected, only colonized.  Bronchoscopy was also not revealing.\nCT abd & pelvis were also unremarkable for source. Given no\nclear source and clinical improvement she was given a 10-day\ncourse of empiric antibiotics with the last doses on [**10-25**]. She\nremained afebrile during the latter portion of her hospital\ncourse.\n\n# Hypotension/Hypertension: The patient was hypotensive on\nadmission requiring agressive fluid resuscitation (11L in the\nfirst 24 hours) and pressors.  She became hypertensive after the\nsecond or third day of her ICU stay and was gradually started\nback on some of her home medications, metoprolol and amlodipine.\n Hydralazine was started due to hypertension and wanting to hold\nenalapril and HCTZ given her acute renal failure.  As kidney\nfunction improved enalapril was started and gradually titrated\nupward, while Hydralazine was discontinued. Her\nanti-hypertensive regimen will need further adjustment as an\noutpatient.\n\n# Respiratory Failure: While in the ICU, she developed\nprogressive respiratory distress requiring endotracheal\nintubation, the etiology of which proved unclear. Serial CXRs\nappeared most consistent with ARDS, but lung compliance proved\ngood on the ventilator.  Fluid overload was also postulated. She\nwas diuresed with Lasix, and successfully extubated on [**2120-10-23**].\n Her length of stay fluid balance was still +4 L at the time of\ndischarge but she was autodiuresing well so no diuretics were\ninitiated.\n\n# Acute Renal Failure: Creatinine was elevated to 1.8 on\nadmission and peaked at 2.1 but returned to a baseline of 1.2.\nThe patient likely had ARF [**1-13**] hypoperfusion.\n\n# Question of DIC: Concering because of thrombocytopenia and\ncoagulopathy.  However, Heme was consulted and did not think her\npresentation was consistent with DIC.  She also ruled out for\nHIT.  Her platelet count was stable at the time of discharge.\n\n# Chronic diastolic heart failure: Pt. was found to have a\nnormal EF on ECHO (>55%) and severe diastolic dysfunction.  She\nwas restarted on an ACEi as described above, a beta blocker, and\naspirin.\n\n# History of seizure: Patient has a history of a recent seizure\nof unclear etiology.  It may be related to a past stroke,\nhowever.  She was managed with keppra.\n\n# DM: Patient was managed on an ISS while inpatient.  At the\ntime of discharge, her daughter reported episodes of\nhypoglycemia as an outpatient and requested a script for\nglucagon pens, which were given.\n\n# Foot ulcers/bullae: Podiatry evaluated the patient's foot\nulcers and made recommendations for wound care.  Her ulcers grew\npan-resistant bacteria (including VRE) but they felt that the\nulcers were not the cause of her septic presentation, and that\nthey were instead colonized.  She additionally improved\nclinically in the abscence of directed antimicrobial therapy\nagainst VRE. She was discharged with wound care recommendations\nfor at-home wound care.\n\n# CAD/hx of stroke: Patient was discharged on ASA and a beta\nblocker.\n\nMedications on Admission:\nPer D/C summary [**10-8**]:\nDischarge Medications:\n1. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n3. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n4. Levetiracetam 500mg PO bid\n5. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n6. Enalapril Maleate 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n7. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\n8. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO\nDAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n9. Augmentin 875-125 mg Tablet Sig: One (1) Tablet PO twice a\nday for 2 weeks.\nDisp:*28 Tablet(s)* Refills:*0*\n10. Silvadene 1 % Cream Sig: One (1)  Topical once a day: Apply\nto the blister once dry and stops draining.\nDisp:*1 * Refills:*2*\n13. Glargine 7 Units qAM\nInsulin SC Sliding Scale\n\n\nDischarge Medications:\n1. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr\nSig: 1.5 Tablet Sustained Release 24 hrs PO once a day.\nDisp:*45 Tablet Sustained Release 24 hr(s)* Refills:*2*\n2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n4. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\nDisp:*60 Tablet(s)* Refills:*2*\n5. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\nDisp:*60 Tablet(s)* Refills:*2*\n6. Albuterol 90 mcg/Actuation Aerosol Sig: Four (4) Puff\nInhalation Q6H (every 6 hours) as needed.\n7. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)\nas needed.\n8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n9. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed.\n10. Enalapril Maleate 5 mg Tablet Sig: Two (2) Tablet PO twice a\nday.\nDisp:*120 Tablet(s)* Refills:*2*\n11. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once\na day.\nDisp:*30 Tablet(s)* Refills:*2*\n12. Lantus 100 unit/mL Cartridge Sig: Seven (7) U Subcutaneous\nQAM.\n13. Insulin Lispro 100 unit/mL Solution Sig: AS DIRECTED\nSubcutaneous ASDIR (AS DIRECTED).\n14. Imodium A-D 2 mg Tablet Sig: One (1) Tablet PO four times a\nday as needed for DIARRHEA.\nDisp:*60 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital1 1474**] VNA\n\nDischarge Diagnosis:\n1. Sepsis\n2. Acute respiratory failure\n3. Acute renal failure, resolved\n4. Low-grade DIC\n\nSecondary diagnoses:\n1. Chronic diastolic heart failure, compensated\n2. Hypertension\n3. Diabetes mellitus type 2, controlled with complications\n4. Hypercholesterolemia\n\n\nDischarge Condition:\nGood\n\n\nDischarge Instructions:\nYou were admitted because you had a serious infection in your\nblood stream.  We treated you with antibiotics to help clear the\ninfection.  We also had to assist your breathing with a\nbreathing tube.  Your condition improved gradually and we\ndischarged you home with physical therapy services.\n\nPlease take all of your medications as prescribed. Please keep\nall of your follow-up appointments.\n\nPlease call your doctor or return to the hospital if you\nexperience fevers, chills, sweats, chest pain, shortness of\nbreath or anything else of concern.\n\n\nFollowup Instructions:\nPlease schedule an appointment with your primary care doctor\nwithin the next one to two weeks:\nPCP: [**Name10 (NameIs) 70557**],[**Name11 (NameIs) 177**] [**Name Initial (NameIs) **] [**0-0-**]\n\nWe scheduled you for an appointment with a nurse practicioner at\n[**Hospital1 18**] next week.  To keep this appointment, you will need to\ncall the office (the number is below).  If you would rather see\nDr. [**Last Name (STitle) **], please call his office to schedule an appointment\nthere.\n\nScheduled Appointments :\n[**Hospital1 18**]--Provider [**Name9 (PRE) 10160**] [**Name9 (PRE) 10161**], [**MD Number(3) 1240**]:[**Telephone/Fax (1) 250**]\nDate/Time:[**2120-11-4**] 2:00\n\nPlease schedule an appointment with the podiatry clinic within\nthe next week:\nPodiatry\n[**Hospital1 18**], [**Location 70558**]\nOffice Phone:  ([**Telephone/Fax (1) 4335**]\n\n\n                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 13546**]\n\nCompleted by:[**2120-10-29**]"
+    },
+    {
+      "note_id": 542229,
+      "category": "General",
+      "description": "ICU Event Note",
+      "annotations": [
+        {
+          "begin": 74,
+          "end": 85,
+          "code": "3E033XZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Introduction of Vasopressor into Peripheral Vein, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "vasopressor"
+        },
+        {
+          "begin": 248,
+          "end": 260,
+          "code": "R65.21",
+          "code_system": "ICD-10-CM",
+          "description": "Severe sepsis with septic shock",
+          "type": "Human",
+          "covered_text": "septic shock"
+        },
+        {
+          "begin": 281,
+          "end": 292,
+          "code": "E86.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypovolemia",
+          "type": "Human",
+          "covered_text": "hypovolemia"
+        }
+      ],
+      "text": "Clinician:  Attending\n   MICU overnight\n   Remains hypotensive, requiring vasopressor to maintain MAP > 60 mmHg.\n   CVP ~ 8 cmH2O, lactic acid rising, and urine output now improving over\n   past several hours.  Likely sepsis, now with evidence for septic shock\n   and component of hypovolemia.  Continue to provide iv expansion (iv\n   crystalloid, PRBC transfusion to >28), monitor urine output, lactic\n   acid.  Adjust ventilator settings to higher RR, aiming for pH >7.30.\n   Total time spent:  35 minutes\n   Patient is critically ill.\n"
+    },
+    {
+      "note_id": 542913,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 5807,
+          "end": 5830,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "urinary tract infection"
+        },
+        {
+          "begin": 6289,
+          "end": 6307,
+          "code": "J18.9",
+          "code_system": "ICD-10-CM",
+          "description": "Pneumonia, unspecified organism",
+          "type": "Human",
+          "covered_text": "Pneumonia-Possible"
+        },
+        {
+          "begin": 6854,
+          "end": 6870,
+          "code": "D69.6",
+          "code_system": "ICD-10-CM",
+          "description": "Thrombocytopenia, unspecified",
+          "type": "Human",
+          "covered_text": "Thrombocytopenia"
+        },
+        {
+          "begin": 7023,
+          "end": 7031,
+          "code": "R19.7",
+          "code_system": "ICD-10-CM",
+          "description": "Diarrhea, unspecified",
+          "type": "Human",
+          "covered_text": "DIARRHEA"
+        }
+      ],
+      "text": "Chief Complaint: Sepsis\n   Respiratory Failure\n   ARDS\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   24 Hour Events:\n UNPLANNED EXTUBATION (PATIENT-INITIATED) - At [**2120-10-20**] 02:20 PM\n INVASIVE VENTILATION - STOP [**2120-10-20**] 02:25 PM\n INVASIVE VENTILATION - START [**2120-10-20**] 05:56 PM\n EKG - At [**2120-10-20**] 08:04 PM\n STOOL CULTURE - At [**2120-10-21**] 06:00 AM\n   c-diff #3of3\n   History obtained from [**Hospital 31**] Medical records\n   Patient unable to provide history: Sedated\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Levofloxacin - [**2120-10-19**] 04:18 AM\n   Vancomycin - [**2120-10-19**] 08:07 AM\n   Piperacillin/Tazobactam (Zosyn) - [**2120-10-21**] 04:00 AM\n   Infusions:\n   Midazolam (Versed) - 0.5 mg/hour\n   Fentanyl - 12.5 mcg/hour\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2120-10-20**] 04:00 PM\n   Dextrose 50% - [**2120-10-20**] 11:00 PM\n   Other medications:\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Constitutional: No(t) Fever, HYpothermia\n   Respiratory: Tachypnea\n   Endocrine: Hypoglycemia\n   Flowsheet Data as of  [**2120-10-21**] 10:32 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.3\nC (99.1\n   Tcurrent: 36.9\nC (98.5\n   HR: 67 (55 - 84) bpm\n   BP: 157/51(82) {114/43(64) - 177/84(113)} mmHg\n   RR: 19 (12 - 20) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 46 kg (admission): 39.6 kg\n   Height: 60 Inch\n   CVP: 2 (2 - 13)mmHg\n   Total In:\n                                                                  1,808 mL\n                                                                  1,101 mL\n   PO:\n   TF:\n                                                                    415 mL\n                                                                    208 mL\n   IVF:\n                                                                    629 mL\n                                                                    233 mL\n   Blood products:\n   Total out:\n                                                                  2,910 mL\n                                                                    703 mL\n   Urine:\n                                                                  1,910 mL\n                                                                    248 mL\n   NG:\n                                                                     55 mL\n   Stool:\n                                                                  1,000 mL\n                                                                    400 mL\n   Drains:\n   Balance:\n                                                                 -1,102 mL\n                                                                    398 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 300 (300 - 410) mL\n   Vt (Spontaneous): 647 (491 - 647) mL\n   PS : 5 cmH2O\n   RR (Set): 22\n   RR (Spontaneous): 0\n   PEEP: 8 cmH2O\n   FiO2: 40%\n   RSBI: 34\n   PIP: 22 cmH2O\n   Plateau: 21 cmH2O\n   SpO2: 100%\n   ABG: 7.34/43/105/24/-2\n   Ve: 9.2 L/min\n   PaO2 / FiO2: 263\n   Physical Examination\n   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube\n   Cardiovascular: (S1: Normal), (S2: Distant)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Dullness : ),\n   (Breath Sounds: Diminished: )\n   Abdominal: Soft, Non-tender\n   Musculoskeletal: Unable to stand\n   Skin:  Not assessed\n   Neurologic: Responds to: Noxious stimuli, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   8.4 g/dL\n   64 K/uL\n   114 mg/dL\n   1.6 mg/dL\n   24 mEq/L\n   4.3 mEq/L\n   31 mg/dL\n   116 mEq/L\n   144 mEq/L\n   25.6 %\n   4.5 K/uL\n        [image002.jpg]\n                             [**2120-10-18**]  08:35 PM\n                             [**2120-10-19**]  03:31 AM\n                             [**2120-10-20**]  02:55 AM\n                             [**2120-10-20**]  03:15 AM\n                             [**2120-10-20**]  02:52 PM\n                             [**2120-10-20**]  07:25 PM\n                             [**2120-10-20**]  07:40 PM\n                             [**2120-10-20**]  09:57 PM\n                            [**2120-10-21**]  03:06 AM\n                            [**2120-10-21**]  03:18 AM\n   WBC\n   9.1\n   9.0\n   5.6\n   4.5\n   Hct\n   22.6\n   25.9\n   26.3\n   25.6\n   Plt\n   76\n   85\n   74\n   64\n   Cr\n   1.9\n   1.8\n   1.6\n   1.5\n   1.6\n   TropT\n   0.02\n   TCO2\n   26\n   28\n   27\n   24\n   24\n   Glucose\n   55\n   124\n   121\n   57\n   55\n   135\n   114\n   Other labs: PT / PTT / INR:13.5/37.9/1.2, CK / CKMB /\n   Troponin-T:11/5/0.02, ALT / AST:14/21, Alk Phos / T Bili:108/0.2,\n   Amylase / Lipase:38/7, Differential-Neuts:63.0 %, Band:26.0 %,\n   Lymph:29.2 %, Mono:4.8 %, Eos:2.5 %, Fibrinogen:627 mg/dL, Lactic\n   Acid:1.8 mmol/L, Albumin:1.8 g/dL, LDH:396 IU/L, Ca++:8.1 mg/dL,\n   Mg++:2.0 mg/dL, PO4:2.6 mg/dL\n   Imaging: CXR-[**2120-10-21**]\n   -Modest bilateral non-hypdrostatic pulmonary edema\n   -CVL/ETT/NGT all in good position\n   Microbiology: Wound Culture-VRE\n   C. Diff-negative\n   Assessment and Plan\n   62 yo female admitted with sepsis related to urinary tract infection\n   and now in ICU with persistent ventilatory failure with re-intubation\n   with hypoxemic respiratory failure.\n   1)Respiratory Failure\n   -Versed\n   -Continue with A/C support with lung protective stragegy\n   -Patient with non-hydrostatic edema contributing and will continue to\n   move to diuresis as possible.\n   -Move to negative fluid balance as tolerated but patient with some\n   intra-vascular depletion with CVP=2 and 1000cc negative yesterday\n   2)Pneumonia-Possible aspiration but pattern is not classic for\n   bacterial pneumonia\n   -Vanco/Zosyn/Levofloxacin\n   -Aspiration is a concern as possible source so will have to continue\n   with reasonable broad spectrum antibiotic support\n   -Encouraging decrease in WBC count\n   3)Foot Ulcer-\n   -Wound care to continue\n   -Will need podiatry eval for any worsening\n   -Antibiotic treatment to be driven by concern for systemic insult from\n   foot\n   Hypertension-\n   -Decrease beta-blockers with decrease in HR\n   -Will need to continue with anit-hypertensives\n   Thrombocytopenia-\n   -In part likely related to Sepsis and no evidence of DIC\n   -Heparin held and some improvement in PLT count prior to restart\n HYPERTENSION, BENIGN\n DIARRHEA\n RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])\n PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)\n RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)\n IMPAIRED SKIN INTEGRITY\n DELIRIUM / CONFUSION\n .H/O DIABETES MELLITUS (DM), TYPE I\n SEPSIS WITHOUT ORGAN DYSFUNCTION\n HYPOGLYCEMIA\n HYPOTHERMIA\n HYPOXEMIA\n URINARY TRACT INFECTION (UTI)\n   ICU Care\n   Nutrition:\n   Nutren Renal (Full) - [**2120-10-21**] 02:59 AM 20 mL/hour\n   Glycemic Control:\n   Lines:\n   Arterial Line - [**2120-10-15**] 04:00 AM\n   Multi Lumen - [**2120-10-15**] 08:14 AM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments: Daughter updated in full in regards to\n   current clinical course and future goals for treatment.\n   Code status: Full code\n   Disposition :ICU\n   Total time spent: 45 minutes\n   Patient is critically ill\n"
+    }
+  ]
+}

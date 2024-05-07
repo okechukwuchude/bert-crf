@@ -1,0 +1,103 @@
+{
+  "hadm_id": 140261,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1201430,
+      "category": "Radiology",
+      "description": "EMBO TRANSCRANIAL",
+      "annotations": [
+        {
+          "begin": 1754,
+          "end": 1793,
+          "code": "88.39",
+          "code_system": "ICD-9-PCS",
+          "description": "X-ray, other and unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Right common carotid artery arteriogram"
+        },
+        {
+          "begin": 1836,
+          "end": 1869,
+          "code": "88.39",
+          "code_system": "ICD-9-PCS",
+          "description": "X-ray, other and unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "left vertebral artery arteriogram"
+        },
+        {
+          "begin": 1871,
+          "end": 1912,
+          "code": "88.39",
+          "code_system": "ICD-9-PCS",
+          "description": "X-ray, other and unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "left internal carotid\n artery arteriogram"
+        }
+      ],
+      "text": "[**2161-8-20**] 12:59 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 39238**]\n Reason: 59 year old woman with SAH, please evaluate for aneurysm\n Admitting Diagnosis: SUBARACHNOID HEMORRHAGE\n  Contrast: OPTIRAY Amt: 214\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 284**] EMBO TRANSCRANIAL               [**Numeric Identifier 285**] SEL CATH 3RD ORDER [**Last Name (un) 286**]          *\n * -51 MULTI-PROCEDURE SAME DAY          [**Numeric Identifier 285**] SEL CATH 3RD ORDER [**Last Name (un) 286**]          *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 285**] SEL CATH 3RD ORDER [**Last Name (un) 286**]          *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 288**] CAROTID/CEREBRAL BILAT           *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 821**] CAROTID/CERVICAL BILAT           *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 289**] VERT/CAROTID A-GRAM              *\n * -59 DISTINCT PROCEDURAL SERVICE                                              *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  59 year old woman with SAH, please evaluate for aneurysm\n REASON FOR THIS EXAMINATION:\n  59 year old woman with SAH, please evaluate for aneurysm\n ______________________________________________________________________________\n                                 FINAL REPORT\n DATE OF SERVICE:  [**2161-8-20**].\n\n DIAGNOSIS:  Subarachnoid hemorrhage.\n\n INDICATION:  Assess for coiling.\n\n PROCEDURE:  Right common carotid artery arteriogram, left common carotid\n artery arteriogram, left vertebral artery arteriogram, left internal carotid\n artery arteriogram, right common femoral artery arteriogram and Angio-Seal\n closure of right common femoral artery puncture site.\n\n INTERVENTIONAL PROCEDURE PERFORMED:  Coil embolization of left distal A2\n anterior cerebral artery aneurysm.\n\n ATTENDING:[**Doctor Last Name 5877**]\n ASSISTANT:  [**First Name5 (NamePattern1) 823**] [**Last Name (NamePattern1) 27777**].\n\n DETAILS OF PROCEDURE:  The patient was brought to the angiography suite.\n Following this, both groins were prepped and draped in a sterile fashion.\n Access was gained to the right common femoral artery using a Seldinger\n technique and a 5 French vascular sheath was placed in the right common\n femoral artery.  We now catheterized the above-mentioned vessels and AP,\n lateral filming was done.  This revealed a 2 mm aneurysm at the distal\n anterior cerebral artery at the branch point of a frontopolar branch.  The\n aneurysm measured about 2.5 mm in size.\n\n Therefore we exchanged out the [**Doctor Last Name 586**] 2 catheter in the left internal carotid\n artery for a Neuron 6 French catheter.  The aneurysm itself was catheterized\n with an SL-10 microcatheter and Synchro wire.  The aneurysm was coiled with a\n single coil of 2.2 mm into 3 mm 360 UltraSoft Target coil.  Following this,\n there was very minimal filling at the base of the aneurysm.  The patient\n                                                             (Over)\n\n [**2161-8-20**] 12:59 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 39238**]\n Reason: 59 year old woman with SAH, please evaluate for aneurysm\n Admitting Diagnosis: SUBARACHNOID HEMORRHAGE\n  Contrast: OPTIRAY Amt: 214\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n tolerated the procedure well.  A right common femoral artery arteriogram was\n done and a 6 French Angio-Seal was used for closure of the right common\n femoral artery puncture site.\n\n FINDINGS:  Left common carotid artery arteriogram shows that the external\n carotid artery and its branches fill well.  The left carotid bifurcation is\n clean.  The left internal carotid artery fills well along the cervical,\n petrous, cavernous and supraclinoid portion.  Both anterior and middle\n cerebral arteries are seen well.  There is a 2.2 mm aneurysm at the distal\n left A2 just before the origin of the pericallosal and callosal marginal\n artery.  The aneurysm points to the right and superiorly.\n\n Right common carotid artery arteriogram shows filling of the right external\n carotid artery and its branches.  The right internal carotid artery fills well\n along the cervical, petrous, cavernous and supraclinoid portion.  Both\n anterior and middle cerebral arteries are seen well.  There is a significant\n posterior communicating artery with supply to the posterior cerebral arteries.\n No aneurysms are seen on this injection.\n\n Left vertebral artery arteriogram shows filling of the left vertebral artery\n with reflux into the right vertebral artery.  Both posterior cerebral arteries\n are seen well.  Both AICA and superior cerebellar artery are seen well.  The\n AICA on the left is an AICA-PICA configuration.  The right PICA is seen\n normally.\n\n Left internal carotid artery arteriogram status post coil embolization shows\n that the aneurysm is now obliterated.\n\n Right common femoral artery arteriogram shows widely patent right common\n femoral artery.\n\n IMPRESSION:  [**Known firstname 12138**] [**Known lastname 39239**] underwent cerebral angiography and coil embolization\n of a 2.2 mm distal anterior cerebral artery aneurysm.  There were no\n complications.\n\n\n"
+    },
+    {
+      "note_id": 40801,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 403,
+          "end": 406,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 919,
+          "end": 982,
+          "code": "V15.81",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of noncompliance with medical treatment, presenting hazards to health",
+          "type": "Human",
+          "covered_text": "patient stopped taking her HTN medication about a couple months"
+        },
+        {
+          "begin": 8109,
+          "end": 8112,
+          "code": "430",
+          "code_system": "ICD-9-CM",
+          "description": "Subarachnoid hemorrhage",
+          "type": "Human",
+          "covered_text": "SAH"
+        },
+        {
+          "begin": 8113,
+          "end": 8126,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "Human",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 8127,
+          "end": 8152,
+          "code": "348.2",
+          "code_system": "ICD-9-CM",
+          "description": "Benign intracranial hypertension",
+          "type": "MapType.EXACT",
+          "covered_text": "intracranial hypertension"
+        },
+        {
+          "begin": 8153,
+          "end": 8160,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "Pyrexia"
+        }
+      ],
+      "text": "Admission Date:  [**2161-8-20**]              Discharge Date:   [**2161-9-1**]\n\nDate of Birth:  [**2101-11-9**]             Sex:   F\n\nService: NEUROSURGERY\n\nAllergies:\nDilantin / Ancef\n\nAttending:[**First Name3 (LF) 78**]\nChief Complaint:\nSubarachnoid Hemorrhage\n\nMajor Surgical or Invasive Procedure:\nCoiling of left ACA aneurysm\nRight frontal EVD\n\nHistory of Present Illness:\n59 y/o F with history of HTN presents s/p syncopal episode at\nwork. Per co-workers, patient collapsed but was caught and\nplaced\non the floor, no trauma to head was witnessed. She was brought\nto\nOSH where head CT revealed diffuse SAH. Patient was alert and\noriented per OSH notes, but had multiple episodes of n/v. She\nwas\nintubated and sedated with fentanyl and versed and transferred\nto\n[**Hospital1 18**] for further neurosurgical intervention. Patient was placed\non propofol once at [**Hospital1 18**]. Per family at OSH, they state that\npatient stopped taking her HTN medication about a couple months\nago. Was seen to have HTN when arrived at [**Hospital1 18**] and placed on\nnicardipine gtt.\n\n\nPast Medical History:\nHTN\n\nSocial History:\nMarried\nSchool superintedant\n\nFamily History:\nUnknown\n\nPhysical Exam:\nHunt and [**Doctor Last Name 9381**]: 3         [**Doctor Last Name **]: 4    GCS  E: 3 V: 1T Motor:6\nGen: intubated and on propofol\nHEENT: atraumatic, normocephalic\nPupils: 2 minimally reactive bilaterally  EOMs: tracking\n\nNeuro:\nMental status: Awake and alert, cooperative with exam, normal\naffect.\nOrientation: Oriented to person, place, and date, nods\nappropriately off propofol\nEO to voice\nFollows simple commands\nMAE\n\nExam on Discharge:\nAOx3, [**Last Name (LF) 2994**], [**First Name3 (LF) 2995**] w/full motor strength\n\nPertinent Results:\n[**2161-8-20**] CTA Head:\n1. Diffuse subarachnoid hemorrhage involving the cerebral sulci,\nthe Sylvian fissures and the interhemispheric fissure.\nEffacement of the cerebral sulci from hemorrhage and some degree\nof cerebral edema. Increased density in the interhemispheric\nfissure as well as the parafalcine sulci due to denser\nhemorrhage in that area.\n2. Small saccular aneurysm arising from the distal portion of\nthe A2 segment of the anterior cerebral artery. Recommend\ninterventional neuroradiology consult and conventional angiogram\nfor appropriate management and detection of any other additional\naneurysms.\n3. Hemorrhage extending into the thecal sac; limited assessment\nof position of cerebellar tonsils.\n4. Thinning/dehiscence of the bone in the postero-lateral part\nof the petrous portions/carotid canal adjacent to the right\ninternal carotid artery without obvious extension of the artery\ninto middle ear.\n\n[**2161-8-20**] CT Head:\nIMPRESSION:\n1. Diffuse subarachnoid hemorrhage involving the cerebral sulci,\nthe sylvian fissures and interhemispheric fissure, unchanged in\ndistribution from prior study. No evidence of new hemorrhage or\ninfarction.\n2. Interval placement of a right frontal approach ventricular\ncatheter\nterminating in the frontal [**Doctor Last Name 534**] of the right lateral ventricle,\nwith no change in ventricular size. Small amount of\nintraventricular hemorrhage in the occipital horns and fourth\nventricle, unchanged from prior study.\n3. Coil pack in the interhemispheric fissure with associated\nartifact at that level.\n\n[**2161-8-21**] Femoral (right) Ultrasound:\nIMPRESSION: Normal appearance of right common femoral artery and\ncommon\nfemoral vein with no evidence of pseudoaneurysm.\n\n[**2161-8-23**] CTA Head:\nHEAD CTA: The intracranial internal carotid and vertebral\narteries, and their major branches, appear patent. There is no\nevidence of caliber change in the anterior or posterior\ncirculation to suggest vasospasm. Evaluation for residual\nfilling of the previously coiled distal left anterior cerebral\nartery aneurysm is limited by streak artifact. No additional\naneurysms are identified.\n\nIMPRESSION:\n1. Decreased subarachnoid hemorrhage.\n2. Redistribution of intraventricular hemorrhage without\nevidence of new\nhemorrhage. Stable ventricular size without hydrocephalus.\n3. No evidence of vasospasm.\n\nCTA Head [**2161-8-27**]:\nIMPRESSION:\n1. Decrease in extent and density of subarachnoid hemorrhage.\n2. No new hemorrhage. Stable ventricular size without\nhydrocephalus.\n3. The A1 and A2 segments of the left anterior cerebral artery\nare minimally decreased in caliber compared to study on [**8-20**], [**2161**]. This may indicate minimal but nonocclusive vasospasm,\nbut may be related to procedure.\n\nLower Extremity Doppler US [**2161-8-28**]:\n***\n\nChest Xray [**8-29**]: A right subclavian central line is present, tip\nat SVC/RA junction. No pneumothorax is detected.\nThe heart is not enlarged. The aorta is minimally unfolded. No\nCHF, focal\ninfiltrate, or effusion is identified.\n\nCTA Head [**2161-8-29**]: IMPRESSION:\n1. Head CT shows removal of the right frontal ventricular drain\nwithout\nevidence of hydrocephalus. Blood is seen in the ventricles. No\nnew\nhemorrhage.\n2. CT angiography of the head demonstrates improvement in the\ncaliber of the anterior cerebral arteries without evidence of\nvasospasm. No vascular\nocclusion is seen.\n\n\nBrief Hospital Course:\nMs. [**Known lastname 8529**] was admitted to the Neurosurgery service and taken to\nthe angio suite emergently for an angiogram and coiling.\n\nAn External ventricular drain was placed in the INR suite\nshowing ICP in the 20s. A Left ACA artery aneurysm was\nsuccessfully coiled. She was transported to the ICU intubated.\n\nPatient was extubated on post coiling day #1 and maintained a\nstable and non focal neurological exam. She was febrile to 102\non [**8-22**] and a work up was initiated. She had a CTA on [**8-23**] that\nshowed no evidence of vasospasm.\n\nOn [**8-24**] she was febrile and CSF was sent. The gram stain was\nnegative and later final cultures showed no growth. Her exam\nremained stable and her EVD was raised to 15 without issue. On\n[**8-25**] her exam and ICPs remained stable and her EVD was raised to\n20. TCDs were obtained which showed no evidence of vasospasm.\nOn [**8-26**], her EVD was clamped during the day.  Pt had mild\nelevations while awake to around 23-25 mmHg. As a result it was\nreopened. CTA on [**8-27**] revealed spasm in the A2, we elevated her\nblood pressure to 160-180 and started IVF.\n\nOn [**8-28**] LENIs were performed which revealed no evidence of a\nDVT. A routine CT performed revealed stable ventricular size,\nbut we opted to keep the ventricular drain in place given\nintermitant elevations in her ICP. Over the next 24 hours the\npatient remained neurologically stable without sustained\nelevation in ICPS and so her EVD was removed on [**8-29**].  CTA was\nperformed after Drain removal which demonstrated improvement in\nvasospasm, no hemorrhage with stable ventricular size. On [**8-30**],\npatient remained stable after EVD removal and she was closely\nmonitored over the day for any changes in neuro exam. On [**8-31**],\npatient was transferred to the floor. Her blood pressure was\nliberalized to 90-160. She remained stable. On [**9-1**]  she\nambulated with PT and was cleared to go home.\n\nOn [**9-1**] she was discharged home.\n\n\nMedications on Admission:\nUnknown\n\nDischarge Medications:\n1. senna 8.8 mg/5 mL Syrup Sig: 1-2 Tablets PO BID (2 times a\nday) as needed for constipation.\n2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*60 Capsule(s)* Refills:*2*\n3. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for\nconstipation.\n4. famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n5. butalbital-acetaminophen-caff 50-325-40 mg Tablet Sig: [**1-18**]\nTablets PO Q6H (every 6 hours) as needed for headache.\nDisp:*60 Tablet(s)* Refills:*0*\n6. pravastatin 20 mg Tablet Sig: Two (2) Tablet PO HS (at\nbedtime).\n7. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every\n6 hours) as needed for fever,pain.\n8. nimodipine 30 mg Capsule Sig: Two (2) Capsule PO Q4H (every 4\nhours): Full 21 day course- rx called to CVS .\nDisp:*16 Capsule(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nSAH\nhydrocephalus\nintracranial hypertension\nPyrexia\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nGeneral Instructions\n??????\tTake your pain medicine as prescribed.\n??????\tExercise should be limited to walking; no lifting, straining,\nor excessive bending.\n??????\tIncrease your intake of fluids and fiber, as narcotic pain\nmedicine can cause constipation. We generally recommend taking\nan over the counter stool softener, such as Docusate (Colace)\nwhile taking narcotic pain medication.\n\n**** Continue Nimodipine as prescribed, if there is an high\nco-pay please call our office prior to purchasing. ****\n\nCALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE\nFOLLOWING\n\n??????\tNew onset of tremors or seizures.\n??????\tAny confusion, lethargy or change in mental status.\n??????\tAny numbness, tingling, weakness in your extremities.\n??????\tPain or headache that is continually increasing, or not\nrelieved by pain medication.\n??????\tNew onset of the loss of function, or decrease of function on\none whole side of your body.\n\nFollow-Up Appointment Instructions\n\n??????\tPlease call ([**Telephone/Fax (1) 88**] to schedule an appointment with Dr.\n_________, to be seen in _______weeks.\n??????\tYou will need a CT scan of the brain without contrast prior to\nyour appointment. This can be scheduled when you call to make\nyour office visit appointment.\n\n\nFollowup Instructions:\nFollow-Up Appointment Instructions\n\n??????Please call ([**Telephone/Fax (1) 2102**] to schedule an appointment with Dr.\n[**First Name (STitle) **], to be seen in 4 weeks.\n??????You will need a MRI/MRA w/ and w/o contrast ([**Doctor Last Name **] protocol)\n\n* Staple removal 10 days from EVD removal on [**8-29**] - please call\nour office to make this appointment. *****\n\n\n\nCompleted by:[**2161-9-1**]"
+    }
+  ]
+}

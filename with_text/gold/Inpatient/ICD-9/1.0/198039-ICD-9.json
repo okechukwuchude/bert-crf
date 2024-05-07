@@ -1,0 +1,121 @@
+{
+  "hadm_id": 198039,
+  "comment": "ERCP WITH Stent Placement- Need OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 40520,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 618,
+          "end": 621,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 623,
+          "end": 626,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 1470,
+          "end": 1479,
+          "code": "572.0",
+          "code_system": "ICD-9-CM",
+          "description": "Abscess of liver",
+          "type": "Human",
+          "covered_text": "abscesses"
+        },
+        {
+          "begin": 2452,
+          "end": 2455,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 2624,
+          "end": 2653,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "years, quit several years ago"
+        },
+        {
+          "begin": 5666,
+          "end": 5677,
+          "code": "038.49",
+          "code_system": "ICD-9-CM",
+          "description": "Other septicemia due to gram-negative organisms",
+          "type": "Human",
+          "covered_text": "SIRS/sepsis"
+        },
+        {
+          "begin": 5759,
+          "end": 5772,
+          "code": "572.0",
+          "code_system": "ICD-9-CM",
+          "description": "Abscess of liver",
+          "type": "Human",
+          "covered_text": "liver abscess"
+        },
+        {
+          "begin": 6961,
+          "end": 6982,
+          "code": "428.31",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, acute",
+          "type": "Human",
+          "covered_text": "CHF, acute diastolic,"
+        },
+        {
+          "begin": 7063,
+          "end": 7082,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute renal failure"
+        },
+        {
+          "begin": 8615,
+          "end": 8628,
+          "code": "574.31",
+          "code_system": "ICD-9-CM",
+          "description": "Calculus of bile duct with acute cholecystitis, with obstruction",
+          "type": "Human",
+          "covered_text": "cholecystitis"
+        }
+      ],
+      "text": "Admission Date:  [**2171-6-4**]              Discharge Date:   [**2171-6-18**]\n\nDate of Birth:  [**2091-8-28**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 896**]\nChief Complaint:\nAbdomnal pain\n\nMajor Surgical or Invasive Procedure:\nERCP with placement of a plastic stent ([**2171-6-4**])\nPICC line placement ([**2171-6-6**])\nPercutaenous cholecystostomy drain ([**2171-6-7**])\nDrainage of liver abscess by interventional radiology ([**2171-6-13**])\n\n\nHistory of Present Illness:\nMr. [**Known lastname **] is a 79yoM with a history of HTN, HLD, and previous\nbladder neoplasm who developed acute RUQ pain two days ago. It\noccurred suddenly, has been constant, dull, and nonradiating in\nnature. He has been anorexic but denies nausea or vomiting. He\nnotes subjective fevers. He had confusion per his wife. His\nurine has been cola-colored, but denies changes in his stool.\nHas not noticed yellowing of skin. No previous history of\nbiliary or hepatic disease. Denies previous gall stones. He saw\nhis PCP, [**Name10 (NameIs) 1023**] referred him to the [**First Name4 (NamePattern1) 5871**] [**Last Name (NamePattern1) **]. There he was\nfebrile to 103.8F with systolic blood pressures in the upper 80s\nwhich responded well to fluid resuscitations. He had a RUQ US\nshowing acute cholecystitis with a CBD diameter of 5mm. A CT\nshowed pneumobilia with scattered hepatic densities concerning\nfor abscesses.\n\nHe was transferred to [**Hospital1 18**], initial VS were T99.4 BP83/42 HR80\nRR18 Sat97RA. His lactate was elevated to 4.4, he received 2L\nNC. His initial labs showed transaminitis of AST/ALT 198/167,\nTbili 4.9 Dbili 4.0, AP 34, Lipase 86. Surgery was consulted for\nsuspicion of cholangitis. He received zosyn, and was admitted to\n[**Hospital Unit Name 153**] briefly before undergoing ERCP, which revealed only sludge\nin the gallbladder without note of stone. A stent was placed,\nand he received tetracycline/clindamycin for suspected\nclaustridium given his pneumobilia. He was transferred back to\nthe [**Hospital Unit Name 153**] in stable condition.\n\nOn arrival back to the [**Hospital Unit Name 153**], his initial VS were T95.6 P82\nBP118/39 RR14 Sat94%RA. He has mild RUQ pain but he is\ncomfortable and has no acute complain. On ROS, denies chest\npain, shortness of breath, N/V/D, no palps, myalgias,\narthralgieas, dysuria, hematuria.\n\nPast Medical History:\nPMH:\n- HTN\n- hyperlipidemia\n- ? bladder neoplasm\n\nPSH:\n- TURP\n- ? resection of tumor from the bladder\n\n\nSocial History:\nLives with wife, retired, smoked a pack a day for about 40\nyears, quit several years ago\n\n\nFamily History:\nNo family history of biliary or hepatic disease, gallstones,\npancreatitis\n\nPhysical Exam:\non admission:\ngen: NAD, pleasant, jaundiced sclera, flushed in the face,\nuncomfortable in pain\nVS: 99.4 80 83/42 16 97% Nasal Cannula\nCV: RRR\npulm: CTA b/l\nabdomen: mildly softly distended, + BS, tender in the RUQ\ntolight palpation, also tender in RLQ to deeper palpation\nextremities: no LE edema, no cyanosis\n\n\nPertinent Results:\nERCP ([**2171-6-4**])\nThe common bile duct, common hepatic duct, right and left\nhepatic ducts, biliary radicles and cystic duct were filled with\ncontrast and well visualized. The course and caliber of the\nstructures are normal with no evidence of extrinsic compression.\nThere was a filling defect in the middle third of the common\nbile duct. This could represent stone fragment or debris. The\nintrahepatics appeared normal, but the cholangiogram was limited\ndue to a small amount of contrast injection due to the patient's\nsepsis from cholangitis. Successful placement of a plastic\nbiliary stent for decompression. Otherwise normal ercp to third\npart of the duodenum\n\nCT ABDOMEN ([**2171-6-4**])\n1. Air within a mildly distended gallbladder with associated\npericholecystic stranding is compatible with acute\ncholecystitis, with likely involvement of a gas-forming\norganism.\n2. Pneumobilia and ill-defined hypodensities in the left lobe of\nthe liver are concerning for infection with developing hepatic\nabscesses, likely secondary to ascending cholangitis.\n3. Calcifications in the region of the distal common bile duct\ncould be within the lumen of the duct, although could also be\nwithin the pancreatic head. Further evaluation could be\nperformed with MRCP, if clinically indicated.\n4. Right adrenal nodule, not fully characterized.\n5. Well-defined hypodense liver lesions are likely simple cysts,\nas described above.\n\nDISCHARGE LABS ([**2171-6-17**])\nWBC-7.0 RBC-3.55* Hgb-11.1* Hct-33.4* MCV-94 MCH-31.2 MCHC-33.2\nRDW-13.4 Plt Ct-362\nGlucose-107* UreaN-8 Creat-1.0 Na-141 K-3.7 Cl-104 HCO3-26\nAnGap-15\nBLOOD ALT-63* AST-51* LD(LDH)-248 AlkPhos-52 TotBili-0.6\n\nBLOOD CULTURE ([**2171-6-4**]): pansensitive\n\nBLOOD CULTURE ([**2171-6-10**])\n    GRAM POSITIVE ROD(S).\n      CONSISTENT WITH CLOSTRIDIUM OR\n\n      BACILLUS SPECIES.\n\nBILE CULTURE ([**2171-6-7**])\n     KLEBSIELLA PNEUMONIAE\n                             |          KLEBSIELLA OXYTOCA\n                             |          |\nAMPICILLIN/SULBACTAM--   <=2 S        8 S\nCEFAZOLIN-------------   <=4 S       16 I\nCEFEPIME--------------   <=1 S      <=1 S\nCEFTAZIDIME-----------   <=1 S      <=1 S\nCEFTRIAXONE-----------   <=1 S      <=1 S\nCIPROFLOXACIN---------<=0.25 S   <=0.25 S\nGENTAMICIN------------   <=1 S      <=1 S\nMEROPENEM-------------<=0.25 S   <=0.25 S\nPIPERACILLIN/TAZO-----       S          S\nTOBRAMYCIN------------   <=1 S      <=1 S\nTRIMETHOPRIM/SULFA----   <=1 S      <=1 S\n\n   ANAEROBIC CULTURE (Final [**2171-6-11**]):\n      CLOSTRIDIUM PERFRINGENS.    SPARSE GROWTH.\n\n\nBrief Hospital Course:\n1. SIRS/sepsis with:\n     - cholangitis\n     - septicemia (GNR and anaerobic bacteremia)\n     - liver abscess\n\nInitially presented to an OSH with signs and symptoms suggestive\nof cholangitis (RUQ pain, fever and hypotension; labs and\nultrasound indicative of biliary obstruction). He was taken for\nERCP on [**6-4**] which revealed gallbaldder sludge and a filling\ndefect in the middle third of CBD without stone presence or\nextrinsic compression; a stent was placed.\n\nSurgery recommended PTC drain to decompress the gallbladder\nwhich was done on [**6-7**]. Blood cultures returned with klebsiella\nand clostridium species. After initially treating broadly,\nantibiotics were narrowed. Unfortunately, the patient worsened\nwith RUQ ultrasound and MRCP showed worsening perihepatic\nabscesses; repeat blood culture returned positive for bacillus.\nAfter drainage of the largest liver abscess by interventional\nradiology and use of vancomycin (for empiric enterococcus),\npip-tazo, and fluconazole (for empiric fungal coverage) he once\nagain improved.\n\nAt the time of discharge, plan included;\n     - antibiotics (vancomycin and ertepenem) until\ncholecystectomy\n     - cholecystectomy in [**4-3**] weeks\n     - once cholecystectomy performed, both the gallbladder\ndrain and plastic stent can be removed\n\n2. CHF, acute diastolic, resolved. After volume repletion was\ngrossly overloaded requiring diuresis.\n\n3. Acute renal failure. Improved with supportive care.\n\nMedications on Admission:\n- HCTZ 25 mg PO qd\n- cetirizine 10 mg PO qd\n- citalopram 20 mg PO qd\n\n\nDischarge Medications:\n1. citalopram 40 mg Tablet Sig: One (1) Tablet PO once a day.\n2. hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once\na day.\n3. cetirizine 10 mg Tablet Sig: One (1) Tablet PO once a day.\n4. ertapenem 1 gram Recon Soln Sig: One (1) gram Injection once\na day for 4 weeks.\nDisp:*qs mg* Refills:*0*\n5. vancomycin 500 mg Recon Soln Sig: 1250 (1250) mg Intravenous\nQ 12H (Every 12 Hours) for 4 weeks.\nDisp:*[**Numeric Identifier **] mg* Refills:*0*\n6. Outpatient Lab Work\n[**2171-6-24**] - result to Dr. [**Last Name (STitle) 9461**] (fax [**Telephone/Fax (1) 17715**])\nVancomycin trough\nLFTs\nCBC with diff\nChem 7\n7. Outpatient Lab Work\n[**2171-7-2**] - result to Dr. [**Last Name (STitle) 9461**] (fax [**Telephone/Fax (1) 17715**])\nVancomycin trough\nLFTs\nCBC with diff\nChem 7\n8. Outpatient Lab Work\n[**2171-7-8**] - result to Dr. [**Last Name (STitle) 9461**] (fax [**Telephone/Fax (1) 17715**])\nVancomycin trough\nLFTs\nCBC with diff\nChem 7\n9. Outpatient Lab Work\n[**2171-7-15**] - result to Dr. [**Last Name (STitle) 9461**] (fax [**Telephone/Fax (1) 17715**])\nVancomycin trough\nLFTs\nCBC with diff\nChem 7\n10. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every eight (8)\nhours as needed for pain.\nDisp:*20 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nVNA of Greater [**Location (un) 5871**]/[**Location (un) 6159**]\n\nDischarge Diagnosis:\nacute cholecystitis, choledocholithiasis\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\nDischarge Instructions:\nYou were admitted with fevers, confusion and cholangitis.\n\nAn ERCP on [**6-4**] revealed gallbaldder sludge and a filling defect\nin the middle third of CBD without stone. To help reduce the\npressure in the gallbladder, a stent was placed followed by a\ndrain. You also required drainage of a liver abscess by\ninterventional radiology.\n\nAs a result of these multiple infections, you will require:\n1. Treatment with antibiotics (ertapenem and vancomycin) with\ncoordination and duration directed by the infectious diseases\nteam\n2. Removal of your gallbladder (cholecystectomy). Dr. [**Last Name (STitle) 853**] will\ncoordinate timing of this with you.\n\nOnce the gallbladder has been removed, the current gallbladder\ndrain and stent can be removed.\n\nFollowup Instructions:\nDepartment: GENERAL SURGERY/[**Hospital Unit Name 2193**]\nWhen: TUESDAY [**2171-6-25**] at 4:15 PM\nWith: ACUTE CARE CLINIC [**Telephone/Fax (1) 2359**]\nBuilding: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **]\nCampus: WEST Best Parking: [**Hospital Ward Name **] Garage\n\nDepartment: INFECTIOUS DISEASE\nWhen: THURSDAY [**2171-6-27**] at 3:10 PM\nWith: [**Doctor First Name 1412**] [**Name Initial (MD) **] [**Name8 (MD) 1413**], M.D. [**Telephone/Fax (1) 457**]\nBuilding: LM [**Hospital Unit Name **] [**Hospital 1422**]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\nDepartment: ENDO SUITES\nWhen: TUESDAY [**2171-7-2**] at 12:00 PM\n\nDepartment: DIGESTIVE DISEASE CENTER\nWhen: TUESDAY [**2171-7-2**] at 12:00 PM\nWith: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 2839**], MD [**Telephone/Fax (1) 463**]\nBuilding: [**First Name8 (NamePattern2) **] [**Hospital Ward Name 1950**] Building ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) 1951**]\nCampus: EAST     Best Parking: Main Garage\n\n\n"
+    },
+    {
+      "note_id": 1193219,
+      "category": "Radiology",
+      "description": "GB DRAINAGE,INTRO PERC TRANHEP BIL US",
+      "annotations": [
+        {
+          "begin": 1422,
+          "end": 1439,
+          "code": "51.01",
+          "code_system": "ICD-9-PCS",
+          "description": "Percutaneous aspiration of gallbladder",
+          "type": "MapType.APPROX",
+          "covered_text": "ULTRASOUND-GUIDED"
+        }
+      ],
+      "text": "[**2171-6-7**] 2:02 PM\n GB DRAINAGE,INTRO PERC TRANHEP BIL US;                          Clip # [**Clip Number (Radiology) 42360**]\n Reason: please place perc chole\n Admitting Diagnosis: CHOLANGITIS\n ********************************* CPT Codes ********************************\n * GB DRAINAGE,INTRO PERC TRANHEP BIL U                                         *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  79 year old man here with cholangitis, sepsis, s/p ERCP and stent\n REASON FOR THIS EXAMINATION:\n  please place perc chole\n ______________________________________________________________________________\n PROVISIONAL FINDINGS IMPRESSION (PFI): JKPe FRI [**2171-6-7**] 4:47 PM\n  PFI:\n\n  Uncomplicated 8 French percutaneous cholecystostomy tube.  Small sample was\n  sent for Gram stain and culture.\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  Cholangitis, sepsis and acute cholecystitis status post ERCP, CBD\n stent with probable stone.  The patient was deemed to be not a surgical\n candidate currently and request for percutaneous cholecystostomy was made for\n treatment of acute cholecystitis.\n\n COMPARISON:  Outside ultrasound [**2171-6-4**] and outside CT [**2171-6-4**].\n\n ULTRASOUND-GUIDED PERCUTANEOUS CHOLECYSTOSTOMY:\n\n Limited preprocedural ultrasound demonstrated persistently mildly distended\n gallbladder at approximately 4 cm with some small echogenic stones within the\n lumen and unchanged wall thickening and mild edema.  These findings are again\n most consistent with underlying acute cholecystitis in concordance with the\n prior imaging.\n\n Informed consent was obtained from the patient after explaining the risks and\n benefits of the procedure.  A preprocedure timeout was performed documenting\n the nature of procedure and the patient identity using two independent\n verifiers.  Appropriate spot for catheter placement was chosen using a lower\n right intercostal space and the overlying skin was prepped and draped in\n normal sterile fashion.  Subsequently, under continuous ultrasound guidance,\n approximately 10 mL of sodium bicarbonate buffered 1% lidocaine was instilled\n for local anesthesia, extending down towards the liver capsule.  Using trocar\n technique, an 8 French [**Last Name (un) 1372**] catheter was then advanced into the gallbladder\n lumen under continuous son[**Name (NI) 211**] observation with tip placement confirmed to\n be within the lumen under ultrasound.  The catheter was deployed after return\n of bilious material.  The pigtail was formed and the catheter was secured\n using a StatLock device and a total of 100 mL of slightly hemorrhagic bile\n with mild purulence was aspirated.  A small sample was sent for Gram stain and\n culture.  A sterile dressing was applied.  The patient tolerated the procedure\n well with no immediate post-procedural complications.  The procedure was\n performed by Dr. [**Last Name (STitle) 1455**] and Dr. [**Last Name (STitle) 1722**], the attending radiologist, who was\n participating throughout.\n                                                             (Over)\n\n [**2171-6-7**] 2:02 PM\n GB DRAINAGE,INTRO PERC TRANHEP BIL US;                          Clip # [**Clip Number (Radiology) 42360**]\n Reason: please place perc chole\n Admitting Diagnosis: CHOLANGITIS\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n Moderate sedation was provided by administering divided doses of 50 mcg of\n fentanyl and 1 mg of Versed throughout the total intraservice time of 20\n minutes during which time the patient's hemodynamic parameters were\n continuously monitored.\n\n IMPRESSION:\n\n Uncomplicated 8 French percutaneous cholecystostomy tube.  Small sample was\n sent for Gram stain and culture.\n\n\n"
+    }
+  ]
+}

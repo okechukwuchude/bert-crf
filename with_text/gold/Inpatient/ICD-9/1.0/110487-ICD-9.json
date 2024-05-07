@@ -1,0 +1,289 @@
+{
+  "hadm_id": 110487,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 731685,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 4863,
+          "end": 4877,
+          "code": "562.11",
+          "code_system": "ICD-9-CM",
+          "description": "Diverticulitis of colon without mention of hemorrhage",
+          "type": "MapType.APPROX",
+          "covered_text": "Diverticulitis"
+        }
+      ],
+      "text": "Chief Complaint:\n   24 Hour Events:\n TRANSTHORACIC ECHO - At [**2182-4-10**] 02:22 PM\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Dextrose 50% - [**2182-4-10**] 06:12 PM\n   Pantoprazole (Protonix) - [**2182-4-10**] 08:00 PM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2182-4-11**] 07:07 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since [**84**] AM\n   Tmax: 36.4\nC (97.5\n   Tcurrent: 35.3\nC (95.6\n   HR: 84 (75 - 97) bpm\n   BP: 120/50(69) {80/45(58) - 124/84(94)} mmHg\n   RR: 16 (16 - 29) insp/min\n   SpO2: 91%\n   Heart rhythm: SR (Sinus Rhythm)\n           Total In:\n                                                                  1,461 mL\n                                                                    403 mL\n   PO:\n           TF:\n   IVF:\n                                                                    146 mL\n                                                                    193 mL\n   Blood products:\n                                                                    865 mL\n                                                                    210 mL\n   Total out:\n                                                                  3,175 mL\n                                                                  1,100 mL\n   Urine:\n                                                                  2,925 mL\n                                                                  1,100 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                 -1,714 mL\n                                                                   -698 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SpO2: 91%\n   ABG: ///23/\n   Physical Examination\n   HEENT:  MMM\n   CARDIAC:  RRR, [**2-23**] mid peaking crescendo decrescendo murmur at the USB\n   with radiation to the precordium and the carotids, good carotid\n   pulsations.\n   LUNG:  CTAB\n   ABDOMEN:  soft, NT, ND, no masses or organomegaly\n   EXT:  WWP, no c/c/e\n   NEURO:  AOx3, grossly normal\n   Labs / Radiology\n   173 K/uL\n   10.3 g/dL\n   75 mg/dL\n   2.0 mg/dL\n   23 mEq/L\n   5.2 mEq/L\n   116 mg/dL\n   112 mEq/L\n   144 mEq/L\n   29.6 %\n   6.1 K/uL\n        [image002.jpg]\n                             [**2182-4-10**]  04:32 AM\n                             [**2182-4-10**]  12:40 PM\n                             [**2182-4-10**]  03:39 PM\n                             [**2182-4-10**]  06:07 PM\n                             [**2182-4-11**]  03:51 AM\n   WBC\n   6.1\n   Hct\n   22.4\n   24.8\n   25.8\n   29.6\n   Plt\n   173\n   Cr\n   2.7\n   2.3\n   2.0\n   Glucose\n   55\n   75\n   Other labs: PT / PTT / INR:12.9/29.3/1.1, ALT / AST:79/36, Alk Phos / T\n   Bili:57/0.6, Albumin:3.4 g/dL, LDH:177 IU/L, Ca++:8.3 mg/dL, Mg++:2.4\n   mg/dL, PO4:4.0 mg/dL\n   Assessment and Plan\n   The patient is an 89 yoM w/ CAD, systolic CHF EF 25-30%, moderate AS,\n   on aspirin and plavix presents with severe anemia and melena.\n   .\n   # GI bleed: melena c/w upper GI bleed.  Likely source is gastritis /\n   PUD. No e/o active bleeding since admission.\n   -plan for EGD tomorrow [**4-12**] with anesthesia on the [**Hospital Ward Name **]\n   -hct stable, continue to hold ASA / plavix, cardiology has been\n   consulted regarding this as well as risk assessment (intermediate risk\n   for a low risk procedure)\n   -clear liquids and NPO after MN\n   -Q8hr hct\n   -[**Hospital1 **] PPI\n    # Acute renal failure: baseline Cr around 2.0,  currently at baseline\n   # Hyperkalemia: mild hyperkalemia, continue to monitor\n   # CAD:\n   -hold ACEi and beta blocker given possible hemodynamic instability\n   -holding ASA/plavix\n   -transfuse for Hct<30\n   # chronic systolic heart failure:  EF of 25-30% most recently, ischemic\n   etiology.  ECHO from [**4-10**] similar to last ECHO [**2-27**].\n   -hold home furosemide\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2182-4-10**] 03:50 AM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication: ICU consent signed Comments:\n   Code status: Full code\n   Disposition:\n   ------ Protected Section ------\n   I have seen and examined the patient with the resident and agree\n   substantially with the assessment and plan with the following\n   modifications/emphasis:\n   Overnight, hematocrit remained stable and no new problems\n   T 36.4  P 84   BP: 120/50  RR 16  SpO2: 95%\n   Gen: Awake, alert NAD\n   Chest: CTA bilaterally\n   Heart: S1 S2 reg\n   Abd: Soft NT ND\n   Ext: No edema\n   Labs reviewed\n   Assessment:\n   1)       GI Bleed\n   2)       Diverticulitis\n   3)       Acute renal failure\n   4)       CAD\n   5)       CHF\n 25%, Aortic Stenosis\n   Plan:\n   1)       Continue serial hcts\n   2)       Endoscopy tomorrow\n   3)       Holding asa/plavix\n   4)       Transfer to floor\n   Time Spent: 25 minutes\n   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) **], MD\n   on:[**2182-4-11**] 16:39 ------\n"
+    },
+    {
+      "note_id": 50116,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 223,
+          "end": 229,
+          "code": "578.1",
+          "code_system": "ICD-9-CM",
+          "description": "Blood in stool",
+          "type": "MapType.EXACT",
+          "covered_text": "Melena"
+        },
+        {
+          "begin": 342,
+          "end": 353,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "moderate AS"
+        },
+        {
+          "begin": 417,
+          "end": 423,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "anemia"
+        },
+        {
+          "begin": 1050,
+          "end": 1058,
+          "code": "250.40",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "Diabetes"
+        },
+        {
+          "begin": 1059,
+          "end": 1071,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 1072,
+          "end": 1075,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 1076,
+          "end": 1083,
+          "code": "V45.82",
+          "code_system": "ICD-9-CM",
+          "description": "Percutaneous transluminal coronary angioplasty, postsurgical status",
+          "type": "Human",
+          "covered_text": "s/p PCA"
+        },
+        {
+          "begin": 1133,
+          "end": 1136,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CKD"
+        },
+        {
+          "begin": 4867,
+          "end": 4873,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "anemia"
+        },
+        {
+          "begin": 4878,
+          "end": 4884,
+          "code": "578.1",
+          "code_system": "ICD-9-CM",
+          "description": "Blood in stool",
+          "type": "MapType.EXACT",
+          "covered_text": "melena"
+        },
+        {
+          "begin": 5508,
+          "end": 5514,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "MapType.APPROX",
+          "covered_text": "pRBC's"
+        },
+        {
+          "begin": 5681,
+          "end": 5711,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute on chronic renal failure"
+        },
+        {
+          "begin": 6260,
+          "end": 6290,
+          "code": "428.22",
+          "code_system": "ICD-9-CM",
+          "description": "Systolic heart failure, chronic",
+          "type": "Human",
+          "covered_text": "Chronic systolic heart failure"
+        },
+        {
+          "begin": 6675,
+          "end": 6683,
+          "code": "293.0",
+          "code_system": "ICD-9-CM",
+          "description": "Delirium due to conditions classified elsewhere",
+          "type": "Human",
+          "covered_text": "Delirium"
+        },
+        {
+          "begin": 6833,
+          "end": 6837,
+          "code": "274.9",
+          "code_system": "ICD-9-CM",
+          "description": "Gout, unspecified",
+          "type": "Human",
+          "covered_text": "Gout"
+        },
+        {
+          "begin": 6984,
+          "end": 6998,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 7021,
+          "end": 7034,
+          "code": "276.0",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperosmolality and/or hypernatremia",
+          "type": "Human",
+          "covered_text": "Hypernatremia"
+        },
+        {
+          "begin": 7498,
+          "end": 7518,
+          "code": "V58.66",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of aspirin",
+          "type": "Human",
+          "covered_text": "Aspirin 81 mg Tablet"
+        },
+        {
+          "begin": 8734,
+          "end": 8757,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        }
+      ],
+      "text": "Admission Date:  [**2182-4-10**]              Discharge Date:   [**2182-4-17**]\n\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 3043**]\nChief Complaint:\nMelena\n\nMajor Surgical or Invasive Procedure:\nNone\n\nHistory of Present Illness:\n89yM with CAD, systolic CHF EF 25-30%, moderate AS, on aspirin\nand [**First Name3 (LF) **] presenting with severe anemia and melena. 3-4 days of\nmelena, [**3-21**] stools per day. Stool foul smelling, sticky, black.\nNo red blood. No abdominal pain, no nausea or vomiting. No EtOH\nor NSAIDs, just ASA and [**Month/Day (3) **]. No additional ASA. No history of\nGI bleeding and no EGD in th epast. Has NYHA class III CHF\nsymptoms at baseline, no angina at baseline. He gets short of\nbreath while walking in the part, does okay around the house. No\northopnea, PND, or pedal edema. Weighed 177lbs on admission, 175\nbaseline. No other symptoms. No fevers/chills. In ED, had 2 PIV,\ngot 1L IVF, 40mg IV Protonix, and 1 unit pRBC's.\n\nPast Medical History:\nDiabetes\nDyslipidemia\nCAD s/p PCA in [**1-/2182**]\nModerate Aortic Stenosis\nAnemia\nCKD (baseline creatinine 2.1)\nGout\nCHF, EF 25-30%\n\nSocial History:\nLives in [**Location 1268**] with wife. [**Name (NI) **] 2 daughters and a son.\n[**Name (NI) **] was born in [**Country 4754**], moved to the US in [**2125**]. Worked in\nconstruction as a labor foreman. Married x 54 years, with 3\nchildren and 9 grandchildren.\n-Tobacco history:  Denies\n-ETOH:  Occasional\n-Illicit drugs:  Denies\n\n\nFamily History:\nNo know FH of cardiac disease, diabetes, no colon/proste/breast\ncancer. Parents lived to 70s to 80s with no known medical\nproblems. Children in good health. Brother had heart disease.\n\nPhysical Exam:\nVitals 97,0F, BP 98/51, HR 77, RR 14, O2 sat 97%RA\nGeneral: NAD, A&O x 3\nHEENT: MM slightly dry, JVP 8cm\nCardiac: RRR, [**2-23**] mid peaking systolic crescendo decrescendo\nmurmur at the USB with radiation to the precordium and the\ncarotids, good carotid pulsations\nLung: CTAB\nAbdomen: Soft, NT, ND, no masses or organomegaly\nRectal: minimal melnea in rectal vault, no red blood, no rectal\nmasses\nNeuro: A&O x3, grossly normal\n\nDISCHARGE EXAM:\n98.2F, BP 102/64, 862, 96%RA\nNo JVD\nRRR, 2/6 systolic murmur\nLungs clear to auscultation bilaterally\nAbdomen benign\nNo peripheral edema\nA&O x 3\n\nPertinent Results:\n[**2182-4-9**] 11:30PM   PT-12.8 PTT-29.3 INR(PT)-1.1\n[**2182-4-9**] 11:30PM   PLT COUNT-233\n[**2182-4-9**] 11:30PM   NEUTS-68.5 LYMPHS-17.4* MONOS-6.1 EOS-7.3*\nBASOS-0.6\n[**2182-4-9**] 11:30PM   WBC-5.0 RBC-2.32*# HGB-7.5*# HCT-22.1*#\nMCV-96 MCH-32.2* MCHC-33.7 RDW-13.6\n[**2182-4-9**] 11:30PM   cTropnT-0.05*\n[**2182-4-9**] 11:30PM   CK(CPK)-81\n[**2182-4-9**] 11:30PM   GLUCOSE-195* UREA N-163* CREAT-2.9*\nSODIUM-132* POTASSIUM-6.3* CHLORIDE-99 TOTAL CO2-25 ANION GAP-14\n[**2182-4-10**] 04:32AM   PT-12.9 PTT-29.3 INR(PT)-1.1\n[**2182-4-10**] 04:32AM   HCT-22.4*\n[**2182-4-10**] 04:32AM   ALBUMIN-3.4* CALCIUM-8.3* PHOSPHATE-4.0\nMAGNESIUM-2.8*\n[**2182-4-10**] 04:32AM   ALT(SGPT)-79* AST(SGOT)-36 LD(LDH)-177 ALK\nPHOS-57 TOT BILI-0.6\n[**2182-4-10**] 04:32AM   GLUCOSE-55* UREA N-158* CREAT-2.7* SODIUM-136\nPOTASSIUM-5.3* CHLORIDE-104 TOTAL CO2-24 ANION GAP-13\n[**2182-4-10**] 12:40PM   HCT-24.8*\n[**2182-4-10**] 12:40PM   POTASSIUM-5.2*\n[**2182-4-10**] 03:39PM   HCT-25.8*\n[**2182-4-10**] 06:07PM   MAGNESIUM-2.4\n[**2182-4-10**] 06:07PM   estGFR-Using this\n[**2182-4-10**] 06:07PM   UREA N-134* CREAT-2.3* POTASSIUM-5.3*\n\nEcho [**2182-4-10**]: The left atrium is mildly dilated. There is mild\nsymmetric left ventricular hypertrophy. The left ventricular\ncavity size is normal for the patient's body size. There is\nmoderate global left ventricular hypokinesis (LVEF = 35-40 %).\nThe aortic valve leaflets are severely thickened/deformed. There\nis moderate to severe aortic valve stenosis (valve area\n1.0-1.2cm2). Mild (1+) aortic regurgitation is seen. The mitral\nvalve leaflets are mildly thickened. Mild (1+) mitral\nregurgitation is seen. The tricuspid valve leaflets are mildly\nthickened. Moderate [2+] tricuspid regurgitation is seen. There\nis moderate pulmonary artery systolic hypertension. There is no\npericardial effusion.\n\nCompared with the prior study (images reviewed) of [**2182-3-16**],\nthe heart fate is higher and left ventricular systolic function\nis slightly more vigorous. The left ventricular ejection\nfraction may have been slightly underestimated in the prior\nreport. . Estimated valve area is slightly higher in the current\nreport.\n\nChest X-ray [**2182-4-10**]: IMPRESSION: No evidence for pulmonary\nedema. Suspected tiny or small pleural effusion on the left.\n\nChest X-ray [**2182-4-16**]: IMPRESSION: Unchanged mild cardiomegaly\nand small bilateral effusions.\n\nBrief Hospital Course:\n89yM with CAD and systolic CHF, moderate AS, on aspirin and\n[**Year (4 digits) **], admitted with severe anemia and melena.\n\n# GI Bleeding. Hct on admission 22; baseline 30-32. Thought\nsecondary to UGIB (gastritis, PUD). ASA/[**Year (4 digits) **] stopped on\nadmission. Seen by GI; given multiple cardiac problems, any\nprocedure would need to be done by [**Last Name (LF) **], [**First Name3 (LF) **] deferred. Hematocrit\nstabilized off ASA/[**First Name3 (LF) **]; GI bleeding thought secondary to\n[**Last Name (LF) **], [**First Name3 (LF) **] this should be permanently discontinued. Metoprolol,\nlisinopril, and torsemide held in setting of GI bleeding.\nHematocrit after [**4-12**] was stable, ranging from 25-30%. Received\na total of 5 units pRBC's during admission (last on [**4-16**]);\nhematocrit at discharge 28%. No bowel movement in 3 days at time\nof discharge. Discharged on pantoprazole [**Hospital1 **].\n\n# Acute on chronic renal failure. Creatinine 2.7 at time of\nadmission (baseline 2.0-2.2). Creatinine was as low as 1.7\nduring the admission. Bumped from 1.7 to 2.2 when lisinopril\ninitially restarted; this medication was discontinued again and\nshould be restarted as an outpatient. Torsemide to be restarted\non discharge.\n\n# Coronary artery disease. [**Hospital1 **] discontinued. Aspirin\nrestarted three days prior to discharge with subsequent stable\nhematocrit. Statin continued. Metoprolol restarted two days\nprior to discharge, and lisinopril to be restarted as\noutpatient.\n\n# Chronic systolic heart failure. Well-compensated throughout\nthe admission. Change in x-ray demonstrated accumulation of mild\nbilateral pulmonary effusions (diuresis was held during the\nadmission). I's/O's closely monitored, and he remained euvolemic\nthroughout the admission. Beta blocker restarted during\nadmission, torsemide to start as outpatient, and lisinopril to\nbe restarted within one week of discharge.\n\n# Delirium. Noted to have reversed sleep/wake cycles during the\nadmission, with subsequent confusion. Improved with trazodone,\nto be continued on discharge.\n\n# Gout flare. On [**5-6**], patient had low-grade fever and\nbilateral great toe pain. Given one dose of colchicine with\nresolution of fever and pain.\n\n# Hyperlipidemia. Continued statin.\n\n# Hypernatremia. Did develop hypernatremia during\nhospitalization. Resolved with increased PO fluid intake.\n\n# Full Code, confirmed with patient.\n\n\nMedications on Admission:\nAtorvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\nLisinopril 10mg daily\n[**Date Range **] 75mg daily\nGlipizide 10 mg Tablet Sig: One (1) Tablet PO once a day.\nMetoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times\na day).\nTorsemide 40 mg Tablet Sig: One (1) Tablet PO once a day.\nAspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO\nDAILY (Daily).\nAcetaminophen 500 mg Tablet Sig: One (1) Tablet PO every [**4-23**]\nhours as needed for pain.\nIron (Ferrous Sulfate) 325 mg (65 mg Iron) Tablet Sig: One (1)\nTablet PO once a day\nZantac 75mg [**Hospital1 **]\n\n\nDischarge Medications:\n1. Atorvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n2. Glipizide 10 mg Tablet Sig: One (1) Tablet PO once a day.\n3. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\n4. Torsemide 20 mg Tablet Sig: One (1) Tablet PO once a day.\n5. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n6. Trazodone 50 mg Tablet Sig: 0.25 Tablet PO HS (at bedtime).\nDisp:*30 Tablet(s)* Refills:*2*\n7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).\nDisp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*\n8. Acetaminophen 500 mg Tablet Sig: One (1) Tablet PO every [**4-23**]\nhours as needed for pain.\n9. Iron (Ferrous Sulfate) 325 mg (65 mg Iron) Tablet Sig: One\n(1) Tablet PO once a day.\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital 119**] Homecare\n\nDischarge Diagnosis:\n1) GI bleed\n2) Coronary artery disease\n\nDischarge Condition:\nMental Status: Clear and coherent\nLevel of Consciousness: Alert and interactive\nActivity Status: Ambulatory - Independent, with cane/walker\n\nDischarge Instructions:\nYou were admitted with bleeding in your GI tract. This was most\nlikely due to your medication, [**Hospital **], that you recently started\ntaking. Please do not take your [**Hospital **]. Your aspirin was\nrestarted, and you had no further bleeding; you should continue\nto take this medication.\n\nWeigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more\nthan 3 lbs. Please take all of your medications as prescribed\nand keep all follow up appointments.\n\nThe following changes are made to your medication list:\n- [**Name8 (MD) **]: DO NOT TAKE THIS MEDICATION, as it likely contributed\nto your episode of bleeding from your GI tract\n- Pantoprazole: this is an anti-acid medication that you are\nprescribed to help prevent bleeding from your GI tract\n- Lisinopril: This medication will likely be restarted by Dr.\n[**Last Name (STitle) 131**]; please discuss this medication with him when you see him\non [**2182-4-24**]\n- Trazodone: This is a medication for sleep.\n\nFollowup Instructions:\nAppointment #1\nMD: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 131**]\nSpecialty: Internal Medicine-Primary Care\nDate/ Time: [**2182-4-24**] 10:30am\nLocation: [**Street Address(2) 3375**] [**Location (un) 858**], [**Location (un) **] MA\nPhone number: [**Telephone/Fax (1) 133**]\nSpecial instructions for patient:\n\nAppointment #2\nMD: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 7965**]\nSpecialty: Cardiology\nDate/ Time:\nLocation:\nPhone number: [**Telephone/Fax (1) 62**]\nSpecial instructions for patient: The office will call you with\nan appointment. If you do not hear or have any questions please\ncall the office. Thanks.\n\n\n\n"
+    },
+    {
+      "note_id": 731286,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 6396,
+          "end": 6405,
+          "code": "535.51",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified gastritis and gastroduodenitis, with hemorrhage",
+          "type": "MapType.APPROX",
+          "covered_text": "gastritis"
+        },
+        {
+          "begin": 6411,
+          "end": 6414,
+          "code": "533.40",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic or unspecified peptic ulcer of unspecified site with hemorrhage, without mention of obstruction",
+          "type": "MapType.APPROX",
+          "covered_text": "PUD"
+        }
+      ],
+      "text": "Chief Complaint:  Melena\n   HPI:\n   89 yoM w/ CAD, systolic CHF EF 25-30%, moderate AS, on aspirin and\n   plavix presents with severe anemia and melena.  3-4 days of melena, [**3-21**]\n   stools per day. The stool has been foul smelling, sticky and black.  No\n   red [**Month/Day (3) 1056**].  No abdominal pain, no nausea or vomiting.  No ETOH or\n   NSAIDs, just ASA and plavix.  No additional ASA.  No h/o GI bleed and\n   no EGD in the past.\n   The patient has NYHA class II CHF symptoms at baseline, no angina at\n   baseline.  He gets short of breath while walking in the park, does okay\n   around the house.  No orthopnea, PND or pedal edema.  He weighs 177\n   today, baseline weight is 175.  No other symptoms.  No F/C.\n   In the ED, initial VS:  T 98.2 HR 71 BP 96/40 RR 18 O2 sat: 100% on\n   RA.  His hct 3 weeks prior was 36, down to 22 on presentation to the\n   ER.  He has 2 PIV - 18g x 2.  He rec'd 1L IVF, 40mg IV protonix and 1\n   uPRBC.   He rec'd 1 amp of bicarb, 10uIV insulin,  and an amp of D50.\n   EKG without any changes c/w hyperkalemia.  Prior to transfer to the\n   floor his HR was 70  and BP 115/74.\n   Patient admitted from: [**Hospital1 5**] ER\n   History obtained from Patient\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Pantoprazole (Protonix) - 8 mg/hour\n   Other ICU medications:\n   Pantoprazole (Protonix) - [**2182-4-10**] 05:19 AM\n   Other medications:\n   Atorvastatin 80 mg po daily\n   Plavix 75mg daily\n   ASA 81mg daily\n   Metoprolol 12.5mg po bid\n   Ferrous Sulfate 300  mg (60 mg Iron) po daily\n   Docusate Sodium 100 mg po bid\n   Lisinopril 10 mg po dailly\n   Nitroglycerin 0.4 mg SL prn\n   Glipizide 10 mg po daily\n   Zantac 75mg po bid\n   Tylenol prn\n   Torsemide 40mg po daily\n   Past medical history:\n   Family history:\n   Social History:\n   Diabetes\n   Dyslipidemia\n   Hypertension\n   CAD\n   Anemia\n   Chronic Kidney Disease (Baseline Cre 2.1)\n   Gout\n   No know FH of cardiac disease, diabetes, no colon/proste/breast cancer.\n   Parents lived to 70s to 80s with no known medical problems. Children in\n   good health. Brother had heart disease.\n   Occupation:\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other: Lives in [**Location 4320**] with wife. [**Name (NI) 6**] 2 daughters and a son.\n   [**Name (NI) **] was born in [**Country 5802**], moved to the US in [**2125**]. Worked in\n   construction as a labor foreman. Married x 54 years, with 3 children\n   and 9 grandchildren.\n   -Tobacco history:  Denies\n   -ETOH:  Occasional\n   -Illicit drugs:  Denies\n   Review of systems:\n   Flowsheet Data as of [**2182-4-10**] 05:33 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since [**84**] AM\n   Tmax: 36.1\nC (97\n   Tcurrent: 36.1\nC (97\n   HR: 83 (79 - 83) bpm\n   BP: 95/40(53) {95/40(53) - 107/48(62)} mmHg\n   RR: 20 (20 - 20) insp/min\n   SpO2: 99%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n             362 mL\n   PO:\n             TF:\n   IVF:\n   12 mL\n   [**Year (2 digits) **] products:\n   Total out:\n                                                                      0 mL\n                                                                    750 mL\n   Urine:\n   500 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                   -388 mL\n   Respiratory\n   O2 Delivery Device: None\n   SpO2: 99%\n   ABG: ///24/\n   Physical Examination\n   Vitals - T: 97.0 BP: 98/51 HR: 77 RR: 14 02 sat: 97% on RA.\n   GENERAL:  NAD, AOx3\n   HEENT:  MM slightly dry, JVP 8cm\n   CARDIAC:  RRR, [**2-23**] mid peaking crescendo decrescendo murmur at the USB\n   with radiation to the precordium and the carotids, good carotid\n   pulsations.\n   LUNG:  CTAB\n   ABDOMEN:  soft, NT, ND, no masses or organomegaly\n   RECTAL: minimal melena in rectal vault, no red [**Month/Day (4) 1056**], no rectal masses\n   EXT:  WWP, no c/c/e\n   NEURO:  AOx3, grossly normal\n   Labs / Radiology\n   55 mg/dL\n   2.7 mg/dL\n   158 mg/dL\n   24 mEq/L\n   104 mEq/L\n   5.3 mEq/L\n   136 mEq/L\n   22.4 %\n        [image002.jpg]\n                                  [**2178-1-19**]\n                          2:33 A3/24/[**2182**]  04:32 AM\n                                  [**2178-1-23**]\n                                   10:20 P\n                                  [**2178-1-24**]\n                                   1:20 P\n                                  [**2178-1-25**]\n                                   11:50 P\n                                  [**2178-1-26**]\n                                   1:20 A\n                                  [**2178-1-27**]\n                                   7:20 P\n                                  1//11/006\n                                   1:23 P\n                                  [**2178-2-19**]\n                                   1:20 P\n                                  [**2178-2-19**]\n                                   11:20 P\n                                  [**2178-2-19**]\n                                   4:20 P\n   Hct\n                                    22.4\n   Cr\n                                     2.7\n   Glucose\n                                     55\n   Other labs: PT / PTT / INR:12.9/29.3/1.1, Ca++:8.3 mg/dL, Mg++:2.8\n   mg/dL, PO4:4.0 mg/dL\n   ECG: EKG:  NSR rate of 66, AV conduction delay, RBBB, slight STD  in V4\n   and V5 unchanged from prior.\n   ECHO TTE [**2-27**]: 25-30% (with regional akinesis of inf wall and apex),\n   mild symmetric LVH. Severe AS valve area 0.8-1.0cm2 but mean gradient\n   of 15mmHg.  2+ TR, 1+ MR.  moderate pulm HTN.\n   Cath [**2182-1-24**]: 2VD\n   LMCA normal\n   LAD prox 80%, 90% mid, 70% distal --> rotational atherectomy and PTCA\n   of prox and mid LAD.  No stents placed- procedure aborted due to severe\n   agitation\n   LCx 40% prox, 60% ramus\n   RCA non dominant and no disease\n   moderate AS with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 549**] of 1.0cm and a mean gradient of 24mmHg\n   Assessment and Plan\n GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB)\n   The patient is an 89 yoM w/ CAD, systolic CHF EF 25-30%, moderate AS,\n   on aspirin and plavix presents with severe anemia and melena.\n   # GI bleed: melena c/w upper GI bleed.  Likely source is gastritis /\n   PUD.\n   -add on LFTs\n   -he is consented and type and crossmatched\n   -2 PIV x 18g\n   -Protonix 80mg IV bolus then 8mg/hr\n   -GI consult\n   -NG lavage negative and rectal without red [**Last Name (LF) 1056**], [**First Name3 (LF) 124**] need urgent EGD\n   -hold ASA and plavix for now\n   # Acute renal failure: baseline Cr around 2.0, recently has been\n   2.7-2.9, currently 2.7.  likely related to hypovolemia, trend as the\n   patient is transfused and returns to euvolemia.\n   -if does not continue to improve will send urine lytes.\n   # Hyperkalemia: repeat p.m. K at 3 p.m., no hyperkalemic changes on\n   EKG.   Possibly from worsening creatinine.\n   # CAD: The patient has a baseline history of CAD, with a cath in [**1-27**]\n   with 2 vessel CAD and s/p atherectomy but no stenting.  On aspirin and\n   plavix, at this point given a life threatening bleed will have to hold\n   both aspirin and plavix and re-asess in the future.\n   -hold ACEi and beta blocker given possible hemodynamic instability\n   # CHF: chronic systolic heart failure with an EF of 25-30% most\n   recently, ischemic etiology.  In addition moderate AS on cath [**1-26**].\n   -lasix with [**Month/Year (2) 1056**] transfusion, will use 40mg IV\n   # FEN: IVFs / replete lytes prn / NPO\n   # PPX: PPI, pneumoboots\n   # ACCESS: PIV\n   # CODE:  FULL CODE\n   # CONTACT:  Wife\n   # ICU CONSENT:  Patient would like to discuss with his wife prior to\n   signing the consent form\n   # DISPO: ICU\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2182-4-10**] 03:50 AM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU\n"
+    },
+    {
+      "note_id": 731364,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 6951,
+          "end": 6963,
+          "code": "276.7",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperpotassemia",
+          "type": "MapType.EXACT",
+          "covered_text": "Hyperkalemia"
+        }
+      ],
+      "text": "Chief Complaint:  Melena\n   HPI:\n   89 yoM w/ CAD, systolic CHF EF 25-30%, moderate AS, on aspirin and\n   plavix presents with severe anemia and melena.  3-4 days of melena, [**3-21**]\n   stools per day. The stool has been foul smelling, sticky and black.  No\n   red [**Month/Day (3) 1056**].  No abdominal pain, no nausea or vomiting.  No ETOH or\n   NSAIDs, just ASA and plavix.  No additional ASA.  No h/o GI bleed and\n   no EGD in the past.\n   The patient has NYHA class II CHF symptoms at baseline, no angina at\n   baseline.  He gets short of breath while walking in the park, does okay\n   around the house.  No orthopnea, PND or pedal edema.  He weighs 177\n   today, baseline weight is 175.  No other symptoms.  No F/C.\n   In the ED, initial VS:  T 98.2 HR 71 BP 96/40 RR 18 O2 sat: 100% on\n   RA.  His hct 3 weeks prior was 36, down to 22 on presentation to the\n   ER.  He has 2 PIV - 18g x 2.  He rec'd 1L IVF, 40mg IV protonix and 1\n   uPRBC.   He rec'd 1 amp of bicarb, 10uIV insulin,  and an amp of D50.\n   EKG without any changes c/w hyperkalemia.  Prior to transfer to the\n   floor his HR was 70  and BP 115/74.\n   Patient admitted from: [**Hospital1 5**] ER\n   History obtained from Patient\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Pantoprazole (Protonix) - 8 mg/hour\n   Other ICU medications:\n   Pantoprazole (Protonix) - [**2182-4-10**] 05:19 AM\n   Other medications:\n   Atorvastatin 80 mg po daily\n   Plavix 75mg daily\n   ASA 81mg daily\n   Metoprolol 12.5mg po bid\n   Ferrous Sulfate 300  mg (60 mg Iron) po daily\n   Docusate Sodium 100 mg po bid\n   Lisinopril 10 mg po dailly\n   Nitroglycerin 0.4 mg SL prn\n   Glipizide 10 mg po daily\n   Zantac 75mg po bid\n   Tylenol prn\n   Torsemide 40mg po daily\n   Past medical history:\n   Family history:\n   Social History:\n   Diabetes\n   Dyslipidemia\n   Hypertension\n   CAD\n   Anemia\n   Chronic Kidney Disease (Baseline Cre 2.1)\n   Gout\n   No know FH of cardiac disease, diabetes, no colon/proste/breast cancer.\n   Parents lived to 70s to 80s with no known medical problems. Children in\n   good health. Brother had heart disease.\n   Occupation:\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other: Lives in [**Location 4320**] with wife. [**Name (NI) 6**] 2 daughters and a son.\n   [**Name (NI) **] was born in [**Country 5802**], moved to the US in [**2125**]. Worked in\n   construction as a labor foreman. Married x 54 years, with 3 children\n   and 9 grandchildren.\n   -Tobacco history:  Denies\n   -ETOH:  Occasional\n   -Illicit drugs:  Denies\n   Review of systems:\n   Flowsheet Data as of [**2182-4-10**] 05:33 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since [**84**] AM\n   Tmax: 36.1\nC (97\n   Tcurrent: 36.1\nC (97\n   HR: 83 (79 - 83) bpm\n   BP: 95/40(53) {95/40(53) - 107/48(62)} mmHg\n   RR: 20 (20 - 20) insp/min\n   SpO2: 99%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n             362 mL\n   PO:\n             TF:\n   IVF:\n   12 mL\n   [**Year (2 digits) **] products:\n   Total out:\n                                                                      0 mL\n                                                                    750 mL\n   Urine:\n   500 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                   -388 mL\n   Respiratory\n   O2 Delivery Device: None\n   SpO2: 99%\n   ABG: ///24/\n   Physical Examination\n   Vitals - T: 97.0 BP: 98/51 HR: 77 RR: 14 02 sat: 97% on RA.\n   GENERAL:  NAD, AOx3\n   HEENT:  MM slightly dry, JVP 8cm\n   CARDIAC:  RRR, [**2-23**] mid peaking crescendo decrescendo murmur at the USB\n   with radiation to the precordium and the carotids, good carotid\n   pulsations.\n   LUNG:  CTAB\n   ABDOMEN:  soft, NT, ND, no masses or organomegaly\n   RECTAL: minimal melena in rectal vault, no red [**Month/Day (4) 1056**], no rectal masses\n   EXT:  WWP, no c/c/e\n   NEURO:  AOx3, grossly normal\n   Labs / Radiology\n   55 mg/dL\n   2.7 mg/dL\n   158 mg/dL\n   24 mEq/L\n   104 mEq/L\n   5.3 mEq/L\n   136 mEq/L\n   22.4 %\n        [image002.jpg]\n                                  [**2178-1-19**]\n                          2:33 A3/24/[**2182**]  04:32 AM\n                                  [**2178-1-23**]\n                                   10:20 P\n                                  [**2178-1-24**]\n                                   1:20 P\n                                  [**2178-1-25**]\n                                   11:50 P\n                                  [**2178-1-26**]\n                                   1:20 A\n                                  [**2178-1-27**]\n                                   7:20 P\n                                  1//11/006\n                                   1:23 P\n                                  [**2178-2-19**]\n                                   1:20 P\n                                  [**2178-2-19**]\n                                   11:20 P\n                                  [**2178-2-19**]\n                                   4:20 P\n   Hct\n                                    22.4\n   Cr\n                                     2.7\n   Glucose\n                                     55\n   Other labs: PT / PTT / INR:12.9/29.3/1.1, Ca++:8.3 mg/dL, Mg++:2.8\n   mg/dL, PO4:4.0 mg/dL\n   ECG: EKG:  NSR rate of 66, AV conduction delay, RBBB, slight STD  in V4\n   and V5 unchanged from prior.\n   ECHO TTE [**2-27**]: 25-30% (with regional akinesis of inf wall and apex),\n   mild symmetric LVH. Severe AS valve area 0.8-1.0cm2 but mean gradient\n   of 15mmHg.  2+ TR, 1+ MR.  moderate pulm HTN.\n   Cath [**2182-1-24**]: 2VD\n   LMCA normal\n   LAD prox 80%, 90% mid, 70% distal --> rotational atherectomy and PTCA\n   of prox and mid LAD.  No stents placed- procedure aborted due to severe\n   agitation\n   LCx 40% prox, 60% ramus\n   RCA non dominant and no disease\n   moderate AS with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 549**] of 1.0cm and a mean gradient of 24mmHg\n   Assessment and Plan\n GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB)\n   The patient is an 89 yoM w/ CAD, systolic CHF EF 25-30%, moderate AS,\n   on aspirin and plavix presents with severe anemia and melena.\n   # GI bleed: melena c/w upper GI bleed.  Likely source is gastritis /\n   PUD.\n   -add on LFTs\n   -he is consented and type and crossmatched\n   -2 PIV x 18g\n   -Protonix 80mg IV bolus then 8mg/hr\n   -GI consult\n   -NG lavage negative and rectal without red [**Last Name (LF) 1056**], [**First Name3 (LF) 124**] need urgent EGD\n   -hold ASA and plavix for now\n   # Acute renal failure: baseline Cr around 2.0, recently has been\n   2.7-2.9, currently 2.7.  likely related to hypovolemia, trend as the\n   patient is transfused and returns to euvolemia.\n   -if does not continue to improve will send urine lytes.\n   # Hyperkalemia: repeat p.m. K at 3 p.m., no hyperkalemic changes on\n   EKG.   Possibly from worsening creatinine.\n   # CAD: The patient has a baseline history of CAD, with a cath in [**1-27**]\n   with 2 vessel CAD and s/p atherectomy but no stenting.  On aspirin and\n   plavix, at this point given a life threatening bleed will have to hold\n   both aspirin and plavix and re-asess in the future.\n   -hold ACEi and beta blocker given possible hemodynamic instability\n   # CHF: chronic systolic heart failure with an EF of 25-30% most\n   recently, ischemic etiology.  In addition moderate AS on cath [**1-26**].\n   -lasix with [**Month/Year (2) 1056**] transfusion, will use 40mg IV\n   # FEN: IVFs / replete lytes prn / NPO\n   # PPX: PPI, pneumoboots\n   # ACCESS: PIV\n   # CODE:  FULL CODE\n   # CONTACT:  Wife\n   # ICU CONSENT:  Patient would like to discuss with his wife prior to\n   signing the consent form\n   # DISPO: ICU\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2182-4-10**] 03:50 AM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU\n   ------ Protected Section ------\n   GI Bleed: s/p 2 units PRBSc. No further melena. GI planning to hold off\n   on EGD today given melena ceased.\n   --c/s cards for pre-EGD risk assessment\n   --f/u post-transfusion Hct\n   -- Q6 Hcts, goal hct>25\n   --DC PPI gtt and change to [**Hospital1 **] PPI\n   .\n   Hypotension: goal maps >65\n   .\n   Hypoglycemia: hold glyburide. Monitor serum glucose closely\n   .\n   CAD: No CP or SOB. CEs flat\n   --getting cards c/s as per above\n   --hold anti-hypertensives\n   .\n   DISPO: ICU for now\n   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 7030**], MD\n   on:[**2182-4-10**] 11:05 ------\n"
+    },
+    {
+      "note_id": 731463,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 6701,
+          "end": 6721,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute renal failure:"
+        },
+        {
+          "begin": 6951,
+          "end": 6963,
+          "code": "276.7",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperpotassemia",
+          "type": "MapType.EXACT",
+          "covered_text": "Hyperkalemia"
+        },
+        {
+          "begin": 8422,
+          "end": 8433,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 8457,
+          "end": 8469,
+          "code": "250.80",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with other specified manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "Hypoglycemia"
+        }
+      ],
+      "text": "Chief Complaint:  Melena\n   HPI:\n   89 yoM w/ CAD, systolic CHF EF 25-30%, moderate AS, on aspirin and\n   plavix presents with severe anemia and melena.  3-4 days of melena, [**3-21**]\n   stools per day. The stool has been foul smelling, sticky and black.  No\n   red [**Month/Day (3) 1056**].  No abdominal pain, no nausea or vomiting.  No ETOH or\n   NSAIDs, just ASA and plavix.  No additional ASA.  No h/o GI bleed and\n   no EGD in the past.\n   The patient has NYHA class II CHF symptoms at baseline, no angina at\n   baseline.  He gets short of breath while walking in the park, does okay\n   around the house.  No orthopnea, PND or pedal edema.  He weighs 177\n   today, baseline weight is 175.  No other symptoms.  No F/C.\n   In the ED, initial VS:  T 98.2 HR 71 BP 96/40 RR 18 O2 sat: 100% on\n   RA.  His hct 3 weeks prior was 36, down to 22 on presentation to the\n   ER.  He has 2 PIV - 18g x 2.  He rec'd 1L IVF, 40mg IV protonix and 1\n   uPRBC.   He rec'd 1 amp of bicarb, 10uIV insulin,  and an amp of D50.\n   EKG without any changes c/w hyperkalemia.  Prior to transfer to the\n   floor his HR was 70  and BP 115/74.\n   Patient admitted from: [**Hospital1 5**] ER\n   History obtained from Patient\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Pantoprazole (Protonix) - 8 mg/hour\n   Other ICU medications:\n   Pantoprazole (Protonix) - [**2182-4-10**] 05:19 AM\n   Other medications:\n   Atorvastatin 80 mg po daily\n   Plavix 75mg daily\n   ASA 81mg daily\n   Metoprolol 12.5mg po bid\n   Ferrous Sulfate 300  mg (60 mg Iron) po daily\n   Docusate Sodium 100 mg po bid\n   Lisinopril 10 mg po dailly\n   Nitroglycerin 0.4 mg SL prn\n   Glipizide 10 mg po daily\n   Zantac 75mg po bid\n   Tylenol prn\n   Torsemide 40mg po daily\n   Past medical history:\n   Family history:\n   Social History:\n   Diabetes\n   Dyslipidemia\n   Hypertension\n   CAD\n   Anemia\n   Chronic Kidney Disease (Baseline Cre 2.1)\n   Gout\n   No know FH of cardiac disease, diabetes, no colon/proste/breast cancer.\n   Parents lived to 70s to 80s with no known medical problems. Children in\n   good health. Brother had heart disease.\n   Occupation:\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other: Lives in [**Location 4320**] with wife. [**Name (NI) 6**] 2 daughters and a son.\n   [**Name (NI) **] was born in [**Country 5802**], moved to the US in [**2125**]. Worked in\n   construction as a labor foreman. Married x 54 years, with 3 children\n   and 9 grandchildren.\n   -Tobacco history:  Denies\n   -ETOH:  Occasional\n   -Illicit drugs:  Denies\n   Review of systems:\n   Flowsheet Data as of [**2182-4-10**] 05:33 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since [**84**] AM\n   Tmax: 36.1\nC (97\n   Tcurrent: 36.1\nC (97\n   HR: 83 (79 - 83) bpm\n   BP: 95/40(53) {95/40(53) - 107/48(62)} mmHg\n   RR: 20 (20 - 20) insp/min\n   SpO2: 99%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n             362 mL\n   PO:\n             TF:\n   IVF:\n   12 mL\n   [**Year (2 digits) **] products:\n   Total out:\n                                                                      0 mL\n                                                                    750 mL\n   Urine:\n   500 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                   -388 mL\n   Respiratory\n   O2 Delivery Device: None\n   SpO2: 99%\n   ABG: ///24/\n   Physical Examination\n   Vitals - T: 97.0 BP: 98/51 HR: 77 RR: 14 02 sat: 97% on RA.\n   GENERAL:  NAD, AOx3\n   HEENT:  MM slightly dry, JVP 8cm\n   CARDIAC:  RRR, [**2-23**] mid peaking crescendo decrescendo murmur at the USB\n   with radiation to the precordium and the carotids, good carotid\n   pulsations.\n   LUNG:  CTAB\n   ABDOMEN:  soft, NT, ND, no masses or organomegaly\n   RECTAL: minimal melena in rectal vault, no red [**Month/Day (4) 1056**], no rectal masses\n   EXT:  WWP, no c/c/e\n   NEURO:  AOx3, grossly normal\n   Labs / Radiology\n   55 mg/dL\n   2.7 mg/dL\n   158 mg/dL\n   24 mEq/L\n   104 mEq/L\n   5.3 mEq/L\n   136 mEq/L\n   22.4 %\n        [image002.jpg]\n                                  [**2178-1-19**]\n                          2:33 A3/24/[**2182**]  04:32 AM\n                                  [**2178-1-23**]\n                                   10:20 P\n                                  [**2178-1-24**]\n                                   1:20 P\n                                  [**2178-1-25**]\n                                   11:50 P\n                                  [**2178-1-26**]\n                                   1:20 A\n                                  [**2178-1-27**]\n                                   7:20 P\n                                  1//11/006\n                                   1:23 P\n                                  [**2178-2-19**]\n                                   1:20 P\n                                  [**2178-2-19**]\n                                   11:20 P\n                                  [**2178-2-19**]\n                                   4:20 P\n   Hct\n                                    22.4\n   Cr\n                                     2.7\n   Glucose\n                                     55\n   Other labs: PT / PTT / INR:12.9/29.3/1.1, Ca++:8.3 mg/dL, Mg++:2.8\n   mg/dL, PO4:4.0 mg/dL\n   ECG: EKG:  NSR rate of 66, AV conduction delay, RBBB, slight STD  in V4\n   and V5 unchanged from prior.\n   ECHO TTE [**2-27**]: 25-30% (with regional akinesis of inf wall and apex),\n   mild symmetric LVH. Severe AS valve area 0.8-1.0cm2 but mean gradient\n   of 15mmHg.  2+ TR, 1+ MR.  moderate pulm HTN.\n   Cath [**2182-1-24**]: 2VD\n   LMCA normal\n   LAD prox 80%, 90% mid, 70% distal --> rotational atherectomy and PTCA\n   of prox and mid LAD.  No stents placed- procedure aborted due to severe\n   agitation\n   LCx 40% prox, 60% ramus\n   RCA non dominant and no disease\n   moderate AS with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 549**] of 1.0cm and a mean gradient of 24mmHg\n   Assessment and Plan\n GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB)\n   The patient is an 89 yoM w/ CAD, systolic CHF EF 25-30%, moderate AS,\n   on aspirin and plavix presents with severe anemia and melena.\n   # GI bleed: melena c/w upper GI bleed.  Likely source is gastritis /\n   PUD.\n   -add on LFTs\n   -he is consented and type and crossmatched\n   -2 PIV x 18g\n   -Protonix 80mg IV bolus then 8mg/hr\n   -GI consult\n   -NG lavage negative and rectal without red [**Last Name (LF) 1056**], [**First Name3 (LF) 124**] need urgent EGD\n   -hold ASA and plavix for now\n   # Acute renal failure: baseline Cr around 2.0, recently has been\n   2.7-2.9, currently 2.7.  likely related to hypovolemia, trend as the\n   patient is transfused and returns to euvolemia.\n   -if does not continue to improve will send urine lytes.\n   # Hyperkalemia: repeat p.m. K at 3 p.m., no hyperkalemic changes on\n   EKG.   Possibly from worsening creatinine.\n   # CAD: The patient has a baseline history of CAD, with a cath in [**1-27**]\n   with 2 vessel CAD and s/p atherectomy but no stenting.  On aspirin and\n   plavix, at this point given a life threatening bleed will have to hold\n   both aspirin and plavix and re-asess in the future.\n   -hold ACEi and beta blocker given possible hemodynamic instability\n   # CHF: chronic systolic heart failure with an EF of 25-30% most\n   recently, ischemic etiology.  In addition moderate AS on cath [**1-26**].\n   -lasix with [**Month/Year (2) 1056**] transfusion, will use 40mg IV\n   # FEN: IVFs / replete lytes prn / NPO\n   # PPX: PPI, pneumoboots\n   # ACCESS: PIV\n   # CODE:  FULL CODE\n   # CONTACT:  Wife\n   # ICU CONSENT:  Patient would like to discuss with his wife prior to\n   signing the consent form\n   # DISPO: ICU\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2182-4-10**] 03:50 AM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU\n   ------ Protected Section ------\n   GI Bleed: s/p 2 units PRBSc. No further melena. GI planning to hold off\n   on EGD today given melena ceased.\n   --c/s cards for pre-EGD risk assessment\n   --f/u post-transfusion Hct\n   -- Q6 Hcts, goal hct>25\n   --DC PPI gtt and change to [**Hospital1 **] PPI\n   .\n   Hypotension: goal maps >65\n   .\n   Hypoglycemia: hold glyburide. Monitor serum glucose closely\n   .\n   CAD: No CP or SOB. CEs flat\n   --getting cards c/s as per above\n   --hold anti-hypertensives\n   .\n   DISPO: ICU for now\n   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 7030**], MD\n   on:[**2182-4-10**] 11:05 ------\n   I have seen and examined the patient with the fellow and agree\n   substantially with the assessment and plan as above with the following\n   modifications/emphasis:\n   Year resented to the ED.  Has received a total of 3 Units of PRBCs\n   Tm:  97 P:  89    BP:103/56  RR 18   Oxygen Saturation: 98%\n   General: Intubated, sedated\n   Chest: CTA bilaterally\n   Heart: S1 S2\n   Abd: Soft, NT ND\n   Ext: No edema or cyanosis\n   Labs: reviewed and as above\n Hct 22% -> 22% (after 1 Unit) -> 2 Units\n   Negative NG lavage\n   Assessment:\n   1) GI bleed -\n   2) Aortic Stenosis and 2-vessel CAD\n   Plan:\n   1)      GI consult\n   2)      2 Large-bore IVs\n   3)      Serial hct\n   4)      Repeat ECHO and cardiology consult\n   Time Spent: 30 minutes\n   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) **], MD\n   on:[**2182-4-10**] 06:57 PM ------\n"
+    }
+  ]
+}

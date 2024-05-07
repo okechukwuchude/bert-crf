@@ -1,0 +1,816 @@
+{
+  "hadm_id": 126300,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 279956,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 17,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Sinus tachycardia"
+        },
+        {
+          "begin": 40,
+          "end": 67,
+          "code": "R94.31",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal electrocardiogram [ECG] [EKG]",
+          "type": "Human",
+          "covered_text": "Non-specific T wave changes"
+        },
+        {
+          "begin": 95,
+          "end": 102,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "tracing"
+        }
+      ],
+      "text": "Sinus tachycardia.  Baseline artifact.  Non-specific T wave changes.  Compared\nto the previous tracing of [**2139-7-7**] the ventricular rate is slower.  T wave\nflattening is less pronouned.\n\n"
+    },
+    {
+      "note_id": 279957,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 33,
+          "end": 40,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "tracing"
+        }
+      ],
+      "text": "Probable sinus tachycardia.  The tracing is marred by baseline artifact.\nThere is borderline low limb lead voltage.  Compared to the previous tracing\nof [**2138-2-25**] the rate has increased.  A repeat tracing of diagnostic quality is\nsuggested.\n\n"
+    },
+    {
+      "note_id": 687433,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 87,
+          "end": 105,
+          "code": "G35",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple sclerosis",
+          "type": "Human",
+          "covered_text": "multiple sclerosis"
+        }
+      ],
+      "text": "Chief Complaint:  Back Pain\n   HPI:\n   This is an 80 year old female with a history of multiple sclerosis,\n   alzheimer's disease, hypertension who presents from a nursing home with\n   one day of back pain.  Per staff at her nursing home she was in her\n   usual state of health until the day prior to presentation when she\n   began to complain of back pain.  She was unable to clarify further.\n   Her temperature was 100.4 with blood pressure 162/82.  She received\n   vicodin and tylenol without improvement.  At baseline she is alert,\n   oriented but does not ambulate.  She is able to eat by herself but is\n   incontinent of urine and stools.  She was transferred to [**Hospital3 389**]\n   for further management.\n   In the ED, initial vs were: T: 98.0 P: 90 BP: 104/69 R: 16 O2 sat: 92%\n   on RA. She became tachycardic to the 140s (sinus tachycardia) with\n   stable blood pressures and spiked a fever to 101.5.  Her antibiotics\n   were broadened to vancomycin and cefepime and she had a CT of the chest\n   with contrast which was not timed appropriately and did not show a\n   large pulmonary embolism but could not rule out a small pulmonary\n   embolism. She also received 2 mg morphine, tylenol, ciprofloxacin 500\n   mg x 1, morphine 2 mg IV x 1 and haldol 2.5 mg IV x 1.  She received 2\n   liters of IV with improvement in her heart rate to the high 100s.  She\n   was admitted to the ICU for further management.\n   On the floor, she is unable to clarify further.  She says that she has\n   been having back pain for 2-3 days.  The pain is in her bilateral\n   back.  It is worse with movement.  It was not associated with any\n   trauma that she recalls.  She denies fevers, chills, lightheadedness,\n   dizziness, chest pain, difficulty breathing, nausea, vomiting,\n   abdominal pain, diarrhea, constipation, dysuria, hematuria, leg pain or\n   swelling.\n   Patient admitted from: [**Hospital1 5**] ER\n   History obtained from [**Hospital 19**] Medical records\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefipime - [**2139-7-8**] 12:00 AM\n   Vancomycin - [**2139-7-8**] 01:00 AM\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Home Medications:\n   Cymbalta 30 mg daily\n   Folic Acid 1 mg daily\n   Loratadine 10 mg daily\n   Multivitamin\n   Thiamine 100mg daily\n   Simvastatin 40 mg dialy\n   Vicodin 5-500 [**Hospital1 **] and Q4H:PRN\n   Namenda 10 mg [**Hospital1 **]\n   Lorazepam 0.5 mg Q6H:PRN\n   Prochlorperazine 10 mg Q6H:PRN\n   Tylenol 650 mg PRN\n   Milk of Magnesia 400 mg daily:PRN\n   Bisacodyl 10 mg PR daily:PRN\n   Fleets enema PRN\n   Senna PRN\n   Calcium 500 mg TId\n   Detrol 4 mg QHS\n   Aricept 10 mg QHS\n   Levothyroxine 125 mcg daily\n   Colace\n   Aspirin 325 mg daily\n   Vitamin D 50,000 q month\n   Past medical history:\n   Family history:\n   Social History:\n   Multiple sclerosis\n   Coronary Artery Disease\n   Hypertension\n   Hyperlipidemia\n   Osteoporosis\n   Hypothyroidism\n   Depression\n   Chronic sinusitis and allergic rhinitis.\n   Endometriosis, status post laparoscopy.\n   Dysfunctional uterine bleeding\n   Coronary artery disease in brother.  Possible MS in a deceased sister.\n   Occupation: Retired, used to work in medical office.\n   Drugs: None\n   Tobacco: Remote, < 5 pack years\n   Alcohol: Remote\n   Other: Lives in nursing home\n   Review of systems:\n   Constitutional: Fever\n   Ear, Nose, Throat: No(t) OG / NG tube\n   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,\n   Tachycardia, No(t) Orthopnea\n   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze\n   Gastrointestinal: Abdominal pain, No(t) Nausea, No(t) Emesis, No(t)\n   Diarrhea, No(t) Constipation\n   Genitourinary: No(t) Dysuria, Foley\n   Integumentary (skin): No(t) Jaundice, No(t) Rash\n   Endocrine: No(t) Hyperglycemia, History of thyroid disease\n   Heme / Lymph: No(t) Anemia\n   Neurologic: No(t) Headache\n   Allergy / Immunology: No(t) Immunocompromised\n   Pain: [**2-25**] Mild\n   Pain location: Diffuse back pain\n   Flowsheet Data as of [**2139-7-8**] 03:32 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.7\nC (99.8\n   Tcurrent: 37.7\nC (99.8\n   HR: 89 (89 - 93) bpm\n   BP: 109/58(70) {109/58(70) - 114/73(83)} mmHg\n   RR: 16 (14 - 17) insp/min\n   SpO2: 95%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n             3,250 mL\n   PO:\n             TF:\n   IVF:\n   250 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                     50 mL\n   Urine:\n   50 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  3,200 mL\n   Respiratory\n   O2 Delivery Device: Nasal cannula\n   SpO2: 95%\n   Physical Examination\n   Vitals: T: 99.8 BP: 109/68 P: 89 R: 16 O2: 95% on RA\n   General: Alert, oriented to person and hospital, not [**Hospital1 5**], date or\n   year, speech slurred (noted in previous neurologic exams)\n   HEENT: Sclera anicteric, MMM, oropharynx clear\n   Neck: supple, JVP not elevated, no LAD\n   Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi\n   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops\n   Abdomen:  soft, tender in epigastric region and right upper quadrant,\n   non-distended, bowel sounds present, no rebound tenderness or guarding,\n   no organomegaly\n   GU: foley draining [**Location (un) 257**] urine (received pyridium in ER)\n   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema,\n   excoriations throughout\n   Back:  Pain in paraspinal region bilaterally, no flank pain\n   Neurologic:  CN II-XII tested and intact, strength 5/5 throughout,\n   sensation intact across all dermatomes, reflexes 2+ and symmetric,\n   unable to assess gait\n   Labs / Radiology\n   338\n   118\n   1.0\n   22\n   29\n   101\n   3.6\n   140\n   37.1\n   12.2\n        [image002.jpg]\n   Other labs: Differential-Neuts:80.9, Lymph:12.4, Mono:5.4, Eos:1.0,\n   Lactic Acid:1.5 mmol/L\n   Imaging: CTA (wetread): equivocal subsegmental pulmonary embolism in a\n   right upper lobe branch (3:38, 402b:54) may reflect volume averaging\n   artifact. no large PE. bibasilar atlectesis. no acute aortic pathology.\n   CXR Portable: Cardiac size is top limits of normal. The aorta is\n   tortuous with aortic knob calcifications\n   redemonstrated. Aside from minimal subsegmental atelectasis in the left\n   lower lobe, the lungs are clear without focal consolidation. No pleural\n   effusion or pneumothorax is seen.  The pulmonary vascularity is normal.\n   The osseous structures are unremarkable.\n   Microbiology: UA trace positive, culture pending\n   Blood cultures pending\n   ECG: probable sinus tachycardia versus regular SVT at 148, borderline\n   left axis, borderline prolonged QTc at 470, no St segment elevation or\n   depression, compared with prior dated [**2138-2-25**] the rate is faster.\n   Assessment and Plan\n   Assessment and Plan:  80 year old female with a history of multiple\n   sclerosis, alzheimer's disease, hypertension who presents from a\n   nursing home with one day of back pain, fever and confusion.\n   .\n   Back Pain:  Etiology unclear.  Exam notable for bilateral paraspinal\n   tenderness with normal strength and sensation on exam.  Spiked a\n   temperature in the emergency room with associated tachycardia.\n   Although urinarlysis is positive, bilateral nature makes pyelonephritis\n   unlikely.  Most concerning etiology of back pain would be epidural\n   abscess but lack of findings on neurologic exam and significant\n   paraspinal muscle tenderness makes this less likely.  Most likely\n   etiology would be musculoskeletal back pain but this is a diagnosis of\n   exclusion.  Given history of osteoporosis, compression fracture is\n   possible but preliminarily no evidence on CT chest.\n   - Vicodin 5-500 [**Hospital1 **] and Q4H:PRN for pain\n   - LFTs, lipase\n   - blood and urine cultures pending\n   - ciprofloxacin for positive urinalysis\n   - consider lumbar/thoracic spine films in AM to assess for compression\n   fracture\n   - if persistent fevers or change in neurologic exam will need to\n   consider MRI to assess for epidural abscess\n   Low Grade Fevers:  As above, unclear etiology.  [**Month (only) 8**] be related to\n   urinary tract infection.  Blood and urine cultures pending. Only\n   localizing symptom is back pain, epigastric pain on exam.\n   - LFTs, lipase pending\n   - trend fever curve\n   - ciprofloxacin for postiive UA\n   - consider additional abdominal or spine imaging if clinical course\n   worsens\n   Tachycardia: Unable to identify clear p waves but regular rhythm.  Now\n   resolved with IVF.  Associated with fevers.\n   - IVF for tachycardia\n   Positive Urinalysis:  Trace positive, culture pending.  Given back\n   pain, possible altered mental status will treat pending culture data.\n   - ciprofloxacin day [**12-31**]\n   - follow urine culture\n   Coronary Artery Disease:  Details unclear.  [**Name2 (NI) **] ischemic changes on EKG.\n   - continue aspirin 325 mg daily\n   Hyperlipidemia\n   - Simvastatin 40 mg dialy\n   Osteoporosis:\n   - continue calcium and vitamin D\n   Hypothyroidism\n   - Continue levothyroxine 125 mcg daily\n   Depression:\n   - Cymbalta 30 mg daily\n   Dementia:\n   - Namenda 10 mg [**Hospital1 **]\n   - Aricept 10 mg QHS\n   FEN: No IVF, replete electrolytes, regular diet\n   Prophylaxis: Subutaneous heparin\n   Access: peripherals\n   Code:  DNR/DNI (discussed with nursing home)\n   Communication: Patient, [**Name (NI) 313**] [**Last Name (NamePattern1) 7714**] [**Telephone/Fax (1) 7715**] (temporary legal\n   guardian)\n   Disposition: pending clinical improvement\n   ICU Care\n   Nutrition:\n   Glycemic Control: Blood sugar well controlled\n   Lines:\n   20 Gauge - [**2139-7-8**] 02:01 AM\n   18 Gauge - [**2139-7-8**] 02:03 AM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin(Systemic anticoagulation: None)\n   Stress ulcer: Not indicated\n   VAP:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status: DNR / DNI\n   Disposition: ICU\n"
+    },
+    {
+      "note_id": 48367,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2149,
+          "end": 2172,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "Coronary Artery Disease"
+        },
+        {
+          "begin": 2186,
+          "end": 2200,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 2201,
+          "end": 2213,
+          "code": "M81.0",
+          "code_system": "ICD-10-CM",
+          "description": "Age-related osteoporosis without current pathological fracture",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 2214,
+          "end": 2228,
+          "code": "E03.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypothyroidism, unspecified",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 4743,
+          "end": 4774,
+          "code": "B96.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified bacterial agents as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "GRAM POSITIVE COCCI IN CLUSTERS"
+        },
+        {
+          "begin": 6687,
+          "end": 6715,
+          "code": "K63.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified diseases of intestine",
+          "type": "Human",
+          "covered_text": "Dilated loops of small bowel"
+        },
+        {
+          "begin": 7538,
+          "end": 7582,
+          "code": "K80.20",
+          "code_system": "ICD-10-CM",
+          "description": "Calculus of gallbladder without cholecystitis without obstruction",
+          "type": "Human",
+          "covered_text": "Cholelithiasis with no sign of cholecystitis"
+        },
+        {
+          "begin": 7650,
+          "end": 7652,
+          "code": "G35",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple sclerosis",
+          "type": "Human",
+          "covered_text": "MS"
+        },
+        {
+          "begin": 7654,
+          "end": 7664,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "alzheimers"
+        },
+        {
+          "begin": 7666,
+          "end": 7678,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 7728,
+          "end": 7737,
+          "code": "M54.9",
+          "code_system": "ICD-10-CM",
+          "description": "Dorsalgia, unspecified",
+          "type": "Human",
+          "covered_text": "back pain"
+        },
+        {
+          "begin": 7739,
+          "end": 7744,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 7781,
+          "end": 7785,
+          "code": "B95.61",
+          "code_system": "ICD-10-CM",
+          "description": "Methicillin susceptible Staphylococcus aureus infection as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "MSSA"
+        },
+        {
+          "begin": 7842,
+          "end": 7852,
+          "code": "R78.81",
+          "code_system": "ICD-10-CM",
+          "description": "Bacteremia",
+          "type": "Human",
+          "covered_text": "BACTERIMIA"
+        },
+        {
+          "begin": 7938,
+          "end": 7951,
+          "code": "D72.829",
+          "code_system": "ICD-10-CM",
+          "description": "Elevated white blood cell count, unspecified",
+          "type": "Human",
+          "covered_text": "elevated WBCs"
+        },
+        {
+          "begin": 9315,
+          "end": 9334,
+          "code": "R11.2",
+          "code_system": "ICD-10-CM",
+          "description": "Nausea with vomiting, unspecified",
+          "type": "Human",
+          "covered_text": "Nausea and vomiting"
+        },
+        {
+          "begin": 10600,
+          "end": 10613,
+          "code": "R74.01",
+          "code_system": "ICD-10-CM",
+          "description": "Elevation of levels of liver transaminase levels",
+          "type": "Human",
+          "covered_text": "TRANSMIANITIS"
+        },
+        {
+          "begin": 11228,
+          "end": 11231,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 11260,
+          "end": 11266,
+          "code": "B96.20",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "E.Coli"
+        },
+        {
+          "begin": 11523,
+          "end": 11534,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Tachycardia"
+        },
+        {
+          "begin": 12038,
+          "end": 12068,
+          "code": "L89.312",
+          "code_system": "ICD-10-CM",
+          "description": "Pressure ulcer of right buttock, stage 2",
+          "type": "Human",
+          "covered_text": "2nd degree right buttock ulcer"
+        },
+        {
+          "begin": 12349,
+          "end": 12372,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "Coronary Artery Disease"
+        },
+        {
+          "begin": 15726,
+          "end": 15736,
+          "code": "R78.81",
+          "code_system": "ICD-10-CM",
+          "description": "Bacteremia",
+          "type": "Human",
+          "covered_text": "Bacteremia"
+        },
+        {
+          "begin": 15737,
+          "end": 15760,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "Urinary tract infection"
+        },
+        {
+          "begin": 15761,
+          "end": 15766,
+          "code": "K56.7",
+          "code_system": "ICD-10-CM",
+          "description": "Ileus, unspecified",
+          "type": "Human",
+          "covered_text": "ileus"
+        },
+        {
+          "begin": 15864,
+          "end": 15873,
+          "code": "R41.0",
+          "code_system": "ICD-10-CM",
+          "description": "Disorientation, unspecified",
+          "type": "Human",
+          "covered_text": "confusion"
+        },
+        {
+          "begin": 15979,
+          "end": 15988,
+          "code": "M54.9",
+          "code_system": "ICD-10-CM",
+          "description": "Dorsalgia, unspecified",
+          "type": "Human",
+          "covered_text": "back pain"
+        },
+        {
+          "begin": 15993,
+          "end": 16002,
+          "code": "R41.0",
+          "code_system": "ICD-10-CM",
+          "description": "Disorientation, unspecified",
+          "type": "Human",
+          "covered_text": "confusion"
+        },
+        {
+          "begin": 16240,
+          "end": 16249,
+          "code": "M54.9",
+          "code_system": "ICD-10-CM",
+          "description": "Dorsalgia, unspecified",
+          "type": "Human",
+          "covered_text": "back pain"
+        },
+        {
+          "begin": 16254,
+          "end": 16263,
+          "code": "R41.0",
+          "code_system": "ICD-10-CM",
+          "description": "Disorientation, unspecified",
+          "type": "Human",
+          "covered_text": "confusion"
+        },
+        {
+          "begin": 16960,
+          "end": 16965,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 17024,
+          "end": 17033,
+          "code": "R41.0",
+          "code_system": "ICD-10-CM",
+          "description": "Disorientation, unspecified",
+          "type": "Human",
+          "covered_text": "confusion"
+        }
+      ],
+      "text": "Admission Date:  [**2139-7-7**]              Discharge Date:   [**2139-7-16**]\n\nDate of Birth:  [**2058-11-6**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 22864**]\nChief Complaint:\nBack Pain\n\nMajor Surgical or Invasive Procedure:\nPICC line placed on [**2139-7-13**]\n\n\nHistory of Present Illness:\n80 year old female with a history of multiple sclerosis,\nalzheimer's disease, hypertension who presents from a nursing\nhome with one day of back pain. Per staff at her nursing home\nshe was in her usual state of health until the day prior to\npresentation when she began to complain of back pain. She was\nunable to clarify further. Her temperature was 100.4 with blood\npressure 162/82. She received vicodin and tylenol without\nimprovement. At baseline she is alert, oriented but does not\nambulate. She is able to eat by herself but is incontinent of\nurine and stools. She was transferred to [**Hospital3 **] for further\nmanagement.\n.\nIn the ED, initial vs were: T: 98.0 P: 90 BP: 104/69 R: 16 O2\nsat: 92% on RA. She became tachycardic to the 140s (sinus\ntachycardia) with stable blood pressures and spiked a fever to\n101.5. Her antibiotics were broadened to vancomycin and cefepime\nand she had a CT of the chest with contrast which was not timed\nappropriately and did not show a large pulmonary embolism but\ncould not rule out a small pulmonary embolism. She also received\n2 mg morphine, tylenol, ciprofloxacin 500 mg x 1, morphine 2 mg\nIV x 1 and haldol 2.5 mg IV x 1. She received 2 liters of IV\nwith improvement in her heart rate to the high 100s. She was\nadmitted to the ICU for further management.\n.\nOn the floor, she is unable to clarify further. She says that\nshe has been having back pain for 2-3 days. The pain is in her\nbilateral back. It is worse with movement. It was not associated\nwith any trauma that she recalls. She denies fevers, chills,\nlightheadedness, dizziness, chest pain, difficulty breathing,\nnausea, vomiting, abdominal pain, diarrhea, constipation,\ndysuria, hematuria, leg pain or swelling.\n\nPast Medical History:\nMultiple sclerosis\nCoronary Artery Disease\nHypertension\nHyperlipidemia\nOsteoporosis\nHypothyroidism\nDepression\nChronic sinusitis and allergic rhinitis.\nEndometriosis, status post laparoscopy.\nDysfunctional uterine bleeding\n\n\nSocial History:\nCurrently coming from nursing home. No current smoking, alcohol\nor illict drug use. Very remote smoking history (less than 3\npack years). Used to work in a cardiology office.\n\nFamily History:\nCoronary artery disease in brother. Possible MS in a deceased\nsister.\n\nPhysical Exam:\nVitals: T: 99.8 BP: 109/68 P: 89 R: 16 O2: 95% on RA\nGeneral: Alert, oriented to person and hospital, not [**Hospital1 18**], date\nor year, speech slurred (noted in previous neurologic exams)\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nrhonchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: soft, tender in epigastric region and right upper\nquadrant, non-distended, bowel sounds present, no rebound\ntenderness or guarding, no organomegaly\nGU: foley draining [**Location (un) 2452**] urine (received pyridium in ER)\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema, excoriations throughout\nBack: Pain in paraspinal region bilaterally, no flank pain\nNeurologic: CN II-XII tested and intact, strength 5/5\nthroughout, sensation intact across all dermatomes, reflexes 2+\nand symmetric, unable to assess gait\n\n\nPertinent Results:\n[**2139-7-7**] 01:35PM BLOOD WBC-12.2*# RBC-4.03* Hgb-11.9* Hct-37.1\nMCV-92 MCH-29.6 MCHC-32.2 RDW-13.8 Plt Ct-338\n[**2139-7-7**] 01:35PM BLOOD Neuts-80.9* Lymphs-12.4* Monos-5.4\nEos-1.0 Baso-0.3\n[**2139-7-7**] 01:35PM BLOOD Glucose-118* UreaN-22* Creat-1.0 Na-140\nK-3.6 Cl-101 HCO3-29 AnGap-14\n[**2139-7-8**] 04:08AM BLOOD Calcium-8.0* Phos-3.1 Mg-1.8\n[**2139-7-7**] 01:35PM BLOOD ALT-13 AST-15 AlkPhos-90 TotBili-0.4\n\n[**2139-7-7**] 04:15PM URINE Color-Amber Appear-Hazy Sp [**Last Name (un) **]-1.026\n[**2139-7-7**] 04:15PM URINE Blood-NEG Nitrite-NEG Protein-NEG\nGlucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-TR\n[**2139-7-7**] 04:15PM URINE RBC-3* WBC-21-50* Bacteri-MANY Yeast-NONE\nEpi-4\n.\nMicro\n[**2139-7-7**] Aerobic Bottle Gram Stain (Final [**2139-7-8**]):\n      GRAM POSITIVE COCCI IN CLUSTERS.\n   Anaerobic Bottle Gram Stain (Final [**2139-7-8**]):\n      GRAM POSITIVE COCCI IN CLUSTERS.\n\nLAST POSITIVE BLOOD CULTURE ON [**7-9**]:\n      STAPH AUREUS COAG +.\n         SENSITIVITIES PERFORMED ON CULTURE # [**Numeric Identifier 101883**],\n[**2139-7-7**].\n\n   Anaerobic Bottle Gram Stain:\n      GRAM POSITIVE COCCI IN CLUSTERS\n\nMRSA SCREEN:    No MRSA isolated\nSENSITIVITIES: MIC expressed in MCG/ML\n\n_________________________________________________________\n                             STAPH AUREUS COAG +\n                             |\nERYTHROMYCIN----------   =>8 R\nGENTAMICIN------------ <=0.5 S\nLEVOFLOXACIN----------<=0.12 S\nOXACILLIN-------------<=0.25 S\n\n[**2139-7-8**] Urine culture: ESCHERICHIA COLI.    >100,000\nORGANISMS/ML..\n\n                              SENSITIVITIES: MIC expressed in\nMCG/ML\n\n_________________________________________________________\n                             ESCHERICHIA COLI\n                             |\nAMPICILLIN------------  =>32 R\nAMPICILLIN/SULBACTAM--    16 I\nCEFAZOLIN-------------   <=4 S\nCEFEPIME--------------   <=1 S\nCEFTAZIDIME-----------   <=1 S\nCEFTRIAXONE-----------   <=1 S\nCEFUROXIME------------     4 S\nCIPROFLOXACIN---------   =>4 R\nGENTAMICIN------------   <=1 S\nMEROPENEM-------------<=0.25 S\nNITROFURANTOIN--------  <=16 S\nPIPERACILLIN/TAZO-----   <=4 S\nTOBRAMYCIN------------   <=1 S\nTRIMETHOPRIM/SULFA----   <=1 S\n\nURINE CULTURE ON [**2139-7-11**]: NO GROWTH.\n.\n[**2139-7-7**] ECG: Probable sinus tachycardia versus regular SVT at\n148, borderline left axis, borderline prolonged QTc at 470, no\nSt segment elevation or depression, compared with prior dated\n[**2138-2-25**] the rate is faster.\n.\n[**2139-7-7**] CXR: No evidence of pneumonia.\n.\n[**2139-7-7**] CTA chest: Equivocal subsegmental pulmonary embolism in\na right upper lobe branch (3:38, 402b:54) may reflect volume\naveraging artifact. no large PE. bibasilar atelectesis. no acute\naortic pathology.\n\nABD XRAY ON [**2139-7-14**]:  Mild distension of the stomach is once\nagain noted in this study.  Dilated loops of small bowel are\nnoted. Multiple air- fluid levels are noted on left lateral\ndecubitus. Colon is noted to be filled with air throughout the\ncolon. Overall findings are consistent with ileus.\nIMPRESSION: Dilated loops of small bowel with air noted\nthroughout colon\nconsistent with ileus. Gastric distension is once again noted in\nthis study.\n\nABD US ON [**2139-7-13**]: There is no focal liver lesion identified.\nThere is no biliary dilatation and the common duct measures .6\ncm. The portal vein is patent with hepatopetal flow. Multiple\nshadowing gallstones are seen in the gallbladder which is not\noverly distended. There is no gallbladder wall thickening and no\npericholecystic fluid is seen. The visualized portion of the\npancreas is unremarkable, however, the pancreas is partially\nobscured by overlying bowel.  The spleen is unremarkable and\nmeasures 9.3 cm. Both right and left kidneys show no\nhydronephrosis. The right kidney measures 9.0 cm and the left\nkidney measures 8.8 cm. No AAA is identified on limited views of\nthe aorta.\n IMPRESSION: 1) Cholelithiasis with no sign of cholecystitis.\n\n\nBrief Hospital Course:\n This is a  80 yo female with history of MS, alzheimers,\nhypertension who presents from a nursing home with one day of\nback pain, fever and confusion who was found to have MSSA\nbacterimia and developed an ileus and transaminitis.\n.\n#BACTERIMIA/BACK PAIN: Given patients history of acute onset,\nchange in mental status, fever and elevated WBCs this was\nconcerning for sepsis/infection paraspinal abcess,\nosteomyelitis. Given history of osteoporosis, compression\nfracture was also in the differential but preliminarily no\nevidence on CT chest. MRI T&L done on [**2139-7-9**] which showed no\nacute processes. She was given broad spectrum antibiotics\nincluding:  ciprofloxacin and ceftaxine were given x1, Vanco IV\nx 2 days until her blood culture results were available. She was\nfoud to have MSSA so she was started on Nafcillin 2 gm IV Q4\nhrs, from [**7-10**]->[**7-13**]. Nafcillin was stopped due to increased in\nLFTs, RUQ abdominal pain, nausea and vomiting. She was started\non Cefazolin 2 gm IV Q 8hrs. Patient's condition had overall\nimproved, her confusion resolved on the second day of admission\nalthough she has Alzheimers at baseline. She states to always\nhave a baseline backpain, but it was much improved from\nadmission. Pt was also found to have a UTI + E.Coli which she\nwas treated for a total of 3 days, urine culture was repeated on\n[**7-11**] which was negative.\n\nPatient also has been followed by infectious diseases who gave\nantibiotic recommendations. She had a PICC line placed on\n[**2139-7-13**] which she had removed after the first day, she stated\nthat if was ictching and she pulled it out. She had another PICC\nreplaced on her Right AC which was working well prior to\ndischarge.\n.\n# Nausea and vomiting: pt complained of nausea and vomited a\nsmall amount of greenish fluid on [**2138-7-12**] and [**7-13**]. she also had\ntenderness on her right upper quad. Abdominal US showed\ncholelithiasis without cholecystitis. Since Naficillin can cause\nsome liver toxicity, the medication was discontinued.\nTransaminitis started to trend down. However, on [**2139-7-14**]\npatient's abdomen looked distended, tympanic, and she continued\nto complaint of RUQ abdominal pain. She had increased liquid BMs\nfor the prior 2 days which were attributed to motility agents\nshe had received. Given that she was in numerous antibiotics,\nstool was sent for C-Diff and place her on prophylactic Flagyl\n500mg PO. We also did a KUB which showed an ileus. This was most\nlikely related to an functional ileus, since she was on\nnarcotics, laying in bed with decreased mobility, and no BM for\na 4-5 days prior to receiving motility agents. She was made NPO\nfor 1 day. On physical exam her abdomen on the following day was\nsoft, continued to be mildly distended, but less tender. + BS x\n4 quads and she had two BMs. We advanced her diet. She has been\ntolerating her diet well with no N/v and no complain of\nabdominal pain.\nHer C-diff culture was negative and her Flagyl was D/c on\n[**2139-7-16**].\n\n#TRANSMIANITIS: As noted above she had sl. increase in AST, ALT\nand Alk phos with nausea and vomiting for 2 days and RUQ\ntenderness. This was thought to be related to the Nafcillin.\nOnce Nafcillin was D/c'd and labs started to trend down. She was\nalso found to have increase in Lipase of 79  and amylase of 113\non [**7-16**] . This was believed to be caused by mild pancreatitis\nalso related to prior treatment administration of Nafcillin. She\nwill have continue monitoring of LFTs, including lipase and\namylase weekly. She was doing well at discharge, tolerating her\nregular diet with no complains of N/V or abdominal pain.\n\n.\n#UTI: Urine culture Positive for E.Coli > 100,000 colonies,\nrresistant to cipro and ampicillin. Sensitive to the\ncefalosporins, zozyn, tobramycin, Bactrim, and Nitrofurantoin.\nReceived 3 days of Bactrim. D/c on [**7-11**]. Repeat UA on [**7-11**].\nUrine culture on [**7-11**] shows no growth.\n.\n#Tachycardia: Patient has been sinus tachycardic for most of her\nadmission. EKG remained unchanged, she was placed on tele for\nthe first few day of admission where she remained on sinus tachy\nin rates ranging from 90s to low 100s, asymptomatic. This could\nbe due to mild hyperthyroidism, TSH low 0.08 and on\nlevothryroxine. Patient also given extra fluid bolus which she\nresponded well, so could also be due to dehydration. Patient\nstable at time of discharge. Follow TSH and T4 as outpaint\nencourage PO fluids.\n.\n# 2nd degree right buttock ulcer: Patient with small 2x1 cm in\ndiameter excoriation on right buttock. The wound care nurse\nassessed and treated the wound. The wound has overall improved,\nnow there is only very small wound healing well less than .5cm\nin diameter at the time of discharge with dressing over it.\n.\n#Coronary Artery Disease: No changes on EKG.\n- continue aspirin 81 mg daily\n.\nAt discharge: Patient is alert and oriented times place and\ntime. She respond appropriately to questions, and conversing.\nVery pleasant. She moves in bed with minimal assist. She is\nincontinent of urine and stool which is her baseline. She is\nstable and medically clear to go back to her extended care\nfacility.\n\nMedications on Admission:\nCymbalta 30 mg daily\nFolic Acid 1 mg daily\nLoratadine 10 mg daily\nMultivitamin\nThiamine 100mg daily\nSimvastatin 40 mg dialy\nVicodin 5-500 [**Hospital1 **] and Q4H:PRN\nNamenda 10 mg [**Hospital1 **]\nLorazepam 0.5 mg Q6H:PRN\nProchlorperazine 10 mg Q6H:PRN\nTylenol 650 mg PRN\nMilk of Magnesia 400 mg daily:PRN\nBisacodyl 10 mg PR daily:PRN\nFleets enema PRN\nSenna PRN\nCalcium 500 mg TId\nDetrol 4 mg QHS\nAricept 10 mg QHS\nLevothyroxine 125 mcg daily\nColace\nAspirin 325 mg daily\nVitamin D 50,000 q month\n\n\nDischarge Medications:\n1. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n3. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n5. Namenda 10 mg Tablet Sig: One (1) Tablet PO twice a day.\n6. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n7. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q 6HRS: PRN as\nneeded for anxiety.\n8. Donepezil 10 mg Tablet Sig: One (1) Tablet PO at bedtime.\n9. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:\nOne (1) Adhesive Patch, Medicated Topical DAILY (Daily) as\nneeded for back pain: ON FOR 12 HRS AND OFF FOR 12 HRS.\n10. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n11. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n12. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q8H\n(every 8 hours) as needed for pain: PLEASE DO NOT EXCEED 2GM PER\nDAY .\n13. Cefazolin in Normal Saline 2 gram/100 mL Solution Sig: Two\n(2) gram Intravenous every eight (8) hours for 22 days: MSSA\nbacterimia. PLEASE STOP ON [**2139-7-30**].\n14. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML\nIntravenous once a day as needed for line flush: PICC, heparin\ndependent: Flush with 10mL Normal Saline followed by 2 mL of\nHeparin daily and PRN per lumen.\n15. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML\nIntravenous PRN (as needed) as needed for line flush: PICC,\nheparin dependent: Flush with 10mL Normal Saline followed by 2\nmL Heparin daily and PRN per lumen.\n16. Senna 8.6 mg Tablet Sig: One (1) Tablet PO once a day as\nneeded for constipation: Please hold for loose stool.\n17. Colace 50 mg Capsule Sig: One (1) Capsule PO twice a day:\nPLEASE HOLD FOR LOOSE BM.\n18. Compazine 10 mg Tablet Sig: One (1) Tablet PO Q 6HRS: PRN.\n19. Loratadine 10 mg Tablet Sig: One (1) Tablet PO once a day.\n20. Calcium 500 mg Tablet Sig: One (1) Tablet PO three times a\nday.\n21. Detrol LA 4 mg Capsule, Sust. Release 24 hr Sig: One (1)\nCapsule, Sust. Release 24 hr PO at bedtime.\n22. Vitamin D 50,000 unit Capsule Sig: One (1) Capsule PO once a\nmonth.\n23. Milk of Magnesia 400 mg/5 mL Suspension Sig: Five (5) mL PO\nQ Day PRN as needed for constipation.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital 745**] Health Care\n\nDischarge Diagnosis:\nPrimary:\nBacteremia\nUrinary tract infection\nileus\n\nSecondary:\nAlzheimers\ndementia\nMultiple sclerosis\nHTN\ndepression\n\n\nDischarge Condition:\nStable, confusion and pain improved. Afebrile\n\n\nDischarge Instructions:\nYou were admitted to [**Hospital1 18**] for severe back pain and confusion.\nWhen you came into the emergency room your temperature was 101.5\nF and your heart rate was fast. We found that you have an\nurinary tract infection and an infection in your blood. We have\nbeen giving you antibiotics and your symptoms of back pain and\nconfusion have improved.\n\nYou had Infectious Diseases consult and you will need to be in\nIV antibiotics for a total of 4 to 6 weeks. You also had a PICC\nline placed for the IV antibiotics.\n\nYou also developed nausea, vomiting, and pain in the right side\nof your abdomen. You had a xray of your abdomen which showed\nthat you had a blockage in your intestine. You didn't eat for\none day and we changed some of your medications which helped you\nstarted to feel better.\n\nWe have made the following medication changes:\n-Started on Cefazolin 2 gm IV every 8 hours\n\nYou should have blood draws every week and you should follow the\nappointments as noted below.\n\nIf you develop any chest pain, shortness of breath, fever\n(temperature greater than 101.3 F), chills, palpitations,\nconfusion or for increase pain in your abdomen or in your back,\nor for any other concerns you should call your doctor or come\nthe emergency room.\n\nFollowup Instructions:\nPROVIDER: [**Last Name (NamePattern4) **]. [**First Name (STitle) **] [**Name (STitle) 1420**], infectious diseases doctor,\non [**2139-8-6**] at 9:OO AM. Location: [**Hospital Unit Name **] at [**Doctor First Name **], across from [**Hospital1 **] Emergency room. Phone:\n[**Telephone/Fax (1) 457**]\n\nBLOOD DRAW: Please have CBC, Chem 7 (Na, K, Cl, HCO2, BUN,\nCreat, gluc), LFTs (ALT,AST,T.bili, Alk phos), drawn weekly\nwhile on antibiotics and have results faxed to Dr.\n[**Name (NI) 1420**] at [**Telephone/Fax (1) 1419**] (Phone # [**Telephone/Fax (1) 457**]).\n\n\n\n"
+    },
+    {
+      "note_id": 98302,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 213,
+          "end": 216,
+          "code": "93306",
+          "code_system": "CPT",
+          "description": "Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, complete, with spectral Doppler echocardiography, and with color flow Doppler echocardiography",
+          "type": "Human",
+          "covered_text": "TTE"
+        },
+        {
+          "begin": 965,
+          "end": 967,
+          "code": "G35",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple sclerosis",
+          "type": "Human",
+          "covered_text": "MS"
+        },
+        {
+          "begin": 969,
+          "end": 979,
+          "code": "I08.1",
+          "code_system": "ICD-10-CM",
+          "description": "Rheumatic disorders of both mitral and tricuspid valves",
+          "type": "Human",
+          "covered_text": "Trivial MR"
+        },
+        {
+          "begin": 1085,
+          "end": 1097,
+          "code": "I08.1",
+          "code_system": "ICD-10-CM",
+          "description": "Rheumatic disorders of both mitral and tricuspid valves",
+          "type": "Human",
+          "covered_text": "Mild [1+] TR"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: ? Right Ventricular Enlargement\nHeight: (in) 62\nWeight (lb): 130\nBSA (m2): 1.59 m2\nBP (mm Hg): 118/64\nHR (bpm): 94\nStatus: Inpatient\nDate/Time: [**2139-7-10**] at 09:44\nTest: TTE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Suboptimal\n\n\nINTERPRETATION:\n\nFindings:\n\nLEFT ATRIUM: Normal LA size.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.\n\nLEFT VENTRICLE: Normal LV wall thickness, cavity size and regional/global\nsystolic function (LVEF >55%). No resting LVOT gradient. No VSD.\n\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\n\nAORTA: Normal aortic diameter at the sinus level. Focal calcifications in\naortic root.\n\nAORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. No AR.\n\nMITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. Mild mitral\nannular calcification. Mild thickening of mitral valve chordae. Calcified tips\nof papillary muscles. No MS. Trivial MR.\n\nTRICUSPID VALVE: Normal tricuspid valve leaflets. Normal tricuspid valve\nsupporting structures. No TS. Mild [1+] TR. Normal PA systolic pressure.\n\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. No PS.\nPhysiologic PR. Normal main PA. No Doppler evidence for PDA\n\nPERICARDIUM: No pericardial effusion.\n\nGENERAL COMMENTS: Suboptimal image quality - poor echo windows. Suboptimal\nimage quality as the patient was difficult to position.\n\nConclusions:\nThe left atrium is normal in size. Left ventricular wall thickness, cavity\nsize and regional/global systolic function are normal (LVEF 60-70%). There is\nno ventricular septal defect. Right ventricular chamber size and free wall\nmotion are normal. The aortic valve leaflets (3) are mildly thickened but\naortic stenosis is not present. No aortic regurgitation is seen. The mitral\nvalve leaflets are mildly thickened. There is no mitral valve prolapse.\nTrivial mitral regurgitation is seen. The estimated pulmonary artery systolic\npressure is normal. There is no pericardial effusion.\n\n\n"
+    },
+    {
+      "note_id": 687504,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 265,
+          "end": 283,
+          "code": "G35",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple sclerosis",
+          "type": "Human",
+          "covered_text": "multiple sclerosis"
+        },
+        {
+          "begin": 285,
+          "end": 296,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "alzheimer's"
+        },
+        {
+          "begin": 300,
+          "end": 307,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "disease"
+        },
+        {
+          "begin": 309,
+          "end": 321,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 374,
+          "end": 383,
+          "code": "M54.9",
+          "code_system": "ICD-10-CM",
+          "description": "Dorsalgia, unspecified",
+          "type": "Human",
+          "covered_text": "back pain"
+        },
+        {
+          "begin": 385,
+          "end": 390,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 395,
+          "end": 404,
+          "code": "R41.0",
+          "code_system": "ICD-10-CM",
+          "description": "Disorientation, unspecified",
+          "type": "Human",
+          "covered_text": "confusion"
+        },
+        {
+          "begin": 2564,
+          "end": 2573,
+          "code": "M54.9",
+          "code_system": "ICD-10-CM",
+          "description": "Dorsalgia, unspecified",
+          "type": "Human",
+          "covered_text": "back pain"
+        },
+        {
+          "begin": 3982,
+          "end": 4013,
+          "code": "R94.31",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal electrocardiogram [ECG] [EKG]",
+          "type": "Human",
+          "covered_text": "borderline prolonged QTc at 470"
+        },
+        {
+          "begin": 4185,
+          "end": 4203,
+          "code": "G35",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple sclerosis",
+          "type": "Human",
+          "covered_text": "multiple sclerosis"
+        },
+        {
+          "begin": 4205,
+          "end": 4216,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "alzheimer's"
+        },
+        {
+          "begin": 4220,
+          "end": 4227,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "disease"
+        },
+        {
+          "begin": 4229,
+          "end": 4241,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 4294,
+          "end": 4303,
+          "code": "M54.9",
+          "code_system": "ICD-10-CM",
+          "description": "Dorsalgia, unspecified",
+          "type": "Human",
+          "covered_text": "back pain"
+        },
+        {
+          "begin": 4315,
+          "end": 4324,
+          "code": "R41.0",
+          "code_system": "ICD-10-CM",
+          "description": "Disorientation, unspecified",
+          "type": "Human",
+          "covered_text": "confusion"
+        },
+        {
+          "begin": 4358,
+          "end": 4363,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 4736,
+          "end": 4747,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Tachycardia"
+        }
+      ],
+      "text": "Chief Complaint:\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   80 year old female with a history of multiple sclerosis, alzheimer's\n   disease, hypertension who presents from a nursing home with one day of\n   back pain, fever and confusion.\n   24 Hour Events: 2/2 blood cultures positive for GPC\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefipime - [**2139-7-8**] 12:00 AM\n   Vancomycin - [**2139-7-8**] 01:00 AM\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2139-7-8**] 06:00 AM\n   Other medications:\n   vancomycin IV, CTX IV, ASA 325, Synthroid, Aricept, CaHCO3, Colace,\n   Namenda, Simvastatin, Thiamine, MVI, Folate, Cymbalta\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2139-7-8**] 09:37 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.7\nC (99.8\n   Tcurrent: 37\nC (98.6\n   HR: 81 (78 - 93) bpm\n   BP: 130/58(77) {96/49(61) - 130/73(83)} mmHg\n   RR: 18 (13 - 18) insp/min\n   SpO2: 96%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n             3,410 mL\n   PO:\n             160 mL\n   TF:\n   IVF:\n   250 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    265 mL\n   Urine:\n   265 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  3,145 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 96%\n   ABG: ///27/\n   Physical Examination\n   General Appearance: No acute distress\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Normocephalic\n   Cardiovascular: (S1: Normal), (S2: Loud), prominent JV pulsation\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:\n   Present)\n   Respiratory / Chest: (Breath Sounds: Clear : )\n   Abdominal: Soft, No(t) Non-tender, Bowel sounds present\n   Extremities: Right: Absent, Left: Absent\n   Musculoskeletal: c/o severe back pain with limited exam\n   Skin:  Not assessed\n   Neurologic: Attentive, Follows simple commands, Responds to: Not\n   assessed, Movement: Not assessed, Tone: Not assessed\n   Labs / Radiology\n   11.3 g/dL\n   309 K/uL\n   120 mg/dL\n   0.7 mg/dL\n   27 mEq/L\n   3.6 mEq/L\n   14 mg/dL\n   105 mEq/L\n   140 mEq/L\n   34.8 %\n   10.9 K/uL\n        [image002.jpg]\n                             [**2139-7-8**]  04:08 AM\n   WBC\n   10.9\n   Hct\n   34.8\n   Plt\n   309\n   Cr\n   0.7\n   Glucose\n   120\n   Other labs: Differential-Neuts:80.9%, Lactic Acid:1.5 mmol/L, Ca++:8.0\n   mg/dL, Mg++:1.8 mg/dL, PO4:3.1 mg/dL\n   Imaging: Imaging: CTA (wetread): equivocal subsegmental pulmonary\n   embolism in a right upper lobe branch (3:38, 402b:54) may reflect\n   volume averaging artifact. no large PE. bibasilar atlectesis. no acute\n   aortic pathology.\n   CXR Portable: Cardiac size is top limits of normal. The aorta is\n   tortuous with aortic knob calcifications redemonstrated. Aside from\n   minimal subsegmental atelectasis in the left lower lobe, the lungs are\n   clear without focal consolidation. No pleural effusion or pneumothorax\n   is seen.  The pulmonary vascularity is normal. The osseous structures\n   are unremarkable.\n   Microbiology: Microbiology: UA trace positive, culture pending, [**12-26**]\n   blood cx + for GPCs in clusters\n   ECG: ECG: probable sinus tachycardia versus regular SVT at 148,\n   borderline left axis, borderline prolonged QTc at 470, no St segment\n   elevation or depression, compared with prior dated [**2138-2-25**] the rate is\n   faster.\n   Assessment and Plan\n   80 year old female with a history of multiple sclerosis, alzheimer's\n   disease, hypertension who presents from a nursing home with one day of\n   back pain, fever and confusion.\n   Back pain: in the context of fever and positive blood cultures, we need\n   to exclude a paraspinal infection. Also consider compression frx\n   -MRI t/l spine\n   - Vicodin 5-500 [**Hospital1 **] and Q4H:PRN for pain\n   -f/u cultures\n   Will request Dr [**Last Name (STitle) 7737**] to see ( know to him for MS) while she is in\n   house\n   Possible UTI:\n   -f/u urine cx\n   -covered by vanco + CTX for now\n   Tachycardia:\n   -w/ some R-sided prominence on CXR and loud S2 w/ bounding JVP will\n   check echo today\n   remainder of plan as per housestaff note\n   ICU Care\n   Nutrition:\n   Comments: po diet\n   Glycemic Control:  Blood sugar well controlled\n   Lines:\n   20 Gauge - [**2139-7-8**] 02:01 AM\n   18 Gauge - [**2139-7-8**] 02:03 AM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer: Not indicated\n   VAP: HOB elevation\n   Comments:\n   Communication:  Comments:\n   Code status: DNR / DNI\n   Disposition :Transfer to floor\n   Total time spent: 35 minutes\n"
+    },
+    {
+      "note_id": 687478,
+      "category": "Case Management",
+      "description": "Case Management Initial Assessment",
+      "annotations": [
+        {
+          "begin": 102,
+          "end": 123,
+          "code": "G35",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple sclerosis",
+          "type": "Human",
+          "covered_text": "multiple\n   sclerosis"
+        },
+        {
+          "begin": 125,
+          "end": 134,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer"
+        },
+        {
+          "begin": 125,
+          "end": 144,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "Alzheimer\ns disease"
+        },
+        {
+          "begin": 149,
+          "end": 161,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 214,
+          "end": 223,
+          "code": "M54.9",
+          "code_system": "ICD-10-CM",
+          "description": "Dorsalgia, unspecified",
+          "type": "Human",
+          "covered_text": "back pain"
+        },
+        {
+          "begin": 225,
+          "end": 230,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 235,
+          "end": 244,
+          "code": "R41.0",
+          "code_system": "ICD-10-CM",
+          "description": "Disorientation, unspecified",
+          "type": "Human",
+          "covered_text": "confusion"
+        }
+      ],
+      "text": "TITLE:  Case Management Initial Assessment\n   The patient is and 80 year old female with a history of multiple\n   sclerosis, Alzheimer\ns disease and hypertension who presents from a\n   nursing home with one day of back pain, fever and confusion.\n   The patient is a long term care resident at [**Hospital 1654**] Health Care Center.\n   She is on a 10-day Medicaid bed hold there and the plan will be for her\n   to return to the facility when clinically appropriate.  The\n   HealthBridge liaison has been notified and will follow to assist in\n   facilitating the patient\ns return.  NCM will follow also.\n   Please page/call for any case management needs.\n   [**First Name11 (Name Pattern1) 596**] [**Last Name (NamePattern4) 5890**], RN, BSN\n   MICU Service Case Manager\n   Phone:  2-7925/7-0306\n   Pager:  [**Numeric Identifier **]\n"
+    },
+    {
+      "note_id": 687463,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 265,
+          "end": 283,
+          "code": "G35",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple sclerosis",
+          "type": "Human",
+          "covered_text": "multiple sclerosis"
+        },
+        {
+          "begin": 285,
+          "end": 296,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "alzheimer's"
+        },
+        {
+          "begin": 300,
+          "end": 307,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "disease"
+        },
+        {
+          "begin": 309,
+          "end": 321,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 374,
+          "end": 383,
+          "code": "M54.9",
+          "code_system": "ICD-10-CM",
+          "description": "Dorsalgia, unspecified",
+          "type": "Human",
+          "covered_text": "back pain"
+        },
+        {
+          "begin": 385,
+          "end": 390,
+          "code": "R50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Fever, unspecified",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 395,
+          "end": 404,
+          "code": "R41.0",
+          "code_system": "ICD-10-CM",
+          "description": "Disorientation, unspecified",
+          "type": "Human",
+          "covered_text": "confusion"
+        },
+        {
+          "begin": 2528,
+          "end": 2537,
+          "code": "M54.9",
+          "code_system": "ICD-10-CM",
+          "description": "Dorsalgia, unspecified",
+          "type": "Human",
+          "covered_text": "back pain"
+        },
+        {
+          "begin": 3946,
+          "end": 3977,
+          "code": "R94.31",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal electrocardiogram [ECG] [EKG]",
+          "type": "Human",
+          "covered_text": "borderline prolonged QTc at 470"
+        },
+        {
+          "begin": 4149,
+          "end": 4167,
+          "code": "G35",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple sclerosis",
+          "type": "Human",
+          "covered_text": "multiple sclerosis"
+        },
+        {
+          "begin": 4169,
+          "end": 4180,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "alzheimer's"
+        },
+        {
+          "begin": 4184,
+          "end": 4191,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "disease"
+        },
+        {
+          "begin": 4193,
+          "end": 4205,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 4279,
+          "end": 4288,
+          "code": "R41.0",
+          "code_system": "ICD-10-CM",
+          "description": "Disorientation, unspecified",
+          "type": "Human",
+          "covered_text": "confusion"
+        },
+        {
+          "begin": 4597,
+          "end": 4608,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Tachycardia"
+        }
+      ],
+      "text": "Chief Complaint:\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   80 year old female with a history of multiple sclerosis, alzheimer's\n   disease, hypertension who presents from a nursing home with one day of\n   back pain, fever and confusion.\n   24 Hour Events:\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefipime - [**2139-7-8**] 12:00 AM\n   Vancomycin - [**2139-7-8**] 01:00 AM\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2139-7-8**] 06:00 AM\n   Other medications:\n   vancomycin IV, CTX IV, ASA 325, Synthroid, Aricept, CaHCO3, Colace,\n   Namenda, Simvastatin, Thiamine, MVI, Folate, Cymbalta\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2139-7-8**] 09:37 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.7\nC (99.8\n   Tcurrent: 37\nC (98.6\n   HR: 81 (78 - 93) bpm\n   BP: 130/58(77) {96/49(61) - 130/73(83)} mmHg\n   RR: 18 (13 - 18) insp/min\n   SpO2: 96%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n             3,410 mL\n   PO:\n             160 mL\n   TF:\n   IVF:\n   250 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    265 mL\n   Urine:\n   265 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  3,145 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 96%\n   ABG: ///27/\n   Physical Examination\n   General Appearance: No acute distress\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Normocephalic\n   Cardiovascular: (S1: Normal), (S2: Loud), prominent JV pulsation\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:\n   Present)\n   Respiratory / Chest: (Breath Sounds: Clear : )\n   Abdominal: Soft, No(t) Non-tender, Bowel sounds present\n   Extremities: Right: Absent, Left: Absent\n   Musculoskeletal: c/o severe back pain with limited exam\n   Skin:  Not assessed\n   Neurologic: Attentive, Follows simple commands, Responds to: Not\n   assessed, Movement: Not assessed, Tone: Not assessed\n   Labs / Radiology\n   11.3 g/dL\n   309 K/uL\n   120 mg/dL\n   0.7 mg/dL\n   27 mEq/L\n   3.6 mEq/L\n   14 mg/dL\n   105 mEq/L\n   140 mEq/L\n   34.8 %\n   10.9 K/uL\n        [image002.jpg]\n                             [**2139-7-8**]  04:08 AM\n   WBC\n   10.9\n   Hct\n   34.8\n   Plt\n   309\n   Cr\n   0.7\n   Glucose\n   120\n   Other labs: Differential-Neuts:80.9%, Lactic Acid:1.5 mmol/L, Ca++:8.0\n   mg/dL, Mg++:1.8 mg/dL, PO4:3.1 mg/dL\n   Imaging: Imaging: CTA (wetread): equivocal subsegmental pulmonary\n   embolism in a right upper lobe branch (3:38, 402b:54) may reflect\n   volume averaging artifact. no large PE. bibasilar atlectesis. no acute\n   aortic pathology.\n   CXR Portable: Cardiac size is top limits of normal. The aorta is\n   tortuous with aortic knob calcifications redemonstrated. Aside from\n   minimal subsegmental atelectasis in the left lower lobe, the lungs are\n   clear without focal consolidation. No pleural effusion or pneumothorax\n   is seen.  The pulmonary vascularity is normal. The osseous structures\n   are unremarkable.\n   Microbiology: Microbiology: UA trace positive, culture pending, [**12-26**]\n   blood cx + for GPCs in clusters\n   ECG: ECG: probable sinus tachycardia versus regular SVT at 148,\n   borderline left axis, borderline prolonged QTc at 470, no St segment\n   elevation or depression, compared with prior dated [**2138-2-25**] the rate is\n   faster.\n   Assessment and Plan\n   80 year old female with a history of multiple sclerosis, alzheimer's\n   disease, hypertension who presents from a nursing home with one day of\n   back pain, fever and confusion.\n   Back pain: in the context of fever and positive blood cultures, we need\n   to exclude a paraspinal infection. Also consider compression frx\n   -MRI t/l spine\n   - Vicodin 5-500 [**Hospital1 **] and Q4H:PRN for pain\n   -f/u cultures\n   Possible UTI:\n   -f/u urine cx\n   -covered by vanco + CTX for now\n   Tachycardia:\n   -w/ some R-sided prominence on CXR and loud S2 w/ bounding JVP will\n   check echo today\n   remainder of plan as per housestaff note\n   ICU Care\n   Nutrition:\n   Comments: po diet\n   Glycemic Control:  Blood sugar well controlled\n   Lines:\n   20 Gauge - [**2139-7-8**] 02:01 AM\n   18 Gauge - [**2139-7-8**] 02:03 AM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer: Not indicated\n   VAP: HOB elevation\n   Comments:\n   Communication:  Comments:\n   Code status: DNR / DNI\n   Disposition :Transfer to floor\n   Total time spent: 35 minutes\n"
+    },
+    {
+      "note_id": 687384,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 87,
+          "end": 105,
+          "code": "G35",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple sclerosis",
+          "type": "Human",
+          "covered_text": "multiple sclerosis"
+        },
+        {
+          "begin": 110,
+          "end": 121,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "alzheimer's"
+        }
+      ],
+      "text": "Chief Complaint:  Back Pain\n   HPI:\n   This is an 80 year old female with a history of multiple sclerosis,\n   alzheimer's disease, hypertension who presents from a nursing home with\n   one day of back pain.  Per staff at her nursing home she was in her\n   usual state of health until the day prior to presentation when she\n   began to complain of back pain.  She was unable to clarify further.\n   Her temperature was 100.4 with blood pressure 162/82.  She received\n   vicodin and tylenol without improvement.  At baseline she is alert,\n   oriented but does not ambulate.  She is able to eat by herself but is\n   incontinent of urine and stools.  She was transferred to [**Hospital3 389**]\n   for further management.\n   In the ED, initial vs were: T: 98.0 P: 90 BP: 104/69 R: 16 O2 sat: 92%\n   on RA. She became tachycardic to the 140s (sinus tachycardia) with\n   stable blood pressures and spiked a fever to 101.5.  Her antibiotics\n   were broadened to vancomycin and cefepime and she had a CT of the chest\n   with contrast which was not timed appropriately and did not show a\n   large pulmonary embolism but could not rule out a small pulmonary\n   embolism. She also received 2 mg morphine, tylenol, ciprofloxacin 500\n   mg x 1, morphine 2 mg IV x 1 and haldol 2.5 mg IV x 1.  She received 2\n   liters of IV with improvement in her heart rate to the high 100s.  She\n   was admitted to the ICU for further management.\n   On the floor, she is unable to clarify further.  She says that she has\n   been having back pain for 2-3 days.  The pain is in her bilateral\n   back.  It is worse with movement.  It was not associated with any\n   trauma that she recalls.  She denies fevers, chills, lightheadedness,\n   dizziness, chest pain, difficulty breathing, nausea, vomiting,\n   abdominal pain, diarrhea, constipation, dysuria, hematuria, leg pain or\n   swelling.\n   Patient admitted from: [**Hospital1 5**] ER\n   History obtained from [**Hospital 19**] Medical records\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefipime - [**2139-7-8**] 12:00 AM\n   Vancomycin - [**2139-7-8**] 01:00 AM\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Home Medications:\n   Cymbalta 30 mg daily\n   Folic Acid 1 mg daily\n   Loratadine 10 mg daily\n   Multivitamin\n   Thiamine 100mg daily\n   Simvastatin 40 mg dialy\n   Vicodin 5-500 [**Hospital1 **] and Q4H:PRN\n   Namenda 10 mg [**Hospital1 **]\n   Lorazepam 0.5 mg Q6H:PRN\n   Prochlorperazine 10 mg Q6H:PRN\n   Tylenol 650 mg PRN\n   Milk of Magnesia 400 mg daily:PRN\n   Bisacodyl 10 mg PR daily:PRN\n   Fleets enema PRN\n   Senna PRN\n   Calcium 500 mg TId\n   Detrol 4 mg QHS\n   Aricept 10 mg QHS\n   Levothyroxine 125 mcg daily\n   Colace\n   Aspirin 325 mg daily\n   Vitamin D 50,000 q month\n   Past medical history:\n   Family history:\n   Social History:\n   Multiple sclerosis\n   Coronary Artery Disease\n   Hypertension\n   Hyperlipidemia\n   Osteoporosis\n   Hypothyroidism\n   Depression\n   Chronic sinusitis and allergic rhinitis.\n   Endometriosis, status post laparoscopy.\n   Dysfunctional uterine bleeding\n   Coronary artery disease in brother.  Possible MS in a deceased sister.\n   Occupation: Retired, used to work in medical office.\n   Drugs: None\n   Tobacco: Remote, < 5 pack years\n   Alcohol: Remote\n   Other: Lives in nursing home\n   Review of systems:\n   Constitutional: Fever\n   Ear, Nose, Throat: No(t) OG / NG tube\n   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,\n   Tachycardia, No(t) Orthopnea\n   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze\n   Gastrointestinal: Abdominal pain, No(t) Nausea, No(t) Emesis, No(t)\n   Diarrhea, No(t) Constipation\n   Genitourinary: No(t) Dysuria, Foley\n   Integumentary (skin): No(t) Jaundice, No(t) Rash\n   Endocrine: No(t) Hyperglycemia, History of thyroid disease\n   Heme / Lymph: No(t) Anemia\n   Neurologic: No(t) Headache\n   Allergy / Immunology: No(t) Immunocompromised\n   Pain: [**2-25**] Mild\n   Pain location: Diffuse back pain\n   Flowsheet Data as of [**2139-7-8**] 03:32 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.7\nC (99.8\n   Tcurrent: 37.7\nC (99.8\n   HR: 89 (89 - 93) bpm\n   BP: 109/58(70) {109/58(70) - 114/73(83)} mmHg\n   RR: 16 (14 - 17) insp/min\n   SpO2: 95%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n             3,250 mL\n   PO:\n             TF:\n   IVF:\n   250 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                     50 mL\n   Urine:\n   50 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  3,200 mL\n   Respiratory\n   O2 Delivery Device: Nasal cannula\n   SpO2: 95%\n   Physical Examination\n   Vitals: T: 99.8 BP: 109/68 P: 89 R: 16 O2: 95% on RA\n   General: Alert, oriented to person and hospital, not [**Hospital1 5**], date or\n   year, speech slurred (noted in previous neurologic exams)\n   HEENT: Sclera anicteric, MMM, oropharynx clear\n   Neck: supple, JVP not elevated, no LAD\n   Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi\n   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops\n   Abdomen:  soft, tender in epigastric region and right upper quadrant,\n   non-distended, bowel sounds present, no rebound tenderness or guarding,\n   no organomegaly\n   GU: foley draining [**Location (un) 257**] urine (received pyridium in ER)\n   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema,\n   excoriations throughout\n   Back:  Pain in paraspinal region bilaterally, no flank pain\n   Neurologic:  CN II-XII tested and intact, strength 5/5 throughout,\n   sensation intact across all dermatomes, reflexes 2+ and symmetric,\n   unable to assess gait\n   Labs / Radiology\n   338\n   118\n   1.0\n   22\n   29\n   101\n   3.6\n   140\n   37.1\n   12.2\n        [image002.jpg]\n   Other labs: Differential-Neuts:80.9, Lymph:12.4, Mono:5.4, Eos:1.0,\n   Lactic Acid:1.5 mmol/L\n   Imaging: CTA (wetread): equivocal subsegmental pulmonary embolism in a\n   right upper lobe branch (3:38, 402b:54) may reflect volume averaging\n   artifact. no large PE. bibasilar atlectesis. no acute aortic pathology.\n   CXR Portable: Cardiac size is top limits of normal. The aorta is\n   tortuous with aortic knob calcifications\n   redemonstrated. Aside from minimal subsegmental atelectasis in the left\n   lower lobe, the lungs are clear without focal consolidation. No pleural\n   effusion or pneumothorax is seen.  The pulmonary vascularity is normal.\n   The osseous structures are unremarkable.\n   Microbiology: UA trace positive, culture pending\n   Blood cultures pending\n   ECG: probable sinus tachycardia versus regular SVT at 148, borderline\n   left axis, borderline prolonged QTc at 470, no St segment elevation or\n   depression, compared with prior dated [**2138-2-25**] the rate is faster.\n   Assessment and Plan\n   Assessment and Plan:  80 year old female with a history of multiple\n   sclerosis, alzheimer's disease, hypertension who presents from a\n   nursing home with one day of back pain, fever and confusion.\n   .\n   Back Pain:  Etiology unclear.  Exam notable for bilateral paraspinal\n   tenderness with normal strength and sensation on exam.  Spiked a\n   temperature in the emergency room with associated tachycardia.\n   Although urinarlysis is positive, bilateral nature makes pyelonephritis\n   unlikely.  Most concerning etiology of back pain would be epidural\n   abscess but lack of findings on neurologic exam and significant\n   paraspinal muscle tenderness makes this less likely.  Most likely\n   etiology would be musculoskeletal back pain but this is a diagnosis of\n   exclusion.  Given history of osteoporosis, compression fracture is\n   possible but preliminarily no evidence on CT chest.\n   - Vicodin 5-500 [**Hospital1 **] and Q4H:PRN for pain\n   - LFTs, lipase\n   - blood and urine cultures pending\n   - ciprofloxacin for positive urinalysis\n   - consider lumbar/thoracic spine films in AM to assess for compression\n   fracture\n   - if persistent fevers or change in neurologic exam will need to\n   consider MRI to assess for epidural abscess\n   Low Grade Fevers:  As above, unclear etiology.  [**Month (only) 8**] be related to\n   urinary tract infection.  Blood and urine cultures pending. Only\n   localizing symptom is back pain, epigastric pain on exam.\n   - LFTs, lipase pending\n   - trend fever curve\n   - ciprofloxacin for postiive UA\n   - consider additional abdominal or spine imaging if clinical course\n   worsens\n   Tachycardia: Unable to identify clear p waves but regular rhythm.  Now\n   resolved with IVF.  Associated with fevers.\n   - IVF for tachycardia\n   Positive Urinalysis:  Trace positive, culture pending.  Given back\n   pain, possible altered mental status will treat pending culture data.\n   - ciprofloxacin day [**12-31**]\n   - follow urine culture\n   Coronary Artery Disease:  Details unclear.  [**Name2 (NI) **] ischemic changes on EKG.\n   - continue aspirin 325 mg daily\n   Hyperlipidemia\n   - Simvastatin 40 mg dialy\n   Osteoporosis:\n   - continue calcium and vitamin D\n   Hypothyroidism\n   - Continue levothyroxine 125 mcg daily\n   Depression:\n   - Cymbalta 30 mg daily\n   Dementia:\n   - Namenda 10 mg [**Hospital1 **]\n   - Aricept 10 mg QHS\n   FEN: No IVF, replete electrolytes, regular diet\n   Prophylaxis: Subutaneous heparin\n   Access: peripherals\n   Code:  DNR/DNI (discussed with nursing home)\n   Communication: Patient, [**Name (NI) 313**] [**Last Name (NamePattern1) 7714**] [**Telephone/Fax (1) 7715**] (temporary legal\n   guardian)\n   Disposition: pending clinical improvement\n   ICU Care\n   Nutrition:\n   Glycemic Control: Blood sugar well controlled\n   Lines:\n   20 Gauge - [**2139-7-8**] 02:01 AM\n   18 Gauge - [**2139-7-8**] 02:03 AM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin(Systemic anticoagulation: None)\n   Stress ulcer: Not indicated\n   VAP:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status: DNR / DNI\n   Disposition: ICU\n"
+    }
+  ]
+}

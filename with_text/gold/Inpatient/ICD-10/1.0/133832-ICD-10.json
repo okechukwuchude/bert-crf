@@ -1,0 +1,104 @@
+{
+  "hadm_id": 133832,
+  "comment": "EGD report not available",
+  "notes": [
+    {
+      "note_id": 26933,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 259,
+          "end": 277,
+          "code": "F10.139",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol abuse with withdrawal, unspecified",
+          "type": "Human",
+          "covered_text": "Alcohol Withdrawal"
+        },
+        {
+          "begin": 317,
+          "end": 332,
+          "code": "0DJ08ZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Inspection of Upper Intestinal Tract, Via Natural or Artificial Opening Endoscopic",
+          "type": "Human",
+          "covered_text": "Upper Endoscopy"
+        },
+        {
+          "begin": 2513,
+          "end": 2517,
+          "code": "J44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic obstructive pulmonary disease, unspecified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 2520,
+          "end": 2530,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 2796,
+          "end": 2802,
+          "code": "F17.200",
+          "code_system": "ICD-10-CM",
+          "description": "Nicotine dependence, unspecified, uncomplicated",
+          "type": "Human",
+          "covered_text": "smokes"
+        },
+        {
+          "begin": 4834,
+          "end": 4840,
+          "code": "30233N1",
+          "code_system": "ICD-10-PCS",
+          "description": "Transfusion of Nonautologous Red Blood Cells into Peripheral Vein, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "PRBC's"
+        },
+        {
+          "begin": 5116,
+          "end": 5142,
+          "code": "I85.10",
+          "code_system": "ICD-10-CM",
+          "description": "Secondary esophageal varices without bleeding",
+          "type": "Human",
+          "covered_text": "grade I esophageal varices"
+        },
+        {
+          "begin": 6386,
+          "end": 6405,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute renal failure"
+        },
+        {
+          "begin": 8454,
+          "end": 8468,
+          "code": "K26.4",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic or unspecified duodenal ulcer with hemorrhage",
+          "type": "Human",
+          "covered_text": "Duodenal ulcer"
+        },
+        {
+          "begin": 8491,
+          "end": 8510,
+          "code": "K70.30",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic cirrhosis of liver without ascites",
+          "type": "Human",
+          "covered_text": "Alcoholic Cirrhosis"
+        }
+      ],
+      "text": "Admission Date:  [**2111-4-6**]              Discharge Date:   [**2111-4-9**]\n\nDate of Birth:  [**2062-11-2**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nSulfa (Sulfonamide Antibiotics)\n\nAttending:[**First Name3 (LF) 1377**]\nChief Complaint:\nMelena, Alcohol Withdrawal\n\nMajor Surgical or Invasive Procedure:\nUpper Endoscopy\n\nHistory of Present Illness:\n48 yo with hx ETOH abuse complicated by cirrhosis and ascites\ns/p TIPS in [**5-19**] presenting with GIB.  Pt was in his usual state\nof health until 2.5 weeks ago, he began to note diffuse\nabdominal pain.  This was accompanied by increasing\nconstipation, self-medicated with increasing doses of lactulose\nto 30 cc every 3-4 hours.  Due to increasing pain and\nconstipation, his PO intake has been minimal and he has\ndiscontinued all of his PO medications.  Abdominal pain was\naccompanied by nausea, and vomitting of muddy material.  Also\nduring this same time course, he has noted black stools.  At\napproximately 2 AM, he began to have frankly bloody stools with\nclots and thus came into the hospital.  His last ETOH\nconsumption was at approximately 7 PM yesterday.  Of note, he\nhas been taking ibuprofen 1200 mg [**Hospital1 **] for the last few weeks\nafter running out of his percocet.  He has been on percocet for\nchronic knee pain.  Per pt, last EGD a few years ago at [**Hospital1 2025**] that\nwas unremarkable per his knowledge.\n.\nReview of systems is positive for increasing abdominal girth in\nthe last 4 days.  His last paracentesis was one month ago with\n1.5 L removed.  Denies fevers, chills, cough, chest pain,\nshortness of breath.\n.\nEDVS 99/50, SBP subsequently dropped to 80s, HR 110s, temp 98.1,\n100% RA, RR 16.  He passed multiple frankly bloody stools, NG\nlavage with coffee ground emesis, not clearing with 500cc NS.\nGiven 5 L IVF with recovery of SBP to 110s.  Given protonix 80\nIV, started on protonix gtt, octreotide, dilaudid 0.5 IV, pIV 18\nand 16g.  Labs pending at time of transfer, typed and crossed\nfor 4 units.  Per GI, plan to scope ASAP in MICU.  US performed\nwith read pending at time of transfer.\n.\nOn the floor, he reports continued abdominal discomfort,\nrequesting diluadid (noting that he usually takes 6 mg IV prn\nwhen in the hospital).  Also feeling anxious and tremulous.\nLast bloody BM in the ER about 1 hour ago.\n\nPast Medical History:\n- Cirrhosis [**1-13**] to ETOH: Diagnosed a few years ago,\nradiographically, no history of biopsy.  TIPS in [**5-19**], recurrent\nascites requiring frequent paracentesis.\n- Mild COPD\n- Depression\n- EtOH abuse: Drinks [**12-13**] gallon vodka x >25 years, started\ndrinking at age 14.\n- [**2110-9-24**] Incarcerated right inguinal hernia repair with\nmesh.\n\n\nSocial History:\nLives alone with a cat, drinks daily 1 pint to [**12-13**] quart of\n\"cheap vodka\" daily, smokes [**12-13**] ppd, occ MJ, denies IV drug use.\n Has history of withdrawl seizures.\n\nFamily History:\nfather died from complications of diabetes, has 2 sisters and\nbrother with limited to no contact.\n\nPhysical Exam:\nVSS:  112/70 HR 90 95% RA RR 13 T 96.2\nGen: NAD, tremulous\nHEENT: Scleral icterus, sublingual icterus\nChest: Coarse breath sounds throughout\nCV: RRR, S1/S2, no m/r/g\nAbd: +Distended, firm, mild tenderness diffusely, no rebound or\nguarding. +Reducible umbilical hernia.\nExt: No edema, no asterixis\nNeuro: AOx3, CNS [**2-20**] grossly intact\n\nPertinent Results:\nAdmission Labs:\n[**2111-4-6**] 06:48AM BLOOD WBC-11.0# RBC-2.61*# Hgb-8.6*# Hct-25.0*#\nMCV-96# MCH-33.1* MCHC-34.7 RDW-16.8* Plt Ct-130*\n[**2111-4-6**] 06:48AM BLOOD Neuts-72.7* Lymphs-19.5 Monos-5.5 Eos-1.9\nBaso-0.4\n[**2111-4-6**] 06:48AM BLOOD PT-16.0* PTT-33.3 INR(PT)-1.4*\n[**2111-4-6**] 06:48AM BLOOD Glucose-112* UreaN-51* Creat-1.4* Na-134\nK-3.0* Cl-92* HCO3-30 AnGap-15\n[**2111-4-6**] 06:48AM BLOOD ALT-105* AST-487* AlkPhos-586*\nTotBili-5.6* DirBili-4.0* IndBili-1.6\n[**2111-4-6**] 06:48AM BLOOD Albumin-3.2* Calcium-8.1* Phos-1.9*\nMg-2.0\n.\nLFT Trend:\n[**2111-4-6**] 06:48AM BLOOD ALT-105* AST-487* AlkPhos-586*\nTotBili-5.6* DirBili-4.0* IndBili-1.6\n[**2111-4-6**] 05:39PM BLOOD ALT-92* AST-411* LD(LDH)-314*\nAlkPhos-496* TotBili-6.3*\n[**2111-4-7**] 04:39AM BLOOD ALT-84* AST-349* LD(LDH)-273*\nAlkPhos-453* TotBili-7.0* DirBili-4.6* IndBili-2.4\n[**2111-4-7**] 11:36AM BLOOD ALT-84* AST-339* AlkPhos-451*\nTotBili-6.8*\n.\nHematocrit Trend:\n[**2111-4-6**] 06:48AM Hct-25.0\n[**2111-4-6**] 12:46PM Hct-26.5\n[**2111-4-6**] 05:39PM Hct-24.3*\n[**2111-4-6**] 11:57PM Hct-27.5*\n[**2111-4-7**] 04:39AM Hct-26.4\n[**2111-4-7**] 11:38AM Hct-26.6*\n\nBrief Hospital Course:\n48 yo with hx ETOH abuse complicated by cirrhosis and ascites\ns/p TIPS in [**5-19**] presenting with melena and hematochezia.\n.\n# UGIB - No prior history of UGIB.  Known cirrhosis s/p TIPS,\nultrasound on admission showed patent TIPS but with decreased\nvelocity.  He was transfused two units of PRBC's on admission,\nstarted on both octreotide and PPI drips.  In addition to\ncirrhosis, the patient also had active alcohol use and high dose\nNSAID use.  He was seen by the liver service and underwent an\nurgent upper endoscopy that showed duodenal ulcers with no\nactive bleeding, grade I esophageal varices with no stigmata of\nrecent bleeding, and one ulcer with clot indicating likely\nsource of recent GIB. Pt received 3 units PRBC in MICU total,\nhct stable and increased appropriately with transfusion\npost-EGD. Melena thought to be [**1-13**] resolving UGIB from ulcers\nrather than new lower GIB. He was transitioned to po PPI with a\nstable hct, continued on Ceftriaxone which was transitioned to\nCipro, and discharged with outpatient followup.\n.\n# Cirrhosis - Cirrhosis felt to be secondary to ETOH abuse.\nCurrently with acute elevation of liver enzymes, with AST/ALT\nratio > 2 and elevated bilirubin. Acute decompensation maybe\nrelated to TIPS stenosis, ETOH hepatitis, infection. Also with\nmild synthetic dysfunction. RUQ US for TIPS patency showed\nslowed velocity, and patient will need IR TIPS venogram once\nstable as an outpatient. US showed insufficient ascites for\nparacentesis, unlikely to be SBP.\n.\n# Alcohol abuse - Tremulous, last drink the afternoon prior to\nadmission.  He was initially managed on a Q1h CIWA scale, but\nwas quickly able to be tapered to a Q4h CIWA scale, he was\ninitially given a banana bag, then maintained on folic acid, MVI\nand thiamine daily.  He was stable at the time of discharge\nwithout need for Valium.\n.\n# Acute renal failure - Likely pre-renal in setting of GIB and\npoor PO intake, FeUrea was 4.8%, consistent with a prerenal\netiology and his creatinine improved with blood transfusions and\nIV fluids.\n\n\nMedications on Admission:\nCurrent Medications:  As noted above, he has discontinued his\nmedications as of several weeks ago.  This is his last\nmedication list from [**9-19**].\nCholestyramine-Sucorse 4 gm [**Hospital1 **]\nThiamine 100\nFurosemide 40 [**Hospital1 **]\nOmeprazole 20\nMVI\nLactulose 30\nSimethicone 80\nFolic acid 1 mg\nSpirnolactone 200 daily\nQuetiapine 25 TID\nFluticasone-salmeterol 250/50 [**Hospital1 **]\nAlbuterolo 1 puff q6H\nCalcium/vit D\n\nDischarge Medications:\n1. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:\nOne (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).\n2. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n3. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. Cholestyramine-Sucrose 4 gram Packet Sig: One (1)  PO twice a\nday.\n5. Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO twice a day.\nDisp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*2*\n6. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3\ntimes a day).\n7. Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet,\nChewable PO once a day.\n8. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n9. Spironolactone 100 mg Tablet Sig: One (1) Tablet PO once a\nday.\nDisp:*30 Tablet(s)* Refills:*0*\n10. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO three times a\nday.\n11. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\n1-2 Puffs Inhalation every four (4) hours as needed for\nwheezing.\n12. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times\na day).\nDisp:*120 Tablet(s)* Refills:*0*\n13. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*0*\n14. Endocet 5-325 mg Tablet Sig: One (1) Tablet PO every eight\n(8) hours as needed for pain.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nGastrointestinal bleed\nDuodenal ulcer\n\nSecondary Diagnosis:\nAlcoholic Cirrhosis\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to the hospital for abdominal pain and bloody\nbowel movements.  You underwent an upper endoscopy which showed\nulcers in your small intestine.  You were treated with\nmedications for the ulcer with resolution of your bloody bowel\nmovements.\n\nThe following medication changes were made:\n- Omeprazole was increased in dose to 40mg and changed to twice\ndaily\n- Sucralfate was added\n- Spironolactone 100mg daily was added\n- Lasix 40mg daily was added\n\nFollowup Instructions:\nYou have the following appointments scheduled:\nDr. [**Last Name (STitle) **] on Tuesday [**4-14**] at 9am\nLiver Center\n([**Telephone/Fax (1) 1582**]\n\nYou should also follow up with your primary care physician\n[**Last Name (NamePattern4) **]. [**Last Name (STitle) **], [**First Name3 (LF) **] T.\n[**Telephone/Fax (1) 22331**]\n\n\n                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(1) 1379**]\n\n"
+    }
+  ]
+}

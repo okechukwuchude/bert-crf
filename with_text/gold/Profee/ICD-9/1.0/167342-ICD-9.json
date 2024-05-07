@@ -1,0 +1,921 @@
+{
+  "hadm_id": 167342,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1202311,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 35,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST PORT"
+        },
+        {
+          "begin": 195,
+          "end": 203,
+          "code": "208.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified leukemia without mention of remission",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "LEUKEMIA"
+        },
+        {
+          "begin": 394,
+          "end": 399,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 640,
+          "end": 648,
+          "code": "208.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified leukemia without mention of remission",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "leukemia"
+        }
+      ],
+      "text": "[**2131-8-15**] 6:39 PM\n CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 23937**]\n Reason: eval line placement, infiltrate\n Admitting Diagnosis: LEUKEMIA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with new dx leukemia with new right central line and fever\n REASON FOR THIS EXAMINATION:\n  eval line placement, infiltrate\n ______________________________________________________________________________\n                                 FINAL REPORT\n CHEST RADIOGRAPH\n\n INDICATION:  New diagnosis of leukemia, new right central line, fever.\n\n COMPARISON:  No comparison available at the time of dictation.\n\n FINDINGS:  The patient has received a new right subclavian catheter.  The\n course of the catheter is unremarkable, that the tip of the catheter projects\n over the upper-to-mid SVC.\n\n The lung volumes are low.  Normal structure and transparency of the lung\n parenchyma, no evidence of pneumonia.  No pleural effusions, no pulmonary\n edema.  Normal size of the cardiac silhouette and of the hilar and sternal\n structures.\n\n\n"
+    },
+    {
+      "note_id": 1202523,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 223,
+          "end": 231,
+          "code": "208.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified leukemia without mention of remission",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "LEUKEMIA"
+        },
+        {
+          "begin": 378,
+          "end": 381,
+          "code": "204.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute lymphoid leukemia without mention of remission",
+          "type": "Human",
+          "covered_text": "ALL"
+        }
+      ],
+      "text": "[**2131-8-17**] 7:39 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 24151**]\n Reason: Please eval central line placement (CT with central line in\n Admitting Diagnosis: LEUKEMIA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with new ALL, to start induction chemo this AM\n REASON FOR THIS EXAMINATION:\n  Please eval central line placement (CT with central line in brachiocephalic\n  vein)\n ______________________________________________________________________________\n                                 FINAL REPORT\n CHEST RADIOGRAPH\n\n INDICATION:  To look for status of the right PICC line.\n\n TECHNIQUE:  Semi-erect upright radiograph of chest.  Comparison was made with\n prior chest radiograph through [**2131-7-12**] with most recent from [**Month (only) **]-12 [**2131**].\n\n\n IMPRESSION: The right PICC line is terminating into the left subclavian vein\n before its confluence with internal jugular vein.  Consider advancing the\n catheter by 4 cm. Both lungs are clear without consolidation. There is no\n pleural effusion/pneumothorax. Heart size, mediastinal and hilar contours are\n normal. Cervical rib is seen on the right side.\n\n"
+    },
+    {
+      "note_id": 41970,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 235,
+          "end": 248,
+          "code": "782.7",
+          "code_system": "ICD-9-CM",
+          "description": "Spontaneous ecchymoses",
+          "type": "MapType.EXACT",
+          "covered_text": "Easy bruising"
+        },
+        {
+          "begin": 250,
+          "end": 257,
+          "code": "780.79",
+          "code_system": "ICD-9-CM",
+          "description": "Other malaise and fatigue",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "malaise"
+        },
+        {
+          "begin": 259,
+          "end": 268,
+          "code": "733.99",
+          "code_system": "ICD-9-CM",
+          "description": "Other disorders of bone and cartilage",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "bony pain"
+        },
+        {
+          "begin": 418,
+          "end": 424,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "asthma"
+        },
+        {
+          "begin": 429,
+          "end": 433,
+          "code": "314.01",
+          "code_system": "ICD-9-CM",
+          "description": "Attention deficit disorder of childhood with hyperactivity",
+          "type": "Human",
+          "covered_text": "ADHD"
+        },
+        {
+          "begin": 594,
+          "end": 604,
+          "code": "786.50",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified chest pain",
+          "type": "MapType.EXACT",
+          "covered_text": "chest pain"
+        },
+        {
+          "begin": 650,
+          "end": 660,
+          "code": "466.0",
+          "code_system": "ICD-9-CM",
+          "description": "Acute bronchitis",
+          "type": "MapType.APPROX",
+          "covered_text": "bronchitis"
+        },
+        {
+          "begin": 853,
+          "end": 861,
+          "code": "780.8",
+          "code_system": "ICD-9-CM",
+          "description": "Generalized hyperhidrosis",
+          "type": "MapType.EXACT",
+          "covered_text": "sweating"
+        },
+        {
+          "begin": 903,
+          "end": 910,
+          "code": "780.79",
+          "code_system": "ICD-9-CM",
+          "description": "Other malaise and fatigue",
+          "type": "MapType.APPROX",
+          "covered_text": "fatigue"
+        },
+        {
+          "begin": 922,
+          "end": 935,
+          "code": "781.99",
+          "code_system": "ICD-9-CM",
+          "description": "Other symptoms involving nervous and musculoskeletal systems",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "arm heaviness"
+        },
+        {
+          "begin": 937,
+          "end": 950,
+          "code": "782.7",
+          "code_system": "ICD-9-CM",
+          "description": "Spontaneous ecchymoses",
+          "type": "MapType.EXACT",
+          "covered_text": "easy bruising"
+        },
+        {
+          "begin": 956,
+          "end": 970,
+          "code": "782.7",
+          "code_system": "ICD-9-CM",
+          "description": "Spontaneous ecchymoses",
+          "type": "MapType.EXACT",
+          "covered_text": "petechial\nrash"
+        },
+        {
+          "begin": 1066,
+          "end": 1082,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "description": "Thrombocytopenia, unspecified",
+          "type": "Human",
+          "covered_text": "thrombocytopenia"
+        },
+        {
+          "begin": 1100,
+          "end": 1113,
+          "code": "200.10",
+          "code_system": "ICD-9-CM",
+          "description": "Lymphosarcoma, unspecified site, extranodal and solid organ sites",
+          "type": "MapType.APPROX",
+          "covered_text": "lymphocytosis"
+        },
+        {
+          "begin": 1296,
+          "end": 1314,
+          "code": "729.5",
+          "code_system": "ICD-9-CM",
+          "description": "Pain in limb",
+          "type": "MapType.APPROX",
+          "covered_text": "bilateral arm pain"
+        },
+        {
+          "begin": 1310,
+          "end": 1314,
+          "code": "729.5",
+          "code_system": "ICD-9-CM",
+          "description": "Pain in limb",
+          "type": "MapType.APPROX",
+          "covered_text": "pain"
+        },
+        {
+          "begin": 1319,
+          "end": 1335,
+          "code": "724.5",
+          "code_system": "ICD-9-CM",
+          "description": "Backache, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "pain in her\nback"
+        },
+        {
+          "begin": 1372,
+          "end": 1383,
+          "code": "780.8",
+          "code_system": "ICD-9-CM",
+          "description": "Generalized hyperhidrosis",
+          "type": "MapType.EXACT",
+          "covered_text": "diaphoretic"
+        },
+        {
+          "begin": 1412,
+          "end": 1419,
+          "code": "780.79",
+          "code_system": "ICD-9-CM",
+          "description": "Other malaise and fatigue",
+          "type": "MapType.APPROX",
+          "covered_text": "fatigue"
+        },
+        {
+          "begin": 1453,
+          "end": 1459,
+          "code": "787.02",
+          "code_system": "ICD-9-CM",
+          "description": "Nausea alone",
+          "type": "MapType.EXACT",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 1529,
+          "end": 1533,
+          "code": "314.01",
+          "code_system": "ICD-9-CM",
+          "description": "Attention deficit disorder of childhood with hyperactivity",
+          "type": "Human",
+          "covered_text": "ADHD"
+        },
+        {
+          "begin": 1534,
+          "end": 1540,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 1583,
+          "end": 1601,
+          "code": "309.28",
+          "code_system": "ICD-9-CM",
+          "description": "Adjustment disorder with mixed anxiety and depressed mood",
+          "type": "MapType.EXACT",
+          "covered_text": "Depression\nAnxiety"
+        },
+        {
+          "begin": 2169,
+          "end": 2180,
+          "code": "780.8",
+          "code_system": "ICD-9-CM",
+          "description": "Generalized hyperhidrosis",
+          "type": "MapType.EXACT",
+          "covered_text": "diaphoretic"
+        },
+        {
+          "begin": 2412,
+          "end": 2417,
+          "code": "278.00",
+          "code_system": "ICD-9-CM",
+          "description": "Obesity, unspecified",
+          "type": "Human",
+          "covered_text": "obese"
+        },
+        {
+          "begin": 2561,
+          "end": 2575,
+          "code": "782.1",
+          "code_system": "ICD-9-CM",
+          "description": "Rash and other nonspecific skin eruption",
+          "type": "MapType.EXACT",
+          "covered_text": "petechial rash"
+        },
+        {
+          "begin": 2620,
+          "end": 2627,
+          "code": "782.61",
+          "code_system": "ICD-9-CM",
+          "description": "Pallor",
+          "type": "MapType.EXACT",
+          "covered_text": "brusing"
+        },
+        {
+          "begin": 5343,
+          "end": 5371,
+          "code": "204.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute lymphoid leukemia without mention of remission",
+          "type": "Human",
+          "covered_text": "Acute lymphoblastic leukemia"
+        },
+        {
+          "begin": 5922,
+          "end": 5969,
+          "code": "288.60",
+          "code_system": "ICD-9-CM",
+          "description": "Leukocytosis, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "white blood cell count appears mildly\nincreased"
+        },
+        {
+          "begin": 7042,
+          "end": 7069,
+          "code": "239.89",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Occasional atypical\nmitoses"
+        },
+        {
+          "begin": 8659,
+          "end": 8696,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Focal opacity in the right upper lobe"
+        },
+        {
+          "begin": 8796,
+          "end": 8808,
+          "code": "789.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatomegaly",
+          "type": "MapType.APPROX",
+          "covered_text": "splenomegaly"
+        },
+        {
+          "begin": 10797,
+          "end": 10801,
+          "code": "314.01",
+          "code_system": "ICD-9-CM",
+          "description": "Attention deficit disorder of childhood with hyperactivity",
+          "type": "Human",
+          "covered_text": "ADHD"
+        },
+        {
+          "begin": 10806,
+          "end": 10812,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "asthma"
+        },
+        {
+          "begin": 10880,
+          "end": 10893,
+          "code": "782.7",
+          "code_system": "ICD-9-CM",
+          "description": "Spontaneous ecchymoses",
+          "type": "MapType.EXACT",
+          "covered_text": "easy bruising"
+        },
+        {
+          "begin": 10899,
+          "end": 10906,
+          "code": "780.79",
+          "code_system": "ICD-9-CM",
+          "description": "Other malaise and fatigue",
+          "type": "MapType.APPROX",
+          "covered_text": "fatigue"
+        },
+        {
+          "begin": 10935,
+          "end": 10955,
+          "code": "204.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified lymphoid leukemia without mention of remission",
+          "type": "MapType.EXACT",
+          "covered_text": "Lymphocytic Leukemia"
+        },
+        {
+          "begin": 11097,
+          "end": 11109,
+          "code": "780.8",
+          "code_system": "ICD-9-CM",
+          "description": "Generalized hyperhidrosis",
+          "type": "MapType.EXACT",
+          "covered_text": "night sweats"
+        },
+        {
+          "begin": 11182,
+          "end": 11185,
+          "code": "204.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute lymphoid leukemia without mention of remission",
+          "type": "Human",
+          "covered_text": "ALL"
+        },
+        {
+          "begin": 11326,
+          "end": 11329,
+          "code": "204.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute lymphoid leukemia without mention of remission",
+          "type": "Human",
+          "covered_text": "ALL"
+        },
+        {
+          "begin": 11456,
+          "end": 11459,
+          "code": "204.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute lymphoid leukemia without mention of remission",
+          "type": "Human",
+          "covered_text": "ALL"
+        },
+        {
+          "begin": 11764,
+          "end": 11772,
+          "code": "784.0",
+          "code_system": "ICD-9-CM",
+          "description": "Headache",
+          "type": "MapType.APPROX",
+          "covered_text": "headache"
+        },
+        {
+          "begin": 11774,
+          "end": 11785,
+          "code": "784.1",
+          "code_system": "ICD-9-CM",
+          "description": "Throat pain",
+          "type": "MapType.EXACT",
+          "covered_text": "throat pain"
+        },
+        {
+          "begin": 11790,
+          "end": 11796,
+          "code": "787.02",
+          "code_system": "ICD-9-CM",
+          "description": "Nausea alone",
+          "type": "MapType.EXACT",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 11957,
+          "end": 11963,
+          "code": "787.02",
+          "code_system": "ICD-9-CM",
+          "description": "Nausea alone",
+          "type": "MapType.EXACT",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 12385,
+          "end": 12404,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "MapType.APPROX",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 12863,
+          "end": 12869,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 12928,
+          "end": 12932,
+          "code": "314.01",
+          "code_system": "ICD-9-CM",
+          "description": "Attention deficit disorder of childhood with hyperactivity",
+          "type": "Human",
+          "covered_text": "ADHD"
+        },
+        {
+          "begin": 13076,
+          "end": 13086,
+          "code": "296.20",
+          "code_system": "ICD-9-CM",
+          "description": "Major depressive disorder, single episode, unspecified degree",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 14694,
+          "end": 14697,
+          "code": "204.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute lymphoid leukemia without mention of remission",
+          "type": "Human",
+          "covered_text": "ALL"
+        },
+        {
+          "begin": 14981,
+          "end": 14989,
+          "code": "208.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified leukemia without mention of remission",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "leukemia"
+        },
+        {
+          "begin": 15400,
+          "end": 15407,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "anxiety"
+        },
+        {
+          "begin": 15411,
+          "end": 15417,
+          "code": "787.02",
+          "code_system": "ICD-9-CM",
+          "description": "Nausea alone",
+          "type": "MapType.EXACT",
+          "covered_text": "nausea"
+        }
+      ],
+      "text": "Admission Date:  [**2131-8-15**]              Discharge Date:   [**2131-9-6**]\n\nDate of Birth:  [**2108-7-3**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nVicodin / pears\n\nAttending:[**First Name3 (LF) 3918**]\nChief Complaint:\nEasy bruising, malaise, bony pain, concern for leukemia\n\nMajor Surgical or Invasive Procedure:\nCentral line placement\nLP with IT chemo x 2\n\nHistory of Present Illness:\n23yoF with h/o asthma and ADHD who is being admitted out of\nconcern for acute leukemia. She was in her USOH until [**7-12**] when\nshe presented to [**Hospital6 **] with intermittent, L-sided\nchest pain. CXR was read as normal. She was treated for\nbronchitis with azithromycin. She again presented to the ED on\n[**7-14**] with similar complaints and began taking ibuprofen for the\npain. Over the course of the past month she has experienced\nworsening sweating - at night and during the day, worsening\nfatigue, bilateral arm heaviness, easy bruising, and petechial\nrash on her arms and legs. She presented to [**Hospital6 33**]\nwith these complaints and CBC showed thrombocytopenia to 15 as\nwell as lymphocytosis. There was initially concern for ITP or\nrickettsial infection, but peripheral blood was sent for flow\ncytometry, which reportedly showed lymphoblasts.\n.\nAt present, she complains of bilateral arm pain and pain in her\nback between her shoulder blades. She is diaphoretic. She does\nendorse worsening fatigue recently as well as intermittent\nnausea. She understands that she may have leukemia.\n\n\nPast Medical History:\nADHD\nAsthma - uses albuterol 2x per week since age 13\nDepression\nAnxiety\n\n\nSocial History:\nLives in [**Location 10022**], MA with her grandmother and grandfather. She\nis single. Works as a hairdresser and is going to school\nstudying massage.\ntob: 0.5 ppd x 3 years (quit last Saturday)\nEtOH: 1 beer per week\nillicits: none\n\n\nFamily History:\nMother - epilepsy\n[**Name (NI) **] Aunt: [**Name (NI) 4278**] lymphoma\nMa GPa: [**Name (NI) 2320**]\nFather - doesn't know about father's health\n\n\nPhysical Exam:\nPhysical Exam on admission:\nVS - 100.0 111 120/88 20 96% on RA\nGENERAL - overweight female w/ cold compress on forehead,\npleasant, a&ox3, diaphoretic, NAD\nHEENT - wearing color contacts so difficult to assess pupils,\nEOMI, sclerae anicteric, MMM, OP clear\nNECK - supple, no thyromegaly, no JVD\nLUNGS - CTA bilat, no r/rh/wh\nHEART - tachycardic, regular, no MRG, nl S1-S2\nABDOMEN - obese abdomen, NABS, soft/NT/ND, difficult to assess\nfor hepatosplenomegaly\nEXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)\n\nSKIN - petechial rash on arms and legs, tattoo on back,\nextensive brusing on bilateral UE\nNEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength\n[**5-10**] throughout, sensation grossly intact throughout, DTRs 2+ and\nsymmetric, cerebellar exam intact\n\nPhysical Exam on Discharge:\nPatient was afebrile on discharge.\nHEART: RRR, no M/R/G\nCHEST: occlusive dressing on wound from central line removal\nExam otherwise unchanged from admission\nEXTREMITIES: no bruising or petechiae\n\nPertinent Results:\nADMISSION LABS\n\n[**2131-8-15**] 04:00PM BLOOD WBC-12.8* RBC-3.55* Hgb-11.3* Hct-29.8*\nMCV-84 MCH-31.9 MCHC-38.0* RDW-13.5 Plt Ct-21*\n[**2131-8-15**] 04:00PM BLOOD Neuts-15* Bands-1 Lymphs-25 Monos-1*\nEos-0 Baso-0 Atyps-0 Metas-1* Myelos-0 Blasts-57* Other-0\n[**2131-8-15**] 04:00PM BLOOD Hypochr-1+ Anisocy-OCCASIONAL\nPoiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL\n[**2131-8-15**] 04:00PM BLOOD PT-13.9* PTT-40.0* INR(PT)-1.2*\n[**2131-8-15**] 04:00PM BLOOD Fibrino-727*\n[**2131-8-15**] 04:00PM BLOOD Ret Aut-1.1*\n[**2131-8-15**] 04:00PM BLOOD Glucose-109* UreaN-7 Creat-0.6 Na-130*\nK-3.8 Cl-92* HCO3-29 AnGap-13\n[**2131-8-15**] 04:00PM BLOOD ALT-24 AST-30 LD(LDH)-617* AlkPhos-85\nTotBili-1.0\n[**2131-8-15**] 04:00PM BLOOD Albumin-4.0 Calcium-9.6 Phos-5.6* Mg-1.6\nUricAcd-5.1\n[**2131-8-17**] 03:05PM BLOOD Triglyc-120 HDL-15 CHOL/HD-8.7 LDLcalc-91\nLDLmeas-66\n[**2131-8-17**] 03:05PM BLOOD TSH-3.5\n[**2131-8-17**] 03:05PM BLOOD HCG-<5\n\nBCX, UCX, CSF GRAM STAIN: Negative\n\nFLOW CYTOMETRY: RESULTS:\n\nCell marker analysis demonstrates that a majority of the cells\nisolated from this peripheral blood are in the\nCD45-dim-to-moderate, low side-scatter, 'blast gate'. Gating on\nthese cells demonstrates that these cells express immature\nantigens CD34, HLA-DR, and TdT, lymphoid associated antigens\nCD10, CD19 and CD20 along with CD71. They lack surface\nimmunoglobulin light chains kappa and lambda. They lack\nT-associated antigens (CD3, CD5, CD2, CD7, CD4, CD8) and are\nnegative for myeloid associated antigens CD13, CD14, CD15, CD33,\nCD117, CD11c, CD41, CD56, CD64 and Glycophorin A.\n\nCD45 bright lymphocytes comprise 24% of total analyzed events.\nB cells comprise 18% of lymphoid-gated events, are polyclonal,\nand do not express aberrant antigens. T cells comprise 63% of\nlymphoid-gated events, express mature lineage antigens, and have\na decreased helper-cytotoxic ratio of 0.7:1 (usual range in\nblood 0.7-3.0).\n\nINTERPRETATION\n\nImmunophenotypic findings consistent with involvement by acute\nlymphoblastic leukemia (pre B-ALL).\n\nPlease correlate with morphologic and cytogenetic findings (see\nseparate report).  Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) **] notified on [**2131-8-16**].\n\nBONE MARROW:\nSPECIMEN: BONE MARROW ASPIRATE AND CORE BIOPSY:\n\nDIAGNOSIS:\nAcute lymphoblastic leukemia, see note.\nNote: The morphologic findings on this core biopsy specimen\ncombined with concurrent flow cytometry findings on peripheral\nblood (S11-33319M) are consistent with the diagnosis of acute\nlymphoblastic leukemia (pre-B-ALL). Please correlate with\ncytogenetic findings (see separate report).\nMICROSCOPIC DESCRIPTION\nPeripheral Blood Smear:\n\nThe smear is adequate for evaluation. Erythrocytes appear mildly\ndecreased in number, are normochromic with rare dacryocytes,\nechinocytes, fragments,  microcytes and nucleated red blood\ncells noted. The white blood cell count appears mildly\nincreased.  A majority of circulating cells are variably sized,\nwith moderately condensed to open chromatin, prominent nuclei,\nround to slightly irregular nuclear contours, scant amounts of\nbasophilic cytoplasm and occasional coarse granules.  Platelet\ncount appears significantly decreased.  Differential shows 12%\nneutrophils, 20% lymphocytes, 68% Blasts.\nAspirate Smear:\n\nThe aspirate material is not submitted due to dry tap.\nTouch Imprints:\n\nTouch imprints are adequate for evaluation. The smears are\nhypercellular with sheets of small to medium sized cells, with\nscant cytoplasm, smooth chromatin, prominent nucleoli and\nslightly irregular nuclear contours, morphologically consistent\nwith blasts\nClot Section and Biopsy Slides:\n\nThe biopsy material is adequate for evaluation and consists of\ntwo bone marrow core biopsies composed of trabecular bone with\nbone marrow elements, the overall cellularity is more than 95%\nand consists almost entirely of a monotonous population of\nvariably-sized cells with round to regular nuclei, open\nchromatin and scant amount of cytoplasm.  Occasional atypical\nmitoses are seen in the neoplastic cells.  Rare scattered\nmyeloid precursors, plasma cells and small erythroid islands are\nseen.\n\nBCR-ABL: Normal, see cytogenetics report for full description\n\nTTE [**8-16**] The left atrium is normal in size. Left ventricular\nwall thickness, cavity size and regional/global systolic\nfunction are normal (LVEF 70%). Tissue Doppler imaging suggests\na normal left ventricular filling pressure (PCWP<12mmHg). The\nright ventricular cavity appears small, with normal free wall\ncontractility. There are complex (mobile) atheroma in the aortic\narch. The aortic valve leaflets (3) appear structurally normal\nwith good leaflet excursion and no aortic stenosis or aortic\nregurgitation. The mitral valve appears structurally normal with\ntrivial mitral regurgitation. There is no mitral valve prolapse.\nThe estimated pulmonary artery systolic pressure is normal.\n\nImpression: Suboptimal image quality. The right atrium and, to a\nlesser extent, the right ventricle appear extrinsically\ncompressed. However, due to the technically suboptimal nature of\nthe acquired images, neither cardiac tamponade secondary to a\nloculated pericardial effusion nor a soft tissue mass causing\nright heart compression can be excluded on the basis of this\nstudy. A cardiac CT scan or MRI is recommended for further\nimaging of this abnormality.\n\nCT chest [**8-16**]: IMPRESSION:\n\n1. Ascending, arch and descending thoracic aorta is normal in\nmorphology\nwithout any element of calcification\n\n2. No CT evidence of an extrinsic compression on the\natrium/right ventricle.\n\n3. No pulmonary embolism\n\n4. Focal opacity in the right upper lobe may represent either\ninfectious focus\nor could be inflammatory give the clinical setting.\n\n5. Mild splenomegaly\n\nEKG [**8-17**]: Afib with RVR\n\n[**8-16**] Echocardiogram: Impression: Suboptimal image quality. The\nright atrium and, to a lesser extent, the right ventricle appear\nextrinsically compressed. However, due to the technically\nsuboptimal nature of the acquired images, neither cardiac\ntamponade secondary to a loculated pericardial effusion nor a\nsoft tissue mass causing right heart compression can be excluded\non the basis of this study. A cardiac CT scan or MRI is\nrecommended for further imaging of this abnormality.\n\nCSF:\n[**2131-8-18**] 03:38PM CEREBROSPINAL FLUID (CSF) WBC-1 RBC-7* Polys-0\nLymphs-56 Monos-44\n[**2131-8-18**] 03:38PM CEREBROSPINAL FLUID (CSF) TotProt-20 Glucose-62\nLD(LDH)-17\n[**2131-9-1**] 07:01PM CEREBROSPINAL FLUID (CSF) WBC-1 RBC-1* Polys-2\nLymphs-62 Monos-36\n\n[**8-18**] immunophenotyping of CSF:\nNo aberrant cells are identified in this specimen using a\nlimited marker panel.\n\nDue to paucicellularity the findings need to be interpreted with\ncaution.  A concurrent cytospin specimen reveals mostly a\nmixture of rare monocytes and small mature lymphocytes.\n\nDischarge Labs:\n\n[**2131-9-6**] 12:10AM BLOOD WBC-2.2*# RBC-2.92* Hgb-8.9* Hct-25.0*\nMCV-86 MCH-30.3 MCHC-35.4* RDW-14.1 Plt Ct-242\n[**2131-9-6**] 12:10AM BLOOD Neuts-44* Bands-1 Lymphs-26 Monos-24*\nEos-0 Baso-0 Atyps-0 Metas-3* Myelos-2* NRBC-4*\n[**2131-9-6**] 12:10AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-OCCASIONAL\nMacrocy-1+ Microcy-1+ Polychr-OCCASIONAL Schisto-OCCASIONAL Tear\nDr[**Last Name (STitle) 833**]\n[**2131-9-6**] 09:54AM BLOOD PT-11.8 PTT-23.4 INR(PT)-1.0\n[**2131-9-4**] 12:00AM BLOOD Fibrino-159\n[**2131-9-6**] 12:10AM BLOOD Gran Ct-1205*\n[**2131-9-6**] 12:10AM BLOOD Glucose-128* UreaN-18 Creat-0.6 Na-140\nK-3.9 Cl-101 HCO3-29 AnGap-14\n[**2131-9-6**] 12:10AM BLOOD ALT-189* AST-45* AlkPhos-92 TotBili-0.4\nDirBili-0.2 IndBili-0.2\n[**2131-9-6**] 12:10AM BLOOD Calcium-8.8 Phos-4.2 Mg-2.0\n\nBrief Hospital Course:\nPrimary reason for hospitalization:\nPatient is a 23yo female with history of ADHD and asthma who\npresented at an outside hospital with a month of night sweats,\neasy bruising, and fatigue and was found to have Acute\nLymphocytic Leukemia. She was transferred to [**Hospital **] [**Hospital **]\nMedical Center for initiation of care.\n\nAcute Care:\n\n1. ALL: Patient had symptoms of night sweats, easy bruising,\nfatigue and initially chest pain and was diagnosed with ALL at\nOSH via flow cytometry. At our hospital the diagnosis was\nconfirmed via biopsy and flow cytometry, which were consistent\nwith pre-B cell ALL negative for the [**Location (un) 5622**] chromosome.\nShe underwent induction chemotherapy under experimental protcol\n#06-254 ALL Adult Consortium trial.  The protocol included PO\nprednisone, and IV doxorubicin, cytarabine, vincristine, and\nmethotrexate. She also received intrathecal methotrexate,\ncytarabine, and hydrocortisone. The protocol included\nasparaginase as well. She tolerated it well with slight\nintermittant symptoms of headache, throat pain and nausea.\nActivated AT and fibrinogen levels were monitored and remained\nwithin normal limits. She received enoxaparin for DVT\nprophylaxis, and zofran and compazine for nausea. She was given\nacyclovir and fluconazole for infection prophylaxis while\nneutropenic and received a 10-day course of IV cefepime for\nfever on admission that was culture-negative. Patient's\nneutrophil count dropped with therapy but recovered. She was\ndischarged on day 20 of the protocol having regained her cell\ncounts to a granulocyte count of 1205. She was instructed to\nfollow up on day 22 next for IV vincristine\n\n2. Atrial fibrillation: Patient experienced new onset atrial\nfibrillation with RVR in the hospital after a placement of a\ncentral line. CT showed potential area of leukemic infiltrate in\nthe right mediastinum. Patient's line  was changed over the\nwire, as irritation from the line was a likely explaination for\natrial fibrillation. She went to the ICU where she was placed on\na diltiazem drip. She converted to sinus rhythm following. He\nhome adderall was held.\n\nChronic Care:\n\n1. Asthma: Patient was continued on home albuterol inhaler prn.\n\n2. ADHD: Adderall was held because of its potential to cause\narryhthmias, and will be restarted as an oupatient when risk is\nlower for arrythmias.\n\n3. Depression: Patient was continued on home venlafaxine.\n\nTransitions in Care:\nPatient was given a follow-up appointment 2 days post-discharge\nfor IV chemotherapy and blood work, and given an appointment on\n[**2131-9-14**] for further chemo and BM biopsy. She was instructed to\nstop taking Lovenox >24 hours before the procedure. She will\nneed weekly AT and fibrinogen levels drawn.\n\nMedications on Admission:\nAlbuterol prn\nAdderall 30 mg [**Hospital1 **]\nvenlafaxine XR 75 mg qday\nibuprofen prn\n\n\nDischarge Medications:\n1. prednisone 10 mg Tablet Sig: 4.5 Tablets PO BID (2 times a\nday) for 10 days.\nDisp:*90 Tablet(s)* Refills:*0*\n2. acyclovir 400 mg Tablet Sig: One (1) Tablet PO TID (3 times a\nday).\nDisp:*90 Tablet(s)* Refills:*2*\n3. enoxaparin 40 mg/0.4 mL Syringe Sig: One (1) unit\nSubcutaneous DAILY (Daily): Last day is day 26 ([**2131-9-12**]).\nDisp:*13 unit* Refills:*0*\n4. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1)\nTablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\nDisp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*\n6. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every six (6)\nhours as needed for pain.\nDisp:*30 Tablet(s)* Refills:*0*\n7. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\n1-2 puffs Inhalation every 4-6 hours as needed for shortness of\nbreath or wheezing.\nDisp:*1 inhaler* Refills:*1*\n8. venlafaxine 75 mg Capsule, Ext Release 24 hr Sig: One (1)\nCapsule, Ext Release 24 hr PO once a day.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nALL\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDear Ms. [**Known lastname 91125**],\n\nYou were admitted to the hospital for chemotherapy for newly\ndiagnosed leukemia. You completed the first stage of your\nchemotherapy and are ready to go home to continue therapy as an\noutpatient.\n\nPlease make the following changes to your medications:\n\n1. START Acyclovir 400mg by mouth three times daily\n2. START Enoxaparin 40mg by subcutaneous injection daily, and\nSTOP taking it after your dose on Wednesday, [**9-12**].\n3. START Lorazepam 0.5-1mg by mouth every four hours as needed\nfor anxiety or nausea\n4. START Omeprazole 20mg by mouth daily\n5. START Prednisone 45mg by mouth twice daily through [**9-14**]\n6. START Vitamin D3 400units by mouth daily\n7. STOP taking Adderall until further instructed\n8. STOP taking venlafaxine until further instructed\n\nPlease continue taking all other medications as previously\nprescribed to you.\nPlease return to clinic as instructed to complete your course of\nchemotherapy, and for scheduled bone marrow biopsy.\n\nFollowup Instructions:\n[**2131-9-8**] at 10:30AM-Please go to your appointment at 7 [**Hospital Ward Name 1826**]\nOutpatient Clinic for chemotherapy and labs.\n\n[**2131-9-14**] at 9:30AM-Please go to you appointment at Dr. [**Last Name (STitle) **]'\noffice for bone marrow biopsy and lumbar puncture with\nintrathecal chemotherapy.\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3922**]\n\n"
+    },
+    {
+      "note_id": 1202459,
+      "category": "Radiology",
+      "description": "CTA CHEST W&W/O C&RECONS, NON-CORONARY",
+      "annotations": [
+        {
+          "begin": 224,
+          "end": 232,
+          "code": "208.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified leukemia without mention of remission",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "LEUKEMIA"
+        },
+        {
+          "begin": 419,
+          "end": 432,
+          "code": "793.2",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal findings on radiological and other examination of other intrathoracic organs",
+          "type": "MapType.APPROX",
+          "covered_text": "abnormal echo"
+        },
+        {
+          "begin": 1531,
+          "end": 1548,
+          "code": "511.1",
+          "code_system": "ICD-9-CM",
+          "description": "Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 1611,
+          "end": 1648,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "focal opacity in the right upper lobe"
+        },
+        {
+          "begin": 2296,
+          "end": 2308,
+          "code": "789.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatomegaly",
+          "type": "MapType.APPROX",
+          "covered_text": "splenomegaly"
+        },
+        {
+          "begin": 2884,
+          "end": 2892,
+          "code": "208.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified leukemia without mention of remission",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "LEUKEMIA"
+        },
+        {
+          "begin": 3084,
+          "end": 3121,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Focal opacity in the right upper lobe"
+        },
+        {
+          "begin": 3223,
+          "end": 3235,
+          "code": "789.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatomegaly",
+          "type": "MapType.APPROX",
+          "covered_text": "splenomegaly"
+        }
+      ],
+      "text": "[**2131-8-16**] 2:59 PM\n CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 23244**]\n Reason: Please evaluate ? atheroma in the aorta; also ? loculated pe\n Admitting Diagnosis: LEUKEMIA\n  Contrast: OPTIRAY Amt:\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with likely new ALL and abnormal echo today\n REASON FOR THIS EXAMINATION:\n  Please evaluate ? atheroma in the aorta; also ? loculated pericardial effusion\n No contraindications for IV contrast\n ______________________________________________________________________________\n                                 FINAL REPORT\n CHEST CT\n\n INDICATION:  23-year-old woman with likely a new ALL and , query atheroma of\n the aorta, query loculated PE, query loculated pericardial effusion.\n\n TECHNIQUE:  Contrast-enhanced CT of thorax was performed using a dedicated\n department protocol.  Contiguous axial images at 2.5-mm slice thickness were\n reviewed concurrently with coronal and sagittal reformats. Study is\n technically inadequate to evaluate subsegmental arteries because of suboptimal\n opacification.\n\n FINDINGS\n\n PULMONARY ARTERIES:  The caliber of main pulmonary artery proximal to\n bifurcation is 24 mm and is normal.  There are no filling defects within the\n main,lobar and segmental branches of pulmonary artery.  Evaluation of\n subsegmental arteries was suboptimal because of the inadequate opacification.\n\n LUNGS:  Bilateral simple pleural effusions are mild with atelectasis of the\n adjacent lungs.  There is a focal opacity in the right upper lobe (3:7) and in\n the given clinical setting is suspicious for infectious focus or could be\n nonspecific inflammation This needs attention on followup imaging.\n\n MEDIASTINUM:  The ascending aorta, aortic arch and descending thoracic aorta\n is normal in morphology without any element of calcification.  No extrinsic\n compression is seen on the atrium or the ventricle.  Heart is normal size\n without pericardial effusion.  The distal end of the right subclavian line is\n ending into the left brachiocephalic just before the origin of the SVC.\n\n ABDOMEN:  The study is not tailored for evaluation of the abdomen; however,\n unremarkable except for mild splenomegaly.\n\n BONES:  There is no bone lesion suspicious for malignancy or infection.\n\n IMPRESSION:\n\n 1. Ascending, arch and descending thoracic aorta is normal in morphology\n without any element of calcification\n\n 2. No CT evidence of an extrinsic compression on the atrium/right ventricle.\n                                                             (Over)\n\n [**2131-8-16**] 2:59 PM\n CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 23244**]\n Reason: Please evaluate ? atheroma in the aorta; also ? loculated pe\n Admitting Diagnosis: LEUKEMIA\n  Contrast: OPTIRAY Amt:\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n 3. No pulmonary embolism\n\n 4. Focal opacity in the right upper lobe may represent either infectious focus\n or could be inflammatory give the clinical setting.\n\n 5. Mild splenomegaly\n\n Findings were discussed by telephone with Dr. [**Last Name (STitle) 23245**] [**Name (STitle) 10522**] at the time of\n dictation on [**2131-8-16**].\n\n"
+    },
+    {
+      "note_id": 251172,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 19,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "MapType.APPROX",
+          "covered_text": "Atrial fibrillation"
+        }
+      ],
+      "text": "Atrial fibrillation, average ventricular rate 192. Non-diagnostic\nrepolarization abnormalities. Compared to the previous tracing of [**2131-8-16**]\ncardiac rhythm is now atrial fibrillation with a rapid ventricular rate.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 251173,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 17,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Sinus tachycardia"
+        },
+        {
+          "begin": 74,
+          "end": 102,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "other diagnostic abnormality"
+        }
+      ],
+      "text": "Sinus tachycardia.  T wave flattening in leads II, III, aVF and V3-V6.\nNo other diagnostic abnormality.  No previous tracing available for comparison.\n\n"
+    },
+    {
+      "note_id": 250932,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "794.31",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+          "type": "MapType.EXACT",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 86,
+          "end": 93,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "TRACING"
+        }
+      ],
+      "text": "Sinus rhythm. Compared to the previous tracing cardiac rhythm is now sinus\nmechanism.\nTRACING #4\n\n"
+    },
+    {
+      "note_id": 250933,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 19,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "MapType.APPROX",
+          "covered_text": "Atrial fibrillation"
+        }
+      ],
+      "text": "Atrial fibrillation, average ventricular rate 137. Compared to the previous\ntracing the ventricular rate is somewhat lower. Otherwise, no significant\nchange.\nTRACING #3\n\n"
+    },
+    {
+      "note_id": 91700,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 71,
+          "end": 79,
+          "code": "208.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified leukemia without mention of remission",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "leukemia"
+        },
+        {
+          "begin": 249,
+          "end": 279,
+          "code": "93308",
+          "code_system": "CPT",
+          "description": "Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, follow-up or limited study",
+          "type": "Human",
+          "covered_text": "Full Doppler and color Doppler"
+        },
+        {
+          "begin": 1125,
+          "end": 1137,
+          "code": "424.2",
+          "code_system": "ICD-9-CM",
+          "description": "Tricuspid valve disorders, specified as nonrheumatic",
+          "type": "MapType.APPROX",
+          "covered_text": "Mild [1+] TR"
+        },
+        {
+          "begin": 1979,
+          "end": 1999,
+          "code": "424.2",
+          "code_system": "ICD-9-CM",
+          "description": "Tricuspid valve disorders, specified as nonrheumatic",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral regurgitation"
+        },
+        {
+          "begin": 2527,
+          "end": 2554,
+          "code": "785.3",
+          "code_system": "ICD-9-CM",
+          "description": "Other abnormal heart sounds",
+          "type": "MapType.APPROX",
+          "covered_text": "imaging of this abnormality"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: Left ventricular function. Acute leukemia.\nHeight: (in) 70\nWeight (lb): 230\nBSA (m2): 2.22 m2\nBP (mm Hg): 118/82\nHR (bpm): 114\nStatus: Inpatient\nDate/Time: [**2131-8-16**] at 10:23\nTest: TTE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Suboptimal\n\n\nINTERPRETATION:\n\nFindings:\n\nLEFT ATRIUM: Normal LA size.\n\nLEFT VENTRICLE: Normal LV wall thickness, cavity size and regional/global\nsystolic function (LVEF >55%). TDI E/e' < 8, suggesting normal PCWP (<12mmHg).\nNo resting LVOT gradient.\n\nRIGHT VENTRICLE: RV not well seen. Small RV cavity. Normal RV systolic\nfunction.\n\nAORTA: Normal aortic diameter at the sinus level. Normal ascending aorta\ndiameter. Normal aortic arch diameter. Complex (mobile) atheroma in the aortic\narch.\n\nAORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.\n\nMITRAL VALVE: Normal mitral valve leaflets with trivial MR. No MVP. Normal\nmitral valve supporting structures. No MS. Normal LV inflow pattern for age.\n\nTRICUSPID VALVE: Normal tricuspid valve leaflets. Normal tricuspid valve\nsupporting structures. No TS. Mild [1+] TR. Normal PA systolic pressure.\n\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. No PS.\nPhysiologic PR. Normal main PA. No Doppler evidence for PDA\n\nGENERAL COMMENTS: Suboptimal image quality - poor echo windows. Suboptimal\nimage quality - body habitus.\n\nConclusions:\nThe left atrium is normal in size. Left ventricular wall thickness, cavity\nsize and regional/global systolic function are normal (LVEF 70%). Tissue\nDoppler imaging suggests a normal left ventricular filling pressure\n(PCWP<12mmHg). The right ventricular cavity appears small, with normal free\nwall contractility. There are complex (mobile) atheroma in the aortic arch.\nThe aortic valve leaflets (3) appear structurally normal with good leaflet\nexcursion and no aortic stenosis or aortic regurgitation. The mitral valve\nappears structurally normal with trivial mitral regurgitation. There is no\nmitral valve prolapse. The estimated pulmonary artery systolic pressure is\nnormal.\n\nImpression: Suboptimal image quality. The right atrium and, to a lesser\nextent, the right ventricle appear extrinsically compressed. However, due to\nthe technically suboptimal nature of the acquired images, neither cardiac\ntamponade secondary to a loculated pericardial effusion nor a soft tissue mass\ncausing right heart compression can be excluded on the basis of this study. A\ncardiac CT scan or MRI is recommended for further imaging of this abnormality.\n\n\n"
+    },
+    {
+      "note_id": 1202602,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 246,
+          "end": 254,
+          "code": "208.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified leukemia without mention of remission",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "LEUKEMIA"
+        },
+        {
+          "begin": 401,
+          "end": 404,
+          "code": "204.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute lymphoid leukemia without mention of remission",
+          "type": "Human",
+          "covered_text": "ALL"
+        },
+        {
+          "begin": 895,
+          "end": 912,
+          "code": "511.1",
+          "code_system": "ICD-9-CM",
+          "description": "Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 945,
+          "end": 966,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary collapse",
+          "type": "MapType.APPROX",
+          "covered_text": "Bibasilar atelectasis"
+        }
+      ],
+      "text": "[**2131-8-17**] 2:50 PM\n CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 26**] # [**Clip Number (Radiology) 24263**]\n Reason: Please assess line placement (just pulled back after atrial\n Admitting Diagnosis: LEUKEMIA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with new ALL\n REASON FOR THIS EXAMINATION:\n  Please assess line placement (just pulled back after atrial arrhythmia)\n ______________________________________________________________________________\n                                 FINAL REPORT\n SINGLE AP PORTABLE VIEW OF THE CHEST\n\n REASON FOR EXAM:  Assess line after being pulled back after atrial arrhytmia.\n\n Right subclavian catheter tip is in the upper to mid SVC, slightly higher than\n in prior study.  There is no pneumothorax.  Small bilateral pleural effusions\n are larger on the right side.  Bibasilar atelectasis is also greater on the\n right side.  Cardiomediastinal contours are normal.\n\n"
+    },
+    {
+      "note_id": 251171,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 19,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "MapType.APPROX",
+          "covered_text": "Atrial fibrillation"
+        }
+      ],
+      "text": "Atrial fibrillation, mean ventricular rate of approximately 195. Non-diagnostic\nrepolarization abnormalities. Compared to the previous tracing there is no\nsignificant change.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 1202566,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 36,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST PORT"
+        },
+        {
+          "begin": 202,
+          "end": 210,
+          "code": "208.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified leukemia without mention of remission",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "LEUKEMIA"
+        },
+        {
+          "begin": 357,
+          "end": 360,
+          "code": "204.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute lymphoid leukemia without mention of remission",
+          "type": "Human",
+          "covered_text": "ALL"
+        },
+        {
+          "begin": 431,
+          "end": 445,
+          "code": "V43.4",
+          "code_system": "ICD-9-CM",
+          "description": "Blood vessel replaced by other means",
+          "type": "MapType.APPROX",
+          "covered_text": "Line placement"
+        },
+        {
+          "begin": 626,
+          "end": 634,
+          "code": "208.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified leukemia without mention of remission",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "leukemia"
+        },
+        {
+          "begin": 1013,
+          "end": 1030,
+          "code": "511.1",
+          "code_system": "ICD-9-CM",
+          "description": "Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "pleural effusions"
+        }
+      ],
+      "text": "[**2131-8-17**] 12:09 PM\n CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 26**] # [**Clip Number (Radiology) 23246**]\n Reason: Line placement\n Admitting Diagnosis: LEUKEMIA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with new ALL s/p central line placement over wire.\n REASON FOR THIS EXAMINATION:\n  Line placement\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  23-year-old female with newly diagnosed leukemia status post\n central line placement.  Evaluate line placement.\n\n EXAMINATION:  Single frontal chest radiograph.\n\n COMPARISONS:  [**2131-8-17**] and CTA from [**2131-8-16**].\n\n FINDINGS:\n\n A right subclavian approach venous catheter tip projects within the lower SVC.\n There is no evidence of pneumothorax.  Low lung volumes accentuate bibasilar\n atelectasis and small bilateral pleural effusions.  There are no focal\n parenchymal opacities concerning for pneumonia. The cardiomediastinal and\n hilar contours are normal.\n\n IMPRESSION:  Right subclavian approach venous catheter tip projects over the\n lower SVC.  No evidence of pneumothorax.\n\n"
+    }
+  ]
+}

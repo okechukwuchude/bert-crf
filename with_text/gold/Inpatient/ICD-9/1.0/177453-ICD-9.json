@@ -1,0 +1,77 @@
+{
+  "hadm_id": 177453,
+  "comment": "CABG - Missing OP Note to validate PCS",
+  "notes": [
+    {
+      "note_id": 1412,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 984,
+          "end": 993,
+          "code": "250.60",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with neurological manifestations",
+          "type": "Human",
+          "covered_text": "Diabetes,"
+        },
+        {
+          "begin": 995,
+          "end": 1007,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 1091,
+          "end": 1105,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 1107,
+          "end": 1147,
+          "code": "V10.83",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of other malignant neoplasm of skin",
+          "type": "Human",
+          "covered_text": "Squamous cell carcinoma of left forearm."
+        },
+        {
+          "begin": 1173,
+          "end": 1206,
+          "code": "379.23",
+          "code_system": "ICD-9-CM",
+          "description": "Vitreous hemorrhage",
+          "type": "MapType.APPROX",
+          "covered_text": "vitreous hemorrhage- R and L eye."
+        },
+        {
+          "begin": 1209,
+          "end": 1229,
+          "code": "V12.54",
+          "code_system": "ICD-9-CM",
+          "description": "Transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "L hemispheric stroke"
+        },
+        {
+          "begin": 8053,
+          "end": 8059,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        }
+      ],
+      "text": "Admission Date:  [**2165-1-16**]              Discharge Date:   [**2165-1-21**]\n\nDate of Birth:  [**2094-11-29**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nIodine-Iodine Containing / adhesive tape\n\nAttending:[**First Name3 (LF) 165**]\nChief Complaint:\nSOB and left arm burning\n\nMajor Surgical or Invasive Procedure:\n[**2165-1-16**] CABG x4 (LIMA to LAD, SVG to DIAG, SVG to OM, SVG to\nPDA)/MV repair (28 mm [**Company 1543**] CG Future ring)\n\n\nHistory of Present Illness:\n70 year old female who complains of\nSOB. She awoke from sleep with burning chest pain. She reported\nstuttering chest pain all day today as with some associated\nshortness of breath. She states she was last admitted 3 weeks\nago with similar symptoms and was diagnosed with a CHF\nexacerbation. She has been taking her diuretics faithfully\nsince that time. Referred for cardiac catheterization which\nshowed 3V CAD. Subsequently referred for surgery.\n\n\nPast Medical History:\n1. CARDIAC RISK FACTORS: +Diabetes, +Dyslipidemia, +Hypertension\n\n2. CARDIAC HISTORY:\n-diastolic CHF\n3. OTHER PAST MEDICAL HISTORY:\n-Hypothyroidism\n-Squamous cell carcinoma of left forearm.\n- h/o varicella zoster\n- vitreous hemorrhage- R and L eye.\n- L hemispheric stroke [**4-20**]\n\nSocial History:\nMarried, lives at home with husband, denies tobacco, alcohol,\nillicits.\n\n\nFamily History:\nNo early CAD, DM, or HTN.\n\nPhysical Exam:\nPulse:89 Resp:16  O2 sat: 98/RA\nB/P  Right:175/73    Left:160/52\nHeight:63\"     Weight:195 lbs\n\nGeneral:\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+[x]\nExtremities: Warm [x], well-perfused [x]  Edema Varicosities:\n[x]\nNeuro: Grossly intact [x]\nPulses:\nFemoral      Right: 1+ Left: 1+\nDP           Right: 1+ Left: 1+\nPT           [**Name (NI) 167**]: 1+ Left: 1+\nRadial       Right: 2+ Left: 2+\n\nCarotid Bruit        Right:-    Left:-\n\n\nPertinent Results:\n[**2165-1-21**] 06:00AM BLOOD WBC-7.4 RBC-3.87* Hgb-11.5* Hct-34.9*\nMCV-90 MCH-29.8 MCHC-33.0 RDW-14.9 Plt Ct-247\n[**2165-1-21**] 06:00AM BLOOD Glucose-222* UreaN-44* Creat-1.6* Na-137\nK-4.9 Cl-98 HCO3-29 AnGap-15\n[**2165-1-21**] 06:00AM BLOOD Mg-2.2\n\nConclusions\nPRE BYPASS The left atrium is moderately dilated. No spontaneous\necho contrast or thrombus is seen in the body of the left\natrium/left atrial appendage or the body of the right\natrium/right atrial appendage. No atrial septal defect is seen\nby 2D or color Doppler. Left ventricular wall thicknesses are\nnormal. Overall left ventricular systolic function is mildly\ndepressed globally(LVEF= 45 %). The right ventricle displays\nborderline normal free wall function. There are simple atheroma\nin the ascending aorta. There are simple atheroma in the aortic\narch. There are complex (>4mm) atheroma in the descending\nthoracic aorta. The aortic valve leaflets (3) are mildly\nthickened but aortic stenosis is not present. Trace aortic\nregurgitation is seen. The mitral valve leaflets are mildly\nthickened. Moderate (2+) mitral regurgitation is seen. The\nregurgitation is mostly central but has a slight posterior lean.\nDr. [**Last Name (STitle) **] was notified in person of the results in the\noperating room at the time of the study.\n\nPOST BYPASS The patient is AV paced. There is normal\nbiventricular systolic function with a left ventricular ejection\nfraction of 55-60%. A mitral valve annuloplasty ring is in situ.\nIt appears well seated. There is trace mitral regurgitation.\nThere is no mitral stenosis. The remainder of valvular function\nremains unchanged. The thoracic aorta appears intact after\ndecannulation.\n  I certify that I was present for this procedure in compliance\nwith HCFA regulations.\n\nElectronically signed by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4901**], MD, Interpreting physician\n[**Last Name (NamePattern4) **] [**2165-1-16**] 16:12\n\n\nBrief Hospital Course:\nAdmitted [**1-16**] and underwent surgery with Dr. [**First Name (STitle) **]. Transferred\nto the CVICU in stable condition on titrated phenylephrine and\npropofol drips. Extubated early on POD #1. Sleep medicine was\nconsulted for possible sleep apnea risks. Transferred to the\nfloor on POD #2 to begin increasing her activity level. Chest\ntubes and pacing wires removed per protocol. PICC placed for\naccess and subsequently removed. Gently diuresed toward pre-op\nweight. Made good progress and was cleared for discharge to\n[**First Name8 (NamePattern2) 3075**] [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] rehab on POD #5. All f/u appts were\nadvised. Metformin to be restarted at discretion of Dr. [**Last Name (STitle) **]\nwhen creatinine normalizes.\nLevemir to be restarted at discretion of rehab provider.\n\nMedications on Admission:\n 1. gabapentin 300 mg Capsule Sig: One (1) Capsule PO at\nbedtime.\n\n2. levothyroxine 150 mcg Tablet Sig: One (1) Tablet PO DAYS\n(MO,TU,WE,TH,FR).\n3. levothyroxine 150 mcg Tablet Sig: Two (2) Tablet PO DAYS\n([**Doctor First Name **],SA) .\n4. lovastatin 40 mg Tablet Sig: One (1) Tablet PO at bedtime.\n5. cyanocobalamin (vitamin B-12) 250 mcg Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n6. Avalide 300-25 mg Tablet Sig: One (1) Tablet PO once a day.\n7. hydralazine 50 mg Tablet Sig: One (1) Tablet PO three times a\n\nday.\n8. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n\n9. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n10. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n11. isosorbide mononitrate 30 mg Tablet Sustained Release 24 hr\nSig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).\nDisp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*\n12. carvedilol 12.5 mg Tablet Sig: Two (2) Tablet PO BID (2\ntimes a day).\n13. Insulin Sliding Scale\nHumalog Insulin Sliding Scale\nAs directed by your primary care physician\n14. metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a\nday.\n15. insulin detemir 100 unit/mL Insulin Pen Sig: Fourteen (14)\nunits Subcutaneous at bedtime.\n\n\nDischarge Medications:\n1. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\n2. potassium chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:\nOne (1) Tab Sust.Rel. Particle/Crystal PO once a day: hold for\nK+ >4.5.\n3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day) for 1 months.\n4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n5. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ4H (every 4 hours) as needed for pain.\n6. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily): on lovastatin 40 mg daily at home.\n7. levothyroxine 75 mcg Tablet Sig: Two (2) Tablet PO MON TUES\nWED [**Last Name (un) **] FRI ().\n8. levothyroxine 100 mcg Tablet Sig: Three (3) Tablet PO SAT SUN\n().\n9. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n10. heparin (porcine) 5,000 unit/mL Solution Sig: 5000 (5000)\nunits Injection TID (3 times a day).\n11. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily) for 2 weeks.\n12. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.\n13. insulin lispro 100 unit/mL Solution Sig: per sliding scale\nSubcutaneous ASDIR (AS DIRECTED): humalog per sliding scale .\n14. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime) as needed for sleep.\n15. METFORMIN to be restarted at discretion of Dr. [**Last Name (STitle) **] when\ncreatinine normalized\n16. LEVEMIR to be restarted at rehab provider [**Name Initial (PRE) 8469**]\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 388**]\n\nDischarge Diagnosis:\nCAD/mitral regurgitation s/p cabg x4/MV repair\nDyslipidemia\nHypertension\ndiastolic Congestive heart failure\nDiabetes Mellitus type 2\nHypothyroidism\nSquamous cell carcinoma- left forearm and chest\nh/o varicella zoster\nvitreous hemorrhage- Right and Left eye (post Heparin)\nLeft hemispheric stroke [**4-20**]\nAnemia- baseline Hct=27 (per patient)\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with assistance\nIncisional pain managed with oral analgesics\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Right/Left - healing well, no erythema or drainage.\nEdema  1+\n\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nFollowup Instructions:\nYou are scheduled for the following appointments:\nSurgeon:Dr. [**First Name (STitle) **] [**2-11**] @ 1:45 pm\nPCP/Cardiologist:Dr. [**Last Name (STitle) **] [**2-27**] at 2:45 pm  ([**Location (un) 4628**] office)\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]\n\nCompleted by:[**2165-1-21**]"
+    }
+  ]
+}

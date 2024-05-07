@@ -1,0 +1,122 @@
+{
+  "hadm_id": 151032,
+  "comment": "CABG - Missing OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 54182,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1530,
+          "end": 1553,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "coronary artery disease"
+        },
+        {
+          "begin": 1554,
+          "end": 1571,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "diabetes mellitus"
+        },
+        {
+          "begin": 1572,
+          "end": 1603,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "gastroesophageal reflux disease"
+        },
+        {
+          "begin": 1604,
+          "end": 1616,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 1651,
+          "end": 1693,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "Quit smoking 3 weeks prior to presentation"
+        },
+        {
+          "begin": 6956,
+          "end": 6967,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 11523,
+          "end": 11531,
+          "code": "396.2",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve insufficiency and aortic valve stenosis",
+          "type": "Human",
+          "covered_text": "stenosis"
+        },
+        {
+          "begin": 11540,
+          "end": 11563,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 11630,
+          "end": 11642,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "fibrillation"
+        },
+        {
+          "begin": 11643,
+          "end": 11681,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myocardial infarction, subendocardial infarction, initial episode of care",
+          "type": "MapType.APPROX",
+          "covered_text": "Non ST elevation myocardial infarction"
+        },
+        {
+          "begin": 11682,
+          "end": 11713,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "Gastroesophageal reflux disease"
+        },
+        {
+          "begin": 11714,
+          "end": 11726,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        }
+      ],
+      "text": "Admission Date:  [**2146-10-23**]              Discharge Date:   [**2146-11-2**]\n\nDate of Birth:  [**2074-8-30**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nPenicillins\n\nAttending:[**First Name3 (LF) 1406**]\nChief Complaint:\nDyspnea on Exertion\n\nMajor Surgical or Invasive Procedure:\n[**2146-10-25**] Coronary artery bypass grafting x2 with the left\ninternal mammary artery to left anterior descending artery and\nreverse saphenous vein graft to the posterior descending artery.\nMitral valve repair with [**Company 1543**] CG Future annuloplasty ring,\nsize 26 mm, model #638R. Aortic valve replacement with a St.\n[**Male First Name (un) 923**] Epic tissue valve model #ESP100-21-00.\n\n[**2146-10-24**] cardiac catheterization\n\n\nHistory of Present Illness:\n72 year old female with an extensive smoking history presents\nwith one day of intermittent left chest pain and worsening\nshortness of breath.  Was comfortable when EMS arrived, but on\ntransport, her breath sounds became less clear with crackles to\nthe mid lung fields and she became tachypneic. Was given 6\nsprays of NG, 40mg of Lasix, 4mg of morphine and put on BiPaP.\nHighest SBP is reported but not documented at 180. While on\nBiPaP she was tachypneic to 32-40. She admits to eating some\nsausage today prior to feeling short of breath. Also, she visits\nher husband at a long term care facility and said that many\npeople had \"colds\" there. She has had chills, and developed a\ncough, but did not measure her temperature.\n\nPast Medical History:\naortic stenosis\ncoronary artery disease\ndiabetes mellitus\ngastroesophageal reflux disease\nhypertension\n\nSocial History:\nTobacco history: Quit smoking 3 weeks prior to presentation\nwas smoking [**2-5**] ppd recently (down from 1 ppd); smoked approx\n30-40 years\nETOH Denies\nCares for her husband with [**Name (NI) 2481**].\n\nFamily History:\nBrother had an MI at 42. Positive FHx of HTN.\n\nPhysical Exam:\nPHYSICAL EXAMINATION on Admission:\n62\"   142#\nVS: T= BP=125/76 HR=92 RR=30 O2 sat=88% on 6L NC\nGENERAL: Elderly woman in mild respiratory distress. Oriented\nx3. Mood, affect appropriate.\nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were\npink, no pallor or cyanosis of the oral mucosa. No xanthalesma.\n\nNECK: Supple with JVP of ~20 (at her earlobe).\nCARDIAC: Normal rate regular rhythm. [**4-9**] LUSB\ncrescendo/decrescendo murmur, and [**3-12**] holosystolic low pitch\nmurmur.\nLUNGS: No chest wall deformities. Resp were mildly labored, with\naccessory muscle use. Diffuse crackles bilaterally with\ndecreased breath sounds at the bases. Wheezes bilaterally.\nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not\nenlarged by palpation. No abdominial bruits.\nEXTREMITIES: 1+ pitting edema\nSKIN: Warm, dry. No lesions\nPULSES:\nRight: Carotid 2+ DP 2+ PT 2+\nLeft: Carotid 2+ DP 2+ PT 2+\n\n\nPertinent Results:\n[**2146-10-22**] 10:32PM BLOOD WBC-12.4* RBC-3.78* Hgb-11.8* Hct-34.5*\nMCV-91 MCH-31.1 MCHC-34.0 RDW-14.2 Plt Ct-212\n[**2146-10-23**] 04:30AM BLOOD WBC-11.5* RBC-3.56* Hgb-11.0* Hct-32.2*\nMCV-91 MCH-31.0 MCHC-34.3 RDW-14.3 Plt Ct-201\n[**2146-10-24**] 02:57AM BLOOD WBC-8.0 RBC-3.49* Hgb-10.9* Hct-30.9*\nMCV-89 MCH-31.1 MCHC-35.1* RDW-14.3 Plt Ct-187\n[**2146-10-22**] 10:32PM BLOOD Neuts-67.8 Lymphs-26.9 Monos-3.5 Eos-1.2\nBaso-0.6\n[**2146-10-22**] 10:32PM BLOOD Plt Ct-212\n[**2146-10-22**] 10:32PM BLOOD PT-11.9 PTT-25.0 INR(PT)-1.0\n[**2146-10-23**] 04:30AM BLOOD Plt Ct-201\n[**2146-10-24**] 02:57AM BLOOD PT-13.3 PTT-38.2* INR(PT)-1.1\n[**2146-10-24**] 02:57AM BLOOD Plt Ct-187\n[**2146-10-22**] 10:32PM BLOOD Glucose-236* UreaN-8 Creat-0.7 Na-123*\nK-4.1 Cl-94* HCO3-19* AnGap-14\n[**2146-10-23**] 04:30AM BLOOD Glucose-95 UreaN-9 Creat-0.7 Na-128*\nK-4.4 Cl-94* HCO3-22 AnGap-16\n[**2146-10-23**] 11:13AM BLOOD Glucose-124* UreaN-10 Creat-0.6 Na-128*\nK-4.1 Cl-94* HCO3-21* AnGap-17\n[**2146-10-23**] 04:30AM BLOOD CK(CPK)-118\n[**2146-10-23**] 11:13AM BLOOD ALT-21 AST-29 LD(LDH)-213 AlkPhos-62\nTotBili-0.4\n[**2146-10-22**] 10:32PM BLOOD cTropnT-0.04*\n[**2146-10-22**] 10:32PM BLOOD proBNP-1210*\n[**2146-10-23**] 04:30AM BLOOD CK-MB-10 MB Indx-8.5* cTropnT-0.08*\n[**2146-10-23**] 04:30AM BLOOD Calcium-9.3 Phos-4.4 Mg-1.1*\n[**2146-10-23**] 11:13AM BLOOD Albumin-4.0 Calcium-9.0 Phos-4.4 Mg-2.4\n[**2146-10-24**] 02:57AM BLOOD Calcium-9.1 Phos-3.5 Mg-1.9\n[**2146-10-23**] 03:19PM BLOOD %HbA1c-6.1* eAG-128*\n[**2146-10-22**] 10:40PM BLOOD pH-7.35 Comment-GREEN TOP\n[**2146-10-23**] 12:33AM BLOOD pO2-92 pCO2-35 pH-7.36 calTCO2-21 Base\nXS--4 Comment-TRAUMA\n[**2146-10-22**] 10:40PM BLOOD Glucose-230* Lactate-2.4* Na-125* K-4.0\nCl-91* calHCO3-20*\n[**2146-10-23**] 12:33AM BLOOD Lactate-1.3 K-3.8\n[**2146-10-22**] 10:40PM BLOOD freeCa-1.13\n.\nECG Study Date of [**2146-10-23**]\nSinus rhythm. There is slurring of the upstroke of the QRS\ncomplex consistent with pre-excitation. Compared to the previous\ntracing voltage for left ventricular hypertrophy is slightly\nless.\n  Intervals Axes\nRate PR QRS QT/QTc P QRS T\n86 158 116 392/437 58 19 41\n.\nCardiac Cath Study Date of [**2146-10-24**]\nCOMMENTS:     1.  Coronary angiography in this right dominant\nsystem\ndemonstrated two vessel disease.  THe LMCA had no\nangiographically\napparent disease.   The LAD had a 80% proximal stenosis.  THe\nLCx had\nminimal diffuse disease.  The RCA had a 90% stenosis in the\nmid-portion.\nFINAL DIAGNOSIS:\n1. Two vessel coronary artery disease.\n.\nCHEST (PRE-OP PA & LAT) Study Date of [**2146-10-24**]\nFINDINGS: There has been marked interval improvement in\npulmonary edema.\nCardiomediastinal and hilar contours are within normal limits.\nMinimally\nincreased pulmonary vasculature and blunting of the costophrenic\nangles\nremain. No focal consolidation or pneumothorax. There are low\nlung volumes.\nIMPRESSION:\n1. Marked interval improvement in pulmonary edema.\n\n[**2146-11-2**] 05:12AM BLOOD WBC-11.0 RBC-3.22* Hgb-9.2* Hct-29.1*\nMCV-90 MCH-28.6 MCHC-31.7 RDW-16.3* Plt Ct-336\n[**2146-10-27**] 03:21AM BLOOD Neuts-88.2* Lymphs-8.9* Monos-2.5 Eos-0.2\nBaso-0.2\n[**2146-11-2**] 05:12AM BLOOD Plt Ct-336\n[**2146-11-2**] 05:12AM BLOOD PT-13.9* INR(PT)-1.2*\n[**2146-11-2**] 05:12AM BLOOD Glucose-135* UreaN-21* Creat-0.6 Na-138\nK-4.0 Cl-102 HCO3-25 AnGap-15\n[**2146-10-28**] 04:00AM BLOOD ALT-29 AST-45* LD(LDH)-333* AlkPhos-83\nAmylase-26 TotBili-0.6\n[**2146-10-23**] 04:30AM BLOOD CK-MB-10 MB Indx-8.5* cTropnT-0.08*\n[**2146-10-22**] 10:32PM BLOOD proBNP-1210*\n[**2146-11-2**] 05:12AM BLOOD Phos-2.6* Mg-1.6\n[**2146-10-23**] 03:19PM BLOOD %HbA1c-6.1* eAG-128*\n\nPA AND LATERAL VIEWS OF THE CHEST:\n\nREASON FOR EXAM: Status post AVR and MVR repair and CABG.\n\nComparison is made with prior studies [**10-30**].\n\nModerate cardiomegaly is stable. Now mild to moderate pulmonary\nedema has\nmarkedly improved. Small-to-moderate bilateral pleural effusions\nare\ndecreased associated with adjacent atelectasis. Left PICC tip is\nin the upper\nto mid SVC. Sternal wires are aligned.\n\n\nBrief Hospital Course:\nPresented to emergency department tachypneic to 32-40 while on\nBiPaP and  hypotension.  She was admitted and transferred to the\nCCU at which time she was chest pain free; vitals on transfer to\nthe CCU T 98.0, HR 83, BP 105/63, RR 30, 100% on bipap. She was\nactively diuresed and put out over 4L with significant\nimprovment in pulmonary edema seen on CXR and concomitant\nimprovement in respiratory status. Given severity of AS and\nresent exacerbation, pt was evaluated for AVR and felt to need\nvalve replacement. Pre-op work-up intiated and she underwent\nrepeat CXR, carotid ultrasound and cardiac catheterization.\nCardiac catheterization revealed coronary artery disease.\n\nOn [**2146-10-25**] she was brought to the operating room and underwent\naortic valve replacement and coronary artery bypass graft\nsurgery.  She received vancomycin for perioperative antibiotics\nand was trasnfered to the intensive care unit for post operative\nmanagement.  She remained intubated, as she remained lethargic\nand unable to protect airway.  She was transfused two units of\npacked red blood cells for anemia due to blood loss and\nhemodilution.  She was extubated on POD 3, by this time she had\nbeen weaned from inotropic and vasopressor support.  Beta\nblocker was initiated and she was gently diuresed toward the\npreoperative weight.  She did develop post-op atrial\nfibrillation and was treated with amiodarone, beta blocker and\nanti-coagulation for a goal INR 2-2.5.  Additionally, she\ndeveloped bilateral weakness of upper and lower extremities.\nThe patient was transferred to the telemetry floor for further\nrecovery.  Chest tubes and pacing wires were discontinued\nwithout complication.  The patient was evaluated by the physical\ntherapy service for assistance with strength and mobility.  By\nthe time of discharge on POD 8 she remained weak, ambulating few\nfeet with walker and assistance.  She was discharged to [**Hospital 100**]\nrehab MACU on telemetry due to continued atrial fibrillation.\n\nMedications on Admission:\nATORVASTATIN 40 mg PO daily\nHYDROCHLOROTHIAZIDE 25 mg PO daily\nLISINOPRIL 60 mg PO daily\nMETFORMIN 1,000 mg PO BID\nPANTOPRAZOLE - 40 mg PO BID\nSUCRALFATE 1 gram Q6H\nASPIRIN 81 mg PO daily\nCALCIUM CARBONATE-VITAMIN D3\nOMEGA-3 FATTY ACIDS\n\nDischarge Medications:\n1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n3. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every\n4 hours) as needed for fever, pain.\n4. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).\n6. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID\n(4 times a day).\n7. Omega-3 Fatty Acids     Capsule Sig: One (1) Capsule PO BID\n(2 times a day).\n8. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) ml\nInjection TID (3 times a day): stop when INR > 1.8.\n9. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n10. Calcium Carbonate 200 mg (500 mg) Tablet, Chewable Sig: One\n(1) Tablet, Chewable PO BID (2 times a day).\n11. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times\na day): please give 400 mg twice a day for six days, decreased\nto 400mg once a day for seven days, then 200 mg daily until\nfollow up with cardiologist .\n12. Magnesium Oxide 400 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n13. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n14. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO\nTID (3 times a day): 75 mg three times a day .\n15. Heparin Flush (10 units/ml) 2 mL IV PRN line flush\nPICC, heparin dependent: Flush with 10mL Normal Saline followed\nby Heparin as above daily and PRN per lumen.\n16. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n17. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal\nSig: One (1) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily).\n18. Metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times\na day).\n19. Warfarin 2 mg Tablet Sig: One (1) Tablet PO once a day for 1\ndays: please give 2 mg on [**11-3**] thrusday - then check INR [**11-4**]\nfor further dosing -\nhad received 2mg on [**11-1**] and [**11-2**] at [**Hospital1 18**] .\n20. Outpatient Lab Work\nChem BUN/Cr, Potassium and Magnesium twice a week while on Lasix\n\n21. heart monitor\nTelemetry to monitor rhythm due to atrial fibrillation rate\ncontrolled\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital **] Hospital - [**Hospital1 8**]\n\nDischarge Diagnosis:\nAortic stenosis s/p AVR\nCoronary artery disease s/p CABG\nMitral regurgitation s/p MV repair\nPost operative atrial fibrillation\nNon ST elevation myocardial infarction\nGastroesophageal reflux disease\nHypertension\n\n\nDischarge Condition:\nAlert and oriented x3 UE strength 5/5 LE RE [**4-8**]  LE [**5-9**]\nAmbulating with walker and assistance few feet unsteady gait\nIncisional pain managed with acetaminophen prn\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Right - healing well, no erythema or drainage steri strips\nEdema trace lower extremities\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**Last Name (STitle) **]  Wednesday [**11-16**] @ 1:45 pm  [**Hospital Ward Name **] 2A\nCardiologist:Dr. [**Last Name (STitle) **] [**11-28**] @ 10:20 AM\n\nPlease call to schedule appointments with your\nPrimary Care Dr.[**Last Name (STitle) **] in [**5-9**] weeks  [**Telephone/Fax (1) 250**]\n\nLabs: PT/INR for Coumadin ?????? indication Atrial Fibrillation\nGoal INR 2.0-2.5\nFirst draw day after discharge Friday [**2146-11-4**]\nThen please do INR checks Monday, Wednesday, and Friday for 2\nweeks then decrease to twice a week\nRehab physician to dose coumadin while at rehab\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\nCompleted by:[**2146-11-2**]"
+    }
+  ]
+}

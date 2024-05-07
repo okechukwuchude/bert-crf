@@ -1,0 +1,129 @@
+{
+  "hadm_id": 153877,
+  "comment": "Closure of ASD-Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 504714,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 218,
+          "end": 232,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "hyperlipidemia"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   HD2   POD 1-ASD closure\n   Ejection Fraction:60\n   Hemoglobin A1c:6.0\n   Pre-Op Weight:182 lbs   82.56 kgs\n   Baseline Creatinine:0.9\n   TLD:Rt IJ :Day2\n   Foley:Day2\n   PMH: ASD, HTN, obesity, NIDDM, hyperlipidemia, remote duodenal ulcer\n   osteopenia, PHTN\n   PSH: bil. shoulder [**Doctor First Name 213**], tonsillectomy, TAH, L knee [**Doctor First Name 213**], bil. breast\n   bxs, L thumb [**Doctor First Name 213**].\n   [**Last Name (un) **]: ambien 10', atenolol 100', celexa 20', fosamax 70 QTue,\n   omeprazole 20', metformin 500\", lisinopril 20', simvastatin 40'\n   Current medications:\n   Acetaminophen 5. Aspirin EC 6. Aspirin 7. Calcium Gluconate 8.\n   Chlorhexidine Gluconate 0.12% Oral Rinse\n   9. Dextrose 50% 10. Docusate Sodium 11. Docusate Sodium (Liquid) 12.\n   Furosemide 13. Glycopyrrolate\n   14. Insulin 15. Ketorolac 16. Ketorolac 17. Magnesium Sulfate 18.\n   Metoclopramide 19. Milk of Magnesia\n   20. Morphine Sulfate 21. Neostigmine 22. Nitroglycerin 23. Omeprazole\n   24. Oxymetazoline 25. Phenylephrine\n   26. Pneumococcal Vac Polyvalent 27. Potassium Chloride 28. Propofol 29.\n   Simvastatin 30. Sodium Chloride 0.9% Flush\n   31. Sodium Chloride 0.9% Flush 32. Sodium Chloride Nasal 33. Vancomycin\n   24 Hour Events:\n OR RECEIVED - At [**2173-11-2**] 10:35 AM\n ARTERIAL LINE - START [**2173-11-2**] 10:58 AM\n TRIPLE INTRODUCER - START [**2173-11-2**] 10:59 AM\n INVASIVE VENTILATION - START [**2173-11-2**] 11:00 AM\n PA CATHETER - START [**2173-11-2**] 11:00 AM\n EKG - At [**2173-11-2**] 11:15 AM\n NASAL SWAB - At [**2173-11-2**] 11:26 AM\n   mrsa\n INVASIVE VENTILATION - STOP [**2173-11-2**] 03:06 PM\n   Post operative day:\n   POD#1 - ASD repair\n   Allergies:\n   Penicillins\n   Rash;\n   Sulfa (Sulfonamide Antibiotics)\n   ? tremors;\n   Cephalosporins\n   Rash;\n   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)\n   itchy;\n   Last dose of Antibiotics:\n   Vancomycin - [**2173-11-2**] 08:00 PM\n   Infusions:\n   Phenylephrine - 0.2 mcg/Kg/min\n   Insulin - Regular - 1 units/hour\n   Other ICU medications:\n   Insulin - Regular - [**2173-11-2**] 03:49 PM\n   Morphine Sulfate - [**2173-11-3**] 05:30 AM\n   Furosemide (Lasix) - [**2173-11-3**] 05:30 AM\n   Other medications:\n   Flowsheet Data as of  [**2173-11-3**] 06:11 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**75**] a.m.\n   Tmax: 37.9\nC (100.2\n   T current: 37.7\nC (99.9\n   HR: 64 (60 - 88) bpm\n   BP: 101/48(64) {85/46(60) - 139/72(97)} mmHg\n   RR: 18 (14 - 24) insp/min\n   SPO2: 92%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 66 Inch\n   CVP: 17 (3 - 19) mmHg\n   PAP: (43 mmHg) / (22 mmHg)\n   CO/CI (Thermodilution): (4.43 L/min) / (2.9 L/min/m2)\n   SVR: 768 dynes*sec/cm5\n   SV: 87 mL\n   SVI: 44 mL/m2\n   Total In:\n                                                                  4,487 mL\n                                                                    148 mL\n   PO:\n   Tube feeding:\n   IV Fluid:\n                                                                  4,487 mL\n                                                                    148 mL\n   Blood products:\n   Total out:\n                                                                  1,315 mL\n                                                                    365 mL\n   Urine:\n                                                                  1,010 mL\n                                                                    165 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  3,172 mL\n                                                                   -217 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   Ventilator mode: Standby\n   Vt (Set): 550 (550 - 550) mL\n   Vt (Spontaneous): 102 (102 - 102) mL\n   PS : 5 cmH2O\n   RR (Set): 15\n   RR (Spontaneous): 0\n   PEEP: 0 cmH2O\n   FiO2: 40%\n   PIP: 0 cmH2O\n   SPO2: 92%\n   ABG: 7.39/40/129/24/0\n   Ve: 7 L/min\n   PaO2 / FiO2: 322\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended, Non-tender\n   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present)\n   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities; Numbness and slightly cool right hand after\n   a-line d/c\nd; +cap refill buy mild cyanosis.\n   Labs / Radiology\n   278 K/uL\n   9.0 g/dL\n   92 mg/dL\n   0.9 mg/dL\n   24 mEq/L\n   4.8 mEq/L\n   24 mg/dL\n   101 mEq/L\n   134 mEq/L\n   26.7 %\n   13.0 K/uL\n        [image002.jpg]\n                             [**2173-11-2**]  10:57 AM\n                             [**2173-11-2**]  11:58 AM\n                             [**2173-11-2**]  02:13 PM\n                             [**2173-11-2**]  02:51 PM\n                             [**2173-11-2**]  04:00 PM\n                             [**2173-11-2**]  05:00 PM\n                             [**2173-11-2**]  05:09 PM\n                             [**2173-11-2**]  06:00 PM\n                             [**2173-11-2**]  11:25 PM\n                             [**2173-11-3**]  03:30 AM\n   WBC\n   13.0\n   Hct\n   27.9\n   26.1\n   26.7\n   Plt\n   278\n   Creatinine\n   0.8\n   0.9\n   TCO2\n   25\n   25\n   25\n   25\n   Glucose\n   73\n   91\n   156\n   158\n   168\n   161\n   124\n   90\n   92\n   Other labs: PT / PTT / INR:14.1/28.1/1.2, Fibrinogen:192 mg/dL, Lactic\n   Acid:3.1 mmol/L, Mg:1.8 mg/dL\n   Assessment and Plan\n   SEPTAL DEFECT, ATRIAL (ASD)\n   Assessment and Plan:    66yoW s/p ASD closure. [**11-2**]\n   Neurologic: Pain controlled, Percocet prn.\n   Cardiovascular: Aspirin, Discontinue PA monitor, Post-op hypotension\n   --> Wean neo gtt for MAP > 60; Consult vascular regarding right hand\n   with possible embolus from a-line .\n   Pulmonary: OOB / IS\n   Gastrointestinal / Abdomen: standard bowel regimen\n   Nutrition: Advance diet as tolerated\n   Renal: Foley, Adequate UO, Mild oliguria overnight --> improved with\n   volume and\n   Hematology: Mod anemia post-op --> cont to follow.\n   Endocrine: Lantus (R), wean insulin gtt\n   Infectious Disease: Periop Vanco\n   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -\n   mediastinal, Pacing wires\n   Wounds: Dry dressings\n   Imaging: CXR today\n   Fluids: KVO\n   Consults:  CT surgery\n   Billing Diagnosis: Post-op hypotension\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Insulin infusion\n   Lines:\n   Arterial Line - [**2173-11-2**] 10:58 AM\n   Triple Introducer - [**2173-11-2**] 10:59 AM\n   PA Catheter - [**2173-11-2**] 11:00 AM\n   20 Gauge - [**2173-11-2**] 11:00 AM\n   Prophylaxis:\n   DVT:\n   Stress ulcer: PPI\n   VAP bundle:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 33 minutes\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 37146,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 385,
+          "end": 391,
+          "code": "429.71",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac septal defect, sequela of myocardial infarction",
+          "type": "Human",
+          "covered_text": "Septal"
+        },
+        {
+          "begin": 647,
+          "end": 659,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 660,
+          "end": 667,
+          "code": "278.00",
+          "code_system": "ICD-9-CM",
+          "description": "Obesity, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "obesity"
+        },
+        {
+          "begin": 668,
+          "end": 687,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "diabetes mellitus 2"
+        },
+        {
+          "begin": 688,
+          "end": 702,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "hyperlipidemia"
+        },
+        {
+          "begin": 725,
+          "end": 735,
+          "code": "733.90",
+          "code_system": "ICD-9-CM",
+          "description": "Disorder of bone and cartilage, unspecified",
+          "type": "MapType.MULTI",
+          "covered_text": "osteopenia"
+        },
+        {
+          "begin": 736,
+          "end": 758,
+          "code": "416.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pulmonary heart diseases",
+          "type": "Human",
+          "covered_text": "Pulmonary hypertension"
+        },
+        {
+          "begin": 6270,
+          "end": 6278,
+          "code": "532.90",
+          "code_system": "ICD-9-CM",
+          "description": "Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation, without mention of obstruction",
+          "type": "MapType.APPROX",
+          "covered_text": "duodenal"
+        }
+      ],
+      "text": "Admission Date:  [**2173-11-2**]              Discharge Date:   [**2173-11-6**]\n\nDate of Birth:  [**2107-3-8**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nPenicillins / Sulfa (Sulfonamide Antibiotics) / Cephalosporins /\nPercocet\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nmild DOE\n\n\nMajor Surgical or Invasive Procedure:\n[**2173-11-2**] - Closure of Atrial Septal Defect\n\n\nHistory of Present Illness:\n66 yo female with ASD found on echo for murmur [**9-2**]. Recently\nTEE confirms a large secundum ASD with anatomy unfavorable for\npercutaneous closure.Referred for surgery.\n\n\nPast Medical History:\nAtrial septal defect\nHypertension\nobesity\ndiabetes mellitus 2\nhyperlipidemia\nremote duodenal ulcer\nosteopenia\nPulmonary hypertension\n\nSocial History:\nRace:Caucasian\nLast Dental Exam:summer [**2172**]\nLives alone\nOccupation:secretary\nTobacco:quit 25 years ago- approx 10 PYHx\nno recr. drug use\nETOH:rarely\n\n\nFamily History:\nFamily History:father died of MI at 79\n\nPhysical Exam:\nPulse:76 reg B/P  Right: 148/84  Left: 152/84    Resp:    O2\nsat:\nHeight: 5'1\"    Weight:188#\nGeneral:NAD\nSkin: Dry [x] [**Year (4 digits) 5235**] [x]\nHEENT: PERRLA [] EOMI [x]ptosis left upper lid;anicteric sclera\nNeck:  Supple [x] Full ROM []no JVD\nChest: Lungs clear bilaterally [ x]\nHeart: RRR [x]  Irregular []  Murmur- 1-2/6 systolic murmur\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]: obese, no HSM/CVA tenderness, healed abd scar\nExtremities: Warm [x], well-perfused [x]  Edema-none\nVaricosities: None []mild spider veins\nNeuro: Grossly [**Year (4 digits) 5235**]; nonfocal exam, MAE [**3-30**] strengths\nPulses:\nFemoral      Right: 1+  Left: 1+\nDP           Right: NP  Left: NP\nPT           [**Name (NI) 167**]: 2+  Left: 2+\nRadial       Right: 2+  Left: 2+\nCarotid Bruit   Right: none   Left:none\n\n\nPertinent Results:\n[**2173-11-2**] ECHO\nPre-CPB:\nNo spontaneous echo contrast is seen in the left atrial\nappendage.\nA large secundum atrial septal defect is present, measuring 1.8\ncm square. Left to right flow.\nOverall left ventricular systolic function is normal (LVEF>55%).\n\nRight ventricular chamber size and free wall motion are normal.\nThere are simple atheroma in the descending thoracic [**Month/Day/Year 5236**].\nThe aortic valve leaflets (3) appear structurally normal with\ngood leaflet excursion and no aortic regurgitation. Physiologic\nmitral regurgitation is seen (within normal limits).\nThere is no pericardial effusion.\nPost-CPB:\nPatient is AV-Paced, on low dose phenylephrine.\nThere has been a linear suture closure of the ASD. No residual\nflow.\nNormal biventricular systolic fxn. No AI, no MR.\n[**First Name (Titles) **] [**Last Name (Titles) 5235**].\npre-op\n[**2173-11-2**] 07:35AM   HGB-10.9* calcHCT-33\n[**2173-11-2**] 07:35AM   GLUCOSE-118* LACTATE-1.4 NA+-135 K+-4.4\nCL--100\n[**2173-11-2**] 09:54AM   FIBRINOGE-192\n[**2173-11-2**] 09:54AM   PT-14.9* PTT-24.7 INR(PT)-1.3*\n[**2173-11-2**] 09:54AM   PLT COUNT-251\n[**2173-11-2**] 10:49AM   UREA N-31* CREAT-0.9 CHLORIDE-106 TOTAL\nCO2-23\npost-op\n[**2173-11-5**] 06:00AM BLOOD WBC-8.7 RBC-3.24* Hgb-9.3* Hct-28.3*\nMCV-88 MCH-28.9 MCHC-33.0 RDW-15.0 Plt Ct-196\n[**2173-11-5**] 06:00AM BLOOD Plt Ct-196\n[**2173-11-2**] 10:49AM BLOOD PT-14.1* PTT-28.1 INR(PT)-1.2*\n[**2173-11-5**] 06:00AM BLOOD UreaN-24* Creat-0.9 K-4.7\n[**11-4**] CXR\nSmalll bilateral pleural effusions R>L\nElevated R hemidiaphram\n\nBrief Hospital Course:\nMs. [**Known lastname 174**] was admitted to the [**Hospital1 18**] on [**2173-11-2**] for surgical\nrepair of her atrial septal defect. She was taken directly to\nthe operating room where she underwent closure of her atrial\nseptal defect. Please see operative note for details. She\ntolerated the operation well and postoperatively she was taken\nto the intensive care unit for monitoring. She was\nhemodynamically stable in the immediate post operative period,\nshe awoke neurologically [**Date Range 5235**] and was extubated. She was\nstarted on beta blockade, statin and aspirin. On POD 1 she\nexperienced right hand numbness which resolved over the day.\nVascular evaluated her for this complaint and recommended\nconservative management with warm compresses. She was then\ntransferred to the step down unit for further recovery. She was\ngently diuresed towards her preoperative weight. The physical\ntherapy service was consulted for assistance with her\npostoperative strength and mobility. The remainder of her post\noperative course was uneventful. On post-operative day 4 she was\ndischarged to [**Hospital 3548**] [**Hospital 3549**] Rehabilitation Center in [**Location (un) 1110**].\n\n\nMedications on Admission:\nambien 10 mg daily\natenolol 100 mg daily\ncelexa 20 mg daily\nfosamax 70 mg Q Tuesday\nomeprazole 20 mg daily\nmetformin 500 mg [**Hospital1 **]\nlisinopril 20 mg daily\nsimvastatin 40 mg daily\n\nDischarge Medications:\n1. Potassium Chloride 10 mEq Tablet Sustained Release Sig: Two\n(2) Tablet Sustained Release PO once a day.\n2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n4. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO HS (at bedtime) as needed for constipation.\n5. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n6. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n7. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\n8. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours) as needed for pain.\n9. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.\n10. Ibuprofen 200 mg Tablet Sig: Two (2) Tablet PO every six (6)\nhours for 1 months.\n11. Celexa 20 mg Tablet Sig: One (1) Tablet PO once a day.\n12. Metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.\n\n13. Fosamax 70 mg Tablet Sig: One (1) Tablet PO Q tues.\n14. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.\n\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Doctor First Name 3548**] [**Doctor Last Name 3549**] Nursing & Rehabilitation Center - [**Location (un) 1110**]\n\nDischarge Diagnosis:\nAtrial septal defect s/p closure\nHypertension\nobesity\nDiabetes mellitus\nhyperlipidemia\nremote duodenal ulcer\nosteopenia\nPulmonary Hypertension\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating, gait steady\nSternal pain managed with ultram prn\nWound-healing well, no erythema or drainage\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming, and look at your incisions\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month until follow up with\nsurgeon\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n\n\nFollowup Instructions:\nPlease call to schedule appointments\nSurgeon Dr. [**Last Name (STitle) **] on [**2172-12-9**] -9am @[**Hospital1 **] MC [**Telephone/Fax (1) 170**]\nPrimary Care Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 83692**] in [**11-27**] weeks\nCardiologist Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6254**] in [**11-27**] weeks\nWound check appointment - [**Hospital Ward Name 121**] 6 ([**Telephone/Fax (1) 3071**]) - your nurse\nwill schedule\n\n\n\nCompleted by:[**2173-11-6**]"
+    },
+    {
+      "note_id": 504674,
+      "category": "Physician",
+      "description": "ICU Note - CVI",
+      "annotations": [
+        {
+          "begin": 197,
+          "end": 200,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 211,
+          "end": 216,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "NIDDM"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   HD2   POD 1-ASD closure\n   Ejection Fraction:60\n   Hemoglobin A1c:6.0\n   Pre-Op Weight:182 lbs   82.56 kgs\n   Baseline Creatinine:0.9\n   TLD:Rt IJ :Day2\n   Foley:Day2\n   PMH: ASD, HTN, obesity, NIDDM, hyperlipidemia, remote duodenal ulcer\n   osteopenia, PHTN\n   PSH: bil. shoulder [**Doctor First Name 213**], tonsillectomy, TAH, L knee [**Doctor First Name 213**], bil. breast\n   bxs, L thumb [**Doctor First Name 213**].\n   [**Last Name (un) **]: ambien 10', atenolol 100', celexa 20', fosamax 70 QTue,\n   omeprazole 20', metformin 500\", lisinopril 20', simvastatin 40'\n   Current medications:\n   Acetaminophen, Aspirin EC, Docusate Sodium, Furosemide, Insulin,\n   Ketorolac, Metoclopramide, Milk of Magnesia,  Morphine Sulfate,\n   Omeprazole, Phenylephrine, Simvastatin, Vancomycin\n   24 Hour Events:\n   Extubated without incident, weaning neo\n   Post operative day:\n   POD#1 - ASD repair\n   Allergies:\n   Penicillins\n   Rash;\n   Sulfa (Sulfonamide Antibiotics)\n   ? tremors;\n   Cephalosporins\n   Rash;\n   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)\n   itchy;\n   Last dose of Antibiotics:\n   Vancomycin - [**2173-11-2**] 08:00 PM\n   Infusions:\n   Phenylephrine - 0.2 mcg/Kg/min\n   Insulin - Regular - 1 units/hour\n   Other ICU medications:\n   Insulin - Regular - [**2173-11-2**] 03:49 PM\n   Morphine Sulfate - [**2173-11-3**] 05:30 AM\n   Furosemide (Lasix) - [**2173-11-3**] 05:30 AM\n   Other medications:\n   Flowsheet Data as of  [**2173-11-3**] 07:47 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**75**] a.m.\n   Tmax: 37.9\nC (100.2\n   T current: 37.8\nC (100\n   HR: 68 (60 - 88) bpm\n   BP: 104/63(77) {85/46(60) - 139/72(97)} mmHg\n   RR: 23 (14 - 24) insp/min\n   SPO2: 93%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 66 Inch\n   CVP: 18 (3 - 19) mmHg\n   PAP: (44 mmHg) / (25 mmHg)\n   CO/CI (Thermodilution): (4.43 L/min) / (2.9 L/min/m2)\n   SVR: 726 dynes*sec/cm5\n   SV: 88 mL\n   SVI: 45 mL/m2\n   Total In:\n                                                                  4,487 mL\n                                                                    167 mL\n   PO:\n   Tube feeding:\n   IV Fluid:\n                                                                  4,487 mL\n                                                                    167 mL\n   Blood products:\n   Total out:\n                                                                  1,315 mL\n                                                                    735 mL\n   Urine:\n                                                                  1,010 mL\n                                                                    535 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  3,172 mL\n                                                                   -568 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   Ventilator mode: Standby\n   Vt (Set): 550 (550 - 550) mL\n   Vt (Spontaneous): 102 (102 - 102) mL\n   PS : 5 cmH2O\n   RR (Set): 15\n   RR (Spontaneous): 0\n   PEEP: 0 cmH2O\n   FiO2: 40%\n   PIP: 0 cmH2O\n   SPO2: 93%\n   ABG: 7.39/40/129/24/0\n   Ve: 7 L/min\n   PaO2 / FiO2: 322\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular), + Loud Rub\n   Respiratory / Chest: (Breath Sounds: Diminished: at bases)\n   Abdominal: Soft, Non-distended, Non-tender, Hypoactive BS\n   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Neurologic: (Awake / Alert / Oriented: x 3), Moves all extremities\n   Labs / Radiology\n   278 K/uL\n   9.0 g/dL\n   92 mg/dL\n   0.9 mg/dL\n   24 mEq/L\n   4.8 mEq/L\n   24 mg/dL\n   101 mEq/L\n   134 mEq/L\n   26.7 %\n   13.0 K/uL\n        [image002.jpg]\n                             [**2173-11-2**]  10:57 AM\n                             [**2173-11-2**]  11:58 AM\n                             [**2173-11-2**]  02:13 PM\n                             [**2173-11-2**]  02:51 PM\n                             [**2173-11-2**]  04:00 PM\n                             [**2173-11-2**]  05:00 PM\n                             [**2173-11-2**]  05:09 PM\n                             [**2173-11-2**]  06:00 PM\n                             [**2173-11-2**]  11:25 PM\n                             [**2173-11-3**]  03:30 AM\n   WBC\n   13.0\n   Hct\n   27.9\n   26.1\n   26.7\n   Plt\n   278\n   Creatinine\n   0.8\n   0.9\n   TCO2\n   25\n   25\n   25\n   25\n   Glucose\n   73\n   91\n   156\n   158\n   168\n   161\n   124\n   90\n   92\n   Other labs: PT / PTT / INR:14.1/28.1/1.2, Fibrinogen:192 mg/dL, Lactic\n   Acid:3.1 mmol/L, Mg:1.8 mg/dL\n   Assessment and Plan\n   66 yo female s/p ASD closure\n   Neurologic: Neuro checks Q: 8 hr, Pain control with dilaudid and\n   toradol\n   Cardiovascular: Aspirin, Statins, Discontinue PA monitor, Wean neo and\n   start beta blockers as tolerated\n   Pulmonary: Monitor Chest tube output, Enc DB/IS/OOB\n   Nutrition: Advance diet as tolerated\n   Renal: Foley, Lasix to run negative, Crea stable\n   Hematology: ASA, Hct stable\n   Endocrine: RISS, Insulin drip, Transition from insulin gtt - restart\n   home DM meds once po intake improves\n   Infectious Disease:  Afebrile,  Perio abx\n   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -\n   mediastinal, Pacing wires\n   Wounds: Dry dressings\n   Fluids: KVO\n   Consults: P.T.\n   ICU Care\n   Glycemic Control:  Regular insulin sliding scale, Insulin infusion\n   Prophylaxis:\n   Stress ulcer: H2 blocker\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: Transfer to floor\n"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "hadm_id": 193430,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 51852,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 234,
+          "end": 246,
+          "code": "253.6",
+          "code_system": "ICD-9-CM",
+          "description": "Other disorders of neurohypophysis",
+          "type": "Human",
+          "covered_text": "Hyponatremia"
+        },
+        {
+          "begin": 400,
+          "end": 403,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 404,
+          "end": 411,
+          "code": "V45.82",
+          "code_system": "ICD-9-CM",
+          "description": "Percutaneous transluminal coronary angioplasty, postsurgical status",
+          "type": "Human",
+          "covered_text": "s/p PCI"
+        },
+        {
+          "begin": 413,
+          "end": 416,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 422,
+          "end": 425,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 1800,
+          "end": 1811,
+          "code": "493.20",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic obstructive asthma, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "COPD/asthma"
+        },
+        {
+          "begin": 2771,
+          "end": 2776,
+          "code": "253.6",
+          "code_system": "ICD-9-CM",
+          "description": "Other disorders of neurohypophysis",
+          "type": "Human",
+          "covered_text": "SIADH"
+        },
+        {
+          "begin": 4042,
+          "end": 4053,
+          "code": "276.52",
+          "code_system": "ICD-9-CM",
+          "description": "Hypovolemia",
+          "type": "Human",
+          "covered_text": "hypovolemic"
+        },
+        {
+          "begin": 5949,
+          "end": 5970,
+          "code": "447.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified disorders of arteries and arterioles",
+          "type": "Human",
+          "covered_text": "ectatic celiac\nartery"
+        }
+      ],
+      "text": "Admission Date:  [**2151-11-27**]              Discharge Date:   [**2151-12-3**]\n\nDate of Birth:  [**2066-9-14**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPenicillins\n\nAttending:[**First Name3 (LF) 2290**]\nChief Complaint:\nHyponatremia\n\nMajor Surgical or Invasive Procedure:\nNone\n\n\nHistory of Present Illness:\nMrs. [**Known lastname **] is an 85 year old female with a PMH significant for\nCAD s/p PCI, HTN, and HLD admitted for hyponatremia. The patient\nand her daughters report that she has had decreased PO intake\nover the past week, and yesterday developed nausea and vomiting.\nHer daughters further state that she was admitted to NEBH one\nmonth prior for \"dehydration,\" but she did not have a low\nsodiuum level at that time. They further state that since her\ndischarge, she has had an acute decline in her memory and\nability to function independently, and is currently living at\nhome with her husband under 24 hour nursing care.  She denies\nany f/c/s, diarrhea, chest pain, shortness of breath, HA,\npalpitations, orthopnea, LE edema, or PND. The patient does\nreport a periumbilicar abomdinal pain, which her daughters state\nhas been going on for years.  Her daughters also state that she\nhas had no recent medication changes.\n.\nIn the [**Hospital1 18**] ED, initial VS 77 115/55 20 100%RA.  A CXR and UA\nwas negative. A CTAP demonstrated a 7 mm celiac aneurysm, for\nwhich vascular surgery was consulted in the ED with\nrecommendation for no acute intervention at this time. The\npatient was then admitted to the MICU for further management.\n.\nCurrently, the patient is resting comfortably without\ncomplaints.\n\nPast Medical History:\nBradycardia\nLabile hypertension\nHyperlipidemia\nCholecystectomy\nBilateral cataract surgery\nAcid reflux\nCoronary artery disease, s/p PCI to LAD, LCX and RCA\nCOPD/asthma (not an active problem)\nGlaucoma\nAppendectomy\nTonsillectomy\nEczema on legs bilaterally\n\nSocial History:\nMarried, lives at home with her husband, independent prior to\nadmission\n\n\nFamily History:\nNon-contributory\n\nPhysical Exam:\nVS: 97.7 87 173/78 21 100%RA\nGen: Elderly frail woman in NAD\nHEENT: Dry MM, PERRL, eomi, sclerae anicteric. No LAD\nCV: Nl S1+S2, JVP flat\nPulm: CTAB\nAbd: S/NT/ND +bs\nExt: No c/c/e.\nNeuro: AOx3, CN II-XII intact.\n\nOn discharge:\nVS: 97.8 156/90 92 16 97% RA\nGen: Elderly frail woman in NAD, AOx3\nHEENT: mmm, PERRL, eomi, sclerae anicteric. No LAD\nCV: Nl S1+S2, JVP flat\nPulm: CTAB\nAbd: S/NT/ND +bs\nExt: No c/c/e.\nNeuro: AOx3, unable to do days of the week backwards\n\n\nPertinent Results:\nCTAP:\n1. No AAA or acute aortic process.\n2. Ectatic celiac axis origin without discrete aneurysm.\n3. No acute intra-abdominal process seen.\n\nCXR: No acute intrathoracic process.\n\nCT head: 1. No evidence of intracranial mass to suggest a source\nof SIADH.\n2. No acute intracranial process.\n\nCT chest: Minimal subsegmental atelectasis. No evidence of\nmalignancy or\ninfection.\n\nAdmission labs:\n[**2151-11-27**] 11:20AM   GLUCOSE-140* UREA N-11 CREAT-0.5 SODIUM-113*\nPOTASSIUM-4.2 CHLORIDE-77* TOTAL CO2-26 ANION GAP-14\n[**2151-11-27**] 11:20AM   LIPASE-91*\n[**2151-11-27**] 11:20AM   ALT(SGPT)-21 AST(SGOT)-30 ALK PHOS-92 TOT\nBILI-0.5\n[**2151-11-27**] 03:51PM URINE  HOURS-RANDOM CREAT-53 SODIUM-70\nPOTASSIUM-46 CHLORIDE-73\n\nDischarge labs:\n[**2151-12-3**] 09:50AM BLOOD WBC-8.6 RBC-3.86* Hgb-10.7* Hct-32.4*\nMCV-84 MCH-27.8 MCHC-33.0 RDW-16.4* Plt Ct-329\n[**2151-12-3**] 09:50AM BLOOD Glucose-173* UreaN-11 Creat-0.5 Na-132*\nK-3.9 Cl-97 HCO3-28 AnGap-11\n\n\nBrief Hospital Course:\nMrs. [**Known lastname **] is an 85 year old female with a PMH significant for\nCAD s/p PCI, HTN, and HLD admitted for hyponatremia.\n\n# Hyponatremia: The patient was admitted with a serum sodium of\n113, but without seizure activity or evidence of coma,\nsuggesting that patient's sodium decreased slowly over time.\nHowever her mental status was not at baseline, very likely [**12-29**]\ndelirium in the setting of hyponatremia.  Her thiazide diuretic\nwas held, as this was likely contributing to hyponatremia.  On\nadmission, she was noted to be hypovolemic and her sodium\nimproved some with normal saline.  However, her sodium started\nto decrease with continued normal saline infusion.  Urine and\nserum lytes were rechecked and in the setting of euvolemia, her\nhyponatremia was thought most likely to be due to SIADH (urine\nosm >400, serum Na <120 and serum osms low, and urine Na\ninappropriately high).  CT head and chest were done to eval for\nmalignancy for etiology of SIADH, no masses were noted.  She was\ntreated with free water restriction and TID salt tabs, as\nrecommended by the nephrology service.  On discharge she will\ncontinue to take salt tabs and have her Na monitored as an\noutpatient.  Na on discharge 132.  She will f/u with PCP for\nanother [**Name9 (PRE) **] check on [**12-7**].  She should probably not restart a\nthiazide diuretic in the future.\n\n#Altered mental status: likely has baseline dementia that\ninitially was slowly progressing but acutely worsened after\nbeing hospitalized in [**Month (only) **].  Has 24 hr nursing care at home.\n During admission initially, was frequently not oriented to\nplace or location, or why she was in the hospital and often saw\npeople and things that were not actually present, with both\nauditory and visual hallucinations.  Waxing and [**Doctor Last Name 688**] course\nsuggested delirium in the setting of her hyponatremia vs\nworsening dementia.  On discharge, mental status at baseline per\nfamily, unable to do months of the year backwards but AOx3 and\nno hallucinations.  continued home aricept.\n\n# HTN: Her hydrochlorothiazide was held as above.  She was\ncontinued on valsartan at 160 mg [**Hospital1 **], which is her home dose.\nShe was also continued on isosorbide mononitrate.  SBP was still\nelevated to 140s-160s, so amlodipine 5 mg daliy was started for\nimproved BP control.\n\n# ?Celiac aneurysm: Initially CT Abd/pelvis showed concern for\nceliac artery aneursym, however final CTA read ectatic celiac\nartery without aneurysm.\n\n# Elevated lipase: Unclear significance with no radiographic\nevidence of pancreatic and benign abdominal exam.  Also had CTA\nabd/pelvis without evidence of pancreatitis.\n\n# CAD s/p PCI: She was continued on ASA, valsartan, and\nclopidogrel.\n\n# DM 2: HISS with accuchecks, continued home metformin on\ndischarge.\n\n# HLD: Vytorin continued on discharge.\n\nCode: DNR/DNI (confirmed with daughters/[**Name2 (NI) **]-HCPs during admission\n\nContact: [**Name (NI) 107386**],[**First Name3 (LF) **] [**Telephone/Fax (1) 107387**]\n\nMedications on Admission:\nClonidine 0.15 mg po bid\nASA 325 mg daily\nMVI\nxalatan eye drops\nValsartan 320 mg daily\nClopidogrel 75 mg daily\nVytorin daily\nCa/Vit D\nOmeprazole\nAricept 10 mg daily\nMOM\nFosamax 35 mg weekly\nMetformin 850 mg po bid\nHCTZ 25 mg daily\nImdur 60 mg daily\nSL NTG PRN\n\nDischarge Medications:\n1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n2. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at\nbedtime).\n3. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).\n\n5. isosorbide mononitrate 30 mg Tablet Sustained Release 24 hr\nSig: Two (2) Tablet Sustained Release 24 hr PO DAILY (Daily).\n6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n7. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n8. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n9. sodium chloride 1 gram Tablet Sig: One (1) Tablet PO TID (3\ntimes a day).\nDisp:*90 Tablet(s)* Refills:*2*\n10. metformin 850 mg Tablet Sig: One (1) Tablet PO twice a day.\n\n11. valsartan 320 mg Tablet Sig: One (1) Tablet PO once a day.\n12. Fosamax 35 mg Tablet Sig: One (1) Tablet PO once a week.\n13. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO once a day.\n14. Trusopt 2 % Drops Sig: One (1)  Ophthalmic twice a day: 1\ndrop both eyes [**Hospital1 **].\n15. Vytorin [**9-14**] 10-20 mg Tablet Sig: One (1) Tablet PO once a\nday.\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nBayada VNA\n\nDischarge Diagnosis:\nHyponatremia\nSyndrome of inappropriate secretion of antidiuretic hormone\n(SIADH)\nHypertension\n\n\nDischarge Condition:\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\nLevel of Consciousness: Alert and interactive.\nMental Status: Confused - sometimes.\n\n\nDischarge Instructions:\nYou were seen in the hospital for hyponatremia, which is a low\nlevel of sodium in your blood.  This may have been caused by\ndecreased eating and drinking at home, and also by a hormone in\nyour body that was holding on to too much water in the blood\nstream and diluting the sodium in your blood.\n\nPlease continue taking salt tablets three times a day and\nrestricting free water intake.  This means limiting the intake\nof plain water, juice, tea, and other fluids like this to one\nliter per day.  Liquids such as gatorade, soup, supplement\nshakes, and others that have a higher content of salt and\nelectrolytes are not limited.  Please continue limiting free\nwater to 1 liter per day unless directed otherwise by your PCP,\n[**Last Name (NamePattern4) **]. [**Last Name (STitle) **].\n\nWe also stopped your hydrochlorothiazide, which may have been\ncontributing to the low sodium level in your blood.  To control\nyour blood pressure, we started a new medication, amlodipine,\nfor blood pressure control.\n\nChanges to your medications:\nSTOP taking hydrochlorothiazide\nSTOP taking clonidine\n\nSTART taking amlodipine daily\nSTART taking salt tablets (sodium chloride) three times a day\nwith meals\n\nFollowup Instructions:\nName: [**Last Name (LF) **],[**First Name3 (LF) **] J.\nLocation: [**Doctor Last Name **] BLDG, [**Apartment Address(1) 17383**]\nAddress: [**Last Name (NamePattern1) 8541**], [**Location (un) **],[**Numeric Identifier 9749**]\nPhone: [**Telephone/Fax (1) 7960**]\nAppt: [**12-8**] at 3pm\n\n\n\nCompleted by:[**2151-12-3**]"
+    }
+  ]
+}

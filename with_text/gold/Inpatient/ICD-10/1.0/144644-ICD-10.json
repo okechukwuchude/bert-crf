@@ -1,0 +1,86 @@
+{
+  "hadm_id": 144644,
+  "comment": "CABG  - Missing OP Note to validate PCS",
+  "notes": [
+    {
+      "note_id": 42137,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 434,
+          "end": 449,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "coronary artery"
+        },
+        {
+          "begin": 1958,
+          "end": 1960,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 2027,
+          "end": 2030,
+          "code": "I12.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 2031,
+          "end": 2051,
+          "code": "E78.00",
+          "code_system": "ICD-10-CM",
+          "description": "Pure hypercholesterolemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hypercholesterolemia"
+        },
+        {
+          "begin": 2052,
+          "end": 2059,
+          "code": "E66.9",
+          "code_system": "ICD-10-CM",
+          "description": "Obesity, unspecified",
+          "type": "Human",
+          "covered_text": "Obesity"
+        },
+        {
+          "begin": 2095,
+          "end": 2106,
+          "code": "Z85.46",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of malignant neoplasm of prostate",
+          "type": "Human",
+          "covered_text": "Prostate CA"
+        },
+        {
+          "begin": 2123,
+          "end": 2135,
+          "code": "N18.2",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, stage 2 (mild)",
+          "type": "Human",
+          "covered_text": "CKD stage II"
+        },
+        {
+          "begin": 6415,
+          "end": 6434,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        }
+      ],
+      "text": "Admission Date:  [**2158-8-10**]              Discharge Date:   [**2158-8-16**]\n\nDate of Birth:  [**2087-12-28**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 922**]\nChief Complaint:\nabnormal EKG\n\n\nMajor Surgical or Invasive Procedure:\n[**2158-8-10**] Coronary bypass grafting x4 with left internal mammary\n    artery to left anterior descending coronary artery, with\nextended patch angioplasty, reverse saphenous vein graft from\nthe aorta to the first obtuse marginal coronary artery; reverse\nsaphenous vein graft from the aorta to the second obtuse\nmarginal coronary; reverse saphenous vein graft from the aorta\nto the posterior descending coronary artery, Endoscopic left\ngreater saphenous vein harvesting.\n\nHistory of Present Illness:\n70 year old male without any previous known cardiac disease, who\nwas found to have an abnormal EKG during preoperative workup for\nBladder and Kidney stones. He was sent for an echo which\nrevealed low-normal systolic function with\nan EF of 50-55%. He was sent for a Persantine Stress which\nrevealed a large previous infarct in the anterior and\nanteroseptal walls extending from the mild LV to the apex with\nmild peri-infarct ischemia. He does report 2 very brief\nepisodes of a gurgling sensation around his breast bone several\nmonths occur. Each episode lasted only seconds, occurred while\nlying down, with no associated symptoms, and resolved on its\nown. He is overall very sedentary. He has been overweight and\nhas never exercised. He fell down a couple stairs last week and\ninjured his left foot. He still has localized swelling. An XRAY\ndid not reveal any fracture. He is still having difficulty\ngetting around secondary to the pain. He was referred for\ncardiac catheterization and was found to have coronary artery\ndisease. He is now referred to cardiac surgery for\nrevascularizaiton.\n\nPast Medical History:\n? Silent MI\nType 2 DM - most recent HbA1c 7.6 in [**2158-5-17**] on insulin for 5\nyears\nHTN\nHypercholesterolemia\nObesity\nBladder and Renal Stones/Hematuria\nProstate CA s/p XRT therapy\nCKD stage II\n\n\nSocial History:\nSOCIAL HISTORY: He lives with his wife in [**Name (NI) 5028**]. He is\nretired, used to be a delivery person. He has two adult\nchildren. He does not use any assistive devices.\nTOBACCO: never\nETOH: rare\nDrugs: none\n\n\nFamily History:\nFather died of heart disease in his 70's. Father also diabetic.\nMother died in her 50's of peritonitis.\n\n\nPhysical Exam:\nAdmission Physical Exam\n\nPulse:80 Resp:18  O2 sat:99/RA\nB/P  Right:171/87    Left:160/83\nHeight:5'[**56**]\"     Weight:276 lbs\n\nGeneral:\nSkin: Dry [x] intact []\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur [] grade ______\nAbdomen: Soft [] non-distended [] non-tender []  bowel sounds +\n[]\nExtremities: Warm [x], well-perfused [x]  Varicosities: None [x]\nNeuro: Grossly intact [x]\nPulses:\nFemoral      Right: Palp   Left: palp\nDP           Right: Palp   Left: dop\nPT           [**Name (NI) 167**]: Palp   Left:  dop\nRadial       Right: Plap     Left: Palp\n\nCarotid Bruit        Right: None    Left: None\n\n\nPertinent Results:\nEchocardiogram\nLeft Atrium - Four Chamber Length:  4.5 cm  <= 5.2 cm\nLeft Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm\nLeft Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm\n\nLeft Ventricle - Diastolic Dimension:  5.0 cm  <= 5.6 cm\nLeft Ventricle - Ejection Fraction:  50% to 55%  >= 55%\nAorta - Annulus:  2.5 cm  <= 3.0 cm\nAorta - Sinus Level:  2.9 cm  <= 3.6 cm\nAorta - Ascending:  3.0 cm  <= 3.4 cm\nAorta - Arch:  2.3 cm  <= 3.0 cm\nAorta - Descending Thoracic:  2.1 cm  <= 2.5 cm\nAortic Valve - Peak Velocity:  *2.3 m/sec  <= 2.0 m/sec\nAortic Valve - LVOT diam:  2.0 cm\nAortic Valve - Valve Area:  *2.6 cm2  >= 3.0 cm2\nMitral Valve - Pressure Half Time:  53 ms\nMitral Valve - E Wave:  1.0 m/sec\nMitral Valve - A Wave:  0.6 m/sec\nMitral Valve - E/A ratio:  1.67\nMitral Valve - E Wave deceleration time:  182 ms  140-250 ms\nLEFT ATRIUM: Normal LA and RA cavity sizes. No spontaneous echo\ncontrast or thrombus in the body of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA. Good (>20\ncm/s) LAA ejection velocity.\nRIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.\nLEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. Low\nnormal LVEF.\nLV WALL MOTION: Regional left ventricular wall motion findings\nas shown below; remaining LV segments contract normally.\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\nAORTA: Normal aortic diameter at the sinus level. Normal\nascending aorta diameter. Simple atheroma in ascending aorta.\nNormal aortic arch diameter. Simple atheroma in aortic arch.\nNormal descending aorta diameter. Simple atheroma in descending\naorta.\nAORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.\nNo AR.\nMITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate\nmitral annular calcification. No MS. Trivial MR.\nTRICUSPID VALVE: Normal tricuspid valve leaflets with trivial\nTR.\nPULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.\nPERICARDIUM: No pericardial effusion.\nPRE-BYPASS: The left atrium and right atrium are normal in\ncavity size. No spontaneous echo contrast or thrombus is seen in\nthe body of the left atrium or left atrial appendage. No atrial\nseptal defect is seen by 2D or color Doppler. There is mild\nsymmetric left ventricular hypertrophy. The left ventricular\ncavity size is normal. Overall left ventricular systolic\nfunction is low normal (LVEF 50-55%). There is apical\nhypokinesis. The remaining left ventricular segments contract\nnormally. Right ventricular chamber size and free wall motion\nare normal. There are simple atheroma in the ascending aorta.\nThere are simple atheroma in the aortic arch. There are simple\natheroma in the descending thoracic aorta. The aortic valve\nleaflets (3) are mildly thickened. There is no aortic valve\nstenosis. No aortic regurgitation is seen. The mitral valve\nleaflets are mildly thickened. Trivial mitral regurgitation is\nseen. There is no pericardial effusion. Dr. [**Last Name (STitle) 914**] was notified\nin person of the results at time of surgery.\nPOST-BYPASS: The patient is on no inotropes. Biventricular\nfunction is unchanged. No new valvular abnormalities are seen.\nThe aorta is intact after removal of the bypass cannula.\n\nekg\nAtrial fibrillation. Left axis deviation. Poor R wave\nprogression and lack\nof R waves in the anterolateral leads suggestive of prior\nmyocardial\ninfarction. Small R waves in the inferior leads suggest possible\ninferior\nmyocardial infarction. Compared to the previous tracing of\n[**2158-8-11**] atrial\nfibrillation is new and there is modest J point elevation in\nleads III and aVF raising the possibility of an acute process.\nSuggest clinical correlation and repeat tracing.\n  Intervals Axes\nRate PR QRS QT/QTc P QRS T\n62 0 124 422/425 0 -58 90\n\nCXR [**8-15**]\nCOMPARISON: [**2158-8-12**].\nFINDINGS: Upright PA and lateral views of the chest show\nimprovement of a\nsmall left pleural effusion. There is an unchanged tiny right\npleural\neffusion. Left retrocardiac atelectasis is stable. No change in\nmild\ncardiomegaly. No pneumothorax or focal consolidation to suggest\npneumonia. A right IJ sheath has been removed.\nIMPRESSION: Improved, now small, left pleural effusion.\n\n[**2158-8-16**] 07:30AM BLOOD WBC-11.1* RBC-3.42* Hgb-10.6* Hct-30.9*\nMCV-90 MCH-31.0 MCHC-34.3 RDW-13.7 Plt Ct-336#\n[**2158-8-10**] 02:36PM BLOOD WBC-19.2*# RBC-4.34* Hgb-13.7* Hct-37.9*\nMCV-87 MCH-31.7 MCHC-36.3* RDW-13.4 Plt Ct-206\n[**2158-8-16**] 07:30AM BLOOD Plt Ct-336#\n[**2158-8-16**] 07:30AM BLOOD PT-15.9* INR(PT)-1.4*\n[**2158-8-15**] 05:05PM BLOOD PT-14.5* INR(PT)-1.3*\n[**2158-8-10**] 12:30PM BLOOD PT-14.3* PTT-31.1 INR(PT)-1.2*\n[**2158-8-10**] 12:30PM BLOOD Fibrino-292\n[**2158-8-16**] 07:30AM BLOOD Glucose-109* UreaN-36* Creat-1.6* Na-142\nK-5.1 Cl-104 HCO3-30 AnGap-13\n[**2158-8-13**] 09:10AM BLOOD Glucose-172* UreaN-46* Creat-2.0* Na-136\nK-4.8 Cl-101 HCO3-27 AnGap-13\n[**2158-8-10**] 02:36PM BLOOD UreaN-18 Creat-1.3* Na-141 K-5.3* Cl-112*\nHCO3-22 AnGap-12\n[**2158-8-14**] 05:45AM BLOOD ALT-7 AST-25 LD(LDH)-282* AlkPhos-55\nAmylase-45 TotBili-0.6\n[**2158-8-16**] 07:30AM BLOOD Calcium-8.5 Phos-3.2 Mg-2.6\n\nBrief Hospital Course:\nAdmitted same day surgery and was brought to the operating room\nfor coronary artery bypass graft surgery.  See operative report\nfor further details.  Post operatively he was taken to the\nintensive care unit for management.  In the first twenty four\nhours he was weaned from sedation, awoke neurologically intact\nand was extubated without complications.  Of note he initially\nwas in complete heart block requiring epicardial pacing but his\nrhythm recovered and went into atrial fibrillation.  He was\ntreated with amiodarone, which converted back to sinus rhythm.\nBetablockers were held and he was continued on amiodarone with\nintermittent short burst of atrial fibrillation.  He was started\non coumadin for anticoagulation due to ongoing episodes of\natrial fibrillation.  Physical therapy worked with him on\nstrength and mobility.  On post opeerative day five he was\nstarted on low dose betablockers which he tolerated.  He\ncontinued to do well and was ready for discharge to rehab on\ntelemetry on post operative day six to [**Hospital6 **].\n\n\nMedications on Admission:\n1. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n2. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n3. mupirocin calcium 2 % Ointment Sig: One (1) Appl Nasal [**Hospital1 **] (2\n\ntimes a day) for 5 days: Please swab in nose for 5 days before\nsurgery. .\nDisp:*1 tube* Refills:*0*\n4. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig:\n\nOne (1) Tablet Extended Release 24 hr PO once a day.\nDisp:*30 Tablet Extended Release 24 hr(s)* Refills:*2*\n5. NPH insulin human recomb 100 unit/mL Suspension Sig: One (1)\nunits Subcutaneous as directed: 58 unit am, 32 units at night.\n6. lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.\n\n\nDischarge Medications:\n1. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n2. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n4. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n5. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n6. Telemetry\nTo monitor rhythm due to atrial fibrillation and post operative\nheart block\n7. sodium chloride 0.65 % Aerosol, Spray Sig: [**12-18**] Sprays Nasal\nQID (4 times a day) as needed for nasal congestion.\n8. cyanocobalamin (vitamin B-12) 1,000 mcg Tablet Sig: One (1)\nTablet PO once a day.\n9. amiodarone 200 mg Tablet Sig: Two (2) Tablet PO twice a day:\nplease give 400 mg twice a day until [**8-22**] then decrease to 400 mg\nonce a day until [**8-29**], then decrease to 200 mg once a day until\nfollow up with cardiologist .\n10. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day: twice\na day for one week then decrease to daily .\n11. Zaroxolyn 5 mg Tablet Sig: One (1) Tablet PO once a day for\n5 days: give with am lasix .\n12. Outpatient Lab Work\nplease check bun, Cr Magnesium, potassium on [**8-18**] due to lasix\nand continue twice a week with diuresis\n13. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\n14. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4\nhours) as needed for fever, pain.\n15. Insulin\nRegular before each meal\n71-119   mg/dL 0   Units 0   Units 0   Units 0   Units\n120-159   mg/dL 2   Units 2   Units 2   Units 2   Units\n160-199   mg/dL 4   Units 4   Units 4   Units 4   Units\n200-239   mg/dL 6   Units 6   Units 6   Units 6   Units\n240-279   mg/dL 8   Units 8   Units 8   Units 8   Units\n\n16. Insulin NPH\nplease give 30 units with breakfast and 18 units with dinner\n17. warfarin 5 mg Tablet Sig: One (1) Tablet PO once a day:\npleae give 5mg on [**8-17**] then check INR [**8-18**] for further dosing\nbased on INR goal INR 2.0-2.5 for atrial fibrillation .\n18. Ultram 50 mg Tablet Sig: One (1) Tablet PO every four (4)\nhours as needed for pain.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 1293**] - [**Location (un) 8957**]\n\nDischarge Diagnosis:\nCoronary artery disease s/p CABG\nAtrial fibrillation\nChronic kidney disease stage II\nDiabetes mellitus type 2\nHypertension\nHypercholesterolemia\nObesity\nProstate cancer\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with Tylenol and ultram\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Left - healing well, no erythema or drainage.\nEdema +2 lower extremity\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr.[**Last Name (STitle) 914**] [**Telephone/Fax (1) 170**] on [**9-19**] at 1:15 pm\nCardiologist Dr [**First Name (STitle) **]  on [**9-5**] at 2:15pm\n\nPlease call to schedule appointment with primary care physician\nafter discharge from rehab Dr [**Last Name (STitle) 84032**] [**Telephone/Fax (1) 28612**]\n\nLabs: PT/INR for Coumadin ?????? indication Atrial fibrillation\nGoal INR 2-2.5\nFirst draw [**8-18**] Friday\nPlease check INR monday and wednesday and friday for two weeks\nthen decrease as instructed by physician\nCoumadin to be managed by rehab physician based on INR results\nand then please arrange for continued management with primary\ncare physician\n\n\n\nCompleted by:[**2158-8-16**]"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "hadm_id": 180161,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 39466,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 425,
+          "end": 433,
+          "code": "G43.809",
+          "code_system": "ICD-10-CM",
+          "description": "Other migraine, not intractable, without status migrainosus",
+          "type": "Human",
+          "covered_text": "migranes"
+        },
+        {
+          "begin": 1053,
+          "end": 1067,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 1083,
+          "end": 1090,
+          "code": "F41.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anxiety disorder, unspecified",
+          "type": "Human",
+          "covered_text": "anxiety"
+        },
+        {
+          "begin": 3269,
+          "end": 3296,
+          "code": "I61.5",
+          "code_system": "ICD-10-CM",
+          "description": "Nontraumatic intracerebral hemorrhage, intraventricular",
+          "type": "Human",
+          "covered_text": "Intraventricular hemorrhage"
+        },
+        {
+          "begin": 3309,
+          "end": 3321,
+          "code": "I60.9",
+          "code_system": "ICD-10-CM",
+          "description": "Nontraumatic subarachnoid hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "subarachnoid"
+        }
+      ],
+      "text": "Admission Date:  [**2177-7-30**]              Discharge Date:   [**2177-8-12**]\n\nDate of Birth:  [**2124-7-22**]             Sex:   F\n\nService: NEUROSURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 78**]\nChief Complaint:\nHorrible headache\n\nMajor Surgical or Invasive Procedure:\nAngiogram\nL ICA aneurysm coiling\n\n\nHistory of Present Illness:\n53 y/o female with a hx of migranes, had a sudden onset\nheadache yesterday which caused pain in the back of her head\ndown\nher neck, she said it self resolved on it's own after 20 minutes\nand 2 advil. Early this morning she developed a sudden severe\nposterior headache with a \"popping\" feeling in her head with\nneck\npain while drinking her morning coffee. She went to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]\nhospital where she was found to have an intraventricular\nhemorrhage and questionable SAH, her BP was 204/115 at [**First Name8 (NamePattern2) **]\n[**Last Name (NamePattern1) **] hospital\n\n\nPast Medical History:\nMigraines, Hyperlipidemia, Back pain and anxiety\n\nSocial History:\n37 pack year history of smoking; Currently a smoker;\nDenies IV drug use or ETOH. She is not married, has 2 grown\nchildren and is sole caregiver of her 4 year old grandchild. She\nworks as a nursing assistant\n\nFamily History:\n2 aunts with brain aneursyms\n\n\nPhysical Exam:\nPHYSICAL EXAM:\nO: T:  BP:159/68  HR: 80   R  18     O2Sats\nGen: WD/WN, comfortable, NAD.\nHEENT: Pupils:         EOMs\nNeck: + Meningismus\n\nNeuro: Patient received Fentanyl and Ativan for transport\nMental status: Prefers eyes closed, opens eyes to voice.\nOrientation: Oriented to person, place, and date.\nRecall: [**1-29**] objects at 5 minutes.\nLanguage: Speech fluent with good comprehension and repetition.\nNaming intact. No dysarthria or paraphasic errors.\n\nCranial Nerves:\nI: Not tested\nII: Pupils equally round and reactive to light, 2.5 min reactive\n(recently received narcotic). Visual fields are full to\nconfrontation.\nIII, IV, VI: Extraocular movements intact bilaterally without\nnystagmus.\nV, VII: Facial strength and sensation intact and symmetric.\nVIII: Hearing intact to voice.\nIX, X: Palatal elevation symmetrical.\n[**Doctor First Name 81**]: Sternocleidomastoid and trapezius normal bilaterally.\nXII: Tongue midline without fasciculations.\n\nMotor: Normal bulk and tone bilaterally. No abnormal movements,\ntremors. Strength full power [**4-2**] throughout. No pronator drift\n\nSensation: Intact to light touch, can discern warm and cold.\nvibration bilaterally.\n\n\n\n\nToes downgoing bilaterally\n\nCT/MRI:Intraventricular hemorrhage and diffuse subarachnoid\nhemorrhage. Mild temporal [**Doctor Last Name 534**] diliation; CTA read pending\ninitial no aneurysm or AVM noted\nLabs:Crit 40.5 plt 397, INR 1.0\n\nEXAM ON DISCHARGE:\nIntact\n\nPertinent Results:\nADMISSION LABS:\n[**2177-7-30**] 10:20AM   GLUCOSE-135* UREA N-13 CREAT-0.6 SODIUM-135\nPOTASSIUM-4.2 CHLORIDE-103 TOTAL CO2-23 ANION GAP-13\n[**2177-7-30**] 10:20AM   WBC-15.8* RBC-4.47 HGB-14.0 HCT-40.5 MCV-91\nMCH-31.3 MCHC-34.5 RDW-12.8\n[**2177-7-30**] 10:20AM   NEUTS-86.9* LYMPHS-8.7* MONOS-3.3 EOS-0.7\nBASOS-0.5\n[**2177-7-30**] 10:20AM   PT-12.3 PTT-24.1 INR(PT)-1.0\n\nDISCHARGE LABS:\n\nIMAGING:\nCTA Head [**7-30**]\nIMPRESSION:\n\n1. Intraventricular hemorrhage and diffuse subarachnoid\nhemorrhage.\n2. Mild temporal [**Doctor Last Name 534**] dilatation indicating early obstructive\nhydrocephalus.\n3. No aneurysm or AVM is seen. Followup conventional angiogram\nor CT\nangiogram may be helpful.\n4. Mild prominence of nasopharyngeal soft tissues. Suggest\ncorrelation with direct visualization and immune status.\n\nCT Head [**7-30**]:\nNo significant change in intraventricular and subarachnoid\nhemorrhage, with mildly prominent temporal horns of lateral\nventricles\nCTA [**2177-8-7**]: IMPRESSION: Mild to moderate vasospasm, most\nprominent in the distal (A2 and A3) ACA segments.\n\nCT Head [**8-10**]: IMPRESSION:\n1. No new intracranial hemorrhage or evidence of infarction.\n2. Unchanged appearance of right AICA aneurysm coil in the right\ninferior\nportion posterior fossa; associated artifact limits evaluation\nfor acute\nhemorrhage in the region.\n\nCTA [**8-11**]\n1. unchanged R AICA aneurysm coil w/ surrounding streak artifact\nlimiting\nassessment of that area; otherwise, no acute ICH.\n2. patent anterior & posterior circulations\n\n\nBrief Hospital Course:\nThe patient was admitted to the ICU for Q1 hour neuro checks.\nShe was placed on keppra for seizure prophylaxis, and nimodipine\nfor vasospasm prevention.  She went for a diagnostic angiogram,\nhowever, due to her pain and agitation, the procedure was unable\nto be completed. She returned to the ICU. Her post op check was\nnegative.  She continued to have a very severe HA, but her exam\nwas non focal.\n\nOn [**7-31**], the patient underwent another angio, but this time had a\ngeneral anesthesia in order to complete the procedure. This\nrevealed a right AICA aneurysm that was successfully coiled.\n\nPost angiogram patient was transferred to the ICU for\nobservation and monitoring for Vasospasm. She was maintained on\nIV fluids with a goal to keep her euvolemic. Her severe\nheadaches were treated with a steroid taper and narcotic pain\nmeds which seemed to be effective.\n\nThroughout her ICU course her exam remained non-focal.\n\nOn [**8-6**] she was cleared for transfer to the floor. Her IV fluids\nwere decreased to 50ml/hr. Current pain regimen appears to\nalleviate the headaches, at least to a tolerable level. PT\nconsult was requested.\n\non [**8-7**] we discontinued her IV fluids and changed her pain\nmedications to dilaudid P.O prn and obtained a CTA to evaluate\nthe amount of bld and underlying vasospasm. This was significant\nfor mild to moderate vasospasm therefore her IV fluids were\nrestarted on [**8-8**].\n\nOn [**8-9**] and [**8-10**] she remained neurologically stable but had\npersistant headaches. She was started on Topamax in addition to\nher existing pain regimen to attempt to help with this. She also\ndescribed some chest discomfort that she had x1 therefore an EKG\nwas obtained which was negative for changes, NSR. blood cultures\nthat were obtained on [**8-8**] for fever work up revealed VIRIDANS\nSTREPTOCOCCI from sample that was obtained from PICC line\ntherefore the PICC was discontinued. Repeat blood cultures were\nordered.\n\n[**8-11**]: CTA showed no vasospasm and pt was cleared for discharge\nfrom neurosurgical standpoint. She was cleared for home without\nservices from PT/OT. She will be discharged home in stable\ncondition on [**8-12**] with plan to follow up in clinic in 4 weeks.\nShe will also have a repeat cerebral angiogram in 4 weeks as\nwell.\n\nMedications on Admission:\nLipitor 20mg QD, Percocet/Valium\nprn\n\n\nDischarge Medications:\n1. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n2. Nimodipine 30 mg Capsule Sig: Two (2) Capsule PO Q4H (every 4\nhours) for 12 days.\nDisp:*144 Capsule(s)* Refills:*0*\n3. Butalbital-Acetaminophen-Caff 50-325-40 mg Tablet Sig: [**11-30**]\nTablets PO Q4H (every 4 hours) as needed for h/a: Do not exceed\n4gms of Tylenol per day.\nDisp:*60 Tablet(s)* Refills:*0*\n4. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\nDisp:*60 Tablet(s)* Refills:*2*\n5. Nicotine 21 mg/24 hr Patch 24 hr Sig: Three (3) Patch 24 hr\nTransdermal DAILY (Daily): Please have PCP follow you and write\nfor further refils.\nDisp:*3 Patch 24 hr(s)* Refills:*0*\n6. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours\nas needed for headache.\nDisp:*60 Tablet(s)* Refills:*0*\n7. Alprazolam 0.25 mg Tablet Sig: One (1) Tablet PO BID (2 times\na day) as needed for anxiety.\nDisp:*30 Tablet(s)* Refills:*0*\n8. Topiramate 25 mg Tablet Sig: Two (2) Tablet PO BID (2 times a\nday).\nDisp:*120 Tablet(s)* Refills:*2*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nAneurysmal Subarachnoid hemorrhage\nR ICA Aneurysm coiling\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\n General Instructions\n\n??????\tTake your pain medicine as prescribed.\n??????\tExercise should be limited to walking; no lifting, straining,\nor excessive bending.\n??????\tIncrease your intake of fluids and fiber, as narcotic pain\nmedicine can cause constipation. We generally recommend taking\nan over the counter stool softener, such as Docusate (Colace)\nwhile taking narcotic pain medication.\nCALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE\nFOLLOWING\n\n??????\tNew onset of tremors or seizures.\n??????\tAny confusion, lethargy or change in mental status.\n??????\tAny numbness, tingling, weakness in your extremities.\n??????\tPain or headache that is continually increasing, or not\nrelieved by pain medication.\n??????\tNew onset of the loss of function, or decrease of function on\none whole side of your body.\n\n\nFollowup Instructions:\nFollow-Up Appointment Instructions\n\n??????Please call ([**Telephone/Fax (1) 88**] to schedule an appointment with Dr.\n[**First Name (STitle) **] , to be seen in 4 weeks.\n??????You will need a CT scan of the brain without contrast prior to\nyour appointment. You will also need to schedule cerebral\nangiogram for 4 weeks as well.  This can both be scheduled when\nyou call to make your office visit appointment.\n??????       You stated that you have been having headaches everyday\nfor many years. We are recommending that you follow up with Dr.\n[**Last Name (STitle) **] in the [**Hospital **] Clinic. Please call  ([**Telephone/Fax (1) 87190**]  to\nset up an appointment with him regarding pain control for your\nheadaches.\n\n\n\nCompleted by:[**2177-8-19**]"
+    },
+    {
+      "note_id": 1151702,
+      "category": "Radiology",
+      "description": "EMBO TRANSCRANIAL",
+      "annotations": [
+        {
+          "begin": 1184,
+          "end": 1219,
+          "code": "03LG3DZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Occlusion of Intracranial Artery with Intraluminal Device, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "Embolization of right ICA aneurysm."
+        },
+        {
+          "begin": 1279,
+          "end": 1312,
+          "code": "B31FYZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Fluoroscopy of Left Vertebral Artery using Other Contrast",
+          "type": "Human",
+          "covered_text": "Left vertebral artery arteriogram"
+        },
+        {
+          "begin": 1341,
+          "end": 1349,
+          "code": "I67.1",
+          "code_system": "ICD-10-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "Human",
+          "covered_text": "aneurysm"
+        }
+      ],
+      "text": "[**2177-7-31**] 10:45 AM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 15817**]\n Reason: eval for aneurysm\n Admitting Diagnosis: INTRACRANIAL HEMORRHAGE\n  Contrast: OPTIRAY Amt: 204\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 284**] EMBO TRANSCRANIAL               [**Numeric Identifier 287**] SEL CATH 2ND ORDER               *\n * -51 MULTI-PROCEDURE SAME DAY          [**Numeric Identifier 289**] VERT/CAROTID A-GRAM              *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 43**] TRANSCATH EMBO THERAPY           *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  53 year old woman with sah\n REASON FOR THIS EXAMINATION:\n  eval for aneurysm\n ______________________________________________________________________________\n                                 FINAL REPORT\n PREPROCEDURE DIAGNOSIS:  Subarachnoid hemorrhage with intraventricular\n extension.  Right ICA aneurysm.\n\n INDICATION:  Embolization of right ICA aneurysm.\n\n ANESTHESIA:  General anesthesia.\n\n PROCEDURE PERFORMED:  Left vertebral artery arteriogram, embolization of right\n ICA aneurysm and Angio-Seal closure of right common femoral artery puncture\n site.\n\n ATTENDING:[**Last Name (NamePattern4) 15818**]\n NEURORADIOLOGY FELLOW:  [**Name6 (MD) 2331**] [**Name8 (MD) 2332**], M.D., MRCP, FRCR.\n\n DETAILS OF THE PROCEDURE:  Informed consent was obtained prior to the\n procedure explaining the risks, benefits and alternatives.  Prior to the\n procedure, a timeout was performed using name, date of birth, and medical\n record number as identifiers.  Both groins were prepped and draped in the\n typical sterile fashion.  Using a micropuncture set, the right femoral artery\n was accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 52**] wire was advanced under fluoroscopic observation.\n Using Seldinger technique, the needle was removed and replaced with a 4 French\n arterial sheath.  Thereafter, a 4 French Berenstein 2 catheter was advanced\n over the [**Last Name (un) 52**] wire and the [**Last Name (un) 52**] wire was thereafter removed and replaced\n with a 035 Glidewire.  With fluoroscopic assistance, the catheter was\n positioned in the left vertebral artery from which position angiograms were\n performed in the oblique and lateral projections.  A microcatheter guidewire\n and catheter was used to access the distal right eye ICA aneurysm.  The\n aneurysm was successfully embolized using GDC Detachable Coils.  Following\n angiogram and embolization, the catheter and sheath were removed and Angio-\n Seal device was used to secure hemostasis in the right common femoral artery.\n There were no immediate post-procedure complications, and the patient was\n transferred from the angio suite to the intensive care unit in stable\n condition.\n\n FINDINGS:  Diagnostic angiogram of the left vertebral artery confirmed a\n                                                             (Over)\n\n [**2177-7-31**] 10:45 AM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 15817**]\n Reason: eval for aneurysm\n Admitting Diagnosis: INTRACRANIAL HEMORRHAGE\n  Contrast: OPTIRAY Amt: 204\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n conclusive aneurysm measuring 5.2 x 4.2 mm with a 1.5 mm neck arising from the\n distal left AICA.  Successful embolization of the aneurysm was achieved using\n detachable GDC coils.  Post-procedure angiogram demonstrates no distal\n occlusion.\n\n IMPRESSION:\n 1.  Right distal ICA aneurysm identified as a possible source of the recent\n subarachnoid hemorrhage with intraventricular extension.\n 2.  Successful embolization of the distal right AICA aneurysm was achieved\n using GDC embolization coils.\n\n\n\n"
+    },
+    {
+      "note_id": 1151598,
+      "category": "Radiology",
+      "description": "SEL CATH 2ND ORDER",
+      "annotations": [
+        {
+          "begin": 2000,
+          "end": 2033,
+          "code": "B30FYZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Plain Radiography of Left Vertebral Artery using Other Contrast",
+          "type": "Human",
+          "covered_text": "Left vertebral artery arteriogram"
+        },
+        {
+          "begin": 2005,
+          "end": 2075,
+          "code": "B305YZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Plain Radiography of Bilateral Common Carotid Arteries using Other Contrast",
+          "type": "Human",
+          "covered_text": "vertebral artery arteriogram, left common carotid\n artery arteriogram,"
+        }
+      ],
+      "text": "[**2177-7-30**] 6:06 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 15605**]\n Reason: R/O underlying aneursym versus avm\n Admitting Diagnosis: INTRACRANIAL HEMORRHAGE\n  Contrast: OPTIRAY Amt: 220\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 287**] SEL CATH 2ND ORDER              [**Numeric Identifier 287**] SEL CATH 2ND ORDER               *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 819**] SEL CATH 1ST ORDER               *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 288**] CAROTID/CEREBRAL BILAT           *\n * [**Numeric Identifier 821**] CAROTID/CERVICAL BILAT          [**Numeric Identifier 289**] VERT/CAROTID A-GRAM              *\n * [**Numeric Identifier 44**] MOD SEDATION, FIRST 30 MIN.     [**Numeric Identifier 45**] MOD SEDATION, EACH ADDL 15 MIN   *\n * [**Numeric Identifier 45**] MOD SEDATION, EACH ADDL 15 MIN  [**Numeric Identifier 45**] MOD SEDATION, EACH ADDL 15 MIN   *\n * [**Numeric Identifier 45**] MOD SEDATION, EACH ADDL 15 MIN                                         *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  53 year old woman with SAH with intraventricular hemorrhage\n REASON FOR THIS EXAMINATION:\n  R/O underlying aneursym versus avm\n ______________________________________________________________________________\n                                 FINAL REPORT\n PREPROCEDURE DIAGNOSIS:  Subarachnoid hemorrhage with intraventricular\n extension.\n\n INDICATION:  Assess for aneurysm or AVM.\n\n ANESTHESIA:  Moderate sedation was provided by administering divided doses of\n fentanyl and Versed throughout the total intraservice time of 80 minutes\n during which the patient's hemodynamic parameters were continuously monitored.\n\n PROCEDURE PERFORMED:  Left vertebral artery arteriogram, left common carotid\n artery arteriogram, right common carotid artery arteriogram and Angio-Seal\n closure of left deep femoral artery puncture site.\n\n ATTENDING:[**Name8 (MD) 15606**]\n NEURORADIOLOGY FELLOW:  [**Last Name (un) 2331**] Ramachandran, MB, MRCP, FRCR.\n\n DETAILS OF THE PROCEDURE:  The patient was brought to the angiography suite.\n IV sedation was given.  Following this, both groins were prepped and draped in\n a sterile fashion.  Access was gained into the left deep femoral artery using\n a Seldinger technique, and a 5-French vascular sheath was placed in the left\n deep femoral artery.  Now using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 586**] 2 catheter, the abovementioned\n arteries were catheterized.  AP and lateral filming was done.  Following this,\n the left deep femoral artery puncture site was closed with a 6-French Angio-\n Seal device.  There were no complications.\n\n FINDINGS:  Left vertebral artery arteriogram shows normal filling of the left\n vertebral artery, the basilar artery and the posterior cerebral arteries.\n There is reflux into the right vertebral artery.  The left PICA and left ICA\n are seen.  There is a right AICA- PICA configuration.  There is a 5.2 x 4.2 mm\n aneurysm with a neck of 1.5 mm arising from the distal right AICA.  No early\n draining veins were seen on this injection.\n                                                             (Over)\n\n [**2177-7-30**] 6:06 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 15605**]\n Reason: R/O underlying aneursym versus avm\n Admitting Diagnosis: INTRACRANIAL HEMORRHAGE\n  Contrast: OPTIRAY Amt: 220\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n Left common carotid artery shows normal filling of the left external carotid\n artery and its branches.  The left internal carotid artery fills well along\n with the cervical, petrous, cavernous and supraclinoid portion.  The left ACA\n and MCA are visualized well showing normal filling of the contrast.\n\n Common carotid artery arteriogram shows normal filling of the right external\n carotid artery and its branches.  There is focal short segmental narrowing of\n the right ICA origin which shows the luminal diameter of 4.5 mm compared to\n maximal luminal diameter of 9 mm, demonstrating a 50% stenosis at the origin.\n The remaining cervical ICA shows normal contrast opacification and caliber.\n The right internal carotid fills well along the petrous, cavernous and\n supraclinoid portions.  The anterior and middle cerebral arteries are seen\n normally.\n\n The left common femoral artery arteriogram shows normal caliber and left\n common femoral artery.  There is no stenosis.\n\n IMPRESSION:\n 1.  [**Known firstname 6103**] [**Known lastname **] underwent cerebral angiography which showed a 5.2 mm x 4.2 mm\n aneurysm with a neck of 1.5 mm at the distal right AICA.  The patient will\n return to the interventional suite the following day for coiling under general\n anesthesia.\n\n 2.  50% stenosis of the origin of right ICA.\n\n\n\n\n"
+    }
+  ]
+}

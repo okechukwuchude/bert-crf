@@ -1,0 +1,239 @@
+{
+  "hadm_id": 126677,
+  "comment": "Angioplasty report not present- unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 41817,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 286,
+          "end": 303,
+          "code": "785.51",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiogenic shock",
+          "type": "Human",
+          "covered_text": "cardiogenic shock"
+        },
+        {
+          "begin": 343,
+          "end": 461,
+          "code": "36.07",
+          "code_system": "ICD-9-PCS",
+          "description": "Insertion of drug-eluting coronary artery stent(s)",
+          "type": "MapType.MULTI",
+          "covered_text": "Cardiac catheterization with percutaneous coronary\nrevascularization of left circumflex artery with drug eluding\nstent"
+        },
+        {
+          "begin": 463,
+          "end": 477,
+          "code": "38.93",
+          "code_system": "ICD-9-PCS",
+          "description": "Venous catheterization, not elsewhere classified",
+          "type": "MapType.APPROX",
+          "covered_text": "PICC placement"
+        },
+        {
+          "begin": 565,
+          "end": 569,
+          "code": "585.6",
+          "code_system": "ICD-9-CM",
+          "description": "End stage renal disease",
+          "type": "Human",
+          "covered_text": "ESRD"
+        },
+        {
+          "begin": 570,
+          "end": 575,
+          "code": "V45.11",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "on HD"
+        },
+        {
+          "begin": 636,
+          "end": 650,
+          "code": "410.41",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myocardial infarction, of other inferior wall, initial episode of care",
+          "type": "Human",
+          "covered_text": "inferior STEMI"
+        },
+        {
+          "begin": 2320,
+          "end": 2340,
+          "code": "250.40",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "diabetic nephropathy"
+        },
+        {
+          "begin": 2436,
+          "end": 2444,
+          "code": "V49.75",
+          "code_system": "ICD-9-CM",
+          "description": "Below knee amputation status",
+          "type": "MapType.APPROX",
+          "covered_text": "Left BKA"
+        },
+        {
+          "begin": 6947,
+          "end": 6973,
+          "code": "403.91",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive renal disease, unspecified, with renal failure",
+          "type": "Human",
+          "covered_text": "HTN, DM, HLD, PVD and ESRD"
+        },
+        {
+          "begin": 6956,
+          "end": 6959,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 7083,
+          "end": 7100,
+          "code": "785.51",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiogenic shock",
+          "type": "Human",
+          "covered_text": "Cardiogenic Shock"
+        },
+        {
+          "begin": 7459,
+          "end": 7462,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 8242,
+          "end": 8252,
+          "code": "790.7",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified bacteremia",
+          "type": "Human",
+          "covered_text": "Bacteremia"
+        },
+        {
+          "begin": 8318,
+          "end": 8322,
+          "code": "041.11",
+          "code_system": "ICD-9-CM",
+          "description": "Staphylococcus aureus infection in conditions classified elsewhere and of unspecified site",
+          "type": "Human",
+          "covered_text": "MSSA"
+        },
+        {
+          "begin": 8689,
+          "end": 8709,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "#Atrial fibrillation"
+        },
+        {
+          "begin": 9952,
+          "end": 9971,
+          "code": "707.14",
+          "code_system": "ICD-9-CM",
+          "description": "Ulcer of heel and midfoot",
+          "type": "MapType.APPROX",
+          "covered_text": "ulcer on right heel"
+        },
+        {
+          "begin": 10493,
+          "end": 10515,
+          "code": "389.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hearing loss",
+          "type": "MapType.APPROX",
+          "covered_text": "Bilateral hearing loss"
+        },
+        {
+          "begin": 11078,
+          "end": 11143,
+          "code": "V15.81",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of noncompliance with medical treatment, presenting hazards to health",
+          "type": "MapType.APPROX",
+          "covered_text": "Compliance: Patient refused many medications throughout\nadmission"
+        },
+        {
+          "begin": 11299,
+          "end": 11301,
+          "code": "250.40",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 14329,
+          "end": 14346,
+          "code": "785.51",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiogenic shock",
+          "type": "Human",
+          "covered_text": "Cardiogenic shock"
+        },
+        {
+          "begin": 14351,
+          "end": 14375,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Left circumflex stenosis"
+        },
+        {
+          "begin": 14430,
+          "end": 14453,
+          "code": "585.6",
+          "code_system": "ICD-9-CM",
+          "description": "End stage renal disease",
+          "type": "Human",
+          "covered_text": "End stage renal disease"
+        },
+        {
+          "begin": 14458,
+          "end": 14483,
+          "code": "250.40",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "Diabetes mellitus type II"
+        },
+        {
+          "begin": 14488,
+          "end": 14515,
+          "code": "440.23",
+          "code_system": "ICD-9-CM",
+          "description": "Atherosclerosis of native arteries of the extremities with ulceration",
+          "type": "Human",
+          "covered_text": "Peripheral vascular disease"
+        },
+        {
+          "begin": 15272,
+          "end": 15280,
+          "code": "39.95",
+          "code_system": "ICD-9-PCS",
+          "description": "Hemodialysis",
+          "type": "Human",
+          "covered_text": "dialyzed"
+        }
+      ],
+      "text": "Admission Date:  [**2158-8-4**]              Discharge Date:   [**2158-8-11**]\n\nDate of Birth:  [**2100-8-8**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nCephalosporins / Penicillins / Iodine / clindamycin\n\nAttending:[**First Name3 (LF) 1711**]\nChief Complaint:\nS/P STEMI with cardiogenic shock\n\nMajor Surgical or Invasive Procedure:\nCardiac catheterization with percutaneous coronary\nrevascularization of left circumflex artery with drug eluding\nstent\n\nPICC placement\n\n\nHistory of Present Illness:\nMr. [**Known lastname 13512**] is a 57 year-old man with ESRD on HD who presented\nto [**Hospital3 **] on [**2158-8-1**] with an inferior STEMI now s/p\nRCA PCI being transfered for further care.  Patient was\nscheduled to have an outpatient stress test the day prior to\nadmission, but was unbale to participate in the study and\nreturned to his nursing home.  Later the same evening he\ndeveloped acute SOB and was take to [**Hospital3 **] where he\nwas found to be having an STEMI. Cardiac catheterization\nrevealed severe three vessel disease with 100% occluded LAD, 90%\nLCx lesion and severe RCA disease requiring BMS x3. He required\nintubation during cardiac catheterization for respiratory\nfailure and subsequently required pressor support with\nperipheral dopamine for cardiogenic shock. He is now extubated\nbut continues to require dopamine to maintain a SBP in the\n80s-90s.\n.\n On arrival his vital signs were HR 114 with BP 94/71. He is\nbreathing comfortably and has no complaints other than hearing\nloss. In particular, he denies chest and jaw pain.\n.\nOn review of systems, he denies any prior history of stroke,\nTIA, deep venous thrombosis, pulmonary embolism, bleeding at the\ntime of surgery, myalgias, joint pains, cough, hemoptysis, black\nstools or red stools. He denies recent fevers, chills or rigors.\nHe denies exertional buttock or calf pain. All of the other\nreview of systems were negative.\n.\nCardiac review of systems is notable for absence of chest pain,\ndyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,\nankle edema, palpitations, syncope or presyncope.\n\nPast Medical History:\n1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension,\nPVD\n2. CARDIAC HISTORY:\n- PERCUTANEOUS CORONARY INTERVENTIONS:  [**2158-8-1**] BMS to RCA x 3\n3. OTHER PAST MEDICAL HISTORY:\n- ESRD [**2-1**] to diabetic nephropathy on HD x7yrs MWF\n- Osteomyelitis of the spine with resultant paraplegia\n- Hyperparathyroidism\n- Left BKA [**2-1**] to gangrene\n- Right arm fistula\n\n\nSocial History:\nSingle Male. Has been on disability in his left BKA. Lives in a\nnursing home.\n- Tobacco history:  Denies\n- ETOH:  Denies\n- Illicit drugs:  Denies\n\nFamily History:\n- No family history of early MI, arrhythmia, cardiomyopathies,\nor sudden cardiac death; otherwise non-contributory.\n- Significant for diabetes\n\nPhysical Exam:\nAdmission Exam:\nGENERAL: Profoundly hard of hearing. NAD. Oriented x3. Mood,\naffect appropriate.\nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were\npink, no pallor or cyanosis of the oral mucosa. No xanthalesma.\n\nNECK: Supple with JVP of 9 cm.\nCARDIAC:  Regular rhythm, soft S1 and S2. No m/r/g appreciated\nLUNGS: Pronounced leftward chest deformity of unknown\nchronicity. symmetric air movement bilaterally. End expiratory\ncrackles on exam, no wheezes or rhonchi.\nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not\nenlarged by palpation. No abdominial bruits.\nEXTREMITIES: L BKA, No femoral bruits. right heel ulcer 2x4cm\nwith scant exudate and exposed bone and fat\nPULSES:\nRight: Carotid 2+ Femoral 2+ doplerable DP pulse\nLeft: Carotid 2+ Femoral 2+\n\nDischarge exam:\n\nPertinent Results:\nAdmisson Labs:\n[**2158-8-4**] 09:16PM   WBC-8.3 RBC-3.35* HGB-10.7* HCT-33.4*\nMCV-100* MCH-32.0 MCHC-32.2 RDW-14.0\n[**2158-8-4**] 09:16PM   PLT COUNT-189\n[**2158-8-4**] 09:16PM   GLUCOSE-404* UREA N-30* CREAT-3.5* SODIUM-136\nPOTASSIUM-4.7 CHLORIDE-94* TOTAL CO2-24 ANION GAP-23*\n[**2158-8-4**] 09:16PM   CALCIUM-7.7* PHOSPHATE-4.8* MAGNESIUM-2.1\n[**2158-8-4**] 09:16PM   PT-15.0* PTT-30.6 INR(PT)-1.3*\n\nCardiac Enzymes:\n[**2158-8-4**] 09:16PM   CK(CPK)-146\n[**2158-8-4**] 09:16PM   CK-MB-9 cTropnT-13.7*\n[**2158-8-5**] 04:50AM BLOOD CK-MB-8 cTropnT-13.99*\n\nOther pertinent labs:\n[**2158-8-6**] 12:14PM BLOOD Lactate-2.4*\n\nStudies\nMicro:\n[**2158-8-5**] 4:50 am BLOOD CULTURE      Source: Line-central lumen\ncath.\n\n   Blood Culture, Routine (Preliminary):\n      STAPH AUREUS COAG +.\n         Consultations with ID are recommended for all blood\ncultures\n         positive for Staphylococcus aureus and [**Female First Name (un) 564**] species.\n\n         PRELIMINARY SENSITIVITY.\n         These preliminary susceptibility results are offered to\nhelp guide\n         treatment; interpret with caution as final\nsusceptibilities may\n         change. Check for final susceptibility results in 24\nhours.\n\n                              SENSITIVITIES: MIC expressed in\nMCG/ML\n\n_________________________________________________________\n                             STAPH AUREUS COAG +\n                             |\nOXACILLIN-------------       S\n\n   Aerobic Bottle Gram Stain (Final [**2158-8-5**]):\n      Reported to and read back by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 90823**] @ 2232 ON [**8-5**]\n-[**Numeric Identifier 28124**].\n      GRAM POSITIVE COCCI.\n      IN PAIRS AND CLUSTERS.\n\n   Anaerobic Bottle Gram Stain (Final [**2158-8-5**]):\n      GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS.\n\nImaging:\nCXR AP [**2158-8-4**]: Central catheter projects over the lower superior\nvena cava. Lung volumes are quite low, making evaluation of the\nlungs difficult. There are multiple bilateral rib fractures. I\nsee no pneumothorax.\n\nTTE [**2158-8-5**]: The left atrium is mildly dilated. No atrial septal\ndefect is seen by 2D or color Doppler. There is mild symmetric\nleft ventricular hypertrophy. The left ventricular cavity is\nmildly dilated. Overall left ventricular systolic function is\nseverely depressed (LVEF= 15-20 %) with global hypokinesis and\ndistal LV/apical akinesis to dyskinesis. No masses or thrombi\nare seen in the left ventricle. There is no ventricular septal\ndefect. The right ventricular cavity is dilated with severe\nglobal free wall hypokinesis. The diameters of aorta at the\nsinus, ascending and arch levels are normal. The aortic valve\nleaflets (3) are mildly thickened but aortic stenosis is not\npresent. No aortic regurgitation is seen. The mitral valve\nleaflets are mildly thickened. There is no mitral valve\nprolapse. Trivial mitral regurgitation is seen. The tricuspid\nvalve leaflets are mildly thickened. There is mild pulmonary\nartery systolic hypertension. There is no pericardial effusion.\n\n\nR foot X ray: [**2158-8-10**]\nLarge ulcer extending to the calcaneal tuberosity\nposteroinferiorly without gross cortical destruction. If the\nulcer probes the bone this would be highly suspicious for\nosteomyelitis.\n\n\nBrief Hospital Course:\nPrimary Reason for Hospitalization:\n57M w/ HTN, DM, HLD, PVD and ESRD on HD presented to OSH with\ninferior STEMI s/p PCI to RCA now transfered for further care.\n\nActive Issues:\n# Cardiogenic Shock: Patient required pressor support with\ndopamine following PCI at OSH and was transferred to [**Hospital1 18**] at a\ndose of 8mg/kg/min.  On HD6 patient was successfully weaned from\ndopamine and was maintaining a stable blood pressure.  He\nmaintained pressures through dialysis as well.  He was restarted\non his home anti-hypertensives prior to discharge.\n\n# CAD:  Patient did not have prior history of known CAD, but\nrecent TTE from [**5-/2158**] revealed anterolateral and apical defects\nconsistent with CAD. Patient presented on [**8-1**] with RCA infarct\nthat required BMS x3. Cardiac cath also revealed 90% LCx disease\nand completely occluded LAD that was presumed chronic. LV gram\nrevealed LVEF of 20%.  On HD3 patient was taken to the cath lab\nand had successful stenting of his left circumflex.  He was\ncontinued on plavix and aspirin throughout admission.\n\n# ESRD on HD: Patient receives chronic HD on MWF schedule.\nPatient's electrolytes were monitored closely throughout\nadmission.  Patient was dialyzed on his normal schedule and\npressures tolerated this without issue.  He refused many of his\nmedications throughout admission.\n\n#Bacteremia: Patient had one blood culture positive for gram\npositive cocci, MSSA.  He was treated with IV vancomycin given\npenicillin allergy.  Patient will be treated for 10 day course,\nlast day [**2158-8-15**].  A PICC line was placed for IV administration\nfollowing discharge.  Patient was afebrile and hemodynamically\nstable at the time of discharge.  He had two days of\nsurveillance cultures with no growth to date at the time of\ndischarge.\n\n#Atrial fibrillation: Patient had an episode of atrial\nfibrillation during his catheterization.  He was given\namiodarone, and spontaneously converted to sinus rhythm.  He\nagain had an episode of atrial fibrillation on HD5 and was\nstarted on an amiodarone drip.  He spontaneously converted into\nsinus rhythm again, later the same day.  He was started on oral\namiodarone with a goal loading dose of 8g.  At the time of\ndischarge, his dose was 300mg po BID.  He will continue this for\n11 days, ending [**2158-8-21**].  At that time, he should be\ntransitioned to amiodarone 200mg po daily.  Despite CHADS2 score\nof 3, patient was felt to be a poor candidate for\nanticoagulation given poor medication compliance and fall risk.\nPatient was in sinus rhythm and hemodynamically stable at the\ntime of discharge.\n\n# HTN: Patient was in cardiogenic shock at the time of\nadmission, therefore his home anti-hypertensives were held.\nSince BPs were still lowish at discharge norvasc was\ndiscontinued and valsartan was continued but at a much lower\ndose (40mg [**Hospital1 **]).\n\n# HLD: Patient is s/p STEMI. He was changed to 40mg po\natorvastatin daily as he is also on amiodarone, and therefore\nwas felt to not necessitate 80mg daily.\n\n# Right heel ulcer: Patient had a 2x4 cm ulcer on right heel\nconsistent with arterial insufficiency. Per report, this has\nbeen followed by vascular surgery as an outpatient.  Patient was\nevaluated by both vascular surgery and podiatry.  Both teams\nagreed that the ulcer was not actively infected, and therefore\nthere was no indication for antibiotics.  The ulcer was cleaned\ndaily with application of Santil ointment.  An xray of the heel\nwas performed showing an ulcer but no cortical destruction.  Per\nvascular surgery, the patient should have an ABI checked as an\noutpatient.\n\n# Bilateral hearing loss: Patient reported acute hearing deficit\ncoinciding with his myocardial infarction. No obstructive cause\nwas apparent on otoscopic examination. Hearing loss appeared to\nbe symmetric. He was not given otoxic drugs. Ischemia in the\nsetting of cardiogenic shock is also a possiblity. Symptoms were\nnot consistent with CVA causing hearing loss, as he had no\nassociated symptoms of nystagmus, nausea or dizziness as would\nbe expected.  Patient's hearing improved spontaneously.  He\nshould have ENT follow-up as an outpatient if he continues to\nhave further issues.\n\n# Compliance: Patient refused many medications throughout\nadmission, which made regulation of blood sugar and electrolytes\ndifficult.  He was made aware of the risks involved in refusing\neach medication.\n\nChronic Issues:\n# DM: Patient is on oral hypoglycemics and insulin at home.\nPatient's blood sugars were controlled throughout admission on a\ndiabetic diet and insulin sliding scale.\n\nTransitional Issues:\n- Patient maintained full code status throughout hospitalization\n- Patient will need ABIs performed as outpatient.  Dressing\nchanges daily to heel.  Will also need to follow-up with his\nvascular surgeon.\n- Follow-up with ENT if hearing issues persist\n-Follow- up with cardiology in approximately 2 weeks\n\n\nMedications on Admission:\nHOME MEDICATIONS:\n- Norvasc 10mg on non-HD days\n- Sensipar 120mg daily\n- Trazodone 50mg QHS\n- Zocor 20mg QPM\n- Diovan 160mg [**Hospital1 **]\n- DuoNeb Q4H PRN\n- Actos 30mg daily\n- Glipizide 5mg daily\n- PhosLo 3 tabs QAC\n- Reglan PRN\n- Atarax PRN\n.\nMEDICATIONS on TRANSFER:\n- Acetaminophen 650 Q6H PRN\n- Albuterol HFA 4 puff Q2H PRN\n- Aspirin 325 daily\n- Calcium Acetate 2001mg TIDQAC\n- Cinacalcet 120mg QHS\n- Plavix 75mg daily\n- Colace 100mg [**Hospital1 **]\n- Dopamine gtt\n- Epoetin 8000 unit IV QHD\n- Glipizide 5mg QAM\n- Heparin 5000 units SQ\n- Hydroxyzine 50mg Q6H PRN\n- Lidoderm Patch QD\n- Metoclopramide 10mg TIDQAC\n- Metoprolol 6.25 Q8H\n- Morphine 2mg Q5MIN\n- NTG 0.4mg SL\n- Zofran 4mg IV Q8H PRN\n- Pantoprazole 40mg QD\n- Simvastatin 10mg QHS\n- Trazodone 50mg QHS\n- Valsartan 160mg [**Hospital1 **]\n- Insulin Sliding Scale:\n201-250:3 units\n251-300:5 units\n301-350:7 units\n351-400:9 units\n>400: 11 units\n\nDischarge Medications:\n1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n2. DuoNeb 0.5 mg-3 mg(2.5 mg base)/3 mL Solution for\nNebulization Sig: One (1)  Inhalation q4h PRN SOB, wheezing.\n3. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n4. digoxin 125 mcg Tablet Sig: One (1) Tablet PO 1X/WEEK ([**Doctor First Name **]):\nlast dose given [**2158-8-6**], next dose [**2158-8-13**].\nDisp:*30 Tablet(s)* Refills:*2*\n5. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n6. metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QID (4\ntimes a day) as needed for nausea.\n7. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)\nas needed for sleep.\n8. amiodarone 200 mg Tablet Sig: 1.5 Tablets PO BID (2 times a\nday) for 11 days: Then change to 200 daily.\nDisp:*44 Tablet(s)* Refills:*2*\n9. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1)\nIntravenous HD PROTOCOL (HD Protochol) for 4 days: ending\n[**2158-8-15**].\nDisp:*4 units* Refills:*0*\n10. Norvasc 10 mg Tablet Sig: One (1) Tablet PO on non-HD days:\nhold for SBP<90, HR<60.\n11. Sensipar 60 mg Tablet Sig: Two (2) Tablet PO once a day.\n12. Diovan 40 mg Tablet Sig: One (1) Tablet PO twice a day: hold\nfor SBP<90, HR<60.\n13. glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day.\n14. Actos 30 mg Tablet Sig: One (1) Tablet PO once a day.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\nColonial Heights Care and Rehabilitation Center - [**Hospital1 487**]\n\nDischarge Diagnosis:\nPrimary Diagnosis:\n1.  Cardiogenic shock\n2.  Left circumflex stenosis\n\nSecondary Diagnosis:\n1.  Coronary artery disease\n2.  End stage renal disease\n3.  Diabetes mellitus type II\n4.  Peripheral vascular disease\n5.  Chronic right heel ulcer\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Out of Bed with assistance to chair or\nwheelchair.\n\n\nDischarge Instructions:\nDear Mr. [**Last Name (Titles) 90824**],\nIt was a pleasure taking care of you during your recent\nadmission to [**Hospital1 18**].  You were admitted to our hospital because\nfollowing heart your catheterization because you required IV\nmedications to maintain your blood pressure.  During this\nhospitalization, a previously noted blockage in your coronary\narteries was stented open.  After this, the IV medications were\nslowly weaned and your blood pressure was stable off of these\nmedications at the time of discharge.\n\nYou were dialyzed on your normal schedule throughout admission.\n\nIn addition, you had an infection in your blood stream. One of\nyour blood cultures grew a bacteria called Staph Aureus. We\ntreated this with an IV antibiotic (vancomycin) as you are\nallergic to penicillin.  You will need to continue this\nmedication through [**2158-8-15**].\n\nMedication changes:\nYou were continued on most of your home medications. But you\nshould STOP the following home medications:\n1. Norvasc\nThe following home medications had their doses changed:\n1. Diovan dose decreased from 160mg [**Hospital1 **] to 40 mg [**Hospital1 **]\nYou were started on the following NEW medications.  These\nmedications are very important.  Please be sure to take them\nevery day as prescribed.\n   1.  Plavix 75 mg by mouth once each day\n   2.  Aspirin 325 mg by mouth once each day\n   3.  Atorvastatin 40mg by mouth once each day\n   4.  Digoxin 0.125mg by mouth once a week, next dose [**2158-8-16**]\n   5.  Amiodarone 300mg by mouth twice each day for 11 days. On\n[**2158-8-23**] you will change this does to 200mg by mouth once each\nday and continue this indefinitely.\n   6.  Vancomycin IV with dialysis each time dialyzed, ending\n[**2158-8-15**]. After you finish this medication your PICC line can be\nsafely removed.\n\nWeigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more\nthan 3 lbs.\n\n\n"
+    }
+  ]
+}

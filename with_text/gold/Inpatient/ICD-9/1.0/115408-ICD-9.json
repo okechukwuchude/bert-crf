@@ -1,0 +1,94 @@
+{
+  "hadm_id": 115408,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 8956,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 440,
+          "end": 456,
+          "code": "296.80",
+          "code_system": "ICD-9-CM",
+          "description": "Bipolar disorder, unspecified",
+          "type": "Human",
+          "covered_text": "Bipolar disorder"
+        },
+        {
+          "begin": 4103,
+          "end": 4109,
+          "code": "967.8",
+          "code_system": "ICD-9-CM",
+          "description": "Poisoning by other sedatives and hypnotics",
+          "type": "Human",
+          "covered_text": "ambien"
+        },
+        {
+          "begin": 4114,
+          "end": 4125,
+          "code": "971.1",
+          "code_system": "ICD-9-CM",
+          "description": "Poisoning by parasympatholytics [anticholinergics and antimuscarinics] and spasmolytics",
+          "type": "Human",
+          "covered_text": "benztropine"
+        },
+        {
+          "begin": 4556,
+          "end": 4564,
+          "code": "293.1",
+          "code_system": "ICD-9-CM",
+          "description": "Subacute delirium",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Delirium"
+        },
+        {
+          "begin": 5361,
+          "end": 5373,
+          "code": "288.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified disease of white blood cells",
+          "type": "Human",
+          "covered_text": "Leukocytosis"
+        },
+        {
+          "begin": 6688,
+          "end": 6702,
+          "code": "305.62",
+          "code_system": "ICD-9-CM",
+          "description": "Cocaine abuse, episodic use",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Coccaine abuse"
+        },
+        {
+          "begin": 6703,
+          "end": 6713,
+          "code": "296.80",
+          "code_system": "ICD-9-CM",
+          "description": "Bipolar disorder, unspecified",
+          "type": "Human",
+          "covered_text": "Bipolar do"
+        }
+      ],
+      "text": "Admission Date:  [**2189-12-20**]              Discharge Date:   [**2189-12-25**]\n\nDate of Birth:  [**2140-8-20**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 552**]\nChief Complaint:\nSuicide Attempt by ingestion\n\nMajor Surgical or Invasive Procedure:\nCT head\nMRI brain\n\n\nHistory of Present Illness:\nThis is a 49 year-old female with a history of Bipolar disorder,\nprior history of SI who presents after being found by family and\nadmitting to EMTs that she took 50+ pills of ambien and\nbenztropine.  Patient was found by EMS to be sitting at scene,\nbut lethargic. Per EMT's no evidence of EtOH intoxication.\nArrived at ED around 8:00 PM and EMTs relayed that pt took pills\n\"some time while it was dark\".\n.\nPatient was taken to [**Hospital 882**] Hospital ED, where initial vitals\nwere T 96, P 80, R 12, BP 100/69, 97% RA.  Patient somnolent but\narousable to verbal and physical stimuli.  She responded in\ngrunts and moans, no reason for taking pills.  Given 1 L NS and\ntransfered to [**Hospital1 18**] as there were no ICU beds at [**Hospital1 882**].\n.\nCurrently, patient is unable to converse, but withdraws to\npainful stimuli.  No family could be reached as only phone\nnumber is out of service.\n.\nROS: Unable to obtain as patient is only arousable to pain and\nnon-conversant.\n.\n\n\nPast Medical History:\nBipolar disorder\nPrior Suicide attempt\nEndometriosis s/p supracervical hysterectomy\n\n\nSocial History:\nPatient lives alone in an apartment in [**Location 1268**] paid for by\nboth her mother and [**Name (NI) **]. She graduated from high school and\nattended beauty school but now works intermittently at a packing\nfacility. Her main support is her mother and her fiance/friend\nwhom she recently met at SOAR treatment program. The patient has\nquestionably stressful relationship with sister and could not\notherwise name any supports. She is divorced, without children,\nby her initiation after she found her husband\ncheating on her ~ 2 years ago.  sister, [**Name (NI) 16883**] [**Name (NI) **], ph:\n[**Telephone/Fax (1) 31089**] for more information\n.\nSubstance Abuse Hx:\nPatient denies alcohol dependence/abuse and IVDU as does mother.\nCocaine use for several years per mother; patient denies use,\nalthough fiance states this is her drug of choice for which she\nrecently graduate a treatment program for. Intermittent\nmarijuana\nuse.\n\n\nFamily History:\nPt unable to give at this time.\n\nPhysical Exam:\nVitals: T: 96.1 BP: 110/60 HR: 86 RR: 26 O2Sat: 100% 2L\nGEN: No acute distress, Moving all extremities equally,\nWithdraws from painful stimuli, but not arousable or conversant.\nHEENT: NC/AT, Pupils 5mm ERRL, sclera anicteric, no epistaxis or\nrhinorrhea, MM dry, OP Clear\nNECK: No JVD, no cervical lymphadenopathy, trachea midline\nCOR: RRR, no M/G/R, normal S1 S2, radial pulses +2\nPULM: Lungs CTAB, no W/R/R\nABD: Soft, ND, +BS, no HSM, no masses Mid-line scar.\nEXT: No C/C/E, no palpable cords\nSKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.\n\n.\n\n\nPertinent Results:\nAdmission labs:\n\n[**2189-12-21**] 01:00AM BLOOD WBC-8.4 RBC-4.13* Hgb-13.2 Hct-37.8\nMCV-92 MCH-32.0 MCHC-35.0 RDW-12.4 Plt Ct-335\n[**2189-12-21**] 01:00AM BLOOD Neuts-64.7 Lymphs-28.0 Monos-6.2 Eos-0.9\nBaso-0.3\n[**2189-12-21**] 01:00AM BLOOD PT-14.3* PTT-25.5 INR(PT)-1.2*\n[**2189-12-21**] 01:00AM BLOOD Glucose-92 UreaN-8 Creat-0.6 Na-141 K-4.1\nCl-108 HCO3-25 AnGap-12\n[**2189-12-21**] 01:00AM BLOOD ALT-14 AST-13 LD(LDH)-148 CK(CPK)-89\nAlkPhos-80 TotBili-0.5\n[**2189-12-21**] 01:00AM BLOOD Albumin-3.9 Calcium-9.3 Phos-4.3 Mg-2.0\n[**2189-12-21**] 01:00AM BLOOD VitB12-510 Folate-10.1\n[**2189-12-21**] 01:00AM BLOOD TSH-1.8\n[**2189-12-21**] 01:00AM BLOOD Lithium-0.2* Valproa-<3.0*\n[**2189-12-21**] 01:00AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG\nBnzodzp-NEG Barbitr-NEG Tricycl-NEG\n[**2189-12-21**] 03:45AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG\ncocaine-POS amphetm-NEG mthdone-NEG\n\nBrief Hospital Course:\nA/P: 49 year-old female with a history of bipolar and prior\nsuicide attempt who presents after she took 50+ pills of ambien\nand benztropine in apparent suicide attempt.\n\n1. Sucide attempt with toxic ingestion: Monitored in ICU since\n[**12-21**] and other than delirium, vitals have remained stable.\n-Pt evaluated by psych and cannot leave the hospital\n-Will need 1:1 sitter at all times\n-Pt not in delirium anymore, just restless and anxious. Is\nmedically cleared to go to psych\n-Per psych haldol discontinued and on seroquel tid and prn for\nrestlessness, agitation\n\n2. Delirium - likely [**3-21**] to residual effects of recent\ningestion. WBC trending down. Afebrile, stalbe vitals, all cx no\ngrowth so far. Head CT in ICU unable to be performed, so got one\nyesterday. No bleed or cva but did show some white matter\nlesions for which MRI was recommended. MRI shows those lesions,\nwhich per neurology, can be seen in coccaine use and the\ntreatment is for pt to stop using cocaine.\n-Pt was staffed by Neuro attending after transfer to Psych [**Hospital1 **]\nand attending recommended repeat MRI w appropriate sequencing to\nr/o MS and an LP to look for oligoclonal bands. While this does\nnot need to happen urgently, neuro would like to have this done\nduring hospitalization as pt is at risk to being lost to\nfollowup. This will be conveyed by neuro team to psych service.\n\n3. Leukocytosis - likely [**3-21**] leukomoid rxn from stress. Afebrile\nw negative urine/blood cx, neg cxr. WBC downtrending\n\n.FEN - Regular\n.DVT pro - SQ heparin\n.Dispo - to psych inpt service\n\nMedications on Admission:\nHome medications unclear.\n[**Name2 (NI) **] had empty bottles found at the scene including:\n- Zolipiden Tartate 10 mg PO once at night for insomnia\n([**2189-12-1**])\n- Benztropine 0.5 mg PO 1-2 times daily PRN ([**2189-11-25**])\n.\nPer Osco Pharmacy ([**Street Address(2) 31090**]. [**Location 1268**] [**Numeric Identifier **]) at\n([**Telephone/Fax (1) 31091**]) she has been prescribed the following drugs by\nDr.\n[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]:\n- Lamotrigine 25 mg [**2-18**] daily ([**2189-12-11**])\n- Ambien 10mg PO once at night PRN insomnia ([**2189-12-11**])\n- Benztropine 0.5 mg PO 1-2 times daily PRN ([**2189-11-25**])\n- Topamax 200 mg 1 daily ([**2189-11-10**])\n- Risperdal 2 mg twice daily ([**2189-11-10**])\n\n\nDischarge Medications:\n1. Quetiapine 25 mg Tablet Sig: Three (3) Tablet PO BID (2 times\na day).\n2. Quetiapine 25 mg Tablet Sig: Four (4) Tablet PO HS (at\nbedtime).\n3. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a\nday) as needed.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 **] 4\n\nDischarge Diagnosis:\nSuicide attempt\nCoccaine abuse\nBipolar do\n\n\nDischarge Condition:\nGood\n\n\nDischarge Instructions:\nTo inpatient psych service\n\nYou were admitted unresponsive after a suicide attempt with\ningestion of many pills of ambein and cogentin. your urine also\nshowed coccaine. Initially you were confused from the overdose\nbut improved. We did a head CT and MRI which showed changes in\nyour brain due to coccaine use. Please stop using coccaine. You\nwill need a repeat scan and outpatient follow up with neurology,\nunless they repeat the scan before you leave. Please call the\nneurology clinic after you are discharged from psychiatry to set\nup follow up appt\n\nYou are being transferred to the inpatient psych service for\nfurther help with your management. Please follow up with your\npcp at discharge\n\nFollowup Instructions:\n1. PcP, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) 31092**] [**Last Name (NamePattern1) 31093**], ph: [**Telephone/Fax (1) 9347**]. Please make a\nfollow up appt in [**2-18**] weeks after discharge from psych service\n2. [**Hospital 878**] clinic, ph: [**Telephone/Fax (1) 8302**], please call and make appt\nin clinic after discharge from psychiatry\n\n\n\n"
+    },
+    {
+      "note_id": 643138,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 109,
+          "end": 116,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "anxiety"
+        }
+      ],
+      "text": "Chief Complaint:\n   24 Hour Events:\n   - Haloperidol 2mg and Ativan 2mg given (x3 each) for agitation and\n   anxiety\n   - Advanced diet\n   - Psych states she can\nt leave AMA, likely will need inpatient psych\n   Allergies:\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Haloperidol (Haldol) - [**2189-12-22**] 12:00 AM\n   Lorazepam (Ativan) - [**2189-12-22**] 01:50 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2189-12-22**] 06:30 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.3\nC (97.3\n   Tcurrent: 36.3\nC (97.3\n   HR: 90 (60 - 91) bpm\n   BP: 97/67(75) {88/36(52) - 139/119(124)} mmHg\n   RR: 20 (14 - 32) insp/min\n   SpO2: 94%\n   Heart rhythm: SR (Sinus Rhythm)\n                  Total In:\n                  PO:\n                  TF:\n   IVF:\n   Blood products:\n   Total out:\n                                                                  1,785 mL\n                                                                    125 mL\n   Urine:\n                                                                  1,785 mL\n                                                                    125 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                 -1,785 mL\n                                                                   -125 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SpO2: 93%\n   ABG: ////\n   Physical Examination\n   Gen: NAD, Alert\n   CV: RRR, no M/R/G\n   Pulm: CTAB\n   Abd: Soft, NT/ND, BS +\n   Extr: no edema, LE with dry skin, ? vericose vein on R ankle\n   Labs / Radiology\n   335 K/uL\n   13.2 g/dL\n   92 mg/dL\n   0.6 mg/dL\n   25 mEq/L\n   4.1 mEq/L\n   8 mg/dL\n   108 mEq/L\n   141 mEq/L\n   37.8 %\n   8.4 K/uL\n        [image002.jpg]\n                             [**2189-12-21**]  01:00 AM\n   WBC\n   8.4\n   Hct\n   37.8\n   Plt\n   335\n   Cr\n   0.6\n   TropT\n   <0.01\n   Glucose\n   92\n   Other labs: PT / PTT / INR:14.3/25.5/1.2, CK / CKMB /\n   Troponin-T:89/2/<0.01, ALT / AST:14/13, Alk Phos / T Bili:80/0.5,\n   Differential-Neuts:64.7 %, Lymph:28.0 %, Mono:6.2 %, Eos:0.9 %,\n   Albumin:3.9 g/dL, LDH:148 IU/L, Ca++:9.3 mg/dL, Mg++:2.0 mg/dL, PO4:4.3\n   mg/dL\n   Assessment and Plan\n POISONING / OVERDOSE, OTHER\n   49 year-old female with a history of bipolar and prior suicide attempt\n   who presents after she took 50+ pills of ambien and benztropine in\n   apparent suicide attempt.\n   .\n   Plan:\n   # Toxic ingestion: Patient currently with stable vitals, more\n   responsive today.  Primarily sounds like Ambien and benztropine\n   overdose and clinical picutre fits with sedatives.  Reason for patient\n   to have benztropine prescription is unknown.  Cocaine was positive on\n   tox screen, however, patient is does not show other signs of cocaine\n   intoxication.\n   - 1:1 sitter\n   - Hold off on Head CT given current agitation\n   - Supportive care (O2, cardiac monitoring, IVF as needed) until\n   inpatient Psych.\n   .\n   # Bipolar disorder: Unable to obtain acurate history or medications.\n   .\n   # FEN:  regular, aspiration precautions when sedated.\n   .\n   # Access: PIV\n   .\n   # PPx: Heparin SQ.\n   .\n   # Code:  Presumed Full\n   .\n   # Dispo:  ICU until more alert.\n   .\n   # Comm: Attempt to contact family/PCP\n   ICU [**Name9 (PRE) 151**]\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2189-12-21**] 03:33 PM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU\n"
+    }
+  ]
+}

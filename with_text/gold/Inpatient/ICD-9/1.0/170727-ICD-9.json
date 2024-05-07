@@ -1,0 +1,86 @@
+{
+  "hadm_id": 170727,
+  "comment": "Flexible Sigmoidoscopy, Upper Endoscopy- Need OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 38465,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 7405,
+          "end": 7421,
+          "code": "535.10",
+          "code_system": "ICD-9-CM",
+          "description": "Atrophic gastritis, without mention of hemorrhage",
+          "type": "MapType.APPROX",
+          "covered_text": "active gastritis"
+        },
+        {
+          "begin": 7607,
+          "end": 7636,
+          "code": "558.9",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified noninfectious gastroenteritis and colitis",
+          "type": "MapType.APPROX",
+          "covered_text": "Focal chronic active colitis."
+        },
+        {
+          "begin": 7706,
+          "end": 7709,
+          "code": "313.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other emotional disturbances of childhood or adolescence",
+          "type": "MapType.APPROX",
+          "covered_text": "ADD"
+        },
+        {
+          "begin": 9459,
+          "end": 9479,
+          "code": "719.40",
+          "code_system": "ICD-9-CM",
+          "description": "Pain in joint, site unspecified",
+          "type": "Human",
+          "covered_text": "Arthrlagias/Myalgias"
+        },
+        {
+          "begin": 10106,
+          "end": 10117,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 10500,
+          "end": 10506,
+          "code": "280.9",
+          "code_system": "ICD-9-CM",
+          "description": "Iron deficiency anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 12068,
+          "end": 12074,
+          "code": "555.9",
+          "code_system": "ICD-9-CM",
+          "description": "Regional enteritis of unspecified site",
+          "type": "Human",
+          "covered_text": "Crohns"
+        },
+        {
+          "begin": 12094,
+          "end": 12108,
+          "code": "532.90",
+          "code_system": "ICD-9-CM",
+          "description": "Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation, without mention of obstruction",
+          "type": "MapType.APPROX",
+          "covered_text": "Duodenal Ulcer"
+        }
+      ],
+      "text": "Admission Date:  [**2186-7-30**]              Discharge Date:   [**2186-8-4**]\n\nDate of Birth:  [**2158-6-25**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 2279**]\nChief Complaint:\nAbdominal pain, nausea\n\nMajor Surgical or Invasive Procedure:\nFlexible Sigmoidoscopy\nUpper Endoscopy\n\n\nHistory of Present Illness:\nThe patient is a 28 yo F with a past medical history of IBS and\nADD who presents with abdominal pain and musculoskeletal pain.\nPatient was in her USOH when she developed diarrhea 2 weeks ago-\nloose, brown, mucousy, nonbloody diarrhea [**4-6**] daily for several\ndays. She did not have abdominal pain, nausea or vomiting at\nthis time. She did have three apthous ulcers- which she has had\nin the past.\n.\nApproximately one week ago she developed subxiphoid abdominal\npain, dull, mild in nature, and nonradiating which she\nattributed to heartburn- she had no relief with ranitidine with\nno improvement. She says that the pain is much worse with\neating.\nAt around this same time she developed she developed bilateral\nshin pain. At this point her diarrhea had improved somewhat- she\nweas still having loose stools but much less frequently.\n.\nFour days prior to admission, patient presented to her\noutpatient primary care doctor [**First Name (Titles) **] [**Last Name (Titles) **], who advised an outpatient\nCT abdomen which revealed transverse colitis, so she was started\non oral Cipro. Abdominal pain worsened to [**11-12**] and was worse\nwith po intake. She denied nausea, vomitting, hematochezia, or\nmelena.\n.\nTwo days ago her shin pain developed in diffuse myalgias and\narthralgias involving the ankles, knees, wrists, elbows and\nshoulders- this was so bad that it was difficult to walk. She\ndenies any new rashes during this time and denies any swelling\nin her joints or any edema. Also denies any sick contacts,\nrecent travel abroad, and new pets or exposure to animals. No\nrecent NSAID use. She denies eating any new or suspicious foods.\nShe denies any eye pain or visual changes with the exception of\nslightly tender eyelid on R side.\n.\nOf note, the patient had an extensive GI workup in HS that ruled\nout celiac and lead to a presumptive diagnosis of IBS. In\ncollege, she again had an extensive GI workup at [**Hospital **] was was finally found to have pleurisy. The\npatient eats all foods except red meat.\n.\nShe has two first cousins with [**Name (NI) 4522**] disease on opposite sides\nof her family.\n.\nIn the ED, Patient was initially 100.5 and then spiked a fever\nto 102. She was given tylenol 1 g po x1, Unasyn 3 g IV x1,\nMorphine a total of 8 mg IV, Zofran 8 mg IV x1, and a total of 3\nL NS. CXR was wnl. CT abdomen again revealed transverse colitis\nwith associated LAD. Exam revealed TTP diffusely, and was guaiac\nnegative. UCG was negative and lactate was 1.1. Pelvic exam was\nperformed and was reportedly normal, with GC and chlamydia sent.\nPatient was initially going to the floor, but dropped to SBP 80s\nand only improved to 88/40 with fluid resuscitation.\n\n\nPast Medical History:\n-IBS--Diagnosed as teenager, with occasional flares since. No\ncolonoscopy in the past.\n-Pleurisy 7 yrs ago. Pain at that time different from this\nrecent presentation. Workup was negative\n-ADD\n\n\nSocial History:\nLives in [**Hospital1 1281**] square in [**Location (un) 21601**]. Works as a fashion designer.\nDenies tobacco use. Uses ethanol socially on the weekends,\nusually less than 3-5 drinks per weekend. Denied IVDU. Reports\nsexually active with men, uses barrier protection, and had\nnegative STI panel 6 months ago, but is unaware of what she was\ntested for.\n\nFamily History:\nFirst cousin with on Father's side with Crohn's. No UC. No SLE.\nNo FMF.\n\nPhysical Exam:\nVitals on admission: 98.5 97/65, 93, 100 RA, 5'5 and 54.9kg\nGeneral: Alert, oriented, in moderate pain, holding herself very\nstill.\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nrhonchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: soft, mild tenderness to palpation in epigastric region\nwith no rebound or guarding, non-distended, bowel sounds present\n\nExt: Marked edema in legs, feet and hands. Few splotchy red\nmacules on lower legs, with one raised 1 inchx1inch nodule on R\nankle.\n\n\nPertinent Results:\n[**2186-7-30**] 05:05PM   SED RATE-110*\n[**2186-7-30**] 05:05PM   PT-12.6 PTT-27.4 INR(PT)-1.1\n[**2186-7-30**] 05:05PM   PLT COUNT-578*\n[**2186-7-30**] 05:05PM   NEUTS-89.7* LYMPHS-6.8* MONOS-2.7 EOS-0.3\nBASOS-0.5\n[**2186-7-30**] 05:05PM   WBC-24.5* RBC-3.96* HGB-11.5* HCT-33.7*\nMCV-85 MCH-29.0 MCHC-34.1 RDW-12.7\n[**2186-7-30**] 05:05PM   CRP-141.5*\n[**2186-7-30**] 05:05PM   CALCIUM-8.9 PHOSPHATE-3.4 MAGNESIUM-2.0\n[**2186-7-30**] 05:05PM   LIPASE-40\n[**2186-7-30**] 05:05PM   ALT(SGPT)-9 AST(SGOT)-9 CK(CPK)-20* ALK\nPHOS-71 TOT BILI-0.4\n[**2186-7-30**] 05:05PM   GLUCOSE-77 UREA N-7 CREAT-0.7 SODIUM-135\nPOTASSIUM-4.0 CHLORIDE-100 TOTAL CO2-21* ANION GAP-18\n[**2186-7-30**] 05:40PM URINE  RBC-0-2 WBC-[**4-7**] BACTERIA-NONE YEAST-NONE\nEPI-[**4-7**]\n[**2186-7-30**] 05:40PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-TR\nGLUCOSE-NEG KETONE-150 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0\nLEUK-TR\n[**2186-7-30**] 05:40PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.020\n[**2186-7-30**] 05:40PM URINE  UCG-NEGATIVE\n[**2186-7-30**] 05:46PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-POS\ncocaine-NEG amphetmn-NEG mthdone-NEG\n[**2186-7-30**] 10:08PM   LACTATE-0.9\n\n[**2186-8-3**] 12:55PM BLOOD WBC-12.5* RBC-3.17* Hgb-9.3* Hct-27.5*\nMCV-87 MCH-29.3 MCHC-33.9 RDW-12.7 Plt Ct-554*\n[**2186-7-30**] 05:05PM BLOOD ESR-110*\n[**2186-8-3**] 06:40AM BLOOD Glucose-128* UreaN-7 Creat-0.6 Na-138\nK-4.1 Cl-107 HCO3-26 AnGap-9\n[**2186-8-1**] 09:10AM BLOOD ALT-4 AST-9 AlkPhos-51 Amylase-48\nTotBili-0.1\n[**2186-8-1**] 09:10AM BLOOD Lipase-37\n[**2186-8-3**] 06:40AM BLOOD Calcium-8.6 Phos-3.5 Mg-2.1\n[**2186-8-1**] 09:10AM BLOOD calTIBC-202* TRF-155*\n[**2186-8-1**] 09:10AM BLOOD TSH-3.0\n[**2186-7-30**] 05:05PM BLOOD CRP-141.5*\n[**2186-7-31**] 04:35AM BLOOD Lactate-0.7\n\nCT Abd/pelvis [**7-30**]:\n1. No acute abdominal pathology detected.\n2. Normal appendix.\n3. Numerous prominent mesenteric lymph nodes along the hepatic\nflexure,\ntransverse mesocolon and ileocolic region. As per Dr. [**First Name8 (NamePattern2) **]\n[**Last Name (NamePattern1) 26216**], [**First Name3 (LF) **]\nresident physician, [**Name10 (NameIs) **] patient had transverse colitis diagnosed\non outside hospital CT four days ago. Given this history these\nnodes may relate to underlying infectious or inflammatory\netiology. Recommend clinical correlation and GI\nfollow-up/evaluation. If no evidence of Crohn's\ndisease/inflammatory bowel disease, suggest repeat CT in [**4-8**]\nmonths to assess for interval change of the lymph nodes.\n\nColonoscopy Impression [**2186-8-2**]:Stool in the transverse colon,\nascending colon and cecum;;Erythema and congestion in the\ncolon;v Normal mucosa in the colon; Otherwise normal colonoscopy\nto terminal ileum\n\nEndoscopy Impression [**2186-8-2**]: Erythema, congestion and erosion\nin the antrum; Coffee-ground blood in the stomach;Ulcer in the\npylorus (biopsy)\nOtherwise normal EGD to third part of the duodenum\n\nBiopsies: SPECIMEN SUBMITTED: GI BX ( 3 JARS) [**2186-8-2**]\n\nDIAGNOSIS:\n\nA.  Gastric ulcer biopsy:  Focal chronic active gastritis with\nerosion and a cluster of macrophages suggestive of poorly formed\ngranuloma.  Special stain for H. pylori pending.\nB.  Terminal ileum:  Focal active ileitis.\nC.  Sigmoid biopsies:  Focal chronic active colitis.\n\n\nBrief Hospital Course:\n28 yo F with a past medical history of IBS, ADD presents with\nabdominal pain and msk pain. Her symptoms initially started with\ndiarrhea and developed into abdominal pain and polymyalgias.\n.\n#. Abdominal pain: In a patient who was completely healthy with\nthe exception of IBS, the differential of this pain was\nextensive upon admission. A variety of tests were performed. She\nhad a normal HCG and normal pelvic exam. GC and Chlmydia labs\nwere negative. She had a normal abdomen CT with normal lipase\nand amylase. Lactate was normal x2 and she was guaiac negative.\nShe was initially treated with Cipro/Flagyl, but this was\nstopped when C.diff, O+P, and all other infectious stool studies\nwere negative and IBD became presumed diagnosis. Crohns seemed\nmost likely diagnosis, given family history of two first cousins\nwith several weeks of abdominal pain with myalgia/arthralgia and\nrash (see below.) Patient was treated empirically with IV\nSolumedrol because she was in severe pain and had a nodular\nrash. She then underwent flexible sigmoidoscopy and endoscopy.\nFlex sig showed erythema and congestion in the colon, Normal\nmucosa in the colon and otherwise normal colonoscopy to terminal\nileum. Upper endoscopy showed erythema, congestion and erosion\nin the antrum,Coffee-ground blood in the stomach,Ulcer in the\npylorus (biopsy),Otherwise normal EGD to third part of the\nduodenum. Biopsies showed Focal chronic active gastritis with\nerosion and a cluster of macrophages suggestive of poorly formed\ngranuloma with H.pylori stain pending, focal active ileitis and\nfocal chronic active colitis. Patient was changed from IV\nSolumedrol to PO prednisone for discharge and started on\nprotonix and mesalamine 2g [**Hospital1 **]. She will followup at [**Hospital1 41724**] in\n[**Location (un) 7349**].\n.\n# Arthrlagias/Myalgias: Patient presented with arthralgias and\nmyalgias which worsened over first night of hospitalization. She\nwas treated with IV Dilaudid. She also developed a erythematous,\nnodular rash on her legs and arms over the first night of her\nadmission; this rash started on her ankles and rapidly spread\nover the course of 10 hours to her arms. This rash resolved on\nits own, without treatment, in the following 10 hours. This rash\nwas thought to be consistent with erythema nodosum, although the\ntime course was puzzling. The arthralgias and myalgias were also\nthought to be extra-intestinal manifestations of IBD. CK 41, ESR\n110.\n.\n# Hypotension: Patient was admitted to the ICU initially because\nshe was thought to be hypotensive with SBPs in 70s and 80s.\nPatient given at least 6 L IVF in the ED/ICU and remained with\nBP in the 90s. She was completely asymptomatic for hypotension\nand otherwise hemodynamically stable. Patient continued to have\nsystolic blood pressures in 80s throughout hospitalization\nwithout symptoms.\n.\n# Anemia: Patient's baseline HCT is unknown. Admission HCT was\n33.7, lowest HCT was 24.7, discharge 27. Given endoscopy showing\nulcer and colonoscopy showing melena, the patient likely bled\nfrom her ulcer at some point. These studies indicate that there\nis now no active bleeding and patient is competely\nhemodynamically stable. Of note, iron, ferritin and TIBC were\nall low, TSH was normal. There is likely a component of both\niron deficiency and anemia of chronic disease. We will not treat\nwith iron given GI symptoms.  This should be followed up with\nthe patient's PCP.\n\n\nMedications on Admission:\n# Adderall 10 mg po BID - TID\n# Loestrin daily\n\n\nDischarge Medications:\n1. Loestrin 1.5/30 (21) 1.5-30 mg-mcg Tablet Sig: One (1) Tablet\nPO daily (): Take according to previous prescription.\n2. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\nDisp:*60 Tablet(s)* Refills:*2*\n3. Hydromorphone 2 mg Tablet Sig: 0.5 Tablet PO Q4H (every 4\nhours) as needed for pain.\nDisp:*30 Tablet(s)* Refills:*0*\n4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).\nDisp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*\n5. Mesalamine 500 mg Capsule, Sustained Release Sig: Four (4)\nCapsule, Sustained Release PO BID (2 times a day).\nDisp:*240 Capsule, Sustained Release(s)* Refills:*2*\n6. Ativan 0.5 mg Tablet Sig: One (1) Tablet PO every 6-8 hours\nas needed for pain.\nDisp:*40 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nColitis secondary to Inflammatory Bowel Disase- Crohns\nHypotension\nAnemia\nDuodenal Ulcer\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to the hospital for severe abdominal pain and\nmusculoskeletal pain with a rash. You were initially sent to the\nICU because your blood pressure was low. There you were given IV\nfluids. Your blood pressure increased slightly and you remained\nstable and so it was determined that your blood pressure is\nlikely low at baseline. After leaving the ICU, your rash\nworsened on your first night but resolved spontaneously. You\nwere treated with pain medications, started on antibiotics for\nconcern for possible infection and started on steroids out of\nconcern for IBD. You had a flexible sigmoidoscopy that showed\ninflammation in your colon and you had an endoscopy which showed\nan ulcer. The studies did not see any active bleeding but did\nreveal stool with blood (melena) which indicates that you did\nbleed at some point, likely from your ulcer. The GI team found\nthat these studies were likely consistent with Crohns disease\n(Inflammatory Bowel Disease) and the biopsies that they took\nconfirmed this. Of note, your musculoskeletal pain and rash are\nalso consistent with Crohns disease.\n.\nOf note, your hematocrit (blood levels) were low while you were\nhere. This was likely due partially to past bleeding from your\nulcer and partially due to receiving a lot of fluids. This could\nalso partially be due to iron deficiency, as your iron was low.\nWe suggest that your PCP follow up your iron levels at a later\npoint. We continued to follow your hematocrit here and it\nremained stable upon discharge.\n.\nWe will send you home with the following new medications to\ntreated  Crohns disease:\n1. Mesalamine 2 g twice daily\n2. Prednisone 40 mg daily\n3. Protonix 40 mg twice daily\n4. Dilaudid 1 mg as need, max every 4 hours.\n\nFollowup Instructions:\nYou should plan to followup with IBD doctors [**First Name (Titles) **] [**Hospital1 1872**] in [**Location (un) 7349**]\nas discussed. You should also followup with your primary care\ndoctor.\n\n\n                             [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 2285**]\n\n"
+    }
+  ]
+}

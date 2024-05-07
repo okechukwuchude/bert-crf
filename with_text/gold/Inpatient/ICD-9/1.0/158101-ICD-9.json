@@ -1,0 +1,158 @@
+{
+  "hadm_id": 158101,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 16777,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 459,
+          "end": 462,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 467,
+          "end": 469,
+          "code": "412",
+          "code_system": "ICD-9-CM",
+          "description": "Old myocardial infarction",
+          "type": "Human",
+          "covered_text": "MI"
+        },
+        {
+          "begin": 475,
+          "end": 477,
+          "code": "250.40",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 509,
+          "end": 529,
+          "code": "250.40",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "diabetic nephropathy"
+        },
+        {
+          "begin": 1344,
+          "end": 1348,
+          "code": "427.41",
+          "code_system": "ICD-9-CM",
+          "description": "Ventricular fibrillation",
+          "type": "MapType.EXACT",
+          "covered_text": "Vfib"
+        },
+        {
+          "begin": 2634,
+          "end": 2646,
+          "code": "404.91",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive heart and renal disease, unspecified, with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 2701,
+          "end": 2732,
+          "code": "585.4",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, Stage IV (severe)",
+          "type": "Human",
+          "covered_text": "Chronic kidney disease stage IV"
+        },
+        {
+          "begin": 2761,
+          "end": 2780,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial Fibrillation"
+        },
+        {
+          "begin": 2798,
+          "end": 2802,
+          "code": "274.9",
+          "code_system": "ICD-9-CM",
+          "description": "Gout, unspecified",
+          "type": "Human",
+          "covered_text": "Gout"
+        },
+        {
+          "begin": 2806,
+          "end": 2821,
+          "code": "V10.46",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of prostate",
+          "type": "Human",
+          "covered_text": "Prostate cancer"
+        },
+        {
+          "begin": 9400,
+          "end": 9414,
+          "code": "427.5",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac arrest",
+          "type": "Human",
+          "covered_text": "CARDIAC ARREST"
+        },
+        {
+          "begin": 10430,
+          "end": 10449,
+          "code": "348.1",
+          "code_system": "ICD-9-CM",
+          "description": "Anoxic brain damage",
+          "type": "Human",
+          "covered_text": "ANOXIC BRAIN INJURY"
+        },
+        {
+          "begin": 11156,
+          "end": 11175,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "RESPIRATORY FAILURE"
+        },
+        {
+          "begin": 11671,
+          "end": 11674,
+          "code": "584.5",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure with lesion of tubular necrosis",
+          "type": "MapType.EXACT",
+          "covered_text": "ATN"
+        },
+        {
+          "begin": 12111,
+          "end": 12135,
+          "code": "428.22",
+          "code_system": "ICD-9-CM",
+          "description": "Systolic heart failure, chronic",
+          "type": "Human",
+          "covered_text": "CONGESTIVE HEART FAILURE"
+        },
+        {
+          "begin": 12432,
+          "end": 12445,
+          "code": "288.60",
+          "code_system": "ICD-9-CM",
+          "description": "Leukocytosis, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Leukocytosis:"
+        }
+      ],
+      "text": "Admission Date:  [**2117-1-16**]              Discharge Date:   [**2117-1-23**]\n\nDate of Birth:  [**2037-3-22**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 4765**]\nChief Complaint:\nunresponsiveness\n\nMajor Surgical or Invasive Procedure:\nintraosseous access removal\nHD line placement\nCVVH\n\nHistory of Present Illness:\nMr. [**Known lastname **] is a 79 yo M w/hx of CAD s/p MI X 2, DM, CHF EF 35-40%,\nafib, stage IV diabetic nephropathy (Cr 3.0) who presented to\nthe ED after a witness unresponsive episode. Per the family, he\nwas walking down the street and had a wittness loss of\nconsciousness. EMS was called and he was taken to [**Hospital 4199**]\nhospital. On arrival (11:20am) he was in asystole. He was given\nEpi X 3 and Atropine X 1. He then went into Vfib and shocked\n(200 joules). He then went into Afib and became bradycardic.\nDopamine was started. He regained a perfusing rhythm at 11:35am.\nHe was given Calcium chloride, Magnesium, Amiodarone 300mg IV X\n1 and bicarb during the resuscitation at [**Last Name (un) 4199**]. He later had\nanother episode of VT at 12:40 and an amiodarone gtt was\nstarted. He was transferred to the [**Hospital1 18**] ED.\n.\nPer [**Hospital1 18**] ED report, he had presented to [**Hospital 4199**] hospital in\nVfib, then became asystolic. After the initial resuscitation he\nhad 2 additional asystolic arrests in the [**Last Name (un) 4199**] ER.\n.\nIn the [**Hospital1 18**] ED, initial vitals were T98.2 HR75, BP149/106, RR32\n100% on the vent. The post-arrest consult team was called and\nrecommended cooling him to 33-34 degrees and weaning his\npropofol to fentanyl/versed. A R femoral line was placed, he was\ngiven 1L IVF and had a head, chest, abdomen CT done without\ncontrast. He was kept on dopamine, propofol and amiodarone. He\nwas given 1mg Atropine for bradycardia to 35During transfer to\nthe floor, he became bradycardic. External pacer pad were placed\nand his dopamine was increased from 15mcg/kg to 20mcg/kg. He was\nbriefly externally paced and given additional an additional 1mg\nof Atropine. On arrival to the CCU he was not being paced and\nhis dopamine was back down to 15mcg/min. CT scan showed a\nsternal fracture and mediastinal hematoma.\n.\nROS unable to be obtained as the patient is intubated and\nsedated.\n\n\nPast Medical History:\n1. Coronary artery disease,\n-s/p MI [**2100**], cath showing occluded OM1\n-s/p AMI [**2105**] with stent to proximal LAD 80% lesion, 70% D1, 70%\nOM1 with circ occluded after OM1\n2. Systolic Left Ventricular Heart Failure, EF 35-40% (echo\n[**12-15**])\n3. Hypertension\n4. Diabetes Mellitus Type 2\n5. Diabetic Nephropathy - Chronic kidney disease stage IV,\nbaseline creatinine 3.0\n6. Atrial Fibrillation - on Coumadin\n7. Gout\n8. Prostate cancer - T1C, NX, [**Doctor Last Name **] score 5+5, s/p XRT [**2107**]\n\n\nSocial History:\nUnable to obtain as patient is intubated and sedated. Per OMR,\nno tobacco, alcohol or drug use. Confirmed with family.\n\nFamily History:\nUnable to obtain. Per OMR, there is no family history of\npremature coronary artery disease or sudden death.\n\nPhysical Exam:\nVS: T=36.4 BP 134/83 HR 90 RR 20 99% on AC 550x20 100% FiO2,\nPEEP 5\nGENERAL: Intubated and sedated.\nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were\npink, no pallor or cyanosis of the oral mucosa. No xanthalesma.\n\nNECK: Supple, JVP unable to be assessed due to cervical collar.\n\nCARDIAC: PMI located in 5th intercostal space, midclavicular\nline. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or\nS4.\nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp\nwere unlabored, no accessory muscle use. CTAB, no crackles,\nwheezes or rhonchi.\nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not\nenlarged by palpation.\nEXTREMITIES: 2+ peripheral edema.\nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.\nPULSES:\nRight: Carotid 2+ Femoral dopplerable DP dopplerable\nLeft: Carotid 2+ Femoral dopplerable Popliteal dopplerable\n\n\nPertinent Results:\nADMISSION LABS:\n[**2117-1-16**] 03:40PM BLOOD WBC-13.3* RBC-5.40 Hgb-15.7 Hct-49.7\nMCV-92 MCH-29.0 MCHC-31.6 RDW-16.8* Plt Ct-216\n[**2117-1-16**] 03:40PM BLOOD Neuts-86.1* Lymphs-5.9* Monos-7.8 Eos-0.1\nBaso-0.2\n[**2117-1-16**] 03:40PM BLOOD PT-30.1* PTT-44.2* INR(PT)-3.0*\n[**2117-1-16**] 09:35PM BLOOD Glucose-276* UreaN-69* Creat-3.3* Na-134\nK-4.6 Cl-104 HCO3-21* AnGap-14\n[**2117-1-16**] 03:40PM BLOOD ALT-465* AST-572* CK(CPK)-881*\nAlkPhos-141* TotBili-1.4\n[**2117-1-16**] 09:35PM BLOOD ALT-385* AST-493* CK(CPK)-1141*\nAlkPhos-123 TotBili-1.9*\n[**2117-1-17**] 03:29AM BLOOD ALT-317* AST-304* CK(CPK)-870*\nAlkPhos-106 TotBili-1.2\n[**2117-1-17**] 01:41PM BLOOD CK(CPK)-936*\n[**2117-1-16**] 03:40PM BLOOD cTropnT-0.64*\n[**2117-1-16**] 03:40PM BLOOD CK-MB-35* MB Indx-4.0\n[**2117-1-16**] 09:35PM BLOOD CK-MB-45* MB Indx-3.9 cTropnT-1.34*\n[**2117-1-17**] 03:29AM BLOOD CK-MB-41* MB Indx-4.7 cTropnT-1.19*\n[**2117-1-17**] 01:41PM BLOOD CK-MB-38* MB Indx-4.1 cTropnT-1.25*\n[**2117-1-16**] 03:40PM BLOOD Albumin-3.5 Calcium-9.0 Phos-5.5* Mg-3.0*\n[**2117-1-17**] 03:29AM BLOOD Triglyc-103 HDL-21 CHOL/HD-3.1 LDLcalc-24\nMICROBIOLOGY:\n.\n RESPIRATORY CULTURE ([**1-18**] and [**1-21**])\n     MORAXELLA CATARRHALIS.\n\n[**2117-1-18**] 5:14 pm BLOOD CULTURE      Source: Line-aline.\nSTAPHYLOCOCCUS, COAGULASE NEGATIVE\n                             |\nERYTHROMYCIN----------   =>8 R\nGENTAMICIN------------ <=0.5 S\nLEVOFLOXACIN----------<=0.12 S\nOXACILLIN-------------   =>4 R\nRIFAMPIN-------------- <=0.5 S\nTETRACYCLINE----------   <=1 S\nVANCOMYCIN------------     2 S\n.\n[**2117-1-16**] 11:25 pm BLOOD CULTURE      Source: Line-mlc.\nSTAPHYLOCOCCUS, COAGULASE NEGATIVE\n                             |\nCLINDAMYCIN-----------<=0.25 S\nERYTHROMYCIN----------<=0.25 S\nGENTAMICIN------------ <=0.5 S\nLEVOFLOXACIN----------  0.25 S\nOXACILLIN-------------<=0.25 S\nTETRACYCLINE----------   <=1 S\nVANCOMYCIN------------     2 S\nSTUDIES:\n.\nCXR ([**2117-1-16**]): Cardiomegaly with mild congestive heart failure.\nEndotracheal tube and nasogastric tube in standard positions.\n.\nCT spine ([**2117-1-16**]):\n1. No acute fracture or malalignment of the cervical spine.\n2. Pulmonary edema and right pleural effusion, partially imaged.\n\n3. Multilevel degenerative changes, worst at C4-C5, which\npredisposes the patient to cord injury. Consider MRI for further\nevaluation if clinically indicated.\n.\nNon-contrast head CT ([**2117-1-16**]): NON-CONTRAST HEAD CT: There is no\nintracranial hemorrhage, mass effect, or [**Doctor Last Name 352**]-white matter\ndifferentiation abnormality. The ventricles and extra-axial\nspaces are appropriate for age. Intracranial carotid artery\natherosclerotic calcifications are moderate-to-severe. Mucosal\nsecretions within the nasal passages, nasopharynx, and\nopacification of the ethmoid sinus air cells are noted, at least\npartially related to recent intubation. There is mucosal\nthickening in bilateral maxillary, frontal, and sphenoid\nsinuses, mild in degree. Imaged mastoid air cells are clear.\nThere is no fracture. Mild prominence of the ventricles and\ncerebral sulci is likely related to age-appropriate atrophy.\n\nIMPRESSION: No acute intracranial abnormality. Sinus disease, as\nnoted above.\n.\nCT chest, abdomen, pelvis ([**2117-1-16**]):\nIMPRESSION:\n1. Mildly displaced transversefracture of the mid sternum likely\ninvolves the medial aspect of the anterior left third rib with\nassociated substernal anterior mediastinal hematoma.\n2. Mild pulmonary edema with bilateral small pleural effusions\nwith associated atelectasis.\n3. 1.9 cm right renal hypodense lesion, likely a complex cyst. A\nrenal ultrasound is recommended further evaluation.\n4. Gallbladder wall edema and trace perihepatic ascites, likely\nrelated to heart failure.\n.\nECHO [**2117-1-18**]\nThe left atrium is mildly dilated. Left ventricular wall\nthicknesses and cavity size are normal. There is mild to\nmoderate regional left ventricular systolic dysfunction with\nsevere hypokinesis of the inferior and inferolateral walls,\ndistal anterior wall and distal lateral wall. There is an apical\nleft ventricular aneurysm. The remaining walls contract well\n(LVEF 30-35%). No masses or thrombi are seen in the left\nventricle. The right ventricular cavity is moderately dilated\nwith moderate global free wall hypokinesis. The aortic valve\nleaflets (3) are mildly thickened but aortic stenosis is not\npresent. No aortic regurgitation is seen. The mitral valve\nleaflets are mildly thickened. Mild (1+) mitral regurgitation is\nseen. Significant pulmonic regurgitation is seen. The pulmonary\nartery systolic pressure could not be quantified (but pulmonary\nartery systolic hypertension is suggested). There is a\ntrivial/physiologic pericardial effusion.\nIMPRESSION: Suboptimal image quality. Moderate regional left\nventricular systolic dysfunction consistent with multivessel\nCAD. Right ventricular cavity enlargement with free wall\nhypokinesis. Mild mitral regurgitation.\nCompared with the findings of the prior study (images reviewed)\nof [**2116-1-6**], left ventricular function has further\ndeteriorated and the right ventricular cavity is more dilated\nwith new free wall hypokinesis.\nIs there a history to suggest a primary pulmonary process (e.g.,\npulmonary embolism, bronchospasm, etc.\n\n\nBrief Hospital Course:\n79yo M w/hx of CAD s/p MI X 2, CHF, DM, Stage IV CKD who\npresents s/p cardiac arrest.\n.\n# CARDIAC ARREST: There was little information about the events\nof the hours that preceded his admission.  We know that he had a\nwitnessed syncopal episode; he may have been in asystole at an\nOSH.  The etiology of the cardiac arrest was likely [**2-9**]\nhyperkalemia.  He underwent Artic Sun cooling protocol at [**Hospital1 18**],\nwhich was complicated by persistent bradycardia to the 20's.\nTherefore, Arctic sun was terminated after 6 hours.  He was\nplaced on Epinephrine, Isoproteronol & Dopamine and his HR\neventually rebounded.  His pressors were slowly weaned.\nNeurology was consulted regarding his neurological prognosis.\nBased on his EEG result, non-arousal, and lack of brainstem\nreflexes except for overbreathing on the ventilator, Neurology\nsuggested that meaningful recovery from the neurological\nstandpoint is very unlikely.  Serial family meetings were held,\nand the family decided to withdraw care on [**2117-1-23**] at 10am.\nFollowing extubation, patient expired 40 minutes later at\n10:40am on [**2117-1-23**].\n.\n# ANOXIC BRAIN INJURY:  Neurology was consulted on admission and\npatient was placed on a 48 hour EEG per protocol. P er\nexamination, the patient demonstrated no brainstem function,\nsave for a respiratory rate that exceeded the ventilator\nsettings.  Over the next few days, he did demonstrate the\npresence of a gag reflex as well as a questionable R-sided\npupillary constriction and corneal reflex, but despite being off\npressors and sedation, he did not exhibit further cortical\nfunction.  EEG's demonstrated some e/o encephalopathy.  Serial\nfamily meetings were held, and the family decided to withdraw\ncare on [**2117-1-23**] at 10am.  Following extubation, patient expired\n40 minutes later at 10:40am on [**2117-1-23**].\n.\n# RESPIRATORY FAILURE: Patient was placed on a ventilator s/p\ncardiac arrest. His chest CT demonstrated mild pulmonary edema.\nSputum culture from [**1-18**] and [**1-21**] grew out Moraxella for which\nhe was covered with ceftriaxone. He remained intubated with\nstepwise decrements in his degree of pressure support.\nFollowing extubation, patient expired 40 minutes later at\n10:40am on [**2117-1-23**].\n.\n# ANURIC RENAL FAILURE: Patient with known CKD, baseline Cr 3.0.\nOn admission, patient was anuric, likely due to ATN s/p shock\nand poor perfusion despite receiving several liters of IVF's at\nthe OSH and in the ED.  His electrolytes and acid/base status\nwas stabilized after he was placed on CVVH.  His CVVH filter was\nclotted off on [**1-18**].  Given that his his UOP improved and his\nelectrolytes were stable off CVVH, and because of his poor\nprognosis, CVVH was discontinued.  His electrolytes were stable\nduring the rest of the hospitalization.\n.\n# CONGESTIVE HEART FAILURE: EF of 35-40% in [**12-15**], down to\n30-35% on repeat TTE on [**2117-1-18**], likely further impaired by the\ncardiac arrest.  Patient with mild pulmonary edema on chest CT,\nbut intubated since admission.  His ACE was held given renal\ninsufficiency and his fluid status was managed as above.\n.\n# Leukocytosis: Patient presented with leukocytosis & grossly\npositive U/A, but elevated WBC may also be due to stress\nresponse to cardiac arrest.  He was started on Ceftriaxone 1g IV\nq24H on [**1-17**].  Sputum cx was positive for Moraxella & blood\ncultures demonstrated coag negative staph.  Vancomycin was added\non [**1-19**].\n.\n# DMII: Patient was continued on Lantus with regular insulin\nsliding scale.\n\n\nMedications on Admission:\nAllopurinol 300 mg Tablet\nAtorvastatin 80 mg Tablet\nCalcitriol 0.25mg PO qday\nCarvedilol 12.5mg PO BID\nLasix 80mg PO BID\nHumalog dose unknown\nHydralazine 10mg PO BID\nLantus 33 units in the AM\nImdur 30mg PO q24H\nWarfarin 2mg daily except Wednesday, 1 mg on Wednesday\nAspirin 81mg PO qday\nColace 100mg PO qday PRN constipation\nMVI\nSenna 2 tabs daily PRN constipation\n\n\nDischarge Medications:\nExpired\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nCardiac arrest\n\n\nDischarge Condition:\nExpired\n\nDischarge Instructions:\nExpired\n\nFollowup Instructions:\nExpired\n\n\n"
+    }
+  ]
+}

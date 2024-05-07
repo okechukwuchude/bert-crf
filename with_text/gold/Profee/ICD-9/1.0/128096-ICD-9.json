@@ -1,0 +1,822 @@
+{
+  "hadm_id": 128096,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 53563,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 269,
+          "end": 288,
+          "code": "786.05",
+          "code_system": "ICD-9-CM",
+          "description": "Shortness of breath",
+          "type": "MapType.EXACT",
+          "covered_text": "Dyspnea on exertion"
+        },
+        {
+          "begin": 525,
+          "end": 537,
+          "code": "785.2",
+          "code_system": "ICD-9-CM",
+          "description": "Undiagnosed cardiac murmurs",
+          "type": "MapType.APPROX",
+          "covered_text": "heart murmur"
+        },
+        {
+          "begin": 675,
+          "end": 703,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "left ventricular hypertrophy"
+        },
+        {
+          "begin": 708,
+          "end": 730,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "severe aortic stenosis"
+        },
+        {
+          "begin": 789,
+          "end": 798,
+          "code": "786.02",
+          "code_system": "ICD-9-CM",
+          "description": "Orthopnea",
+          "type": "MapType.EXACT",
+          "covered_text": "orthopnea"
+        },
+        {
+          "begin": 1125,
+          "end": 1140,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "Aortic stenosis"
+        },
+        {
+          "begin": 1141,
+          "end": 1155,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 1156,
+          "end": 1168,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1169,
+          "end": 1185,
+          "code": "593.2",
+          "code_system": "ICD-9-CM",
+          "description": "Cyst of kidney, acquired",
+          "type": "MapType.EXACT",
+          "covered_text": "Right renal cyst"
+        },
+        {
+          "begin": 1186,
+          "end": 1192,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 1382,
+          "end": 1388,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "MapType.APPROX",
+          "covered_text": "Smoked"
+        },
+        {
+          "begin": 2452,
+          "end": 2476,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "atrium is mildly dilated"
+        },
+        {
+          "begin": 2917,
+          "end": 2948,
+          "code": "440.0",
+          "code_system": "ICD-9-CM",
+          "description": "Atherosclerosis of aorta",
+          "type": "MapType.EXACT",
+          "covered_text": "atheroma\nin the ascending aorta"
+        },
+        {
+          "begin": 3034,
+          "end": 3055,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "aortic valve stenosis"
+        },
+        {
+          "begin": 3091,
+          "end": 3111,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "aortic regurgitation"
+        },
+        {
+          "begin": 3205,
+          "end": 3225,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral valve chordae"
+        },
+        {
+          "begin": 6940,
+          "end": 6945,
+          "code": "782.3",
+          "code_system": "ICD-9-CM",
+          "description": "Edema",
+          "type": "MapType.APPROX",
+          "covered_text": "edema"
+        },
+        {
+          "begin": 7100,
+          "end": 7115,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "Aortic Stenosis"
+        },
+        {
+          "begin": 7116,
+          "end": 7130,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 7131,
+          "end": 7143,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 7144,
+          "end": 7160,
+          "code": "593.2",
+          "code_system": "ICD-9-CM",
+          "description": "Cyst of kidney, acquired",
+          "type": "MapType.EXACT",
+          "covered_text": "Right renal cyst"
+        },
+        {
+          "begin": 7161,
+          "end": 7167,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 7319,
+          "end": 7331,
+          "code": "786.51",
+          "code_system": "ICD-9-CM",
+          "description": "Precordial pain",
+          "type": "MapType.EXACT",
+          "covered_text": "Sternal pain"
+        },
+        {
+          "begin": 7361,
+          "end": 7377,
+          "code": "998.30",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.APPROX",
+          "covered_text": "Sternal Incision"
+        }
+      ],
+      "text": "Admission Date:  [**2137-5-6**]              Discharge Date:   [**2137-5-13**]\n\nDate of Birth:  [**2052-1-5**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nDyspnea on exertion\n\n\nMajor Surgical or Invasive Procedure:\nAortic valve replacement (21mm [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] tissue valve) [**2137-5-7**]\n\n\nHistory of Present Illness:\n85 year old female with known history of heart murmur. She was\nrecently referred to Dr. [**Last Name (STitle) **] for cardiac evaluation. An\nechocardiogram in [**Month (only) 958**] revealed left ventricular hypertrophy\nand\nsevere aortic stenosis. She is symptomatic with dyspnea on\nexertion and 3 pillow orthopnea however her symptoms vary in the\nsense that she often has days where she is very active without\nlimitation or symptoms. Given the severity of her disease, she\nhas been referred for surgical management.  Cardiac cath was\nperformed prior to admission.  Coronary arteries are\nwithout significant disease.\n\n\nPast Medical History:\nAortic stenosis\nHyperlipidemia\nHypertension\nRight renal cyst\nAsthma\nPast Surgical History:\ns/p Laparoscopic cholecystectomy [**39**] yrs ago\n\n\nSocial History:\nLives with: Lives with son.\nContact:                      Phone #\nOccupation: Retired\nCigarettes: Smoked no [] yes [X] last cigarette - 60 yrs ago\nOther Tobacco use: Denies\nETOH: < 1 drink/week [] [**1-8**] drinks/week [X] >8 drinks/week []\nIllicit drug use: Denies\n\n\nFamily History:\nOne sister with CVA in her 70s\n\n\nPhysical Exam:\nPulse: 84  Resp: 16  O2 sat: 98%\nB/P  Right: 120/70    Left:\nHeight: 5'3.5\"     Weight: 169 lbs\n\nGeneral: Well-developed elderly female appears less than stated\nage\nSkin: Dry [X] intact [X]\nHEENT: PERRLA [X] EOMI [X]\nNeck: Supple [X] Full ROM [X]\nChest: Lungs clear bilaterally [X]\nHeart: RRR [X] Irregular [] Murmur [X] grade 3/6 systolic\nAbdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds\n+\n[X]\nExtremities: Warm [X], well-perfused [X] Edema [] _trace__\nVaricosities: Large varicosities on both legs\nNeuro: Grossly intact [X]\nPulses:\nFemoral      Right: 2+  Left: 2+\nDP           Right: 2+  Left: 2+\nPT           [**Name (NI) 167**]: 2+  Left: 2+\nRadial       Right: cath site  Left: 2+\n\nCarotid Bruit -    Right/Left: transmitted murmur\n\n\nPertinent Results:\n[**2137-5-7**] Intra-op TEE:\nConclusions\nPRE-BYPASS: The left atrium is mildly dilated. No spontaneous\necho contrast or thrombus is seen in the body of the left atrium\nor left atrial appendage. No spontaneous echo contrast is seen\nin the body of the right atrium. Left ventricular wall\nthicknesses are normal. The left ventricular cavity size is\nnormal. Overall left ventricular systolic function is low normal\n(LVEF 50-55%). The right ventricular cavity is mildly dilated\nwith normal free wall contractility. There are simple atheroma\nin the ascending aorta. There are complex (>4mm) atheroma in the\ndescending thoracic aorta. There is severe aortic valve stenosis\n(valve area 0.8-1.0cm2). Mild (1+) aortic regurgitation is seen.\nThe mitral valve leaflets are mildly thickened. There is\nmoderate thickening of the mitral valve chordae. There is no\npericardial effusion.\n\nPOST CPB:\n1.Preserved [**Hospital1 **]-ventricular systolic function\n2. A bioprosthetic valve is identified in aortic position. Well\nseated and good leaflet excursion. Np AI. Peak transvslvular\ngradient of 45 mm Hg, with carfiac output = 6.5 liters/min.\n3. MR is now mild.\n4. No other change\n\n[**2137-5-13**] 04:53AM BLOOD WBC-8.4 RBC-3.06* Hgb-9.8* Hct-29.3*\nMCV-96 MCH-32.1* MCHC-33.5 RDW-13.5 Plt Ct-219\n[**2137-5-6**] 01:00PM BLOOD WBC-6.5 RBC-4.13* Hgb-13.5 Hct-39.2\nMCV-95 MCH-32.7* MCHC-34.5 RDW-12.8 Plt Ct-192\n[**2137-5-7**] 12:30PM BLOOD PT-12.9* PTT-29.6 INR(PT)-1.2*\n[**2137-5-6**] 01:00PM BLOOD PT-11.9 INR(PT)-1.1\n[**2137-5-13**] 04:53AM BLOOD Glucose-96 UreaN-19 Creat-0.6 Na-141\nK-4.4 Cl-99 HCO3-33* AnGap-13\n[**2137-5-6**] 01:00PM BLOOD Glucose-102* UreaN-14 Creat-0.6 Na-140\nK-3.4 Cl-102 HCO3-25 AnGap-16\n\nBrief Hospital Course:\nThe patient was brought to the Operating Room on [**2137-5-7**] where\nshe underwent an Aortic Valve Replacement (#21 mm Biocor apical\ntissue valve)with Dr. [**Last Name (STitle) **].  Overall the patient tolerated\nthe procedure well and post-operatively was transferred to the\nCVICU in stable condition for recovery and invasive monitoring.\nPOD 1 found the patient extubated, alert and oriented and\nbreathing comfortably.  The patient was neurologically intact\nand hemodynamically stable, weaned from inotropic and\nvasopressor support.  Beta blocker, Statin, aspirin, and\ndiuresis was initiated and the patient was gently diuresed\ntoward her preoperative weight. POD#3 Mrs.[**Known lastname 110087**] was\ntransferred to the telemetry floor for further recovery.  Chest\ntubes and pacing wires were discontinued without complication.\nThe patient was evaluated by the physical therapy service for\nassistance with strength and mobility.  By the time of discharge\non POD #6 she was ambulating freely, the wound was healing and\npain was controlled with oral analgesia.  The patient was\ndischarged to [**Doctor First Name 37**] House Rehab & Nursing Center in\n[**Location (un) 38**] in good condition. All follow up appointments were\nadvised.\n\n\nMedications on Admission:\namlodipine 10mg daily, advair diskus 100/50 one puff [**Hospital1 **],\nsimvastatin 20mg daily, asa 81mg daily\n\n\nDischarge Medications:\n1. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours) as needed for pain.\nDisp:*45 Tablet(s)* Refills:*0*\n2. metoprolol tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2\ntimes a day).\n3. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as\nneeded for wheezing.\n4. fluticasone-salmeterol 100-50 mcg/dose Disk with Device Sig:\nOne (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).\n5. fluticasone 50 mcg/actuation Spray, Suspension Sig: One (1)\nSpray Nasal DAILY (Daily).\n6. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n7. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO HS (at bedtime) as needed for constipation.\n8. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n9. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n10. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H\n(every 4 hours) as needed for fever, pain.\n11. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID\n(2 times a day).\n12. potassium chloride 10 mEq Tablet Extended Release Sig: Two\n(2) Tablet Extended Release PO Q12H (every 12 hours).\n13. guaifenesin 600 mg Tablet Extended Release Sig: One (1)\nTablet Extended Release PO bid prn () as needed for secretions.\n\n14. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day: &\nreevaluate weight &  edema.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Doctor First Name 37**] House Rehab & Nursing Center - [**Location (un) 38**]\n\nDischarge Diagnosis:\nAortic Stenosis\nHyperlipidemia\nHypertension\nRight renal cyst\nAsthma\nPast Surgical History:\ns/p Laparoscopic cholecystectomy [**39**] yrs ago\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating, gait steady\nSternal pain managed with oral analgesics\nSternal Incision - healing well, no erythema or drainage\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming, and look at your incisions\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n\nFollowup Instructions:\nYou are scheduled for the following appointments:\nSurgeon Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 170**] 07/11/12/12 at 1:30pm\nCardiologist: [**Doctor First Name **] [**First Name8 (NamePattern2) **] [**Doctor Last Name **] [**2137-5-24**] 2:45p\n\nPlease call to schedule the following:\nPrimary Care Dr. [**First Name (STitle) 1877**],[**First Name3 (LF) 539**] E. [**Telephone/Fax (1) 4475**] in [**3-7**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\nCompleted by:[**2137-5-13**]"
+    },
+    {
+      "note_id": 1243050,
+      "category": "Radiology",
+      "description": "CHEST (PA & LAT)",
+      "annotations": [
+        {
+          "begin": 428,
+          "end": 437,
+          "code": "719.08",
+          "code_system": "ICD-9-CM",
+          "description": "Effusion of joint of other specified sites",
+          "type": "MapType.EXACT",
+          "covered_text": "effusions"
+        },
+        {
+          "begin": 578,
+          "end": 598,
+          "code": "71046",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; 2 views",
+          "type": "Human",
+          "covered_text": "PA and lateral chest"
+        },
+        {
+          "begin": 953,
+          "end": 962,
+          "code": "719.08",
+          "code_system": "ICD-9-CM",
+          "description": "Effusion of joint of other specified sites",
+          "type": "MapType.EXACT",
+          "covered_text": "effusions"
+        },
+        {
+          "begin": 1088,
+          "end": 1099,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary collapse",
+          "type": "MapType.APPROX",
+          "covered_text": "atelectasis"
+        }
+      ],
+      "text": "[**2137-5-12**] 10:20 AM\n CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 114734**]\n Reason: f/u effusions, atx\n Admitting Diagnosis: AORTIC STENOSIS\\? CORONARY ARTERY BYPASS GRAFT;  AVR /SDA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old woman with s/p AVR\n REASON FOR THIS EXAMINATION:\n  f/u effusions, atx\n ______________________________________________________________________________\n                                 FINAL REPORT\n STUDY:  PA and lateral chest, [**2137-5-12**].\n\n CLINICAL HISTORY:  85-year-old woman status post aortic valve replacement.\n Followup effusions.\n\n FINDINGS:  Comparison is made to previous study from [**2137-5-10**].\n\n There is cardiomegaly which is stable.  There has been removal of the right IJ\n Cordis.  Median sternotomy wires are seen.  There are persistent bilateral\n pleural effusions which are stable.  There is mild prominence of pulmonary\n interstitial markings suggestive of mild fluid overload.  There is atelectasis\n at the lung bases which is slightly improved.\n\n"
+    },
+    {
+      "note_id": 1242726,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 42,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 921,
+          "end": 944,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "left upper lobe opacity"
+        },
+        {
+          "begin": 1121,
+          "end": 1148,
+          "code": "719.08",
+          "code_system": "ICD-9-CM",
+          "description": "Effusion of joint of other specified sites",
+          "type": "MapType.EXACT",
+          "covered_text": "bilateral pleural effusions"
+        },
+        {
+          "begin": 1246,
+          "end": 1262,
+          "code": "514",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary congestion and hypostasis",
+          "type": "MapType.APPROX",
+          "covered_text": "mildly congested"
+        },
+        {
+          "begin": 1501,
+          "end": 1524,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "left upper lobe opacity"
+        },
+        {
+          "begin": 1622,
+          "end": 1634,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "cardiomegaly"
+        },
+        {
+          "begin": 1666,
+          "end": 1675,
+          "code": "719.08",
+          "code_system": "ICD-9-CM",
+          "description": "Effusion of joint of other specified sites",
+          "type": "MapType.EXACT",
+          "covered_text": "effusions"
+        }
+      ],
+      "text": "[**2137-5-9**] 3:47 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 114941**]\n Reason: ?Pneumothorax on water seal.\n Admitting Diagnosis: AORTIC STENOSIS\\? CORONARY ARTERY BYPASS GRAFT;  AVR /SDA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old woman with air leak of CT s/p AVR\n REASON FOR THIS EXAMINATION:\n  ?Pneumothorax on water seal.\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  85-year-old female with air leak status post AVR, question\n pneumothorax with chest tube on waterseal.\n\n COMPARISON:  [**2137-5-8**].\n\n FINDINGS:  A chest drain is seen superimposed upon the mediastinum, unchanged\n in position.  A right IJ sheath is similar in appearance, terminating in the\n upper SVC.\n\n A left upper lobe opacity is new or newly apparent adjacent to but separate\n from the aortic arch. There is some interval development of linear opacity in\n the right lung base, there are probable small bilateral pleural effusions.\n Retrocardiac opacity is again noted.  There is no pneumothorax.  The pulmonary\n vasculature is mildly congested, unchanged.\n\n Two other drains are present, one superimposed upon the cardiac silhouette at\n the level of the left hemidiaphragm, and a second within the right lower\n chest.\n\n IMPRESSION:\n 1.  No pneumothorax.\n\n 2.  New or newly apparent left upper lobe opacity. Recommend close attention\n on follow up.\n\n 3.  Unchanged mild pulmonary vascular congestion and cardiomegaly, with small\n bilateral pleural effusions.\n\n"
+    },
+    {
+      "note_id": 306138,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 15,
+          "end": 34,
+          "code": "426.2",
+          "code_system": "ICD-9-CM",
+          "description": "Left bundle branch hemiblock",
+          "type": "MapType.APPROX",
+          "covered_text": "Left axis deviation"
+        }
+      ],
+      "text": "Sinus rhythm.  Left axis deviation.  Late R wave progression.  Since the prior\ntracing of [**2137-5-6**] the axis is more leftward.  R wave progression is later,\nQ-T interval is longer.  There is ST elevation so cannot rule out intercurrent\nanteroseptal infarction.  Clinical correlation is suggested.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 306139,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 29,
+          "end": 41,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "sinus rhythm"
+        },
+        {
+          "begin": 92,
+          "end": 113,
+          "code": "410.90",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myocardial infarction, unspecified site, episode of care unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "myocardial infarction"
+        }
+      ],
+      "text": "Baseline artifact.  Probable sinus rhythm at upper limits of normal rate.\nConsider inferior myocardial infarction.  Possible ST-T wave abnormalities.  No\nprior tracing for comparison.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 1242401,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 37,
+          "end": 51,
+          "code": "36556",
+          "code_system": "CPT",
+          "description": "Insertion of non-tunneled centrally inserted central venous catheter; age 5 years or older",
+          "type": "Human",
+          "covered_text": "LINE PLACEMENT"
+        },
+        {
+          "begin": 759,
+          "end": 790,
+          "code": "V45.00",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified cardiac device in situ",
+          "type": "MapType.APPROX",
+          "covered_text": "placement of\n a right IJ sheath"
+        },
+        {
+          "begin": 1038,
+          "end": 1049,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary collapse",
+          "type": "MapType.APPROX",
+          "covered_text": "atelectasis"
+        },
+        {
+          "begin": 1231,
+          "end": 1239,
+          "code": "719.08",
+          "code_system": "ICD-9-CM",
+          "description": "Effusion of joint of other specified sites",
+          "type": "MapType.EXACT",
+          "covered_text": "effusion"
+        },
+        {
+          "begin": 1327,
+          "end": 1332,
+          "code": "782.3",
+          "code_system": "ICD-9-CM",
+          "description": "Edema",
+          "type": "MapType.APPROX",
+          "covered_text": "edema"
+        },
+        {
+          "begin": 1536,
+          "end": 1541,
+          "code": "782.3",
+          "code_system": "ICD-9-CM",
+          "description": "Edema",
+          "type": "MapType.APPROX",
+          "covered_text": "edema"
+        }
+      ],
+      "text": "[**2137-5-7**] 12:20 PM\n CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 114939**]\n Reason: FAST TRACK EARLY EXTUBATION CARDIAC SURGERY\n Admitting Diagnosis: AORTIC STENOSIS\\? CORONARY ARTERY BYPASS GRAFT;  AVR /SDA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old woman s/p AVR\n REASON FOR THIS EXAMINATION:\n  FAST TRACK EARLY EXTUBATION CARDIAC SURGERY\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  85-year-old female status post AVR.\n\n COMPARISON:  [**2137-5-6**].\n\n FINDINGS:  Supine portable chest radiograph demonstrates interval placement of\n a right IJ sheath through which a Swan-Ganz catheter has been placed, the tip\n of which is in the region of the main pulmonary artery.  An endotracheal tube,\n NG tube, and two mediastinal drains are in standard position.  There are low\n lung volumes with bibasilar atelectasis.  The cardiac silhouette and\n mediastinal contours demonstrate an expected postoperative appearance.  Note\n is made of calcification of the aortic knob.  There is no large pleural\n effusion, or pneumothorax.  There has been interval development of mild\n interstitial pulmonary edema.  Median sternotomy wires have been newly placed.\n Epicardial pacing wires are in place.\n\n IMPRESSION:\n 1.  Standard configuration of support tubes and lines.\n 1.  Interval development of mild pulmonary edema.\n\n These findings were discussed with [**Location (un) 1824**] at 1:30 p.m. by phone.\n\n"
+    },
+    {
+      "note_id": 1242314,
+      "category": "Radiology",
+      "description": "CHEST (PRE-OP PA & LAT)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 30,
+          "code": "71046",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; 2 views",
+          "type": "Human",
+          "covered_text": "CHEST"
+        },
+        {
+          "begin": 665,
+          "end": 689,
+          "code": "V42.2",
+          "code_system": "ICD-9-CM",
+          "description": "Heart valve replaced by transplant",
+          "type": "MapType.APPROX",
+          "covered_text": "aortic valve replacement"
+        }
+      ],
+      "text": "[**2137-5-6**] 10:24 PM\n CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 114117**]\n Reason: AORTIC STENOSIS\\? CORONARY ARTERY BYPASS GRAFT;  AVR /SDA\n Admitting Diagnosis: AORTIC STENOSIS\\? CORONARY ARTERY BYPASS GRAFT;  AVR /SDA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old woman with preop AVR\n REASON FOR THIS EXAMINATION:\n  evaluate for acute process\n ______________________________________________________________________________\n                                 FINAL REPORT\n CHEST RADIOGRAPHS\n\n HISTORY:  Preoperative for aortic valve replacement.\n\n COMPARISONS:  None.\n\n TECHNIQUE:  Chest, PA and lateral.\n\n FINDINGS:  The cardiac, mediastinal, and hilar contours are unremarkable.  The\n chest is hyperinflated.  There is no pleural effusion or pneumothorax.  Lung\n markings are coarse, which may reflect mild chronic venous hypertension or\n other etiologies such as airway inflammation.  However, there are no focal\n opacities.  There is mildly exaggerated kyphotic curvature with mild\n degenerative changes along the thoracic spine.\n\n IMPRESSION:  No evidence of acute disease.\n\n"
+    },
+    {
+      "note_id": 1242557,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 42,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 150,
+          "end": 158,
+          "code": "719.08",
+          "code_system": "ICD-9-CM",
+          "description": "Effusion of joint of other specified sites",
+          "type": "MapType.EXACT",
+          "covered_text": "effusion"
+        },
+        {
+          "begin": 646,
+          "end": 666,
+          "code": "786.05",
+          "code_system": "ICD-9-CM",
+          "description": "Shortness of breath",
+          "type": "MapType.EXACT",
+          "covered_text": "shortness of\n breath"
+        }
+      ],
+      "text": "[**2137-5-8**] 2:55 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 114940**]\n Reason: eval for effusion\n Admitting Diagnosis: AORTIC STENOSIS\\? CORONARY ARTERY BYPASS GRAFT;  AVR /SDA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old woman s/p AVR with increasing SOB\n REASON FOR THIS EXAMINATION:\n  eval for effusion\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  85-year-old woman, status post AVR, with increasing shortness of\n breath.\n\n COMPARISONS:  [**5-6**] and [**2137-5-7**].\n\n FINDINGS:  The patient has been extubated.  Endotracheal tube, enteric\n catheter, and Swan-Ganz catheter have been removed.  An internal jugular line\n tip terminates at the upper SVC.  Pleural catheters, mediastinal drains, and\n epicardial pacing leads are in unchanged positions.  Lung volumes are mildly\n decreased.  Linear horizontal opacity at the right base is consistent with\n atelectasis.  A small right effusion may be present.  No pneumothorax is\n visualized.  Mild interstitial edema is similar.  Cardiomegaly is unchanged.\n\n IMPRESSION:  Unchanged mild interstitial edema.\n\n"
+    },
+    {
+      "note_id": 104567,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 38,
+          "end": 58,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "Aortic valve disease"
+        },
+        {
+          "begin": 60,
+          "end": 85,
+          "code": "428.1",
+          "code_system": "ICD-9-CM",
+          "description": "Left heart failure",
+          "type": "MapType.EXACT",
+          "covered_text": "Left ventricular function"
+        },
+        {
+          "begin": 87,
+          "end": 107,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "Mitral valve disease"
+        },
+        {
+          "begin": 109,
+          "end": 134,
+          "code": "V43.3",
+          "code_system": "ICD-9-CM",
+          "description": "Heart valve replaced by other means",
+          "type": "MapType.APPROX",
+          "covered_text": "Prosthetic valve function"
+        },
+        {
+          "begin": 247,
+          "end": 250,
+          "code": "93308",
+          "code_system": "CPT",
+          "description": "Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, follow-up or limited study",
+          "type": "Human",
+          "covered_text": "TEE"
+        },
+        {
+          "begin": 388,
+          "end": 407,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "Mild LA enlargement"
+        },
+        {
+          "begin": 1721,
+          "end": 1741,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral valve chordae"
+        },
+        {
+          "begin": 1766,
+          "end": 1786,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral valve chordae"
+        },
+        {
+          "begin": 2023,
+          "end": 2026,
+          "code": "93308",
+          "code_system": "CPT",
+          "description": "Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, follow-up or limited study",
+          "type": "Human",
+          "covered_text": "TEE"
+        },
+        {
+          "begin": 2178,
+          "end": 2202,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "atrium is mildly dilated"
+        },
+        {
+          "begin": 2643,
+          "end": 2674,
+          "code": "440.0",
+          "code_system": "ICD-9-CM",
+          "description": "Atherosclerosis of aorta",
+          "type": "MapType.EXACT",
+          "covered_text": "atheroma in the ascending aorta"
+        },
+        {
+          "begin": 2760,
+          "end": 2781,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "aortic valve stenosis"
+        },
+        {
+          "begin": 2817,
+          "end": 2837,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "aortic regurgitation"
+        },
+        {
+          "begin": 2931,
+          "end": 2951,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral valve chordae"
+        },
+        {
+          "begin": 3247,
+          "end": 3249,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "MR"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: Aortic valve disease. Left ventricular function. Mitral valve disease. Prosthetic valve function. Right ventricular function. Valvular heart disease.\nStatus: Inpatient\nDate/Time: [**2137-5-7**] at 11:01\nTest: TEE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Adequate\n\n\nINTERPRETATION:\n\nFindings:\n\nLEFT ATRIUM: Mild LA enlargement. No spontaneous echo contrast or thrombus in\nthe body of the [**Name Prefix (Prefixes) 4**] [**Last Name (Prefixes) 5**] LAA. All four pulmonary veins not identified.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No spontaneous echo contrast\nin the body of the RA. A catheter or pacing wire is seen in the RA and\nextending into the RV.\n\nLEFT VENTRICLE: Wall thickness and cavity dimensions were obtained from 2D\nimages. Normal LV wall thickness. Normal LV cavity size. Low normal LVEF.\n\nLV WALL MOTION: basal anterior - normal; mid anterior - normal; basal\nanteroseptal - normal; mid anteroseptal - normal; basal inferoseptal - normal;\nmid inferoseptal - normal; basal inferior - normal; mid inferior - normal;\nbasal inferolateral - normal; mid inferolateral - normal; basal anterolateral\n- normal; mid anterolateral - normal; anterior apex - normal; septal apex -\nnormal; inferior apex - normal; lateral apex - normal; apex - normal;\n\nRIGHT VENTRICLE: Mildly dilated RV cavity. Normal RV systolic function.\n\nAORTA: Normal ascending aorta diameter. Simple atheroma in ascending aorta.\nNormal descending aorta diameter. Complex (>4mm) atheroma in the descending\nthoracic aorta.\n\nAORTIC VALVE: Severe AS (area 0.8-1.0cm2). Mild (1+) AR.\n\nMITRAL VALVE: Mildly thickened mitral valve leaflets. Mild thickening of\nmitral valve chordae. Moderate thickening of mitral valve chordae. Moderate\n(2+) MR.\n\nTRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR.\n\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. No PS.\nPhysiologic PR.\n\nPERICARDIUM: No pericardial effusion.\n\nGENERAL COMMENTS: The TEE probe was passed with assistance from the\nanesthesioology staff using a laryngoscope. No TEE related complications.\n\nConclusions:\nPRE-BYPASS: The left atrium is mildly dilated. No spontaneous echo contrast or\nthrombus is seen in the body of the left atrium or left atrial appendage. No\nspontaneous echo contrast is seen in the body of the right atrium. Left\nventricular wall thicknesses are normal. The left ventricular cavity size is\nnormal. Overall left ventricular systolic function is low normal (LVEF\n50-55%). The right ventricular cavity is mildly dilated with normal free wall\ncontractility. There are simple atheroma in the ascending aorta. There are\ncomplex (>4mm) atheroma in the descending thoracic aorta. There is severe\naortic valve stenosis (valve area 0.8-1.0cm2). Mild (1+) aortic regurgitation\nis seen. The mitral valve leaflets are mildly thickened. There is moderate\nthickening of the mitral valve chordae. There is no pericardial effusion.\n\nPOST CPB:\n1.Preserved [**Hospital1 36**]-ventricular systolic function\n2. A bioprosthetic valve is identified in aortic position. Well seated and\ngood leaflet excursion. Np AI. Peak transvslvular gradient of 45 mm Hg, with\ncarfiac output = 6.5 liters/min.\n3. MR is now mild.\n4. No other change\n\n\n"
+    },
+    {
+      "note_id": 1242797,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 604,
+          "end": 612,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "AP CHEST"
+        },
+        {
+          "begin": 776,
+          "end": 785,
+          "code": "719.08",
+          "code_system": "ICD-9-CM",
+          "description": "Effusion of joint of other specified sites",
+          "type": "MapType.EXACT",
+          "covered_text": "effusions"
+        },
+        {
+          "begin": 873,
+          "end": 878,
+          "code": "782.3",
+          "code_system": "ICD-9-CM",
+          "description": "Edema",
+          "type": "MapType.APPROX",
+          "covered_text": "edema"
+        }
+      ],
+      "text": "[**2137-5-10**] 7:18 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 114580**]\n Reason: s/p AVR w/dropping HCT r/o effusion\n Admitting Diagnosis: AORTIC STENOSIS\\? CORONARY ARTERY BYPASS GRAFT;  AVR /SDA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old woman with as above\n REASON FOR THIS EXAMINATION:\n  s/p AVR w/dropping HCT r/o effusion\n ______________________________________________________________________________\n                                 FINAL REPORT\n AP CHEST 7:33 [**Initials (NamePattern4) **] [**5-10**]\n\n HISTORY:  Dropping hematocrit after AVR.\n\n IMPRESSION:  AP chest compared to [**5-8**] and 7:\n\n Bilateral pleural effusions are small and only minimally larger today than on\n [**5-9**].  Borderline interstitial edema is stable.  Cardiomediastinal silhouette has\n a normal post-operative appearance, and the heart is smaller today than it was\n on [**5-8**].  No pneumothorax.  Right jugular sheath ends just above the origin\n of the right brachiocephalic vein.  No pneumothorax.\n\n\n"
+    },
+    {
+      "note_id": 1242610,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 166,
+          "end": 183,
+          "code": "719.08",
+          "code_system": "ICD-9-CM",
+          "description": "Effusion of joint of other specified sites",
+          "type": "MapType.EXACT",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 451,
+          "end": 460,
+          "code": "719.08",
+          "code_system": "ICD-9-CM",
+          "description": "Effusion of joint of other specified sites",
+          "type": "MapType.EXACT",
+          "covered_text": "effusions"
+        },
+        {
+          "begin": 641,
+          "end": 660,
+          "code": "786.05",
+          "code_system": "ICD-9-CM",
+          "description": "Shortness of breath",
+          "type": "MapType.EXACT",
+          "covered_text": "Shortness of breath"
+        },
+        {
+          "begin": 671,
+          "end": 688,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "MapType.APPROX",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 812,
+          "end": 823,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary collapse",
+          "type": "MapType.APPROX",
+          "covered_text": "atelectasis"
+        },
+        {
+          "begin": 848,
+          "end": 871,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Left lower lobe opacity"
+        },
+        {
+          "begin": 955,
+          "end": 966,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary collapse",
+          "type": "MapType.APPROX",
+          "covered_text": "atelectasis"
+        },
+        {
+          "begin": 1116,
+          "end": 1140,
+          "code": "514",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary congestion and hypostasis",
+          "type": "MapType.APPROX",
+          "covered_text": "mild vascular congestion"
+        }
+      ],
+      "text": "[**2137-5-8**] 10:54 PM\n CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 26**] # [**Clip Number (Radiology) 114253**]\n Reason: ?pleural effusions\n Admitting Diagnosis: AORTIC STENOSIS\\? CORONARY ARTERY BYPASS GRAFT;  AVR /SDA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old woman with sob\n REASON FOR THIS EXAMINATION:\n  ?pleural effusions\n ______________________________________________________________________________\n                                 FINAL REPORT\n SINGLE FRONTAL VIEW OF THE CHEST\n\n REASON FOR EXAM:  Shortness of breath, evaluate pleural effusions.\n\n Comparison is made with prior study performed eight hours earlier.\n\n Moderate cardiomegaly is stable.  Right lower lobe atelectasis is grossly\n unchanged.  Left lower lobe opacity has minimally increased, consistent with\n increasing pleural effusion and adjacent atelectasis, still pleural effusion\n is small.  Mediastinal and right chest tubes remain in place.  Right IJ\n catheter sheath tip is in the upper SVC.  There is mild vascular congestion.\n Right pleural effusion is small.\n\n\n"
+    },
+    {
+      "note_id": 1242220,
+      "category": "Radiology",
+      "description": "CAROTID SERIES COMPLETE",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 47,
+          "code": "93880",
+          "code_system": "CPT",
+          "description": "Duplex scan of extracranial arteries; complete bilateral study",
+          "type": "Human",
+          "covered_text": "CAROTID SERIES COMPLETE"
+        },
+        {
+          "begin": 161,
+          "end": 177,
+          "code": "433.10",
+          "code_system": "ICD-9-CM",
+          "description": "Occlusion and stenosis of carotid artery, without mention of cerebral infarction",
+          "type": "MapType.APPROX",
+          "covered_text": "carotid stenosis"
+        },
+        {
+          "begin": 375,
+          "end": 391,
+          "code": "433.10",
+          "code_system": "ICD-9-CM",
+          "description": "Occlusion and stenosis of carotid artery, without mention of cerebral infarction",
+          "type": "MapType.APPROX",
+          "covered_text": "carotid stenosis"
+        },
+        {
+          "begin": 709,
+          "end": 740,
+          "code": "433.10",
+          "code_system": "ICD-9-CM",
+          "description": "Occlusion and stenosis of carotid artery, without mention of cerebral infarction",
+          "type": "MapType.APPROX",
+          "covered_text": "heterogeneous plaque in the ICA"
+        }
+      ],
+      "text": "[**2137-5-6**] 9:00 AM\n CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 114938**]\n Reason: please eval for for carotid stenosis\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old woman with as\n REASON FOR THIS EXAMINATION:\n  please eval for for carotid stenosis\n ______________________________________________________________________________\n                                 FINAL REPORT\n Standard Report Carotid US\n\n Study: Carotid Series Complete\n\n Reason: Pre op AS repair\n\n Findings: Duplex evaluation was performed of bilateral carotid arteries. On\n the right there is mild heterogeneous plaque in the ICA. On the left there is\n mild heterogeneous plaque seen in the ICA.\n\n On the right systolic/end diastolic velocities of the ICA proximal, mid and\n distal respectively are 54/12, 88/21, 84/26 cm/sec. CCA peak systolic velocity\n is 59 cm/sec. ECA peak systolic velocity is 72 cm/sec. The ICA/CCA ratio is\n 1.5. These findings are consistent with <40% stenosis.\n\n On the left systolic/end diastolic velocities of the ICA proximal, mid and\n distal respectively are 86/22, 49/16, 59/18 cm/sec. CCA peak systolic velocity\n is 71 cm/sec. ECA peak systolic velocity is 68 cm/sec. The ICA/CCA ratio is\n 1.2. These findings are consistent with <40% stenosis.\n\n  Right antegrade vertebral artery flow.\n  Left antegrade vertebral artery flow.\n\n Impression: Right ICA <40% stenosis.\n             Left ICA <40% stenosis.\n\n"
+    }
+  ]
+}

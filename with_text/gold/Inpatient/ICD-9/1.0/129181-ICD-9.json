@@ -1,0 +1,112 @@
+{
+  "hadm_id": 129181,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 41116,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1576,
+          "end": 1607,
+          "code": "351.0",
+          "code_system": "ICD-9-CM",
+          "description": "Bell&apos;s palsy",
+          "type": "Human",
+          "covered_text": "chronic left facial nerve palsy"
+        },
+        {
+          "begin": 1608,
+          "end": 1622,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "hypothyroidism"
+        },
+        {
+          "begin": 1707,
+          "end": 1713,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "smokes"
+        },
+        {
+          "begin": 4493,
+          "end": 4496,
+          "code": "430",
+          "code_system": "ICD-9-CM",
+          "description": "Subarachnoid hemorrhage",
+          "type": "Human",
+          "covered_text": "SAH"
+        }
+      ],
+      "text": "Admission Date:  [**2146-3-22**]              Discharge Date:   [**2146-3-26**]\n\nDate of Birth:  [**2094-7-28**]             Sex:   F\n\nService: NEUROSURGERY\n\nAllergies:\nTegretol / Gluten\n\nAttending:[**First Name3 (LF) 78**]\nChief Complaint:\n51F with worst headache of life at 1 pm today after smoking a\ncigarrete and having lunch. HA was global, involved back of\nneck,\nand was worse with flexing neck. She had nausea and vomited\nmultiple times. No change in vision/balance/motor strength.\nOutside ED- CT head showed SAH layering in interpenduncular\nfossa\nand basilar cisterns with some extension into the propontine\nspace. Non focal neuro exam at OSH. Transferred to [**Hospital1 18**] for\nneurosurgical evaluation. In our emergency [**Hospital1 **] her pain was\nresolving, but she had received pain medications. She had no\nfocal symptoms.\n\n\nMajor Surgical or Invasive Procedure:\nCerebral Angiogram [**3-23**]\n\n\nHistory of Present Illness:\n51F with worst headache of life at 1 pm today after smoking a\ncigarrete and having lunch. HA was global, involved back of\nneck,\nand was worse with flexing neck. She had nausea and vomited\nmultiple times. No change in vision/balance/motor strength.\nOutside ED- CT head showed SAH layering in interpenduncular\nfossa\nand basilar cisterns with some extension into the propontine\nspace. Non focal neuro exam at OSH. Transferred to [**Hospital1 18**] for\nneurosurgical evaluation. In our emergency [**Hospital1 **] her pain was\nresolving, but she had received pain medications. She had no\nfocal symptoms.\n\n\nPast Medical History:\nLyme disease\nchronic left facial nerve palsy\nhypothyroidism\npheochromocytoma: s/p right adrenelectomy\nmastocytosis\n\n\nSocial History:\nSocial Hx:\nsmokes\nmarried with grown children\n\n\nPhysical Exam:\nPHYSICAL EXAM:\n96.6 70 145/84 16 99% 2L\nGen: WD/WN, comfortable, NAD.\nHEENT: Pupils:bilaterally reactive to light\nEOMs: Intact\nNeck: Supple.\nLungs: CTA bilaterally.\nCardiac: RRR. S1/S2.\nAbd: Soft, NT, BS+\nExtrem: Warm and well-perfused. No C/C/E.\n\nNeuro:\nMental status: Awake and alert, cooperative with exam, normal\naffect.\nOrientation: Oriented to person, place, and date.\nRecall: [**4-14**] objects at 5 minutes.\nLanguage: Speech fluent with good comprehension and repetition.\nNaming intact. No dysarthria or paraphasic errors.\n\nCranial Nerves:\nI: Not tested\nII: Pupils equally round and reactive to light, to\nmm bilaterally. Visual fields are full to confrontation.\nIII, IV, VI: Extraocular movements intact bilaterally without\nnystagmus.\nV, VII: Mild left sided facial droop. Otherwise facial strength\nand sensation intact.\nVIII: Hearing intact to finger rub bilaterally.\nIX, X: Palatal elevation symmetrical.\n[**Doctor First Name 81**]: Sternocleidomastoid and trapezius normal bilaterally.\nXII: Tongue midline without fasciculations.\n\nMotor: Normal bulk and tone bilaterally. No abnormal movements,\ntremors. Strength full power [**6-16**] throughout. No pronator drift\n\nSensation: Intact to light touch, propioception, pinprick and\nvibration bilaterally.\n\nReflexes: B T Br Pa Ac\nRight     2 2 2  2  2\nLeft      2 2 2  2  2\n\nToes downgoing bilaterally\n\nCoordination: normal on finger-nose-finger, rapid alternating\nmovements, heel to shin\n\n\nBrief Hospital Course:\nMs. [**Known lastname 67042**] was evaluated in the ED and admitted to the\nneurosurgery service for further workup.\n\nHer initial CTA was negative for an underlying vascular lesion\nas the source of the SAH.  On the morning after her admission\nshe underwent a formal angiogram that revealed that there was no\nunderlying anomoly.\n\nPatient was taken to angio on [**3-23**] where no aneurysm or vascular\nanomolies were found. Post operatively patient was\nneurologically stable. On [**3-24**], she was transferred to the\nstepdown unit.\n\nShe continued to do well on the floor and was seen by physical\ntherapy team. She was cleared for discharge home. She will be\nDC'd home in stable condition on [**2146-3-26**].\n\nMedications on Admission:\nlevoxil, spirvia, pempril, multi-vit, trazadone\n\n\nDischarge Medications:\n1. levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*6 Tablet(s)* Refills:*0*\n2. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:\nOne (1) Cap Inhalation DAILY (Daily).\n3. acetaminophen-codeine 300-30 mg Tablet Sig: 1-2 Tablets PO\nQ4H (every 4 hours) as needed for pain.\nDisp:*75 Tablet(s)* Refills:*0*\n4. Keppra 500 mg Tablet Sig: One (1) Tablet PO twice a day for 3\ndays.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nSAH\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nAngiogram with Embolization and/or Stent placement\nMedications:\n??????\tTake Aspirin 325mg (enteric coated) once daily.\n??????\tTake Plavix (Clopidogrel) 75mg once daily.\n??????\tContinue all other medications you were taking before surgery,\nunless otherwise directed\n??????\tYou make take Tylenol or prescribed pain medications for any\npost procedure pain or discomfort.\n??????       You may restart your premrin on discharge\n\nWhat activities you can and cannot do:\n??????\tWhen you go home, you may walk and go up and down stairs.\n??????\tYou may shower (let the soapy water run over groin incision,\nrinse and pat dry)\n??????\tYour incision may be left uncovered, unless you have small\namounts of drainage from the wound, then place a dry dressing or\nband aid over the area that is draining, as needed\n??????\tNo heavy lifting, pushing or pulling (greater than 5 lbs) for\n1 week (to allow groin puncture to heal).\n??????\tAfter 1 week, you may resume sexual activity.\n??????\tAfter 1 week, gradually increase your activities and distance\nwalked as you can tolerate.\n??????\tNo driving until you are no longer taking pain medications\n\nWhat to report to office:\n??????\tChanges in vision (loss of vision, blurring, double vision,\nhalf vision)\n??????\tSlurring of speech or difficulty finding correct words to use\n??????\tSevere headache or worsening headache not controlled by pain\nmedication\n??????\tA sudden change in the ability to move or use your arm or leg\nor the ability to feel your arm or leg\n??????\tTrouble swallowing, breathing, or talking\n??????\tNumbness, coldness or pain in lower extremities\n??????\tTemperature greater than 101.5F for 24 hours\n??????\tNew or increased drainage from incision or white, yellow or\ngreen drainage from incisions\n??????\tBleeding from groin puncture site\n\n*SUDDEN, SEVERE BLEEDING OR SWELLING\n(Groin puncture site)\nLie down, keep leg straight and have someone apply firm pressure\nto area for 10 minutes. If bleeding stops, call our office. If\nbleeding does not stop, call 911 for transfer to closest\nEmergency Room!\n\n\nFollowup Instructions:\nPlease make an appointment to see Dr. [**First Name (STitle) **] in 4 weeks with a\nnoncontrast head CT\n\n\n\nCompleted by:[**2146-3-26**]"
+    },
+    {
+      "note_id": 1176147,
+      "category": "Radiology",
+      "description": "SEL CATH 3RD ORDER THOR",
+      "annotations": [
+        {
+          "begin": 3010,
+          "end": 3042,
+          "code": "88.41",
+          "code_system": "ICD-9-PCS",
+          "description": "Arteriography of cerebral arteries",
+          "type": "MapType.APPROX",
+          "covered_text": "LEFT VERTEBRAL ARTERY ANGIOGRAM:"
+        },
+        {
+          "begin": 3752,
+          "end": 3789,
+          "code": "88.39",
+          "code_system": "ICD-9-PCS",
+          "description": "X-ray, other and unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "RIGHT COMMON CAROTID ARTERY ANGIOGRAM"
+        },
+        {
+          "begin": 4038,
+          "end": 4068,
+          "code": "88.39",
+          "code_system": "ICD-9-PCS",
+          "description": "X-ray, other and unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "RIGHT INTERNAL CAROTID ARTERY:"
+        },
+        {
+          "begin": 4334,
+          "end": 4360,
+          "code": "88.39",
+          "code_system": "ICD-9-PCS",
+          "description": "X-ray, other and unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "LEFT COMMON CAROTID ARTERY"
+        },
+        {
+          "begin": 4561,
+          "end": 4583,
+          "code": "88.39",
+          "code_system": "ICD-9-PCS",
+          "description": "X-ray, other and unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "RIGHT VERTEBRAL ARTERY"
+        },
+        {
+          "begin": 4802,
+          "end": 4839,
+          "code": "88.48",
+          "code_system": "ICD-9-PCS",
+          "description": "Arteriography of femoral and other lower extremity arteries",
+          "type": "MapType.APPROX",
+          "covered_text": "RIGHT COMMON FEMORAL ARTERY ANGIOGRAM"
+        }
+      ],
+      "text": "[**2146-3-23**] 2:22 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 5089**]\n Reason: 51 year old woman with SAH, WHOL yesterday,r/o vascular anom\n Admitting Diagnosis: SUBARACHNOID HEMORRHAGE\n  Contrast: OPTIRAY Amt: 207\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 285**] SEL CATH 3RD ORDER [**Last Name (un) 286**]         [**Numeric Identifier 287**] SEL CATH 2ND ORDER               *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 820**] ADD'L 2ND/3RD ORDER              *\n * [**Numeric Identifier 288**] CAROTID/CEREBRAL BILAT          [**Numeric Identifier 821**] CAROTID/CERVICAL BILAT           *\n * [**Numeric Identifier 289**] VERT/CAROTID A-GRAM             [**Numeric Identifier 44**] MOD SEDATION, FIRST 30 MIN.      *\n * [**Numeric Identifier 45**] MOD SEDATION, EACH ADDL 15 MIN                                         *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  51 year old woman with SAH, WHOL yesterday,r/o vascular anomoly\n REASON FOR THIS EXAMINATION:\n  51 year old woman with SAH, WHOL yesterday,r/o vascular anomoly\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  Patient with subarachnoid hemorrhage, to rule out intracranial\n vascular anomaly.\n\n PROCEDURE:  Cerebral angiogram.\n\n PHYSICIANS:  Dr. [**First Name (STitle) 2359**] [**Name (STitle) 2360**] and Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **].\n\n SEDATION:  Moderate sedation was provided by administering three divided doses\n of fentanyl (100 mcg) and single dose of Versed (1 mg), throughout the total\n intraservice time of 40 minutes during which patient's hemodynamic parameters\n were continuously monitored.\n\n VESSELS SELECTED:  Left vertebral artery, right internal carotid artery, right\n common carotid artery, left common carotid artery, right vertebral artery and\n right common femoral artery.\n\n TECHNIQUE:  Informed consent was obtained from the patient after explaining\n the risks, indications and alternative to the procedure.  The patient was\n brought to the neuro-interventional suite and placed in supine position on the\n angiography table.  A preprocedure huddle and timeout was performed as per\n [**Hospital1 51**] protocol.  The patient was draped and prepped in the usual sterile\n fashion.  Using a micropuncture set, intra-arterial access was obtained into\n the right femoral artery.  The above-mentioned vessels were selected, and\n angiogram were performed in the AP, lateral, and oblique projections with\n three-dimensional rotation acquisitions where appropriate.\n\n There were no immediate complications of the procedure.  The patient was sent\n back to the ICU with post-procedure orders.\n\n FINDINGS:\n\n LEFT VERTEBRAL ARTERY ANGIOGRAM:\n\n Selective injection of the left vertebral artery demonstrated brisk filling.\n                                                             (Over)\n\n [**2146-3-23**] 2:22 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 5089**]\n Reason: 51 year old woman with SAH, WHOL yesterday,r/o vascular anom\n Admitting Diagnosis: SUBARACHNOID HEMORRHAGE\n  Contrast: OPTIRAY Amt: 207\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n The vertebral and basilar arteries and branches are patent.  The capillary and\n venous phases were unremarkable. No dural AV fistula\n\n RIGHT COMMON CAROTID ARTERY ANGIOGRAM:\n\n Selective injection of the right common carotid artery demonstrates brisk\n filling of the external and the internal carotid arteries.  There is minimal\n narrowing at the origin of the right internal carotid artery which is not flow\n limiting.\n\n RIGHT INTERNAL CAROTID ARTERY:\n\n The right internal carotid artery demonstrates non-flow-limiting minimal\n stenosis at its origin.  No abnormality otherwise seen in the course of the\n right internal carotid artery.  The ACA and MCA branches are patent.  No\n aneurysm, AVM or fistula was noted.\n\n LEFT COMMON CAROTID ARTERY:\n\n Selective injection of the left common carotid artery demonstrates brisk\n filling of the external and internal carotid arteries and ACA and MCA\n branches.  No aneurysm, AVM or fistula was noted.\n\n RIGHT VERTEBRAL ARTERY:\n\n Selective injection of the right vertebral artery demonstrates brisk filling.\n The vertebral and basilar arteries and branches are patent.  The capillary and\n venous phases were unremarkable. No dural AV fistula.\n\n RIGHT COMMON FEMORAL ARTERY ANGIOGRAM:\n\n The right common femoral artery angiogram did not demonstrate any significant\n flow limiting stenosis within the vessels.\n\n Puncture site was closed with an Angio-Seal closure device.  The patient\n tolerated the procedure well.  There were no immediate complications.  The\n patient was sent to ICU with post-procedure orders.\n\n IMPRESSION:\n\n Cerebral angiogram without evidence of a significant flow limiting stenosis,\n aneurysm, or an AVM.  No immediate post-procedure complications.\n                                                             (Over)\n\n [**2146-3-23**] 2:22 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 5089**]\n Reason: 51 year old woman with SAH, WHOL yesterday,r/o vascular anom\n Admitting Diagnosis: SUBARACHNOID HEMORRHAGE\n  Contrast: OPTIRAY Amt: 207\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n"
+    }
+  ]
+}

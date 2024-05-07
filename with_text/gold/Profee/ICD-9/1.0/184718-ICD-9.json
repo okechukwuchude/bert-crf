@@ -1,0 +1,103 @@
+{
+  "hadm_id": 184718,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 40396,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 290,
+          "end": 312,
+          "code": "437.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "MapType.APPROX",
+          "covered_text": "R paraclinoid aneurysm"
+        },
+        {
+          "begin": 545,
+          "end": 567,
+          "code": "437.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "MapType.APPROX",
+          "covered_text": "R paraclinoid aneurysm"
+        },
+        {
+          "begin": 640,
+          "end": 662,
+          "code": "437.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "MapType.APPROX",
+          "covered_text": "R paraclinoid\naneurysm"
+        },
+        {
+          "begin": 1810,
+          "end": 1832,
+          "code": "437.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "MapType.APPROX",
+          "covered_text": "R\nparaclinoid aneurysm"
+        },
+        {
+          "begin": 2897,
+          "end": 2917,
+          "code": "437.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "MapType.APPROX",
+          "covered_text": "paraclinoid aneurysm"
+        }
+      ],
+      "text": "Admission Date:  [**2179-7-26**]              Discharge Date:   [**2179-7-27**]\n\nDate of Birth:  [**2134-12-1**]             Sex:   M\n\nService: NEUROSURGERY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 78**]\nChief Complaint:\nElective admission for R paraclinoid aneurysm\n\nMajor Surgical or Invasive Procedure:\n[**2179-7-26**]: Cerebral angiogram with a stent assisted coiling\n\n\nHistory of Present Illness:\n44M who had a surveillance MRI/MRA after his sister was treated\nfor a aneurysm. The MRA showed a R paraclinoid aneurysm. He\nunderwent a angiogram in [**Month (only) 116**] which confirmed the R paraclinoid\naneurysm measuring about 4x3mm. He was given the option to watch\nwith serial imaging vs. a stent assisted coiling. Given his\nyoung age and his profession as a pilot in the military and\ncommercial airline it was decided to treat now.\n\nPast Medical History:\nNo significant PMH noted. Hx of wisdom teeth extraction.\n\nSocial History:\nHe does not use tobacco or alcohol.  He works in the US Air\nForce as a reserve and also has a regular job as a pilot in USA\nwith American Airlines. He is married and has a young son.\n\n\nFamily History:\nSister was diagnosed and treated for a unruptured aneurysm.\nThere is also a history of another family memeber with an\naneurysm.\n\nPhysical Exam:\nPre-operatively:\nNonfocal exam. MAE [**5-20**].\n\nUpon discharge:\nxxxxxxxxxxx\n\nPertinent Results:\n[**2179-7-26**] 12:35PM   GLUCOSE-95 UREA N-15 CREAT-1.0 SODIUM-140\nPOTASSIUM-4.2 CHLORIDE-106 TOTAL CO2-24 ANION GAP-14\n[**2179-7-26**] 12:35PM   estGFR-Using this\n[**2179-7-26**] 12:35PM   WBC-6.5 RBC-4.66 HGB-15.3 HCT-40.8 MCV-88\nMCH-32.9* MCHC-37.5* RDW-13.3\n[**2179-7-26**] 12:35PM   PLT COUNT-253\n\nBrief Hospital Course:\n44M elective admission for a stent assisted coiling of a R\nparaclinoid aneurysm. Post-angio, he was admitted to the ICU for\nobservation, he was placed on Heparin drip overnight. He had no\ncomplications overnight, his Heparin drip was discontinued.\nNeurologically he was intact on day of discharge. He tolerated a\nregular diet and was voiding without difficulty.\n\nMedications on Admission:\nClaritin\nMVI\nPlavix for 5 days as prescribed\n\nDischarge Medications:\n1. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for Pain/fever.\n2. docusate sodium 100 mg Capsule Sig: [**1-17**] Capsules PO BID (2\ntimes a day): use while taking oxycodone.\nDisp:*30 Capsule(s)* Refills:*0*\n3. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)\nas needed for Pain.\nDisp:*40 Tablet(s)* Refills:*0*\n4. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n5. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*0*\n6. therapeutic multivitamin     Liquid Sig: One (1) Tablet PO\nDAILY (Daily).\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nRight paraclinoid aneurysm\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nAngiogram with Embolization and/or Stent placement\nMedications:\n??????\tTake Aspirin 325mg (enteric coated) once daily. *****\n??????\tTake Plavix (Clopidogrel) 75mg once daily for 30 days. ******\n??????\tContinue all other medications you were taking before surgery,\nunless otherwise directed\n??????\tYou make take Tylenol or prescribed pain medications for any\npost procedure pain or discomfort.\n\nWhat activities you can and cannot do:\n??????\tWhen you go home, you may walk and go up and down stairs.\n??????\tYou may shower (let the soapy water run over groin incision,\nrinse and pat dry)\n??????\tYour incision may be left uncovered, unless you have small\namounts of drainage from the wound, then place a dry dressing or\nband aid over the area that is draining, as needed\n??????\tNo heavy lifting, pushing or pulling (greater than 5 lbs) for\n1 week (to allow groin puncture to heal).\n??????\tAfter 1 week, you may resume sexual activity.\n??????\tAfter 1 week, gradually increase your activities and distance\nwalked as you can tolerate.\n??????\tNo driving until you are no longer taking pain medications\n\nWhat to report to office:\n??????\tChanges in vision (loss of vision, blurring, double vision,\nhalf vision)\n??????\tSlurring of speech or difficulty finding correct words to use\n??????\tSevere headache or worsening headache not controlled by pain\nmedication\n??????\tA sudden change in the ability to move or use your arm or leg\nor the ability to feel your arm or leg\n??????\tTrouble swallowing, breathing, or talking\n??????\tNumbness, coldness or pain in lower extremities\n??????\tTemperature greater than 101.5F for 24 hours\n??????\tNew or increased drainage from incision or white, yellow or\ngreen drainage from incisions\n??????\tBleeding from groin puncture site\n\n*SUDDEN, SEVERE BLEEDING OR SWELLING\n(Groin puncture site)\nLie down, keep leg straight and have someone apply firm pressure\nto area for 10 minutes. If bleeding stops, call our office. If\nbleeding does not stop, call 911 for transfer to closest\nEmergency Room!\n\n\nFollowup Instructions:\nPlease follow-up with Dr [**First Name (STitle) **] in 4 weeks with a MRI/MRA Brain\n+/- ([**Doctor Last Name **] Protocol). Please call Takeisha at [**Telephone/Fax (1) 4296**] to\nmake this appointment.\n\n\n\nCompleted by:[**2179-7-27**]"
+    },
+    {
+      "note_id": 1197953,
+      "category": "Radiology",
+      "description": "EMBO TRANSCRANIAL",
+      "annotations": [
+        {
+          "begin": 1242,
+          "end": 1262,
+          "code": "437.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "MapType.APPROX",
+          "covered_text": "paraclinoid aneurysm"
+        },
+        {
+          "begin": 1347,
+          "end": 1367,
+          "code": "437.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "MapType.APPROX",
+          "covered_text": "paraclinoid aneurysm"
+        },
+        {
+          "begin": 3271,
+          "end": 3282,
+          "code": "75574",
+          "code_system": "CPT",
+          "description": "Computed tomographic angiography, heart, coronary arteries and bypass grafts (when present), with contrast material, including 3D image postprocessing (including evaluation of cardiac structure and morphology, assessment of cardiac function, and",
+          "type": "Human",
+          "covered_text": "CAROT/CEREB"
+        },
+        {
+          "begin": 4021,
+          "end": 4056,
+          "code": "444.22",
+          "code_system": "ICD-9-CM",
+          "description": "Arterial embolism and thrombosis of lower extremity",
+          "type": "MapType.APPROX",
+          "covered_text": "patent right common\n femoral artery"
+        }
+      ],
+      "text": "[**2179-7-26**] 3:04 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 41713**]\n Reason: Stent assisted coiling via cerebral angiogram Anesthesia has\n  Contrast: OPTIRAY Amt: 128\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 284**] EMBO TRANSCRANIAL               [**Numeric Identifier 285**] SEL CATH 3RD ORDER [**Last Name (un) 286**]          *\n * -51 MULTI-PROCEDURE SAME DAY          [**Numeric Identifier 304**] CAROTID/CEREBRAL UNILAT          *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 43**] TRANSCATH EMBO THERAPY           *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  44 year old man with known aneurysm\n REASON FOR THIS EXAMINATION:\n  Stent assisted coiling via cerebral angiogram Anesthesia has been booked for\n  [**7-26**] on waitlist\n ______________________________________________________________________________\n                                 FINAL REPORT\n DATE OF SERVICE:  [**2179-7-26**].\n\n PREOPERATIVE DIAGNOSIS:  Right paraclinoid aneurysm of the internal carotid\n artery.\n\n PROCEDURE PERFORMED:  Coil embolization of right paraclinoid aneurysm with\n target coils assisted by Neuroform stent  4.5 x 20 mm EZ stent. Right common\n femoral artery arteriogram and Angio-Seal closure of right common femoral\n artery puncture site.\n\n DETAILS OF PROCEDURE:\n\n The patient was brought to the angiography suite.  IV sedation was given.\n Following this, both groins were prepped and draped in a sterile fashion.\n Access was gained to the right common femoral artery using a Seldinger\n technique and a 6 French vascular sheath was placed in the right common\n femoral artery.  We now catheterized the right internal carotid artery with a\n [**Doctor Last Name 586**] 2 catheter and the [**Doctor Last Name 586**] 2 catheter was exchanged over an exchange\n length glidewire for a Neuron 6 French catheter.  Following this, the patient\n was fully anticoagulated to maintain an ACT close to 250.  We now passed a\n Marksman catheter over a Synchro wire into the right middle cerebral artery.\n Through this, a Neuroform EZ 4.5 x 20 mm stent was deployed across the neck of\n the paraclinoid aneurysm.  The Marksman catheter was removed and the aneurysm\n was recatheterized through the cells of the Neuroform stent using an SL-10\n microcatheter and a Synchro wire.  The aneurysm was coiled starting with a\n 3-mm 360 UltraSoft Target coil, followed by 2 mm coil.  Followed this, the\n aneurysm was completely obliterated.  The ophthalmic artery was seen to be\n patent.  Right common femoral artery arteriogram was done and a 6 French\n Angio-Seal was used for closure of the right common femoral artery puncture\n site.  The patient tolerated the procedure well and was neurologically intact\n at the end of the procedure.\n\n FINDINGS:\n\n Right internal carotid artery arteriogram demonstrates a 4-mm aneurysm\n projecting laterally from the paraclinoid segment at the level of the\n                                                             (Over)\n\n [**2179-7-26**] 3:04 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 41713**]\n Reason: Stent assisted coiling via cerebral angiogram Anesthesia has\n  Contrast: OPTIRAY Amt: 128\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n ophthalmic artery.\n\n Right internal carotid artery arteriogram status post stenting and coiling\n demonstrates that the internal carotid artery is patent in the cavernous and\n supraclinoid portion.  There is no stenosis secondary to stent placement, the\n aneurysm is completely obliterated by a coil mass.  The ophthalmic artery is\n patent.\n\n Right common femoral artery arteriogram shows widely patent right common\n femoral artery.\n\n IMPRESSION:\n\n [**Known firstname **] [**First Name8 (NamePattern2) 1247**] [**Known lastname 1560**] underwent cerebral angiography, which revealed a right\n paraclinoid aneurysm measuring 4 mm which was coiled with the assistance of a\n Neuroform stent.  The procedure was uneventful.\n\n"
+    }
+  ]
+}

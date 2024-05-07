@@ -1,0 +1,1133 @@
+{
+  "hadm_id": 191630,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 158715,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 17,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Baseline artifact"
+        },
+        {
+          "begin": 163,
+          "end": 187,
+          "code": "R94.31",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal electrocardiogram [ECG] [EKG]",
+          "type": "Human",
+          "covered_text": "left bundle-branch block"
+        }
+      ],
+      "text": "Baseline artifact precludes definite assessment of underlying atrial rhythm\nwhich could be atrial fibrillation. There is ventricular pacing at a rate\nof 84 with a left bundle-branch block morphology. The previous tracing\nof [**2167-6-14**] showed probable atrial fibrillation with ventricular pacing\nat a rate of 60 per minute. Borderline low limb lead voltage and low\nanterolateral voltage are again seen. Clinical correlation is suggested to\nassess atrial mechanism.\n\n"
+    },
+    {
+      "note_id": 1142667,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 36,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST PORT."
+        },
+        {
+          "begin": 190,
+          "end": 201,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "HYPOTENSION"
+        },
+        {
+          "begin": 342,
+          "end": 346,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "ESRD"
+        },
+        {
+          "begin": 352,
+          "end": 355,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 357,
+          "end": 369,
+          "code": "E16.2",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoglycemia, unspecified",
+          "type": "Human",
+          "covered_text": "hypoglycemia"
+        }
+      ],
+      "text": "[**2167-7-10**] 3:56 PM\n CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 50335**]\n Reason: please asses CVL placement\n Admitting Diagnosis: HYPOTENSION\n ______________________________________________________________________________\n [**Hospital 4**] MEDICAL CONDITION:\n  70 year old man with ESRD, DM, UTI, hypoglycemia; now, s/p LIJ CVL placement\n REASON FOR THIS EXAMINATION:\n  please asses CVL placement\n ______________________________________________________________________________\n                                 FINAL REPORT\n PORTABLE CHEST\n\n COMPARISON:  [**2167-7-7**].\n\n FINDINGS:  New left internal jugular vascular catheter has a vertically\n oriented course and overlies the contour of the aortic knob.  It is uncertain\n whether this is within a venous structure (e.g. left-sided/duplicate superior\n vena cava, left internal mammary vein, or low lying junction of the left\n internal jugular and left brachiocephalic vein) or within the aorta.  This\n finding has been discussed by telephone with Dr. [**First Name (STitle) 50336**].\n\n Although no pneumothorax is identified, the left costophrenic sulcus has been\n excluded from the study, precluding evaluation for a basilar pneumothorax on\n the supine radiograph.\n\n"
+    },
+    {
+      "note_id": 13466,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 274,
+          "end": 286,
+          "code": "E16.2",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoglycemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hypoglycemia"
+        },
+        {
+          "begin": 435,
+          "end": 445,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "ESRD on HD"
+        },
+        {
+          "begin": 579,
+          "end": 582,
+          "code": "I12.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 584,
+          "end": 587,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "HLP"
+        },
+        {
+          "begin": 713,
+          "end": 734,
+          "code": "A41.52",
+          "code_system": "ICD-10-CM",
+          "description": "Sepsis due to Pseudomonas",
+          "type": "Human",
+          "covered_text": "pseudomonal urosepsis"
+        },
+        {
+          "begin": 1220,
+          "end": 1227,
+          "code": "R09.02",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoxemia",
+          "type": "Human",
+          "covered_text": "hypoxic"
+        },
+        {
+          "begin": 1299,
+          "end": 1310,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "bradycardic"
+        },
+        {
+          "begin": 1470,
+          "end": 1481,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 2820,
+          "end": 2837,
+          "code": "E11.22",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with diabetic chronic kidney disease",
+          "type": "Human",
+          "covered_text": "Diabetes mellitus"
+        },
+        {
+          "begin": 2873,
+          "end": 2912,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "End-stage renal disease on hemodialysis"
+        },
+        {
+          "begin": 2924,
+          "end": 2938,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 2962,
+          "end": 2965,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 3011,
+          "end": 3031,
+          "code": "J69.0",
+          "code_system": "ICD-10-CM",
+          "description": "Pneumonitis due to inhalation of food and vomit",
+          "type": "Human",
+          "covered_text": "aspiration pneumonia"
+        },
+        {
+          "begin": 3034,
+          "end": 3045,
+          "code": "E03.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypothyroidism, unspecified",
+          "type": "Human",
+          "covered_text": "hypothyroid"
+        },
+        {
+          "begin": 3048,
+          "end": 3075,
+          "code": "I73.9",
+          "code_system": "ICD-10-CM",
+          "description": "Peripheral vascular disease, unspecified",
+          "type": "Human",
+          "covered_text": "peripheral vascular disease"
+        },
+        {
+          "begin": 3078,
+          "end": 3106,
+          "code": "N40.1",
+          "code_system": "ICD-10-CM",
+          "description": "Benign prostatic hyperplasia with lower urinary tract symptoms",
+          "type": "Human",
+          "covered_text": "benign prostatic hypertrophy"
+        },
+        {
+          "begin": 3199,
+          "end": 3214,
+          "code": "M48.00",
+          "code_system": "ICD-10-CM",
+          "description": "Spinal stenosis, site unspecified",
+          "type": "Human",
+          "covered_text": "spinal stenosis"
+        },
+        {
+          "begin": 3217,
+          "end": 3236,
+          "code": "F43.20",
+          "code_system": "ICD-10-CM",
+          "description": "Adjustment disorder, unspecified",
+          "type": "Human",
+          "covered_text": "adjustment disorder"
+        },
+        {
+          "begin": 3239,
+          "end": 3259,
+          "code": "F60.9",
+          "code_system": "ICD-10-CM",
+          "description": "Personality disorder, unspecified",
+          "type": "Human",
+          "covered_text": "personality disorder"
+        },
+        {
+          "begin": 3262,
+          "end": 3282,
+          "code": "I34.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic mitral (valve) insufficiency",
+          "type": "Human",
+          "covered_text": "mitral regurgitation"
+        },
+        {
+          "begin": 3289,
+          "end": 3301,
+          "code": "E83.51",
+          "code_system": "ICD-10-CM",
+          "description": "Hypocalcemia",
+          "type": "Human",
+          "covered_text": "hypocalcemia"
+        },
+        {
+          "begin": 3308,
+          "end": 3328,
+          "code": "N28.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified disorders of kidney and ureter",
+          "type": "Human",
+          "covered_text": "bilateral renal mass"
+        },
+        {
+          "begin": 3599,
+          "end": 3610,
+          "code": "H10.30",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified acute conjunctivitis, unspecified eye",
+          "type": "Human",
+          "covered_text": "Conjunctiva"
+        },
+        {
+          "begin": 3735,
+          "end": 3759,
+          "code": "R60.9",
+          "code_system": "ICD-10-CM",
+          "description": "Edema, unspecified",
+          "type": "Human",
+          "covered_text": "pitting peripheral edema"
+        },
+        {
+          "begin": 5488,
+          "end": 5513,
+          "code": "J68.1",
+          "code_system": "ICD-10-CM",
+          "description": "Pulmonary edema due to chemicals, gases, fumes and vapors",
+          "type": "Human",
+          "covered_text": "Mild pulmonary\ncongestion"
+        },
+        {
+          "begin": 5888,
+          "end": 5920,
+          "code": "M43.8X9",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified deforming dorsopathies, site unspecified",
+          "type": "Human",
+          "covered_text": "widening of\nintervertebral space"
+        },
+        {
+          "begin": 6156,
+          "end": 6170,
+          "code": "K80.20",
+          "code_system": "ICD-10-CM",
+          "description": "Calculus of gallbladder without cholecystitis without obstruction",
+          "type": "Human",
+          "covered_text": "Cholelithiasis"
+        },
+        {
+          "begin": 6388,
+          "end": 6405,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 6461,
+          "end": 6468,
+          "code": "R18.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other ascites",
+          "type": "Human",
+          "covered_text": "Ascites"
+        },
+        {
+          "begin": 6493,
+          "end": 6523,
+          "code": "I25.84",
+          "code_system": "ICD-10-CM",
+          "description": "Coronary atherosclerosis due to calcified coronary lesion",
+          "type": "Human",
+          "covered_text": "coronary artery calcifications"
+        },
+        {
+          "begin": 6758,
+          "end": 6781,
+          "code": "K56.609",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction",
+          "type": "Human",
+          "covered_text": "small bowel obstruction"
+        },
+        {
+          "begin": 7055,
+          "end": 7067,
+          "code": "N28.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified disorders of kidney and ureter",
+          "type": "Human",
+          "covered_text": "renal masses"
+        },
+        {
+          "begin": 7217,
+          "end": 7242,
+          "code": "K86.2",
+          "code_system": "ICD-10-CM",
+          "description": "Cyst of pancreas",
+          "type": "Human",
+          "covered_text": "cystic pancreatic lesions"
+        },
+        {
+          "begin": 7748,
+          "end": 7758,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "ESRD on HD"
+        },
+        {
+          "begin": 7789,
+          "end": 7792,
+          "code": "I12.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 7794,
+          "end": 7797,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "HLP"
+        },
+        {
+          "begin": 7926,
+          "end": 7938,
+          "code": "E16.2",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoglycemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hypoglycemia"
+        },
+        {
+          "begin": 8793,
+          "end": 8796,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 8850,
+          "end": 8871,
+          "code": "A41.52",
+          "code_system": "ICD-10-CM",
+          "description": "Sepsis due to Pseudomonas",
+          "type": "Human",
+          "covered_text": "pseudomonal urosepsis"
+        },
+        {
+          "begin": 9945,
+          "end": 9951,
+          "code": "A04.72",
+          "code_system": "ICD-10-CM",
+          "description": "Enterocolitis due to Clostridium difficile, not specified as recurrent",
+          "type": "Human",
+          "covered_text": "C.diff"
+        },
+        {
+          "begin": 10178,
+          "end": 10185,
+          "code": "R09.02",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoxemia",
+          "type": "Human",
+          "covered_text": "Hypoxia"
+        },
+        {
+          "begin": 10226,
+          "end": 10237,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 10370,
+          "end": 10381,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 10756,
+          "end": 10769,
+          "code": "K56.1",
+          "code_system": "ICD-10-CM",
+          "description": "Intussusception",
+          "type": "Human",
+          "covered_text": "Intussception"
+        },
+        {
+          "begin": 11287,
+          "end": 11295,
+          "code": "M46.40",
+          "code_system": "ICD-10-CM",
+          "description": "Discitis, unspecified, site unspecified",
+          "type": "Human",
+          "covered_text": "Discitis"
+        },
+        {
+          "begin": 11696,
+          "end": 11700,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "ESRD"
+        },
+        {
+          "begin": 11980,
+          "end": 11988,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "Diabetes"
+        },
+        {
+          "begin": 12227,
+          "end": 12230,
+          "code": "I12.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 12282,
+          "end": 12293,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 12335,
+          "end": 12338,
+          "code": "N40.1",
+          "code_system": "ICD-10-CM",
+          "description": "Benign prostatic hyperplasia with lower urinary tract symptoms",
+          "type": "Human",
+          "covered_text": "BPH"
+        },
+        {
+          "begin": 12535,
+          "end": 12549,
+          "code": "E03.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypothyroidism, unspecified",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 12718,
+          "end": 12721,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 15490,
+          "end": 15511,
+          "code": "B96.1",
+          "code_system": "ICD-10-CM",
+          "description": "Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "Urosepsis, Klebseilla"
+        },
+        {
+          "begin": 15516,
+          "end": 15528,
+          "code": "E16.2",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoglycemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hypoglycemia"
+        },
+        {
+          "begin": 15558,
+          "end": 15568,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "ESRD on HD"
+        },
+        {
+          "begin": 15569,
+          "end": 15577,
+          "code": "M46.40",
+          "code_system": "ICD-10-CM",
+          "description": "Discitis, unspecified, site unspecified",
+          "type": "Human",
+          "covered_text": "Discitis"
+        },
+        {
+          "begin": 15582,
+          "end": 15594,
+          "code": "E16.2",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoglycemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hypoglycemia"
+        },
+        {
+          "begin": 15595,
+          "end": 15608,
+          "code": "K56.1",
+          "code_system": "ICD-10-CM",
+          "description": "Intussusception",
+          "type": "Human",
+          "covered_text": "Intussception"
+        }
+      ],
+      "text": "Admission Date:  [**2167-7-7**]              Discharge Date:   [**2167-7-16**]\n\nDate of Birth:  [**2096-9-27**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 905**]\nChief Complaint:\nHypoglycemia\n\nMajor Surgical or Invasive Procedure:\nPICC line placement\n\nHistory of Present Illness:\n70 yo M with [**Hospital 7235**] medical problems including ESRD on HD\nM/W/F iwth HD line that was changed [**6-11**], diabetes (? not on\ninsulin per discharge meds from earlier this month), sCHF FE\n40%, HTN, HLP, boderline PD who was found to be unresponsive at\nHD yesterday with BP 70/40 and fingerstick to fs 41.  Recent\nadmission for pseudomonal urosepsis in [**Month (only) 547**] and c. diff in [**Month (only) 116**].\nAlso has ? discitis/osteomyelitis but negative bone biopsy in\n[**Month (only) **].\n\nAt HD, he received an amp of D50 and MS improved to - A/O x3 and\nhe was brought to [**Location (un) 620**] ED. There, EKG showed with AV pacing\nand trop found to be elevated to 0.4 (baseline per ED there is\n0.3). Got PR ASA and was sent here for ROMI/NSTEMI.\n\nOn arrival to the [**Hospital1 18**] ED last night, pressures remained low,\nhypoxic on 3L (unclear baseline O2 requirement).  BP's were\n90/palp and pt was bradycardic to 38 (though unclear how it's\npossible given that pt is paced).  Given slightly higher trop,\nthere was initial concern for NSTEMI.  He receive 2L IVF for his\nhypotension and cardiology was consulted.  They were not\nconcerned given trop around baseline.  Unclear if EKG's were\nfaxed for them to look at.  Overnight, pressures improved with\nIVF, no antibiotics or blood cultures were drawn.  Fingersticks\ncontinued to be low 40-80 and he was started on D5 gtt at 100\ncc/hr.  BP's overnight continued to be low and this morning D5\nincreased to 150cc/hr.\n\nCT torsos (one without contrast and one with contrast) were\nobtained to look for source of hypoglycemia and found a\nlarge-moderate intussception and L3/L4 discitis.  Surgery was\nconsulted for intussception and felt comfortable with medical\nadmission, no emergent surgery given lactate 0.6 this morning at\n3am.  Radiology read partial obstruction with small amount of\ncontrast passing through but very edematous bowel and\nrecommended that surgery address. Additionally, renal masses\nconcerning for RCC were noted which are old.  Per prior\ntransplant note, nephrology/urology aware, last urology visit\n[**2-/2167**] with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3748**].\n\nThis morning, blood cultures were drawn and CTX/vanco were\nordered (unclear if given) in the [**Name (NI) **].\n\nVitals prior to transfer to the ICU: 4L nc, sating 99%.  BP\n114/64. HR 60 paced. Per ED resident. abd exam totally benign.\n\n\nPast Medical History:\n- Diabetes mellitus c/b neuropathy  - not on insulin\n- End-stage renal disease on hemodialysis on M,W,F\n- Hyperlipidemia\n- CHF (EF 40%)\n- HTN\n- CAD s/p cath and AICD\n- s/p gastric bypass\n- h/o aspiration pneumonia\n- hypothyroid\n- peripheral vascular disease\n- benign prostatic hypertrophy\n- h/o bacteremia (Klebs/Serratia/pseudomonas)\n- recurrent C. diff\n- Zoster\n- h/o delirium\n- spinal stenosis\n- adjustment disorder\n- personality disorder\n- mitral regurgitation\n- h/o hypocalcemia\n- h/o bilateral renal mass\n\nSocial History:\nRetired. Denies alcohol use. Non smoker. Discharged to Newbridge\non the [**Doctor Last Name **] on [**6-16**]. Prior to that lived with wife.\n\nFamily History:\nBrother with DM.\n\nPhysical Exam:\nVS:\n- General Appearance: Chronically ill appearing\n- Eyes / Conjunctiva: PERRL,\n- Head, Ears, Nose, Throat: Poor dentition\n- Cardiovascular: distant heart sounds, S1, S2, ii/vi systolic\nmurmur, 1+pitting peripheral edema of upper and lower extremity\n- Peripheral Vascular: (Right radial pulse: Present), (Left\nradial pulse: Present), (Right DP pulse: Present), (Left DP\npulse: Present)\n- Respiratory / Chest: symmetic, unlabored respirations, Breath\nSounds: Crackles : bilaterally at bases\n- Abdominal: Soft, Non-tender, non-distended Bowel sounds\npresent,\n- Extremities: pale, ulcer on toe\n- Skin:  Warm, bangages on forearms with scattered traumatic\nskin tears\n- Neurologic: Follows simple commands, Responds to: Verbal\nstimuli, Oriented (to): person, place.\n\nPertinent Results:\nAdmission Labs\n[**2167-7-6**] 09:50PM BLOOD WBC-10.4 RBC-3.39* Hgb-10.7* Hct-33.0*\nMCV-97 MCH-31.7 MCHC-32.5 RDW-16.2* Plt Ct-314\n[**2167-7-6**] 09:50PM BLOOD PT-13.6* PTT->150* INR(PT)-1.2*\n[**2167-7-6**] 09:50PM BLOOD ESR-10\n[**2167-7-6**] 09:50PM BLOOD Fibrino-349\n[**2167-7-6**] 09:50PM BLOOD Glucose-97 UreaN-35* Creat-2.8* Na-136\nK-4.4 Cl-104 HCO3-24 AnGap-12\n[**2167-7-6**] 09:50PM BLOOD ALT-9 AST-18 CK(CPK)-34* AlkPhos-55\nTotBili-0.2\n[**2167-7-6**] 09:50PM BLOOD Albumin-2.1* Calcium-7.0* Phos-3.7 Mg-2.0\n[**2167-7-6**] 09:50PM BLOOD CRP-5.8*\n\nCardiac Enzymes:\n[**2167-7-6**] 09:50PM BLOOD CK(CPK)-34* CK-MB-5 cTropnT-0.36*\n[**2167-7-7**] 06:15AM BLOOD cTropnT-0.34*\n[**2167-7-7**] 02:03PM BLOOD CK(CPK)-46* cTropnT-0.31*\n\nOther Labs:\n[**2167-7-10**] 02:33PM BLOOD TSH-2.8\n[**2167-7-7**] 06:15AM BLOOD Cortsol-17.0\n[**2167-7-6**] 09:50PM BLOOD CRP-5.8*\n[**2167-7-8**] 05:29AM BLOOD Vanco-10.3\n[**2167-7-7**] 03:43AM BLOOD Glucose-70 Lactate-0.6\n[**2167-7-9**] 12:05PM BLOOD Lactate-1.5 K-4.2\n\n[**Last Name (un) **] Stim-\n[**2167-7-10**] 08:19PM BLOOD Cortsol-23.8*\n[**2167-7-10**] 09:47PM BLOOD Cortsol-43.5*\n\nCXR ([**2167-7-7**]) - IMPRESSION: No pneumonia. Mild pulmonary\ncongestion.\n\nCT A/P ([**2167-7-7**]) - IMPRESSION:\n1. Prior gastric bypass surgery with enteroenteric\nintussusception in the\nleft upper quadrant at the distal anastomosis. No evidence of\nproximal\ndilation of bowel to suggest obstruction at the time of the\nexamination but correlation with physical examination is\nrecommended.\n2. Destructive change of L3-4 endplates with appearance of\nwidening of\nintervertebral space, unchanged from CT of lumbar spine of\n[**2167-6-29**], may\nagain represent noninfective spondyloarthropathy although\nsuperimposed\ninfection (discitis/osteomyelitis) cannot be entirely excluded\nand clinical correlation is necessary.\n3. Cholelithiasis in a moderately distended gallbladder. Cannot\nassess\ngallbladder wall without IV contrast. If concern for acute\ncholecystitis,\nrecommend ultrasound or HIDA. Unchanged probable stone or sludge\nin the CBD.\n4. Bilateral pleural effusions, moderate to large on the left\nand small on\nthe right. Ascites and anasarca.\n5. Marked coronary artery calcifications. Marked vascular\ncalcifications\nthroughout the abdomen.\n\nCT A/P ([**2167-7-7**]) - IMPRESSION:\n1. Persistent jejunojejunal intussusception at the distal\nanastomosis with\nmarked bowel wall edema in the intussuscepted bowel and partial\nsmall bowel obstruction.\n2. Oral contrast in the excluded stomach and afferent limb,\nconsistent with either represent reflux secondary to obstruction\nfrom the intussusception or a fistula between the gastric\nremnant and the excluded stomach or components of both\nprocesses.\n3. Bilateral enhancing renal masses. The largest one in the left\nupper pole demonstrates interval increase in size. Findings are\nagain concerning for renal cell carcinoma.\n4. Unchanged cystic pancreatic lesions. Could be further\nassessed by MR [**First Name (Titles) **] [**Last Name (Titles) 40806**]y indicated.\n5. Similar destructive appearance of L3-L4 compared to the prior\nL-spine CT study eight days ago. Findings again may represent\nrenal spondyloarthropathy but clinical correlation is necessary\nto exclude osteomyelitis/discitis.\n6. Similar cholelithiasis and choledocholithiasis, without\nevidence of acute cholecystitis.\n\nBrief Hospital Course:\n70 yo M with [**Hospital 7235**] medical problems including ESRD on HD\nM/W/F, diabetes, sCHF EF 40%, HTN, HLP, borderline PD who was\nfound to be unresponsive at HD with BP 70/40 and fingerstick to\nfs 41 thought to be secondary to UTI.\n\n# Hypoglycemia: Etiology unclear. In the MICU, patient initially\nrequired D10 gtt which was then weaned off. However, several\nhours after the D10 gtt was stopped, the patient's blood sugars\ndropped back down to the 60's, ultimately requiring the D10 gtt\nto be restarted. [**Last Name (un) **] stim was unrevealing and TSH was WNL.\nPatient transferred to the floor. There remained off D10gtt\nhowever blood sugars remained labile with pre-prandial fs\nrunnning in the 70s during which patient asymptomatic. [**Last Name (un) **]\nfollowing the patient and also unclear on etiology of persistent\nhypoglycemia. Per their rec's sent C-peptide and insulin level\nwhich is still pending. He will follow up with [**Hospital 387**] clinic for\nfurther workup of this. He has had stable blood sugars for\nseveral days on the general medical floor on no anti-glycemic\nmedications.\n.\n# UTI: UA on admission grossly positive. As had history of\npseudomonal urosepsis, decision was made initially to treat with\ncefepime. However, urine cultures ultimately grew Klebsiella\nresistant to cefepime, so the patient was switched to meropenem,\nto complete a 7 day course (end date [**7-18**]). Midline placed to\nfacilitate antibiotic administration as outpatient. PICC line\nunable to be placed as subclavian thrombosed per IR. Etiology of\nrecurrent UTIs felt secondary to stasis therefore foley was\nd/c'ed with decision for QD/[**Hospital1 **] bladder scans and straight cath.\nPatient will continue to need QD/[**Hospital1 **] straight caths in future -\nand education will be needed for both patient and wife in order\nto be able to do this at home. There are also plans for him to\nfollow up with Dr. [**Last Name (STitle) 3748**] (urology) for evaluation and possible\nnephrectomy as he has a renal mass seen on multiple CT scans\n(this admission and prior) and this may keep him from making\nurine which he retains causing the frequent UTIs. Dr. [**Last Name (STitle) 3748**]\nwill set him up with an appointment in the next few weeks.\n .\n#History of C.diff. In house C.diff negx2. However, given\npatient's history of severe c.diff infection and current use of\nmeropenem, ID consult service recommended treating empirically\nfor c.diff with flagyl for 14day (end date [**7-25**]).\n.\n# Hypoxia: Occurred in MICU in setting of IVF for hypotension\nand known sCHF 40% EF.  CXR with mild volume o/l. Resolved with\nHD and fluid removal. On the floor patient saturated well on RA.\n\n# Hypotension: Occurred at HD and in ED on presentation.\nPersisted in the MICU and gradually resolved with IVF and\nantibiotics likely in setting of infection. Patient\nasymptomatically hypotensive on floor with SBP ranging between\n80s-110s. Difficult to obtain accurate [**Location (un) 1131**] in HD patient.\nAnti-hypetensives were held. Occasional 250mL Boluses were given\nif SBP<80.\n\n# Intussception:  See on CT, moderate-to-large.  Surgery\nrecommended admission to medicine service for initial\nmanagement. However, surgicaly repair remained an option.\nUltimately, the decision was made to monitor patient with serial\nabdominal exam and lactate levels. Surgery was reassured with\nlactate level of 0.6. On the floor patient without pain and\ntolerating a regular diet without nausea, vomiting or pain. Plan\nto follow-up with GI as outpatient as there is concern regarding\nthe nidus for intussception ?cancer ?polyp.\n\n# Discitis:  Appears old - seen on prior imaging. Ortho spine\nand ID consulted and per imaging was not felt to be a likely\nsource of infection. In addition, nl WBC and lack of fever not\nsuggestive of active infection. Pain was managed with plan to\nfollow-up L3-L4 endplate degeneration as outpatient. Current\npain regimen has been adequately controlling his back pain for\nthe last 2 days while hospitalized.\n\n# ESRD: On HD through HD line which was changed on [**2167-6-11**].\nContinued on HD on MWF schedule. Not transplant candidate [**2-10**]\nlikely RCC. Per renal notes, question possible nephrectomy in\nthe future and will follow up with Dr. [**Last Name (STitle) **] for this as above.\n\n# Diabetes: On insulin at nursing home per NH paperwork, however\ninsulin held secondary to hypoglycemia. [**Last Name (un) **] followed in house\nand will follow him as an outpatient as above.\n\n# Systolic Heart Failure: EF 40%, mild edema on CXR.\n\n# HTN: Anti-HTN meds held due to persistent asymptomatic\nhypotension.\n\n# Hyperlipidemia: Statin continued.\n\n# BPH: Home medication regimen continued\n\n# Renal Masses: High concern for RCC per out pt notes, patient\naware with plan to follow-up as outpatient with Dr. [**Last Name (STitle) 3748**] of\nurology.\n\n# Hypothyroidism: Thyroid medications initially held in MICU as\npatient was not taking in adequate PO. As diet/nutrition\nimproved levothyroxine 200mcg QD was restarted on the floor.\n\n# CAD: On initial presentation troponins elevated 0.4 (baseline\n0.3). No changes on EKG and per cardiology low liklihood for\nACS. Bblocker held secondary to hypotension.\n\n# Code: Full (discussed with patient)\n.\n# Dispo. Patient received PT/OT consult prior to discharge to\nrehab facility.\n\n\nMedications on Admission:\n- Calcium Acetate 1334 mg three times daily with meals\n- Calcium Carbonate 1300 mg three times a day\n- Cholecalciferol 1000 units daily\n- Ferrous sulfate 325 mg every Mon, Wed, Fri\n- Finasteride 5 mg daily\n- Gabapentin 200 mg three times a day\n- Heparin SC 5000 units q8hrs\n- Humalog SS\n- Levothyroxine 200 mcg daily\n- Lidocaine Patch\n- Loperamide 2 mg daily\n- Omeprazole 20 mg daily\n- Oxycontin 30 mg [**Hospital1 **]\n- Oxycodone 5 mg four times a day\n- Pentoxifylline CR 400 mg once daily\n- Sevelamer 800 mg three times a day with meals\n- Anusol Suppositories 1 [**Hospital1 **]\nPRNS:\n- Acetaminophen 650 mg q4 hours PRN\n- Bisacodyl 10 mg daily PRN\n- Loperadime 2 mg q6hrs PRN\n- Lorazepam 0.5 mg q4 hours PRN\n- Morphine Oral Conc 8 mg q 1 hr PRN pain\n- Oxycodone 5 mg q4hrs PRN pain\n- Psyllium Seed 1 tsp [**Hospital1 **] PRN\n- Senna 17.2 mg daily PRN\n- Trazodone 50 mg qHS PRN\n\n\nDischarge Medications:\n1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3\ntimes a day).\n2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n3. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: 2.5 Tablets\nPO DAILY (Daily).\n4. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)\nTablet PO QMOWEFR (Monday -Wednesday-Friday).\n5. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n6. Gabapentin 100 mg Capsule Sig: Two (2) Capsule PO TID (3\ntimes a day).\n7. Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n8. Sevelamer HCl 400 mg Tablet Sig: Two (2) Tablet PO TID\nW/MEALS (3 TIMES A DAY WITH MEALS).\n9. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:\nOne (1) Adhesive Patch, Medicated Topical DAILY (Daily).\n10. Calcium Carbonate 500 mg (1,250 mg) Tablet Sig: One (1)\nTablet PO TID W/MEALS (3 TIMES A DAY WITH MEALS).\n11. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap\nPO DAILY (Daily).\n12. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n13. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as\nneeded for insomnia.\n14. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours) as needed for pain.\n15. Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: One (1)\nTablet Sustained Release 12 hr PO TID (3 times a day).\n16. Meropenem 500 mg IV Q24H\nAdminister dose after HD on HD days\n17. MetRONIDAZOLE (FLagyl) 500 mg IV Q8H\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 700**] - [**Location (un) 701**]\n\nDischarge Diagnosis:\nPRIMARY\nUrosepsis, Klebseilla PNA\nHypoglycemia\nIntussussception\n\nSECONDARY:\nESRD on HD\nDiscitis\nCHF\nHypoglycemia\nIntussception\n\nDischarge Condition:\nMental Status: oriented to person and place\nHemodynically stable\nUnable to ambulate without assistance.\n\nDischarge Instructions:\nYou were admitted to the [**Hospital1 69**]\nafter becoming unresponsive at dialysis. At that time were\nsugars and blood pressure was found to be low. We felt your low\npressures resulted from an infection in your urine. We treated\nyour low pressures with IV fluids and antibiotics. A PICC line\nwas placed to faciliate antibiotic administration after you\nleave the hospital. The source of your recurrent urine\ninfections is felt to be due to stasis of urine in the bladder\nand it is recommended to perform straight catherization daily to\nensure the the bladder is empty.\nYou continued to experience back pain while hospitalized. Pain\nresulted both from inflammation of an area of your spine as well\nas irritation of the skin on your backside. We worked with the\npain team to create a treatment regimen and with the wound care\nnurses to care for your ulcers, skin sores.\nThe kidney doctors followed [**Name5 (PTitle) **] [**Name5 (PTitle) 1028**] you were hospitalized and\nyou continued dialysis on your M,W,F schedule.\nYou experienced abdominal pain while in the ICU and a picture of\nbelly showed an intussception. Surgery was consulted and did not\nfeel that you needed surgical intervention but it is important\nthat you follow-up with GI doctors [**First Name (Titles) **] [**Last Name (Titles) 4656**] this.\nYou were discharged to a rehab facility for continued care and\nassistance.\n\n\nFollowup Instructions:\nDepartment: HEMODIALYSIS\nWhen: WEDNESDAY [**2167-7-15**] at 7:30 AM\n\nDepartment: INFECTIOUS DISEASE\nWhen: MONDAY [**2167-7-27**] at 11:30 AM\nWith: [**First Name4 (NamePattern1) 2482**] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 457**]\nBuilding: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Hospital 1422**]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\nDepartment: [**Last Name (un) **] Diabetes Center\nWhen: Monday [**2167-7-27**] 2:00pm\nWith: NP [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 7280**]\nLocation: [**Last Name (un) 3911**] [**Location (un) 86**], [**Numeric Identifier 718**]\nPhone: [**Telephone/Fax (1) 2384**]\n\nDepartment: GASTROENTEROLOGY\nWhen: TUESDAY [**2167-7-28**] at 3:00 PM\nWith: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6970**], MD [**Telephone/Fax (1) 463**]\nBuilding: LM [**Hospital Unit Name **] [**Location (un) 858**]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\nDr. [**Last Name (STitle) 3748**] (your urologist) will also be in touch with you re:\nan appointment in follow up of the mass in your kidney and\nwhether you need to undergo surgery for this mass.\n\n\n                             [**Name6 (MD) 251**] [**Name8 (MD) **] MD [**MD Number(1) 910**]\n\nCompleted by:[**2167-7-17**]"
+    },
+    {
+      "note_id": 1141971,
+      "category": "Radiology",
+      "description": "CT ABDOMEN W/CONTRAST",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 67,
+          "code": "74177",
+          "code_system": "CPT",
+          "description": "Computed tomography, abdomen and pelvis; with contrast material(s)",
+          "type": "Human",
+          "covered_text": "CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST"
+        },
+        {
+          "begin": 191,
+          "end": 202,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "HYPOTENSION"
+        },
+        {
+          "begin": 372,
+          "end": 385,
+          "code": "K56.1",
+          "code_system": "ICD-10-CM",
+          "description": "Intussusception",
+          "type": "Human",
+          "covered_text": "intussception"
+        },
+        {
+          "begin": 2083,
+          "end": 2100,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 2165,
+          "end": 2196,
+          "code": "I25.84",
+          "code_system": "ICD-10-CM",
+          "description": "Coronary atherosclerosis due to calcified coronary lesion",
+          "type": "Human",
+          "covered_text": "coronary artery\n calcifications"
+        },
+        {
+          "begin": 3402,
+          "end": 3413,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "HYPOTENSION"
+        },
+        {
+          "begin": 3634,
+          "end": 3670,
+          "code": "K76.9",
+          "code_system": "ICD-10-CM",
+          "description": "Liver disease, unspecified",
+          "type": "Human",
+          "covered_text": "liver is noted with several punctate"
+        },
+        {
+          "begin": 3818,
+          "end": 3827,
+          "code": "D73.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other diseases of spleen",
+          "type": "Human",
+          "covered_text": "hypodense"
+        },
+        {
+          "begin": 3950,
+          "end": 3982,
+          "code": "K82.9",
+          "code_system": "ICD-10-CM",
+          "description": "Disease of gallbladder, unspecified",
+          "type": "Human",
+          "covered_text": "moderately distended gallbladder"
+        },
+        {
+          "begin": 4464,
+          "end": 4477,
+          "code": "N28.1",
+          "code_system": "ICD-10-CM",
+          "description": "Cyst of kidney, acquired",
+          "type": "Human",
+          "covered_text": "renal lesions"
+        },
+        {
+          "begin": 6389,
+          "end": 6400,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "HYPOTENSION"
+        },
+        {
+          "begin": 6845,
+          "end": 6857,
+          "code": "N28.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified disorders of kidney and ureter",
+          "type": "Human",
+          "covered_text": "renal masses"
+        },
+        {
+          "begin": 7014,
+          "end": 7039,
+          "code": "K86.2",
+          "code_system": "ICD-10-CM",
+          "description": "Cyst of pancreas",
+          "type": "Human",
+          "covered_text": "cystic pancreatic lesions"
+        },
+        {
+          "begin": 7390,
+          "end": 7428,
+          "code": "K80.19",
+          "code_system": "ICD-10-CM",
+          "description": "Calculus of gallbladder with other cholecystitis with obstruction",
+          "type": "Human",
+          "covered_text": "cholelithiasis and choledocholithiasis"
+        }
+      ],
+      "text": "[**2167-7-7**] 6:02 AM\n CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 50276**]\n Reason: assessment of intussception?\n Admitting Diagnosis: HYPOTENSION\n  Contrast: OPTIRAY Amt: 130\n ______________________________________________________________________________\n [**Hospital 4**] MEDICAL CONDITION:\n  70 year old man with intussception.  Needs PO/IV contrast and abd/pelvis\n REASON FOR THIS EXAMINATION:\n  assessment of intussception?\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: ENYa TUE [**2167-7-7**] 9:14 AM\n  1. Persistent jejuno-jejunal intussuception at the anastomosis.\n  2. Oral contrast in excluded stomach, either represent reflux [**2-10**] obstruction\n  of intussuception or a fistula between the gastric remnant to the excluded\n  stomach.\n  3. No CT evidence of bowel wall ischemia.\n  4. Two enhancing lesions in the left kidney, previously noted in [**2167-2-9**]\n  study. The smaller is not significantly unchanged.  The larger one has\n  interval increased in size, and extends to the renal sinus medially.\n  Heterogeneously enhance right lobe pole.  All lesions are concerning for RCC.\n  5. Unchanged cystic lesions in the pancreatic tail, could be further assessed\n  by MR [**First Name (Titles) **] [**Last Name (Titles) 5576**] indicated.\n  6. Similar destructive appearance of L3/4 compared to prior CT L-spine study.\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  70-year-old man with intussusception.  Now repeat with oral and IV\n contrast for full evaluation.\n\n COMPARISON:  CT abdomen and pelvis on [**2167-6-7**].  Concurrent contrast CT\n abdomen and pelvis on [**2167-7-7**] at 0116 hours.\n\n TECHNIQUE:  MDCT images were acquired from the lung bases to the pubic\n symphysis after administration of IV and oral contrast.  Multiplanar\n reformatted images were obtained for evaluation.\n\n CT ABDOMEN WITH CONTRAST:  There are bilateral pleural effusions, moderate on\n the left and small on the right.  The significant coronary artery\n calcifications are again noted.\n\n The large intussusception is at the jejunojejunal anastomosis of the gastric\n bypass is essentially unchanged compared to the non-contrast study earlier\n today.  Contrast is noted in the afferent limb and the excluded stomach,\n either representing reflux from intussusception obstruction or a fistula from\n the gastric remnant to the excluded stomach with opacification of both limbs\n (or contribution of both).  Distention of small bowel proximal to the site of\n intussusception is consistent with partial obstruction, although small amount\n of oral contrast is seen passing distally beyond the intussusception point on\n to the distal jejunum.  Marked bowel wall edema is noted with the\n intussuscepted bowel.  Mesenteric vessels coursing within the intussuscepted\n segment opacify with contrast and there is no definite evidence of ischemia of\n the intussuscepted loop although the presence of oral contrast about the loop\n                                                             (Over)\n\n [**2167-7-7**] 6:02 AM\n CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 50276**]\n Reason: assessment of intussception?\n Admitting Diagnosis: HYPOTENSION\n  Contrast: OPTIRAY Amt: 130\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n somewhat limits assessment for mural enhancement.\n\n The liver is noted with several punctate hypoenhancing lesions, too small to\n be fully evaluated.  The liver is otherwise normal without intrahepatic\n biliary ductal dilatation.  Multiple hypodense lesions are again noted in the\n spleen, with the largest one measuring 11 mm in diameter (image 2:14),\n nonspecific.  The moderately distended gallbladder is noted with two\n gallstones layering in the dependent position.  There is no fat stranding to\n suggest acute inflammatory process.  A punctate hyperdensity in the CBD is\n unchanged, and likely represents a small choledocholithiasis.  The pancreas is\n again noted with multiple cystic lesions with the largest one in the\n pancreatic tail measuring 12 mm (image 2:26), similar in appearance compared\n to prior.  The adrenal glands are normal.\n\n Again noted are bilateral enhancing renal lesions.  The largest one is noted\n in the left upper pole (image 2:30), measuring 30 x 23 mm, slightly larger\n than the prior and now has extension to the renal sinus medially.  The smaller\n one in the left kidney is noted in the left lower pole, measuring 11 x 8 mm\n (image 2:35) similar in size from prior study.  There is a probably-enhancing\n lesion in the right lower pole measures 29 x 25 mm (image 2:45).  All of these\n lesions are concerning for renal cell carcinoma.  A hyperdense cyst in the\n right lower pole (image 2:44), measures 30-mm in diameter.  There is no\n hydronephrosis.\n\n No significant free fluid is noted in the abdomen.  There are small mesenteric\n lymph nodes, but none of them are pathologically enlarged.\n\n CT PELVIS WITH CONTRAST:  The urinary bladder wall is mildly thickened.  The\n patient is reportedly anuric and there is no excreted IV contrast in the\n bladder.  The colon is unremarkable.  There is no significant ascites in the\n pelvis.  No free air or lymphadenopathy is noted.  Again seen are significant\n vascular calcifications involving all major branches of the abdominal\n vasculature.  There is moderate generalized anasarca throughout the abdominal\n and pelvic wall.\n\n BONE WINDOW:  The destructive changes at the endplates of L3-L4 demonstrate no\n significant interval change compared to the prior CT lumbar spine study on\n [**2167-6-29**].  This could represent osteomyelitis/discitis or accelerated\n renal spondyloarthropathy.\n\n IMPRESSION:\n\n 1.  Persistent jejunojejunal intussusception at the distal anastomosis with\n marked bowel wall edema in the intussuscepted bowel and partial small bowel\n obstruction.\n                                                             (Over)\n\n [**2167-7-7**] 6:02 AM\n CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 50276**]\n Reason: assessment of intussception?\n Admitting Diagnosis: HYPOTENSION\n  Contrast: OPTIRAY Amt: 130\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n 2.  Oral contrast in the excluded stomach and afferent limb, consistent with\n either represent reflux secondary to obstruction from the intussusception or a\n fistula between the gastric remnant and the excluded stomach or components of\n both processes.\n\n 3.  Bilateral enhancing renal masses.  The largest one in the left upper pole\n demonstrates interval increase in size.  Findings are again concerning for\n renal cell carcinoma.\n\n 4.  Unchanged cystic pancreatic lesions.  Could be further assessed by MR [**First Name (Titles) **]\n[**Last Name (Titles) 50277**] indicated.\n\n 5.  Similar destructive appearance of L3-L4 compared to the prior L-spine CT\n study eight days ago.  Findings again may represent renal spondyloarthropathy\n but clinical correlation is necessary to exclude  osteomyelitis/discitis.\n\n 6.  Similar cholelithiasis and choledocholithiasis, without evidence of acute\n cholecystitis.\n\n Results provided as a wet read at the time of image acquisition and also\n discussed with Dr. [**Last Name (STitle) 50274**] on [**2167-7-7**] at 8:30 AM.\n\n"
+    },
+    {
+      "note_id": 1141953,
+      "category": "Radiology",
+      "description": "CT ABDOMEN W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 71,
+          "code": "74176",
+          "code_system": "CPT",
+          "description": "Computed tomography, abdomen and pelvis; without contrast material",
+          "type": "Human",
+          "covered_text": "CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST"
+        },
+        {
+          "begin": 347,
+          "end": 358,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 360,
+          "end": 372,
+          "code": "E16.2",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoglycemia, unspecified",
+          "type": "Human",
+          "covered_text": "hypoglycemia"
+        },
+        {
+          "begin": 470,
+          "end": 485,
+          "code": "R10.0",
+          "code_system": "ICD-10-CM",
+          "description": "Acute abdomen",
+          "type": "Human",
+          "covered_text": "abd catastrophe"
+        },
+        {
+          "begin": 732,
+          "end": 746,
+          "code": "K80.20",
+          "code_system": "ICD-10-CM",
+          "description": "Calculus of gallbladder without cholecystitis without obstruction",
+          "type": "Human",
+          "covered_text": "Cholelithiasis"
+        },
+        {
+          "begin": 752,
+          "end": 784,
+          "code": "K82.9",
+          "code_system": "ICD-10-CM",
+          "description": "Disease of gallbladder, unspecified",
+          "type": "Human",
+          "covered_text": "moderately distended gallbladder"
+        },
+        {
+          "begin": 907,
+          "end": 924,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 994,
+          "end": 1023,
+          "code": "I25.84",
+          "code_system": "ICD-10-CM",
+          "description": "Coronary atherosclerosis due to calcified coronary lesion",
+          "type": "Human",
+          "covered_text": "coronary artery calcification"
+        },
+        {
+          "begin": 1117,
+          "end": 1125,
+          "code": "R60.1",
+          "code_system": "ICD-10-CM",
+          "description": "Generalized edema",
+          "type": "Human",
+          "covered_text": "anasarca"
+        },
+        {
+          "begin": 1178,
+          "end": 1191,
+          "code": "K44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Diaphragmatic hernia without obstruction or gangrene",
+          "type": "Human",
+          "covered_text": "hiatal hernia"
+        },
+        {
+          "begin": 1586,
+          "end": 1598,
+          "code": "E16.2",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoglycemia, unspecified",
+          "type": "Human",
+          "covered_text": "hypoglycemia"
+        },
+        {
+          "begin": 1995,
+          "end": 2012,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 2253,
+          "end": 2295,
+          "code": "I34.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other nonrheumatic mitral valve disorders",
+          "type": "Human",
+          "covered_text": "aortic and mitral valvular\n calcifications"
+        },
+        {
+          "begin": 2775,
+          "end": 2784,
+          "code": "D73.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other diseases of spleen",
+          "type": "Human",
+          "covered_text": "hypodense"
+        },
+        {
+          "begin": 3402,
+          "end": 3413,
+          "code": "N28.1",
+          "code_system": "ICD-10-CM",
+          "description": "Cyst of kidney, acquired",
+          "type": "Human",
+          "covered_text": "renal cysts"
+        },
+        {
+          "begin": 3909,
+          "end": 3922,
+          "code": "K44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Diaphragmatic hernia without obstruction or gangrene",
+          "type": "Human",
+          "covered_text": "hiatal hernia"
+        },
+        {
+          "begin": 4382,
+          "end": 4417,
+          "code": "N32.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified disorders of bladder",
+          "type": "Human",
+          "covered_text": "chronic bladder outflow obstruction"
+        },
+        {
+          "begin": 4536,
+          "end": 4544,
+          "code": "R60.1",
+          "code_system": "ICD-10-CM",
+          "description": "Generalized edema",
+          "type": "Human",
+          "covered_text": "anasarca"
+        },
+        {
+          "begin": 5530,
+          "end": 5563,
+          "code": "M43.8X9",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified deforming dorsopathies, site unspecified",
+          "type": "Human",
+          "covered_text": "widening of\n intervertebral space"
+        },
+        {
+          "begin": 6229,
+          "end": 6243,
+          "code": "K80.20",
+          "code_system": "ICD-10-CM",
+          "description": "Calculus of gallbladder without cholecystitis without obstruction",
+          "type": "Human",
+          "covered_text": "Cholelithiasis"
+        },
+        {
+          "begin": 6249,
+          "end": 6281,
+          "code": "K82.9",
+          "code_system": "ICD-10-CM",
+          "description": "Disease of gallbladder, unspecified",
+          "type": "Human",
+          "covered_text": "moderately distended gallbladder"
+        },
+        {
+          "begin": 6468,
+          "end": 6485,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 6542,
+          "end": 6549,
+          "code": "R18.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other ascites",
+          "type": "Human",
+          "covered_text": "Ascites"
+        },
+        {
+          "begin": 6554,
+          "end": 6562,
+          "code": "R60.1",
+          "code_system": "ICD-10-CM",
+          "description": "Generalized edema",
+          "type": "Human",
+          "covered_text": "anasarca"
+        },
+        {
+          "begin": 6577,
+          "end": 6607,
+          "code": "I25.84",
+          "code_system": "ICD-10-CM",
+          "description": "Coronary atherosclerosis due to calcified coronary lesion",
+          "type": "Human",
+          "covered_text": "coronary artery calcifications"
+        }
+      ],
+      "text": "[**2167-7-7**] 1:06 AM\n CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 50273**]\n Reason: non-con.  r/o large intra-abdominal abscess, other abd catas\n Field of view: 44\n ______________________________________________________________________________\n [**Hospital 4**] MEDICAL CONDITION:\n  70M p/w hypotension, hypoglycemia from dialysis\n REASON FOR THIS EXAMINATION:\n  non-con.  r/o large intra-abdominal abscess, other abd catastrophe.\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: ENYa TUE [**2167-7-7**] 2:00 AM\n  1. Large entero-enteric intussuscpetion in LUQ.  No intra-abdominal abscess.\n  2. Cholelithiasis in a moderately distended gallbladder.  Cannot assess\n  gallbladder without IV contrast.   If concerned for acute cholecystitis,\n  recommend US.\n  3. Bilateral pleural effusions, moderate-to-large on the left, moderate on the\n  right.\n  4. Marked coronary artery calcification.  Marked vascular calcification\n  through the abdomen.\n  5. Moderate fecal load.\n  6. Marked anasarca.  Small amount of free fluid in the RLQ.\n  7. Small hiatal hernia.\n  8. Marked DJD.  Endplate erosion at L3/L4 with appearance of widening of\n  intervertebral disc space.  Cannot rule out osteomyelitis or abscess in the\n  absence of IV contrast. Recommend clinical correlation.\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  70-year-old male, presents with hypotension, hypoglycemia from\n dialysis.  Rule out large intra-abdominal abscess or other abdominal\n catastrophe.\n\n COMPARISON:  None.\n\n TECHNIQUE:  Non-contrast MDCT images were acquired from the lung bases to the\n pubic symphysis without either IV or oral contrast.  Multiplanar reformatted\n images were obtained for evaluation.\n\n CT ABDOMEN WITHOUT CONTRAST:  In the visualized lung bases, there are\n bilateral simple pleural effusions, moderate on the right and small on the\n left.  There are significant coronary calcifications in all visualized\n coronary arteries.  Dual-chamber pacemaker leads terminating in the right\n atrium and right ventricle, respectively.  Moderate aortic and mitral valvular\n calcifications are noted.  There is no significant pericardial effusion.\n\n The absence of IV contrast significantly limits evaluation of the\n intra-abdominal organs.  There are marked vascular calcifications in all major\n intra-abdominal vessels.  The liver is grossly normal without focal lesions.\n There are two gallstones layering in the dependent portion of a distended\n gallbladder.  Lack of IV contrast also limits evaluation of potential\n gallbladder wall thickening.\n\n There is a 12-mm hypodense lesion within the anterior aspect of the spleen,\n                                                             (Over)\n\n [**2167-7-7**] 1:06 AM\n CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 50273**]\n Reason: non-con.  r/o large intra-abdominal abscess, other abd catas\n Field of view: 44\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n non-specific, could represent a pseudocyst from prior trauma.  The adrenal\n glands and pancreas are grossly unremarkable.  There are bilateral renal cysts\n with the largest one in the right lower pole, exophytic and measuring 32 mm in\n diameter (image 300B:37). There is no hydronephrosis, hydroureter, or renal\n stone.\n\n In the left upper quadrant, there is a large entero-enteric intussusception,\n with the mesenteric fat telescoped into the bowel lumen.  The affected area\n measures approximately 9.8 x 5.9 x 7.9 cm (image 2:41 and 300B:32).  There has\n been prior gastric bypass and this is located at the distal entero-enteric\n anastomosis.\n\n A hiatal hernia is small.  The remainder portion of the small bowel is\n unremarkable.\n\n There is a small amount of free fluid in the intra-abdominal cavity and\n diffuse stranding of the abdominal wall consistent with anasarca.  Small\n mesenteric lymph nodes are not pathologically enlarged.  No free air is noted.\n\n CT PELVIS WITHOUT CONTRAST:  Marked fecal load is seen throughout the colon.\n The urinary bladder wall is mildly thickened, non-specific, but could\n represent chronic bladder outflow obstruction.  There is a small amount of\n free fluid pooling in the right lower quadrant/deep pelvis.\n Moderate-to-severe diffuse anasarca is noted throughout the abdominal and\n pelvic wall.\n\n BONE WINDOWS:  The patient has markedly degenerative changes throughout the\n spine.  Irregular endplate erosion at L3-4, with appearance of widening of the\n intervertebral disc space, is new from prior abdominopelvic CT of [**2167-4-25**] but unchanged from dedicated multiple CTs of lumbar spine most recently\n of [**2167-6-29**], and again may represent noninfective spondyloarthropathy\n although infectious process such as osteomyelitis or intervertebral abscess\n cannot be entirely excluded.  There is otherwise no worrisome lytic or\n sclerotic lesions for malignancy.\n\n IMPRESSION:\n\n 1.  Prior gastric bypass surgery with enteroenteric intussusception in the\n left upper quadrant at the distal anastomosis.  No evidence of proximal\n dilation of bowel to suggest obstruction at the time of the examination but\n correlation with physical examination is recommended.\n\n 2.  Destructive change of L3-4 endplates with appearance of widening of\n intervertebral space, unchanged from CT of lumbar spine of [**2167-6-29**], may\n again represent noninfective spondyloarthropathy although superimposed\n infection (discitis/osteomyelitis) cannot be entirely excluded and clinical\n                                                             (Over)\n\n [**2167-7-7**] 1:06 AM\n CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 50273**]\n Reason: non-con.  r/o large intra-abdominal abscess, other abd catas\n Field of view: 44\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n correlation is necessary.\n\n 3.  Cholelithiasis in a moderately distended gallbladder.  Cannot assess\n gallbladder wall without IV contrast.  If concern for acute cholecystitis,\n recommend ultrasound or HIDA. Unchanged probable stone or sludge in the CBD.\n\n 4.  Bilateral pleural effusions, moderate to large on the left and small on\n the right. Ascites and anasarca.\n\n 5.  Marked coronary artery calcifications.  Marked vascular calcifications\n throughout the abdomen.\n\n Results provided as a wet read at the time of image acquisition and also\n discussed with Dr. [**Last Name (STitle) 50274**] on [**2167-7-7**] at 8:30 AM.\n\n\n\n\n\n"
+    },
+    {
+      "note_id": 1141954,
+      "category": "Radiology",
+      "description": "CHEST (SINGLE VIEW)",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (SINGLE VIEW)"
+        },
+        {
+          "begin": 511,
+          "end": 522,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 527,
+          "end": 539,
+          "code": "E16.2",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoglycemia, unspecified",
+          "type": "Human",
+          "covered_text": "hypoglycemia"
+        },
+        {
+          "begin": 780,
+          "end": 809,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "cardiomediastinal\n silhouette"
+        },
+        {
+          "begin": 917,
+          "end": 937,
+          "code": "J68.1",
+          "code_system": "ICD-10-CM",
+          "description": "Pulmonary edema due to chemicals, gases, fumes and vapors",
+          "type": "Human",
+          "covered_text": "Pulmonary congestion"
+        },
+        {
+          "begin": 1258,
+          "end": 1283,
+          "code": "J68.1",
+          "code_system": "ICD-10-CM",
+          "description": "Pulmonary edema due to chemicals, gases, fumes and vapors",
+          "type": "Human",
+          "covered_text": "Mild pulmonary congestion"
+        }
+      ],
+      "text": "[**2167-7-7**] 1:18 AM\n CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 50275**]\n Reason: r/o pna\n ______________________________________________________________________________\n [**Hospital 4**] MEDICAL CONDITION:\n  70M p/w hypotension, hypoglycemia\n REASON FOR THIS EXAMINATION:\n  r/o pna\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  70-year-old male presenting with hypotension and hypoglycemia.  Rule\n out pneumonia.\n\n COMPARISON:  Multiple prior chest radiographs, with the latest on [**2167-4-24**].\n\n SINGLE AP CHEST RADIOGRAPH:  The study is limited by low lung volumes and\n motion artifacts.  Allowing for these limitations, the cardiomediastinal\n silhouette is unchanged with a tortuous aorta.  Bronchovascular crowding is\n noted with left lower lobe atelectasis.  Pulmonary congestion is mild.  No\n definite focal airspace consolidations are noted.  No pneumothorax is noted.\n A new large bore catheter near the right subclavian approach terminates in the\n right atrium.  Multiple fractured median sternotomy wires are unchanged.\n There is interval removal of the left PICC.\n\n IMPRESSION:  No pneumonia.  Mild pulmonary congestion.\n\n"
+    },
+    {
+      "note_id": 1143230,
+      "category": "Radiology",
+      "description": "PICC W/O PORT",
+      "annotations": [
+        {
+          "begin": 224,
+          "end": 235,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "HYPOTENSION"
+        },
+        {
+          "begin": 665,
+          "end": 675,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "ESRD on HD"
+        },
+        {
+          "begin": 693,
+          "end": 696,
+          "code": "I12.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 723,
+          "end": 749,
+          "code": "T81.44XD",
+          "code_system": "ICD-10-CM",
+          "description": "Sepsis following a procedure, subsequent encounter",
+          "type": "Human",
+          "covered_text": "complicatiosn of urosepsis"
+        },
+        {
+          "begin": 1033,
+          "end": 1072,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "end-stage renal disease on hemodialysis"
+        },
+        {
+          "begin": 1075,
+          "end": 1083,
+          "code": "E11.22",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with diabetic chronic kidney disease",
+          "type": "Human",
+          "covered_text": "diabetes"
+        },
+        {
+          "begin": 1085,
+          "end": 1088,
+          "code": "E11.59",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with other circulatory complications",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 1090,
+          "end": 1102,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 3598,
+          "end": 3609,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "HYPOTENSION"
+        }
+      ],
+      "text": "[**2167-7-14**] 2:32 PM\n PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 50278**]\n Reason: Has HD line on right and Central IJ on left.  PICC placement\n Admitting Diagnosis: HYPOTENSION\n  Contrast: OPTIRAY Amt: 25\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 447**] PICC W/O [**Numeric Identifier 448**] FLUORO GUID PLCT/REPLCT/REMOVE   *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 4**] MEDICAL CONDITION:\n  70 year old man with ESRD on HD, diabetes, sCHF, HTN, discitis, admitted for\n  complicatiosn of urosepsis.\n REASON FOR THIS EXAMINATION:\n  Has HD line on right and Central IJ on left.  PICC placement too difficult at\n  bedside.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  70-year-old man with end-stage renal disease on hemodialysis,\n diabetes, CHF, hypertension and discitis, admitted for complication of\n urosepsis.  Pre-existing hemodialysis line on the right and central IJ on\n left.  For PICC placement, too difficult at bedside.\n\n RADIOLOGISTS:  Dr. [**First Name (STitle) 596**] performed the procedure.  Dr. [**Last Name (STitle) 192**], the\n attending radiologist, was present and supervised throughout.\n\n TECHNIQUE:  Using sterile technique and 1% lidocaine for local anesthesia, the\n left brachial vein was punctured under direct ultrasound guidance using a\n micropuncture set.  Hard copies of ultrasound images were obtained before and\n immediately after establishing intravenous access.  A 0.018 guidewire was\n advanced into the left subclavian vein, but stopped more proximally.  A 0.018\n nitinol and angled Glidewire were used in an attempt to pass this obstructed\n area into the SVC.  These attempts failed.  Next, a 5 French 40-cm Kumpe\n catheter was advanced and a 0.016 Headliner used attempt to pass this\n apparently occluded area.  This was unsuccessful.  Injection of contrast\n indicated occlusion of the more proximal SVC with contrast seen in the azygos\n system.  The fluoro team was consulted and representative for Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2622**]\n indicated that a midline would be sufficient for the medical needs of the\n patient.  Therefore, a peel-away sheath was placed over a guidewire and a PICC\n line measuring 26 cm in length placed through the peel-away sheath with its\n tip positioned in the mid subclavian vein under fluoroscopic guidance.\n Position of the catheter was confirmed by fluoroscopic spot film of the chest.\n The peel-away sheath and guidewire were then removed.  The catheter was\n secured to the skin, flushed, and a sterile dressing applied.  The patient\n tolerated the procedure well.  There were no immediate complications.\n\n IMPRESSION:  Complicated ultrasound and fluoroscopically left double-lumen\n PICC line placement via the left brachial venous approach.  There is apparent\n occlusion of the proximal subclavian vein at its confluence with the SVC.\n Final internal PICC length is 26 cm with the tip positioned in the subclavian\n vein.  The line is ready to use.\n\n                                                             (Over)\n\n [**2167-7-14**] 2:32 PM\n PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 50278**]\n Reason: Has HD line on right and Central IJ on left.  PICC placement\n Admitting Diagnosis: HYPOTENSION\n  Contrast: OPTIRAY Amt: 25\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n"
+    }
+  ]
+}

@@ -1,0 +1,1177 @@
+{
+  "hadm_id": 120468,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 537849,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 35,
+          "end": 49,
+          "code": "K57.30",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of large intestine without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 63,
+          "end": 71,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon ca"
+        },
+        {
+          "begin": 79,
+          "end": 92,
+          "code": "Z90.49",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of other specified parts of digestive tract",
+          "type": "Human",
+          "covered_text": "hemicolectomy"
+        },
+        {
+          "begin": 3542,
+          "end": 3550,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon CA"
+        },
+        {
+          "begin": 3623,
+          "end": 3631,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleed"
+        },
+        {
+          "begin": 3680,
+          "end": 3694,
+          "code": "K26.4",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic or unspecified duodenal ulcer with hemorrhage",
+          "type": "Human",
+          "covered_text": "duodenal ulcer"
+        },
+        {
+          "begin": 3770,
+          "end": 3778,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon ca"
+        },
+        {
+          "begin": 3785,
+          "end": 3799,
+          "code": "K57.30",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of large intestine without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 4201,
+          "end": 4212,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's"
+        }
+      ],
+      "text": "Chief Complaint: 85y/o m w/ hx AD, diverticulosis, recently dx colon ca\n   s.p hemicolectomy (91/15/08) p/w dark stools and dropping Hct (30\n   -->26-->23).\n   24 Hour Events:\n   No sig events overnight\n   History obtained from Patient\n   Allergies:\n   History obtained from PatientTetanus Antitoxin\n   Unknown;\n   Aspirin\n   Unknown;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Changes to medical and family history:\n   Pt denied light-headness, dizziness, CP, SOB, abdominal pain,\n   F/C/N/V/D.\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Constitutional: No(t) Fever\n   Cardiovascular: No(t) Chest pain, No(t) Palpitations\n   Respiratory: No(t) Cough, No(t) Dyspnea\n   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,\n   No(t) Diarrhea, No(t) Constipation\n   Flowsheet Data as of  [**2124-10-25**] 07:28 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.3\nC (99.2\n   Tcurrent: 37.3\nC (99.2\n   HR: 69 (64 - 78) bpm\n   BP: 150/73(91) {128/39(65) - 150/99(103)} mmHg\n   RR: 16 (16 - 24) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                  2,375 mL\n                                                                  1,020 mL\n   PO:\n                                                                    100 mL\n             TF:\n   IVF:\n                                                                    275 mL\n                                                                  1,020 mL\n   Blood products:\n   Total out:\n                                                                     55 mL\n                                                                  1,150 mL\n   Urine:\n                                                                     55 mL\n                                                                  1,150 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  2,320 mL\n                                                                   -130 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SpO2: 100%\n   ABG: ////\n   Physical Examination\n   General Appearance: No acute distress, Thin\n   Eyes / Conjunctiva: PERRL, No(t) Conjunctiva pale\n   Head, Ears, Nose, Throat: Normocephalic\n   Lymphatic: Cervical WNL, Supraclavicular WNL\n   Cardiovascular: (S1: Normal), (S2: Normal), RRR\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Tender: ,\n   healing colectomy scar, no erythema, tenderness, bleeding, oozing.\n   Extremities: Right: Absent, Left: Absent\n   Skin:  Not assessed\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Oriented (to): only new year and thought he was at [**Hospital1 966**],\n   Movement: Purposeful, Tone: Normal\n   Labs / Radiology\n   593 K/uL\n   7.4 g/dL\n   24.0 %\n   9.7 K/uL\n        [image002.jpg]\n                             [**2124-10-24**]  11:35 PM\n   WBC\n   9.7\n   Hct\n   24.0\n   Plt\n   593\n   Other labs: PT / PTT / INR:14.4/27.2/1.3\n   Assessment and Plan\n   A/P: 85 yo M with PMH of colon CA s/p resection now presenting with\n   black stools and HCT drop.\n   .\n   GI bleed: NG lavage was negative in ED, however, pt with duodenal ulcer\n   on EGD [**8-1**]. Possibly recent PUD vs anastomotic site vs [**2-26**] colon ca vs\n   diverticulosis.  Hct currently stable at 24, AM Hct pending.\n   - plan for EGD\n   - q 6hr HCTs\n   - IVF boluses for low UO or hypotension\n   - IV PPI [**Hospital1 **]\n   - F/U GI recs\n   - Type and crossmatch 2U [**Last Name (LF) 825**], [**First Name3 (LF) 116**] transfuse if Hct cont to drop\n   -  NPO\n   - Previous discussed PEG placement with GI on [**10-17**]\n will follow up\n   with GI regarding plan\n   .\n   Alzheimer's:  pt with baseline dementia.  Pt oriented to self, but not\n   time or place.\n   - continue namenda and aricept\n   - will speak with family regarding baseline dementia\n   .\n   FEN: NPO, replete lytes PRN, IVFs\n   .\n   PPX: IV PPI, bowel regimen\n   .\n   ACCESS: PIV, L EJ\n   .\n   CODE: FULL\n   .\n   CONTACT: [**Name (NI) **], [**Name (NI) **] [**Name (NI) 177**] C [**Telephone/Fax (1) 957**]\n   .\n   DISPO: ICU level care for now\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2124-10-24**] 09:40 PM\n   18 Gauge - [**2124-10-24**] 10:30 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition:\n"
+    },
+    {
+      "note_id": 288977,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 95,
+          "end": 102,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "tracing"
+        }
+      ],
+      "text": "Technically difficult study\nSinus rhythm\nLateral T wave changes are nonspecific\nSince previous tracing of [**2124-9-27**], no significant change\n\n"
+    },
+    {
+      "note_id": 1038180,
+      "category": "Radiology",
+      "description": "ABDOMEN (SUPINE & ERECT)",
+      "annotations": [
+        {
+          "begin": 123,
+          "end": 147,
+          "code": "74022",
+          "code_system": "CPT",
+          "description": "Radiologic examination, complete acute abdomen series, including 2 or more views of the abdomen (eg, supine, erect, decubitus), and a single view chest",
+          "type": "Human",
+          "covered_text": "ABDOMEN (SUPINE & ERECT)"
+        },
+        {
+          "begin": 287,
+          "end": 296,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "LOWER GIB"
+        },
+        {
+          "begin": 437,
+          "end": 449,
+          "code": "E46",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified protein-calorie malnutrition",
+          "type": "Human",
+          "covered_text": "malnutrition"
+        },
+        {
+          "begin": 899,
+          "end": 915,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        }
+      ],
+      "text": "[**Last Name (LF) **],[**First Name3 (LF) 22124**] L.                MED 11R                    [**2124-10-30**] 12:08 PM\n ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 92269**]\n Reason: assess position of G tube\n Admitting Diagnosis: LOWER GIB\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old man with malnutrition, G tube previously seen in esophagus, now\n  pulled back, please reassess position\n REASON FOR THIS EXAMINATION:\n  assess position of G tube\n ______________________________________________________________________________\n                                  PFI REPORT\n G-tube appears retracted although its exact tip is unable to be definitely\n seen without any oral contrast within the tube itself.  No evidence of\n pneumoperitoneum.  A layering left pleural effusion.\n\n"
+    },
+    {
+      "note_id": 1037909,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 27,
+          "end": 45,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 339,
+          "end": 345,
+          "code": "Z86.73",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "stroke"
+        },
+        {
+          "begin": 614,
+          "end": 630,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        },
+        {
+          "begin": 820,
+          "end": 826,
+          "code": "Z86.73",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "stroke"
+        }
+      ],
+      "text": "[**2124-10-28**] 10:00 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 93753**]\n Reason: Please evaluate for PNA.\n Admitting Diagnosis: LOWER GIB\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old man s/p stroke with recurrent coughing.\n REASON FOR THIS EXAMINATION:\n  Please evaluate for PNA.\n ______________________________________________________________________________\n PROVISIONAL FINDINGS IMPRESSION (PFI): JRld SUN [**2124-10-29**] 9:34 AM\n  Low lung volumes.  Small left pleural effusion and atelectasis are on the left\n  base.\n ______________________________________________________________________________\n                                 FINAL REPORT\n REASON FOR EXAM:  S/P stroke with recurrent coughing.\n\n Minimal basal atelectasis.  There are low lung volumes.  Cardiac size is top\n normal. The aorta is elongated.\n\n\n         DR. [**First Name (STitle) 31156**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 31157**]\n"
+    },
+    {
+      "note_id": 1038085,
+      "category": "Radiology",
+      "description": "CT ABDOMEN W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 49,
+          "code": "74150",
+          "code_system": "CPT",
+          "description": "Computed tomography, abdomen; without contrast material",
+          "type": "Human",
+          "covered_text": "CT ABDOMEN W/O CONTRAST"
+        },
+        {
+          "begin": 220,
+          "end": 229,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "LOWER GIB"
+        },
+        {
+          "begin": 1427,
+          "end": 1443,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        },
+        {
+          "begin": 1717,
+          "end": 1747,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "coronary artery calcifications"
+        },
+        {
+          "begin": 3220,
+          "end": 3243,
+          "code": "74150",
+          "code_system": "CPT",
+          "description": "Computed tomography, abdomen; without contrast material",
+          "type": "Human",
+          "covered_text": "CT ABDOMEN W/O CONTRAST"
+        },
+        {
+          "begin": 3414,
+          "end": 3423,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "LOWER GIB"
+        },
+        {
+          "begin": 3664,
+          "end": 3677,
+          "code": "Z90.49",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of other specified parts of digestive tract",
+          "type": "Human",
+          "covered_text": "hemicolectomy"
+        },
+        {
+          "begin": 4526,
+          "end": 4543,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 4592,
+          "end": 4612,
+          "code": "I31.3",
+          "code_system": "ICD-10-CM",
+          "description": "Pericardial effusion (noninflammatory)",
+          "type": "Human",
+          "covered_text": "pericardial effusion"
+        }
+      ],
+      "text": "[**2124-10-29**] 8:57 PM\n CT ABDOMEN W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 93490**]\n Reason: CT abd w/ PO contrast to evaluate placement of PEG tube\n Admitting Diagnosis: LOWER GIB\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old man with recent PEG tube placement, PEG study shows contrast going\n  into esophagus\n REASON FOR THIS EXAMINATION:\n  CT abd w/ PO contrast to evaluate placement of PEG tube\n No contraindications for IV contrast\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  Recent percutaneous gastrostomy placement.  Evaluate placement.\n\n COMPARISON:  CT torso of [**2124-9-13**] and abdomen radiograph of [**2124-10-29**].\n\n TECHNIQUE:  Contiguous axial images from the mid chest through the abdomen\n were obtained without IV contrast.  Coronal and sagittal reformatted images\n were generated.\n\n PRELIMINARY REPORT:  Gastrostomy tube terminates in the esophagus,\n repositioning is recommended.  Filling defect in the mid esophagus.  Bilateral\n pleural effusions, right greater than left.  Small right lung base\n consolidation.  Large bilateral renal cysts.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 36087**].\n\n CT ABDOMEN WITHOUT IV CONTRAST:  There is a moderate right pleural effusion\n and small left pleural effusion, simple in attenuation.  There is adjacent\n atelectasis and/or consolidation within a portion of the posterior right lung\n base.  There is a small pericardial effusion.  All effusions are increased\n since [**2124-8-25**].  There are coarse coronary artery calcifications,\n particularly involving the LAD.\n\n In the epigastric region, a percutaneous gastrostomy has been placed into the\n gastric antrum.  The tube courses cephalad through the body of the stomach,\n through the gastroesophageal junction, and with the tip into the lowermost\n esophagus. Oral contrast has been administered via the gastrostomy tube, which\n opacifies the lower esophagus.  Within the lumen of the uppermost imaged\n esophagus (at the level of the carina), there is a round soft tissue\n attenuation structure with air, which may represent retained food.  Small\n amounts of oral contrast are seen within the gastric lumen.\n\n The non-contrast appearance of the liver is unremarkable except for the\n occasional calcified granuloma. Minimal high-density material is seen\n dependently within the gallbladder, possibly representing layering stones.\n Multiple calcified granulomas are seen in the spleen.  A splenule is noted.\n The non-contrast appearance of the pancreas is unremarkable.  The adrenal\n glands are minimally bulky, without a focal mass lesion, unchanged. There is\n no hydronephrosis of the kidneys. Bilateral renal cysts are noted, which are\n unchanged in appearance.  The previously described hyperenhancing focus in the\n lower pole of the right kidney is not apparent on non-contrast imaging.\n\n The abdominal aorta is normal in caliber, with moderately-severe\n                                                             (Over)\n\n [**2124-10-29**] 8:57 PM\n CT ABDOMEN W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 93490**]\n Reason: CT abd w/ PO contrast to evaluate placement of PEG tube\n Admitting Diagnosis: LOWER GIB\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n atherosclerotic calcification, particularly involving the origin of the SMA.\n\n The patient is post-right hemicolectomy. Oral contrast opacifies the remaining\n portion of the colon, or several diverticula are seen. Visualized small bowel\n loops also contains some oral contrast, but are otherwise unremarkable.  There\n is no free air in the abdomen.  There is no free fluid. Small retroperitoneal\n nodes are seen adjacent to the IVC measuring up to about 7 cm size (2:36).\n These are not markedly changed from the prior examination.\n\n No concerning osseous lesions are seen.\n\n IMPRESSION:\n 1.  The gastrostomy tube has been placed percutaneously into the gastric\n antrum, but the tube is oriented cephalad, with the tip in the lowermost\n esophagus. Oral contrast is seen within the lower half of the esophagus, and a\n rounded structure within the lumen of the mid esophagus at the level of the\n carina likely represents retained food.\n 2.  Increased size of bilateral pleural effusions, right greater than left,\n and there is a small pericardial effusion.\n 3.  Diffuse atherosclerotic disease as described.\n\n Findings reviewed with the GI fellow on [**2124-10-30**].\n\n"
+    },
+    {
+      "note_id": 46775,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 197,
+          "end": 205,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleed"
+        },
+        {
+          "begin": 348,
+          "end": 362,
+          "code": "K57.90",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of intestine, part unspecified, without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 405,
+          "end": 418,
+          "code": "Z90.49",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of other specified parts of digestive tract",
+          "type": "Human",
+          "covered_text": "hemicolectomy"
+        },
+        {
+          "begin": 1045,
+          "end": 1056,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's"
+        },
+        {
+          "begin": 1078,
+          "end": 1088,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 2499,
+          "end": 2516,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 2770,
+          "end": 2786,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        },
+        {
+          "begin": 3020,
+          "end": 3050,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "coronary artery calcifications"
+        },
+        {
+          "begin": 4531,
+          "end": 4544,
+          "code": "Z90.49",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of other specified parts of digestive tract",
+          "type": "Human",
+          "covered_text": "hemicolectomy"
+        },
+        {
+          "begin": 5388,
+          "end": 5405,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 5453,
+          "end": 5473,
+          "code": "I31.3",
+          "code_system": "ICD-10-CM",
+          "description": "Pericardial effusion (noninflammatory)",
+          "type": "Human",
+          "covered_text": "pericardial effusion"
+        },
+        {
+          "begin": 6236,
+          "end": 6247,
+          "code": "K29.80",
+          "code_system": "ICD-10-CM",
+          "description": "Duodenitis without bleeding",
+          "type": "Human",
+          "covered_text": "duodenitis."
+        },
+        {
+          "begin": 7293,
+          "end": 7306,
+          "code": "Z90.49",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of other specified parts of digestive tract",
+          "type": "Human",
+          "covered_text": "hemicolectomy"
+        },
+        {
+          "begin": 7357,
+          "end": 7380,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "acute\nblood loss anemia"
+        },
+        {
+          "begin": 7385,
+          "end": 7397,
+          "code": "E46",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified protein-calorie malnutrition",
+          "type": "Human",
+          "covered_text": "malnutrition"
+        },
+        {
+          "begin": 8554,
+          "end": 8565,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's"
+        },
+        {
+          "begin": 8566,
+          "end": 8574,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "Dementia"
+        },
+        {
+          "begin": 9045,
+          "end": 9059,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "Adenocarcinoma"
+        },
+        {
+          "begin": 9594,
+          "end": 9602,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleed"
+        },
+        {
+          "begin": 10897,
+          "end": 10920,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Acute Blood Loss Anemia"
+        },
+        {
+          "begin": 10990,
+          "end": 11002,
+          "code": "E46",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified protein-calorie malnutrition",
+          "type": "Human",
+          "covered_text": "Malnutrition"
+        },
+        {
+          "begin": 11004,
+          "end": 11024,
+          "code": "Z98.890",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified postprocedural states",
+          "type": "Human",
+          "covered_text": "s/p G tube placement"
+        },
+        {
+          "begin": 11039,
+          "end": 11053,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "Adenocarcinoma"
+        },
+        {
+          "begin": 11058,
+          "end": 11071,
+          "code": "Z90.49",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of other specified parts of digestive tract",
+          "type": "Human",
+          "covered_text": "hemicolectomy"
+        },
+        {
+          "begin": 11092,
+          "end": 11132,
+          "code": "C77.2",
+          "code_system": "ICD-10-CM",
+          "description": "Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes",
+          "type": "Human",
+          "covered_text": "metastatic\nto 1 out of three lymph nodes"
+        },
+        {
+          "begin": 11332,
+          "end": 11343,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's"
+        },
+        {
+          "begin": 11344,
+          "end": 11352,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "Dementia"
+        }
+      ],
+      "text": "Admission Date:  [**2124-10-24**]              Discharge Date:   [**2124-10-31**]\n\n\nService: MEDICINE\n\nAllergies:\nTetanus Antitoxin / Aspirin\n\nAttending:[**First Name3 (LF) 759**]\nChief Complaint:\nGI bleed and decreased po intake\n\nMajor Surgical or Invasive Procedure:\nPercutaneous G- tube placement\n\n\nHistory of Present Illness:\n85 yo m w/ hx AD, diverticulosis, recently diagnosed colon CA,\nstatus post hemicolectomy on [**2124-10-9**] presents with dark stools.\nHCTs have trended down from 30 at NH --> 26--> 23.\n\nIn the ED, VS: T 99.2 HR 67 BP 146/69 RR 18 99% RA. NG lavage\nwas negative. Patient was transferred to [**Hospital Unit Name 153**] for further\nmonitoring with plan for EGD in AM.\n\nPast Medical History:\n1) Colon ca s/p r colectomy [**2124-10-9**] - mucinous adenocarcinoma\nwith 1 out of three lymph nodes positive\n2) diverticulosis\n3) right knee and shoulder surgery\n4) benign prostatic hypertrophy s/p TURP with history of ARF\nattributed to post-obstructive uropathy, requiring transient\nindwelling Foley\n5) nephrolithiasis\n6) Alzheimer's\n7) Chronic anemia\n8) Depression\n\nSocial History:\nLives in [**Location 2299**] Nursing House. No smoking. Minimal alcohol use.\n Formerly in the Navy, worked as a tailgunner during WW2.\n\nFamily History:\n2 brothers died of lung cancer, one brother died of colon cancer\n\nPhysical Exam:\nVS: Afebrile, HR 70, BP 140/76, 98%RA\nGEN: Elderly man, pleasant, in NAD\nHEENT: EOMI, PERRL\nNECK: Supple, JVP at clavicle\nCV: RRR, S1S2, no m/r/g\nABD: Soft/ NT/ ND, +BS\nEXT: warm, no cyanosis or edema\nSKIN: no rashes\nNEURO: AAO x 2: [**Hospital **] hospital ([**Hospital1 756**]); CN ii-Xii intact\n\nPertinent Results:\n[**2124-10-31**] 10:30AM BLOOD WBC-9.0 RBC-4.12* Hgb-10.6* Hct-33.4*\nMCV-81* MCH-25.8* MCHC-31.7 RDW-17.1* Plt Ct-474*\n[**2124-10-31**] 10:30AM BLOOD Glucose-115* UreaN-6 Creat-0.8 Na-144\nK-4.0 Cl-112* HCO3-24 AnGap-12\n[**2124-10-29**] 12:15AM BLOOD ALT-8 AST-19 AlkPhos-73 Amylase-81\nTotBili-0.5\n[**2124-10-31**] 10:30AM BLOOD TSH-1.5\n\n<b> CT ABDOMEN<b/>\nINDICATION: Recent percutaneous gastrostomy placement. Evaluate\nplacement.\n<br>\nCOMPARISON: CT torso of [**2124-9-13**] and abdomen radiograph of\n[**2124-10-29**].\n  <br>\nTECHNIQUE: Contiguous axial images from the mid chest through\nthe abdomen\nwere obtained without IV contrast. Coronal and sagittal\nreformatted images\nwere generated.\n  <br>\nPRELIMINARY REPORT: Gastrostomy tube terminates in the\nesophagus,\nrepositioning is recommended. Filling defect in the mid\nesophagus. Bilateral pleural effusions, right greater than left.\nSmall right lung base consolidation. Large bilateral renal\ncysts. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **].\n  <br>\nCT ABDOMEN WITHOUT IV CONTRAST: There is a moderate right\npleural effusion\nand small left pleural effusion, simple in attenuation. There is\nadjacent\natelectasis and/or consolidation within a portion of the\nposterior right lung base. There is a small pericardial\neffusion. All effusions are increased since [**2124-8-25**]. There\nare coarse coronary artery calcifications, particularly\ninvolving the LAD.\n  <br>\nIn the epigastric region, a percutaneous gastrostomy has been\nplaced into the gastric antrum. The tube courses cephalad\nthrough the body of the stomach, through the gastroesophageal\njunction, and with the tip into the lowermost esophagus. Oral\ncontrast has been administered via the gastrostomy tube, which\nopacifies the lower esophagus. Within the lumen of the uppermost\nimaged esophagus (at the level of the carina), there is a round\nsoft tissue attenuation structure with air, which may represent\nretained food. Small amounts of oral contrast are seen within\nthe gastric lumen.\n  <br>\nThe non-contrast appearance of the liver is unremarkable except\nfor the\noccasional calcified granuloma. Minimal high-density material is\nseen\ndependently within the gallbladder, possibly representing\nlayering stones.\nMultiple calcified granulomas are seen in the spleen. A splenule\nis noted.\nThe non-contrast appearance of the pancreas is unremarkable. The\nadrenal\nglands are minimally bulky, without a focal mass lesion,\nunchanged. There is no hydronephrosis of the kidneys. Bilateral\nrenal cysts are noted, which are unchanged in appearance. The\npreviously described hyperenhancing focus in the lower pole of\nthe right kidney is not apparent on non-contrast imaging.\n  <br>\nThe abdominal aorta is normal in caliber, with moderately-severe\n\natherosclerotic calcification, particularly involving the origin\nof the SMA.\n  <br>\nThe patient is post-right hemicolectomy. Oral contrast opacifies\nthe remaining portion of the colon, or several diverticula are\nseen. Visualized small bowel loops also contains some oral\ncontrast, but are otherwise unremarkable. There is no free air\nin the abdomen. There is no free fluid. Small retroperitoneal\nnodes are seen adjacent to the IVC measuring up to about 7 cm\nsize (2:36). These are not markedly changed from the prior\nexamination.\n  <br>\nNo concerning osseous lesions are seen.\n  <br>\nIMPRESSION:\n1. The gastrostomy tube has been placed percutaneously into the\ngastric\nantrum, but the tube is oriented cephalad, with the tip in the\nlowermost\nesophagus. Oral contrast is seen within the lower half of the\nesophagus, and a rounded structure within the lumen of the mid\nesophagus at the level of the carina likely represents retained\nfood.\n2. Increased size of bilateral pleural effusions, right greater\nthan left,\nand there is a small pericardial effusion.\n3. Diffuse atherosclerotic disease as described.\n\nFindings reviewed with the GI fellow on [**2124-10-30**].\n\nThe study and the report were reviewed by the staff radiologist.\n\n\nDR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 4346**]\nDR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]\nApproved: TUE [**2124-10-31**] 2:44 AM\n<br>\n<br>\n<b>EGD from admission:<b/>\nFindings: Esophagus: Normal esophagus.\nStomach:  Mucosa: Atrophy of the mucosa was noted in the antrum.\n\nDuodenum:  Protruding Lesions There was a question of a small\nsub-mucosal mass of benign appearance at the duodenal bulb.\nExcavated Lesions A few ulcers were found in the duodenal bulb\nas well as duodenitis. These were considered low risk for\nbleeding.  Other procedures: As ulcers and duodenitis were\nconsidered low risk, decision was made to proceed with PEG\nplacement. A 20FR percutaneous gastrostomy tube (PEG) was placed\nsuccessfully using standard techniques at the stomach body.\n <br>\nImpression: Atrophy in the antrum\nLow risk ulcers and duodenitis in the duodenal bulb\nSuccessful PEG placement (PEG)\nQuestion of small submucosal mass in duodenal bulb.\nOtherwise normal EGD to third part of the duodenum\nRecommendations: High dose protonix 40 mg twice a day\nPlease check H. Pylori serology and treat if positive\nNo further intervention for now for question of submucosal mass\nunless symptomatic or further bleeding.\n[**Month (only) 116**] use tube for essential meds if needed tonight. Can start\ntube feeding tomorrow.\nDuodenitis and ulcer may have accounted for slow hct decline.\n<br>\n\nBrief Hospital Course:\nMr. [**Known lastname **] is a 85 year old man with a history of Alzheimer's,\ndiverticulosis, recently diagnosed colon CA, status post\nhemicolectomy on [**2124-10-9**] presented with dark stools and acute\nblood loss anemia and malnutrition from The [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **].\n\nIn the [**Last Name (LF) **], [**First Name3 (LF) **] NG lavage was negative by report.  He was\ninitially admitted to the Medical ICU, and given 2 Units of\nPRBCs.  He was hemodynamically stable and underwent EGD,\nrevealing:  \"Atrophy in the antrum, Low risk ulcers and\nduodenitis in the duodenal bulb, Successful PEG placement (PEG),\nQuestion of small submucosal mass in duodenal bulb, Otherwise\nnormal EGD to third part of the duodenum.\"  It was felt these\nulcers were likely accounting for the blood loss and occult\nblood positive stools.  H. pylori Ab was positive and he was\nstarted on antimicrobial therapy as well as twice daily PPI\ntreatment.\n<br>\nMr. [**Known lastname **] was called out of the unit to the general medical\nfloor.  Once on the General Medical Floor, he had trouble\ntolerating his TFs initially with emesis and nausea.  CT scan\nrevealed the G tube curled up proximally into the esophagus.\nThe GI Fellow pulled the tube back and abdominal x-ray showed it\nno longer in the esophagus.  TFs were resumed and the patient\nhad no difficuties thereafter.\n<br>\nAlzheimer's Dementia and Depression:  Pt oriented to self, but\nnot place or time. He was continued on Namenda and Aricept per\nhome regimen. He was continued on his mirtazapine and his TSH\nwas normal.\n<br>\nSubmucosal Mass seen on EGD:  Unclear if this requires\nfollow-up.  See EGD report attached.\n<br>\nRemaining open surgical wound:  minimal opening, excellent\ngranulation tissue, no evidence for infection, appears to be\nhealing well.  Continue conservative care as directed.\n<br>\nMucinous Adenocarcinoma with 1/3 positive lymph nodes,\nadenopathy seen on CT scan:  Consider outpatient follow up with\nGI oncology if patient/family desire.  I personally discussed\nthe above findings and recommendations with the patient's HCP\nand son [**Name (NI) **] [**Name (NI) **] [**Telephone/Fax (1) 99269**] and his questions were\nanswered to his apparent satisfaction.\n<br>\nDuring the patient's admission, he was a FULL CODE.  You may\nconsider readdressing this in the future.\n<br>\nPlease note, the patient may have some dark stools given his\nrecent GI bleed, but this should resolve over time.  You may\nconsider checking a Hct if you are concerned that he is bleeding\nagain, though the suspicion that his duodenal ulcers will bleed\nany more is small as he is on treatment for H. pylori and a high\ndose PPI.\n\nMedications on Admission:\nRemeron 15mg qHS\nOmeprazole 20 mg PO bid\nCelexa 20mg daily\nAricept 10mg daily\nNamenda 10mg daily\nSenna\nFerrous sulfate\n\nDischarge Medications:\n1. Donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).\n\n2. Memantine 5 mg Tablet Sig: Two (2) Tablet PO daily ().\n3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day) as needed: hold for loose stools.\n4. Acetaminophen 500 mg Capsule Sig: [**1-26**] Capsules PO Q 8 hours\nas needed.\n5. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime).\n6. Amoxicillin 250 mg Capsule Sig: Four (4) Capsule PO Q12H\n(every 12 hours) for 10 days.\n7. Clarithromycin 250 mg Tablet Sig: Two (2) Tablet PO BID (2\ntimes a day) for 10 days.\n8. Protonix 40 mg Susp,Delayed Release for Recon Sig: Forty (40)\nmg PO twice a day.\n9. Ferrous Sulfate 300 mg (60 mg Iron)/5 mL Liquid Sig: Three\nHundred (300) mg PO DAILY (Daily).\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 1186**] - [**Location (un) 538**]\n\nDischarge Diagnosis:\nPrimary:\n1) Acute Blood Loss Anemia - likely secondary to duodenal\nulcerations, H. pylori Ab positive\n2) Malnutrition, s/p G tube placement\n\nSecondary:\n--Adenocarcinoma s/p hemicolectomy in [**2124-9-25**], metastatic\nto 1 out of three lymph nodes, CT report from this admission,\nshowed \"Small retroperitoneal nodes are seen adjacent to the IVC\nmeasuring up to about 7 cm size (2:36). These are not markedly\nchanged from the prior examination.\"\n--Alzheimer's Dementia\n--Possible depression\n--history of renal failure secondary to obstructive uropathy\n[**2122**]\n\n\nDischarge Condition:\ngood\n\n\nDischarge Instructions:\nPlease [**Name8 (MD) 138**] MD if Mr. [**Known lastname **] is unable to tolerate his Tube\nFeeds, develops respiratory distress, pain, fever, or other\nconcerning symptoms.\n\nFollowup Instructions:\nPlease ensure patient has transporation to see his Urologist,\nDR. [**First Name (STitle) **] [**Doctor Last Name **] Phone:[**Telephone/Fax (1) 274**] Date/Time:[**2124-11-16**] 10:30\n\nPlease ensure patient has transportation to see his Colonic\nSurgeon\n[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 274**] Date/Time:[**2124-11-23**] 11:15\n\nConsider Oncologic evaluation for adjuvant therapy for his\nadvanced mucinous adenocarcinoma\n\n\n\n"
+    },
+    {
+      "note_id": 1037976,
+      "category": "Radiology",
+      "description": "ABDOMEN (SUPINE ONLY)",
+      "annotations": [
+        {
+          "begin": 127,
+          "end": 148,
+          "code": "74018",
+          "code_system": "CPT",
+          "description": "Radiologic examination, abdomen; 1 view",
+          "type": "Human",
+          "covered_text": "ABDOMEN (SUPINE ONLY)"
+        },
+        {
+          "begin": 348,
+          "end": 357,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "LOWER GIB"
+        }
+      ],
+      "text": "[**Last Name (LF) **],[**First Name3 (LF) 543**] G.                      MED 11R                    [**2124-10-29**]  8:06 AM\n ABDOMEN (SUPINE ONLY); -76 BY SAME PHYSICIAN                    [**Name Initial (PRE) 26**] # [**Clip Number (Radiology) 91994**]\n Reason: Please evaluate PEG tube function and placement. Thank you.\n Admitting Diagnosis: LOWER GIB\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old man with CVA s/p PEG tube placement with continued wretching and\n  vomiting.\n REASON FOR THIS EXAMINATION:\n  Please evaluate PEG tube function and placement. Thank you.\n ______________________________________________________________________________\n                                  PFI REPORT\n Unchanged malpositioned gastrostomy tube with tip in distal esophagus.\n\n\n"
+    },
+    {
+      "note_id": 537863,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 3542,
+          "end": 3550,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon CA"
+        },
+        {
+          "begin": 3623,
+          "end": 3631,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleed"
+        },
+        {
+          "begin": 3680,
+          "end": 3694,
+          "code": "K26.4",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic or unspecified duodenal ulcer with hemorrhage",
+          "type": "Human",
+          "covered_text": "duodenal ulcer"
+        },
+        {
+          "begin": 3770,
+          "end": 3778,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon ca"
+        },
+        {
+          "begin": 3785,
+          "end": 3799,
+          "code": "K57.30",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of large intestine without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 4254,
+          "end": 4265,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's"
+        },
+        {
+          "begin": 4285,
+          "end": 4293,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 4424,
+          "end": 4432,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "dementia"
+        }
+      ],
+      "text": "Chief Complaint: 85y/o m w/ hx AD, diverticulosis, recently dx colon ca\n   s.p hemicolectomy (91/15/08) p/w dark stools and dropping Hct (30\n   -->26-->23).\n   24 Hour Events:\n   No sig events overnight\n   History obtained from Patient\n   Allergies:\n   History obtained from PatientTetanus Antitoxin\n   Unknown;\n   Aspirin\n   Unknown;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Changes to medical and family history:\n   Pt denied light-headness, dizziness, CP, SOB, abdominal pain,\n   F/C/N/V/D.\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Constitutional: No(t) Fever\n   Cardiovascular: No(t) Chest pain, No(t) Palpitations\n   Respiratory: No(t) Cough, No(t) Dyspnea\n   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,\n   No(t) Diarrhea, No(t) Constipation\n   Flowsheet Data as of  [**2124-10-25**] 07:28 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.3\nC (99.2\n   Tcurrent: 37.3\nC (99.2\n   HR: 69 (64 - 78) bpm\n   BP: 150/73(91) {128/39(65) - 150/99(103)} mmHg\n   RR: 16 (16 - 24) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                  2,375 mL\n                                                                  1,020 mL\n   PO:\n                                                                    100 mL\n             TF:\n   IVF:\n                                                                    275 mL\n                                                                  1,020 mL\n   Blood products:\n   Total out:\n                                                                     55 mL\n                                                                  1,150 mL\n   Urine:\n                                                                     55 mL\n                                                                  1,150 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  2,320 mL\n                                                                   -130 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SpO2: 100%\n   ABG: ////\n   Physical Examination\n   General Appearance: No acute distress, Thin\n   Eyes / Conjunctiva: PERRL, No(t) Conjunctiva pale\n   Head, Ears, Nose, Throat: Normocephalic\n   Lymphatic: Cervical WNL, Supraclavicular WNL\n   Cardiovascular: (S1: Normal), (S2: Normal), RRR\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Tender: ,\n   healing colectomy scar, no erythema, tenderness, bleeding, oozing.\n   Extremities: Right: Absent, Left: Absent\n   Skin:  Not assessed\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Oriented (to): only new year and thought he was at [**Hospital1 966**],\n   Movement: Purposeful, Tone: Normal\n   Labs / Radiology\n   593 K/uL\n   7.4 g/dL\n   24.0 %\n   9.7 K/uL\n        [image002.jpg]\n                             [**2124-10-24**]  11:35 PM\n   WBC\n   9.7\n   Hct\n   24.0\n   Plt\n   593\n   Other labs: PT / PTT / INR:14.4/27.2/1.3\n   Assessment and Plan\n   A/P: 85 yo M with PMH of colon CA s/p resection now presenting with\n   black stools and HCT drop.\n   .\n   GI bleed: NG lavage was negative in ED, however, pt with duodenal ulcer\n   on EGD [**8-1**]. Possibly recent PUD vs anastomotic site vs [**2-26**] colon ca vs\n   diverticulosis.  Hct currently stable at 24, AM Hct pending.\n   - plan for EGD tomorrow by GI, unless patient shows signs of\n   instability\n   - Plan for possible PEG placement by GI tomorrow concurrent with EGD,\n   GI will speak with son\n   - [**Name (NI) **] transfuse 2U pRBC\n   - q 8hr HCTs\n   - IVF boluses for low UO or hypotension, will d/c maintence fluids\n   - IV PPI [**Hospital1 **]\n   - F/U GI recs\n   -  NPO\n   - will attempt to get additional PIV\n   .\n   Alzheimer's:  pt with baseline dementia.  Pt oriented to self, but not\n   time or place.\n   - continue namenda and aricept\n   - will speak with family regarding baseline dementia\n   - t/c psych consult when on floor for depression\n   .\n   FEN: NPO, replete lytes PRN, d/c IVFs\n   .\n   PPX: IV PPI, bowel regimen\n   .\n   ACCESS: PIV, L EJ\n will attempt additional peripheral\n   .\n   CODE: FULL\n   .\n   CONTACT: [**Name (NI) **], [**Name (NI) **] [**Name (NI) 177**] C [**Telephone/Fax (1) 957**]\n   .\n   DISPO: ICU level care for now\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2124-10-24**] 09:40 PM\n   18 Gauge - [**2124-10-24**] 10:30 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition:\n"
+    },
+    {
+      "note_id": 537807,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 56,
+          "end": 70,
+          "code": "K57.30",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of large intestine without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 91,
+          "end": 99,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon CA"
+        },
+        {
+          "begin": 116,
+          "end": 129,
+          "code": "Z90.49",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of other specified parts of digestive tract",
+          "type": "Human",
+          "covered_text": "hemicolectomy"
+        },
+        {
+          "begin": 781,
+          "end": 795,
+          "code": "K57.90",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of intestine, part unspecified, without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 894,
+          "end": 905,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's"
+        },
+        {
+          "begin": 3941,
+          "end": 3952,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's"
+        }
+      ],
+      "text": "Chief Complaint:  GI bleed\n   HPI:\n   85 yo m w/ hx AD, diverticulosis, recently diagnosed colon CA, status\n   post hemicolectomy on [**2124-10-9**] presents with dark stools. HCts have\n   trended down from 30 at NH --> 26--> 23.\n   .\n   In the ED, VS: T99.2 HR 67 BP 146/69 RR 18 99% RA. NG lavage was\n   negative. Patient was transferred to [**Hospital Unit Name 10**] for further monitoring with\n   plan for EGD in AM.\n   Patient admitted from: [**Hospital1 1**] ER\n   History obtained from Medical records\n   Allergies:\n   Tetanus Antitoxin\n   Unknown;\n   Aspirin\n   Unknown;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Past medical history:\n   Family history:\n   Social History:\n   Colon ca s/p r colectomy [**2124-10-9**]\n   diverticulosis\n   right knee and shoulder surgery\n   benign prostatic hypertrophy s/p TURP\n   nephrolithiasis\n   Alzheimer's\n   Chronic anemia\n   Occupation:\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other: Lives in [**Location 956**] Nursing House. No smoking. Minimal alcohol use.\n   Review of systems:\n   Constitutional: Fatigue\n   Flowsheet Data as of [**2124-10-24**] 11:03 PM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.3\nC (99.2\n   Tcurrent: 37.3\nC (99.2\n   HR: 71 (68 - 71) bpm\n   BP: 143/76(92) {138/62(81) - 143/76(92)} mmHg\n   RR: 19 (19 - 23) insp/min\n   SpO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n             2,175 mL\n   PO:\n             TF:\n   IVF:\n   175 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                     35 mL\n   Urine:\n   35 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  2,140 mL\n   Respiratory\n   O2 Delivery Device: None\n   SpO2: 98%\n   Physical Examination\n   General Appearance: No acute distress, Thin\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Normocephalic\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended\n   Extremities: Right: Absent, Left: Absent\n   Skin:  Warm\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Oriented (to): person, hospital, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n        [image002.jpg]\n   Fluid analysis / Other labs: 138  104  8  105   AGap=10\n   3.3  27  0.7\n   CK: 19  MB: Notdone  Trop-T: <0.01\n   Ca: 9.1 Mg: 1.8 P: 2.2\n   ALT: 7 AP: 63 Tbili: 0.2 Alb:\n   AST: 17 LDH:  Dbili:  TProt:\n   [**Doctor First Name 92**]:  Lip: 17\n   8.3  7.4  352\n        23.6\n   Imaging: EGD [**8-24**]:\n   Normal mucosa in the esophagus\n   Atrophy in the stomach compatible with atrophic gastritis\n   Ulcers in the duodenum (ligation)\n   Erythema, friability and ulceration in the duodenum\n   Stenosis of the pylorus\n   Colonoscopy [**8-24**]:\n   Polyp in the transverse colon 10 cm distal to the mass\n   Diverticulosis of the sigmoid colon and descending colon\n   Mass in the colon\n   Assessment and Plan\n   A/P: 85 yo M with PMH of colon CA s/p resection now presenting with\n   black stools and HCT drop.\n   .\n   GI bleed: Likely lower GI bleed as NG lavage was negative. Possibly\n   recent anastomotic site vs [**2-26**] colon ca vs PUD vs diverticulosis.\n   - q 6hr HCTs\n   - IVF boluses for low UO or hypotension\n   - IV PPI [**Hospital1 **]\n   - F/U GI recs\n   - Type and crossmatch 2U PRBCs\n   .\n   Alzheimer's:\n   - continue namenda and aricept\n   .\n   FEN: NPO, replete lytes PRN, IVFs\n   .\n   PPX: IV PPI, bowel regimen\n   .\n   ACCESS: PIV, L EJ\n   .\n   CODE: FULL\n   .\n   CONTACT: [**Name (NI) **], [**Name (NI) **] [**Name (NI) 177**] C [**Telephone/Fax (1) 957**]\n   .\n   DISPO: ICU level care for now\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2124-10-24**] 09:40 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU\n"
+    },
+    {
+      "note_id": 537865,
+      "category": "Physician",
+      "description": "Physician Resident/Attending Progress Note - MICU",
+      "annotations": [
+        {
+          "begin": 35,
+          "end": 49,
+          "code": "K57.30",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of large intestine without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 63,
+          "end": 71,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon ca"
+        },
+        {
+          "begin": 79,
+          "end": 92,
+          "code": "Z90.49",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of other specified parts of digestive tract",
+          "type": "Human",
+          "covered_text": "hemicolectomy"
+        },
+        {
+          "begin": 3542,
+          "end": 3550,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon CA"
+        },
+        {
+          "begin": 3623,
+          "end": 3631,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleed"
+        },
+        {
+          "begin": 3680,
+          "end": 3694,
+          "code": "K26.4",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic or unspecified duodenal ulcer with hemorrhage",
+          "type": "Human",
+          "covered_text": "duodenal ulcer"
+        },
+        {
+          "begin": 3770,
+          "end": 3778,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon ca"
+        },
+        {
+          "begin": 3785,
+          "end": 3799,
+          "code": "K57.30",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of large intestine without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 4254,
+          "end": 4265,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's"
+        },
+        {
+          "begin": 4285,
+          "end": 4293,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 4424,
+          "end": 4432,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 5371,
+          "end": 5379,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "dementia"
+        }
+      ],
+      "text": "Chief Complaint: 85y/o m w/ hx AD, diverticulosis, recently dx colon ca\n   s.p hemicolectomy (91/15/08) p/w dark stools and dropping Hct (30\n   -->26-->23).\n   24 Hour Events:\n   No sig events overnight\n   History obtained from Patient\n   Allergies:\n   History obtained from PatientTetanus Antitoxin\n   Unknown;\n   Aspirin\n   Unknown;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Changes to medical and family history:\n   Pt denied light-headness, dizziness, CP, SOB, abdominal pain,\n   F/C/N/V/D.\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Constitutional: No(t) Fever\n   Cardiovascular: No(t) Chest pain, No(t) Palpitations\n   Respiratory: No(t) Cough, No(t) Dyspnea\n   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,\n   No(t) Diarrhea, No(t) Constipation\n   Flowsheet Data as of  [**2124-10-25**] 07:28 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.3\nC (99.2\n   Tcurrent: 37.3\nC (99.2\n   HR: 69 (64 - 78) bpm\n   BP: 150/73(91) {128/39(65) - 150/99(103)} mmHg\n   RR: 16 (16 - 24) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                  2,375 mL\n                                                                  1,020 mL\n   PO:\n                                                                    100 mL\n             TF:\n   IVF:\n                                                                    275 mL\n                                                                  1,020 mL\n   Blood products:\n   Total out:\n                                                                     55 mL\n                                                                  1,150 mL\n   Urine:\n                                                                     55 mL\n                                                                  1,150 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  2,320 mL\n                                                                   -130 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SpO2: 100%\n   ABG: ////\n   Physical Examination\n   General Appearance: No acute distress, Thin\n   Eyes / Conjunctiva: PERRL, No(t) Conjunctiva pale\n   Head, Ears, Nose, Throat: Normocephalic\n   Lymphatic: Cervical WNL, Supraclavicular WNL\n   Cardiovascular: (S1: Normal), (S2: Normal), RRR\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Tender: ,\n   healing colectomy scar, no erythema, tenderness, bleeding, oozing.\n   Extremities: Right: Absent, Left: Absent\n   Skin:  Not assessed\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Oriented (to): only new year and thought he was at [**Hospital1 966**],\n   Movement: Purposeful, Tone: Normal\n   Labs / Radiology\n   593 K/uL\n   7.4 g/dL\n   24.0 %\n   9.7 K/uL\n        [image002.jpg]\n                             [**2124-10-24**]  11:35 PM\n   WBC\n   9.7\n   Hct\n   24.0\n   Plt\n   593\n   Other labs: PT / PTT / INR:14.4/27.2/1.3\n   Assessment and Plan\n   A/P: 85 yo M with PMH of colon CA s/p resection now presenting with\n   black stools and HCT drop.\n   .\n   GI bleed: NG lavage was negative in ED, however, pt with duodenal ulcer\n   on EGD [**8-1**]. Possibly recent PUD vs anastomotic site vs [**2-26**] colon ca vs\n   diverticulosis.  Hct currently stable at 24, AM Hct pending.\n   - plan for EGD tomorrow by GI, unless patient shows signs of\n   instability\n   - Plan for possible PEG placement by GI tomorrow concurrent with EGD,\n   GI will speak with son\n   - [**Name (NI) **] transfuse 2U pRBC\n   - q 8hr HCTs\n   - IVF boluses for low UO or hypotension, will d/c maintence fluids\n   - IV PPI [**Hospital1 **]\n   - F/U GI recs\n   -  NPO\n   - will attempt to get additional PIV\n   .\n   Alzheimer's:  pt with baseline dementia.  Pt oriented to self, but not\n   time or place.\n   - continue namenda and aricept\n   - will speak with family regarding baseline dementia\n   - t/c psych consult when on floor for depression\n   .\n   FEN: NPO, replete lytes PRN, d/c IVFs\n   .\n   PPX: IV PPI, bowel regimen\n   .\n   ACCESS: PIV, L EJ\n will attempt additional peripheral\n   .\n   CODE: FULL\n   .\n   CONTACT: [**Name (NI) **], [**Name (NI) **] [**Name (NI) 177**] C [**Telephone/Fax (1) 957**]\n   .\n   DISPO: ICU level care for now\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2124-10-24**] 09:40 PM\n   18 Gauge - [**2124-10-24**] 10:30 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition:\n   ------ Protected Section ------\n   MICU ATTENDING ADDENDUM\n   I saw and examined the patient, and was physically present with the ICU\n   team for the key portions of the services provided. I agree with the\n   note above, including the assessment and plan. I would emphasize and\n   add the following points: 85M dementia, colon cancer and recent\n   colectomy with primary reanastomosis on [**10-10**] p/w melena. HCT 30 to 23\n   but hemodynamically stable. NGL negative. Melena has improved\n   overnight, hematocrit stable since admission.\n   Exam notable for Tm 99 BP 128/50 HR 70 RR 16 with sat 100 on RA. WD\n   man, NAD. Chest clear, JVP 8cm. RR s1s2. Soft abdomen, well healed\n   surgical scar. No edema or cord. Labs notable for WBC 7K, HCT 24, K+\n   4.0, Cr 0.7.\n   Agree with plan to transfuse two units here with serial hematocrit\n   checks q8h. Will maintain PIV x2 and BBS at all times and continue IV\n   PPI for now. Need to confirm prior therapy for H. pylori. GI team\n   aware, will consider endoscopy in the next day or two; will also need\n   assessment for G-tube placement, to be discussed with Dr.[**Name (NI) 974**] team.\n   Remainder of plan as outlined above.\n   Total time: 35 min\n   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 242**], MD\n   on:[**2124-10-25**] 12:44 PM ------\n"
+    },
+    {
+      "note_id": 1038179,
+      "category": "Radiology",
+      "description": "ABDOMEN (SUPINE & ERECT)",
+      "annotations": [
+        {
+          "begin": 27,
+          "end": 51,
+          "code": "74022",
+          "code_system": "CPT",
+          "description": "Radiologic examination, complete acute abdomen series, including 2 or more views of the abdomen (eg, supine, erect, decubitus), and a single view chest",
+          "type": "Human",
+          "covered_text": "ABDOMEN (SUPINE & ERECT)"
+        },
+        {
+          "begin": 191,
+          "end": 200,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "LOWER GIB"
+        },
+        {
+          "begin": 341,
+          "end": 353,
+          "code": "E46",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified protein-calorie malnutrition",
+          "type": "Human",
+          "covered_text": "malnutrition"
+        },
+        {
+          "begin": 835,
+          "end": 851,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        },
+        {
+          "begin": 1442,
+          "end": 1456,
+          "code": "K57.30",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of large intestine without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 1902,
+          "end": 1918,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        },
+        {
+          "begin": 1978,
+          "end": 1992,
+          "code": "K57.90",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of intestine, part unspecified, without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        }
+      ],
+      "text": "[**2124-10-30**] 12:08 PM\n ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 92269**]\n Reason: assess position of G tube\n Admitting Diagnosis: LOWER GIB\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old man with malnutrition, G tube previously seen in esophagus, now\n  pulled back, please reassess position\n REASON FOR THIS EXAMINATION:\n  assess position of G tube\n ______________________________________________________________________________\n PROVISIONAL FINDINGS IMPRESSION (PFI): JKPe MON [**2124-10-30**] 2:15 PM\n  G-tube appears retracted although its exact tip is unable to be definitely\n  seen without any oral contrast within the tube itself.  No evidence of\n  pneumoperitoneum.  A layering left pleural effusion.\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  Repositioned G-tube.\n\n Comparison is made to most recent abdominal radiograph and CT from [**2124-8-29**].  Right lateral decubitus and supine abdominal radiographs.\n\n The exact tip of the gastrostomy tube is not definitely seen but appears to\n have been retracted and now projects over the lower midline abdomen.  There is\n no evidence of pneumatosis or pneumoperitoneum.  Oral contrast is noted to\n fill the large bowel which displays a known severe diverticulosis.  Layering\n left pleural effusion is noted, better appreciated on the decubitus view.\n Surgical chain sutures within the mid right lower abdomen are unchanged.\n\n IMPRESSION:\n\n 1.  Limited abdominal radiographs to definitely identify the tip of the\n gastrostomy tube without any oral contrast within the tube itself.  It does\n appear to have been retracted and now projects over the lower midline.\n\n 2.  Known freely layering moderate-sized left pleural effusion.\n\n 3.  No evidence of pneumoperitoneum.  Extensive colonic diverticulosis.\n\n"
+    },
+    {
+      "note_id": 537845,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 35,
+          "end": 49,
+          "code": "K57.30",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of large intestine without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 63,
+          "end": 71,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon ca"
+        },
+        {
+          "begin": 79,
+          "end": 92,
+          "code": "Z90.49",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of other specified parts of digestive tract",
+          "type": "Human",
+          "covered_text": "hemicolectomy"
+        },
+        {
+          "begin": 3542,
+          "end": 3550,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon CA"
+        },
+        {
+          "begin": 3623,
+          "end": 3631,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleed"
+        },
+        {
+          "begin": 3646,
+          "end": 3654,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleed"
+        },
+        {
+          "begin": 3732,
+          "end": 3740,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon ca"
+        },
+        {
+          "begin": 3751,
+          "end": 3765,
+          "code": "K57.30",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of large intestine without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 3914,
+          "end": 3925,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's"
+        }
+      ],
+      "text": "Chief Complaint: 85y/o m w/ hx AD, diverticulosis, recently dx colon ca\n   s.p hemicolectomy (91/15/08) p/w dark stools and dropping Hct (30\n   -->26-->23).\n   24 Hour Events:\n   No sig events overnight\n   History obtained from Patient\n   Allergies:\n   History obtained from PatientTetanus Antitoxin\n   Unknown;\n   Aspirin\n   Unknown;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Changes to medical and family history:\n   Pt denied light-headness, dizziness, CP, SOB, abdominal pain,\n   F/C/N/V/D.\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Constitutional: No(t) Fever\n   Cardiovascular: No(t) Chest pain, No(t) Palpitations\n   Respiratory: No(t) Cough, No(t) Dyspnea\n   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,\n   No(t) Diarrhea, No(t) Constipation\n   Flowsheet Data as of  [**2124-10-25**] 07:28 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.3\nC (99.2\n   Tcurrent: 37.3\nC (99.2\n   HR: 69 (64 - 78) bpm\n   BP: 150/73(91) {128/39(65) - 150/99(103)} mmHg\n   RR: 16 (16 - 24) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                  2,375 mL\n                                                                  1,020 mL\n   PO:\n                                                                    100 mL\n             TF:\n   IVF:\n                                                                    275 mL\n                                                                  1,020 mL\n   Blood products:\n   Total out:\n                                                                     55 mL\n                                                                  1,150 mL\n   Urine:\n                                                                     55 mL\n                                                                  1,150 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  2,320 mL\n                                                                   -130 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SpO2: 100%\n   ABG: ////\n   Physical Examination\n   General Appearance: No acute distress, Thin\n   Eyes / Conjunctiva: PERRL, No(t) Conjunctiva pale\n   Head, Ears, Nose, Throat: Normocephalic\n   Lymphatic: Cervical WNL, Supraclavicular WNL\n   Cardiovascular: (S1: Normal), (S2: Normal), RRR\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Tender: ,\n   healing colectomy scar, no erythema, tenderness, bleeding, oozing.\n   Extremities: Right: Absent, Left: Absent\n   Skin:  Not assessed\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Oriented (to): only new year and thought he was at [**Hospital1 966**],\n   Movement: Purposeful, Tone: Normal\n   Labs / Radiology\n   593 K/uL\n   7.4 g/dL\n   24.0 %\n   9.7 K/uL\n        [image002.jpg]\n                             [**2124-10-24**]  11:35 PM\n   WBC\n   9.7\n   Hct\n   24.0\n   Plt\n   593\n   Other labs: PT / PTT / INR:14.4/27.2/1.3\n   Assessment and Plan\n   A/P: 85 yo M with PMH of colon CA s/p resection now presenting with\n   black stools and HCT drop.\n   .\n   GI bleed: Likely lower GI bleed as NG lavage was negative. Possibly\n   recent anastomotic site vs [**2-26**] colon ca vs PUD vs diverticulosis.\n   - q 6hr HCTs\n   - IVF boluses for low UO or hypotension\n   - IV PPI [**Hospital1 **]\n   - F/U GI recs\n   - Type and crossmatch 2U PRBCs\n   .\n   Alzheimer's:\n   - continue namenda and aricept\n   .\n   FEN: NPO, replete lytes PRN, IVFs\n   .\n   PPX: IV PPI, bowel regimen\n   .\n   ACCESS: PIV, L EJ\n   .\n   CODE: FULL\n   .\n   CONTACT: [**Name (NI) **], [**Name (NI) **] [**Name (NI) 177**] C [**Telephone/Fax (1) 957**]\n   .\n   DISPO: ICU level care for now\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2124-10-24**] 09:40 PM\n   18 Gauge - [**2124-10-24**] 10:30 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition:\n"
+    },
+    {
+      "note_id": 1037975,
+      "category": "Radiology",
+      "description": "ABDOMEN (SUPINE ONLY)",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 52,
+          "code": "74018",
+          "code_system": "CPT",
+          "description": "Radiologic examination, abdomen; 1 view",
+          "type": "Human",
+          "covered_text": "ABDOMEN (SUPINE ONLY); -76"
+        },
+        {
+          "begin": 247,
+          "end": 256,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "LOWER GIB"
+        }
+      ],
+      "text": "[**2124-10-29**] 8:06 AM\n ABDOMEN (SUPINE ONLY); -76 BY SAME PHYSICIAN                    [**Name Initial (PRE) 26**] # [**Clip Number (Radiology) 91994**]\n Reason: Please evaluate PEG tube function and placement. Thank you.\n Admitting Diagnosis: LOWER GIB\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old man with CVA s/p PEG tube placement with continued wretching and\n  vomiting.\n REASON FOR THIS EXAMINATION:\n  Please evaluate PEG tube function and placement. Thank you.\n ______________________________________________________________________________\n PROVISIONAL FINDINGS IMPRESSION (PFI): JKPe MON [**2124-10-30**] 10:15 AM\n  Unchanged malpositioned gastrostomy tube with tip in distal esophagus.\n ______________________________________________________________________________\n                                 FINAL REPORT\n Retching and vomiting, evaluate gastrostomy tube placement.\n\n Comparison is made to abdominal radiograph from same date.\n\n SINGLE SUPINE ABDOMINAL RADIOGRAPH\n\n Gastrostomy tube tip appears to be positioned within the distal esophagus with\n contrast noted within the distal esophagus.  Small amount of contrast is noted\n within the stomach and loops of small bowel from prior injection and surgical\n chain sutures project over the right midline abdomen.\n\n IMPRESSION:\n\n Gastrostomy tube tip appears to be positioned within the distal esophagus with\n contrast noted within the distal esophagus.  No evidence of tube leakage or\n pneumoperitoneum\n\n\n"
+    },
+    {
+      "note_id": 1037917,
+      "category": "Radiology",
+      "description": "PORTABLE ABDOMEN",
+      "annotations": [
+        {
+          "begin": 127,
+          "end": 143,
+          "code": "74018",
+          "code_system": "CPT",
+          "description": "Radiologic examination, abdomen; 1 view",
+          "type": "Human",
+          "covered_text": "PORTABLE ABDOMEN"
+        },
+        {
+          "begin": 307,
+          "end": 316,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "LOWER GIB"
+        },
+        {
+          "begin": 510,
+          "end": 532,
+          "code": "Z98.890",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified postprocedural states",
+          "type": "Human",
+          "covered_text": "s/p G\n  tube placement"
+        }
+      ],
+      "text": "[**Last Name (LF) **],[**First Name3 (LF) 543**] G.                      MED 11R                    [**2124-10-29**] 12:40 AM\n PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 93489**]\n Reason: Please perform PEG tube check. Thank you.\n Admitting Diagnosis: LOWER GIB\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old man with new onset of vomiting, coughing, tube feed residuals s/p G\n  tube placement.\n REASON FOR THIS EXAMINATION:\n  Please perform PEG tube check. Thank you.\n ______________________________________________________________________________\n                                  PFI REPORT\n PFI:  Gastrostomy tube oriented toward the esophagus with contrast in the\n distal esophagus.\n\n"
+    },
+    {
+      "note_id": 1037910,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 127,
+          "end": 145,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 290,
+          "end": 299,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "LOWER GIB"
+        },
+        {
+          "begin": 439,
+          "end": 445,
+          "code": "Z86.73",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "stroke"
+        },
+        {
+          "begin": 684,
+          "end": 700,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        }
+      ],
+      "text": "[**Last Name (LF) **],[**First Name3 (LF) 543**] G.                      MED 11R                    [**2124-10-28**] 10:00 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 93753**]\n Reason: Please evaluate for PNA.\n Admitting Diagnosis: LOWER GIB\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old man s/p stroke with recurrent coughing.\n REASON FOR THIS EXAMINATION:\n  Please evaluate for PNA.\n ______________________________________________________________________________\n                                  PFI REPORT\n Low lung volumes.  Small left pleural effusion and atelectasis are on the left\n base.\n\n"
+    },
+    {
+      "note_id": 537805,
+      "category": "General",
+      "description": "Generic Note",
+      "annotations": [
+        {
+          "begin": 346,
+          "end": 356,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "alzhiemers"
+        },
+        {
+          "begin": 362,
+          "end": 370,
+          "code": "C19",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of rectosigmoid junction",
+          "type": "Human",
+          "covered_text": "colon ca"
+        },
+        {
+          "begin": 404,
+          "end": 419,
+          "code": "K26.4",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic or unspecified duodenal ulcer with hemorrhage",
+          "type": "Human",
+          "covered_text": "duodenal ulcers"
+        },
+        {
+          "begin": 873,
+          "end": 881,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleed"
+        },
+        {
+          "begin": 883,
+          "end": 900,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "blood loss anemia"
+        }
+      ],
+      "text": "TITLE: Addendum to Dr. [**Last Name (STitle) 816**]\ns note\n   MICU ATTENDING ADDENDUM\n   I saw and examined the patient, and was physically present with the ICU\n   team for the key portions of the services provided. I agree with the\n   note above, including the assessment and plan. I would emphasize and\n   add the following points:\n   85M with alzhiemers, h/o colon ca\n right colectomy 2 weeks ago,\n   duodenal ulcers ligated [**8-1**]. Now with falling hemotocrit and melena at\n   nursing home, stable BP. Brought to ER. NG lavage negative. Transferred\n   to ICU for possible EGD in AM.\n   Exam notable for T normal  HR 70   BP  140/76  RR  16 with 98% sat on\n   RA\n   No distress, no complaints, no JVD, RRR, benign abdomen, guaiac\n   positive\n   Labs notable for WBC 8.3 K, HCT 24 , Na 138 ,K+ 3.3 , HCO3 27 ,Cr  .7 ,\n   coags pending\n   Imaging: none\n   Problems:\n   GI bleed\n blood loss anemia\n   Recent colon surgery\n   Alzheimers\n   Agree with plan to maintain adequate IV access, follow Hct, type and\n   cross, EGD in AM, PPI\n   Remainder of plan as outlined above.\n   Patient is critically ill.\n   Total time: 36 min\n"
+    },
+    {
+      "note_id": 1037916,
+      "category": "Radiology",
+      "description": "PORTABLE ABDOMEN",
+      "annotations": [
+        {
+          "begin": 27,
+          "end": 43,
+          "code": "74018",
+          "code_system": "CPT",
+          "description": "Radiologic examination, abdomen; 1 view",
+          "type": "Human",
+          "covered_text": "PORTABLE ABDOMEN"
+        },
+        {
+          "begin": 207,
+          "end": 216,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "LOWER GIB"
+        },
+        {
+          "begin": 410,
+          "end": 432,
+          "code": "Z98.890",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified postprocedural states",
+          "type": "Human",
+          "covered_text": "s/p G\n  tube placement"
+        }
+      ],
+      "text": "[**2124-10-29**] 12:40 AM\n PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 93489**]\n Reason: Please perform PEG tube check. Thank you.\n Admitting Diagnosis: LOWER GIB\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old man with new onset of vomiting, coughing, tube feed residuals s/p G\n  tube placement.\n REASON FOR THIS EXAMINATION:\n  Please perform PEG tube check. Thank you.\n ______________________________________________________________________________\n PROVISIONAL FINDINGS IMPRESSION (PFI): JKPe MON [**2124-10-30**] 10:02 AM\n  PFI:  Gastrostomy tube oriented toward the esophagus with contrast in the\n  distal esophagus.\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  New onset vomiting and coughing with high G-tube residual.\n\n Comparison is made to [**2124-9-13**] CT examination.\n\n PORTABLE ABDOMINAL RADIOGRAPH:\n\n A single portable supine abdominal film was obtained after injection of 22 mL\n of oral contrast through the indwelling gastrostomy tube.  The tip appears to\n be oriented cephalad with contrast noted in the lower portion of the\n esophagus.  Included portion of the upper abdomen appears otherwise\n unremarkable.  A radiopaque bumper device is noted near the tube insertion\n site.\n\n IMPRESSION:\n\n Gastrostomy tube oriented toward the esophagus with contrast noted in the\n distal esophagus.\n\n These findings were subsequently discussed with the ordering team during CT\n examination on [**2124-10-29**].\n\n\n"
+    }
+  ]
+}

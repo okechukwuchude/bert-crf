@@ -1,0 +1,77 @@
+{
+  "hadm_id": 177239,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 47049,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 324,
+          "end": 350,
+          "code": "227.3",
+          "code_system": "ICD-9-CM",
+          "description": "Benign neoplasm of pituitary gland and craniopharyngeal duct (pouch)",
+          "type": "Human",
+          "covered_text": "Residual Pituitary Adenoma"
+        },
+        {
+          "begin": 1062,
+          "end": 1070,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "Diabetes"
+        },
+        {
+          "begin": 1072,
+          "end": 1084,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 1087,
+          "end": 1091,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 1093,
+          "end": 1101,
+          "code": "365.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified glaucoma",
+          "type": "MapType.EXACT",
+          "covered_text": "glaucoma"
+        },
+        {
+          "begin": 1103,
+          "end": 1111,
+          "code": "366.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified cataract",
+          "type": "MapType.EXACT",
+          "covered_text": "cataract"
+        },
+        {
+          "begin": 1113,
+          "end": 1124,
+          "code": "276.8",
+          "code_system": "ICD-9-CM",
+          "description": "Hypopotassemia",
+          "type": "Human",
+          "covered_text": "hypokalemia"
+        }
+      ],
+      "text": "Admission Date:  [**2142-6-21**]              Discharge Date:   [**2142-6-26**]\n\nDate of Birth:  [**2072-11-22**]             Sex:   F\n\nService: NEUROSURGERY\n\nAllergies:\nNut Sup, Glucose Intolerant #1 / Spironolactone / Bactrim DS /\nFluarix [**2135**]-[**2136**] (PF)\n\nAttending:[**First Name3 (LF) 1835**]\nChief Complaint:\nResidual Pituitary Adenoma\n\nMajor Surgical or Invasive Procedure:\n[**2142-6-21**] Right Craniotomy for resection of pituitary ademona\n\n\nHistory of Present Illness:\n69yo woman with pituitary lesion who underwent a subtotal\ntransphenoidal resection in 2/[**2140**]. Pathology was\nc/w ACTH secreting pituitary adenoma.  MRI [**12-11**] showed residual\nadenoma centered in the supracellar cistern with radiologic\ncompression on the optic apparatus.\nOn her last visit it was recommended that she have an open\nresection to decompress the optic apparatus. The patient wanted\nto wait and have an reconsultation with Radiation oncology.\n\nPatient denies  visual problems, heat intolerance,  breast\nleakage, wt loss or gain.\n\n\nPast Medical History:\nDiabetes, hypertension , GERD, glaucoma, cataract, hypokalemia,\n(+)PPD s/p INH, AV reentrant and nodal tachycardia, left knee\nOA,\nectopic pregnancy surgery, tubal ligation, appendectomy,\nparathyroidectomy, knee surgery\n\n\nSocial History:\nNo tob/etoh. Lives independently with husband. [**Name (NI) 1403**] FT in\nenvironmental services here at [**Hospital1 **].\n\n\nFamily History:\nMother died in childbirth, Father 98 and only hard of hearing; 4\nchildren, daughter with MS.\n\n\nPhysical Exam:\nOn Admission:\nGen: AF VSS;\nWD/WN, comfortable, NAD.\nHEENT: Pupils: PERRL        EOMs intact without nystagmus\nNeck: Supple.\nLungs: no adventicious sounds\nCardiac: RRR to auscultation\nAbd: Soft, NT\nwarm peripherals\n\nNeuro:\nMental status: Awake and alert, cooperative with exam, normal\naffect.\nOrientation: Oriented to person, place, and date.\nLanguage: Speech fluent with good comprehension and repetition.\n\nCranial Nerves:\nI: Not tested\nII: Pupils equally round and reactive to light, 3mm to\n2mm bilaterally.\nIII, IV, VI: Extraocular movements intact bilaterally without\nnystagmus.\nV, VII: Facial strength and sensation intact and symmetric.\nVIII: Hearing intact to finger rub bilaterally.\nIX, X: Palatal elevation symmetrical.\n[**Doctor First Name 81**]: Sternocleidomastoid and trapezius normal bilaterally.\nXII: Tongue midline without fasciculations.\n\nMotor: . Strength full power [**5-5**] throughout. No pronator drift\n\nSensation: Intact to light touch; no paresthesias\nSymmetric  brisk reflexes\nToes downgoing bilaterally\n\nCoordination: normal on finger-nose-finger bilaterally\nNo extrapyramidal signs\n\nOn Discharge:\n\nPertinent Results:\nMRI Brain [**6-21**]:\nSurgical planning study with surface markers demonstrates a\nsellar and suprasellar mass suggestive of residual pituitary\nneoplasm.  No\nother abnormalities are seen.  No hydrocephalus or enhancing\nbrain lesions are identified.\n\nCT Head [**6-21**] post-op\n1.  Expected post-surgical changes with bilateral prefrontal\npneumocephalus and a small amount of blood products layering\nalong the right frontal dural surface.\n2.  No evidence of intraparenchymal hemorrhage.\n\nMRI Brain Post-op [**6-22**]:\n1.  No evidence of residual enhancement within the resection\nbed.  Recommend continued followup after the immediate\npostoperative changes have resolved.\n2.  Normal postoperative appearance after right craniotomy\nwithout evidence of large postoperative hemorrhage\n\n\nBrief Hospital Course:\n[**Known firstname 99759**] [**Known lastname 174**] was admitted to the Neurosurgery service after\nright craniotomy for resection of residual pituitary adenoma.\nPostoperatively she was admited to the Neuro-ICU for frequent\nneuro checks and blood pressure control less than 140.\nEndocrinology service was consulted.  Postoperative head CT\nshowed expected post-operative changes. She was monitered with\nfrequent labs and UAs and her urine output was monitered closely\nfor signs of DI. She had increasign sodiums overnight on [**6-21**]\ninto [**6-22**], endocrinology did not feel that she required DDAVP or\nvasopressin. She was started on IV fluids and her urine output\nand lab valuyes continued to be closely monitoried. On [**6-22**] she\nunderwent an MRi scan of teh brain to assess for post-operative\nchange which showed no evidence of residual enhancement within\nthe resection bed. Endocrine recommended hydrocortisone 40mg in\nam and 20mg in pm, then on [**6-23**] she should recieve 20mg in am\nand 10mg in pm. She may drink to thirst. D5W was discontinued\nand q6h labs were continued. She was albe to be OOB and dangle\nher feet at the edge of the bed. On [**6-24**], a-line was removed and\nfoley d/c'ed. Hydorcortisone was decreased to 20mg in am and no\ndose in pm.\n\nOn [**6-25**], cortisol level was drawn and was 12.9. She remains in\nstable condition, ambulating independently and reports no\ndrainage. She was transferred to the floor and PT/OT consulted.\nShe recieved on dose of 20mg hydrocortisone in the am. Her\ncortisol level was normal, so hydrocotisone was discontinued.\nShe was cleared by PT and nursing was working with her and\nstairs. Patient felt unsteady on her feet and requested that she\nhave more time in the hospital.\n\nOn [**6-26**], patient was doing well. She was ambulating\nindependently and felt more comfortable being discharged home\ntoday. She was discharged home and should follow up with\nendocrine in one week and neurosurgery in 4 weeks.\n\nMedications on Admission:\nPreadmission medications listed are correct and complete.\nInformation was obtained from PatientwebOMR.\n1. Amlodipine 10 mg PO DAILY\n2. Aprepitant 40 mg PO ONCE Duration: 1 Doses\n3 hours prior to preop\n3. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES [**Hospital1 **]\n4. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS\n5. Metoprolol Succinate XL 200 mg PO DAILY\n6. Potassium Chloride 30 mEq PO DAILY Duration: 24 Hours\nHold for K >4.0\n7. Valsartan 320 mg PO DAILY\n8. Bisacodyl 10 mg PO DAILY:PRN Constipation\n9. Calcium Carbonate 600 mg PO DAILY\n10. Vitamin D 1000 UNIT PO DAILY\n11. Fish Oil (Omega 3) Dose is Unknown  PO DAILY\n\n\nDischarge Medications:\n1. Outpatient Lab Work\nseurm and urine NA, serum osm and urine osm\n2. Docusate Sodium 100 mg PO BID\nRX *Colace 100 mg 1 Capsule(s) by mouth twice a day Disp #*90\nCapsule Refills:*0\n3. OxycoDONE (Immediate Release)  5-10 mg PO Q4H:PRN pain\nRX *oxycodone 5 mg [**1-1**] Capsule(s) by mouth every four (4) hours\nDisp #*60 Capsule Refills:*0\n4. Metoprolol Succinate XL 200 mg PO DAILY\n5. Valsartan 320 mg PO DAILY\n6. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS\n7. Vitamin D 1000 UNIT PO DAILY\n8. Fish Oil (Omega 3) 1000 mg PO DAILY\n9. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES [**Hospital1 **]\n10. Calcium Carbonate 600 mg PO DAILY\n11. Bisacodyl 10 mg PO DAILY:PRN Constipation\n12. Amlodipine 10 mg PO DAILY\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\npituitary adenoma\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nGeneral Instructions\n\n??????\tHave a friend/family member check your incision daily for\nsigns of infection.\n??????\tTake your pain medicine as prescribed.\n??????\tExercise should be limited to walking; no lifting, straining,\nor excessive bending.\n??????\tYou may wash your hair only after sutures and/or staples have\nbeen removed. If your wound closure uses dissolvable sutures,\nyou must keep that area dry for 10 days.\n??????\tYou may shower before this time using a shower cap to cover\nyour head.\n??????\tIncrease your intake of fluids and fiber, as narcotic pain\nmedicine can cause constipation. We generally recommend taking\nan over the counter stool softener, such as Docusate (Colace)\nwhile taking narcotic pain medication.\n??????\tUnless directed by your doctor, do not take any\nanti-inflammatory medicines such as Motrin, Aspirin, Advil, and\nIbuprofen etc.\n??????\tIf you have been prescribed Dilantin (Phenytoin) for\nanti-seizure medicine, take it as prescribed and follow up with\nlaboratory blood drawing in one week.  This can be drawn at your\nPCP??????s office, but please have the results faxed to [**Telephone/Fax (1) 87**].\nIf you have been discharged on Keppra (Levetiracetam), you will\nnot require blood work monitoring.\n??????\tClearance to drive and return to work will be addressed at\nyour post-operative office visit.\n??????\tMake sure to continue to use your incentive spirometer while\nat home, unless you have been instructed not to.\n\nCALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE\nFOLLOWING\n\n??????\tNew onset of tremors or seizures.\n??????\tAny confusion or change in mental status.\n??????\tAny numbness, tingling, weakness in your extremities.\n??????\tPain or headache that is continually increasing, or not\nrelieved by pain medication.\n??????\tAny signs of infection at the wound site: redness, swelling,\ntenderness, or drainage.\n??????\tFever greater than or equal to 101?????? F.\n\n\nFollowup Instructions:\nFollow-Up Appointment Instructions\n\n??????Please return to the office in [**7-10**] days(from your date of\nsurgery) a wound check. This appointment can be made with the\nNurse Practitioner.  Please make this appointment by calling\n[**Telephone/Fax (1) 1669**]. If you live quite a distance from our office,\nplease make arrangements for the same, with your PCP.\n??????Please call ([**Telephone/Fax (1) 88**] to schedule an appointment with Dr.\n[**Last Name (STitle) **], to be seen in 4 weeks.\n??????You will need an MRI of the brain with or without gadolinium\ncontrast.\n\n??????       Please follow up with Endocrine in 1 week. You can\nschedule this appointment by calling [**Telephone/Fax (1) 1803**].\n\n\n\nCompleted by:[**2142-6-26**]"
+    }
+  ]
+}

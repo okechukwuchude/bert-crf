@@ -1,0 +1,584 @@
+{
+  "hadm_id": 193430,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 298053,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 17,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Baseline artifact"
+        },
+        {
+          "begin": 117,
+          "end": 140,
+          "code": "R93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal findings on diagnostic imaging of heart and coronary circulation",
+          "type": "Human",
+          "covered_text": "Left atrial abnormality"
+        }
+      ],
+      "text": "Baseline artifact.  Sinus rhythm.  Borderline left axis deviation.  Relative\nlow [**Name2 (NI) 159**] lead voltage.  Left atrial abnormality.  Possible left ventricular\nhypertrophy.  Slow R wave progression.  Cannot exclude prior inferior wall\nmyocardial infarction.  Compared to the previous tracing of [**2150-9-25**] no overall\ndiagnostic change.\n\n"
+    },
+    {
+      "note_id": 1170486,
+      "category": "Radiology",
+      "description": "CTA ABD W&W/O C & RECONS",
+      "annotations": [
+        {
+          "begin": 27,
+          "end": 51,
+          "code": "74178",
+          "code_system": "CPT",
+          "description": "Computed tomography, abdomen and pelvis; without contrast material in one or both body regions, followed by contrast material(s) and further sections in one or both body regions",
+          "type": "Human",
+          "covered_text": "CTA ABD W&W/O C & RECONS"
+        },
+        {
+          "begin": 971,
+          "end": 981,
+          "code": "R07.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chest pain, unspecified",
+          "type": "Human",
+          "covered_text": "chest pain"
+        },
+        {
+          "begin": 986,
+          "end": 1000,
+          "code": "R10.9",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified abdominal pain",
+          "type": "Human",
+          "covered_text": "abdominal pain"
+        },
+        {
+          "begin": 1030,
+          "end": 1049,
+          "code": "R11.2",
+          "code_system": "ICD-10-CM",
+          "description": "Nausea with vomiting, unspecified",
+          "type": "Human",
+          "covered_text": "nausea and vomiting"
+        },
+        {
+          "begin": 2476,
+          "end": 2487,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "atelectasis"
+        },
+        {
+          "begin": 3492,
+          "end": 3506,
+          "code": "K57.30",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of large intestine without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        }
+      ],
+      "text": "[**2151-11-27**] 12:26 PM\n CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 87372**]\n Reason: r/o aortic aneurysm or aortic dissection, colitis\n  Contrast: OPTIRAY Amt: 100\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85F p/w CP, abd pain radiating to back, N/V since yest. Asymmetric distal\n  pulses.\n REASON FOR THIS EXAMINATION:\n  r/o aortic aneurysm or aortic dissection, colitis\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: LLTc SAT [**2151-11-27**] 1:46 PM\n  1. No acute intraabdominal/intrapelvic process.\n  2. 7 mm celiac aneurysm (5:32).\n  3. No AAA.\n  4. Normal appearing bowel.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  85-year-old female presenting with chest pain and abdominal pain\n radiating to the back, with nausea and vomiting since yesterday.  There is a\n concern for abdominal aortic aneurysm.\n\n No comparison studies available.\n\n TECHNIQUE:  MDCT-acquired 5-mm axial images of the abdomen were obtained\n before and following the uneventful administration of 100 cc of Optiray\n intravenous contrast.  Coronal and sagittal reformats were performed at 5-mm\n slice thickness.\n\n FINDINGS:\n\n CTA:\n There are mild atherosclerotic calcifications throughout the abdominal aorta,\n which demonstrates normal caliber and patency throughout its course.  Moderate\n atherosclerotic calcifications are seen within the iliac branches, with no\n evidence of significant stenosis.  On primary image reconstructions there was\n suggestion of a 7-mm aneurysm at the celiac artery near the takeoff of the\n left gastric and common hepatic arteries (5:32), but on 3D reformations and\n volume renderings (series 450-452), this appears to be an ectatic rather than\n an aneurysmal segment.  The SMA is widely patent and normal in caliber,\n demonstrating multiple segmental and subsegmental branches which opacify with\n contrast.  The [**Female First Name (un) 85**] is patent.  A small left accessory renal artery is seen\n (5:43).  A small atherosclerotic plaque rises from the takeoff of the right\n main renal artery (5:39), however, patent distal flow is seen and the kidneys\n appear to enhance symmetrically.\n\n ABDOMEN:\n Included views of the lungs demonstrate mild dependent atelectasis.  The heart\n size is normal.  There is no pericardial or pleural effusion.  Lipomatosis of\n the interatrial septum is present (2:1).  There are mild atherosclerotic\n calcifications of the coronary vessels and aortic valve.\n\n                                                             (Over)\n\n [**2151-11-27**] 12:26 PM\n CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 87372**]\n Reason: r/o aortic aneurysm or aortic dissection, colitis\n  Contrast: OPTIRAY Amt: 100\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n The liver, spleen, adrenal glands, kidneys, pancreas, stomach, and\n intra-abdominal loops of small and large bowel are within normal limits.\n Scattered prominent mesenteric and retroperitoneal lymph nodes do not meet CT\n criteria for lymphadenopathy.  There is no free air or free fluid.\n\n PELVIS:\n The rectum appears normal.  There is moderate colonic diverticulosis, with no\n evidence of diverticulitis.  The uterus appears normal, containing a coarse\n calcification (5:124) which is most compatible with a fibroid.  No adnexal\n masses are detected.  There is a small amount of pelvic free fluid (5:119).  A\n pessary device is appropriately postioned (5:136).  A Foley catheter\n terminates appropriately within a partially collapsed bladder.  There is no\n intrapelvic lymphadenopathy.\n\n OSSEOUS STRUCTURES:\n There is no acute fracture or dislocation.  No concerning blastic or lytic\n lesions are identified.  Mild multilevel degenerative changes are present\n throughout the thoracic and lumbar spine, including mild multilevel facet\n arthropathy from L3 through L5.\n\n 3D reformations were created in the Imaging Lab to support these findings.\n\n IMPRESSION:\n\n 1.  No AAA or acute aortic process.\n 2.  Ectatic celiac axis origin without discrete aneurysm.\n 3.  No acute intra-abdominal process seen.\n\n"
+    },
+    {
+      "note_id": 1170882,
+      "category": "Radiology",
+      "description": "CT CHEST W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 27,
+          "end": 48,
+          "code": "71250",
+          "code_system": "CPT",
+          "description": "Computed tomography, thorax; without contrast material",
+          "type": "Human",
+          "covered_text": "CT CHEST W/O CONTRAST"
+        },
+        {
+          "begin": 184,
+          "end": 196,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "HYPONATREMIA"
+        },
+        {
+          "begin": 343,
+          "end": 346,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 348,
+          "end": 351,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 356,
+          "end": 368,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "hyponatremia"
+        },
+        {
+          "begin": 731,
+          "end": 743,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "hyponatremia"
+        },
+        {
+          "begin": 1186,
+          "end": 1218,
+          "code": "I35.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other nonrheumatic aortic valve disorders",
+          "type": "Human",
+          "covered_text": "aortic valve is mildly calcified"
+        },
+        {
+          "begin": 1842,
+          "end": 1853,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "atelectasis"
+        }
+      ],
+      "text": "[**2151-11-30**] 11:01 AM\n CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 87373**]\n Reason: SIADH, ?malignancy\n Admitting Diagnosis: HYPONATREMIA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old woman with h/o CAD, HTN p/w hyponatremia, gram + bacteremia\n REASON FOR THIS EXAMINATION:\n  SIADH, ?malignancy\n No contraindications for IV contrast\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  85-year-old female with history of coronary artery disease,\n hypertension, gram-positive bacteremia, presenting with hyponatremia, evaluate\n for SIADH.\n\n COMPARISON:  Chest radiograph [**2151-11-27**] and CTA abdomen [**2151-11-27**].\n\n TECHNIQUE:  Non-contrast chest CT was performed using MDCT.  Both axial 5- and\n 1.25-mm collimation images, as well as a series of multiplanar reformatted\n images, were reviewed.\n\n CT CHEST WITHOUT IV CONTRAST:  There is no supraclavicular, axillary, or\n mediastinal lymphadenopathy.  Several coronary arteries have been stented.\n The aortic valve is mildly calcified.  There is lipomatous hypertrophy of ther\n interatrial septum.\n\n FINDINGS:  The trachea and bronchi are patent to subsegmental levels.  There\n is minimal subsegmental atelectasis at the lung bases but no focal\n consolidation or mass.  A pulmonary nodule in the right middle lobe measures 3\n mm in bidirectional measurements (4:106) requiring no further action [**First Name8 (NamePattern2) **]\n [**Last Name (un) 911**] guidelines.  Additional tiny subcentimeter calcified nodules are\n benign.\n\n The upper abdomen is partially imaged and appears unremarkable, as do osseous\n structures.\n\n IMPRESSION:  Minimal subsegmental atelectasis.  No evidence of malignancy or\n infection.\n\n"
+    },
+    {
+      "note_id": 51852,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 234,
+          "end": 246,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "Hyponatremia"
+        },
+        {
+          "begin": 400,
+          "end": 403,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 413,
+          "end": 416,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 422,
+          "end": 425,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 439,
+          "end": 451,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "hyponatremia"
+        },
+        {
+          "begin": 571,
+          "end": 590,
+          "code": "R11.2",
+          "code_system": "ICD-10-CM",
+          "description": "Nausea with vomiting, unspecified",
+          "type": "Human",
+          "covered_text": "nausea and vomiting"
+        },
+        {
+          "begin": 671,
+          "end": 682,
+          "code": "E86.0",
+          "code_system": "ICD-10-CM",
+          "description": "Dehydration",
+          "type": "Human",
+          "covered_text": "dehydration"
+        },
+        {
+          "begin": 1645,
+          "end": 1656,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Bradycardia"
+        },
+        {
+          "begin": 1657,
+          "end": 1676,
+          "code": "R03.0",
+          "code_system": "ICD-10-CM",
+          "description": "Elevated blood-pressure reading, without diagnosis of hypertension",
+          "type": "Human",
+          "covered_text": "Labile hypertension"
+        },
+        {
+          "begin": 1677,
+          "end": 1691,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 1692,
+          "end": 1707,
+          "code": "K91.5",
+          "code_system": "ICD-10-CM",
+          "description": "Postcholecystectomy syndrome",
+          "type": "Human",
+          "covered_text": "Cholecystectomy"
+        },
+        {
+          "begin": 1735,
+          "end": 1746,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "Acid reflux"
+        },
+        {
+          "begin": 1747,
+          "end": 1770,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 1836,
+          "end": 1844,
+          "code": "H40.9",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified glaucoma",
+          "type": "Human",
+          "covered_text": "Glaucoma"
+        },
+        {
+          "begin": 1872,
+          "end": 1878,
+          "code": "L30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Dermatitis, unspecified",
+          "type": "Human",
+          "covered_text": "Eczema"
+        },
+        {
+          "begin": 3579,
+          "end": 3582,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 3592,
+          "end": 3595,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 3601,
+          "end": 3604,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 3618,
+          "end": 3630,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "hyponatremia"
+        },
+        {
+          "begin": 3635,
+          "end": 3647,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "Hyponatremia"
+        },
+        {
+          "begin": 3911,
+          "end": 3923,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "hyponatremia"
+        },
+        {
+          "begin": 3993,
+          "end": 4005,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "hyponatremia"
+        },
+        {
+          "begin": 4865,
+          "end": 4886,
+          "code": "R41.82",
+          "code_system": "ICD-10-CM",
+          "description": "Altered mental status, unspecified",
+          "type": "Human",
+          "covered_text": "Altered mental status"
+        },
+        {
+          "begin": 5556,
+          "end": 5559,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 5992,
+          "end": 6007,
+          "code": "R74.8",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal levels of other serum enzymes",
+          "type": "Human",
+          "covered_text": "Elevated lipase"
+        },
+        {
+          "begin": 6233,
+          "end": 6235,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 6303,
+          "end": 6306,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 8167,
+          "end": 8179,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "Hyponatremia"
+        },
+        {
+          "begin": 8180,
+          "end": 8239,
+          "code": "E22.2",
+          "code_system": "ICD-10-CM",
+          "description": "Syndrome of inappropriate secretion of antidiuretic hormone",
+          "type": "Human",
+          "covered_text": "Syndrome of inappropriate secretion of antidiuretic hormone"
+        },
+        {
+          "begin": 8248,
+          "end": 8260,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        }
+      ],
+      "text": "Admission Date:  [**2151-11-27**]              Discharge Date:   [**2151-12-3**]\n\nDate of Birth:  [**2066-9-14**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPenicillins\n\nAttending:[**First Name3 (LF) 2290**]\nChief Complaint:\nHyponatremia\n\nMajor Surgical or Invasive Procedure:\nNone\n\n\nHistory of Present Illness:\nMrs. [**Known lastname **] is an 85 year old female with a PMH significant for\nCAD s/p PCI, HTN, and HLD admitted for hyponatremia. The patient\nand her daughters report that she has had decreased PO intake\nover the past week, and yesterday developed nausea and vomiting.\nHer daughters further state that she was admitted to NEBH one\nmonth prior for \"dehydration,\" but she did not have a low\nsodiuum level at that time. They further state that since her\ndischarge, she has had an acute decline in her memory and\nability to function independently, and is currently living at\nhome with her husband under 24 hour nursing care.  She denies\nany f/c/s, diarrhea, chest pain, shortness of breath, HA,\npalpitations, orthopnea, LE edema, or PND. The patient does\nreport a periumbilicar abomdinal pain, which her daughters state\nhas been going on for years.  Her daughters also state that she\nhas had no recent medication changes.\n.\nIn the [**Hospital1 18**] ED, initial VS 77 115/55 20 100%RA.  A CXR and UA\nwas negative. A CTAP demonstrated a 7 mm celiac aneurysm, for\nwhich vascular surgery was consulted in the ED with\nrecommendation for no acute intervention at this time. The\npatient was then admitted to the MICU for further management.\n.\nCurrently, the patient is resting comfortably without\ncomplaints.\n\nPast Medical History:\nBradycardia\nLabile hypertension\nHyperlipidemia\nCholecystectomy\nBilateral cataract surgery\nAcid reflux\nCoronary artery disease, s/p PCI to LAD, LCX and RCA\nCOPD/asthma (not an active problem)\nGlaucoma\nAppendectomy\nTonsillectomy\nEczema on legs bilaterally\n\nSocial History:\nMarried, lives at home with her husband, independent prior to\nadmission\n\n\nFamily History:\nNon-contributory\n\nPhysical Exam:\nVS: 97.7 87 173/78 21 100%RA\nGen: Elderly frail woman in NAD\nHEENT: Dry MM, PERRL, eomi, sclerae anicteric. No LAD\nCV: Nl S1+S2, JVP flat\nPulm: CTAB\nAbd: S/NT/ND +bs\nExt: No c/c/e.\nNeuro: AOx3, CN II-XII intact.\n\nOn discharge:\nVS: 97.8 156/90 92 16 97% RA\nGen: Elderly frail woman in NAD, AOx3\nHEENT: mmm, PERRL, eomi, sclerae anicteric. No LAD\nCV: Nl S1+S2, JVP flat\nPulm: CTAB\nAbd: S/NT/ND +bs\nExt: No c/c/e.\nNeuro: AOx3, unable to do days of the week backwards\n\n\nPertinent Results:\nCTAP:\n1. No AAA or acute aortic process.\n2. Ectatic celiac axis origin without discrete aneurysm.\n3. No acute intra-abdominal process seen.\n\nCXR: No acute intrathoracic process.\n\nCT head: 1. No evidence of intracranial mass to suggest a source\nof SIADH.\n2. No acute intracranial process.\n\nCT chest: Minimal subsegmental atelectasis. No evidence of\nmalignancy or\ninfection.\n\nAdmission labs:\n[**2151-11-27**] 11:20AM   GLUCOSE-140* UREA N-11 CREAT-0.5 SODIUM-113*\nPOTASSIUM-4.2 CHLORIDE-77* TOTAL CO2-26 ANION GAP-14\n[**2151-11-27**] 11:20AM   LIPASE-91*\n[**2151-11-27**] 11:20AM   ALT(SGPT)-21 AST(SGOT)-30 ALK PHOS-92 TOT\nBILI-0.5\n[**2151-11-27**] 03:51PM URINE  HOURS-RANDOM CREAT-53 SODIUM-70\nPOTASSIUM-46 CHLORIDE-73\n\nDischarge labs:\n[**2151-12-3**] 09:50AM BLOOD WBC-8.6 RBC-3.86* Hgb-10.7* Hct-32.4*\nMCV-84 MCH-27.8 MCHC-33.0 RDW-16.4* Plt Ct-329\n[**2151-12-3**] 09:50AM BLOOD Glucose-173* UreaN-11 Creat-0.5 Na-132*\nK-3.9 Cl-97 HCO3-28 AnGap-11\n\n\nBrief Hospital Course:\nMrs. [**Known lastname **] is an 85 year old female with a PMH significant for\nCAD s/p PCI, HTN, and HLD admitted for hyponatremia.\n\n# Hyponatremia: The patient was admitted with a serum sodium of\n113, but without seizure activity or evidence of coma,\nsuggesting that patient's sodium decreased slowly over time.\nHowever her mental status was not at baseline, very likely [**12-29**]\ndelirium in the setting of hyponatremia.  Her thiazide diuretic\nwas held, as this was likely contributing to hyponatremia.  On\nadmission, she was noted to be hypovolemic and her sodium\nimproved some with normal saline.  However, her sodium started\nto decrease with continued normal saline infusion.  Urine and\nserum lytes were rechecked and in the setting of euvolemia, her\nhyponatremia was thought most likely to be due to SIADH (urine\nosm >400, serum Na <120 and serum osms low, and urine Na\ninappropriately high).  CT head and chest were done to eval for\nmalignancy for etiology of SIADH, no masses were noted.  She was\ntreated with free water restriction and TID salt tabs, as\nrecommended by the nephrology service.  On discharge she will\ncontinue to take salt tabs and have her Na monitored as an\noutpatient.  Na on discharge 132.  She will f/u with PCP for\nanother [**Name9 (PRE) **] check on [**12-7**].  She should probably not restart a\nthiazide diuretic in the future.\n\n#Altered mental status: likely has baseline dementia that\ninitially was slowly progressing but acutely worsened after\nbeing hospitalized in [**Month (only) **].  Has 24 hr nursing care at home.\n During admission initially, was frequently not oriented to\nplace or location, or why she was in the hospital and often saw\npeople and things that were not actually present, with both\nauditory and visual hallucinations.  Waxing and [**Doctor Last Name 688**] course\nsuggested delirium in the setting of her hyponatremia vs\nworsening dementia.  On discharge, mental status at baseline per\nfamily, unable to do months of the year backwards but AOx3 and\nno hallucinations.  continued home aricept.\n\n# HTN: Her hydrochlorothiazide was held as above.  She was\ncontinued on valsartan at 160 mg [**Hospital1 **], which is her home dose.\nShe was also continued on isosorbide mononitrate.  SBP was still\nelevated to 140s-160s, so amlodipine 5 mg daliy was started for\nimproved BP control.\n\n# ?Celiac aneurysm: Initially CT Abd/pelvis showed concern for\nceliac artery aneursym, however final CTA read ectatic celiac\nartery without aneurysm.\n\n# Elevated lipase: Unclear significance with no radiographic\nevidence of pancreatic and benign abdominal exam.  Also had CTA\nabd/pelvis without evidence of pancreatitis.\n\n# CAD s/p PCI: She was continued on ASA, valsartan, and\nclopidogrel.\n\n# DM 2: HISS with accuchecks, continued home metformin on\ndischarge.\n\n# HLD: Vytorin continued on discharge.\n\nCode: DNR/DNI (confirmed with daughters/[**Name2 (NI) **]-HCPs during admission\n\nContact: [**Name (NI) 107386**],[**First Name3 (LF) **] [**Telephone/Fax (1) 107387**]\n\nMedications on Admission:\nClonidine 0.15 mg po bid\nASA 325 mg daily\nMVI\nxalatan eye drops\nValsartan 320 mg daily\nClopidogrel 75 mg daily\nVytorin daily\nCa/Vit D\nOmeprazole\nAricept 10 mg daily\nMOM\nFosamax 35 mg weekly\nMetformin 850 mg po bid\nHCTZ 25 mg daily\nImdur 60 mg daily\nSL NTG PRN\n\nDischarge Medications:\n1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n2. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at\nbedtime).\n3. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).\n\n5. isosorbide mononitrate 30 mg Tablet Sustained Release 24 hr\nSig: Two (2) Tablet Sustained Release 24 hr PO DAILY (Daily).\n6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n7. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n8. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n9. sodium chloride 1 gram Tablet Sig: One (1) Tablet PO TID (3\ntimes a day).\nDisp:*90 Tablet(s)* Refills:*2*\n10. metformin 850 mg Tablet Sig: One (1) Tablet PO twice a day.\n\n11. valsartan 320 mg Tablet Sig: One (1) Tablet PO once a day.\n12. Fosamax 35 mg Tablet Sig: One (1) Tablet PO once a week.\n13. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO once a day.\n14. Trusopt 2 % Drops Sig: One (1)  Ophthalmic twice a day: 1\ndrop both eyes [**Hospital1 **].\n15. Vytorin [**9-14**] 10-20 mg Tablet Sig: One (1) Tablet PO once a\nday.\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nBayada VNA\n\nDischarge Diagnosis:\nHyponatremia\nSyndrome of inappropriate secretion of antidiuretic hormone\n(SIADH)\nHypertension\n\n\nDischarge Condition:\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\nLevel of Consciousness: Alert and interactive.\nMental Status: Confused - sometimes.\n\n\nDischarge Instructions:\nYou were seen in the hospital for hyponatremia, which is a low\nlevel of sodium in your blood.  This may have been caused by\ndecreased eating and drinking at home, and also by a hormone in\nyour body that was holding on to too much water in the blood\nstream and diluting the sodium in your blood.\n\nPlease continue taking salt tablets three times a day and\nrestricting free water intake.  This means limiting the intake\nof plain water, juice, tea, and other fluids like this to one\nliter per day.  Liquids such as gatorade, soup, supplement\nshakes, and others that have a higher content of salt and\nelectrolytes are not limited.  Please continue limiting free\nwater to 1 liter per day unless directed otherwise by your PCP,\n[**Last Name (NamePattern4) **]. [**Last Name (STitle) **].\n\nWe also stopped your hydrochlorothiazide, which may have been\ncontributing to the low sodium level in your blood.  To control\nyour blood pressure, we started a new medication, amlodipine,\nfor blood pressure control.\n\nChanges to your medications:\nSTOP taking hydrochlorothiazide\nSTOP taking clonidine\n\nSTART taking amlodipine daily\nSTART taking salt tablets (sodium chloride) three times a day\nwith meals\n\nFollowup Instructions:\nName: [**Last Name (LF) **],[**First Name3 (LF) **] J.\nLocation: [**Doctor Last Name **] BLDG, [**Apartment Address(1) 17383**]\nAddress: [**Last Name (NamePattern1) 8541**], [**Location (un) **],[**Numeric Identifier 9749**]\nPhone: [**Telephone/Fax (1) 7960**]\nAppt: [**12-8**] at 3pm\n\n\n\nCompleted by:[**2151-12-3**]"
+    },
+    {
+      "note_id": 1170880,
+      "category": "Radiology",
+      "description": "CT HEAD W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 27,
+          "end": 47,
+          "code": "70450",
+          "code_system": "CPT",
+          "description": "Computed tomography, head or brain; without contrast material",
+          "type": "Human",
+          "covered_text": "CT HEAD W/O CONTRAST"
+        },
+        {
+          "begin": 184,
+          "end": 196,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "HYPONATREMIA"
+        },
+        {
+          "begin": 343,
+          "end": 346,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 348,
+          "end": 351,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        }
+      ],
+      "text": "[**2151-11-30**] 11:01 AM\n CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 85640**]\n Reason: SIADH, ?malignancy\n Admitting Diagnosis: HYPONATREMIA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old woman with h/o CAD, HTN p/w hyponatremia, gram + bacteremia\n REASON FOR THIS EXAMINATION:\n  SIADH, ?malignancy\n No contraindications for IV contrast\n ______________________________________________________________________________\n PROVISIONAL FINDINGS IMPRESSION (PFI): SZm [**First Name8 (NamePattern2) 2019**] [**2151-11-30**] 2:56 PM\n  PFI:  No evidence of intracranial mass or lesion to suggest the patient's\n  SIADH.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  SIADH, question of underlying malignancy.\n\n COMPARISON:  No prior.\n\n TECHNIQUE:  CT of the head without IV contrast.  There is no evidence of any\n intracranial masses.  In particular, there is no evidence of any suprasellar\n mass to suggest the cause of patient's underlying SIADH.  Note is made of\n diffuse periventricular hypodensities consistent with small vessel ischemic\n disease.  Otherwise, the ventricle and sulci are appropriate for the patient's\n age.  The patient has had prior lung surgery.\n\n Findings consistent with vascular territory infarct.\n\n There is no evidence of fracture.  Paranasal sinuses and mastoid air cells are\n unremarkable with no fluid.\n\n IMPRESSION:\n 1.  No evidence of intracranial mass to suggest a source of SIADH.\n 2.  No acute intracranial process.\n\n\n"
+    },
+    {
+      "note_id": 1170881,
+      "category": "Radiology",
+      "description": "CT HEAD W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 124,
+          "end": 144,
+          "code": "70450",
+          "code_system": "CPT",
+          "description": "Computed tomography, head or brain; without contrast material",
+          "type": "Human",
+          "covered_text": "CT HEAD W/O CONTRAST"
+        },
+        {
+          "begin": 281,
+          "end": 293,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "HYPONATREMIA"
+        },
+        {
+          "begin": 440,
+          "end": 443,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 445,
+          "end": 448,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        }
+      ],
+      "text": "[**Last Name (LF) 4255**],[**First Name3 (LF) 4256**] N.              MED CC7A                   [**2151-11-30**] 11:01 AM\n CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 85640**]\n Reason: SIADH, ?malignancy\n Admitting Diagnosis: HYPONATREMIA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85 year old woman with h/o CAD, HTN p/w hyponatremia, gram + bacteremia\n REASON FOR THIS EXAMINATION:\n  SIADH, ?malignancy\n No contraindications for IV contrast\n ______________________________________________________________________________\n                                  PFI REPORT\n PFI:  No evidence of intracranial mass or lesion to suggest the patient's\n SIADH.\n\n\n"
+    },
+    {
+      "note_id": 1170483,
+      "category": "Radiology",
+      "description": "CHEST (PA & LAT)",
+      "annotations": [
+        {
+          "begin": 27,
+          "end": 42,
+          "code": "71046",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; 2 views",
+          "type": "Human",
+          "covered_text": "CHEST (PA & LAT"
+        },
+        {
+          "begin": 511,
+          "end": 521,
+          "code": "R07.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chest pain, unspecified",
+          "type": "Human",
+          "covered_text": "chest pain"
+        },
+        {
+          "begin": 526,
+          "end": 541,
+          "code": "R10.9",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified abdominal pain",
+          "type": "Human",
+          "covered_text": "abdominal pain."
+        },
+        {
+          "begin": 789,
+          "end": 813,
+          "code": "M51.34",
+          "code_system": "ICD-10-CM",
+          "description": "Other intervertebral disc degeneration, thoracic region",
+          "type": "Human",
+          "covered_text": "mild degenerative change"
+        }
+      ],
+      "text": "[**2151-11-27**] 11:54 AM\n CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 85639**]\n Reason: r/o pna\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  85F p/w CP, abd pain, N/V since yest\n REASON FOR THIS EXAMINATION:\n  r/o pna\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  85-year-old female with chest pain and abdominal pain.\n\n COMPARISON:  None available.\n\n TWO VIEWS OF THE CHEST:\n\n The lungs are well expanded and clear.  The cardiomediastinal silhouette,\n hilar contours, and pleural surfaces are normal.  No pleural effusions or\n pneumothoraces are present.  There is mild degenerative change with anterior\n osteophyte formation of the mid thoracic spine.\n\n IMPRESSION:\n\n No acute intrathoracic process.\n\n\n"
+    }
+  ]
+}

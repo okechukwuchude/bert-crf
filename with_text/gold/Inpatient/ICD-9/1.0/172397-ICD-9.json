@@ -1,0 +1,59 @@
+{
+  "hadm_id": 172397,
+  "comment": "CABG- Need OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 51391,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 886,
+          "end": 898,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 907,
+          "end": 940,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "of Paroxsymal Atrial Fibrillation"
+        },
+        {
+          "begin": 963,
+          "end": 991,
+          "code": "600.00",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "MapType.APPROX",
+          "covered_text": "Benign Prostatic Hypertrophy"
+        },
+        {
+          "begin": 992,
+          "end": 1027,
+          "code": "V10.83",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of other malignant neoplasm of skin",
+          "type": "Human",
+          "covered_text": "Basal Cell Carcinoma s/p resection\n"
+        },
+        {
+          "begin": 6831,
+          "end": 6854,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary Artery Disease"
+        }
+      ],
+      "text": "Admission Date:  [**2161-11-10**]              Discharge Date:   [**2161-11-14**]\n\nDate of Birth:  [**2089-7-27**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nIodine / Tetracycline\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nPositive stress test\n\nMajor Surgical or Invasive Procedure:\n[**2161-11-10**] Two Vessel Coronary Artery Bypass Grafting(left\ninternal mammary artery to left anterior descending artery with\nvein graft to obtuse marginal)\n\n\nHistory of Present Illness:\nThis is a 72 year old male who was recently noted to have subtle\nECG changes but complaints of angina, shortness of breath, etc.\nStress test was positive at high workload(completed). Subsequent\ncardiac catheterization revealed 60% left main with a >95%\nproximal LAD lesion not ammenable to PCI/stenting. He was\ntherefore referred for surgical revascualrization.\n\nPast Medical History:\nHypertension\nHistory of Paroxsymal Atrial Fibrillation\nHistory of ETOH Abuse\nBenign Prostatic Hypertrophy\nBasal Cell Carcinoma s/p resection\n\nSocial History:\nLives with: sign. other\nOccupation: semi retired chemical engineer\nTobacco: cigar per week\nETOH: Occasional\n\n\nFamily History:\nNo premature coronary artery disease\n\nPhysical Exam:\nPreop Exam\n\nPulse: Resp:  O2 sat:\nB/P  Right: 112/60   Left: 112/60\nHeight:     Weight:\n\nGeneral:WDWN IN NAD\nSkin: Dry [x] intact [x]Pale red lesions to LT midline upper\nant.\nchest\nHEENT: PERRLA x[] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]\nExtremities: Warm [x], well-perfused [x]  Edema Varicosities:\nNone [x]\nNeuro: Grossly intact\nPulses:\nFemoral      Right:2   Left:2\nDP           Right:2   Left:2\nPT           [**Name (NI) 167**]:2   Left:2\nRadial       Right:2   Left:2\n\nCarotid Bruit        Right: no   Left: no\n\nDischarge Exam\nVS: T: 98.2  HR: 93 Afib  BP: 102/63  Sats: 99% RA  Wt: 64.4 Kg\n(59 kg)\nGeneral: 72 year-old male in no apparent distress\nHEENT: normocephalic, mucus membranes moist\nNeck: supple no lymphadenopathy\nCard: irregular\nResp:\nGI: benign\nExtr: warm no edema\nNeuro: awake,alert oriented.  Walking independently\n\n\nPertinent Results:\n[**2161-11-10**] Intraop TEE:\nPREBYPASS\nNo spontaneous echo contrast is seen in the body of the left\natrium or left atrial appendage. No spontaneous echo contrast is\nseen in the body of the right atrium. The coronary sinus is\ndilated (diameter >15mm). Left ventricular wall thicknesses are\nnormal. The left ventricular cavity size is normal. Overall left\nventricular systolic function is normal (LVEF>55%). Right\nventricular chamber size is normal with normal free wall\ncontractility. There are simple atheroma in the descending\nthoracic aorta. The aortic valve leaflets (3) are mildly\nthickened. There is no aortic valve stenosis. Mild (1+) aortic\nregurgitation is seen. The mitral valve leaflets are mildly\nthickened. Trivial mitral regurgitation is seen. There is no\npericardial effusion.\n\nPOSTBYPASS\nThe patient is A-paced. Biventricular systolic function remains\nnormal. Trace mitral regurgitation and mild aortic insufficiency\npersist. The thoracic aorta is intact\n\n[**2161-11-14**] WBC-5.8 RBC-3.02* Hgb-9.0* Hct-26.1* MCV-87 MCH-29.7\nMCHC-34.3 RDW-13.0 Plt Ct-198\n[**2161-11-10**] WBC-5.7 RBC-2.72*# Hgb-8.3*# Hct-23.9*# MCV-88 MCH-30.5\nMCHC-34.8 RDW-12.9 Plt Ct-100*\n[**2161-11-14**] Glucose-115* UreaN-19 Creat-0.7 Na-139 K-3.9 Cl-102\nHCO3-30\n[**2161-11-10**] UreaN-15 Creat-0.6 Na-142 K-3.7 Cl-111* HCO3-24\nAnGap-11\n[**2161-11-14**] Mg-2.1\n\nCXR:\n[**2161-11-14**]: PA & Lat preliminary read small left lower lobe\neffusion\n[**2161-11-11**]: There is no pneumothorax. Cardiac size is top normal.\nLeft lower lobe opacities have worsened, consistent with\nworsening atelectasis. There are  small bilateral pleural\neffusions. Right IJ catheter remains in place.  Sternal wires\nare aligned. Right apical calcified granuloma is unchanged.\n\n\nBrief Hospital Course:\nMr. [**Known lastname **] was admitted and underwent coronary artery bypass\ngrafting surgery by Dr. [**Last Name (STitle) **]. For surgical details, please\nsee operative note. Following the operation, he was brought to\nthe CVICU for invasive monitoring. Within 24 hours, he awoke\nneurologically intact and was extubated without incident. He\nmaintained stable hemodynamics and transferred to the SDU on\npostoperative day one. Chest tubes and pacing wires were removed\nwithout complication.\n\nRespiratory: aggressive pulmonary toilet, nebs, incentive\nspirometer he titrated off oxygen with saturations 96% on room\nair.\n\nCardiac: Intermittent paroxysmal atrial fibrillation was started\non amiodarone, beta-blocker dose increased with rate control of\n90-100.  Blood pressure 100-110 hemodynamically stable.\n\nGI: H2 blocker and bowel regime.\n\nNutrition: tolerated a cardiac healthy diet\n\nRenal: renal function within normal range with good urine\noutput.\n\nIncision: sternal incision clean, dry, intact, margins well\napproximated no erythena\n\nHeme: anticoagulation aspirin 325 mg & Plavix 75\n\nPain: Pain well control on acetaminophen and occasional\nnarcotic.\n\nDisposition: he was seen by physical therapy and was discharged\nto home with VNA on [**2161-11-14**].  He will follow-up with Dr.\n[**Last Name (STitle) **] and his cardiologist as an outpatient.\n\nMedications on Admission:\nMetoprolol XL 5omg daily, Plavix 75 mg daily - last dose\n[**2161-11-6**], Hytrin 5mg daily, Avadart 0.5mg daily, ASA 325mg daily\n\n\nDischarge Medications:\n1. potassium chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:\nOne (1) Tab Sust.Rel. Particle/Crystal PO once a day: take with\nlasix.\nDisp:*5 Tab Sust.Rel. Particle/Crystal(s)* Refills:*1*\n2. aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.\n3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n4. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n5. terazosin 5 mg Capsule Sig: One (1) Capsule PO HS (at\nbedtime).\n6. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n7. Avodart 0.5 mg Capsule Sig: One (1) Capsule PO QHS (once a\nday (at bedtime)).\n8. furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*5 Tablet(s)* Refills:*1*\n9. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nevery 4-6 hours as needed for pain.\nDisp:*50 Tablet(s)* Refills:*0*\n10. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H\n(every 4 hours) as needed for pain.\n11. sotalol 80 mg Tablet Sig: One (1) Tablet PO once a day as\nneeded.\n12. metoprolol succinate 50 mg Tablet Sustained Release 24 hr\nSig: One (1) Tablet Sustained Release 24 hr PO twice a day.\nDisp:*60 Tablet Sustained Release 24 hr(s)* Refills:*2*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital 119**] Homecare\n\nDischarge Diagnosis:\nCoronary Artery Disease, s/p CABG\nHypertension\nHistory of Paroxysmal Atrial Fibrillation\nHistory of ETOH Abuse\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Right/Left - healing well, no erythema or drainage. Edema\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 170**] Date/Time:[**2161-12-3**] 1:00\n\nCardiologist: Dr. [**Last Name (STitle) **] please call for a follow-up appointment\nnext week for atrial fibrillation.\n\nPlease call to schedule appointments with your\nPrimary Care Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1728**] in [**4-20**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\nCompleted by:[**2161-11-14**]"
+    }
+  ]
+}

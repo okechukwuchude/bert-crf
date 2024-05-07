@@ -1,0 +1,131 @@
+{
+  "hadm_id": 140585,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 39882,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 231,
+          "end": 261,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "Aortic stenosis/ regurgitation"
+        },
+        {
+          "begin": 301,
+          "end": 327,
+          "code": "35.21",
+          "code_system": "ICD-9-PCS",
+          "description": "Replacement of aortic valve with tissue graft",
+          "type": "Human",
+          "covered_text": "aortic valve replacement ("
+        },
+        {
+          "begin": 739,
+          "end": 762,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 763,
+          "end": 770,
+          "code": "412",
+          "code_system": "ICD-9-CM",
+          "description": "Old myocardial infarction",
+          "type": "Human",
+          "covered_text": "s/p AMI"
+        },
+        {
+          "begin": 781,
+          "end": 804,
+          "code": "414.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified forms of chronic ischemic heart disease",
+          "type": "Human",
+          "covered_text": "Ischemic cardiomyopathy"
+        },
+        {
+          "begin": 847,
+          "end": 859,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 860,
+          "end": 874,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 913,
+          "end": 934,
+          "code": "V43.64",
+          "code_system": "ICD-9-CM",
+          "description": "Hip joint replaced by other means",
+          "type": "MapType.APPROX",
+          "covered_text": "Right hip replacement"
+        },
+        {
+          "begin": 962,
+          "end": 978,
+          "code": "V45.72",
+          "code_system": "ICD-9-CM",
+          "description": "Acquired absence of intestine (large) (small)",
+          "type": "Human",
+          "covered_text": "Bowel resection("
+        },
+        {
+          "begin": 1271,
+          "end": 1326,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "Tobacco:Quit 40 yrs ago, previously smoked 1ppwk x20yrs"
+        },
+        {
+          "begin": 6972,
+          "end": 6991,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial fibrillation"
+        },
+        {
+          "begin": 7139,
+          "end": 7156,
+          "code": "276.69",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "volume overloaded"
+        },
+        {
+          "begin": 7416,
+          "end": 7433,
+          "code": "V58.66",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of aspirin",
+          "type": "MapType.EXACT",
+          "covered_text": "Aspirin 325 daily"
+        }
+      ],
+      "text": "Admission Date:  [**2190-10-20**]              Discharge Date:   [**2190-10-25**]\n\n\nService: CARDIOTHORACIC\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nAortic stenosis/ regurgitation\n\nMajor Surgical or Invasive Procedure:\naortic valve replacement (21mm St. [**Male First Name (un) 923**] porcine) [**2190-10-20**]\n\n\nHistory of Present Illness:\nThis 86 year old white female has known aortic stenosis with\nprogressive dyspnea on exertion and fatigue over 7 months.  She\nhas previously undergone catheterization to demonstrate clean\ncoronaries, despite a prior anterior infaction in [**2173**].  She is\nadmitted now for valve replacement.\n\nPast Medical History:\nCoronary artery disease s/p AMI '[**73**]\nIschemic cardiomyopathy (EF 35-40%)\nAortic stenosis/insufficiency\nHypertension\nHyperlipidemia\nDiverticulitis\nPast Surgical History: Right hip replacement s/p\nfracture(MVA)'[**78**]\nBowel resection(diverticular dz)-'[**72**]\nIncisional hernia repair '[**73**]\nBilat cataract removal\nOvarian cyst removal\n\n\nSocial History:\nRace: Caucasian\nLast Dental Exam: 1 month ago\nLives with: Husband\nOccupation: Retired college professor/[**Male First Name (un) **]-Education([**University/College **])\nTobacco:Quit 40 yrs ago, previously smoked 1ppwk x20yrs\nETOH:1 drink every other month\n\n\nFamily History:\nnon-contributory\n\nPhysical Exam:\nPulse: 54   Resp: 16  O2 sat: 98%-RA\nB/P  Right: 160/72   Left:\nHeight: 65 in    Weight: 176 lbs\n\nGeneral:\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x] MMM, normal oropharynx\nNeck:  Supple [x] Full ROM [x], no JVD or lymphadenopathy\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur: [**2-20**] blowing murmur\nAbdomen: Soft[x] non-distended[x] non-tender [x] +bowel\nsounds[x]\nExtremities: Warm [x], well-perfused [x]  Edema: none\nVaricosities: minimal\nNeuro: Grossly intact, A&O x3-MAE, nonfocal exam\nPulses:\nFemoral      Right: 2+  Left: 2+\nDP           Right: 1+  Left: 1+\nPT           [**Name (NI) 167**]: 1+  Left: 1+\nRadial       Right: 2+  Left: 2+\n\nCarotid Bruit: radiated murmur   Right:    Left:\n\n\nPertinent Results:\n[**2190-10-22**] 02:10AM BLOOD WBC-13.1* RBC-3.41* Hgb-10.1* Hct-30.2*\nMCV-89 MCH-29.7 MCHC-33.4 RDW-14.4 Plt Ct-126*\n[**2190-10-24**] 06:20AM BLOOD Na-135 K-4.5 Cl-101\n[**2190-10-23**] 06:40AM BLOOD WBC-10.0 RBC-3.32* Hgb-9.9* Hct-29.6*\nMCV-89 MCH-29.9 MCHC-33.5 RDW-14.0 Plt Ct-122*\n[**2190-10-20**] 12:30PM BLOOD WBC-6.9 RBC-2.57*# Hgb-7.7*# Hct-22.4*#\nMCV-87 MCH-29.9 MCHC-34.2 RDW-13.4 Plt Ct-122*#\n[**2190-10-23**] 06:40AM BLOOD Glucose-113* UreaN-26* Creat-1.1 Na-138\nK-4.2 Cl-103 HCO3-28 AnGap-11\n[**2190-10-20**] 01:35PM BLOOD UreaN-10 Creat-0.7 Na-141 K-4.3 Cl-115*\nHCO3-22 AnGap-8\n\n\n[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT\n\n[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 87732**] (Complete)\nDone [**2190-10-20**] at 11:46:35 AM      FINAL\nReferring Physician     [**Name9 (PRE) **] Information\n[**Name9 (PRE) **], [**First Name3 (LF) **] R.\n[**Hospital1 18**], Division of Cardiothorac\n[**Hospital Unit Name 4081**]\n[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2103-12-5**]\nAge (years): 86 F  Hgt (in):\nBP (mm Hg): /  Wgt (lb):\nHR (bpm):  BSA (m2):\nIndication: AVR\nICD-9 Codes: 786.05, 786.51, 424.1, 424.0\nTest Information\nDate/Time: [**2190-10-20**] at 11:46    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD\n\nTest Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD\nDoppler: Full Doppler and color Doppler Test Location:\nAnesthesia West OR cardiac\nContrast: None Tech Quality: Adequate\nTape #: 2010AW-1: Machine: [**Doctor Last Name **]\nEchocardiographic Measurements\nResults  Measurements  Normal Range\nLeft Ventricle - Inferolateral Thickness:  1.1 cm  0.6 - 1.1 cm\n\nLeft Ventricle - Diastolic Dimension:  *6.0 cm  <= 5.6 cm\nLeft Ventricle - Ejection Fraction:  45% to 50%  >= 55%\nAortic Valve - Peak Gradient:  *56 mm Hg  < 20 mm Hg\nAortic Valve - Mean Gradient:  35 mm Hg\nAortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2\n\nFindings\nLEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum.\n\nLEFT VENTRICLE: Mildly depressed LVEF.\n\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\n\nAORTA: Normal ascending aorta diameter. Complex (>4mm) atheroma\nin the descending thoracic aorta.\n\nAORTIC VALVE: ?# aortic valve leaflets. Severely\nthickened/deformed aortic valve leaflets. Critical AS (area\n<0.8cm2). Moderate (2+) AR.\n\nMITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)\nMR.\n\nTRICUSPID VALVE: Mild [1+] TR.\n\nPULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.\n\nPERICARDIUM: No pericardial effusion.\n\nGENERAL COMMENTS: A TEE was performed in the location listed\nabove. I certify I was present in compliance with HCFA\nregulations. The patient was under general anesthesia throughout\nthe procedure. The TEE probe was passed with assistance from the\nanesthesioology staff using a laryngoscope. No TEE related\ncomplications.\nConclusions\nPre-CPB:\nNo spontaneous echo contrast is seen in the left atrial\nappendage.\nOverall left ventricular systolic function is mildly depressed\n(LVEF= 45 - 50 %).\nRight ventricular chamber size and free wall motion are normal.\nThere are complex (>4mm) atheroma in the descending thoracic\naorta.\nThe number of aortic valve leaflets cannot be determined. The\naortic valve leaflets are severely thickened/deformed. There is\ncritical aortic valve stenosis (valve area <0.8cm2). Moderate\n(2+) aortic regurgitation is seen.\nThe mitral valve leaflets are mildly thickened. Mild (1+) mitral\nregurgitation is seen. There is no pericardial effusion.\n\nPost-CPB:\nThe patient is A-Paced, on no inotropes.\nPreserved biventricular systolic fxn.\nThere is a prosthetic aortic valve with no leak and no\nregurgitation.\nMean residual gradient = 10 mmHg.\nNo MR. [**First Name (Titles) **] [**Last Name (Titles) **].\nAorta intact.\n  I certify that I was present for this procedure in compliance\nwith HCFA regulations.\n\nElectronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD, Interpreting\nphysician [**Last Name (NamePattern4) **] [**2190-10-20**] 13:01\n\n\nBrief Hospital Course:\nFollowing admission she went to the Operating Room where aortic\nvalve replacement was undertaken.  She operative note for\ndetails.  She weaned from bypass easily on Propofol alone.  She\nawoke anxious but intact, requiring nitroglycerin intravenously\nfor BP control.  She was extubated on POD 1 and oral agents\n(Valsartan and Lopressor). Diuresis towards her preoperative\nweight was begun and she transferred to the floor on POD 2.\n\nPhysical Therapy worked with her for strength and mobility.  CTs\nand temporary pacing wires were removed per protocols.  She had\na brief episode of atrial fibrillation in the 140s on POD 4,\nwhich was well tolerated.  This was treated with IV Lopressor\nand amiodarone with restoration of sinus rhythm.  She remained\nvolume overloaded and was discharged to rehab on IV lasix for 1\nweek.\n\nOn POD 5 she was ready for discharge and went TO [**Hospital 38**] Rehab\na MWMC in [**Location (un) 1110**].\n\nMedications on Admission:\nMetoprolol ER 25 daily\nSimvastatin 40 daily\nZetia 10 daily\nNTG-sl-prn\nAspirin 325 daily\nDiovan 320 daily\nFish Oil\nVitamin E 400IU daily\nVitamin D 500mg daily\n\n\nDischarge Medications:\n1. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every\n4 hours) as needed for pain.\n2. ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n3. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n5. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO HS (at bedtime) as needed for constipation.\n6. valsartan 160 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n7. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours) as needed for pain.\n8. amiodarone 200 mg Tablet Sig: as directed Tablet PO BID (2\ntimes a day): 1 tab(200mg) [**Hospital1 **] for two weeks then one tab(200mg)\ndaily.\n9. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n10. psyllium     Packet Sig: One (1) Packet PO BID (2 times a\nday) as needed for constipation.\n11. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\n12. furosemide 10 mg/mL Solution Sig: Four (4)  Injection twice\na day for 1 weeks: 40mg IV lasix [**Hospital1 **] x 1 week, then re-evaluate.\n\n13. potassium chloride 20 mEq Tab Sust.Rel. Particle/Crystal\nSig: One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12\nhours) for 1 weeks.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\ntba\n\nDischarge Diagnosis:\nAortic stenosis/reguritation\nhypertension\ns/p aortic valve replacement\ns/p right total hip arthroplasty\nischemic cardiomyopathy\ncoronary artery disease\ns/p colon resection for diverticular disease\ns/p herniorraphy\ns/p cataract extractions\nhyperlipidemia\ns/p ovarian cystectomy\n\n\nDischarge Condition:\nAlert and oriented x3, nonfocal\nAmbulating with steady gait\nIncisional pain managed with Ultram\nIncisions:\nSternal - healing well, no erythema or drainage\nEdema: 1+ bilateral LEs\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 6256**]) at [**Hospital1 **] on [**11-18**] at\n9:00am  Cardiologist:Dr. [**First Name8 (NamePattern2) 3924**] [**Last Name (NamePattern1) 20222**] ([**Telephone/Fax (1) 6256**]) on\n[**2190-12-20**] at 2:30pm\n\nPlease call to schedule appointments with:\nPrimary Care Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4640**] ([**Telephone/Fax (1) 20221**]) in [**3-22**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\n\nCompleted by:[**2190-10-25**]"
+    }
+  ]
+}

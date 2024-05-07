@@ -1,0 +1,77 @@
+{
+  "hadm_id": 175989,
+  "comment": "CABG - Missing OP Note to validate PCS",
+  "notes": [
+    {
+      "note_id": 41040,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 712,
+          "end": 715,
+          "code": "440.20",
+          "code_system": "ICD-9-CM",
+          "description": "Atherosclerosis of native arteries of the extremities, unspecified",
+          "type": "Human",
+          "covered_text": "PVD"
+        },
+        {
+          "begin": 717,
+          "end": 719,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 725,
+          "end": 737,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 1279,
+          "end": 1302,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 1323,
+          "end": 1371,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "moderate aortic valve stenosis with a valve area"
+        },
+        {
+          "begin": 1392,
+          "end": 1401,
+          "code": "696.1",
+          "code_system": "ICD-9-CM",
+          "description": "Other psoriasis and similar disorders excluding psoriatic arthropathy",
+          "type": "MapType.APPROX",
+          "covered_text": "psoriasis"
+        },
+        {
+          "begin": 9068,
+          "end": 9093,
+          "code": "788.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified retention of urine",
+          "type": "Human",
+          "covered_text": "post-op urinary retention"
+        }
+      ],
+      "text": "Admission Date:  [**2141-5-10**]              Discharge Date:   [**2141-5-18**]\n\nDate of Birth:  [**2070-4-7**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 165**]\nChief Complaint:\nChest pain and dyspnea\n\nMajor Surgical or Invasive Procedure:\n[**2141-5-12**] 1. Urgent coronary artery bypass graft x3 -- left\ninternal mammary artery to the diagonal, vein graft to the\ndistal left anterior descending artery, and vein graft to the\nright coronary artery. 2. Aortic valve replacement with a size\n23 mm [**Doctor Last Name **] Magna Ease tissue valve.\n\n\nHistory of Present Illness:\n71 y/o Hispanic male with PMH significant for PVD, DM, and\nhypertension who presented with fatigue after walking 2 to 3\nblocks.  Presented with chest\ndiscomfort in upper chest unrelated to activity.  ECHO on [**2141-4-11**]\nshowed mild concentric LVH with EF of 60-65%, sever AS with mean\ngradient of 53 mm HG and [**Location (un) 109**] of .63 cm2.  Cardiac cath today\nshowed severe AS with mean gradient of 54 mm Hg and [**Location (un) 109**] of .77\ncm2, 50% ostial lesion of RCA, 70% D1 and diffuse disease of\nLCx. Transferred to [**Hospital1 18**] for further evaluation and treatment\n\nPast Medical History:\nCoronary artery disease\nIDDM\nhyperlipidemia\nmoderate aortic valve stenosis with a valve area of [**12-4**].2 cm2\npsoriasis\n\n\nSocial History:\nThe patient lives with his wife in an apartment complex.  He is\nprimarly Spanish speaking and denies tobacco, alcohol, or\nillicit drug use.\n\n\nFamily History:\nN/C\n\nPhysical Exam:\nGeneral: NAD, alert, cooperative\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM []x\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur [x] grade _3-4/6 SEM across\nprecordium_____\nAbdomen: Soft [x] non-distended [x] non-tender []x  bowel sounds\n+\n[x]\nExtremities: Warm [], well-perfused []  Edema [] _____\nVaricosities: None [][**12-5**]+ left pretibial edema with stasis\ndermatitis and amputation of rightsecond and third toes\nNeuro: Grossly intact [x]\nPulses:\nFemoral      Right: +1  Left:+1\nDP           Right:+1   Left:+1\nPT           [**Name (NI) 167**]: +1  Left:+1\nRadial       Right: +1  Left:+2\n\nCarotid Bruit        Right:murmur transmits to carotid\nLeft:murmur transmits to carotid\n\n\nPertinent Results:\n[**2141-5-11**] Carotid ultrasound\nImpression: Right ICA less than 40% stenosis. Left ICA less than\n40% stenosis\n.\n[**2141-5-11**] CTA\n1.  No evidence of aortic aneurysm.  No ascending aortic\ncalcifications with calcifications seen only at the level of the\naortic valve.\n2.  Extensive calcifications of the aortic valve itself\nconsistent with known aortic valve stenosis.  Extensive coronary\ncalcifications.\n3.  Right lower lobe 6 mm spiculated nodule that should be\nreassessed in three months for assessment of stability to\nexclude the possibility of neoplastic growth.  Additional\npulmonary nodules mentioned in the body of the report can be\nreassessed at the same time.\n\n[**2141-5-12**] ECHO\nPRE-BYPASS:\nThe left atrium is dilated. No spontaneous echo contrast or\nthrombus is seen in the body of the left atrium/left atrial\nappendage or the body of the right atrium/right atrial\nappendage. No atrial septal defect is seen by 2D or color\nDoppler.\nThere is mild symmetric left ventricular hypertrophy with normal\ncavity size and regional/global systolic function (LVEF>55%).\nRight ventricular chamber size and free wall motion are normal.\nThe aortic valve leaflets are severely thickened/deformed. There\nis severe aortic valve stenosis (valve area 0.8-1.0cm2). Trace\naortic regurgitation is seen.\nThe mitral valve leaflets are mildly thickened. Trivial mitral\nregurgitation is seen. There is no pericardial effusion. Dr.\n[**First Name (STitle) **] was notified in person of the results before surgical\nincision.\n\nPOST-BYPASS:\nPreserved biventricular systolic functin.\nLVEF 55%.\nIntact thoracic aorta.\nThe bioprosthetic valve in the native aortic position is well\nseated and moving well. The peak is 15 and mean is 5 mm of Hg.\nTrivial MR>\n.\n[**2141-5-13**] Head CT\nArterial calcifications and signs of chronic sphenoid sinus\ninflammation, otherwise normal study.\n\nCXR [**5-17**]:\nIntact sternomy wires. Aortic valve prosthesis. Unchanged L\nhemidiaphragm\nelevation and atelectasis.\n\n[**2141-5-17**] 06:02AM BLOOD WBC-6.4 RBC-3.37* Hgb-9.3* Hct-29.7*\nMCV-88 MCH-27.7 MCHC-31.4 RDW-13.6 Plt Ct-113*\n[**2141-5-17**] 06:02AM BLOOD Plt Ct-113*\n[**2141-5-13**] 02:58AM BLOOD PT-15.4* PTT-36.7* INR(PT)-1.4*\n[**2141-5-17**] 06:02AM BLOOD Glucose-148* UreaN-21* Creat-1.0 Na-138\nK-3.9 Cl-104 HCO3-24 AnGap-14\n[**2141-5-12**] 04:30AM BLOOD ALT-117* AST-133* LD(LDH)-310*\nAlkPhos-130 TotBili-1.0\n\nBrief Hospital Course:\nMr. [**Known lastname 13621**] was transferred to the [**Hospital1 18**] on [**2141-5-10**] for surgical\nmanagement of his aortic valve and coronary artery disease. He\nwas worked-up in the usual preoperative manner. A carotid duplex\nultrasound was obtained which showed less then a 40% bilateral\ninternal carotid artery stenosis. A dental consult was obtained\nwhich found no contraindication for surgery after obtaining a\nPanorex x-ray of his teeth. A chest CT scan was performed which\nshowed no significant aortic calcifications but did note a right\nlower lobe 6 mm spiculated nodule that should be reassessed in\nthree months for assessment of stability to exclude the\npossibility of neoplastic growth. Labs showed that he had\nelevated liver function studies. On [**2141-5-12**], Mr. [**Known lastname 13621**] was taken\nto the operating room where he underwent coronary artery bypass\ngrafting to three vessels and replacement of his aortic valve\nwith a tissue valve. Please see operative note for details.\nPostoperatively he was taken to the intensive care unit for\nmonitoring. Over the next several hours he awoke and was\nextubated. He was noted to have some confusion, hallucinations\nand somnolence. A head CT scan was obtained which was negative.\nThe stroke service was consulted who suspected a metabolic or\npossible infectious etiology to his confusion- no acute\ninfection was detected. All narcotics were discontinued and his\npain was managed with Tylenol only. Over the next day, his\nmental status cleared. Aspirin, beta blocker, statin therapy and\ndiabetic management were continued. Mild confusion noted again\non POD#4 and Ultram was discontinued.. Confusion improved. POD#5\nhe went into rapid a-fib  and remained in it for several hours,\nwas started on Amio and returned to SR for 24 hours prior to\ndischarge. He failed first and second voiding trial, urology was\nconsulted and it was determined that he would be discharged to\nhome with the foley in place and will follow up with urology as\nan outpatient. After second foley placement his urine was noted\nto be cloudy. A UA C&S was sent and he was started on Cipro.\nCultures were negative and Cipro was discontinued. He was noted\nto have some serosanguinous drainage from his mid sternal pole.\nHe was afebrile, CXR showed intact wires, and WBC was normal. He\nwas sent home on no antibiotics and will return for a wound\ncheck on [**5-23**]. He was seen by the physical therapy department\nand cleared for discharge. By time of discharge on POD #6 he was\ndeemed safe for discharge to home. Follow-up appointments were\nadvised.\n\n\nMedications on Admission:\naspirin 81 mg QD, glipizide 5 mg QD, glucophage 1000 mg [**Hospital1 **],\nlisinopril 5 mg QD, metoprolol extended release 50 mg QD\n\n\nDischarge Medications:\n1. Acetaminophen 650 mg PO Q4H:PRN pain/fever\nRX *acetaminophen 325 mg q 6 hours Disp #*60 Tablet Refills:*0\n2. Aspirin EC 81 mg PO DAILY\nRX *Adult Low Dose Aspirin 81 mg daily Disp #*30 Tablet\nRefills:*2\n3. MetFORMIN (Glucophage) 1000 mg PO BID\nRX *Glucophage 1,000 mg twice daily Disp #*90 Tablet Refills:*0\n4. Simvastatin 20 mg PO DAILY\nRX *simvastatin 20 mg daily Disp #*60 Tablet Refills:*2\n5. Tamsulosin 0.4 mg PO HS\nRX *tamsulosin 0.4 mg bedtime Disp #*30 Tablet Refills:*0\n6. Potassium Chloride 20 mEq PO Q12H Duration: 7 Days\nHold for K+ > 4.5\nRX *K-Tab 10 mEq twice daily Disp #*28 Tablet Refills:*0\n7. Glargine 24 Units Bedtime\n8. Amiodarone 400 mg PO BID\nfor 6 more days starting [**5-18**] then 400mg daily for 1 week, then\n200mg daily\nRX *amiodarone 200 mg twice a day Disp #*90 Tablet Refills:*2\n9. GlipiZIDE XL 10 mg PO DAILY\nRX *glipizide 10 mg daily Disp #*60 Tablet Refills:*2\n10. Metoprolol Tartrate 50 mg PO BID\nHold for HR < 55 or SBP < 90 and call medical provider.\n[**Last Name (NamePattern4) 9641**] *Lopressor 50 mg twice a day Disp #*90 Tablet Refills:*2\n11. Furosemide 40 mg PO DAILY\nRX *furosemide 40 mg daily Disp #*7 Tablet Refills:*0\n12. Potassium Chloride 20 mEq PO DAILY Duration: 7 Days\nHold for K >\nRX *potassium chloride 20 mEq daily Disp #*7 Tablet Refills:*0\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nAll Care VNA of Greater [**Location (un) **]\n\nDischarge Diagnosis:\nAortic Stenosis\nCoronary artery disease\nDiabetes\nPeripheral [**Location (un) 1106**] disease\nHypertension\npost-op urinary retention\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with tylenol only\nIncisions:\nSternal - Healing well, no erythema, no tenderness - minimal\nserosanginous drainage from mid sternal pole\nLeg Left - healing well, no erythema or drainage.\nEdema trace lower extremity edema\n\n\nDischarge Instructions:\n1) Please shower daily including washing incisions gently with\nmild soap, no baths or swimming until cleared by surgeon. Look\nat your incisions daily for redness or drainage.\n2) Please NO lotions, cream, powder, or ointments to incisions.\n3) Each morning you should weigh yourself and then in the\nevening take your temperature, these should be written down on\nthe chart provided.\n4) No driving for approximately one month and while taking\nnarcotics. Driving will be discussed at follow up appointment\nwith surgeon when you will likely be cleared to drive.\n5) No lifting more than 10 pounds for 10 weeks\n6) Please call with any questions or concerns [**Telephone/Fax (1) 170**]\n\nKeep your urine catheter in place until you are advised by the\nVNA or your primary care doctor to remove it.\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nFollowup Instructions:\nThe office will call you and schedule the following appointments\nyour Surgeon:\nDr. [**First Name (STitle) **]:[**2141-6-20**] at 2:15p\nCardiologist: [**Doctor Last Name 29070**] [**2141-6-9**] at 8:45a\nWound check: [**2141-5-23**] 10:45\n\n[**Hospital 159**] Clinic for voiding trial: [**Last Name (LF) 5929**], [**5-25**] at 4:00 PM with\n[**Name6 (MD) **] Crohn, NP - Shipiro Building [**Location (un) 470**]\n\nPlease call to schedule appointments with your\nPrimary Care Dr. [**Last Name (STitle) **] in [**3-9**] weeks\n\n***Nodular opacity of CT scan seen on this admission - NEEDS\nFOLLOW UP CT SCAN IN 6 MONTHS***\n\nScheduled appointments:\nProvider: [**Name10 (NameIs) **] LAB Phone:[**Telephone/Fax (1) 1237**] Date/Time:[**2141-6-2**]\n9:45\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1244**], MD Phone:[**Telephone/Fax (1) 1237**]\nDate/Time:[**2141-6-2**] 10:30\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]\n\nCompleted by:[**2141-5-18**]"
+    }
+  ]
+}

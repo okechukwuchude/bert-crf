@@ -1,0 +1,149 @@
+{
+  "hadm_id": 134566,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 43657,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 282,
+          "end": 293,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 298,
+          "end": 305,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypoxia"
+        },
+        {
+          "begin": 2331,
+          "end": 2334,
+          "code": "V12.51",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of venous thrombosis and embolism",
+          "type": "MapType.EXACT",
+          "covered_text": "DVT"
+        },
+        {
+          "begin": 2889,
+          "end": 2904,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "stopped smoking"
+        },
+        {
+          "begin": 5363,
+          "end": 5382,
+          "code": "V09.91",
+          "code_system": "ICD-9-CM",
+          "description": "Infection with drug-resistant microorganisms, unspecified, with multiple drug resistance",
+          "type": "MapType.APPROX",
+          "covered_text": "multidrug resistant"
+        },
+        {
+          "begin": 5383,
+          "end": 5393,
+          "code": "041.3",
+          "code_system": "ICD-9-CM",
+          "description": "Friedlander&apos;s bacillus infection in conditions classified elsewhere and of unspecified site",
+          "type": "MapType.EXACT",
+          "covered_text": "Klebsiella"
+        },
+        {
+          "begin": 5409,
+          "end": 5416,
+          "code": "041.6",
+          "code_system": "ICD-9-CM",
+          "description": "Proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site",
+          "type": "MapType.EXACT",
+          "covered_text": "Proteus"
+        },
+        {
+          "begin": 5451,
+          "end": 5454,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 8950,
+          "end": 8960,
+          "code": "96.6",
+          "code_system": "ICD-9-PCS",
+          "description": "Enteral infusion of concentrated nutritional substances",
+          "type": "Human",
+          "covered_text": "Tube feeds"
+        },
+        {
+          "begin": 9179,
+          "end": 9183,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "MapType.APPROX",
+          "covered_text": "PRBC"
+        },
+        {
+          "begin": 10955,
+          "end": 10992,
+          "code": "510.0",
+          "code_system": "ICD-9-CM",
+          "description": "Empyema with fistula",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Recurrent Tracheal esophageal fistula"
+        },
+        {
+          "begin": 10994,
+          "end": 11006,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 11008,
+          "end": 11022,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 11024,
+          "end": 11047,
+          "code": "V10.46",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of prostate",
+          "type": "Human",
+          "covered_text": "Prostate cancer s/p XRT"
+        },
+        {
+          "begin": 11048,
+          "end": 11066,
+          "code": "V10.03",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of esophagus",
+          "type": "Human",
+          "covered_text": "-h/o esophageal CA"
+        }
+      ],
+      "text": "Admission Date:  [**2119-10-3**]              Discharge Date:   [**2119-11-8**]\n\nDate of Birth:  [**2053-1-19**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 5790**]\nChief Complaint:\nHypotension and Hypoxia\n\n\nMajor Surgical or Invasive Procedure:\n[**10-7**] - Endoscopic placement of NG tube\n[**10-13**] - Repair of hiatal hernia, LOA\n[**10-15**] - Abdominal washout\n[**10-17**] - Placement of [**State 19827**] patch for open abdomen\n[**11-1**] - EGD w balloon dilation of the proximal duodenum\n      - Conversion of [**State 19827**] Patch to wound vac\n\nHistory of Present Illness:\nMr. [**Known lastname 93756**] is a 66 yo Male well-known to the Thoracic service\nnow presenting from rehab facility with hypotension, hypoxia,\nand thick respiratory secretions. Mr [**Known firstname 93876**] previously had a\n3-hole esophagectomy in [**2104**] for Esophageal CA and on [**2119-8-2**]\nunderwent repair of tracheoesophageal fistula at [**Hospital1 18**].  He was\nreadmitted on [**2119-9-13**] for GNR positive blood cxs, renal failure,\nand leaking from J-tube. He had multidrug resistant klebsiella\nand proteus bacteremia and was placed on Meropenem. Urine\ncultures grew VRE and he was placed on Linezolid.  The\nantibiotics were continued until [**2119-9-30**].\n\nThis evening the patient presented from his facility with\nhypotension (SBP in 70's), tachycardia (110-130), and increasing\nrespiratory rate and oxygen requirment.  He was noted to have\nincreasing secretions and a thickening of the secretions.\nPatient is also complaing of chest pain, which appears to be\nchronic, and abdominal pain which is apparently a new complaint.\nPatient reports some nausea today, but no vomiting. Reports\nfevers and chills over the past two days.\n\n\nPast Medical History:\n-Hypertension\n-Hypothyroidism\n-Prostate cancer s/p XRT\n-h/o esophageal CA s/p XRT with 3-hole esohagectomy in [**2104**] at\n[**Hospital1 112**]. Recently hospitalized at [**Hospital1 18**] for PNA and found to have\nstricture near cricopharyngeus, with evidence of TEF. EGD showed\nno cancer recurrence. J-tube placed [**4-/2119**]\n-Small bowel obstruction\n-Cognitive deficit NOS vs limited safety awareness\n-Orthostatic hypotension - hospitalization [**1-/2119**] after fall\n-DVT of the L subclavian and L axillary vein\n-R hip fracture s/p ORIF by Dr. [**Last Name (STitle) **] @ [**Hospital1 112**]\n-RLL PNA [**1-11**], treated with levofloxacin\n-multiple stab wounds to the abdomen in the [**2079**]\n-right sided PTX after bronchoscopy s/p CT placement\n-Tonsillectomy and adenoidectomy\n-R wrist and hand surgery\n\n\nSocial History:\nOriginally from [**State 9512**]. He has three daughters. One daughter\nlives in [**State 4260**], another is in [**Name (NI) 86**], [**First Name3 (LF) 2184**] who is very involved.\nReports he recently stopped smoking. Although he has a history\nof binge drinking, he reports he hasn't drank since [**Month (only) 1096**] of\n[**2118**]. Retired construction worker and plumber\n\nFamily History:\nMother died of a blood clot. Doesn't know what his father died\nof. Sister died of obesity and \"fat around her heart\"\n\nPhysical Exam:\nVS: T: 97.5  HR: 80-90's Sr  BP: 110-130 RR 15-19  Sats: 100%\n40% TC\nOvernight CPAP 40% 7/5\nGeneral: sitting up in no apparent distress\nHEENT: mucus membranes moist\nNeck: Trach in place\nCardiac: RRR\nResp: clear breath sounds, strong/productive cough\nGI: J-tube in place\nWound: Vac dressing in place, changed [**2119-11-7**] site with good\ngranulated tissue.\nIV: Right PICC site clean no erythema\nNeuro: awake alert, oriented. Makes his needs known\n\nPertinent Results:\n[**2119-11-8**] WBC-8.0 RBC-3.31* Hgb-9.3* Hct-29.2* MCV-88 MCH-28.1\nMCHC-31.9 RDW-16.0* Plt Ct-195\n[**2119-11-7**] WBC-6.0 RBC-3.07* Hgb-8.8* Hct-27.0* MCV-88 MCH-28.6\nMCHC-32.5 RDW-16.0* Plt Ct-200\n[**2119-11-8**] Glucose-97 UreaN-16 Creat-0.7 Na-151* K-4.6 Cl-112*\nHCO3-34*\n[**2119-11-7**] Glucose-107* UreaN-16 Creat-0.7 Na-147* K-4.5 Cl-112*\nHCO3-30\n[**2119-11-6**] 01:45AM BLOOD Glucose-93 UreaN-16 Creat-0.6 Na-148*\nK-4.7 Cl-114* HCO3-29 AnGap-10\n[**2119-11-5**] Glucose-100 UreaN-15 Creat-0.7 Na-146* K-4.4 Cl-113*\nHCO3-28 AnGap-9\n[**2119-11-6**] ALT-36 AST-52* LD(LDH)-177 AlkPhos-153* TotBili-0.2\n[**2119-11-8**] Calcium-8.9 Phos-2.2* Mg-2.0\n[**2119-11-1**] calTIBC-111* Ferritn-921* TRF-85*\n[**2119-10-30**] calTIBC-173* TRF-133*\n[**2119-10-11**] calTIBC-203* TRF-156*\n[**2119-10-4**] calTIBC-246* Ferritn-983* TRF-189*\n[**2119-11-8**] WBC-8.0 RBC-3.31* Hgb-9.3* Hct-29.2* MCV-88 MCH-28.1\nMCHC-31.9 RDW-16.0* Plt Ct-195\n\nCultures:\nmultidrug resistant klebsiella and proteus sensitive to\nmeropenum\n\nCXR:\n[**2119-11-7**]: FINDINGS: In comparison with the study of [**11-5**], the\nnasogastric tube has been\nremoved. There is little overall change in the appearance of the\nheart and\nlungs and monitoring and support devices. Bilateral pleural\neffusions with\nbibasilar atelectasis are again seen. Some indistinctness of\npulmonary\nvessels again is consistent with some elevation in pulmonary\nvenous pressure.\n\n\n\nBrief Hospital Course:\nMr. [**Known lastname 93756**] was admitted from the ED on [**2119-10-3**] with hypotension\nand tachycardia. While in the ED he was given a fluid challenge\nwith a good response He was re-started back on his previous\nantibiotics meropenum for multidrug resistant Klebsiella\nbacteremia and Proteus bacteremia, and Linezolid for VRE UTI. He\nwas pancultured. RUQ ultrasound showed a dilated gallbladder.\nCT Torso showed small bowel which has herniated through the\ndiaphgragmatic hiatus adjacent to the gastric pull-up.  A\nportion of pancreas also appears to be above the diaphragm.  On\n[**2119-10-7**] he had Flexible upper endoscopy with endoscopic\nplacement of nasogastric tube (which he pulled out and was later\nreplaced). A fistula could not be visualized but we could\nclearly see the Jagwire as it entered the stomach about a\ncentimeter below the esophagogastric anastomosis, therefore\nidentifying the fistula location.\n\nID:  Was consulted and recommended continue previous\nantibiotics.  Repeat BAL. Cultures only growing Proteus and\nKlebs. Urine culture was negative therefore Linezolid was\nstopped on [**2119-10-8**].  Pt's white count and fever curve improved\nover the next week and a half, and his antibiotic regimen was\nthen stopped on [**10-17**].  On [**10-27**], the patient was thought to\nhave aspirated some of his bilious NGT secretions, and a WBC to\n14 was noted.  Proteus and Klebsiella were again found in the\nsputum and GU tract cultures, and the patient was given a 10d\ncourse of meropenem which ended on [**11-7**].  The patient has been\nafebrile since with a normal WBC count.\n\nRespiratory: Pt intially placed on mechanical ventilation on\nadmission for low 02 saturations.  Weaned to CPAP 8/5 with\noxygen saturations of 98%, eventually progressed to tolerating\nonly Trach piece by [**10-24**].  On [**10-27**], pt desaturated in the\nsetting of presumed aspiration.  Bronchoscopy yielded only\nminimal thin secretions, pt required CMV for adequate\noxygenation.  Weaned again to trach piece by [**11-1**], but then a\ntrip to the operating room for EGD/wound vac placement resulted\nin the patient being placed on CMV and CPAP for 2-3 days.  By\n[**11-8**], the patient had been able to tolerate trach piece\nventilation for multiple hours a day, mainly needing minimal\nCPAP assistance at night.\n\nGI: on [**10-13**], the patient was taken to the operating room for\nhiatal hernia repair for ? colonic obstruction in the setting of\nlarge amounts of NGT output.  An abdominal CT scan showed\nherniation of the transverse colon and part of the pancreas into\nthe thoracic cavity.  The abdomen was left open after this\noperation due to concerns that his large amount of ascites and\nincreased abdominal pressure would not allow for adequate\nclosure.  On [**10-17**], a [**State 19827**] patch was placed to facilitate\nstepwise abdominal closure.  After hernia repair and [**State **]\npatch placement, the patient continued to have copious bilious\ndrainage from the NGT placed in the gastric conduit and\nintolerance of NGT clamping.  A SBFT study was obtained on [**10-27**]\nwhich showed no contrast movement through the pylorus.  The\npatient was taken to the operating room on [**11-1**] for an EGD,\nwhich showed that the likely source of the patient's obstructive\nsymptoms was a \"hairpin turn\" like kink in his proximal\nduodenum, just after the pylorus.  This area was dilated with a\nballoon.  His NGT output decreased over the next 3 days, and his\nNGT was eventually removed.  During the same operation on [**11-1**],\nthe patient's midline abdominal wound was assessed.  It was\nconcluded that the [**State 19827**] Patch was no longer able to preserve\nthe patient's abdominal domain, and it was exchanged for a wound\nvac.  The wound vac was changed every 3 days following it's\ninitial placement with no issues.\n\nNutrition: Tube feeds were intially stopped due to bilious NG\noutput.  Restarted and goal was reached by [**10-23**].  Held and\nrestarted on [**11-1**] for his operation and advanced to goal\nwithout issues.\n\nHeme: Pt received a total of 6U PRBC and 6 vials of albumin over\nthe course of his hospital stay for both low hematocrit and low\nintravascular volume.\n\nPICC: right PICC placed [**2119-9-22**]: terminates\n\nMedications on Admission:\nAcetylcysteine 20%\nAlbuterol Inhaler\nAlbuterol Sulfate (Extended Release)\nLansoprazole 30 mg Daily\nHeparin HSQ\nIpratropium Bromide MDI\nLevothyroxine Sodium 75 mcg\nMetoprolol Tartrate\nNystatin Oral Suspension\nOxycodone-Acetaminophen 5/325 q4-6 PRN pain\nMetoclopramide 5mg Q6H\n\n\nDischarge Medications:\n1. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) dose\nInjection [**Hospital1 **] (2 times a day).\n2. citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily): via\nJ-tube.\n3. fentanyl 25 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr\nTransdermal Q72H (every 72 hours).\n4. oxycodone 5 mg/5 mL Solution Sig: Five (5) mL PO Q6H (every 6\nhours) as needed for pain.\n5. famotidine(PF) in [**Doctor First Name **] (iso-os) 20 mg/50 mL Piggyback Sig: One\n(1) dose Intravenous Q12H (every 12 hours).\n6. heparin, porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML\nIntravenous PRN (as needed) as needed for line flush: flush with\n10 cc of normal saline followed by heparin.\n7. levothyroxine 200 mcg Recon Soln Sig: 37.5 mcg Injection\nDAILY (Daily).\n8. hydromorphone (PF) 1 mg/mL Syringe Sig: One (1)  Injection\nQ2H (every 2 hours) as needed for pain.\n9. Insulin sliding scale\nQ6H   Regular\nGlucose Insulin Dose\n0-70   mg/dL Proceed with hypoglycemia protocol\n71-119   mg/dL 0   Units\n120-159   mg/dL 2   Units\n160-199   mg/dL 4   Units\n200-239   mg/dL 6   Units\n240-279   mg/dL 8   Units\n280-319   mg/dL 10   Units\n> 320   mg/dL Notify M.D.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital 671**] [**Hospital 4094**] Hospital - [**Location (un) 86**]\n\nDischarge Diagnosis:\n-Recurrent Tracheal esophageal fistula\n-Hypertension\n-Hypothyroidism\n-Prostate cancer s/p XRT\n-h/o esophageal CA s/p XRT with 3-hole esohagectomy in [**2104**] at\n[**Hospital1 112**]. Recently hospitalized at [**Hospital1 18**] for PNA and found to have\nstricture near cricopharyngeus, with evidence of TEF. EGD showed\n\nno cancer recurrence. J-tube placed [**4-/2119**]\n-Small bowel obstruction\n-Cognitive deficit NOS vs limited safety awareness\n-Orthostatic hypotension - hospitalization [**1-/2119**] after fall\n-DVT of the L subclavian and L axillary vein\n-R hip fracture s/p ORIF by Dr. [**Last Name (STitle) **] @ [**Hospital1 112**]\n-RLL PNA [**1-11**], treated with levofloxacin\n-multiple stab wounds to the abdomen in the [**2079**]\n-right sided PTX after bronchoscopy s/p CT placement\n-Tonsillectomy and adenoidectomy\n-R wrist and hand surgery\nPSH:\n-transhiatal esophagectomy [**2104**]\n-Repair tracheoesophageal fistula tracheal\nresection/reconstruction [**8-12**]\n-PTC drain\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Out of Bed with assistance to chair or\nwheelchair.\n\n\nDischarge Instructions:\nCall Dr.[**Name (NI) 2347**] office [**Telephone/Fax (1) 2348**] with any questions\n\nSTRICT: Keep the head of the bed elevated at all times 30-45\ndegress to prevent aspiration of secretions\n\n\nFollowup Instructions:\nCall for follow-up with Dr. [**Last Name (STitle) **] in 2 weeks [**Telephone/Fax (1) 2348**]\n\n\n\nCompleted by:[**2119-11-14**]"
+    }
+  ]
+}

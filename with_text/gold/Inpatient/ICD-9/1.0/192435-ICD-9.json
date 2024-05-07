@@ -1,0 +1,167 @@
+{
+  "hadm_id": 192435,
+  "comment": "Morbid obesity documented. Need nursing reports to check BMI",
+  "notes": [
+    {
+      "note_id": 51224,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 433,
+          "end": 440,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "asthma,"
+        },
+        {
+          "begin": 441,
+          "end": 445,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CAD,"
+        },
+        {
+          "begin": 446,
+          "end": 449,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 460,
+          "end": 464,
+          "code": "250.40",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 466,
+          "end": 469,
+          "code": "585.3",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, Stage III (moderate)",
+          "type": "Human",
+          "covered_text": "CKD"
+        },
+        {
+          "begin": 531,
+          "end": 563,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "Human",
+          "covered_text": "hypercarbic respiratory failure,"
+        },
+        {
+          "begin": 597,
+          "end": 627,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute on chronic kidney injury"
+        },
+        {
+          "begin": 3207,
+          "end": 3238,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation on coumadin"
+        },
+        {
+          "begin": 3230,
+          "end": 3238,
+          "code": "V58.61",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of anticoagulants",
+          "type": "Human",
+          "covered_text": "coumadin"
+        },
+        {
+          "begin": 3266,
+          "end": 3284,
+          "code": "362.01",
+          "code_system": "ICD-9-CM",
+          "description": "Background diabetic retinopathy",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "c/b DM retinopathy"
+        },
+        {
+          "begin": 3288,
+          "end": 3302,
+          "code": "585.3",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, Stage III (moderate)",
+          "type": "Human",
+          "covered_text": "Morbid obesity"
+        },
+        {
+          "begin": 3342,
+          "end": 3362,
+          "code": "268.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified vitamin D deficiency",
+          "type": "Human",
+          "covered_text": "Vitamin D deficiency"
+        },
+        {
+          "begin": 5670,
+          "end": 5682,
+          "code": "404.91",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive heart and renal disease, unspecified, with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 6740,
+          "end": 6752,
+          "code": "276.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hyposmolality and/or hyponatremia",
+          "type": "Human",
+          "covered_text": "hyponatremia"
+        },
+        {
+          "begin": 11295,
+          "end": 11298,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "MapType.EXACT",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 11317,
+          "end": 11329,
+          "code": "338.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pain",
+          "type": "MapType.EXACT",
+          "covered_text": "chronic pain"
+        },
+        {
+          "begin": 11374,
+          "end": 11411,
+          "code": "459.81",
+          "code_system": "ICD-9-CM",
+          "description": "Venous (peripheral) insufficiency, unspecified",
+          "type": "Human",
+          "covered_text": "Chronic lower extremity venous stasis"
+        }
+      ],
+      "text": "Admission Date:  [**2119-12-17**]              Discharge Date:   [**2119-12-27**]\n\nDate of Birth:  [**2050-1-3**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nCephalexin / Erythromycin Base\n\nAttending:[**First Name3 (LF) 2279**]\nChief Complaint:\nlethargy\n\nMajor Surgical or Invasive Procedure:\ninternal jugular line placement\n\nHistory of Present Illness:\nMs. [**Known lastname 1007**] is a 69 year-old woman with a history of asthma, CAD,\nCHF (EF 10%), IDDM, CKD, discharged 1 week ago after an\nadmission for cellulitis and hypercarbic respiratory failure,\nwho now presents hypotension and acute on chronic kidney injury.\n\n.\nShe was recently admitted [**12-1**] - [**12-11**]. She had acute on chronic\ncellulitis and completed a 10 day course of vancomycin. She also\nhad hypercarbic respiratory failure requiring intubation. She\nwas treated for a COPD exacerbation as well as volume overload\nand was extubated after two days. She was called out of the ICU.\nOn the medical floor, she was agressively diuresed. Her heart\nfailure regimen was also optimized in consultation with\ncardiology. In particular, metoprolol was increased from Toprol\nXL 100 mg qday to metoprolol tartrate 150 mg [**Hospital1 **]. Lisinopril 2.5\nmg was started. She remained mildly hypoxic and was discharged\nto home on [**1-29**] L O2, having refused rehab. Her previous dose of\ntorsemide 100 mg daily was resumed on discharge. Creatinine was\n1.5 on the day of discharge.\n.\nAfter arrival at home, Ms. [**Known lastname 1007**] was living with her husband who\nnoted her to be mostly immobile, unwilling to eat, and taking\nher medications unreliably. A visiting nurse noted that she was\nunable to care for herself and so was admitted to rehab from\nhome on [**12-14**]. At the time her initial BP was low 70s but\nquicklky rose into the 80s and then 90s. Diuretics were held.\nDespite holding torsemide for two days, the patient remained\nhypotensive. Today, sge was noted to be more lethargic and BP\n70s so she was referred to [**Hospital1 18**].\n.\nUpon arrival to ED, initial VS: 96.6 58 103/42 18 99% 6L NC. FS\nWNL. She was very confused. Blood pressure then fell into the\n70s systolic. She was given vancomycin 1 g,\npiperacillin-tazobactam 4.5 g, and 4 L NS. IJ was placed and\nlevophed started (initially at .03, titrated up to .12 prior to\ntransfer). She was not more hypoxic than baseline (99% on 2L).\nEKG was similar to prior. Labs were notable for a troponin\nelevated to .45 and creatinine 2.4. CXR did not demonstrate\nvolume overload or infiltrate. Her mental status improved after\nthe initiation of pressors. Cardiology was consulted with regard\nto the elevated troponin. They thought an ischemic event was\nunlikely and will follow. She was sent for CT head and torso\nprior to transfer to the ICU. However, she refused the torso\nportion of this exam. She was transferred to the ICU.\n.\nUpon arrival to the MICU, the patient complains of low back pain\nthat is chronic for her. She also has leg pain when moved. She\ndenies chest pain, cough, palpitations, abdominal pain, nausea,\ndiarrhea, dysuria.\n\n\nPast Medical History:\n1. Asthma\n2. CAD s/p CABG [**2112**]\n3. Congestive heart failure with EF 10-15% on TTE [**11/2119**]\n4. Atrial fibrillation on coumadin\n5. DM - insulin dependent, c/b DM retinopathy\n6. Morbid obesity\n7. stage III chronic kidney disease\n8. Vitamin D deficiency\n9. chronic peripheral edema\n10. h/o blood in stool\n11. hypercholesterolemia\n12. lower extremity cellulitis\n\n\nSocial History:\nLives independently with husband. Denies alcohol, drugs and\nsmoking.\n\nFamily History:\nCancer, hypertension, substance abuse, heart disorder, adult\nonset diabetes.\n\nPhysical Exam:\nVitals: BP 125/38 (on norepi .04), HR 86, RR 20, O2 95% on 4L NC\n\nGeneral: obese female, lying in bed with eyes closed, no\napparent distress.\nHEENT: no apparent lesions in OP\nNeck: obese, difficult to assess JVD\nLungs: distant breath sounds, faint crackles at bases barely\naudible\nHeart: regular, no murmurs appreciated, sternal defect with\npalpable heart tones\nAbdomen: Obese, soft, nondistended, positive bowel sounds\nExt: 2+ bilateral partially pitting edema. Bilateral lower legs\nwith woody changes, areas of denuded skin, minimal serous\ndrainage, appear much improved compared to prior admission\nNeuro: oriented to self and year, not place. Moving all\nextremities\n\n\nPertinent Results:\nAdmission labs:\n[**2119-12-17**] 01:00PM   GLUCOSE-114* UREA N-111* CREAT-2.4*\nSODIUM-129* POTASSIUM-4.5 CHLORIDE-91* TOTAL CO2-30 ANION GAP-13\n[**2119-12-17**] 01:00PM   WBC-7.5 RBC-3.79* HGB-10.7* HCT-34.0* MCV-90\nMCH-28.3 MCHC-31.6 RDW-16.7*\n[**2119-12-17**] 01:00PM   NEUTS-76.1* LYMPHS-15.1* MONOS-5.8 EOS-2.4\nBASOS-0.6\n\nBrief Hospital Course:\nAssessment and Plan: Ms. [**Known lastname 1007**] is a 69 year-old woman with\nischemic cardiomyopathy and EF 10-15% who presents with\nhypotension.\n.\n# Hypotension: Given [**Last Name (un) **], hyponatremia, hypotension, and good\nresponse to 4 L IVF in the ED, this may have been simply related\nto volume depletion and an aggressive heart failure regimen.\nHowever, diuretics have recently been held and it is notable\nthat her bicarb and her Hct are actually both lower than\ndischarge on admission labs. CVP on admission was 18.  Sepsis\nwas also on the differential, but patient afebrile, WBC not\nelevated, CXR clear, UA not impressive, so she was not initially\ncovered with antibiotics.  However, the following morning her\nWBC was elevated so vancomycin and zosyn were started.\nNorepinephrine was weaned to low doses and continued to maintain\nMAP >60. Patient was transferred to the floor off pressors and\nwas normotensive for the remainder of her stay.  Her home\nhypertension medications were held except for\nhydrochlorothiazide which was restarted prior to discharge.\n.\n# Shortness of breath:  Patient with increased work of breathing\non the second hospital day.  This was attributed in part CHF\nexacerbation.  She intermittently became drowsy.  ABGs showed\nhypoxia and hypercarbia.  Bipap was used, but patient was poorly\ntolerant of this and consistently took it off when she woke up.\nShe was also diuresed, with improvement in shortness of breath.\nShe was initially maintained on torsemide 20 mg daily with IV\nlasix 40 mg prn volume overload.  After necessitating IV lasix\ndue to tachypnea, torsemide was increased to 30 mg daily.\nOxygen and IV morphine prn were continued as needed for comfort\nalthough patient did not require IV morphine.  She remained\nstable on 1-3L NC with no respiratory distress during her\nhospital stay.\n.\n# Acute on chronic kidney injury: Baseline creatinine per\nrecords obtained at last hospitalization ~1.5, which was what it\nwas on discharge a week ago.  2.5 on this admission. Given\nconcominant mild hyponatremia, hypotension, this may be simply\ndue to volume depletion.  Creatinine fell with IVF in the ED.\nUrine electrolytes showed a prerenal etiology.  Labs were\ndiscontinued on the floor per patient request.  She continued to\nhave good urine output throughout the rest of her hospital stay.\n.\n# Elevated troponin: Troponin .45. Recently, .08 in the setting\nof not quite so bad renal function. It does seem likely that she\nhas had some cardiac ischemia, probably in the setting of poor\ncoronary perfusion secondary to systemic hypotension.  This was\ntrended and fell appropriately.\n.\n# Hyponatremia: likely secondary to volume depletion.  Improved\nafter IVF resuscitation. Labs discontinued on floor after\ndiscussion with patient.\n.\n# CHF: EF 10%:  Metoprolol, ACEI, torsemide held in the setting\nof hypotension but were restarted at lower-than-home-doses.  She\nwill be discharged on lower doses of these medications as she\nhas been stable during hospital stay.\n.\n# Atrial fibrillation: Rate controlled and anticoagulated on\nadmission. Was subtherapeutic INR after having warfarin held at\nrehab for several days (for INR 5 on [**12-15**]).  Warfarin was\nrestarted at a lower dose and she was started on a heparin drip\nwhile warfarin subtherapeutic.  INR was then found to be\nsupratherapeutic and warfarin was held.  Risks and benefits of\nanticoagulation were discussed with patient and she decided that\nshe did not want to continue anticoagulation.  Warfarin was thus\nstopped and will not be continued at discharge.  No evidence of\nbleeding or clots on exam.  Will continue metoprolol for rate\ncontrol as described above.\n.\n#End of life: Palliative care consult was obtained per PCP\n[**Name Initial (PRE) **]. Patient was confirmed DNR/DNI and also did not wish to\nbe transferred to the MICU or undergo NIPPV should she\ndecompensate. She will be discharged to hospice\n.\n# DM:  Home dose of glargine 15 units qam was initially\ncontinued, with humalog sliding scale.  Glargine was decreased\nto 5 units daily on the floor.  Blood sugars were well\ncontrolled on this regimen.\n.\n\n\nMedications on Admission:\n-insulin glargine 15 units qhs\n-humalog sliding scale\n-warfarin 1.5 mg daily (but held on [**12-15**] and decreased to .5 mg\n[**12-16**], not given [**12-17**])\n-metoprolol tartrate 150 mg [**Hospital1 **]\n-torsemide 100 mg daily\n-simvastatin 40 mg qhs\n-cholecalciferol 1000 IU daily\n-ipratropium-albuterol nebs prn\n-calcium carbonate 500 mg daily\n-ASA 81 mg daily\n-docusate 100 mg [**Hospital1 **]\n-senna 8.6 mg [**Hospital1 **]\n-acetaminophen 650 mg tid prn\n-oxycodone 1.25 - 2.5 mg prn dressing changes\n-lisinopril 2.5 mg daily\n\n\nDischarge Medications:\n1. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n2. oxycodone 5 mg Tablet Sig: 0.5 Tablet PO Q3H (every 3 hours)\nas needed for pain.\nDisp:*30 Tablet(s)* Refills:*0*\n3. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\nDisp:*60 Tablet(s)* Refills:*2*\n4. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n5. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n6. ipratropium bromide 0.02 % Solution Sig: One (1) spray\nInhalation Q6H (every 6 hours) as needed for shortness of breath\nor wheezing.\n7. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1) spray Inhalation Q6H (every 6 hours)\nas needed for shortness of breath or wheezing.\n8. Lantus Solostar 100 unit/mL (3 mL) Insulin Pen Sig: Five (5)\nunits Subcutaneous once a day.\nDisp:*30 ml* Refills:*2*\n9. Humalog  Subcutaneous\n10. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every\neight (8) hours as needed for pain.\n11. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO twice\na day.\n12. senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day.\n13. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: One (1)\nTablet PO at bedtime.\n14. calcium carbonate 500 mg (1,250 mg) Tablet Sig: One (1)\nTablet PO once a day.\n15. torsemide 10 mg Tablet Sig: Three (3) Tablet PO once a day.\nDisp:*90 Tablet(s)* Refills:*2*\n16. needle (disp)     Needle Sig: One (1)  Miscellaneous once a\nday.\nDisp:*30 needles* Refills:*2*\n17. lancets     Misc Sig: One (1)  Miscellaneous once a day.\nDisp:*30 lancets* Refills:*2*\n18. One Touch Basic System     Kit Sig: One (1)  Miscellaneous\nonce a day.\nDisp:*1 kit* Refills:*0*\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 2558**] - [**Location (un) **]\n\nDischarge Diagnosis:\nhypotension, responsive to fluids\nacute renal failure, likely pre-renal\nUTI\ndiabetes\nCHF\nAfib\nchronic pain\nrespiratory failure, resolved,\nCAD s/p CABG\nChronic lower extremity venous stasis\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Lethargic but arousable.\nActivity Status: Bedbound.\n\nDischarge Instructions:\nDear Mrs. [**Known lastname 1007**],\nIt was a pleasure participating in your health care.  You were\nadmitted to [**Hospital1 **] for hypotension\nand acute renal failure for which you were admitted to the\nintensive care unit where you were given fluids.  In the\nintensive care unit, you were treated with pressors and diuresis\nas well as antibiotics.  The decision was made to transition to\nhospice care and to stop anticoagulation with warfarin.\n\nPlease make the following changes to your medications:\nSTOP WARFARIN\nDECREASE Torsemide to 30 mg daily\nINCREASE Lisinopril to 5 mg daily\nDECREASE Metoprolol to 25 mg twice a day\nDECREASE Glargine to 5 units daily\nSTART Oxycodone 2.5 mg every 3 hours as needed for pain\n\nFollowup Instructions:\nPlease follow-up with a physician as desired\n\n                             [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 2285**]\n\n"
+    }
+  ]
+}

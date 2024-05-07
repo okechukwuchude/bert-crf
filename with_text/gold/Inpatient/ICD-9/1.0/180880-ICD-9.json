@@ -1,0 +1,140 @@
+{
+  "hadm_id": 180880,
+  "comment": "Spinal Fusion- Missing OP Note to validate PCS",
+  "notes": [
+    {
+      "note_id": 42419,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 369,
+          "end": 378,
+          "code": "737.10",
+          "code_system": "ICD-9-CM",
+          "description": "Kyphosis (acquired) (postural)",
+          "type": "MapType.APPROX",
+          "covered_text": "kyphosis,"
+        },
+        {
+          "begin": 379,
+          "end": 390,
+          "code": "721.2",
+          "code_system": "ICD-9-CM",
+          "description": "Thoracic spondylosis without myelopathy",
+          "type": "Human",
+          "covered_text": "spondylosis"
+        },
+        {
+          "begin": 591,
+          "end": 594,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 596,
+          "end": 599,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 613,
+          "end": 623,
+          "code": "736.79",
+          "code_system": "ICD-9-CM",
+          "description": "Other acquired deformities of ankle and foot",
+          "type": "MapType.APPROX",
+          "covered_text": "L footdrop"
+        },
+        {
+          "begin": 625,
+          "end": 636,
+          "code": "338.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pain",
+          "type": "Human",
+          "covered_text": "chronic LBP"
+        },
+        {
+          "begin": 643,
+          "end": 658,
+          "code": "726.0",
+          "code_system": "ICD-9-CM",
+          "description": "Adhesive capsulitis of shoulder",
+          "type": "MapType.APPROX",
+          "covered_text": "frozen\nshoulder"
+        },
+        {
+          "begin": 676,
+          "end": 713,
+          "code": "355.8",
+          "code_system": "ICD-9-CM",
+          "description": "Mononeuritis of lower limb, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "bilateral lower extremity neuropathy,"
+        },
+        {
+          "begin": 714,
+          "end": 720,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "reflux"
+        },
+        {
+          "begin": 722,
+          "end": 734,
+          "code": "564.00",
+          "code_system": "ICD-9-CM",
+          "description": "Constipation, unspecified",
+          "type": "Human",
+          "covered_text": "constipation"
+        },
+        {
+          "begin": 736,
+          "end": 746,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 5859,
+          "end": 5873,
+          "code": "737.39",
+          "code_system": "ICD-9-CM",
+          "description": "Other kyphoscoliosis and scoliosis",
+          "type": "MapType.APPROX",
+          "covered_text": "Kyphoscoliosis"
+        },
+        {
+          "begin": 5874,
+          "end": 5905,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Acute post-op blood loss anemia"
+        },
+        {
+          "begin": 5906,
+          "end": 5922,
+          "code": "293.0",
+          "code_system": "ICD-9-CM",
+          "description": "Delirium due to conditions classified elsewhere",
+          "type": "Human",
+          "covered_text": "Post-op delerium"
+        }
+      ],
+      "text": "Admission Date:  [**2141-4-10**]              Discharge Date:   [**2141-4-17**]\n\nDate of Birth:  [**2067-3-5**]             Sex:   F\n\nService: ORTHOPAEDICS\n\nAllergies:\nPenicillins / Feldene / epinephrine\n\nAttending:[**First Name3 (LF) 3190**]\nChief Complaint:\nBack pain\n\nMajor Surgical or Invasive Procedure:\nT11-L2 fusion on [**4-10**] and T3-L5 fusion [**4-11**] for kyphosis,\nspondylosis and compression fracture\n\n\nHistory of Present Illness:\nMs. [**Known lastname **] has a long history of a kyphoscoliosis.  She is\nelecting to proceed with surgical intervention.\n\nPast Medical History:\nHTN, HLD, depression, L footdrop, chronic LBP, left frozen\nshoulder, left foot drop, bilateral lower extremity neuropathy,\nreflux, constipation, depression\n\nSocial History:\nDenies tobacco\n\nFamily History:\nN/C\n\nPhysical Exam:\nA&O X 3; NAD\nRRR\nCTA B\nAbd soft NT/ND\nBUE- good strength at deltoid, biceps, triceps, wrist\nflexion/extension, finger flexion/extension and intrinics;\nsensation intact C5-T1 dermatomes; - [**Doctor Last Name 937**], reflexes\nsymmetric at biceps, triceps and brachioradialis\nRLE- good strength at hip flexion/extension, knee\nflexion/extension, ankle dorsiflexion and plantar flexion,\n[**Last Name (un) 938**]/FHL; sensation intact L1-S1 dermatomes; - clonus, reflexes\ndiminished at quads and Achilles\nLLE- foot drop; reflexes diminished at quads and Achilles\n\n\nPertinent Results:\n[**2141-4-14**] 05:14AM BLOOD WBC-13.2* RBC-3.03* Hgb-9.0* Hct-27.8*\nMCV-92 MCH-29.6 MCHC-32.3 RDW-14.3 Plt Ct-181\n[**2141-4-13**] 03:30PM BLOOD WBC-13.9* RBC-2.58* Hgb-7.9* Hct-24.0*\nMCV-93 MCH-30.5 MCHC-32.8 RDW-13.5 Plt Ct-183\n[**2141-4-13**] 04:20AM BLOOD WBC-18.4* RBC-3.10* Hgb-9.4* Hct-30.4*\nMCV-98 MCH-30.3 MCHC-30.9* RDW-13.7 Plt Ct-169\n[**2141-4-12**] 12:42AM BLOOD WBC-14.6* RBC-2.99* Hgb-9.3* Hct-28.2*\nMCV-94 MCH-31.1 MCHC-33.0 RDW-13.3 Plt Ct-174\n[**2141-4-14**] 05:14AM BLOOD Glucose-103* UreaN-9 Creat-0.5 Na-134\nK-3.9 Cl-102 HCO3-24 AnGap-12\n[**2141-4-12**] 03:19PM BLOOD Glucose-113* UreaN-12 Creat-0.5 Na-132*\nK-4.0 Cl-103 HCO3-22 AnGap-11\n[**2141-4-11**] 02:36PM BLOOD Glucose-171* UreaN-14 Creat-0.6 Na-128*\nK-4.4 Cl-98 HCO3-23 AnGap-11\n[**2141-4-14**] 05:14AM BLOOD Calcium-8.0* Phos-2.2* Mg-1.9\n[**2141-4-12**] 12:42AM BLOOD Calcium-7.3* Phos-2.5* Mg-2.5\n[**2141-4-10**] 03:56PM BLOOD Calcium-8.3* Phos-3.5 Mg-1.7\n\nBrief Hospital Course:\nMs. [**Known lastname **] was admitted to the [**Hospital1 18**] Spine Surgery Service on\n[**2141-4-10**] and taken to the Operating Room for T11-L2 interbody\nfusion through an anterior approach. Please refer to the\ndictated operative note for further details. The surgery was\nwithout complication and the patient was transferred to the PACU\nin a stable condition. TEDs/pnemoboots were used for\npostoperative DVT prophylaxis. Intravenous antibiotics were\ngiven per standard protocol. Initial postop pain was controlled\nwith a PCA. On HD#2 she returned to the operating room for a\nscheduled T3-L5 decompression with PSIF as part of a staged\n2-part procedure. Please refer to the dictated operative note\nfor further details. The second surgery was also without\ncomplication and the patient was transferred to the SICU in\nstable condition. Postoperative HCT was low and she was\ntransfused PRBCs. A bupivicaine epidural pain catheter placed at\nthe time of the posterior surgery remained in place until postop\nday one.\nPOD#2 the chest tube was removed and an x-ray showed no signs of\na pneumothorax. She was kept NPO until bowel function returned\nthen diet was advanced as tolerated. The patient was\ntransitioned to oral pain medication when tolerating PO diet.\nFoley was removed on POD#2 from the second procedure. She was\nfitted with a TLSO brace for ambulation. Physical therapy was\nconsulted for mobilization OOB to ambulate. Hospital course was\notherwise unremarkable. On the day of discharge the patient was\nafebrile with stable vital signs, comfortable on oral pain\ncontrol and tolerating a regular diet.\n\nMedications on Admission:\nvicodin PRN, atacand 32', HCTZ 25', arthrotec 75-200 1-2 tabs\ndaily, cymbalta 60', nexium 40', gabapentin 1000''', vitamin D\n[**2128**] units', vitamin B, MVI, lovasa 2 tabs QHS, crestor 5 QHS,\noxybutynin SR 20 QHS, tylenol PRN, claritin 5', fortical nasal\nspray, miralax, senna\n\nDischarge Medications:\n\n\n1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n2. senna 8.6 mg Tablet Sig: One (1) Tablet PO QHS (once a day\n(at bedtime)).\n3. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n4. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO Q6H (every 6 hours) as needed for constipation.\n5. hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO\nDAILY (Daily).\n6. duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n7. gabapentin  Oral\n8. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n9. B complex vitamins     Capsule Sig: One (1) Cap PO DAILY\n(Daily).\n10. rosuvastatin 5 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n11. oxybutynin chloride 5 mg Tablet Sig: One (1) Tablet PO HS\n(at bedtime).\n12. loratadine 10 mg Tablet Sig: 0.5 Tablet PO daily () for 4\ndays.\n13. calcitonin (salmon) 200 unit/actuation Spray, Non-Aerosol\nSig: One (1)  Nasal daily () for 4 days.\n14. insulin regular human 100 unit/mL Solution Sig: One (1)\nsyringe Injection ASDIR (AS DIRECTED).\n15. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4\nhours) as needed for pain.\n16. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\n17. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for pain.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 1107**] [**Hospital **] Hospital - [**Location (un) 38**]\n\nDischarge Diagnosis:\nKyphoscoliosis\nAcute post-op blood loss anemia\nPost-op delerium\n\n\nDischarge Condition:\nGood\n\n\nDischarge Instructions:\nYou have undergone the following operation: POSTERIOR\nThoracolumbar Decompression With Fusion\n\n\n\nImmediately after the operation:\n\n\n\n-Activity: You should not lift anything greater than 10 lbs for\n2 weeks. You will be more comfortable if you do not sit or stand\nmore than ~45 minutes without getting up and walking around.\n\n\n\n-Rehabilitation/ Physical Therapy:\n\no2-3 times a day you should go for a walk for 15-30 minutes as\npart of your recovery. You can walk as much as you can tolerate.\n\n\noLimit any kind of lifting.\n\n\n\n-Diet: Eat a normal healthy diet. You may have some constipation\nafter surgery. You have been given medication to help with this\nissue.\n\n\n\n-Brace: You have been given a brace. This brace is to be worn\nfor comfort when you are walking. You may take it off when\nsitting in a chair or while lying in bed.\n\n\n\n-Wound Care: Remove the dressing in 2 days. If the incision is\ndraining cover it with a new sterile dressing. If it is dry then\nyou can leave the incision open to the air. Once the incision is\ncompletely dry (usually 2-3 days after the operation) you may\ntake a shower. Do not soak the incision in a bath or pool. If\nthe incision starts draining at anytime after surgery, do not\nget the incision wet. Cover it with a sterile dressing. Call the\noffice.\n\n\n\n-You should resume taking your normal home medications. No\nNSAIDs.\n\n\n\n-You have also been given Additional Medications to control your\npain. Please allow 72 hours for refill of narcotic\nprescriptions, so please plan ahead. You can either have them\nmailed to your home or pick them up at the clinic located on\n[**Hospital Ward Name 23**] 2. We are not allowed to call in or fax narcotic\nprescriptions (oxycontin, oxycodone, percocet) to your pharmacy.\nIn addition, we are only allowed to write for pain medications\nfor 90 days from the date of surgery.\n\n\n\nPlease call the office if you have a fever>101.5 degrees\nFahrenheit and/or drainage from your wound.\n\n\nPhysical Therapy:\nActivity:   Activity:  Out of bed w/ assist\n Thoracic lumbar spine:   when OOB\n\nTreatments Frequency:\nPlease continue to change the dressing daily\n\nFollowup Instructions:\nWith Dr. [**Last Name (STitle) 363**] in 10 days\n\n\n\nCompleted by:[**2141-4-17**]"
+    }
+  ]
+}

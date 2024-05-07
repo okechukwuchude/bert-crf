@@ -1,0 +1,293 @@
+{
+  "hadm_id": 113812,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 49664,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 432,
+          "end": 434,
+          "code": "250.40",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 436,
+          "end": 475,
+          "code": "438.22",
+          "code_system": "ICD-9-CM",
+          "description": "Hemiplegia affecting nondominant side as late effect of cerebrovascular disease",
+          "type": "MapType.APPROX",
+          "covered_text": "history of CVA with left\nsided weakness"
+        },
+        {
+          "begin": 2909,
+          "end": 2921,
+          "code": "404.91",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive heart and renal disease, unspecified, with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 3004,
+          "end": 3008,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "MapType.EXACT",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 3443,
+          "end": 3469,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "H/o 20 PY tob use -quit in"
+        },
+        {
+          "begin": 3795,
+          "end": 3800,
+          "code": "278.00",
+          "code_system": "ICD-9-CM",
+          "description": "Obesity, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "obese"
+        },
+        {
+          "begin": 5294,
+          "end": 5308,
+          "code": "278.01",
+          "code_system": "ICD-9-CM",
+          "description": "Morbid obesity",
+          "type": "Human",
+          "covered_text": "morbidly obese"
+        },
+        {
+          "begin": 7297,
+          "end": 7314,
+          "code": "155.0",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of liver, primary",
+          "type": "Human",
+          "covered_text": "hepatocellular CA"
+        },
+        {
+          "begin": 7316,
+          "end": 7319,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 7321,
+          "end": 7324,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 7326,
+          "end": 7328,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 7330,
+          "end": 7335,
+          "code": "070.70",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified viral hepatitis C without hepatic coma",
+          "type": "MapType.EXACT",
+          "covered_text": "hep C"
+        },
+        {
+          "begin": 7336,
+          "end": 7346,
+          "code": "571.5",
+          "code_system": "ICD-9-CM",
+          "description": "Cirrhosis of liver without mention of alcohol",
+          "type": "Human",
+          "covered_text": "cirrhosis,"
+        },
+        {
+          "begin": 7347,
+          "end": 7350,
+          "code": "443.81",
+          "code_system": "ICD-9-CM",
+          "description": "Peripheral angiopathy in diseases classified elsewhere",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "PVD"
+        },
+        {
+          "begin": 7352,
+          "end": 7361,
+          "code": "V12.54",
+          "code_system": "ICD-9-CM",
+          "description": "Transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "MapType.EXACT",
+          "covered_text": "hx of CVA"
+        },
+        {
+          "begin": 7376,
+          "end": 7391,
+          "code": "682.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cellulitis and abscess of upper arm and forearm",
+          "type": "MapType.MULTI",
+          "covered_text": "RUE cellulitis."
+        },
+        {
+          "begin": 7514,
+          "end": 7539,
+          "code": "372.30",
+          "code_system": "ICD-9-CM",
+          "description": "Conjunctivitis, unspecified",
+          "type": "Human",
+          "covered_text": "right-eye conjunctivitis."
+        },
+        {
+          "begin": 7561,
+          "end": 7571,
+          "code": "780.09",
+          "code_system": "ICD-9-CM",
+          "description": "Other alteration of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "Somnolence"
+        },
+        {
+          "begin": 10885,
+          "end": 10888,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CKD"
+        },
+        {
+          "begin": 11222,
+          "end": 11242,
+          "code": "572.4",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatorenal syndrome",
+          "type": "MapType.EXACT",
+          "covered_text": "hepatorenal syndrome"
+        },
+        {
+          "begin": 11422,
+          "end": 11437,
+          "code": "682.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cellulitis and abscess of upper arm and forearm",
+          "type": "MapType.MULTI",
+          "covered_text": "RUE cellulitis:"
+        },
+        {
+          "begin": 11975,
+          "end": 12009,
+          "code": "372.30",
+          "code_system": "ICD-9-CM",
+          "description": "Conjunctivitis, unspecified",
+          "type": "Human",
+          "covered_text": "Right-eye bacterial conjunctivitis"
+        },
+        {
+          "begin": 12901,
+          "end": 12923,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "MapType.MULTI",
+          "covered_text": "Chronic diastolic CHF:"
+        },
+        {
+          "begin": 13013,
+          "end": 13022,
+          "code": "707.10",
+          "code_system": "ICD-9-CM",
+          "description": "Ulcer of lower limb, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "LLE ulcer"
+        },
+        {
+          "begin": 13217,
+          "end": 13223,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "MapType.APPROX",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 13268,
+          "end": 13283,
+          "code": "273.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other disorders of plasma protein metabolism",
+          "type": "MapType.APPROX",
+          "covered_text": "Hypoalbuminemia"
+        },
+        {
+          "begin": 17781,
+          "end": 17801,
+          "code": "682.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cellulitis and abscess of upper arm and forearm",
+          "type": "MapType.MULTI",
+          "covered_text": "Right arm cellulitis"
+        },
+        {
+          "begin": 17820,
+          "end": 17844,
+          "code": "372.30",
+          "code_system": "ICD-9-CM",
+          "description": "Conjunctivitis, unspecified",
+          "type": "Human",
+          "covered_text": "Right eye conjunctivitis"
+        },
+        {
+          "begin": 17858,
+          "end": 17888,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "Health Care Acquired Pneumonia"
+        },
+        {
+          "begin": 17889,
+          "end": 17902,
+          "code": "155.0",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of liver, primary",
+          "type": "Human",
+          "covered_text": "End stage HCC"
+        },
+        {
+          "begin": 17907,
+          "end": 17922,
+          "code": "571.5",
+          "code_system": "ICD-9-CM",
+          "description": "Cirrhosis of liver without mention of alcohol",
+          "type": "Human",
+          "covered_text": "liver cirrhosis"
+        }
+      ],
+      "text": "Admission Date:  [**2112-9-15**]              Discharge Date:   [**2112-10-5**]\n\nDate of Birth:  [**2051-5-13**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 12174**]\nChief Complaint:\nRight arm pain/swelling.\n\nMajor Surgical or Invasive Procedure:\nLeft IJ line insertion [**2112-9-20**]\n\nHistory of Present Illness:\n61M with HCC, HCV cirrhosis, CHF, DM, history of CVA with left\nsided weakness, PVD, asthma, presenting with one week of RUE\nswelling and pain.  He and his VNA first noticed RUE swelling\nabout one week ago, and feels this has been getting gradually\nworse over the course of the week.  It also became painful and\nfeels somewhat tight and stiff to move.  There has not been\nweakness.  His VNA may have noted redness.  No fevers or chills.\n There was also potentially concern fo swelling on the right\nside of the face with some symptoms of eye irritation as well\n(watery eye, itching, no blurred vision).  He had a presentation\nin [**2112-7-6**] with swelling that involved the left arm, but he\nfelt this was more limited to the L elbow at that time, however\n- not involving hand or shoulder.  He had ultrasounds, bone\nscan, ortho evaluation, rheum evaluation, all unrevealing.\nPossible that this was CRPS, and he was treated with lidocaine\npatches.  He denies headache, chest pain, dyspnea, cough,\nabdominal pain, N/V/D, change in urination, poor glucose\ncontrol.  He does endorse weight gain of 40# \"in fluid weight\"\nin the past 6 months, maybe 20# since last admission which he\nthinks is due to kidney stress and needs to have him fluids at\nthat time.\n.\nIn the ED, afebrile with normal HR/BP/O2 sats.  UENIs without\nevidence of proximal/distal clot on R.  Received 12 units\ninsulin for glucose >400.  Admitted for further workup.\n\nPast Medical History:\nONC HISTORY:\nBiopsy-proven HCV cirrhosis since [**2101**].\nNoted [**5-/2112**] to have a 4.7 x 4.3 cm right hepatic lobe mass\ndisplaying imaging characteristics consistent with HCC.  Biopsy\nshowed well-to-moderately differentiated HCC. Further imaging\nstudies have been limited due to history of contrast nephropathy\nrequiring hydration (which is further limited by cardiac\nconcerns).  Discussions of chemoembolization, RFA-sorafenib, ans\nsorafenib systemic chemo.\n.\nOTHER PMH:\n- HCV cirrhosis, viral load 10/11/[**2111**]=9,619,847 IU/mL. EGD\nnormal [**5-/2112**]\n- Acute and chronic diastolic CHF, LVEF 50% in [**12/2109**] and 55%\non most recent [**5-/2112**] admission. Hx fluid overload.\n- Diabetes mellitus for 36 years, on insulin.\n- Pontine stroke in [**2109**] with some residual left arm, left leg\nweakness.  The patient also reports that some emotional\ndysregulation in that his laughter, anger and sadness responses\nare sometimes inappropriate.\n- PVD, status post right BKA.\n- History of osteomyelitis, s/p left foot debridement, 10/[**2111**].\n- Hypertension.\n- Chronic back pain, spinal stenosis, takes morphine, baclofen\nand gabapentin.\n- GERD.\n- Asthma. Multiple inhalers.\n- Hx potassium dysregulation in the setting of diuretics.\n- Anemia.\n- Proteinuria and microscopic hematuria. Presumed [**3-9**] DM.\n- Cholecystectomy, [**2099**].\n- Right wrist ganglion removal in [**2080**].\n- Left eye laser surgery in [**2111**] for retinal detachment.\n- Contrast induced renal insufficiency\n\nSocial History:\nLives in an apartment by himself with 2 PCAs in floors above and\nbelow him. H/o 20 PY tob use -quit in [**2109-9-6**]. He has a\nremote history of alcohol and drugs, but has been sober for the\nlast 15-20 years. He is on disability, he does not work.\nOriginally from [**State **], lived in [**Location 86**] since [**2068**].\n\nFamily History:\nDM, HTN.\n\nPhysical Exam:\nADMISSION EXAM:\nT97.9, 102/64, HR 70, R20, 99% on RA\nGeneral: obese male with general anasarca, no respiratory\ndistress.\nHEENT: PERRL, anicteric.  No obvious ptosis, conjunctival\ninjection, or periorbital swelling.  Mild general sense of\nincreased fullness/lack of symmetry with enlargement of R side\nof face.  Painless.  Normal facial muscle strength and\nsensation.  OP clear.\nNeck: obese.  JVD elevation difficult to appreciate.\nHeart: regular, S1 S2, [**3-13**] SM best at RUSB.  No heave.\nChest: Limited by poor bed mobility.  Preserved air entry\nbilaterally without obvious wheezes or crackles, but posterior\nexam limited.\nAbdomen: obese, +BS, soft, NT, ND.  +pitting abdominal wall and\nsacral edema.\nExtrem: R arm grossly larger than left both proximal/distal.\nRelative increase in both pitting and nonpitting edema.  Pitting\nedema most notable in dependent areas.  No obvious erythema\nexcept small area on medial upper arm, which has some increased\ntenderness relative to elsewhere.  Tender with excessive touch\nof skin.  No sense of tautness of skin relative to other side.\nJoint ROM preserved without significant tenderness with passive\nmotion at each joint.  LLE also with 1-2+ pitting edema, less\npainful.  Some chronic venous stasis changes.\nNeuro: alert, oriented.  CN II-XII intact.  LUE weak with\nlimited active movement at elbow and shoulder with some\ncontracture and muscle atrophy.  RUE with 5/5 strength at each\nsite except weak finger abduction.  Able to move LLE but with\nminimal strength.\n\nDISCHARGE EXAM:\nVS - 98.1 136/80 70 18 94%\nGEN - morbidly obese, no acute distress\nCV - RRR no m/r/g\nLUNGS - CTA b/l\nABD - soft NT ND\nEXT - no CCE, right AKA, left [**Hospital Ward Name **] cyst\nSKIN - warm and dry\n\nPertinent Results:\nADMISSION LABS:\n[**2112-9-15**] 04:00PM\nWBC-5.7 RBC-2.85* HGB-8.3* HCT-24.8* MCV-87 MCH-29.1 MCHC-33.4\nRDW-13.5\n    NEUTS-61.2 LYMPHS-28.6 MONOS-6.6 EOS-3.1 BASOS-0.5\n    PLT COUNT-102*\nPT-14.5* PTT-34.6 INR(PT)-1.3*\nGLUCOSE-294* UREA N-41* CREAT-1.6* SODIUM-139 POTASSIUM-3.7\nCHLORIDE-105 TOTAL CO2-27 ANION GAP-11\nALT(SGPT)-26 AST(SGOT)-38 ALK PHOS-97 TOT BILI-0.2 LIPASE-19\nCALCIUM-8.2* PHOSPHATE-4.2 MAGNESIUM-2.4\nOSMOLAL-312*\nLACTATE-1.3\nCBC, chems at relative baseline\n.\n[**2112-9-16**] CXR: IMPRESSION: Lungs are fully expanded and clear.\nThere is no apical mass. Pleural surfaces are smooth. No\npneumothorax. Heart is top normal size. Interval increase in\ncaliber of the upper mediastinum could be due to differences in\npatient position or adenopathy, and not necessarily a change. If\nthere is serious concern for vascular patency, then direct\nimaging of the vein should be performed.\n.\n[**2112-9-15**] RUE DOPPLER U/S: IMPRESSION: No evidence of DVT in the\nright upper extremity including the right internal jugular vein\nand visualized portions of the subclavian vein.  Extensive soft\ntissue edema. Evaluation of the left upper extremity was limited\ngiven inability to properly position the arm. No evidence of\nthrombus in the visualized left internal jugular, subclavian,\nand cephalic veins.\n.\nDISCHARGE LABS:\n[**2112-10-4**] 05:30AM BLOOD WBC-7.4 RBC-2.95* Hgb-8.4* Hct-25.1*\nMCV-85 MCH-28.4 MCHC-33.3 RDW-14.0 Plt Ct-201\n[**2112-9-27**] 05:30AM BLOOD Neuts-65.5 Lymphs-24.2 Monos-7.0 Eos-2.9\nBaso-0.3\n[**2112-10-4**] 05:30AM BLOOD PT-14.4* PTT-35.8* INR(PT)-1.2*\n[**2112-10-5**] 05:00AM BLOOD Glucose-228* UreaN-48* Creat-2.1* Na-137\nK-4.0 Cl-103 HCO3-26 AnGap-12\n[**2112-10-4**] 05:30AM BLOOD ALT-18 AST-27 AlkPhos-62 TotBili-0.3\n\nBrief Hospital Course:\nPrimary Reason for Hospitalization:\n61yo man with hepatocellular CA, CHF, HTN, DM, hep C cirrhosis,\nPVD, hx of CVA, admitted for RUE cellulitis.  He was started on\nampicillin/sulbactam.  CXR was negative.  You were also started\non bacitracin/polymyxin ointment for a right-eye conjunctivitis.\n\nActive Diagnoses:\n# Somnolence: Ddx included hepatic encephelopathy vs. uremia vs.\nhypercarbia vs. medication effect (was on gabapentin, baclofen,\nMSContin, oxycodone) vs. hypoventilation/OSA. Less likely\netiologies include CVA, more likely hemispheric than brainstem.\nPatient has some degree of cirrhosis, but normal EGD in [**Month (only) 547**]\n[**2112**], no peripheral stigmata on exam, and synthetic function not\nterribly depressed (normal coags, though admission albumin 2.5).\nRenal function steadily deteriorating and BUN climbing so this\ncould likely be a contributing etiology. TSH wnl. Infection also\nin ddx, though afebrile, WBC not high at this time, UA negative,\nand has been on abx for cellulitis.  We increased the frequency\nof lactulose to treat potential hepatic encephelopathy,\ntitrating to [**4-8**] BM/day.  He was encouraged to use BIPAP\novernight for obesity hypoventilation in case hypercapnia was\ncontributing to his somnolence, but this seems more chronic in\nnature.  He was cultured to rule out toxic/metabolic causes of\nencephalopathy.  Cultures were negative.  Cr increased despite\noctreotide, midodrine and pt became volume overloaded, leading\nto need for dialysis.  Dialysis was initiated and pt's MS\nimproved to baseline indicating uremia was likely contributing\nto AMS.  However around the same time pt was also started on\nlactulose, so could have had a level of HE.  Pt's hypoxic\nepisodes could have been contributory to AMS as well.\n\n# Hypoxemia: A-a gradient <10 making hypoxemia is suggestive of\nhypoventilation, likely secondary to obesity\nhypoventilation/sleep apnea. Hypercarbia appears to be somewhat\nchronic in nature given pH of 7.34 and pCO2 of 54 (if acute\nchange, would expect pH of 7.28 or so). Pt denies recent\nworsening of cough or dyspnea. Has been afebrile.  He was\nencouraged to use BIPAP while asleep for obesity\nhypoventilation.  A CXR was obtained to assess for any acute\nprocess. He was admitted to MICU for worsening respiratory\ndistress, given his anasarca pulmonary edema was the focared\ndiagnosis, though aspiration pneumonitis and PNA were also\nconsidered. He was treated with Vancomycin/Zosyn empirically and\nhe received bedside hemodialysis to remove excess fluid. In MICU\nhis repiratory status improved with HD, empiric therapy and\npatient began auto-diuresing.  On floor was continued on UF 3x\nweekly and his sats remained in the high 90s.\n\n# Anasarca- Likely secondary to hypoalbuminemia from cirrhotic\ndisease and progressive renal failure (renal protein wasting\nthough not nephrotic range proteinuria). Also, was off of lasix\nand spironolactone since prior discharge on [**8-30**] and was just\nrestarted on [**9-16**] (40 mg IV) and [**9-18**] (60 mg) w/ poor response.\nHas become oliguric in response to recent lasix challenges. Per\nhepatology consult on the day of ICU transfer, patient appears\nto have hepatorenal syndrome, so he was given albumin 25 q8h and\ndiuresis was held. He received albumin before arriving to MICU\nand in MICU was started on midodrine/ocreotide for possible\nhepatorenal syndome. Hepatology and renal followed in MICU and\nhe received bedside HD.  Pt was then transitioned to UF as\nmentioned above.  Anasarca resolved and pt's creatine improved\nto 1.8 on discharge.  He will be set up for outpatient UF 3x\nweekly.\n\n# [**Last Name (un) **]: History of CKD w/ baseline creatinine around 1.6. Recent\nhistory of contrast nephropathy with creatinine as high as 3.7.\nCurrently rising from 1.6 on admission to 2.6 today. Likely\nsecondary to poor forward flow in setting of intravascular\ndepletion with a component of hepatorenal syndrome. Gave albumin\nand held diuresis in the setting of likely hepatorenal syndrome.\nAs above, he was started on midodrine and octreotide in MICU in\naddition to, HD line placed by IR and bedside HD initiated.\nTunneled line was placed and used for UF as above.\n\n# RUE cellulitis: Unclear whether this was a true infection in\nsetting of significant swelling, likely secondary to anasarca.\nUENI negative for DVT. On exam, arm does not appear erythematous\nor particularly tender. No CXR findings to suspect SVC syndrome.\nStarted ampicillin/sulbactam for cellulitis in a diabetic on\n[**2112-9-16**] and showed significant improvement.  Seen by ID, who\nrecommended 7-10 days of abx, switched to vancomycin on [**2112-9-19**].\n Pt was treated until day of discharge with vanco and at this\npoint cellulitis had resolved.\n\n# Right-eye bacterial conjunctivitis: Treated with\nbacitracin/polymixin eye ointment.\n\n# Anemia: Unclear etiology.  Pt has had recent EGD ([**5-16**]) w/o\nevidence of varices. Pt has had a colonscopy x 4 years ago (no\nreport) and will need to d/w PCP. [**Name10 (NameIs) **] transfused 1 unit on [**9-18**]\nwith appropriate bump.  Remained stable when on floor.\n\n# Pain: Held baclofen, gabapentin, and MSContin in the setting\nof increased somnolence.  As his MS improved he was restarted on\nbaclofen and given po oxycodone PRN for pain.\n\n# Hepatocellular CA: Recent CT scan showed stable disease.\nGiven multiple comorbidities, he was not a candidate for\ntherapy.  He aslo developed contrast nephropathy last CT scan\nand will be followed by AFP and U/S.  Pt's disease is currently\nend stage.  Palliative care consulted and pt had good\nunderstanding of prognosis of disease.  He was discharged with\ntransition to hospice care.\n\n# Chronic diastolic CHF: Continued carvedilol, hydralazine,\namlodipine.\n\n# PVD: Continued aspirin and statin.\n.\n# LLE ulcer: Wound care consulted.\n.\n# DM: Continued outpatient insulin glargine and sliding scale.\n.\n# Elevated uric acid: Has had elevated levels in the past.\nChecked CPK level.  Started allopurinol.\n.\n# Asthma: Continued fluticasone and tioptropium.\n.\n# Hypoalbuminemia: Nutrition consulted.  Checked urine protein.\n\nTransitional Issues:\n- transition to hospice care when disease worsens, for now will\ngo for UF 3x weekly.\n\nMedications on Admission:\n1. carvedilol 25 mg Tablet Sig: One (1) Tablet PO twice a day.\n2. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY.\n3. albuterol sulfate 2.5mg/3mL (0.083%) Nebulization [**2-7**] Inh Q4H\nPRN dyspnea.\n4. ammonium lactate 12 % Lotion ASDIR as needed for once daily.\n5. clotrimazole 1 % Cream Sig: One (1) Appl Topical [**Hospital1 **]: to arm.\n6. fluticasone 110 mcg/Actuation Aerosol Sig: One (1) Puff\nInhalation [**Hospital1 **].\n7. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY.\n8. fluticasone 50 mcg/Actuation 1 Spray Nasal DAILY.\n9. gabapentin 100 mg Capsule Sig: One (1) Capsule PO three times\na day.\n10. hydralazine 25 mg Tablet Sig: Three (3) Tablet PO Q6H.\n11. amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.\n12. Insulin insulin glargine [Lantus] 100 unit/mL Solution 26U\n[**Hospital1 **].\n13. Insulin Sliding Scale insulin lispro [Humalog] per home\nsliding scale [**Hospital1 **].\n14. ipratropium-albuterol 0.5 mg-3 mg(2.5 mg base)/3 mL Solution\n1 neb q6hrs.\n15. lactulose 10 gram Packet Sig: One (1) packet PO at bedtime.\n16. simvastatin 10 mg Tablet Sig: One (1) Tablet PO HS.\n17. omeprazole 20 mg Capsule PO DAILY.\n18. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID.\n19. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY.\n20. Spiriva with HandiHaler 18 mcg Capsule 1 Inhalation once a\nday.\n21. magnesium oxide 400 mg Tablet Sig: Two (2) Tablet PO BID.\n22. senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID PRN\nconstipation.\n23. multivitamin     Tablet Sig: One (1) Tablet PO DAILY\n24. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2)\nTablet PO DAILY.\n25. baclofen 10 mg Tablet Sig: One (1) Tablet PO three times a\nday.\n26. MS Contin 15 mg Tablet Extended Release PO 2-3 times per\nday.\n\nDischarge Medications:\n1. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for\nConstipation.\n2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for Constipation.\n3. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO QID (4\ntimes a day).\n4. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n5. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n6. bacitracin-polymyxin B 500-10,000 unit/g Ointment Sig: One\n(1) Appl Ophthalmic Q6H (every 6 hours).\n7. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical TID\n(3 times a day) as needed for itching.\n8. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n9. fluticasone 110 mcg/Actuation Aerosol Sig: One (1) Puff\nInhalation [**Hospital1 **] (2 times a day).\n10. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n11. carvedilol 12.5 mg Tablet Sig: Two (2) Tablet PO BID (2\ntimes a day).\n12. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n13. sodium chloride 0.65 % Aerosol, Spray Sig: [**2-7**] Sprays Nasal\n[**Hospital1 **] (2 times a day) as needed for dry nasal passages.\n14. metolazone 2.5 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*20 Tablet(s)* Refills:*2*\n15. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:\nTwo (2) Tablet, ER Particles/Crystals PO twice a day.\nDisp:*120 Tablet, ER Particles/Crystals(s)* Refills:*0*\n16. furosemide 40 mg Tablet Sig: One (1) Tablet PO twice a day.\nDisp:*60 Tablet(s)* Refills:*2*\n17. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q2H\n(every 2 hours) as needed for constipation.\n18. baclofen 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a\nday).\n19. Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device\nSig: One (1) capsule Inhalation once a day.\n20. MS Contin 15 mg Tablet Extended Release Sig: One (1) Tablet\nExtended Release PO every 6-8 hours as needed for pain: do not\ndrink alcohol or drive with this medication.\n21. insulin glargine 100 unit/mL Cartridge Sig: Twenty Eight\n(28) Units Subcutaneous twice a day.\n22. insulin lispro 100 unit/mL Insulin Pen Sig: per sliding\nscale  Subcutaneous per sliding scale: please administer\naccording to sliding scale.\nDisp:*30 pen* Refills:*2*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Location (un) 86**] VNA\n\nDischarge Diagnosis:\nPrimary Diagnosis:\n[**Last Name (un) **] requiring dialysis and ultrafiltration\nHypervolemia requiring ultrafiltration\nRight arm cellulitis (skin infection).\nRight eye conjunctivitis (infection).\nHealth Care Acquired Pneumonia\nEnd stage HCC and liver cirrhosis\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Bedbound.\n\nDischarge Instructions:\nMr. [**Known lastname 4542**],\n\nIt was a pleasure taking care of you during this\nhospitalization.  You were initially admitted to the hospital\nfor right arm swelling and found to have a skin infection of\nthat arm (cellulitis).  You were started on antibiotics and\nslowly responded to this.  Doppler ultrasound did not show a\nblood clot.  Your eye was also found to have an infection\n(conjunctivitis), so you were given an antibiotic eye ointment.\n\nDuring your admission you were also found to have a pneumonia\nwhich required a short stay in the ICU.  We treated you with IV\nantibiotics and your pneumonia improved.\n\nWhile you were here, you also had an acute kidney injury.  This\nresulted in volume overload to the point where it became\ndifficult for you to breath.  We determined that your kidneys\nwere not able to remove the extra fluid by themselves, so we\nstarted you on dialysis.  Your kidney function improved after\ndialysis, so we started you on a different type of dialysis\ncalled ultra-filtration.  We have arranged for outpatient\ndialysis for you, which will happen three times a week.\n\nWe have made the following changes to your home medications:\nSTOP: hydralazine\nSTOP: gabapentin\nCHANGE: lasix from 40mg daily to 40mg twice daily\nCHANGE: insulin sliding scale\nSTART: Metolozone 2.5 mg daily\nSTART: potassium chloride 40meq twice daily\n\nWeigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more\nthan 3 lbs.\n\n\nFollowup Instructions:\nDepartment: LIVER CENTER\nWhen: TUESDAY [**2112-10-18**] at 11:45 AM\nWith: [**Name6 (MD) **] [**Last Name (NamePattern4) 2424**], MD [**Telephone/Fax (1) 2422**]\nBuilding: LM [**Hospital Unit Name **] [**Location (un) 858**]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\nDepartment: [**Hospital3 249**]\nWhen: FRIDAY [**2112-10-14**] at 10:10 AM\nWith: DR [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]/[**Company 191**] POST [**Hospital 894**] CLINIC\nPhone: [**Telephone/Fax (1) 250**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\nThis appointment is with a hospital-based doctor as part of your\ntransition from the hospital back to your primary care provider.\n[**Name10 (NameIs) 616**] this visit, you will see your regular primary care doctor\nin follow up\n\n\n\n"
+    }
+  ]
+}

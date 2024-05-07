@@ -1,0 +1,176 @@
+{
+  "hadm_id": 121538,
+  "comment": "Missing OP report for cardiac catherterization and valvuloplasty",
+  "notes": [
+    {
+      "note_id": 16029,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 432,
+          "end": 455,
+          "code": "37.23",
+          "code_system": "ICD-9-PCS",
+          "description": "Combined right and left heart cardiac catheterization",
+          "type": "Human",
+          "covered_text": "Cardiac catheterization"
+        },
+        {
+          "begin": 456,
+          "end": 484,
+          "code": "35.96",
+          "code_system": "ICD-9-PCS",
+          "description": "Percutaneous valvuloplasty",
+          "type": "Human",
+          "covered_text": "Aortic balloon valvuloplasty"
+        },
+        {
+          "begin": 548,
+          "end": 576,
+          "code": "428.9",
+          "code_system": "ICD-9-CM",
+          "description": "Heart failure, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "biventricular heart failure,"
+        },
+        {
+          "begin": 1392,
+          "end": 1445,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "MapType.MULTI",
+          "covered_text": "acute on chronic systolic and diastolic\nheart failure"
+        },
+        {
+          "begin": 4238,
+          "end": 4252,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 4255,
+          "end": 4267,
+          "code": "404.91",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive heart and renal disease, unspecified, with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 4291,
+          "end": 4298,
+          "code": "V58.67",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of insulin",
+          "type": "Human",
+          "covered_text": "insulin"
+        },
+        {
+          "begin": 4686,
+          "end": 4708,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "Chronic kidney disease"
+        },
+        {
+          "begin": 8470,
+          "end": 8493,
+          "code": "427.1",
+          "code_system": "ICD-9-CM",
+          "description": "Paroxysmal ventricular tachycardia",
+          "type": "Human",
+          "covered_text": "ventricular tachycardia"
+        },
+        {
+          "begin": 8516,
+          "end": 8540,
+          "code": "427.41",
+          "code_system": "ICD-9-CM",
+          "description": "Ventricular fibrillation",
+          "type": "Human",
+          "covered_text": "ventricular\nfibrillation"
+        },
+        {
+          "begin": 10821,
+          "end": 10840,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "MapType.APPROX",
+          "covered_text": "atrial fibrillation"
+        },
+        {
+          "begin": 10844,
+          "end": 10852,
+          "code": "V58.61",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of anticoagulants",
+          "type": "MapType.EXACT",
+          "covered_text": "warfarin"
+        },
+        {
+          "begin": 10889,
+          "end": 10911,
+          "code": "425.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other primary cardiomyopathies",
+          "type": "Human",
+          "covered_text": "dilated cardiomyapathy"
+        },
+        {
+          "begin": 11947,
+          "end": 11965,
+          "code": "V45.02",
+          "code_system": "ICD-9-CM",
+          "description": "Automatic implantable cardiac defibrillator in situ",
+          "type": "Human",
+          "covered_text": "Biventricular ICD/"
+        },
+        {
+          "begin": 13012,
+          "end": 13056,
+          "code": "428.42",
+          "code_system": "ICD-9-CM",
+          "description": "Combined systolic and diastolic heart failure, chronic",
+          "type": "Human",
+          "covered_text": "Chronic Systolic and Diastolic Heart Failure"
+        },
+        {
+          "begin": 13909,
+          "end": 13911,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 16775,
+          "end": 16790,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "Aortic stenosis"
+        },
+        {
+          "begin": 16791,
+          "end": 16841,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "MapType.MULTI",
+          "covered_text": "Acute on chronic systolic congestive heart failure"
+        }
+      ],
+      "text": "Admission Date:  [**2121-8-28**]              Discharge Date:   [**2121-8-29**]\n\nDate of Birth:  [**2045-1-14**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nValsartan / Tikosyn\n\nAttending:[**First Name3 (LF) 1515**]\nChief Complaint:\nincreased shortness of breath leading to an elective right and\nleft heart catheterization with aortic valvuloplasty and\nechocardiogram during procedure\n\nMajor Surgical or Invasive Procedure:\nCardiac catheterization\nAortic balloon valvuloplasty\n\n\nHistory of Present Illness:\n76F with severe aortic stenosis, biventricular heart failure,\natrial fibrillation on warfarin and s/p dual-chamber pacemaker,\nand dilated cardiomyapathy who presents to the CCU after having\na right and left heart catheterizaton with aortic valvuloplasty\nin the setting in increased SOB. The patient is s/p aortic\nvalvuloplasty in [**2117**] after she was not felt to be a candidate\nfor cardiac surgery. She also has dilated cardiomyopathy with an\nEF of 20%. She is s/p biventricular ICD placement in [**2117**] with\nrecent generator change performed [**2121-7-8**]. She has been\nexperiencing increased shortness of breath with minimal exertion\nand recently underwent right and left heart catheterization by\nDr. [**Last Name (STitle) **] [**2121-7-9**] which demonstrated low gradient/low flow\naortic stenosis, severe pulmonary hypertension with an elevated\nPCWP(=36 mmHg), and acute on chronic systolic and diastolic\nheart failure. Patient is on warfarin which was stopped [**2121-8-23**]\nper Dr.[**Name (NI) 32659**] instructions. Patient is now referred for right\nand left heart catheterization with aortic valvuloplasty and\nechocardiogram during the procedure.\n.\nThe patient does not have any chest pain or PND. She has 2\npillow orthopnea. Occassional lower extremity edema. No\ndizziness. She walks at home with a cane, but her ambulation is\nlimited, more by pain in her leg than by dyspnea. She had a\nmechanical fall in [**2120-9-21**] leading to ORIF for a right\nsupracondylar femur fracture. She does feel fatigued and SOB\nwith minimal activity, such as dressing herself. Her boyfriend\n[**Name (NI) 12239**] is also her caretaker and ensures that she takes all her\nmedications every day. She has had no falls in [**2120**], but the\nyear prior she had the mechanical fall leading to the femur\nfracture, as well as 4 episodes of syncope/LOC attributed to\nTikosyn, which has since been stopped.\n.\nPrior Diagnostics:\n[**2121-7-9**]: Cardiac Cath\n-Low gradient (31), low flow aortic stenosis (valve area 0.52)\n-Insignificant coronary artery disease (30% stenosis in mid LAD\nsecond diagonal branch, and RCA proximal)\n-Severe pulmonary hypertension with an elevated PCWP(=36 mmHg),\nRA pressure of 17, PA 73/28 (45)\n-Acute on chronic systolic and diastolic heart failure\n.\n[**2121-7-10**] Echo: left ventricular EF 20% (severe global systolic\ndysfunction), left atrium moderately dilated, left ventricle\nmoderately dilated, right ventricle size normal with NML free\nwall motion, critical aortical valve area (<0.8), mild (1+)\naortic regurg, moderate to severe (3+) mitral regurg, 2+\ntricuspid regerg, moderate pulm systolic HTN\n.\n[**5-/2121**]: PASP 43mmHg. Mean gradient 33mmHg.\n.\nIn the cath lab, initial vitals were 70, 93/49, 23, 98% (on RA).\nThough the patient has an ICD, a temporary pacing wire was\ninserted via catheter in order to rapidly pace her heart in\norder to empty out the left ventricle prior to valvuloplasty.\nHowever, the rapid pacing caused the patient to go into V tach.\nChest compressions were started (for 20 sec), and she was\nshocked, which resolved the arrythmia. She was briefly on Neo\nand dopamine during the procedure, but these were taken off soon\nafter the catheterization with SBPs in the 110s and MAPs in the\n60s. Valvuloplasty was performed with 3-4 inflations of a 23mm\nballoon. The gradient was decreased from 38 to 28, and the valve\narea was increased from 0.38cm2 to 0.56cm2. PCWP was measured to\nbe 26. The sheaths were removed.\n.\nVitals on transfer to the CCU were 70, 114/49, 20, and 99% (on\n2L by NC?).\n.\nOn arrival to the floor, patient was feeling well and denied\nchest pain or SOB. She had mild pain at her ICD and mild pain\natt the femoral catheter site.\n\nPast Medical History:\n- Hyperlipidemia\n- Hypertension\n- Diabetes Mellitus on insulin\n- Dilated cardiomyopathy\n- Aortic stenosis s/p csurg evaluation by Dr. [**Last Name (STitle) **] [**2117**]; not\na surgical candidate\n- S/P aortic valvuloplasty [**5-/2118**]\n- Cath [**2120**]: non-obstructive/non-significant CAD\n- BIV/ICD placed [**2117**] and [**Company 1543**] generator change [**2121-7-8**]\n- Open reduction/internal fixation of right femur after\nmechanical fall\n- Chronic kidney disease\n- Thyroid disease\n- S/P shingles\n- Short term memory issues\n\nFamily History:\nSON s/p MI at AGE 49, DAUGHTER WITH DILATED CARDIOMYOPATHY,\nMOTHER WITH CAD AND MIs- died age 79.\n\n\nPhysical Exam:\nVS: T=97.7, BP=116/53 (69), HR=73, RR=13, O2 sat=97% on 2L by NC\n\nGENERAL: cachectic, frail, NAD. Oriented x3. Mood, affect\nappropriate.\nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were\npink, no pallor or cyanosis of the oral mucosa. No xanthalesma.\n\nNECK: Supple, JVP difficult to assess as patient is supine.\nCARDIAC: PMI located in 5th intercostal space, midclavicular\nline. RR, normal S1, S2. No r/g. [**2-25**] cresendo/decresendo murmur\nbest heard at sternal border. No thrills, lifts. No S3 or S4.\nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp\nwere unlabored, no accessory muscle use. CTAB anteriorly, no\ncrackles, wheezes or rhonchi. ICD is surrounded by edema, mild\nTTP (pt reports that for months there has been a hematoma in ICD\npocket, now slowly resolving).\nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not\nenlarged by palpation. No abdominial bruits.\nEXTREMITIES: No c/c/only trace edema at ankles. No femoral\nbruits.\nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.\nPULSES:\nRight: DP and PT dopplerable\nLeft: DP 1+ PT 1+\n\nPertinent Results:\n[**2121-8-28**] 10:00AM   PT-19.4* PTT-53.8* INR(PT)-1.8*\n[**2121-8-28**] 10:00AM   PLT COUNT-239\n[**2121-8-28**] 10:00AM   WBC-10.4 RBC-4.06*# HGB-14.4# HCT-44.1#\nMCV-109* MCH-35.5* MCHC-32.7 RDW-15.9*\n[**2121-8-28**] 10:00AM   estGFR-Using this\n[**2121-8-28**] 10:00AM   GLUCOSE-106* UREA N-111* CREAT-2.5*\nSODIUM-140 POTASSIUM-4.2 CHLORIDE-95* TOTAL CO2-32 ANION GAP-17\n[**2121-8-28**] 10:50PM   CALCIUM-9.7 PHOSPHATE-4.2 MAGNESIUM-2.1\n[**2121-8-28**] 10:50PM   GLUCOSE-202* UREA N-103* CREAT-2.5*\nSODIUM-135 POTASSIUM-3.3 CHLORIDE-94* TOTAL CO2-30 ANION GAP-14\n.\n.\nECHO [**2121-8-28**]:\nThe left atrium is moderately dilated. The right atrium is\nmoderately dilated. There is mild symmetric left ventricular\nhypertrophy. The left ventricular cavity is mildly dilated.\nOverall left ventricular systolic function is severely depressed\n(LVEF = 25 %). Tissue Doppler imaging suggests an increased left\nventricular filling pressure (PCWP>18mmHg). The right\nventricular free wall thickness is normal. Right ventricular\nchamber size is normal. with borderline normal free wall\nfunction. Significant aortic stenosis is present (not\nquantified). Moderate (2+) aortic regurgitation is seen. The\nmitral valve leaflets are mildly thickened. There is no mitral\nvalve prolapse. There is moderate thickening of the mitral valve\nchordae. Mild to moderate ([**12-23**]+) mitral regurgitation is seen.\n[Due to acoustic shadowing, the severity of mitral regurgitation\nmay be significantly UNDERestimated.] The tricuspid valve\nleaflets are mildly thickened. [Due to acoustic shadowing, the\nseverity of tricuspid regurgitation may be significantly\nUNDERestimated.] Significant pulmonic regurgitation is seen.\nThere is no pericardial effusion.\n.\nCompared with the findings of the prior study (images reviewed)\nof [**2121-7-10**], the transaortic valvular pressure gradients are\nsimilar, but the left ventricular stroke volume is higher.\nTherefore, the aortic valve orifice area is increased, although\nit could not be calculated with vertainty due to technical\nfactors. The mitral regurgitation appears significantly reduced,\nalthough the aortic regurgitation is increased.\n.\n.\nCardiac Catheterization [**2121-8-28**]:\nThe right and left heart pressures were elevated (mean PAP 35,\nPCWP 26).  The heart was 86 bpm, the CO was 2.65 L/min, mean\ngradient 38.25 mmHg, and the aortic valve area was 0.38 cm2.\n.\nInterventional details\nDuring test rapid ventricular pacing, the patient developed\nventricular tachycardia that degenerated into ventricular\nfibrillation.  She was cardioverted to paced rhythm with return\nin her BP following a Neo infusion.\n.\nThe aortic valve was dilated without rapid ventricular pacing\nusing a 20 mm Hg and a 22 mm Hg x 6 cm valvuloplasty balloons.\n.\nAfter balloon valvuloplasty, the heart was 79 bpm, the CO was\n2.65 L/min, mean gradient 27.27 mmHg, and the aortic valve area\nwas 0.56 cm2.\n.\nAssessment & Recommendations\n1.\tCritical aortic stenosis\n2.\ts/p successful balloon aortic valvuloplasty up to 22 mm\nballoon with > 50% in the aortic valve area but residual severe\naortic stenosis\n3.\tTo CCU overnight\n.\n.\nEKG [**2121-8-28**]: AV paced, regular, rate ~70, small p waves, wide QRS\n\n.\n.\nPPM Interrogation [**2121-8-29**] (PRELIMINARY REPORT):\nDevice Brand: [**Company 1543**]\nModel: [**Name6 (MD) 39503**] XT CRT-D D314TRG\nPresenting rhythm: A-biV sequentially paced\nIntrinsic Rhythm: Junctional bradycardia at ~ 30 bpm\nProgrammed Mode: DDDR\nBattery Voltage: 3.17 V\n.\nRA lead\n  Intrinsic amplitude: 1.6 mV\n  Pacing impedance: 475 ohms\n  Pacing threshold: 0.75 V @ 0.4 ms\n.\nRV lead\n  Intrinsic amplitude: 6.3 mV\n  Pacing impedance: 418 ohms\n  Pacing threshold: 1.375 V @ 0.4 ms\n.\nLV lead\n  Intrinsic amplitude: N/A\n  Pacing impedance: 418 ohms\n  Pacing threshold: 0.5 V @ 1.0 ms\n.\nDefib Coil impedance: 42/43 ohms\n.\nPacing:\nAS-VS: <0.1%\nAS-VP: 0.2%\nAP-VS: 0.1%\nAP-VP: 99.7%\n.\nDiagnostic information: High rate, Mode switch:\n2 episodes of NSVT\n1 episode of VT in the monitor zone x 35 sec\nNo ICD therapies needed\n.\nProgramming changes (details):\nWith threshold testing the patient noted diaphragmatic pacing\nwith LV lead amplitudes > 1.5 V @ 1.0 ms, and intermitant\ndiaphragmatic pacing with LV lead amplitudes between 1.25 - 1.5\nV @ 1.0 ms.  The measured LV threshold was 0.5 V @ 1.0 ms. The\npatient's LV amplitude was previously set at 1.25V @ 1.0 ms, so\nthe LV amplitude was decreased to 1.0 V @ 1.0 ms [**First Name (Titles) **] [**Last Name (Titles) **] her\nsymptoms.\n.\nSummary (normal / abnormal device function):\nNormally functioning biventricular ICD. Intermittent\ndiaphragmatic pacing due to high LV thresholds which where were\ndecreased as noted above.  Patient has device clinic follow-up\nin a few weeks.\n\nBrief Hospital Course:\n76F with severe aortic stenosis, biventricular diastolic heart\nfailure, atrial fibrillation on warfarin and s/p dual-chamber\npacemaker, and dilated cardiomyapathy who presents to the CCU\nafter having a right and left heart catheterizaton with aortic\nvalvuloplasty in the setting in increased SOB.\n.\n# Aortic Stenosis: Pt was turned down for cardiac surgery in\n[**2117**] and had an aortic valvuloplasty at that time. Recently had\nworsening SOB and presented for elective valvuloplasty; the\nvalvuloplasty increased her aortic area by 50% and decreased the\ngradient from 38 to 28.  Given the risk of serious complications\nfollowing her procedure, she was admitted to the CCU for 24\nhours of monitoring.  She did well in the CCU after the\nvalvuloplasty.  She did not complain of SOB or chest pain and\nhad no bleeding from the femoral catheter insertion site.\nPost-cath labs were reassuring.  She was discharged with follow\nup with her PCP (Dr. [**Name (NI) 23019**]), her primary cardiologist\n(Dr. [**Last Name (STitle) **], and the interventional cardiologist Dr. [**Last Name (STitle) **].  She\nalso has an appointment with Dr. [**Last Name (STitle) **], who has been\nfollowing her for her ICD.\n.\n# Biventricular ICD/Rhythm: s/p successful generator change in\n[**Month (only) 205**] with hematoma since this procedure, which is slowly\nresolving according to the patient and her significant other.\nDr. [**Last Name (STitle) **] has been following this in the outpatient setting.\nThe patient has known a fib and is on warfarin (was held this\nweek prior to procedure). She had a brief episode of v tach in\nthe setting of rapid pacing in the cath lab, but she had not\nsuch episodes afterwards.  While in the CCU, the patient\ncomplained of a sensation of a beat in her epigastrum that was\nconcerning for diaphragmatic pacing.  Her device was\ninterrrogated and adjusted (see results section), and she will\nfollow up with Dr. [**Last Name (STitle) **] next week.  She was continued on her\nhome amiodarone and metoprolol during her hospital stay.  Her\nwarfarin was held prior to the cardiac cath, but it was\nrestarted in the CCU.  She will follow up with her PCP [**Last Name (NamePattern4) **]. [**First Name (STitle) **]\nfor INR/warfarin monitoring and adjustments.\n.\n# Chronic Systolic and Diastolic Heart Failure: Pt has dilated\ncardiomyopathy, EF 20%, and currently with PCWP of 26 and PAPs\nin the 70s systolic (mean 30s).  The patient was continued on\nher home digoxin, losartan, metoprolol, and aspirin.  We\ndiuresed her with IV Lasix given her elevated PCWP.  She was\nsent home on her regular torsemide and metolazone.\n.\n# Chronic Kidney Disease: Pre-procedure the pt's Cr was 2.5, and\nthe pt received a small amount of contrast in the procedure.\nPatient's B/L Cr is 1.5-2.2. Unclear reason for increase,\nperhaps worsening cardiac function or hypovolemia in setting of\ndecreased PO intake.  The patient's medications were renally\ndosed, and her creatinine was followed, which remained in the\n2.5-2.6 range.  She will follow up with her PCP.\n.\n# HTN: Chronic problem, but pt not currently hypertensive.  The\npatient's losartan and metoprolol were continued.\n.\n# DM: FSBG post procedure was 155.  Patient was put on glargine\ninsulin [**Hospital1 **] and humalog SS QID during the brief hospitalization.\n She resumed her home insulim regimen on discharge.\n.\nTransitional Issues\n# CODE: Confirmed full\n# Health Care Proxy: daughter [**Name (NI) **] [**Name (NI) 20774**] ([**Telephone/Fax (1) 45875**])\n# Contact: [**Name (NI) 892**] (caregiver and significant other) ([**Telephone/Fax (1) 45876**])\n\n# INR: Was subtherapeutic on the day of discharge at 1.7.  PCP\n[**Last Name (NamePattern4) **]. [**Name (NI) 45877**] will follow up with the patient in 3 days.\n# Heart Failure Management: Future caregivers may wish to\nconsider starting spironolactone if there is no\ncontraindication.\n# Home Services: The patient was evaluated by physical therapy,\nwho recommended home PT.  She will also get a home skilled\nnursing visit.\n\nMedications on Admission:\nallopurinol 300 mg daily\namiodarone 100 mg [**Hospital1 **]\nbupropion HCl SR 150 mg daily in PM\ndigoxin 125 mcg every other day\ndonepezil 10 mg daily\nfolic acid 1 mg daily\nNovolog 100 unit/mL Sub-Q sliding scale with meals four times\ndaily\nLevemir 100 unit/mL Sub-Q 22 units in the am; 4 units in the PM\n\nLevothroid 112 mcg tablet daily\nlosartan 12.5 mg daily\nNamenda 10 mg tablet [**Hospital1 **]\nmetolazone 2.5 mg on Tuesday and Thursday\nmetoprolol tartrate 12.5 mg [**Hospital1 **]\nomeprazole delayed release 20 mg TID\noxazepam 10 mg daily\nDitropan XL 5 mg daily\npotassium chloride 10 % Oral Liquid 15 cc by mouth daily\ntorsemide 40 mg [**Hospital1 **]\nwarfarin 3 mg tues thurs sat sun, 2mg mwf\naspirin 81 mg daily\ncalcium carbonate-vitamin D3 500 mg(1,250 mg)-400 unit TID\ncetirizine 10 mg daily\nferrous sulfate 325 mg (65 mg iron) daily\n\nDischarge Medications:\n1. Allopurinol 300 mg PO DAILY\n2. Amiodarone 100 mg PO BID\n3. Aspirin 81 mg PO DAILY\n4. BuPROPion (Sustained Release) 150 mg PO QPM\n5. Calcium Carbonate 500 mg PO Q 8H\n6. Digoxin 0.125 mg PO EVERY OTHER DAY\n7. Donepezil 10 mg PO DAILY\n8. Ferrous Sulfate 325 mg PO DAILY\n9. FoLIC Acid 1 mg PO DAILY\n10. Levothyroxine Sodium 112 mcg PO DAILY\n11. Memantine 10 mg PO BID\n12. Metoprolol Tartrate 12.5 mg PO BID\n13. Omeprazole 20 mg PO Q 8H\n14. Oxazepam 10 mg PO HS\n15. Torsemide 40 mg PO BID\n16. Vitamin D 1200 UNIT PO DAILY\n17. Warfarin 3 mg PO 4X/WEEK ([**Doctor First Name **],TU,TH,SA)\nTues, Thurs, Sat, Sun\n18. Warfarin 2 mg PO 3X/WEEK (MO,WE,FR)\n19. Losartan Potassium 12.5 mg PO DAILY\n20. Metolazone 2.5 mg PO QTUTHUR (TU,TH) Duration: 1 Doses\n21. Potassium Chloride 15 cc PO DAILY\n10% oral liquid\n22. Cetirizine *NF* 10 mg Oral daily\n23. Ditropan XL *NF* (oxybutynin chloride) 5 mg Oral daily\n24. Levemir 22 Units Breakfast\nLevemir 4 Units Bedtime\nInsulin SC Sliding Scale using Novolog Insulin\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital1 6136**] Home Care Services\n\nDischarge Diagnosis:\nAortic stenosis\nAcute on chronic systolic congestive heart failure\n\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nMs. [**Known lastname 20774**],\n\nYou were admitted to the hospital for evaluation and treatment\nof your aortic stenosis.  You had a cardiac catheterization and\na balloon valvuloplasty, where a balloon was temporarily\ninflated to open up your aortic valve and improve the aortic\nstenosis.  Your heart went into a rhythm called ventricular\ntachycardia for about 20 seconds during the procedure.  A shock\nwas administered and resolved this rhythm, and you had no other\nissues during or after the procedure.\n\nBecause of the risk of complications in the hours immediately\nfollowing this procedure, you were admitted to the CCU (the\ncardiac intensive care unit) for monitoring.  You were continued\non most of your regular medications, and there was no evidence\nof complications from the procedure.\n\nUpon discharge, please resume taking all your regular\nmedications.  Please follow up with Dr. [**Last Name (STitle) **], Dr. [**Last Name (STitle) 5076**], and\nDr. [**Last Name (un) **] at the times listed below.  Please weigh\nyourself every morning, and call Dr. [**Last Name (STitle) **] if your weight goes\nup more than 3 lbs in a day or more than 5 lbs in 3 days.\n\nA physical therapist saw you while you were in the CCU and\nrecommended that you get physical therapy as an outpatient.  You\nwill have a physical therapist and visiting nurse when you leave\nthe hospital.\n\nThere have been no changes in your medications.  However, please\nask Dr. [**Name (NI) 23019**] if you should adjust your Namenda dose or\nany of your other medications due to your renal function.\n\nFollowup Instructions:\nName: [**Doctor Last Name **]-[**Last Name (LF) **],[**First Name3 (LF) **] Z.\nAddress: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 6698**]\nPhone: [**Telephone/Fax (1) 6699**]\nWe are working on a follow up appointment with your primary care\nphysician within [**Name Initial (PRE) **] week. The office will contact you at home\nwith an appointment. If you have not heard from the office\nwithin 2 business days please call them at [**Telephone/Fax (1) 45878**].\n\nDepartment: CARDIAC SERVICES\nWhen: WEDNESDAY [**2121-9-3**] at 9:40 AM\nWith: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 62**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\nName: [**Last Name (LF) **],[**First Name7 (NamePattern1) 488**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]\nLocation: [**Hospital **] MEDICAL GROUP-[**Location (un) 8720**] CARDIOLOGY\nAddress: 15 [**Doctor Last Name 8721**] BROTHERS WAY, [**Location 8723**],[**Numeric Identifier 18655**]\nPhone: [**Telephone/Fax (1) 8725**]\n**APPOINTMENT Tuesday [**2121-9-9**] 2:00pm***\n\n\n\n"
+    }
+  ]
+}

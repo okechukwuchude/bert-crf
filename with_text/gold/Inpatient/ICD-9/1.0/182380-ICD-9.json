@@ -1,0 +1,173 @@
+{
+  "hadm_id": 182380,
+  "comment": "Spinal fusion OP report not present- unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 477772,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 122,
+          "end": 129,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "MapType.APPROX",
+          "covered_text": "5 PRBCs"
+        },
+        {
+          "begin": 136,
+          "end": 139,
+          "code": "99.07",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of other serum",
+          "type": "MapType.APPROX",
+          "covered_text": "FFP"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   HPI: 79 yo male s/p ant/post L3-S1 decompression/fusion for failed back\n   surgery sydrome with 2.5L EBL, 5 PRBCs and 2 FFP intraop.\n   Chief complaint:\n   Chr anemia, thrombocytosis,back surgery\n   PMHx:\n   PMH: Dyslipidemia, Asthma (CONTROLLED SOB w/activity), DM 2, Anemia\n   PSH:  anterior L3-S1 decopression fusion on [**9-6**], partial thyroid [**2129**],\n   back surgery x 2 [**2130**], [**2135**], L TKR [**2133**], appy [**2125**], shoulder [**2124**],\n   lipoma neck [**2135**]\n   [**Last Name (un) **]:  celebrex, doxazocin 4', avandia, synthroid, ativan, paroxetene\n   20', fentanyl patch 75, simvastatin 40', gemfibrozol 600\", naproxen,\n   fent patch 75 mcg, ativan 1mg [**Hospital1 7**]\n   Current medications:\n   Active Medications [**Known lastname **],[**Known firstname 2562**]\n   1. 2. 3. 4. 20 mEq Potassium Chloride / 1000 mL D5 1/2 NS 5.\n   Acetaminophen 6. Albuterol Inhaler\n   7. Bisacodyl 8. Calcium Gluconate 9. CefazoLIN 10. Diazepam 11.\n   Diazepam 12. Docusate Sodium 13. Doxazosin\n   14. Famotidine 15. Fentanyl Patch 16. Furosemide 17. Gabapentin 18.\n   Gemfibrozil 19. HYDROmorphone (Dilaudid)\n   20. HYDROmorphone (Dilaudid) 21. Insulin 22. Levothyroxine Sodium 23.\n   Lorazepam 24. Magnesium Sulfate\n   25. Multivitamins 26. Paroxetine 27. Pneumococcal Vac Polyvalent 28.\n   Potassium Chloride 29. Simvastatin\n   30. Sodium Chloride 0.9% Flush 31. Sodium Chloride 0.9% Flush\n   24 Hour Events:\n EXTUBATION - At [**2140-9-10**] 08:40 AM\n   pt weaned and extubated pt had audible cuff leak and no post extuabtion\n   stridor currently on 50% face tent with sats >98%\n INVASIVE VENTILATION - STOP [**2140-9-10**] 08:41 AM\n EKG - At [**2140-9-10**] 09:00 AM\n ARTERIAL LINE - STOP [**2140-9-10**] 11:02 AM\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefazolin - [**2140-9-11**] 12:10 AM\n   Infusions:\n   Other ICU medications:\n   Diazepam (Valium) - [**2140-9-10**] 05:00 PM\n   Famotidine (Pepcid) - [**2140-9-10**] 08:00 PM\n   Other medications:\n   Flowsheet Data as of  [**2140-9-11**] 05:38 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**43**] a.m.\n   Tmax: 37.6\nC (99.6\n   T current: 37.1\nC (98.8\n   HR: 81 (71 - 103) bpm\n   BP: 99/45(59) {98/38(56) - 179/81(100)} mmHg\n   RR: 21 (14 - 26) insp/min\n   SPO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 110.8 kg (admission): 109 kg\n   Height: 67 Inch\n             Total In:\n                                                                  3,376 mL\n                                                                    618 mL\n   PO:\n                                                                     30 mL\n             Tube feeding:\n   IV Fluid:\n                                                                  2,621 mL\n                                                                    618 mL\n   Blood products:\n                                                                    725 mL\n   Total out:\n                                                                  1,470 mL\n                                                                    450 mL\n   Urine:\n                                                                  1,090 mL\n                                                                    370 mL\n   NG:\n   Stool:\n   Drains:\n                                                                    380 mL\n                                                                     80 mL\n   Balance:\n                                                                  1,906 mL\n                                                                    168 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   Ventilator mode: CPAP/PSV\n   Vt (Spontaneous): 478 (478 - 478) mL\n   PS : 5 cmH2O\n   RR (Spontaneous): 18\n   PEEP: 5 cmH2O\n   FiO2: 40%\n   PIP: 11 cmH2O\n   SPO2: 100%\n   ABG: 7.46/37/137/30/3\n   Ve: 9 L/min\n   PaO2 / FiO2: 343\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: EOMI\n   Cardiovascular: (Rhythm: Regular), (Distant heart sounds: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes :\n   , Crackles : )\n   Abdominal: Non-distended, Bowel sounds present\n   Left Extremities: (Edema: Absent, Trace), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Diminished)\n   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Diminished)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   167 K/uL\n   8.2 g/dL\n   185 mg/dL\n   0.9 mg/dL\n   30 mEq/L\n   4.0 mEq/L\n   20 mg/dL\n   101 mEq/L\n   139 mEq/L\n   25.1 %\n   8.9 K/uL\n        [image002.jpg]\n                             [**2140-9-9**]  05:24 PM\n                             [**2140-9-9**]  10:08 PM\n                             [**2140-9-10**]  03:47 AM\n                             [**2140-9-10**]  04:16 AM\n                             [**2140-9-10**]  07:26 AM\n                             [**2140-9-10**]  08:25 AM\n                             [**2140-9-10**]  04:27 PM\n                             [**2140-9-10**]  04:30 PM\n                             [**2140-9-10**]  06:40 PM\n                             [**2140-9-11**]  12:43 AM\n   WBC\n   9.7\n   8.8\n   8.9\n   Hct\n   28.2\n   26.5\n   25.3\n   24.9\n   25.1\n   Plt\n   162\n   160\n   167\n   Creatinine\n   0.9\n   0.8\n   0.9\n   Troponin T\n   <0.01\n   <0.01\n   TCO2\n   33\n   32\n   27\n   Glucose\n   174\n   203\n   205\n   185\n   Other labs: PT / PTT / INR:13.9/26.9/1.2, CK / CK-MB / Troponin\n   T:1370/18/<0.01, Lactic Acid:1.3 mmol/L, Ca:7.7 mg/dL, Mg:2.1 mg/dL,\n   PO4:2.5 mg/dL\n   Assessment and Plan\n   VENTRICULAR PREMATURE BEATS (VPB, VPC, PVC), AIRWAY, INABILITY TO\n   PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY CLEARANCE, COUGH),\n   BACK PAIN\n   Assessment and Plan: Assessment: 79 yo male s/p ant/post L3-S1\n   decompression/fusion\n   H/O CAD recent preop cath for clearance.\n   PLAN:\n   Neuro: d/c PCA not used appropriatly in favor of Q2H dilaudid IV,\n   Fentanyl patch 75mcg/hr on.Ativan, Valium\n   CVS:  HD stable, on no pressors r/o for MI. PAC\ns O/N.\n   Pulm: ext 93% 4 L\n   GI:  CT abdomen now. Famotidine,sips started and advance to tolerate\n   after CT.\n   FEN:  HLIVF D5 1/2 NS @75 IF TOLERATES PER ORAL.\n   Renal: Foley, good UOP\n   Heme: Monitor Hct, 26.5 after 2 U of PRBC 25.1, coags 1.2\n   Endo: RISS, to restart synthroid once taking po\n   ID: Cefazolin prophylaxis\n   TLD:  L IJ TLC, L radial Aline, PIV x2, Hemovac\n   Wounds: Back\n   Imaging:\n   Prophylaxis:  H2B, SCDs\n   Consults:  Ortho spine, APS\n   Code: full\n   Disposition: SICU\n   Billing Diagnosis:\n   Lines:\n   Multi Lumen - [**2140-9-9**] 06:05 PM rewired  [**9-10**]\n   Total time spent:\n"
+    },
+    {
+      "note_id": 36738,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 636,
+          "end": 648,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 650,
+          "end": 656,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 686,
+          "end": 690,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DM 2"
+        },
+        {
+          "begin": 769,
+          "end": 774,
+          "code": "V43.65",
+          "code_system": "ICD-9-CM",
+          "description": "Knee joint replaced by other means",
+          "type": "MapType.APPROX",
+          "covered_text": "L TKR"
+        },
+        {
+          "begin": 3031,
+          "end": 3036,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "MapType.APPROX",
+          "covered_text": "PRBCs"
+        },
+        {
+          "begin": 5747,
+          "end": 5765,
+          "code": "721.3",
+          "code_system": "ICD-9-CM",
+          "description": "Lumbosacral spondylosis without myelopathy",
+          "type": "MapType.APPROX",
+          "covered_text": "Lumbar spondylosis"
+        },
+        {
+          "begin": 5788,
+          "end": 5808,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Acute post-op anemia"
+        },
+        {
+          "begin": 5809,
+          "end": 5826,
+          "code": "780.97",
+          "code_system": "ICD-9-CM",
+          "description": "Altered mental status",
+          "type": "MapType.APPROX",
+          "covered_text": "Post-op confusion"
+        }
+      ],
+      "text": "Admission Date:  [**2140-9-6**]              Discharge Date:   [**2140-9-16**]\n\nDate of Birth:  [**2060-10-4**]             Sex:   M\n\nService: ORTHOPAEDICS\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 3190**]\nChief Complaint:\nBack and leg pain\n\nMajor Surgical or Invasive Procedure:\nAnterior/posterior lumbar fusion with instrumentation\n\nHistory of Present Illness:\nMr. [**Known lastname **] has a long history of back and leg pain.  He has\nattempted conservative therapy including physical therapy and\nhas failed.  He now presents for surgical intervention.\n\n\nPast Medical History:\nDyslipidemia, Asthma (CONTROLLED SOB w/activity), DM 2, Anemia'\npartial thyroid [**2129**], back surgery x 2 [**2130**], [**2135**], L TKR [**2133**],\nappy [**2125**], shoulder [**2124**], lipoma neck [**2135**]\n\nSocial History:\nDenies\n\nFamily History:\nN/C\n\nPhysical Exam:\nA&O X 3; NAD\nRRR\nCTA B\nAbd soft NT/ND\nBUE- good strength at deltoid, biceps, triceps, wrist\nflexion/extension, finger flexion/extension and intrinics;\nsensation intact C5-T1 dermatomes; - [**Doctor Last Name 937**], reflexes\nsymmetric at biceps, triceps and brachioradialis\nBLE- good strength at hip flexion/extension, knee\nflexion/extension, ankle dorsiflexion and plantar flexion,\n[**Last Name (un) 938**]/FHL; sensation diminished L4-5 dermatomes; - clonus,\nreflexes symmetric at quads and Achilles\n\n\nPertinent Results:\n[**2140-9-15**] 07:00AM BLOOD WBC-7.9 RBC-3.25* Hgb-9.1* Hct-28.7*\nMCV-88 MCH-28.0 MCHC-31.8 RDW-14.9 Plt Ct-369\n[**2140-9-14**] 02:35AM BLOOD WBC-6.8 RBC-3.33* Hgb-9.7* Hct-29.4*\nMCV-88 MCH-29.0 MCHC-32.9 RDW-14.4 Plt Ct-276\n[**2140-9-13**] 01:16AM BLOOD WBC-7.9 RBC-3.17* Hgb-9.0* Hct-27.7*\nMCV-88 MCH-28.3 MCHC-32.4 RDW-15.1 Plt Ct-212\n[**2140-9-12**] 02:27AM BLOOD WBC-7.7 RBC-2.80* Hgb-8.4* Hct-24.5*\nMCV-87 MCH-30.1 MCHC-34.5 RDW-14.7 Plt Ct-164\n[**2140-9-11**] 12:43AM BLOOD WBC-8.9 RBC-2.91* Hgb-8.2* Hct-25.1*\nMCV-86 MCH-28.0 MCHC-32.6 RDW-14.8 Plt Ct-167\n[**2140-9-10**] 03:47AM BLOOD WBC-8.8 RBC-3.10* Hgb-9.1* Hct-26.5*\nMCV-86 MCH-29.4 MCHC-34.4 RDW-14.1 Plt Ct-160\n\nBrief Hospital Course:\nMr. [**Known lastname **] was admitted to the [**Hospital1 18**] Spine Surgery Service on\n[**2140-9-6**] and taken to the Operating Room for L3-S1 interbody\nfusion through an anterior approach. Please refer to the\ndictated operative note for further details. The surgery was\nwithout complication and the patient was transferred to the PACU\nin a stable condition. TEDs/pnemoboots were used for\npostoperative DVT prophylaxis. Intravenous antibiotics were\ngiven per standard protocol. Initial postop pain was controlled\nwith a PCA. On HD#4 ([**2140-9-9**]) he returned to the operating\nroom for a scheduled L3-S1 decompression with PSIF as part of a\nstaged 2-part procedure. Please refer to the dictated operative\nnote for further details. The second surgery was also without\ncomplication and the patient was transferred to the PACU in a\nstable condition. Postoperative HCT was 25. He was transfused\nPRBCs and transfered to the SICU for observation.\nIn the SICU he was confused and this was thought to be due to\nanaesthesia.  He subsequently became more awake and alert over\nthe following three days.  A bupivicaine epidural pain catheter\nplaced at the time of the posterior surgery remained in [**Known lastname **]\nuntil postop day#1 from the second procedure when it was\nremoved. He was kept NPO until bowel function returned then diet\nwas advanced as tolerated. The patient was transitioned to oral\npain medication when tolerating PO diet. Foley was removed on\nPOD#3 from the second procedure. He was fitted with a lumbar\nwarm-n-form brace for comfort. Physical therapy was consulted\nfor mobilization OOB to ambulate. Hospital course was otherwise\nunremarkable. On the day of discharge the patient was afebrile\nwith stable vital signs, comfortable on oral pain control and\ntolerating a regular diet.\n\nMedications on Admission:\ncelebrex, doxazocin 4', avandia, synthroid, ativan, paroxetene\n20', fentanyl patch 75, simvastatin 40', gemfibrozol 600\",\nnaproxen, fent patch 75 mcg,\n\nDischarge Medications:\n1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for fever.\n2. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n4. Doxazosin 4 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).\n\n5. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n6. Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n7. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n8. Gemfibrozil 600 mg Tablet Sig: One (1) Tablet PO BID (2 times\na day).\n9. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n11. Insulin Regular Human 100 unit/mL Solution Sig: One (1)\nsyringe Injection ASDIR (AS DIRECTED).\n12. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\n1-2 Puffs Inhalation Q4H (every 4 hours) as needed for wheeze.\n13. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n14. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3\ntimes a day).\n15. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\n16. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times\na day).\n17. Fentanyl 25 mcg/hr Patch 72 hr Sig: One (1)  Transdermal\nQ72H (every 72 hours).\n18. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ4H (every 4 hours) as needed for pain.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Location (un) 83060**] Nursing Facility\n\nDischarge Diagnosis:\nLumbar spondylosis and disc degeneration\nAcute post-op anemia\nPost-op confusion\n\n\nDischarge Condition:\nGood\n\nDischarge Instructions:\nYou have undergone the following operation: ANTERIOR/POSTERIOR\nLumbar Decompression With Fusion\n\n\n\nImmediately after the operation:\n\n\n\n-Activity: You should not lift anything greater than 10 lbs for\n2 weeks. You will be more comfortable if you do not sit or stand\nmore than ~45 minutes without getting up and walking around.\n\n\n\n-Rehabilitation/ Physical Therapy:\n\no2-3 times a day you should go for a walk for 15-30 minutes as\npart of your recovery. You can walk as much as you can tolerate.\n\n\noLimit any kind of lifting.\n\n\n\n-Diet: Eat a normal healthy diet. You may have some constipation\nafter surgery. You have been given medication to help with this\nissue.\n\n\n\n-Brace: You have been given a brace. This brace is to be worn\nfor comfort when you are walking. You may take it off when\nsitting in a chair or while lying in bed.\n\n\n\n-Wound Care: Remove the dressing in 2 days. If the incision is\ndraining cover it with a new sterile dressing. If it is dry then\nyou can leave the incision open to the air. Once the incision is\ncompletely dry (usually 2-3 days after the operation) you may\ntake a shower. Do not soak the incision in a bath or pool. If\nthe incision starts draining at anytime after surgery, do not\nget the incision wet. Cover it with a sterile dressing. Call the\noffice.\n\n\n\n-You should resume taking your normal home medications. No\nNSAIDs.\n\n\n\n-You have also been given Additional Medications to control your\npain. Please allow 72 hours for refill of narcotic\nprescriptions, so please plan ahead. You can either have them\nmailed to your home or pick them up at the clinic located on\n[**Hospital Ward Name 23**] 2. We are not allowed to call in or fax narcotic\nprescriptions (oxycontin, oxycodone, percocet) to your pharmacy.\nIn addition, we are only allowed to write for pain medications\nfor 90 days from the date of surgery.\n\n\n\nPlease call the office if you have a fever>101.5 degrees\nFahrenheit and/or drainage from your wound.\n\n\nPhysical Therapy:\nActivity:  Activity as tolerated\nLSO for ambulation; may be out of bed to chair without.\n\nTreatment Frequency:\nPlease continue to inspect the incisions daily and look for\nsigns of infection.\n\nFollowup Instructions:\nPlease follow up with Dr. [**Last Name (STitle) 363**] in his clinic.  Call\n[**Telephone/Fax (1) **] for an appointment.\n\n\nCompleted by:[**2140-9-15**]"
+    },
+    {
+      "note_id": 477946,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 176,
+          "end": 188,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 4904,
+          "end": 4911,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Anxiety"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   79 yo male s/p ant/post L3-S1 decompression/fusion for failed back\n   surgery sydrome with 2.5L EBL, 5 PRBCs and 2 FFP intraop.\n   Chief complaint:\n   PMHx:\n   Dyslipidemia, Asthma (CONTROLLED SOB w/activity), DM 2, Anemia\n   Current medications:\n   1000 mL NS 5. Acetaminophen 6. Albuterol Inhaler 7. Bisacodyl 8.\n   Calcium Gluconate\n   9. CefazoLIN 10. Diazepam 11. Docusate Sodium 12. Doxazosin 13.\n   Famotidine 14. Fentanyl Patch 15. Furosemide\n   16. Gabapentin 17. Gemfibrozil 20. HYDROmorphone (Dilaudid) 21. Insulin\n   22. Levothyroxine Sodium 23. Lorazepam 24. Magnesium Sulfate 25.\n   Metoprolol Tartrate 26. Multivitamins 27. Paroxetine 28. Pneumococcal\n   Vac Polyvalent 29. Potassium Chloride 30. Simvastatin\n   24 Hour Events:\n MULTI LUMEN - STOP [**2140-9-11**] 08:27 PM\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefazolin - [**2140-9-12**] 12:00 AM\n   Infusions:\n   Other ICU medications:\n   Diazepam (Valium) - [**2140-9-11**] 06:30 PM\n   Famotidine (Pepcid) - [**2140-9-11**] 10:17 PM\n   Metoprolol - [**2140-9-12**] 12:00 AM\n   Hydromorphone (Dilaudid) - [**2140-9-12**] 01:00 AM\n   Other medications:\n   Flowsheet Data as of  [**2140-9-12**] 04:31 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**43**] a.m.\n   Tmax: 37.7\nC (99.9\n   T current: 37.7\nC (99.9\n   HR: 86 (70 - 89) bpm\n   BP: 108/53(67) {88/38(46) - 143/77(91)} mmHg\n   RR: 19 (12 - 22) insp/min\n   SPO2: 97%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 110.3 kg (admission): 109 kg\n   Height: 67 Inch\n             Total In:\n                                                                  2,880 mL\n                                                                    131 mL\n   PO:\n                                                                    360 mL\n             Tube feeding:\n   IV Fluid:\n                                                                  2,145 mL\n                                                                    131 mL\n   Blood products:\n                                                                    375 mL\n   Total out:\n                                                                  2,540 mL\n                                                                    275 mL\n   Urine:\n                                                                  2,460 mL\n                                                                    275 mL\n   NG:\n   Stool:\n   Drains:\n                                                                     80 mL\n   Balance:\n                                                                    340 mL\n                                                                   -144 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SPO2: 97%\n   ABG: ///33/\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended, Non-tender\n   Left Extremities: (Edema: Absent), (Temperature: Warm)\n   Right Extremities: (Edema: Absent), (Temperature: Warm)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Responds to: Verbal stimuli), Moves all extremities\n   Labs / Radiology\n   164 K/uL\n   8.4 g/dL\n   147 mg/dL\n   0.8 mg/dL\n   33 mEq/L\n   3.6 mEq/L\n   13 mg/dL\n   100 mEq/L\n   138 mEq/L\n   24.5 %\n   7.7 K/uL\n        [image002.jpg]\n                             [**2140-9-10**]  07:26 AM\n                             [**2140-9-10**]  08:25 AM\n                             [**2140-9-10**]  04:27 PM\n                             [**2140-9-10**]  04:30 PM\n                             [**2140-9-10**]  06:40 PM\n                             [**2140-9-11**]  12:43 AM\n                             [**2140-9-11**]  06:23 AM\n                             [**2140-9-11**]  11:46 AM\n                             [**2140-9-11**]  06:13 PM\n                             [**2140-9-12**]  02:27 AM\n   WBC\n   8.9\n   7.7\n   Hct\n   25.3\n   24.9\n   25.1\n   23.6\n   26.0\n   25.6\n   24.5\n   Plt\n   167\n   164\n   Creatinine\n   0.9\n   0.8\n   Troponin T\n   <0.01\n   <0.01\n   TCO2\n   27\n   Glucose\n   185\n   147\n   Other labs: PT / PTT / INR:13.9/26.9/1.2, CK / CK-MB / Troponin\n   T:1370/18/<0.01, Lactic Acid:1.3 mmol/L, Ca:7.9 mg/dL, Mg:1.8 mg/dL,\n   PO4:2.1 mg/dL\n   Assessment and Plan\n   HEMORRHAGE/HEMATOMA, PROCEDURE-RELATED (E.G., CATH, PACEMAKER, ICD\n   BLEED) , VENTRICULAR PREMATURE BEATS (VPB, VPC, PVC), AIRWAY, INABILITY\n   TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY CLEARANCE, COUGH),\n   BACK PAIN\n   Assessment and Plan: 79 yo male s/p ant/post L3-S1 decompression/fusion\n   with EBL of 2.5L.\n   PLAN:\n   Neuro: 1) Pain - Dil prn, Cont fentanyl patch 75mcg/hr on. 2) Anxiety -\n   cont Ativan. 3) Spasm- cont Valium 4) q4h neuro checks - no changes\n   CVS:  HD stable, MI r/o\n   Pulm: No active issues. On NC.\n   GI:  Reg diet\n   FEN:  KVO\n   Renal: Foley, good UOP\n   Heme: Low hct post-op. CT scan of abd did not show retroperitoneal\n   bleed. Given 1u pRBC with appropriate rise in hct to 26. Now down to\n   24.5, likely [**2-29**] post-op oozing. Cont to monitor q8h, if stable, can\n   monitor daily.\n   Endo: RISS, synthroid\n   ID: Cefazolin prophylaxis\n   TLD:  PIV x1, Hemovac\n   Wounds: Back c/d/i, hemovac draining serosanguinous fluid\n   Prophylaxis:  H2B, SCDs\n   Consults:  Ortho spine\n   Code: full\n   Disposition: SICU\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   20 Gauge - [**2140-9-11**] 09:30 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: H2 blocker\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent:\n"
+    },
+    {
+      "note_id": 477572,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 4347,
+          "end": 4364,
+          "code": "785.59",
+          "code_system": "ICD-9-CM",
+          "description": "Other shock without mention of trauma",
+          "type": "MapType.APPROX",
+          "covered_text": "hypovolemic shock"
+        },
+        {
+          "begin": 4382,
+          "end": 4385,
+          "code": "427.69",
+          "code_system": "ICD-9-CM",
+          "description": "Other premature beats",
+          "type": "MapType.APPROX",
+          "covered_text": "PVC"
+        },
+        {
+          "begin": 4454,
+          "end": 4458,
+          "code": "93.90",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous positive airway pressure [CPAP]",
+          "type": "MapType.APPROX",
+          "covered_text": "CPAP"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   79 yo male s/p ant/post L3-S1 decompression/fusion for failed back\n   surgery sydrome with 2.5L EBL, 5 PRBCs and 2 FFP intraop. Admitted for\n   volume resusitation and pt left intubated due to prone positioning\n   intraop and extensive EBL.\n   Chief complaint:\n   Back pain\n   PMHx:\n   Dyslipidemia, Asthma (CONTROLLED SOB w/activity), DM 2, Anemia,\n   anterior L3-S1 decopression fusion on [**9-6**], partial thyroid [**2129**], back\n   surgery x 2 [**2130**], [**2135**], L TKR [**2133**], appy [**2125**], shoulder [**2124**], lipoma\n   neck [**2135**]\n   Current medications:\n   1. Albuterol Inhaler   2. Calcium Gluconate  3. CefazoLIN   4.\n   Famotidine   5. Fentanyl Citrate gtt   6. Fentanyl Patch   7. Insulin\n   SS   8. Magnesium Sulfate   9. Potassium Chloride    10. Propofol gtt\n   24 Hour Events:\n   OR [**9-6**] and [**9-9**]: 2.5 L EBL on [**9-9**] with 5 PRBCs, 2 FFP\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Fentanyl - 25 mcg/hour\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2140-9-9**] 08:00 PM\n   Other medications:\n   Flowsheet Data as of  [**2140-9-10**] 03:30 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**43**] a.m.\n   Tmax: 37.1\nC (98.7\n   T current: 37.1\nC (98.7\n   HR: 75 (73 - 89) bpm\n   BP: 130/68(87) {118/60(78) - 169/87(113)} mmHg\n   RR: 13 (7 - 17) insp/min\n   SPO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 67 Inch\n             Total In:\n                                                                  6,431 mL\n                                                                    325 mL\n   PO:\n             Tube feeding:\n   IV Fluid:\n                                                                  3,718 mL\n                                                                    325 mL\n   Blood products:\n                                                                  2,713 mL\n   Total out:\n                                                                  3,435 mL\n                                                                    150 mL\n   Urine:\n                                                                    385 mL\n                                                                    150 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  2,996 mL\n                                                                    175 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CPAP/PSV\n   Vt (Set): 500 (500 - 500) mL\n   Vt (Spontaneous): 596 (596 - 596) mL\n   PS : 12 cmH2O\n   RR (Set): 16\n   RR (Spontaneous): 13\n   PEEP: 5 cmH2O\n   FiO2: 50%\n   PIP: 17 cmH2O\n   Plateau: 13 cmH2O\n   SPO2: 100%\n   ABG: 7.43/48/327/28/7\n   Ve: 7.2 L/min\n   PaO2 / FiO2: 654\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended, Non-tender\n   Left Extremities: (Edema: Trace)\n   Right Extremities: (Edema: Trace)\n   Neurologic: Sedated\n   Labs / Radiology\n   162 K/uL\n   9.4 g/dL\n   203 mg/dL\n   0.9 mg/dL\n   28 mEq/L\n   4.1 mEq/L\n   19 mg/dL\n   101 mEq/L\n   137 mEq/L\n   28.2 %\n   9.7 K/uL\n        [image002.jpg]\n                             [**2140-9-9**]  04:00 PM\n                             [**2140-9-9**]  05:14 PM\n                             [**2140-9-9**]  05:24 PM\n                             [**2140-9-9**]  10:08 PM\n   WBC\n   7.9\n   9.7\n   Hct\n   29\n   27.1\n   28.2\n   Plt\n   148\n   162\n   Creatinine\n   0.9\n   0.9\n   TCO2\n   33\n   33\n   Glucose\n   179\n   178\n   174\n   203\n   Other labs: PT / PTT / INR:14.1/26.1/1.2, Lactic Acid:1.3 mmol/L,\n   Ca:8.7 mg/dL, Mg:1.7 mg/dL, PO4:2.9 mg/dL\n   Assessment and Plan\n   BACK PAIN\n   Assessment and Plan: Assessment: 79 yo male s/p ant/post L3-S1\n   decompression/fusion. PVC\ns O/N\n   PLAN:\n   Neuro: (1) Sedation: wean Propofol (2) Pain: Fentanyl gtt, d/c\n   epidural, off until extubated will need to be tested if used, Fentanyl\n   patch 75mcg/hr from home.  PCA p extubation. Moving all extremities\n   CVS:  HD stable, on no pressors resolved hypovolemic shock. 2. new\n   onset PVC\ns O/N will rule out for ischemia. Start statin, metporolol\n   Pulm: CPAP, ABG, extubate today\n   GI:  Famotidine, NPO\n   FEN:  IVF D5 1/2 NS @75\n   Renal: Foley, good UOP\n   Heme: Monitor Hct, coags. Stable anemia\n   Endo: RISS, to restart synthroid once taking po\n   ID: Cefazolin prophylaxis\n   TLD:  L IJ TLC, L radial Aline, PIVx2, Hemovac\n   Wounds: Back\n   Imaging:\n   Prophylaxis:  H2B, SCDs\n   Consults:  Ortho spine, APS\n   Code: full\n   Disposition: SICUBilling Diagnosis:\n   ICU Care\n   Nutrition: NPO\n   Glycemic Control:\n   Lines:\n   14 Gauge - [**2140-9-9**] 05:35 PM\n   Multi Lumen - [**2140-9-9**] 06:05 PM\n   Arterial Line - [**2140-9-9**] 08:00 PM\n   Prophylaxis:\n   DVT:  SCDs\n   Stress ulcer:  H2B\n   VAP bundle:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition:  SICU\n   Total time spent: 31 min.\n"
+    }
+  ]
+}

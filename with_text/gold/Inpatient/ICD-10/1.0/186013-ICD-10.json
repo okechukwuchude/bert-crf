@@ -1,0 +1,95 @@
+{
+  "hadm_id": 186013,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 38016,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 413,
+          "end": 420,
+          "code": "F41.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anxiety disorder, unspecified",
+          "type": "Human",
+          "covered_text": "anxiety"
+        },
+        {
+          "begin": 1640,
+          "end": 1649,
+          "code": "F31.9",
+          "code_system": "ICD-10-CM",
+          "description": "Bipolar disorder, unspecified",
+          "type": "Human",
+          "covered_text": "Bipolar 1"
+        },
+        {
+          "begin": 1650,
+          "end": 1654,
+          "code": "F43.10",
+          "code_system": "ICD-10-CM",
+          "description": "Post-traumatic stress disorder, unspecified",
+          "type": "Human",
+          "covered_text": "PTSD"
+        },
+        {
+          "begin": 1655,
+          "end": 1677,
+          "code": "F60.3",
+          "code_system": "ICD-10-CM",
+          "description": "Borderline personality disorder",
+          "type": "Human",
+          "covered_text": "Borderline personality"
+        },
+        {
+          "begin": 1687,
+          "end": 1693,
+          "code": "J45.909",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified asthma, uncomplicated",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 1694,
+          "end": 1717,
+          "code": "E06.3",
+          "code_system": "ICD-10-CM",
+          "description": "Autoimmune thyroiditis",
+          "type": "Human",
+          "covered_text": "Hashimoto's Thyroiditis"
+        },
+        {
+          "begin": 1766,
+          "end": 1777,
+          "code": "K76.0",
+          "code_system": "ICD-10-CM",
+          "description": "Fatty (change of) liver, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "fatty liver"
+        },
+        {
+          "begin": 4994,
+          "end": 4998,
+          "code": "E10.10",
+          "code_system": "ICD-10-CM",
+          "description": "Type 1 diabetes mellitus with ketoacidosis without coma",
+          "type": "Human",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 5182,
+          "end": 5203,
+          "code": "E10.10",
+          "code_system": "ICD-10-CM",
+          "description": "Type 1 diabetes mellitus with ketoacidosis without coma",
+          "type": "Human",
+          "covered_text": "Diabetic ketoacidosis"
+        }
+      ],
+      "text": "Admission Date:  [**2138-8-28**]              Discharge Date:   [**2138-8-29**]\n\nDate of Birth:  [**2112-6-21**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nTylenol\n\nAttending:[**First Name3 (LF) 2297**]\nChief Complaint:\nNausea and abdominal pain\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\nMs. [**Known lastname **] is a 26 year old woman with a history of IDDM,\ndepression, anxiety, and a recent admission for DKA in [**7-/2138**],\nwho presents with nausea and abdominal pain in the setting of\ninsulin noncompliance at home. Since her recent discharge, she\nhas not been taking her insulin regularly. She cannot say why\nshe finds it difficult to maintain her insulin regimen, however.\nShe is in a day program that is helping slightly, but she\nrecently lost her job and her health insurance, so she does not\nknow if she can continue with this program.\nAt home, she checks her sugars frequently and they are normally\nin the 300s due to her poor compliance. On the morning of [**8-28**],\nher fingerstick was over 500 and her home ketone monitor\nreported a high [**Location (un) 1131**]. She felt nauseated and presented to the\nED.\n\nIn the ED, initial VS were: 97.5 109 129/71 22 99%. Labs were\nnotable for Na 130, K 5.3, bicarb 14, Glu 549, AG 21, venous pH\n7.25, urine glucose 1000, urine ketones 150. She was given\ninsulin 10U IV bolus followed by insulin gtt at 10U/hr. She\nreceived 1L NS bolus. After 2 hours, her labs were notable for\nNa 133, K 3.7, bicarb 17, glu 134, AGap 13.\n\nOn arrival to the MICU, patient's VS were HR 100 BP 103/62.\n\n\nPast Medical History:\nType 1 Diabetes Mellitus, ~20 years\nBipolar 1\nPTSD\nBorderline personality disorder\nAsthma\nHashimoto's Thyroiditis, untreated (according to patient)\nNon-alcoholic fatty liver disease\n\n\nSocial History:\nThe patient smokes 1 pack per day.\nShe denies alcohol.\nMarijuana 4-5 times per week\nPreviously has tried acid, mushrooms, ectasy, not heroin or\ncocaine or meth. not done drugs for greater than 2 years\nShe completed 3 years of college\nShe has worked many jobs, like HR, managers, now is a bank\nteller.\nLives with her mother and her mother's boyfriend in [**Name (NI) **].\n\n\nFamily History:\nFather - Alcohol abuse\nMother - \"Anxiety\"\nBrothers - Bipolar disorder\nGrandma - Rheumatoid arthritis\nMaternal uncle and aunt, paternal [**Name2 (NI) 53305**] with DM2\nMaternal cousin with type 1 diabetes\n\n\nPhysical Exam:\nADMITTING EXAM\n\nVitals:  98.7    89    102/61    17     98/RA\nGeneral: Alert, oriented, occasionally tearful\nHEENT: Sclera anicteric, MMM, EOMI, PERRL\nNeck: supple, no LAD\nCV: tacxhycardic, normal S1 + S2, no murmurs. JVP 6cm\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nAbdomen: soft, non-distended, bowel sounds present, no\norganomegaly, no tenderness to palpation, no rebound or guarding\n\nGU: no foley\nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: CNII-XII intact, strength and sensation grossly normal.\n\nDISCHARGE EXAM\n\nGeneral: Alert, oriented, in NAD\nHEENT: Sclera anicteric, MMM, EOMI, PERRL\nNeck: supple, no LAD\nCV: tacxhycardic, normal S1 + S2, no murmurs. JVP 6cm\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nAbdomen: soft, non-distended, bowel sounds present, no\norganomegaly, no tenderness to palpation, no rebound or guarding\n\nGU: no foley\nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: CNII-XII intact, strength and sensation grossly normal.\n\nPertinent Results:\nADMITTING LABS\n\n[**2138-8-28**] 01:00PM   WBC-5.9 RBC-4.85 HGB-15.4 HCT-44.2 MCV-91\nMCH-31.7 MCHC-34.7 RDW-12.3\n[**2138-8-28**] 01:00PM   CALCIUM-9.0 PHOSPHATE-3.8# MAGNESIUM-2.1\n[**2138-8-28**] 01:00PM   GLUCOSE-549* UREA N-16 CREAT-0.9 SODIUM-130*\nPOTASSIUM-5.4* CHLORIDE-95* TOTAL CO2-14* ANION GAP-26*\n[**2138-8-28**] 01:15PM   TYPE-[**Last Name (un) **] TEMP-36.6 PO2-63* PCO2-26* PH-7.25*\nTOTAL CO2-12* BASE XS--14 COMMENTS-GREEN TOP\n[**2138-8-28**] 02:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG\nGLUCOSE-1000 KETONE-150 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0\nLEUK-NEG\n[**2138-8-28**] 02:00PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.020\n[**2138-8-28**] 02:00PM URINE  UCG-NEGATIVE\n[**2138-8-28**] 03:50PM   GLUCOSE-134* UREA N-12 CREAT-0.7 SODIUM-133\nPOTASSIUM-3.7 CHLORIDE-104 TOTAL CO2-17* ANION GAP-16\n[**2138-8-28**] 09:55PM   CALCIUM-8.9 PHOSPHATE-3.1 MAGNESIUM-1.9\n[**2138-8-28**] 09:55PM   GLUCOSE-197* UREA N-11 CREAT-0.6 SODIUM-134\nPOTASSIUM-3.8 CHLORIDE-102 TOTAL CO2-24 ANION GAP-12\n\nDISCHARGE LABS\n\n[**2138-8-29**] 05:52AM BLOOD Glucose-191* UreaN-11 Creat-0.6 Na-135\nK-4.1 Cl-104 HCO3-24 AnGap-11\n[**2138-8-29**] 05:52AM BLOOD WBC-6.8 RBC-4.43 Hgb-13.7 Hct-38.8 MCV-88\nMCH-30.9 MCHC-35.3* RDW-12.4 Plt Ct-305\n\nIMAGING\n[**8-28**]: CXR - no acute process\n\nEKG: Sinus rhythm. Normal tracing. Compared to the previous\ntracing of [**2135-10-6**] no diagnostic interim change.\n\nBrief Hospital Course:\nMs. [**Known lastname **] is a 26 year old woman with a history of IDDM,\ndepression, anxiety, and a recent admission for DKA in [**7-/2138**],\nwho presents with nausea and abdominal pain in the setting of\ninsulin noncompliance at home.\n\nACTIVE ISSUES\n\n#) Diabetic ketoacidosis:  On arrival to the ICU, the patient's\nblood sugar was 134 (down from 549) and her anion gap was 13\n(down from 21). She was given an insulin gtt at 3U/hr and D5\n1/2NS at 150/hr. Her gap closed by the evening of her admission\nand her glucose remained between 100-150. She ate dinner and was\ngiven 12U NPH overnight, overlapped with the insulin gtt. Her\ngap remained closed through the night and she was given her home\nlantus dose of 34U the morning after admission. She was seen by\nthe [**Last Name (un) **] diabetes fellow who recommended continuation of her\nusual home regimen. She has a follow-up appointment with Dr.\n[**Last Name (STitle) **] of [**Hospital 18**] [**Hospital3 **] on Tuesday, [**9-2**]\nto follow up with her diabetes management and general health\nneeds.  He will be able to arrange a referral to [**Last Name (un) **] for\nfurther diabetes care if necessary.\n\n#)Healthcare access: Reason for patient's presentation stems\nfrom her recent job loss and a change in her health insurance.\nHer previous endocrinologist and PCP apparently do not accept\nher new insurance now that she is unemployed.  Social work was\nconsulted who discussed patient's options under her new health\ninsurance.  She was advised that [**Hospital1 18**] PCP's would accept her\nnew insurance, and likely that [**Last Name (un) **] would as well.  Patient\nwas established with a PCP at [**Hospital1 18**] [**Name9 (PRE) 191**] and told to contact the\n[**Name (NI) **] clinic for further diabetes care upon discharge.\n\nCHRONIC ISSUES\n\n#)Depression/Anxiety: stable, patient was continued on home\nmedication regimen.  Further management as per new PCP.\n\nTRANSITIONAL ISSUES\n\nPatient has been established with new PCP at [**Hospital1 18**] who can\narrange for referral to [**Hospital **] clinic for diabetes management if\nnecessary.  Social work remains available at [**Hospital1 18**] should she\nhave further access issues in the future.\n\nMedications on Admission:\nAlbuterol Inhaler 1 PUFF IH Q4H:PRN wheezing/sob\nDiazepam 5 mg PO BID:PRN anxiety, insomnia\nLaMOTrigine 75 mg PO DAILY\nQuetiapine Fumarate 50 mg PO HS\nGlargine 34 Units Breakfast\nInsulin SC Sliding Scale using HUM Insulin\n\nDischarge Medications:\n1. Quetiapine Fumarate 50 mg PO HS\n2. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheeze/SOB\n3. Insulin SC\n      Sliding Scale\n\nFingerstick QACHS\nInsulin SC Sliding Scale using HUM Insulin\n4. LaMOTrigine 200 mg PO DAILY\n5. Diazepam 5 mg PO Q12H:PRN anxiety\nplease hold for sedation or RR < 10\n6. Glargine 34 Units Breakfast\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPrimary diagnosis:\n  - Diabetic ketoacidosis\n\nSecondary diagnosis:\n  - healthcare access\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDear Ms. [**Known lastname **],\n\nYou were admitted here at [**Hospital1 18**] for diabetic ketoacidosis.  You\nwere treated in the ICU with iv insulin and fluids.  Your\ncondition improved significantly after the treatment.  You were\nalso seen by [**Last Name (un) **] specialist, who recommended to continue the\nfollowing home medication regimen.  We also scheduled several\nfollowup appointments for you.\n\nFollowup Instructions:\nDepartment: [**Hospital3 249**]\nWhen: TUESDAY [**2138-9-2**] at 3:00 PM\nWith: [**First Name8 (NamePattern2) 8694**] [**Last Name (NamePattern1) 25284**], MD [**Telephone/Fax (1) 2010**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\nNOTE:   Dr [**Last Name (STitle) **] is a resident and your new physician in\n[**Name9 (PRE) 191**].  Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] over sees this doctor and both will be\ninvolved in your care.  You will need to call your insurance\ncompany and name Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] as your Primary Care Physician.\n [**Name10 (NameIs) **] MUST BE DONE BEFORE YOUR APPT.\n\nName: [**Last Name (LF) **],[**Name8 (MD) **] MD\nLocation: [**Location (un) **] [**Location (un) **]-ENDOCRINOLOGY\nAddress: [**2138**], [**Location (un) **],[**Numeric Identifier 8934**]\nPhone: [**Telephone/Fax (1) 84918**]\n****Please call dr [**Last Name (STitle) 84919**] office to make a follow up appt once\nyou are home from the hospital.\n\n\n\nCompleted by:[**2138-8-31**]"
+    }
+  ]
+}

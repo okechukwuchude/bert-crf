@@ -1,0 +1,104 @@
+{
+  "hadm_id": 186386,
+  "comment": "Cardiac cath report not present",
+  "notes": [
+    {
+      "note_id": 43313,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 760,
+          "end": 802,
+          "code": "428.32",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, chronic",
+          "type": "Human",
+          "covered_text": "chronic\ndiastolic congestive heart failure"
+        },
+        {
+          "begin": 816,
+          "end": 831,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "aortic stenosis"
+        },
+        {
+          "begin": 881,
+          "end": 906,
+          "code": "441.2",
+          "code_system": "ICD-9-CM",
+          "description": "Thoracic aortic aneurysm without mention of rupture",
+          "type": "Human",
+          "covered_text": "ascending aortic\naneurysm"
+        },
+        {
+          "begin": 1408,
+          "end": 1420,
+          "code": "404.93",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive heart and renal disease, unspecified, with heart failure and renal failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1421,
+          "end": 1441,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "Hypercholesterolemia"
+        },
+        {
+          "begin": 1490,
+          "end": 1513,
+          "code": "585.6",
+          "code_system": "ICD-9-CM",
+          "description": "End stage renal disease",
+          "type": "MapType.EXACT",
+          "covered_text": "end stage renal failure"
+        },
+        {
+          "begin": 1546,
+          "end": 1556,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 1580,
+          "end": 1586,
+          "code": "V42.0",
+          "code_system": "ICD-9-CM",
+          "description": "Kidney replaced by transplant",
+          "type": "Human",
+          "covered_text": "kidney"
+        },
+        {
+          "begin": 5827,
+          "end": 5846,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial\nfibrillation"
+        },
+        {
+          "begin": 6960,
+          "end": 7002,
+          "code": "428.32",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, chronic",
+          "type": "Human",
+          "covered_text": "Chronic Diastolic Congestive Heart Failure"
+        }
+      ],
+      "text": "Admission Date:  [**2189-5-10**]              Discharge Date:   [**2189-5-19**]\n\nDate of Birth:  [**2127-7-22**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nVicodin / Cidofovir / Lisinopril / Ace Inhibitors / Lipitor\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\ndypnea\n\nMajor Surgical or Invasive Procedure:\n[**2189-5-13**] AVR ([**Street Address(2) 6158**]. [**Male First Name (un) 923**] porcine)/ eplacement Ascending aorta\n(30 mm Gelweave\nleft heart catheterization, coronary angiogram [**2189-5-11**]\n\n\nHistory of Present Illness:\nThis 61 year old male is status post orthotopic liver and kidney\ntransplantation with a well functioning [**Month/Day/Year **] liver and a\nmarginally functioning [**Month/Day/Year **] kidney. He has chronic\ndiastolic congestive heart failure secondary to aortic stenosis.\nHe has a known bicuspid aortic valve and stable ascending aortic\naneurysm. He is followed closely by Dr. [**First Name (STitle) 437**] from the heart\nfailure service who referred him for aortic valve replacement\nsurgery.\n\n He reports worsening shortness of breath, increasing fatigue\nand lower extremity edema. He denied chest pain, orthopnea and\nsyncope. He reports symptoms of SOB and chest burning has\nincreased over the past month.\n\n\nPast Medical History:\nChronic Diastolic Congestive Heart Failure\nBicuspid Aortic Valve, Severe Aortic Stenosis\nAscending Aortic Aneurysm\nHypertension\nHypercholesterolemia\nalcoholiccirrhosis\nHistory of variceal bleeding\nend stage renal failure, s/p [**First Name (STitle) **]\nDepression\ns/p simultaneous liver/kidney [**First Name (STitle) **] on [**2187-10-11**]\ns/p L4-5 spinal fusion\ns/p Hernia Repair, left\ns/p Knee Meniscal Repair\n\n\nSocial History:\nBorn in [**State **], lived in [**Male First Name (un) 1056**], then Mass for last 30\nyrs, worked as school counselor and high school basketball\ncoach, retired [**6-1**]. Lives with wife, has dog at home. Drank [**1-28**]\ndrinks/day (martinis, beer) on social basis, last drink [**2187-1-21**]\nfor wife's birthday. Denies smoking or illicit drug use.\n\nFamily History:\nFather had CABG in 40's, father and paternal grandmother with\nleukemia, uncle with unknown liver problem. [**Name (NI) **] hx pulmonary\ndisease, diabetes, stroke.\n\nPhysical Exam:\nadmission:\nT 98\nPulse:74 Resp:18 O2 sat:98% RA\nB/P  Right:118/80  Left:\nHeight: 72inches   Weight:213#\n\nGeneral: WDWN male in NAD\nSkin: Dry [x] intact [x] - well healed abd scars, right forearm\nscar\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x] - no JVD\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur IV/VI systolic ejection\nmurmur\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]\nExtremities: Warm [x], well-perfused [x]\nEdema - trace bilaterally\nVaricosities: None [x]\nNeuro: Grossly intact\nPulses:\nFemoral      Right: 1  Left: 1\nDP           Right: decreased  Left: decreased\nPT           [**Name (NI) 167**]:  decreased  Left: decreased\nRadial       Right: 1  Left: 1\n\nCarotid Bruit        Right: ? transmitted murmur   Left: ?\ntransmitted murmur\n\n\nPertinent Results:\nPRE-BYPASS:\nThe left atrium is dilated. No spontaneous echo contrast or\nthrombus is seen in the body of the left atrium/left atrial\nappendage or the body of the right atrium/right atrial\nappendage.\nA patent foramen ovale is present with left to right flow under\nanesthesia\nThere is moderate symmetric left ventricular hypertrophy. The\nleft ventricular cavity size is normal. Overall left ventricular\nsystolic function is normal (LVEF>55%).\nRight ventricular chamber size and free wall motion are normal.\nThe ascending aorta is moderately dilated. There are simple\natheroma in the descending thoracic aorta. The aortic valve is\nbicuspid. There is severe aortic valve stenosis (valve area\n0.8-1.0cm2). Mild (1+) aortic regurgitation is seen.\nThe mitral valve leaflets are mildly thickened. Mild (1+) mitral\nregurgitation is seen. There is no pericardial effusion.\nDr. [**Last Name (STitle) **] was notified in person of the results on [**Known firstname **]\n[**Known lastname **] before surgical incision.\n\nPOST-BYPASS:\nPreserved biventricualr systolic function.\nIntact thoracic aorta and the tube graft in the ascening aorta\nis visualized well with a good contour and no leaks\nAortic bioprosthetic valve is well seated and functioning well\nwith a residual peak gradient of 28mm of Hg peak and 15mm of Hg\nmean.\nMild MR [**First Name (Titles) **] [**Last Name (Titles) **].\n  I certify that I was present for this procedure in compliance\nwith HCFA regulations.\n\nElectronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting\nphysician [**Last Name (NamePattern4) **] [**2189-5-13**] 13:43\n\n[**2189-5-18**] 05:15AM BLOOD WBC-9.4 RBC-3.17* Hgb-9.5* Hct-29.2*\nMCV-92 MCH-30.1 MCHC-32.7 RDW-15.7* Plt Ct-216\n[**2189-5-17**] 05:20AM BLOOD WBC-10.4 RBC-3.08* Hgb-9.4* Hct-28.7*\nMCV-93 MCH-30.5 MCHC-32.7 RDW-16.0* Plt Ct-197\n[**2189-5-18**] 05:15AM BLOOD Glucose-122* UreaN-60* Creat-3.3* Na-134\nK-4.5 Cl-101 HCO3-24 AnGap-14\n[**2189-5-10**] 04:00PM BLOOD Glucose-133* UreaN-44* Creat-3.2* Na-139\nK-5.1 Cl-106 HCO3-23 AnGap-15\n[**2189-5-19**] 04:40AM BLOOD PT-12.6 INR(PT)-1.1\n[**2189-5-19**] 04:40AM BLOOD Glucose-104* UreaN-56* Creat-3.2* Na-136\nK-4.5 Cl-101 HCO3-26 AnGap-14\n\nBrief Hospital Course:\nHe was admitted on [**5-10**] for pre-op work up and cardiac\ncatheterization. This did not reveal significant coronary\ndisease. The liver /renal tranplant team clearance was obtained\nfor surgery. He underwent surgery with Dr. [**Last Name (STitle) **] on [**5-13**]. He\nwas transferred to the CVICU in stable condition on titrated\nphenylephrine and Propofol drips.  He remained stable, weaned\nfrom pressors and the ventilator easily, was extubated and\ntransferred to the floor.  He developed rate controlled atrial\nfibrillation and Coumadin was added to the medications.\n\nHis pacing wires and CTs were removed per protocols and wound\nwere clean and healing well.  Arrangements were made for\nCoumadin management by Dr. [**First Name (STitle) **] and dosing and results were\ngiven to his office. Discharge restrictions, medications and\nfollow up were explained to him. He remained edematous with\n10kilograms of extra fluid aborad.  he was discharge to home on\nlasix 40mg daily, indefinitely after discussion with his\nnephrologist Dr. [**Last Name (STitle) **].\n\nTacrolimus levels remained therapeutic on the current dose. His\nBUN, creatinine and potassium will be checked on [**5-21**] along with\nhis INR.\n\nMedications on Admission:\nCarvedilol 25 mg po BID\nFenofibrate 160 mg daily\nLovaza 1 gram capsulte (2) capsules po BID\nPrednisone 5 mg daily\nRanitidine 300 mg daily\nSertraline 50 mg po daily\nBactrim 400-80 mg po daily\nTacrolimus 1 mg capsules (2) capsules [**Hospital1 **]\nCalclium Carb-Vit D3 supplement 600-400 1 tab [**Hospital1 **]\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital1 1474**] VNA\n\nDischarge Diagnosis:\nChronic Diastolic Congestive Heart Failure\nBicuspid Aortic Valve with Severe Aortic Stenosis\ndilated ascending aorta\nHypertension\nHypercholesterolemia\nalcoholic cirrhosis\nHistory of variceal bleeding paracenteses\nend stage Renal failure\ns/p renal [**Hospital1 **]\ns/p liver [**Hospital1 **]\nDepression\n\n\nDischarge Condition:\nAlert and oriented x3. nonfocal\nAmbulating independently  steady gait\n\nIncisional pain managed with oral analgesics\n\nIncisions:\nsternal - healing well, no erythema or drainage\nLeg Left - healing well, no erythema or drainage.\n\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month until follow up with\nsurgeon\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n\n\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nFollowup Instructions:\nYou are scheduled for the following appointments:\n\nSurgeon: Dr. [**Last Name (STitle) **] on Thursday, [**2189-6-18**] @ 1:15 pm\n([**Telephone/Fax (1) 170**])\n Please call to schedule appointments with:\n\nPrimary Care: Dr. [**First Name11 (Name Pattern1) 122**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]  ([**Telephone/Fax (1) 45859**]) in [**12-27**] weeks\nCardiologist: Dr. [**First Name (STitle) 437**] in [**12-27**] weeks\n[**Date Range 1326**] and renal as requested by them\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nCoumadin follow up: Indication-atrial fibrillation. Goal 2-2.5.\nNext blood draw on Thursday, [**5-21**]. Fax results to Dr. [**First Name (STitle) **] at\n[**Telephone/Fax (1) 45868**].\n\n\n\n\nCompleted by:[**2189-5-19**]"
+    }
+  ]
+}

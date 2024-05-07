@@ -1,0 +1,404 @@
+{
+  "hadm_id": 156750,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1156132,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 119,
+          "end": 137,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 279,
+          "end": 302,
+          "code": "194.5",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of carotid body",
+          "type": "MapType.EXACT",
+          "covered_text": "LEFT CAROTID BODY TUMOR"
+        },
+        {
+          "begin": 652,
+          "end": 664,
+          "code": "V53.59",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "NG tube seen"
+        }
+      ],
+      "text": "[**Last Name (LF) 13702**],[**First Name3 (LF) **] A.            ENT SICU-B                 [**2133-11-13**]  8:12 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 86207**]\n Reason: s/p NJ tube placement\n Admitting Diagnosis: LEFT CAROTID BODY TUMOR/SDA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  38 year old woman with carotid bulb resection\n REASON FOR THIS EXAMINATION:\n  s/p NJ tube placement\n ______________________________________________________________________________\n                                  PFI REPORT\n NG tube seen within stomach.  No pneumothorax.  Exam is otherwise unchanged.\n\n"
+    },
+    {
+      "note_id": 1156594,
+      "category": "Radiology",
+      "description": "VIDEO OROPHARYNGEAL SWALLOW",
+      "annotations": [
+        {
+          "begin": 27,
+          "end": 54,
+          "code": "92611",
+          "code_system": "CPT",
+          "description": "Motion fluoroscopic evaluation of swallowing function by cine or video recording",
+          "type": "Human",
+          "covered_text": "VIDEO OROPHARYNGEAL SWALLOW"
+        },
+        {
+          "begin": 172,
+          "end": 191,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "description": "Dysphagia, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "swallowing function"
+        },
+        {
+          "begin": 226,
+          "end": 249,
+          "code": "194.5",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of carotid body",
+          "type": "MapType.EXACT",
+          "covered_text": "LEFT CAROTID BODY TUMOR"
+        },
+        {
+          "begin": 417,
+          "end": 421,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "mass"
+        },
+        {
+          "begin": 536,
+          "end": 555,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "description": "Dysphagia, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "swallowing function"
+        },
+        {
+          "begin": 886,
+          "end": 890,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "mass"
+        },
+        {
+          "begin": 1425,
+          "end": 1461,
+          "code": "785.9",
+          "code_system": "ICD-9-CM",
+          "description": "Other symptoms involving cardiovascular system",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "asymmetric decreased movement of the"
+        },
+        {
+          "begin": 1730,
+          "end": 1744,
+          "code": "478.79",
+          "code_system": "ICD-9-CM",
+          "description": "Other diseases of larynx, not elsewhere classified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "left vallecula"
+        },
+        {
+          "begin": 1751,
+          "end": 1802,
+          "code": "785.9",
+          "code_system": "ICD-9-CM",
+          "description": "Other symptoms involving cardiovascular system",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Decreased movement of the left laryngeal structures"
+        }
+      ],
+      "text": "[**2133-11-16**] 12:56 PM\n VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 86208**]\n Reason: pt with NGT, please evaluate swallowing function/ r/o aspira\n Admitting Diagnosis: LEFT CAROTID BODY TUMOR/SDA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  38 F POD #4 s/p resection of parapharyngeal mass w resection of L vagus and L\n  superior laryngeal n.\n REASON FOR THIS EXAMINATION:\n  pt with NGT, please evaluate swallowing function/ r/o aspiration ? ability to\n  safely take POs, with possible swallowing maneuvers vs. continued NGT need.\n ______________________________________________________________________________\n                                 FINAL REPORT\n CLINICAL INDICATION:  38-year-old female postop day #4 status post resection\n of parapharyngeal mass with resection of the left vagus and left superior\n laryngeal nerves.  Evaluate swallowing function, evaluate for aspiration.\n\n COMPARISON:  [**2133-10-5**].\n\n TECHNIQUE:  Oropharyngeal swallowing videofluoroscopy was performed in\n conjunction with the speech and swallow division.  Multiple consistencies of\n barium were administered.\n\n FINDINGS:  Penetration is seen with thick and thin liquids, which is cleared\n after patient is instructed to cough.  There is substantial residue in the\n vallecula, particularly on the left, with asymmetric decreased movement of the\n left laryngeal structures.  For further details, please refer to the speech\n and swallow division note in OMR.\n\n IMPRESSION:\n 1.  Penetration with thin and thick liquids, which may progress to aspiration\n without instruction to cough.\n 2.  Substantial residue in the left vallecula.\n 3.  Decreased movement of the left laryngeal structures.\n\n"
+    },
+    {
+      "note_id": 38406,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 235,
+          "end": 259,
+          "code": "478.24",
+          "code_system": "ICD-9-CM",
+          "description": "Retropharyngeal abscess",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Left parapharyngeal mass"
+        },
+        {
+          "begin": 414,
+          "end": 433,
+          "code": "237.3",
+          "code_system": "ICD-9-CM",
+          "description": "Neoplasm of uncertain behavior of paraganglia",
+          "type": "Human",
+          "covered_text": "glomus vagale tumor"
+        },
+        {
+          "begin": 465,
+          "end": 488,
+          "code": "194.5",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of carotid body",
+          "type": "MapType.EXACT",
+          "covered_text": "left carotid body tumor"
+        },
+        {
+          "begin": 517,
+          "end": 538,
+          "code": "560.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified intestinal obstruction",
+          "type": "MapType.APPROX",
+          "covered_text": "sigmoid decompression"
+        },
+        {
+          "begin": 3112,
+          "end": 3133,
+          "code": "560.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified intestinal obstruction",
+          "type": "MapType.APPROX",
+          "covered_text": "sigmoid\ndecompression"
+        },
+        {
+          "begin": 3167,
+          "end": 3186,
+          "code": "237.3",
+          "code_system": "ICD-9-CM",
+          "description": "Neoplasm of uncertain behavior of paraganglia",
+          "type": "Human",
+          "covered_text": "glomus vagale\ntumor"
+        },
+        {
+          "begin": 3204,
+          "end": 3227,
+          "code": "194.5",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of carotid body",
+          "type": "MapType.EXACT",
+          "covered_text": "left carotid body tumor"
+        }
+      ],
+      "text": "Admission Date:  [**2133-11-11**]              Discharge Date:   [**2133-11-17**]\n\nDate of Birth:  [**2095-8-2**]             Sex:   F\n\nService: OTOLARYNGOLOGY\n\nAllergies:\nKeflex\n\nAttending:[**First Name3 (LF) 7729**]\nChief Complaint:\nLeft parapharyngeal mass\n\nMajor Surgical or Invasive Procedure:\nOn [**2133-11-12**]:\n1. Facial nerve monitoring.\n2. Laryngeal nerve monitoring.\n3. Transcervical resection of left glomus vagale tumor.\n4. Transcervical resection of left carotid body tumor.\n5. Left Mastoidectomy with sigmoid decompression\n\n\nHistory of Present Illness:\nThe patient is a 38 yo female with bilateral carotid body tumors\nand a\nlarge left skull base paraganglioma/left vagus glomus tumor.  3D\nCT angiogram [**2133-8-31**] demonstrated a glomus vagale 4.1x 2.2x\n1.8cm\nthat extends from below the region of the carotid bifurcation\nand\nup to the skull base.  It does not enter the jugular foramen.\nShe also has a small carotid body tumor on the contralateral\nside\nthat is 1.7x 1.3x 2.1cm.  An octreotide scan had tracer uptake\nin\nthe area of the left glomus vagale.  However, the carotid body\ntumor had no uptake.  The SPECT/CT images also demonstrate a\n5-mm\nnodule in the left anterior lung without evidence of tracer\nuptake.  The patient carries the SDHD gene.  She has been tested\nand found to have normal plasma normetanephrine, an undetectable\ncalcitonin, and a normal ionized calcium.  She underwent\npreoperative embolization which was successful for an upper\nportion of the tumor, however, a\nseparate portion which was smaller and inferior could not be\nembolized  adequately.  In addition to this tumor, she has a\ncontralateral carotid body tumor.\n\n\nPast Medical History:\nLeft vagal glomus tumor, as above\nBilateral carotid body tumors, as above\nHypertension.\nGastroesophageal reflux.\nHead injury [**2130**].\nquestion of history of [**First Name5 (NamePattern1) **] [**Last Name (Prefixes) 4516**] disease.\n\nSocial History:\nShe is employed as an executive administrator and is married.\nShe currently smokes and has for 22 years.  She has six to eight\nalcoholic drinks per month.\n\nFamily History:\nPostive for FH of paragangiomas and pheochromocytomas. Brother\ntreated for\nmalignant paraganglioma. + SDHD gene\n\n\nPhysical Exam:\nOn admission:\n97.4, 66, 117/73, 20, 99% on room air\nNAD, A&Ox3\nEOMI, PERRL\nCNII-XII intact, face symmetric\nFull neck ROM, soft, no LAD\nOC/OP: Clear, no lesions, uvula midline\nCV: RRR, no murmurs\nLungs CTAB\nAbdomen soft, NTND\nExtremities warm and well perfused, faint peripheral pulses in\nlower extremities bilaterally.\n\nPertinent Results:\n[**2133-11-11**] 09:01PM   WBC-16.0* RBC-3.58* HGB-11.2* HCT-31.5*\nMCV-88 MCH-31.1 MCHC-35.4* RDW-12.8\n[**2133-11-11**] 09:01PM   PLT COUNT-251\n[**2133-11-11**] 09:01PM   PT-12.8 PTT-25.0 INR(PT)-1.1\n\nBrief Hospital Course:\nThe patient is a 38 year old woman with history of bilateral\ncarotid body tumors and left glomus vagale who was admitted\npre-operatively on [**2133-11-11**]. She had undergone pre-operative\nembolization, which she tolerated without issue.  She was taken\nto the OR on [**2133-11-12**] for left mastiodectomy, sigmoid\ndecompression, transcervical resection of left glomus vagale\ntumor and resection of left carotid body tumor with facial and\nlaryngeal nerve monitoring. For details, please see separately\ndictated note by Dr. [**Last Name (STitle) 3878**] and Dr. [**Last Name (STitle) 1837**]. The patient\ntolerated procedure without complications.  She was taken to the\nICU for first 24 hours for monitoring of neurological status,\nwhich remained stable, and was thereafter transfered to the\nfloor.  The details of her hospital course are reviewed below by\nststems:\n\nNeuro: Postoperatively, the patient was taken to the ICU for\ncloser monitoring of her vital signs and neurological function,\ngiven the proximity of the surgery to the carotid artery. Her\nexam remained stable and she was transfered to the floor on POD\n1. Regarding her cranial nerve exam, post-operatively, she was\nnoted to have some weakness with tongue movement to the left\n(left CN XII) as well as paralysis of the left true vocal cord,\ndeceased peristalysis of left pharyngeal wall with some pooling\nof secretions on that side which was anticipated given intra-op\nresection of the left vagus nerve. As a result of anticipated\ndifficulty with POs, an NGT was placed on POD #1; on POD #4,\nafter evaluation by speech and swallow, a diet was initiated\nwith compensatory maneuvers (see below) for her nerve deficits.\nPain was initially controlled with IV dilaudid while she was\nNPO. After NGT placement on POD1, she was transitioned to pain\nmedications through the NGT with good effect.\n\nCV: She had elevated BP to SBP 160-180 in the initial\npost-operative days which were attributed to pain and\nhemodynamic re-adjustment after carotid body removal.  Her blood\npressure normalized by POD #5.  She was instructed to follow-up\nwith PCP as an outpatient to have her blood pressure monitored.\n\nResp: The patient had oxygen saturations >95% throughout\nadmission.  She demonstrated good cough and was able to control\nher oral secretions.  She used suctioning as needed to help with\nany excess oropharyngeal secretions and arrangement were made\nfor suction machine at home.\n\nGI: In light of vagus nerve resection secondary to the tumor,\nshe was initially kept NPO pending further evaluation.  An NGT\nwas placed on POD #1 and she was started on continuous tube feed\ndiet with Replete with fiber @ 60 cc/hr.  Nutrition was\nconsulted who agreed with plan.  Speech/swallow was consulted on\nPOD #4 and she underwent a video floroscopic examination to\nevaluate pharyngeal swallowing mechanism and aspiration. She had\ndecrease mobility of the left side of her pharynx with some\npooling on the left side, but this was compensated for by head\nturn to left, chin tuck and hand pressure to left neck.  She was\ncleared for a pureed, moist thin food with thin liquid diet,\nwhich she tolerated.  She was instructed on signs/symptoms to\nlook for in terms of aspiration.  She was discharged with a plan\nto continue on cycled tube feeds nocturnally with replete with\nfiber @ 80 cc/hr x 14 hrs and and diet as above with oral\nnutrition supplements as tolerated. She is to follow-up with\nNutrition and Speech/Swallow as an outpatient.\n\nGU: The patient voided throughout admission without signs of\nretention or UTI.\n\nHeme: The patient ambulated frequently and was given SCH for DVT\nprophylaxis during admission.\n\nEndo: no issues\n\nID: The patient recieved perioperative antibiotic prophylaxis\nwith clindamycin until the drain was removed.  Her wound\nremained clean, intact and with erythema or signs of infection.\nShe was afebrile throughout her hospital stay.\n\nWound: The patient had a neck drain in place, which was removed\non POD#3 as it met output criteria.  Her neck incision is closed\nwith sutures which will be removed as an outpatient. Her wound\nremained clean, dry and intact.\n\nPatient is being discharged [**2133-11-17**], POD #5, to home with VNA\nservices: afebrile, tolerating regular tube feeding via NGT with\npureed, moist food with thin liquid oral diet, pain well\ncontrolled on oral/per tube medication, voiding, and ambulating\nwell.   Patient will follow-up with Dr. [**Last Name (STitle) 1837**] and Dr.\n[**Last Name (STitle) 3878**] in 1 week, nutrition and speech and swallow in [**2-14**] weeks\nas well as her primary care physician [**Last Name (NamePattern4) **] [**2-14**] weeks.\n\n\n\n\nMedications on Admission:\nTylenol prn\n\nDischarge Medications:\n1. Acetaminophen 650 mg/20.3 mL Solution Sig: One (1) 650 mg PO\nQ6H (every 6 hours) as needed for pain: PO or via NGT.\n2. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs\nPO Q4H (every 4 hours) as needed for pain: PO or via NGT.\nDisp:*350 ML(s)* Refills:*0*\n3. Tube feeding supplies\nTube feeding tansfusion pump\nTube feeding transfusion supplies\n4. Suction machine\nSuction machine for suctioning of excess oral secretions\n5. Tube feeding: replete with fiber\nRx: Replete with fiber nutrition supplement\npatient to received 80 ml/hr x 14 hours daily.\nDispense: 1 month supply.\nRefill: 3 months\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital3 6011**] Care\n\nDischarge Diagnosis:\n1. Glomus vagale left neck/skull base.\n2. Carotid body tumor left neck.\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nSeek immediate medical attention for fever >101.5, chills,\nincreased redness, swelling or discharge from incision, chest\npain, shortness of breath, or anything else that is troubling\nyou. OK to shower. No strenuous exercise or heavy lifting until\nfollow up appointment, at least. Do not drive or drink alcohol\nwhile taking narcotic pain medications. Narcotic pain\nmedications may cause constipation, if this occurs take an over\nthe counter stool softener. Resume all home medications.\n\nCall Dr.[**Name (NI) 20390**] office at [**Telephone/Fax (1) 41**] and Dr. [**Name (NI) 71084**] office at [**Telephone/Fax (1) 2349**] to make follow up appointment\nto be seen in 1 week. Call Speech and swallow to schedule\nfollow-up in [**2-14**] weeks.  Follow-up with your PCP [**Last Name (NamePattern4) **] [**2-14**] weeks.\n\nFollowup Instructions:\n1. Call Dr.[**Name (NI) 20390**] office at [**Telephone/Fax (1) 41**]  to make\nfollow up appointment to be seen in 1 week.\n2. Call Dr.[**Name (NI) 37129**] office at [**Telephone/Fax (1) 2349**] to schedule a\nfollow-up appointment in 1 week.\n2. Call Speech and swallow team at [**Telephone/Fax (1) 3731**] to schedule\nfollow-up in [**2-14**] weeks.\n4. Call Nutrition at [**Telephone/Fax (1) 3681**] to schedule a follow-up\nappointment in [**2-14**] weeks as you are weaning off of Tube feeds\nand taking more POs to adjust your tube feed requirements.\n5. Follow-up with your PCP [**Last Name (NamePattern4) **] [**2-14**] weeks.  Please have you HR and\nBlood pressure checked at this time.\n\n\n\nCompleted by:[**2133-11-17**]"
+    },
+    {
+      "note_id": 1156080,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 221,
+          "end": 244,
+          "code": "194.5",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of carotid body",
+          "type": "MapType.EXACT",
+          "covered_text": "LEFT CAROTID BODY TUMOR"
+        },
+        {
+          "begin": 391,
+          "end": 404,
+          "code": "237.3",
+          "code_system": "ICD-9-CM",
+          "description": "Neoplasm of uncertain behavior of paraganglia",
+          "type": "Human",
+          "covered_text": "paraganglioma"
+        },
+        {
+          "begin": 759,
+          "end": 786,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary collapse",
+          "type": "MapType.APPROX",
+          "covered_text": "left lower lobe atelectasis"
+        },
+        {
+          "begin": 1035,
+          "end": 1048,
+          "code": "237.3",
+          "code_system": "ICD-9-CM",
+          "description": "Neoplasm of uncertain behavior of paraganglia",
+          "type": "Human",
+          "covered_text": "paraganglioma"
+        }
+      ],
+      "text": "[**2133-11-12**] 5:49 PM\n CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 7**] # [**Clip Number (Radiology) 86206**]\n Reason: R/o pneumothorax or consolidation.\n Admitting Diagnosis: LEFT CAROTID BODY TUMOR/SDA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  38 year old woman with paraganglioma s/p resection, neck dissection. r/o\n  pneumothorax or consolidation.\n REASON FOR THIS EXAMINATION:\n  R/o pneumothorax or consolidation.\n ______________________________________________________________________________\n WET READ: [**First Name9 (NamePattern2) 15717**] [**Doctor First Name 141**] [**2133-11-12**] 6:49 PM\n  Lungs are low in volume and show left lower lobe atelectasis. No effusions or\n  PTX. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 7170**]\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  38-year-old with paraganglioma status post resection.  Concern\n for pneumothorax or consolidation.\n\n TECHNIQUE:  Portable chest radiograph obtained.\n\n COMPARISON:  Comparison is made to portable chest radiograph performed\n [**2133-11-12**].\n\n FINDINGS:  Low lung volumes. Minimal left lower lung atelectasis. Otherwise,\n lungs are clear.  No pneumothorax or pleural effusion.  Mediastinal, hilar,\n and cardiac contours are normal.\n\n IMPRESSION:  No acute cardiopulmonary process.\n\n"
+    },
+    {
+      "note_id": 1156131,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 186,
+          "end": 209,
+          "code": "194.5",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of carotid body",
+          "type": "MapType.EXACT",
+          "covered_text": "LEFT CAROTID BODY TUMOR"
+        },
+        {
+          "begin": 590,
+          "end": 602,
+          "code": "V53.59",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "NG tube seen"
+        },
+        {
+          "begin": 1224,
+          "end": 1236,
+          "code": "V53.59",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "NG tube seen"
+        }
+      ],
+      "text": "[**2133-11-13**] 8:12 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 86207**]\n Reason: s/p NJ tube placement\n Admitting Diagnosis: LEFT CAROTID BODY TUMOR/SDA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  38 year old woman with carotid bulb resection\n REASON FOR THIS EXAMINATION:\n  s/p NJ tube placement\n ______________________________________________________________________________\n PROVISIONAL FINDINGS IMPRESSION (PFI): PBec FRI [**2133-11-13**] 12:06 PM\n  NG tube seen within stomach.  No pneumothorax.  Exam is otherwise unchanged.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  38-year-old with carotid bulb resection.  Status post NG tube\n placement.\n\n TECHNIQUE:  Portable chest radiograph obtained.\n\n COMPARISON:  Comparison is made to portable chest radiograph performed\n [**2133-11-12**].\n\n FINDINGS:  Interval placement of NG tube coiled within stomach.\n Low lung volumes, unchanged.  Stable left lower lobe atelectasis.\n Mediastinal, hilar and cardiac contours are normal.\n\n IMPRESSION:  NG tube seen within stomach.  No pneumothorax.  Exam is otherwise\n unchanged.\n\n"
+    },
+    {
+      "note_id": 1155963,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 170,
+          "end": 193,
+          "code": "194.5",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of carotid body",
+          "type": "MapType.EXACT",
+          "covered_text": "LEFT CAROTID BODY TUMOR"
+        }
+      ],
+      "text": "[**2133-11-12**] 5:16 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 86396**]\n Reason: preop\n Admitting Diagnosis: LEFT CAROTID BODY TUMOR/SDA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  38 year old woman with\n REASON FOR THIS EXAMINATION:\n  preop\n ______________________________________________________________________________\n                                 FINAL REPORT\n CHEST, PORTABLE AP\n\n COMPARISON:  None.\n\n HISTORY:  Preoperative radiograph.\n\n FINDINGS:  The lung volumes are low.  The cardiomediastinal and hilar contours\n are within normal limits.  No focal consolidation, effusion, or pneumothorax.\n The osseous structures are grossly unremarkable.\n\n IMPRESSION:  No acute cardiopulmonary process.\n\n\n"
+    },
+    {
+      "note_id": 1155875,
+      "category": "Radiology",
+      "description": "EMBO EXTRACRAINIAL",
+      "annotations": [
+        {
+          "begin": 27,
+          "end": 38,
+          "code": "75574",
+          "code_system": "CPT",
+          "description": "Computed tomographic angiography, heart, coronary arteries and bypass grafts (when present), with contrast material, including 3D image postprocessing (including evaluation of cardiac structure and morphology, assessment of cardiac function, and",
+          "type": "Human",
+          "covered_text": "CAROT/CEREB"
+        },
+        {
+          "begin": 1354,
+          "end": 1373,
+          "code": "237.3",
+          "code_system": "ICD-9-CM",
+          "description": "Neoplasm of uncertain behavior of paraganglia",
+          "type": "Human",
+          "covered_text": "glomus vagale tumor"
+        },
+        {
+          "begin": 1378,
+          "end": 1409,
+          "code": "194.5",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of carotid body",
+          "type": "MapType.EXACT",
+          "covered_text": "bilateral carotid body\n  tumors"
+        },
+        {
+          "begin": 1575,
+          "end": 1586,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "larger mass"
+        },
+        {
+          "begin": 1925,
+          "end": 1939,
+          "code": "237.3",
+          "code_system": "ICD-9-CM",
+          "description": "Neoplasm of uncertain behavior of paraganglia",
+          "type": "Human",
+          "covered_text": "Paragangliomas"
+        },
+        {
+          "begin": 4821,
+          "end": 4825,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "mass"
+        },
+        {
+          "begin": 6204,
+          "end": 6217,
+          "code": "237.3",
+          "code_system": "ICD-9-CM",
+          "description": "Neoplasm of uncertain behavior of paraganglia",
+          "type": "Human",
+          "covered_text": "paraganglioma"
+        },
+        {
+          "begin": 7761,
+          "end": 7774,
+          "code": "237.3",
+          "code_system": "ICD-9-CM",
+          "description": "Neoplasm of uncertain behavior of paraganglia",
+          "type": "Human",
+          "covered_text": "paraganglioma"
+        }
+      ],
+      "text": "[**2133-11-11**] 12:50 PM\n CAROT/CEREB [**Hospital1 78**]                                                  Clip # [**Clip Number (Radiology) 86204**]\n Reason: Pre-surgical angiography with embolization of LEFT carotid b\n  Contrast: OPTIRAY Amt: 437\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 17396**] EMBO EXTRACRAINIAL              [**Numeric Identifier 80**] SEL CATH 3RD ORDER [**Last Name (un) 81**]          *\n * -51 MULTI-PROCEDURE SAME DAY          [**Numeric Identifier 83**] ADD'L 2ND/3RD ORDER              *\n * [**Numeric Identifier 83**] ADD'L 2ND/3RD ORDER             -59 DISTINCT PROCEDURAL SERVICE        *\n * [**Numeric Identifier 2011**] TRANSCATH EMBO THERAPY          [**Numeric Identifier 1840**] F/U TRANS CATH THERAPY           *\n * [**Numeric Identifier 95**] EXT CAROTID UNILAT              -59 DISTINCT PROCEDURAL SERVICE        *\n * [**Numeric Identifier 4617**] SEL EA ADD'L                    [**Numeric Identifier 4617**] SEL EA ADD'L                     *\n * -59 DISTINCT PROCEDURAL SERVICE                                              *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  38 year old woman with LEFT glomus vagale tumor and bilateral carotid body\n  tumors.  On CT there is a mass present somewhat posterior to the carotid\n  bifurcation, not displacing the bifurcation as much but this appears to be\n  connected to a much larger mass that extends to the base of the skull and is\n  displacing the internal carotid artery anteriorly.\n REASON FOR THIS EXAMINATION:\n  Pre-surgical angiography with embolization of LEFT carotid body tumor.\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  Paragangliomas.\n\n PROCEDURE:  Embolization of left cervical paragangliomas.\n\n ATTENDING:[**Name (STitle) 86205**]\n ASSISTANT: [**First Name4 (NamePattern1) 2151**] [**Last Name (NamePattern1) **], NP.\n\n TECHNIQUE:  After explaining the risks and benefits of the procedure to the\n patient, written informed consent was obtained from the patient.  Risks\n explained included stroke, loss of vision and speech, temporary or permanent,\n with possible treatment with stent and coils if needed.\n\n The patient was brought to interventional neuroradiology suite and placed\n supine on the biplane table.  General anesthesia was provided by the\n anesthesiologist.  Preprocedure huddle and timeout was performed as per\n protocol.  Both groins were prepped and draped in the usual sterile fashion.\n\n Access to the right common femoral artery was obtained using a 19-gauge\n single-wall needle under local anesthesia using 1% lidocaine.  Through the\n needle, a 0.035 [**Last Name (un) 89**] wire was introduced and the needle taken out.  A 7\n French, 10-cm long Terumo sheath set was then placed and connected to a saline\n infusion (mixed with heparin 500 units in 500 cc of saline) with a continuous\n drip.\n\n Various catheters were used during the procedure through this sheath including\n a 4 French Berenstein catheter and a 6 French Envoy guiding catheter.  A\n number of microcatheters were used as well including an Excelsior SL-10 150-cm\n microcatheter. Synchro-2 exchange [**Last Name (LF) 52691**], [**First Name3 (LF) **] Agility 14 standard guidewire and\n                                                             (Over)\n\n [**2133-11-11**] 12:50 PM\n CAROT/CEREB [**Hospital1 78**]                                                  Clip # [**Clip Number (Radiology) 86204**]\n Reason: Pre-surgical angiography with embolization of LEFT carotid b\n  Contrast: OPTIRAY Amt: 437\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n a gold tip Glidewire were also used.\n\n The following vessels were selectively catheterized and arteriograms were\n performed from these locations. After review of the films, the catheter and\n sheath were withdrawn and the artery was sutured with an Angio-Seal closure\n device.  In addition, pressure was applied on the groin until hemostasis was\n obtained.  The procedure was uneventful and the patient tolerated the\n procedure well.  She was escorted to the intensive care unit.\n\n The following blood vessels were selectively catheterized and arteriograms\n were obtained in AP and lateral projections:\n 1.  Left common carotid artery.\n 2.  3D rotational angiography of the left common carotid artery.\n 3.  Left internal maxillary artery.\n 4.  Left ascending pharyngeal artery.\n 5.  Left lingual artery.\n\n FINDINGS:  Arteriograms of the above vessels demonstrated a large, intensely\n enhancing mass splaying the internal and external carotid arteries.  The mass\n had two main components, a larger superior and smaller inferior portion.  It\n was fed by branches from the carotid bifurcation and external carotid artery.\n Based on the diagnostic findings, the decision was made to perform\n embolization.\n\n The left internal maxillary artery was catheterized with a microcatheter via\n the left external carotid artery.  With careful attention to exclude any\n collateral flow to the intracranial circulation, third-order branches from the\n internal maxillary artery that fed the tumor were embolized with 100-300 PVA\n and coiled.\n\n Subsequently, the left ascending pharyngeal artery was catheterized with a\n microcatheter.  This arose from the internal carotid artery.  Again with\n careful attention to exclude any collateral flow to the intracranial\n circulation, third-order branches of the ascending pharyngeal artery that fed\n the tumor were embolized with 300-500 PVA and coiled.\n\n Finally, the lingual artery was catheterized with a microcatheter via the left\n external carotid artery.  Again with attention to excluding collateral flow to\n the intracranial circulation, third order branches of the lingual artery that\n fed the mass were embolized with 300-500 PVA and coiled.\n\n Subsequent arteriogram revealed successful embolization to the larger,\n superior portion of the paraganglioma.  However, the inferior portion was only\n partially embolized via the lingual and ascending pharyngeal branches.  We\n were unable to localize more direct flow to this portion of the tumor.\n\n                                                             (Over)\n\n [**2133-11-11**] 12:50 PM\n CAROT/CEREB [**Hospital1 78**]                                                  Clip # [**Clip Number (Radiology) 86204**]\n Reason: Pre-surgical angiography with embolization of LEFT carotid b\n  Contrast: OPTIRAY Amt: 437\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n Post-procedure arteriogram demonstrated good flow within the internal carotid\n artery and distal branches.\n\n The intracranial circulation revealed no flow-limiting stenosis and no\n aneurysm.  Capillary and venous phases were normal.  The MCA and ACAs had\n normal arborization and caliber.\n\n IMPLANTS:\n\n GDC-10 UltraSoft 2mm/1cm coil.\n GDC-10 UltraSoft 2mm/2cm coil.\n GDC-10 UltraSoft 2mm/4cm coil x 2.\n GDC-10 360 Soft 2mm/4cm coil.\n ULTIPAQ 10 2mm/8cm coil.\n ULTIPAQ 10 3mm/6cm coil.\n ULTIPAQ 10 3mm/8cm coil.\n ULTIPAQ 10 4mm/8cm coil.\n\n IMPLANTS: The following coils were deployed: GDC-19 Ultrasoft 2 mm/1 cm coil,\n GDC-10 Ultrasoft 2 mm/2 cm coil, GDC-10 360 soft 2 mm/4 cm coil x 3, ULTIPAQ 2\n mm/8 cm coil, ULTIPAQ-10 3 mm/6cm coil, ULTIPAQ-10 3 mm/8 cm coil and closure\n devise was deployed.\n\n IMPRESSION:\n\n 1.  Successful embolization of the superior larger portion of the left carotid\n body paraganglioma.\n\n 2.  Partial embolization of the smaller, more inferior portion of the tumor.\n\n 3.  The patient is to be taken to the operating room on [**2133-11-12**].\n\n"
+    }
+  ]
+}

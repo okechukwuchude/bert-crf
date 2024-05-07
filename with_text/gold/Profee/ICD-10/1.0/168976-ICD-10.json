@@ -1,0 +1,1517 @@
+{
+  "hadm_id": 168976,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 593746,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 29,
+          "end": 48,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 78,
+          "end": 81,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 125,
+          "end": 128,
+          "code": "M54.50",
+          "code_system": "ICD-10-CM",
+          "description": "Low back pain, unspecified",
+          "type": "Human",
+          "covered_text": "LBP"
+        },
+        {
+          "begin": 208,
+          "end": 226,
+          "code": "R14.0",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal distension (gaseous)",
+          "type": "Human",
+          "covered_text": "abdominal fullness"
+        },
+        {
+          "begin": 1583,
+          "end": 1586,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 5562,
+          "end": 5565,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 5613,
+          "end": 5632,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 6301,
+          "end": 6304,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 6349,
+          "end": 6352,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 6427,
+          "end": 6433,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 6537,
+          "end": 6549,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia"
+        }
+      ],
+      "text": "Chief Complaint:  Flank pain/acute renal failure\n   HPI:\n   HPI: 52 yo F with SLE s/p renal tx 2 years ago presents with b/l LBP,\n   atraumatic. Started acutely this AM while watching television. Also c/o\n   abdominal fullness but no frank pain. No F/C/N/V/CP/SOB. Had been\n   feeling her usual self until this AM.\n   .\n   In the ED, VS: T98.4 BP 120/100 HR 86 100%RA. Labs were notable for K\n   6.8, BUN/cr 121/14.7. EKG showed mild peak Ts in lead V2. She received\n   2g calcium gluconate, 10U insulin, kayexalate and 2L NS. She was given\n   4mg morphine for pain. CT abd/pelvis showed perinephric fat stranding.\n   She was given levo flagyl for empiric abx coverage. While in the ED,\n   she was seen by renal and transplant surgery with concern for acute\n   rejection. She was started on high dose IV steroids and transferred to\n   the MICU for further management.\n   .\n   Upon arrival stat labs were drawn, notable for increasing K to 7.4 with\n   no changes on EKG from prior. Patient had stat LUE U/S which\n   demonstrated patent fistula. She was started on dialysis.\n   Allergies:\n   Bactrim Ds (Oral) (Sulfamethoxazole/Trimethoprim)\n   Exfoliative [**Doctor Last Name **]\n   Cellcept (Oral) (Mycophenolate Mofetil)\n   Rash;\n   Last dose of Antibiotics:\n   Ceftriaxone - [**2149-8-3**] 10:27 PM\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2149-8-3**] 09:31 PM\n   Dextrose 50% - [**2149-8-3**] 09:31 PM\n   Insulin - Regular - [**2149-8-3**] 09:32 PM\n   Other medications:\n   Past medical history:\n   Family history:\n   Social History:\n   SLE\n   HTN:\n   Hyperthyroidism\n   Occupation:\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other:\n   Review of systems:\n   Constitutional: Fatigue\n   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Diarrhea,\n   No(t) Constipation\n   Flowsheet Data as of [**2149-8-3**] 11:49 PM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 35.8\nC (96.5\n   Tcurrent: 35.8\nC (96.5\n   HR: 85 (79 - 85) bpm\n   BP: 170/74(95) {170/69(95) - 185/80(103)} mmHg\n   RR: 22 (16 - 22) insp/min\n   SpO2: 94%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 70 Inch\n             Total In:\n             3,334 mL\n   PO:\n             TF:\n   IVF:\n   309 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                     45 mL\n   Urine:\n   45 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  3,289 mL\n   Respiratory\n   O2 Delivery Device: None\n   SpO2: 94%\n   ABG: ///10/\n   Physical Examination\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Skin:  Not assessed\n   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   107 K/uL\n   7.7 g/dL\n   153 mg/dL\n   13.5 mg/dL\n   113 mg/dL\n   10 mEq/L\n   115 mEq/L\n   7.6 mEq/L\n   139 mEq/L\n   24.7 %\n   3.5 K/uL\n        [image002.jpg]\n                                  [**2145-11-29**]\n                          2:33 A9/6/[**2148**]  08:19 PM\n                                  [**2145-12-3**]\n                          10:20 P9/6/[**2148**]  08:22 PM\n                                  [**2145-12-4**]\n                                   1:20 P\n                                  [**2145-12-5**]\n                                   11:50 P\n                                  [**2145-12-6**]\n                                   1:20 A\n                                  [**2145-12-7**]\n                                   7:20 P\n                                  1//11/006\n                                   1:23 P\n                                  [**2145-12-30**]\n                                   1:20 P\n                                  [**2145-12-30**]\n                                   11:20 P\n                                  [**2145-12-30**]\n                                   4:20 P\n   WBC\n                                     3.5\n   Hct\n                                    24.7\n   Plt\n                                     107\n   Cr\n                                    13.5\n   Glucose\n                                     153\n   Other labs: PT / PTT / INR:12.7/26.0/1.1, Lactic Acid:0.9 mmol/L,\n   Ca++:7.2 mg/dL, Mg++:2.3 mg/dL, PO4:7.1 mg/dL\n   Fluid analysis / Other labs: LABS:\n   141  113  121          estGFR: 3\n   ----|----|-----< 141   Ca: 7.7 Mg: 2.5 P: 8.1\n   6.7   11  14.7         (last Cr 1.4 [**2-3**])\n   ALT: 7 AST: 12 AP: 82 Tbili: 0.2 Alb: 3.7 Lip: 114\n   3.9> 8.1< 107       FK: p (last level 10.6 on [**2-3**])\n        27\n   .\n   Imaging: Renal US (wet read):\n   1. RI ranges 0.61 to 0.80 of the txp kidney\n   2. No hydronephosis. No perirenal fluid.\n   3. Large anterior subcutaneous fluid collection as noted in concurrent\n   CT.\n   .\n   CT Abd/pelvis: 1. No evidence of AAA. 2. No kidney stone. 3. RLL txp\n   kidney.Atrophic native kidneys. No hydronephrosis. 4. Perinephritic fat\n   stranding of the txp kidney, could represent acute rejection or\n   infectious process. Recommend obtain an UA.\n   5. Sigmoid diverticulosis. Fat stranding in the right colon,\n   likely extending from txp kidney fat standing.\n   Assessment and Plan\n   A/P: 52yo W with PMH of SLE, renal failure s/p transplant presents with\n   acute renal failure and likely rejection.\n   .\n   ARF/Acute rejection: High concern for acute rejection. Plan for\n   dialysis in AM. Renal and transplant surgery aware.\n   - 500mg IV daily solumedrol\n   - continue tacro 12.5mg daily\n   - follow daily tacro levels\n   - dialysis in AM\n   - f/u renal recs\n   - f/u transplant surgery recs\n   - send urine lytes, eos, alb/cr\n   - stat u/s of fistula\n   - monitor urine output\n   - ck VBG. If acidemia, give 3amp bicarb in D5W\n   -ceftriaxone for concern of infection though unlikely given clinical\n   picture\n   .\n   Hyperkalemia: Mild peaked T waves.\n   - monitor labs\n   - repeat EKG\n   - repeat calcium/insulin\n   - stat dialysis\n   .\n   SLE: stable; not currently on treatment\n   .\n   HTN: not currently on meds. Currently hypertensive.\n   - will monitor\n   .\n   Anemia:\n   -continue iron supplement\n   .\n   FEN: Management if lytes per dialysis and acute management of\n   hyperkalemia; renal diet\n   .\n   PPX: heparin SC\n   .\n   ACCESS: [**Last Name (LF) 1200**], [**First Name3 (LF) **] fistula\n   .\n   CODE: Full\n   .\n   CONTACT: Pt\n   .\n   DISPO: pending above\n   ICU Care\n   Nutrition:\n   Glycemic Control: Regular insulin sliding scale\n   Lines:\n   20 Gauge - [**2149-8-3**] 07:54 PM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer:\n   VAP: HOB elevation, Mouth care, Daily wake up, RSBI\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status:\n   Disposition:\n"
+    },
+    {
+      "note_id": 593869,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 237,
+          "end": 240,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 242,
+          "end": 245,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 335,
+          "end": 338,
+          "code": "M54.50",
+          "code_system": "ICD-10-CM",
+          "description": "Low back pain, unspecified",
+          "type": "Human",
+          "covered_text": "LBP"
+        },
+        {
+          "begin": 373,
+          "end": 394,
+          "code": "R14.0",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal distension (gaseous)",
+          "type": "Human",
+          "covered_text": "abdominal\n   fullness"
+        },
+        {
+          "begin": 4311,
+          "end": 4327,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        },
+        {
+          "begin": 4389,
+          "end": 4402,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "RENAL FAILURE"
+        },
+        {
+          "begin": 4415,
+          "end": 4424,
+          "code": "I12.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease",
+          "type": "Human",
+          "covered_text": "END STAGE"
+        },
+        {
+          "begin": 4880,
+          "end": 4886,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        }
+      ],
+      "text": "Chief Complaint:\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   52F with SLE, HTN, s/p renal [**Last Name (un) 8147**] ( 2 years ago, maintained on\n   prograf), p/w acute LBP onset am of admission, as well as abdominal\n   fullness; otherwise had been well and taking immunsupp regimen as\n   directed (though cannot name renal MD or recall last visit).  No F/C,\n   SOB/cough, CP, abd pain, N/V/C/D.  No dysuria, hematuria.  In ED, K\n   notable for 6.8, BUN/Cr 121/14.7.  EKG with mild peak Ts in V2 - got\n   hyperK treatment in ED.  CT abd pelvis, with perinephric fat stranding,\n   got empiric levo/flagyl.  Got high dose steroids per renal, and\n   transferred to MICU.\n   24 Hour Events:\n   - Increasing potassium to 7.4, EKG unchanged, but re-treated o/n with\n   Ca, insulin, glc.\n   - Renal notified, fistula patency verified and had short course HD\n   o/n.\n   - K corrected to 4.2, and Cr corrected to 9.\n   History obtained from Patient\n   Allergies:\n   Bactrim Ds (Oral) (Sulfamethoxazole/Trimethoprim)\n   Exfoliative [**Doctor Last Name **]\n   Cellcept (Oral) (Mycophenolate Mofetil)\n   Rash;\n   Last dose of Antibiotics:\n   Ceftriaxone - [**2149-8-3**] 10:27 PM\n   Infusions:\n   Other ICU medications:\n   Dextrose 50% - [**2149-8-3**] 09:31 PM\n   Insulin - Regular - [**2149-8-3**] 09:32 PM\n   Heparin Sodium (Prophylaxis) - [**2149-8-4**] 08:10 AM\n   Other medications:\n   Home: Tacro, Epo, Fe\n   Here: colace, methylpred, RISS, amlodipine, nitropaste, prograf\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2149-8-4**] 08:49 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.7\nC (98\n   Tcurrent: 36.7\nC (98\n   HR: 70 (65 - 85) bpm\n   BP: 201/83(108) {169/68(91) - 201/89(115)} mmHg\n   RR: 21 (16 - 27) insp/min\n   SpO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 70 Inch\n             Total In:\n                                                                  3,371 mL\n                                                                    919 mL\n   PO:\n             TF:\n   IVF:\n                                                                    346 mL\n                                                                    919 mL\n   Blood products:\n   Total out:\n                                                                     45 mL\n                                                                     43 mL\n   Urine:\n                                                                     45 mL\n                                                                     43 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  3,326 mL\n                                                                    876 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 98%\n   ABG: ///24/\n   Physical Examination\n   GEN:  Awake, alert, somewhat distant affect.\n   HEENT: MMM\n   PULM: Clear\n   BACK: No pain\n   ABD: Soft, NT, ND\n   EXT:  RLE mildly > LLE\n chronic per pt (after knee surgery)\n   Labs / Radiology\n   6.8 g/dL\n   112 K/uL\n   196 mg/dL\n   9.1 mg/dL\n   24 mEq/L\n   4.2 mEq/L\n   73 mg/dL\n   105 mEq/L\n   141 mEq/L\n   21.7 %\n   2.3 K/uL\n        [image002.jpg]\n                             [**2149-8-3**]  08:19 PM\n                             [**2149-8-3**]  08:22 PM\n                             [**2149-8-3**]  10:47 PM\n                             [**2149-8-4**]  03:32 AM\n                             [**2149-8-4**]  05:56 AM\n   WBC\n   3.5\n   2.2\n   2.3\n   Hct\n   24.7\n   20.4\n   21.7\n   Plt\n   107\n   108\n   112\n   Cr\n   13.5\n   13.3\n   9.1\n   Glucose\n   153\n   171\n   196\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Lactic Acid:0.9 mmol/L,\n   Ca++:7.4 mg/dL, Mg++:1.8 mg/dL, PO4:5.7 mg/dL\n   Imaging: Perinephritic fluid, fat stranding c/w rejection - R kidney.\n   CXR: mild L pleural effusion, vascular fullness, otherwise clear.\n   Assessment and Plan\n RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD), ACUTE\n   REJECTION:\n   - Anticipate low tacro level, and predominant rejection, but with\n   possible superimposed infection/UTI\n   - Treating with steroids\n   - Renal and transplant surgery following\n   - Needs phosphate binder\n   - Empiric antibiotics (ceftazidime for ease of dosing with HD)\n HYPERTENSION, BENIGN\n   - On amlodipine, adding hydralazine.\n HYPERKALEMIA (HIGH POTASSIUM, HYPERPOTASSEMIA)\n now resolved post\n   HD.\n   Anemia\n  Fe studies, getting blood per renal.\n   ICU Care\n   Nutrition:   Renal diet.\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2149-8-3**] 07:54 PM\n   Prophylaxis:\n   DVT:  hep sc\n   Stress ulcer: ppi\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition :  ICU\n   Total time spent:\n"
+    },
+    {
+      "note_id": 266310,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 7,
+          "end": 19,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "sinus rhythm"
+        },
+        {
+          "begin": 152,
+          "end": 185,
+          "code": "R94.31",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal electrocardiogram [ECG] [EKG]",
+          "type": "Human",
+          "covered_text": "described T wave changes are less"
+        }
+      ],
+      "text": "Normal sinus rhythm. Axis 0. Tracing is within normal limits. Compared to the\nprevious tracing #1 the patient now is in sinus rhythm and the previously\ndescribed T wave changes are less prominent.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 266311,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 19,
+          "code": "I48.1",
+          "code_system": "ICD-10-CM",
+          "description": "Persistent atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 230,
+          "end": 242,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "sinus rhythm"
+        }
+      ],
+      "text": "Atrial fibrillation with rapid ventricular rate of 125. Leftward axis.\nOccasional aberrantly conducted beat. Diffuse non-specific T wave changes.\nCompared to the previous tracing of [**2149-8-3**] the patient has gone from normal\nsinus rhythm to atrial fibrillation and the T wave voltage is somewhat less\nprominent.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 594124,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 17,
+          "end": 36,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 313,
+          "end": 325,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 4393,
+          "end": 4405,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HYPERTENSION"
+        },
+        {
+          "begin": 4525,
+          "end": 4538,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "RENAL FAILURE"
+        },
+        {
+          "begin": 4551,
+          "end": 4560,
+          "code": "I12.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease",
+          "type": "Human",
+          "covered_text": "END STAGE"
+        },
+        {
+          "begin": 4676,
+          "end": 4688,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "HYPERKALEMIA"
+        },
+        {
+          "begin": 4743,
+          "end": 4762,
+          "code": "I48.1",
+          "code_system": "ICD-10-CM",
+          "description": "Persistent atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        }
+      ],
+      "text": "Chief Complaint: acute renal failure, hypertension.\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   24 Hour Events:\n   New onset Afib responded to diltiazem. Hypertension s/p renal biospy\n   yesterday. s/p HD yesterday. PICC line placed.\n                                                   History obtained from Patient\n   Allergies:\n   Bactrim Ds (Oral) (Sulfamethoxazole/Trimethoprim)\n   Exfoliative [**Doctor Last Name **]\n   Cellcept (Oral) (Mycophenolate Mofetil)\n   Rash;\n   Last dose of Antibiotics:\n   Ceftriaxone - [**2149-8-3**] 10:27 PM\n   Ceftazidime - [**2149-8-4**] 10:07 PM\n   Infusions:\n   Other ICU medications:\n   Pantoprazole (Protonix) - [**2149-8-4**] 10:21 AM\n   Metoprolol - [**2149-8-4**] 10:59 PM\n   Diltiazem - [**2149-8-5**] 12:00 AM\n   Other medications:\n   heparin s/c, colace, methylpred 500 iv q24, RISS, norvasc 10, tacro 12\n   [**Hospital1 **], protonix, hydral 25 q8, calcium acetate\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2149-8-5**] 09:27 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37\nC (98.6\n   Tcurrent: 36.4\nC (97.6\n   HR: 68 (68 - 122) bpm\n   BP: 161/70(92) {122/62(81) - 188/82(106)} mmHg\n   RR: 14 (13 - 24) insp/min\n   SpO2: 99%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 70 Inch\n             Total In:\n                                                                  1,823 mL\n                                                                    242 mL\n   PO:\n             TF:\n   IVF:\n                                                                  1,473 mL\n                                                                    242 mL\n   Blood products:\n                                                                    350 mL\n   Total out:\n                                                                  1,583 mL\n                                                                     20 mL\n   Urine:\n                                                                     83 mL\n                                                                     20 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    240 mL\n                                                                    222 mL\n   Respiratory support\n   O2 Delivery Device: RA\n   SpO2: 98%\n   ABG: ///28/\n   Physical Examination\n   General Appearance: Well nourished, No acute distress, Anxious\n   Head, Ears, Nose, Throat: Normocephalic\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender\n   Extremities: Right lower extremity edema: Absent\n   Skin:  Warm\n   Neurologic: Attentive, Responds to: Not assessed, Movement: Not\n   assessed, Tone: Not assessed\n   Labs / Radiology\n   7.2 g/dL\n   103 K/uL\n   185 mg/dL\n   7.3 mg/dL\n   28 mEq/L\n   4.2 mEq/L\n   51 mg/dL\n   101 mEq/L\n   140 mEq/L\n   22.4 %\n   2.9 K/uL\n        [image002.jpg]\n                             [**2149-8-3**]  08:19 PM\n                             [**2149-8-3**]  08:22 PM\n                             [**2149-8-3**]  10:47 PM\n                             [**2149-8-4**]  03:32 AM\n                             [**2149-8-4**]  05:56 AM\n                             [**2149-8-4**]  10:59 PM\n                             [**2149-8-5**]  04:53 AM\n   WBC\n   3.5\n   2.2\n   2.3\n   2.9\n   2.9\n   Hct\n   24.7\n   20.4\n   21.7\n   23.1\n   22.4\n   Plt\n   107\n   108\n   112\n   109\n   103\n   Cr\n   13.5\n   13.3\n   9.1\n   6.7\n   7.3\n   Glucose\n   153\n   171\n   196\n   132\n   185\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Lactic Acid:0.5 mmol/L,\n   Ca++:7.6 mg/dL, Mg++:2.5 mg/dL, PO4:6.7 mg/dL\n   Imaging: CXR Right sided PICC, otherwise clear.\n   Assessment and Plan\n HYPERTENSION, BENIGN:\n   Will continue to titrate up oral regimen, will control this better\n   prior to transferring to the floor.\n RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)\n   of unclear etiology, f/u renal biopsy, f/u complement levels to assess\n   for lupus flare\n HYPERKALEMIA (HIGH POTASSIUM, HYPERPOTASSEMIA)\n   resolved s/p HD\n Atrial fibrillation:\n   brief run of A.fib, and now with peristent pleuritic chest pain, will\n   send cardiac enzymes, and complements to assess for lupus flare. Will\n   hold off on starting aspirin.\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   PICC Line - [**2149-8-4**] 02:00 PM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition :Transfer to floor\n   Total time spent: 30 minutes\n"
+    },
+    {
+      "note_id": 593937,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 237,
+          "end": 240,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 335,
+          "end": 338,
+          "code": "M54.50",
+          "code_system": "ICD-10-CM",
+          "description": "Low back pain, unspecified",
+          "type": "Human",
+          "covered_text": "LBP"
+        },
+        {
+          "begin": 373,
+          "end": 394,
+          "code": "R14.0",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal distension (gaseous)",
+          "type": "Human",
+          "covered_text": "abdominal\n   fullness"
+        },
+        {
+          "begin": 4311,
+          "end": 4327,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        },
+        {
+          "begin": 4389,
+          "end": 4402,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "RENAL FAILURE"
+        },
+        {
+          "begin": 4404,
+          "end": 4413,
+          "code": "I12.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease",
+          "type": "Human",
+          "covered_text": "END STAGE"
+        },
+        {
+          "begin": 4415,
+          "end": 4424,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "END STAGE"
+        },
+        {
+          "begin": 4765,
+          "end": 4777,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HYPERTENSION"
+        },
+        {
+          "begin": 4827,
+          "end": 4839,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "HYPERKALEMIA"
+        },
+        {
+          "begin": 4903,
+          "end": 4909,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        }
+      ],
+      "text": "Chief Complaint:\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   52F with SLE, HTN, s/p renal [**Last Name (un) 8147**] ( 2 years ago, maintained on\n   prograf), p/w acute LBP onset am of admission, as well as abdominal\n   fullness; otherwise had been well and taking immunsupp regimen as\n   directed (though cannot name renal MD or recall last visit).  No F/C,\n   SOB/cough, CP, abd pain, N/V/C/D.  No dysuria, hematuria.  In ED, K\n   notable for 6.8, BUN/Cr 121/14.7.  EKG with mild peak Ts in V2 - got\n   hyperK treatment in ED.  CT abd pelvis, with perinephric fat stranding,\n   got empiric levo/flagyl.  Got high dose steroids per renal, and\n   transferred to MICU.\n   24 Hour Events:\n   - Increasing potassium to 7.4, EKG unchanged, but re-treated o/n with\n   Ca, insulin, glc.\n   - Renal notified, fistula patency verified and had short course HD\n   o/n.\n   - K corrected to 4.2, and Cr corrected to 9.\n   History obtained from Patient\n   Allergies:\n   Bactrim Ds (Oral) (Sulfamethoxazole/Trimethoprim)\n   Exfoliative [**Doctor Last Name **]\n   Cellcept (Oral) (Mycophenolate Mofetil)\n   Rash;\n   Last dose of Antibiotics:\n   Ceftriaxone - [**2149-8-3**] 10:27 PM\n   Infusions:\n   Other ICU medications:\n   Dextrose 50% - [**2149-8-3**] 09:31 PM\n   Insulin - Regular - [**2149-8-3**] 09:32 PM\n   Heparin Sodium (Prophylaxis) - [**2149-8-4**] 08:10 AM\n   Other medications:\n   Home: Tacro, Epo, Fe\n   Here: colace, methylpred, RISS, amlodipine, nitropaste, prograf\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2149-8-4**] 08:49 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.7\nC (98\n   Tcurrent: 36.7\nC (98\n   HR: 70 (65 - 85) bpm\n   BP: 201/83(108) {169/68(91) - 201/89(115)} mmHg\n   RR: 21 (16 - 27) insp/min\n   SpO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 70 Inch\n             Total In:\n                                                                  3,371 mL\n                                                                    919 mL\n   PO:\n             TF:\n   IVF:\n                                                                    346 mL\n                                                                    919 mL\n   Blood products:\n   Total out:\n                                                                     45 mL\n                                                                     43 mL\n   Urine:\n                                                                     45 mL\n                                                                     43 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  3,326 mL\n                                                                    876 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 98%\n   ABG: ///24/\n   Physical Examination\n   GEN:  Awake, alert, somewhat distant affect.\n   HEENT: MMM\n   PULM: Clear\n   BACK: No pain\n   ABD: Soft, NT, ND\n   EXT:  RLE mildly > LLE\n chronic per pt (after knee surgery)\n   Labs / Radiology\n   6.8 g/dL\n   112 K/uL\n   196 mg/dL\n   9.1 mg/dL\n   24 mEq/L\n   4.2 mEq/L\n   73 mg/dL\n   105 mEq/L\n   141 mEq/L\n   21.7 %\n   2.3 K/uL\n        [image002.jpg]\n                             [**2149-8-3**]  08:19 PM\n                             [**2149-8-3**]  08:22 PM\n                             [**2149-8-3**]  10:47 PM\n                             [**2149-8-4**]  03:32 AM\n                             [**2149-8-4**]  05:56 AM\n   WBC\n   3.5\n   2.2\n   2.3\n   Hct\n   24.7\n   20.4\n   21.7\n   Plt\n   107\n   108\n   112\n   Cr\n   13.5\n   13.3\n   9.1\n   Glucose\n   153\n   171\n   196\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Lactic Acid:0.9 mmol/L,\n   Ca++:7.4 mg/dL, Mg++:1.8 mg/dL, PO4:5.7 mg/dL\n   Imaging: Perinephritic fluid, fat stranding c/w rejection - R kidney.\n   CXR: mild L pleural effusion, vascular fullness, otherwise clear.\n   Assessment and Plan\n RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD), ACUTE\n   REJECTION:\n   - Anticipate low tacro level, and predominant rejection, but with\n   possible superimposed infection/UTI\n   - Treating with steroids\n   - Renal and transplant surgery following: awaits renal Bx today\n   - Needs phosphate binder\n   - Empiric antibiotics (ceftazidime for ease of dosing with HD)\n HYPERTENSION, BENIGN\n   - On amlodipine, adding hydralazine.\n HYPERKALEMIA (HIGH POTASSIUM, HYPERPOTASSEMIA)\n now resolved post\n   HD.\n   Anemia\n  Fe studies, getting blood per renal.\n   ICU Care\n   Nutrition:   Renal diet.\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2149-8-3**] 07:54 PM\n   Prophylaxis:\n   DVT:  hep sc\n   Stress ulcer: ppi\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition :  ICU  , may leave if BP/ HR stable later today\n   Total time spent: 35 mins\n"
+    },
+    {
+      "note_id": 593737,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 29,
+          "end": 48,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 78,
+          "end": 81,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 125,
+          "end": 128,
+          "code": "M54.50",
+          "code_system": "ICD-10-CM",
+          "description": "Low back pain, unspecified",
+          "type": "Human",
+          "covered_text": "LBP"
+        },
+        {
+          "begin": 208,
+          "end": 226,
+          "code": "R14.0",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal distension (gaseous)",
+          "type": "Human",
+          "covered_text": "abdominal fullness"
+        },
+        {
+          "begin": 1583,
+          "end": 1586,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 5562,
+          "end": 5565,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 5613,
+          "end": 5632,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 6301,
+          "end": 6304,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 6349,
+          "end": 6352,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 6537,
+          "end": 6549,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia"
+        }
+      ],
+      "text": "Chief Complaint:  Flank pain/acute renal failure\n   HPI:\n   HPI: 52 yo F with SLE s/p renal tx 2 years ago presents with b/l LBP,\n   atraumatic. Started acutely this AM while watching television. Also c/o\n   abdominal fullness but no frank pain. No F/C/N/V/CP/SOB. Had been\n   feeling her usual self until this AM.\n   .\n   In the ED, VS: T98.4 BP 120/100 HR 86 100%RA. Labs were notable for K\n   6.8, BUN/cr 121/14.7. EKG showed mild peak Ts in lead V2. She received\n   2g calcium gluconate, 10U insulin, kayexalate and 2L NS. She was given\n   4mg morphine for pain. CT abd/pelvis showed perinephric fat stranding.\n   She was given levo flagyl for empiric abx coverage. While in the ED,\n   she was seen by renal and transplant surgery with concern for acute\n   rejection. She was started on high dose IV steroids and transferred to\n   the MICU for further management.\n   .\n   Upon arrival stat labs were drawn, notable for increasing K to 7.4 with\n   no changes on EKG from prior. Patient had stat LUE U/S which\n   demonstrated patent fistula. She was started on dialysis.\n   Allergies:\n   Bactrim Ds (Oral) (Sulfamethoxazole/Trimethoprim)\n   Exfoliative [**Doctor Last Name **]\n   Cellcept (Oral) (Mycophenolate Mofetil)\n   Rash;\n   Last dose of Antibiotics:\n   Ceftriaxone - [**2149-8-3**] 10:27 PM\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2149-8-3**] 09:31 PM\n   Dextrose 50% - [**2149-8-3**] 09:31 PM\n   Insulin - Regular - [**2149-8-3**] 09:32 PM\n   Other medications:\n   Past medical history:\n   Family history:\n   Social History:\n   SLE\n   HTN:\n   Hyperthyroidism\n   Occupation:\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other:\n   Review of systems:\n   Constitutional: Fatigue\n   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Diarrhea,\n   No(t) Constipation\n   Flowsheet Data as of [**2149-8-3**] 11:49 PM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 35.8\nC (96.5\n   Tcurrent: 35.8\nC (96.5\n   HR: 85 (79 - 85) bpm\n   BP: 170/74(95) {170/69(95) - 185/80(103)} mmHg\n   RR: 22 (16 - 22) insp/min\n   SpO2: 94%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 70 Inch\n             Total In:\n             3,334 mL\n   PO:\n             TF:\n   IVF:\n   309 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                     45 mL\n   Urine:\n   45 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  3,289 mL\n   Respiratory\n   O2 Delivery Device: None\n   SpO2: 94%\n   ABG: ///10/\n   Physical Examination\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Skin:  Not assessed\n   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   107 K/uL\n   7.7 g/dL\n   153 mg/dL\n   13.5 mg/dL\n   113 mg/dL\n   10 mEq/L\n   115 mEq/L\n   7.6 mEq/L\n   139 mEq/L\n   24.7 %\n   3.5 K/uL\n        [image002.jpg]\n                                  [**2145-11-29**]\n                          2:33 A9/6/[**2148**]  08:19 PM\n                                  [**2145-12-3**]\n                          10:20 P9/6/[**2148**]  08:22 PM\n                                  [**2145-12-4**]\n                                   1:20 P\n                                  [**2145-12-5**]\n                                   11:50 P\n                                  [**2145-12-6**]\n                                   1:20 A\n                                  [**2145-12-7**]\n                                   7:20 P\n                                  1//11/006\n                                   1:23 P\n                                  [**2145-12-30**]\n                                   1:20 P\n                                  [**2145-12-30**]\n                                   11:20 P\n                                  [**2145-12-30**]\n                                   4:20 P\n   WBC\n                                     3.5\n   Hct\n                                    24.7\n   Plt\n                                     107\n   Cr\n                                    13.5\n   Glucose\n                                     153\n   Other labs: PT / PTT / INR:12.7/26.0/1.1, Lactic Acid:0.9 mmol/L,\n   Ca++:7.2 mg/dL, Mg++:2.3 mg/dL, PO4:7.1 mg/dL\n   Fluid analysis / Other labs: LABS:\n   141  113  121          estGFR: 3\n   ----|----|-----< 141   Ca: 7.7 Mg: 2.5 P: 8.1\n   6.7   11  14.7         (last Cr 1.4 [**2-3**])\n   ALT: 7 AST: 12 AP: 82 Tbili: 0.2 Alb: 3.7 Lip: 114\n   3.9> 8.1< 107       FK: p (last level 10.6 on [**2-3**])\n        27\n   .\n   Imaging: Renal US (wet read):\n   1. RI ranges 0.61 to 0.80 of the txp kidney\n   2. No hydronephosis. No perirenal fluid.\n   3. Large anterior subcutaneous fluid collection as noted in concurrent\n   CT.\n   .\n   CT Abd/pelvis: 1. No evidence of AAA. 2. No kidney stone. 3. RLL txp\n   kidney.Atrophic native kidneys. No hydronephrosis. 4. Perinephritic fat\n   stranding of the txp kidney, could represent acute rejection or\n   infectious process. Recommend obtain an UA.\n   5. Sigmoid diverticulosis. Fat stranding in the right colon,\n   likely extending from txp kidney fat standing.\n   Assessment and Plan\n   A/P: 52yo W with PMH of SLE, renal failure s/p transplant presents with\n   acute renal failure and likely rejection.\n   .\n   ARF/Acute rejection: High concern for acute rejection. Plan for\n   dialysis in AM. Renal and transplant surgery aware.\n   - 500mg IV daily solumedrol\n   - continue tacro 12.5mg daily\n   - follow daily tacro levels\n   - dialysis in AM\n   - f/u renal recs\n   - f/u transplant surgery recs\n   - send urine lytes, eos, alb/cr\n   - stat u/s of fistula\n   - monitor urine output\n   - ck VBG. If acidemia, give 3amp bicarb in D5W\n   -ceftriaxone for concern of infection though unlikely given clinical\n   picture\n   .\n   Hyperkalemia: Mild peaked T waves.\n   - monitor labs\n   - repeat EKG\n   - repeat calcium/insulin\n   - stat dialysis\n   .\n   SLE: stable; not currently on treatment\n   .\n   HTN: not currently on meds. Currently hypertensive.\n   - will monitor\n   .\n   Anemia:\n   -continue iron supplement\n   .\n   FEN: Management if lytes per dialysis and acute management of\n   hyperkalemia; renal diet\n   .\n   PPX: heparin SC\n   .\n   ACCESS: [**Last Name (LF) 1200**], [**First Name3 (LF) **] fistula\n   .\n   CODE: Full\n   .\n   CONTACT: Pt\n   .\n   DISPO: pending above\n   ICU Care\n   Nutrition:\n   Glycemic Control: Regular insulin sliding scale\n   Lines:\n   20 Gauge - [**2149-8-3**] 07:54 PM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer:\n   VAP: HOB elevation, Mouth care, Daily wake up, RSBI\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status:\n   Disposition:\n"
+    },
+    {
+      "note_id": 46681,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 242,
+          "end": 261,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute renal failure"
+        },
+        {
+          "begin": 352,
+          "end": 355,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 399,
+          "end": 402,
+          "code": "M54.50",
+          "code_system": "ICD-10-CM",
+          "description": "Low back pain, unspecified",
+          "type": "Human",
+          "covered_text": "LBP"
+        },
+        {
+          "begin": 476,
+          "end": 494,
+          "code": "R14.0",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal distension (gaseous)",
+          "type": "Human",
+          "covered_text": "abdominal fullness"
+        },
+        {
+          "begin": 1345,
+          "end": 1348,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 1407,
+          "end": 1419,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1432,
+          "end": 1447,
+          "code": "E21.3",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperparathyroidism, unspecified",
+          "type": "Human",
+          "covered_text": "hyperthyroidism"
+        },
+        {
+          "begin": 5862,
+          "end": 5878,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        },
+        {
+          "begin": 5895,
+          "end": 5915,
+          "code": "H34.829",
+          "code_system": "ICD-10-CM",
+          "description": "Venous engorgement, unspecified eye",
+          "type": "Human",
+          "covered_text": "vascular engorgement"
+        },
+        {
+          "begin": 5937,
+          "end": 5949,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "cardiomegaly"
+        },
+        {
+          "begin": 6017,
+          "end": 6039,
+          "code": "K57.32",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulitis of large intestine without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "Colonic diverticulosis"
+        },
+        {
+          "begin": 6324,
+          "end": 6341,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 6418,
+          "end": 6429,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "atelectasis"
+        },
+        {
+          "begin": 7363,
+          "end": 7380,
+          "code": "M85.2",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperostosis of skull",
+          "type": "Human",
+          "covered_text": "frontalis interna"
+        },
+        {
+          "begin": 7539,
+          "end": 7550,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "atelectasis"
+        },
+        {
+          "begin": 10319,
+          "end": 10322,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 10491,
+          "end": 10503,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia"
+        },
+        {
+          "begin": 10516,
+          "end": 10535,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 10606,
+          "end": 10618,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia"
+        },
+        {
+          "begin": 15771,
+          "end": 15783,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia"
+        },
+        {
+          "begin": 16041,
+          "end": 16060,
+          "code": "I48.1",
+          "code_system": "ICD-10-CM",
+          "description": "Persistent atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 16595,
+          "end": 16607,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 17416,
+          "end": 17419,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 17457,
+          "end": 17463,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 17651,
+          "end": 17659,
+          "code": "E13.9",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "Diabetes"
+        }
+      ],
+      "text": "Admission Date:  [**2149-8-3**]              Discharge Date:   [**2149-8-26**]\n\nDate of Birth:  [**2097-6-20**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nBactrim Ds / Cellcept\n\nAttending:[**First Name3 (LF) 5037**]\nChief Complaint:\nAcute renal failure\n\nMajor Surgical or Invasive Procedure:\nDialysis\n\nHistory of Present Illness:\n52 yo F with SLE s/p renal tx 2 years ago presents with b/l LBP,\natraumatic. Started acutely this AM while watching television.\nAlso c/o abdominal fullness but no frank pain. No\nF/C/N/V/CP/SOB. Had been feeling her usual self until this AM.\n.\nIn the ED, VS: T98.4 BP 120/100 HR 86 100%RA. Labs were notable\nfor K 6.8, BUN/cr 121/14.7. EKG showed mild peak Ts in lead V2.\nShe received 2g calcium gluconate, 10U insulin, kayexalate and\n2L NS. She was given 4mg morphine for pain. CT abd/pelvis showed\nperinephric fat stranding. She was given levo flagyl for empiric\nabx coverage. While in the ED, she was seen by renal and\ntransplant surgery with concern for acute rejection. She was\nstarted on high dose IV steroids and transferred to the MICU for\nfurther management.\n.\nUpon arrival stat labs were drawn, notable for increasing K to\n7.4 with no changes on EKG from prior. Patient had stat LUE U/S\nwhich demonstrated patent fistula. She was started on dialysis.\n\n\n\nPast Medical History:\nS/P renal transplant\nSLE followed by Dr.[**Last Name (STitle) **] in Rheumatology.\nHypertension.\nHistory of hyperthyroidism.\n\nPSH:LUE AVF\nHistory of bilateral knee surgeries and ACL repair on the\nright knee.\n\n\nSocial History:\nSingle, lives alone, but has family in the area\nDenied smoking/etoh\n\n\nFamily History:\nNC\n\nPhysical Exam:\nVS: HR 75 BP 185/85 97% RA\nGEN: African American female in NAD\nHEENT: EOMI, PERRL\nNECK: Supple\nCHEST: CTABL, no w/r/r\nCV: RRR, S1S2\nABD: Soft/NT/ND\nEXT: LUE: fistula with bruit and palpable thrill\nSKIN: NO rashes\nNEURO: AAOx3, no focal deficits\n\n\nPertinent Results:\n[**2149-8-3**] 01:30PM BLOOD WBC-3.9* RBC-3.20* Hgb-8.1* Hct-27.0*\nMCV-84 MCH-25.2* MCHC-29.9* RDW-16.8* Plt Ct-107*\n[**2149-8-10**] 06:10AM BLOOD WBC-2.9* RBC-2.98* Hgb-7.7* Hct-25.1*\nMCV-84 MCH-25.9* MCHC-30.8* RDW-17.9* Plt Ct-83*\n[**2149-8-14**] 05:10AM BLOOD WBC-3.9* RBC-2.52* Hgb-6.7* Hct-21.6*\nMCV-86 MCH-26.5* MCHC-30.9* RDW-17.5* Plt Ct-75*\n[**2149-8-20**] 06:44AM BLOOD WBC-10.2# RBC-3.11* Hgb-8.4* Hct-27.9*\nMCV-90 MCH-27.0 MCHC-30.1* RDW-17.4* Plt Ct-160\n[**2149-8-22**] 06:13AM BLOOD WBC-12.4* RBC-3.61* Hgb-9.6* Hct-32.0*\nMCV-89 MCH-26.5* MCHC-29.9* RDW-16.6* Plt Ct-244\n[**2149-8-22**] 06:13AM BLOOD Neuts-73* Bands-2 Lymphs-20 Monos-3 Eos-0\nBaso-0 Atyps-0 Metas-1* Myelos-1* NRBC-2*\n[**2149-8-13**] 05:00AM BLOOD Neuts-86* Bands-0 Lymphs-11* Monos-2\nEos-0 Baso-0 Atyps-0 Metas-1* Myelos-0\n[**2149-8-16**] 10:12AM BLOOD PT-13.1 PTT-30.8 INR(PT)-1.1\n[**2149-8-16**] 06:00AM BLOOD QG6PD-10.0\n[**2149-8-14**] 05:10AM BLOOD Ret Aut-3.0\n[**2149-8-16**] 06:00AM BLOOD Ret Aut-2.2\n[**2149-8-5**] 09:54PM BLOOD ACA IgG-5.6 ACA IgM-7.4\n[**2149-8-5**] 09:54PM BLOOD Lupus-NEG\n[**2149-8-3**] 01:30PM BLOOD Glucose-141* UreaN-121* Creat-14.7*#\nNa-141 K-6.7* Cl-113* HCO3-11* AnGap-24*\n[**2149-8-3**] 08:22PM BLOOD Glucose-153* UreaN-113* Creat-13.5*#\nNa-139 K-7.6* Cl-115* HCO3-10* AnGap-22*\n[**2149-8-3**] 10:47PM BLOOD Glucose-171* UreaN-117* Creat-13.3*\nNa-141 K-7.2* Cl-115* HCO3-10* AnGap-23*\n[**2149-8-4**] 03:32AM BLOOD Glucose-196* UreaN-73* Creat-9.1*# Na-141\nK-4.2 Cl-105 HCO3-24 AnGap-16\n[**2149-8-6**] 03:39AM BLOOD Glucose-179* UreaN-73* Creat-9.1*# Na-141\nK-4.4 Cl-101 HCO3-26 AnGap-18\n[**2149-8-7**] 05:00AM BLOOD Glucose-130* UreaN-94* Creat-10.6*#\nNa-141 K-4.3 Cl-100 HCO3-25 AnGap-20\n[**2149-8-11**] 04:56AM BLOOD Glucose-109* UreaN-58* Creat-7.0*# Na-144\nK-3.9 Cl-104 HCO3-29 AnGap-15\n[**2149-8-14**] 05:10AM BLOOD Glucose-93 UreaN-42* Creat-5.4* Na-146*\nK-3.5 Cl-108 HCO3-27 AnGap-15\n[**2149-8-16**] 10:12AM BLOOD Glucose-103 UreaN-61* Creat-6.3* Na-144\nK-3.9 Cl-107 HCO3-24 AnGap-17\n[**2149-8-19**] 05:31AM BLOOD Glucose-96 UreaN-83* Creat-6.4* Na-141\nK-4.4 Cl-105 HCO3-21* AnGap-19\n[**2149-8-21**] 05:15AM BLOOD Glucose-158* UreaN-102* Creat-7.6* Na-137\nK-5.3* Cl-103 HCO3-24 AnGap-15\n[**2149-8-22**] 06:13AM BLOOD Glucose-103 UreaN-64* Creat-5.8*# Na-139\nK-5.2* Cl-100 HCO3-27 AnGap-17\n[**2149-8-23**] 05:16AM BLOOD Glucose-120* UreaN-72* Creat-6.7* Na-136\nK-5.3* Cl-99 HCO3-28 AnGap-14\n[**2149-8-22**] 06:13AM BLOOD ALT-12 AST-15 AlkPhos-66 TotBili-0.5\n[**2149-8-16**] 06:00AM BLOOD ALT-7 AST-14 LD(LDH)-520* AlkPhos-27*\nTotBili-0.7\n[**2149-8-3**] 01:30PM BLOOD Lipase-114*\n[**2149-8-5**] 04:53AM BLOOD CK-MB-NotDone cTropnT-0.03*\n[**2149-8-5**] 02:36PM BLOOD CK-MB-NotDone cTropnT-0.04*\n[**2149-8-6**] 03:39AM BLOOD CK-MB-NotDone cTropnT-0.04*\n[**2149-8-23**] 05:16AM BLOOD Calcium-9.6 Phos-4.6* Mg-2.4\n[**2149-8-7**] 05:00AM BLOOD Calcium-6.3* Phos-8.8* Mg-2.6\n[**2149-8-7**] 07:45PM BLOOD Calcium-6.8*\n[**2149-8-8**] 06:48AM BLOOD Calcium-6.8* Phos-5.3*# Mg-2.0\n[**2149-8-8**] 04:41PM BLOOD Calcium-7.2*\n[**2149-8-14**] 05:10AM BLOOD VitB12-552 Folate-11.2 Hapto-95\nFerritn-304*\n[**2149-8-4**] 03:32AM BLOOD calTIBC-181* Ferritn-925* TRF-139*\n[**2149-8-5**] 09:54PM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE\nHBcAb-NEGATIVE HAV Ab-POSITIVE IgM HAV-NEGATIVE\n[**2149-8-5**] 09:54PM BLOOD ANCA-NEGATIVE B\n[**2149-8-5**] 09:54PM BLOOD [**Doctor First Name **]-POSITIVE Titer-1:40 dsDNA-NEGATIVE\n[**2149-8-5**] 09:54PM BLOOD PEP-NO SPECIFI IgG-1192 IgA-421* IgM-27*\nIFE-NO MONOCLO\n[**2149-8-5**] 04:53AM BLOOD C3-107 C4-25\n[**2149-8-7**] 12:05PM BLOOD HIV Ab-NEGATIVE\n[**2149-8-3**] 05:32PM BLOOD tacroFK-13.3\n[**2149-8-5**] 09:54PM BLOOD HCV Ab-NEGATIVE\n\nCXR [**2149-8-6**]: IMPRESSION: AP chest compared to [**2149-8-4**]:\n.\nRight PIC line can be traced only as far as the mid SVC. Left\nlower lobe\nconsolidation, new since [**2149-8-3**], is unchanged since\n[**2149-8-4**] could be pneumonia or atelectasis. Small right\npleural effusion and generalized vascular engorgement have\nincreased. Mild cardiomegaly stable. No pneumothorax.\n.\nCT A/P [**2149-8-13**]: IMPRESSIONS:\n1. Colonic diverticulosis along the descending and sigmoid\ncolon, with area of pericolonic fat stranding in the left lower\nquadrant, compatible with mild uncomplicated diverticulitis. No\nfree air, free fluid, or fluid collection except for the seroma\nin ant [**Last Name (un) 103**] wall.\n.\n2. Small bilateral pleural effusions are slightly increased\ncompared to\n[**2149-8-3**], with associated adjacent atelectasis in the lung bases.\n\nThe study and the report were reviewed by the staff radiologist.\n\n.\nAC Fistulogram [**2149-8-15**]: IMPRESSION: Fistulogram demonstrating\ndilated, tortuous and widely patent left cephalic venous outflow\nfrom fistula, and no central stenosis or clot. Brisk inflow\nacross arterial anastomosis implies no stenosis there.\n.\nCT C/T/L Spine [**2149-8-23**]: IMPRESSION:\nGiven limitations of the image acquisition and the patient's\ninability to\ncooperate, there is no evidence for fracture or dislocation.\n.\nCT Head: [**2149-8-23**]: IMPRESSIONS: Very limited study, particularly\nthrough the skull base due to patient motion. The visualized\nbrain reevals no definite abnormality. If there remains concern\nfor acute intracranial pathological process, reimaging would be\nrecommended when the patient is able to be still for the exam.\n.\nNOTE AT ATTENDING REVIEW: The hyperdensity noted above likely is\nminimal\nhyperostosis frontalis interna, with a similar finding noted on\nthe right\nside in an analogous locale.\n.\nCXR [**2149-8-22**]\nIMPRESSION: Increased right basilar opacity which may represent\natelectasis or developing pneumonia. Improved left basilar\natelectasis.\nThe study and the report were reviewed by the staff radiologist.\n\n.\n[**2149-8-25**] 2:13 pm Immunology (CMV)      Source: Line-picc.\n\n   CMV Viral Load (Pending):\n[**2149-8-20**] 6:44 am Immunology (CMV)      Source: Line-picc.\n\n                            **FINAL REPORT [**2149-8-21**]**\n\n   CMV Viral Load (Final [**2149-8-21**]):\n      861 copies/ml.\n      Performed by PCR.\n      Detection Range: 600 - 100,000 copies/ml.\n      FOR RESEARCH USE ONLY. NOT FOR USE IN DIAGNOSTIC\nPROCEDURES.\n      This test has been validated by the Microbiology\nlaboratory at [**Hospital1 18**].\nTime Taken Not Noted     Log-In Date/Time: [**2149-8-19**] 1:27 pm\n      URINE     Site: NOT SPECIFIED      CHEM # 66381R [**8-19**].\n\n                            **FINAL REPORT [**2149-8-22**]**\n\n   URINE CULTURE (Final [**2149-8-22**]):\n      ENTEROCOCCUS SP..    10,000-100,000 ORGANISMS/ML..\n\n                              SENSITIVITIES: MIC expressed in\nMCG/ML\n\n_________________________________________________________\n                             ENTEROCOCCUS SP.\n                             |\nAMPICILLIN------------  =>32 R\nLINEZOLID-------------     2 S\nNITROFURANTOIN--------   128 R\nTETRACYCLINE----------     2 S\nVANCOMYCIN------------  =>32 R\n[**2149-8-19**] 12:17 pm BLOOD CULTURE\n\n                            **FINAL REPORT [**2149-8-25**]**\n\n   Blood Culture, Routine (Final [**2149-8-25**]):    NO GROWTH.\n[**2149-8-3**] 8:19 pm MRSA SCREEN\n\n                            **FINAL REPORT [**2149-8-6**]**\n\n   MRSA SCREEN (Final [**2149-8-6**]):    No MRSA isolated.\n[**2149-8-17**] 9:47 am STOOL     CONSISTENCY: WATERY      Source:\nStool.\n\n                            **FINAL REPORT [**2149-8-19**]**\n\n   OVA + PARASITES (Final [**2149-8-18**]):\n      NO OVA AND PARASITES SEEN.\n      This test does not reliably detect Cryptosporidium,\nCyclospora or\n      Microsporidium. While most cases of Giardia are detected\nby routine\n      O+P, the Giardia antigen test may enhance detection when\norganisms\n      are rare.\n                                   .\n      MODERATE POLYMORPHONUCLEAR LEUKOCYTES.\n      FEW RBC'S.\n\n   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2149-8-18**]):\n      REPORTED BY PHONE TO G PARSOPAROU @ 3:54A [**2149-8-18**].\n      CLOSTRIDIUM DIFFICILE.\n         FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA.\n           (Reference Range-Negative).\n         A positive result in a recently treated patient is of\nuncertain\n         significance unless the patient is currently\nsymptomatic\n         (relapse).\n\n   VIRAL CULTURE (Final [**2149-8-19**]):\n      VIRAL CULTURE DISCONTINUED DUE TO PRESENCE OF CLOSTRIDIUM\nDIFFICILE\n      TOXIN.\n.\n\n\nBrief Hospital Course:\nA/P: 52yo W with PMH of SLE, renal failure s/p transplant\npresents with acute renal failure and likely rejection.\n.\n# Acute Renal Failure:  Mrs. [**Known lastname 6357**] presented to the ED with\nhyperkalemia [**12-30**] acute renal failure in her transplant kidney.\nDue to faliure of medical management of the hyperkalemia, Mrs.\n[**Known lastname 6357**] underwent emergent dialysis via her previous left arm\nfistula that remained patent by U/S.  Renal transplant\nultrasound was normal except for large subcutaneous fluid\ncollection that was also noted on CT.  On hospital day 1, there\nwas concern for rejection.  She was started on solumedrol 500mg\nIV qday for this concern pending biopsy results.  Renal biopsy\nshowed no signs of rejection, but was consistent with rapidly\nprogressing FSGS. IV solumedrol was decreased from 500 to 100 mg\nqday on day 3 then ultimately switched to Prednisone 60 mg qday\non day 5--which was continued throughout admission and continued\non discharge.  Studies into the etioogy of the FSGS were\nnegative -- HIV negative, BK virius negative, ANCA negative,\ncompliment levels normal, Hepatitis serology negative, [**Doctor First Name **] 1:40,\nparvo b19 and HTLV negative. Urine output was monitored as best\nas possible, however patient was non-compliant with collection.\n UA with no signs of urinary tract infection.  On hospital day\n3, plasmapheresis was empirically initiated.  During her\nplasmapheresis courses, calcium levels were noted to be low and\nwere repleted on an as needed basis.  She received 4 sessions of\nplasmapheresis, however due to development of fever and signs of\ninfection on hospital day 10 this was not continued.  Urine\nProtein/Creatinine ratio was monitored on a daily basis during\nthe initial part of admission peaking at 30.7 then trending down\nto 1.7 after 2 weeks.  Throughout admission, hemodialysis was\ndone on as needed basis with one 9-day period of no\nhemodialysis.  Patient will continue dialysis as outpatient, as\nwell as prednisone and tacrolimus.  She should follow up with\nTransplant nephrology as arranged.  Should continue tacrolimus\nwith goal trough [**5-5**].  Dose was decreased to 4mg [**Hospital1 **] on day of\ndischarge for elevated trough 9.1.  Please contact transplant\nnephrology at [**Hospital1 18**] for dose adjustments.  Please check tacro\nlevels on Thursday, [**2149-8-28**], and regularly there after.\nShe should continue prednisone at 60mg daily for now.  She\nshould remain on GI prophylaxis, Ca/Vit D as ordered.  Patient\nshould be considered for starting dapsone for PCP prophylaxis in\nthe future rather than atovaquone, but given h/o severe bactrim\nallergy did not challenge with dapsone on this hospitalization.\nG6PD testing was negative.\n-Please send all lab work to Dr. [**Last Name (STitle) **] at [**Hospital1 18**]-\n.\n# Hemodialysis: Patient to receive T/Th/Sa dialysis as\noutpatient.  At dialysis, she should receive epogen.  In\naddition, she should have PTH, Vitamin D and Iron studies drawn\nat dialysis. She should continue cinacalcet as outpatient and\nvitamin D as follows (50,000 units weekly x 8 weeks, followed by\n1000 units daily thereafter until replete.).  Patient has a slot\nat [**Hospital4 117**] [**Hospital5 **] [**Hospital6 **] after she leaves rehab.\n.\n# C. difficile infection - On day 10 of admission, patient was\nnoted to be febrile.  Patient was also complaining of LLQ\nabdominal pain, but no other associated symptoms.  At this time\npatient was started empirically on cefepime and flagyl for\nsuspected diverticulitis given findings of sigmoid colon wall\nthickening on CT Abdomen and pelvis.  Blood and urine cultures\nwere drawn and negative.  UA negative for UTI.  CXR had no\ninterval change of right basalar atelectasis and patient was\nasymptommatic.  Patient continued to have fevers and vancomycin\nadded on hospital day 12.  Additionally valgancyclovir and\natovoqoune were added at this time for prophylaxis while on high\ndose steroids.  Patient continued to be febrile and complained\nof diarrhea, ID consult felt symptoms were most consistent for\nC. Difficile (had recieved one dose of ceftazadime on\nadmission).  Adenovirus PCT, Toxo serology and stool O&P were\nnegative.  Stool was positive for C. Diff and po vancomycin\nstarted.  Cefepime, flagyl and vancomycin were discontinued.\nPatient had 2 more fevers over the first 48 hours of PO\nvancomycin treatment then was afebrile.  Of note, diarrhea\nwork-up was positive for CMV viral load in blood possibly\nconsistent with CMV colitis (see below). Patient should complete\na 14 day course of PO vancomycin to end on [**2149-9-2**].\n.\n# CMV viremia - patient had detectable CMV viral load during\ndiarrheal work-up.  At the time of detection, patient had been\non valgancyclovir prophylaxis for 4 days.  Initially, it was\nfelt to be viremia w/o end organ involvement, however due to\ncontinued diarrhea on PO vancomycin for C. difficile infection,\ntreatment was changed from valgancyclovir to gancyclovir for\ntreatment of possible CMV disease.  She should be continued on\nIV ganciclovir for treatment of CMV viremia until she has 2\nnegative CMV viral loads separated by one week.  (viral load\n[**8-20**] 861, repeat viral load [**8-25**] pending).\n.\n# Hyperkalemia: Mrs. [**Known lastname 6357**] was diagnosed with elevated\npotassium on admission to the ED.  She had mild peaked T waves\nin V2. In the ED, she received 2 rounds of calcium, insulin and\nwas transferred to the ICU where medical management for\nhyperkalemia was more effective, but she still required emergent\ndialysis.  After a short course of emergent dialysis there was\nimprovement in her electrolytes. Potassium was monitored closely\nthroughout her admission while she underwent intermittant\nhemodialysis.\n.\n\n# Atrial fibrillation: Mrs. [**Known lastname 6357**] went into atrial\nfibrillation with RVR on the  evening of [**8-4**] after dialysis.\nShe had no prior history. Had some chest pain during episode and\nwas ruled out. The atrial fibrillation was converted with\nmetoprolol then Diltiazem IV and she had no further episodes on\ntelemetry.  She was continued on metoprolol for rate control and\nhypertension.  Hydralazine was discontinued.  Echo showed a\nmildly dilated left atrium and LVEH > 55%.  TSH was WNL.  After\none week, telemetry was discontinued.\n.\n# Hypertension: Mrs. [**Known lastname 6357**] was not previously on\nanti-hypertensives prior to admission.  On admission, she was\nnoted to be hypertensive and started on hydralazine and\namlodipine.  After her episode of atrial fibrillation, she was\nalso on hydralazine.  Hydralazine ws discontinued after 2 days\nwith good blood pressure control on metoprolol and amlodipine.\nBlood pressure was monitored and stable throughout her hospital\ncourse with some episodes of hypotension during dialysis.\nAmlodipine was changed to be dosed after dialysis and metoprolol\nreduced to 12.5mg [**Hospital1 **].  At discharge, amlodipine was\ndiscontinued due to its tendency to cause lower extremity edema,\nand b/c hypotension had limited her HD sessions.  Metoprolol\nshould be continued and titrated up as needed for hypertension.\n.\n# SLE: stable; on prednisone for FSGS.\n.\n# Anemia - continued iron supplement, epogen with HD as above,\ntransfusions as needed.\n.\n# Access: PICC line in place.  AV fistula functional for now,\nbut had difficulty during hospital stay.\n.\n# Diabetes: presented during hospital stay while on treatment\nwith high dose steroids.  Was covered with glargine qhs, and\nhumalog sliding scale with meals.\n\n\nMedications on Admission:\nTacro 12mg [**Hospital1 **]\nepo\niron\nVitamin D\n\n\nDischarge Medications:\n1. Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for fever/pain: not to exceed 4g tylenol per\nday.\n2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).\n3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for\nconstipation.\n4. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for pain.\n5. Petrolatum     Ointment Sig: One (1) Appl Topical TID (3\ntimes a day) as needed for for dry skin.\n6. Docusate Sodium 100 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day) as needed for constipation.\n7. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\n8. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: One (1) ML\nIntravenous PRN (as needed) as needed for line flush.\n9. Insulin Glargine 100 unit/mL Cartridge Sig: Two (2) units\nSubcutaneous at bedtime.\n10. Insulin Lispro 100 unit/mL Cartridge Sig: as per sliding\nscale as per sliding scale Subcutaneous qACHS.\n11. Zofran 4 mg Tablet Sig: One (1) Tablet PO three times a day\nas needed for nausea.\n12. Vitamin D 50,000 unit Capsule Sig: One (1) Capsule PO once a\nweek for 8 weeks.\n13. Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO once a day.\n14. Prednisone 20 mg Tablet Sig: Three (3) Tablet PO DAILY\n(Daily).\n15. Vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every\n6 hours) for 7 days: to end on [**2149-9-2**].\n16. Ganciclovir 120 mg IV Q24H Start: In am\nGive after HD on dialysis days\n17. Atovaquone 750 mg/5 mL Suspension Sig: Two (2)  PO DAILY\n(Daily).\n18. Tacrolimus 1 mg Capsule Sig: Four (4) Capsule PO every\ntwelve (12) hours. Capsule(s)\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 700**] - [**Location (un) **]\n\nDischarge Diagnosis:\nFocal Segmental Glomerulosclerosis\nAcute Renal Failure\nEnd Stage Renal Disease\nC. Diff Colitis\nCMV Viremia\n\n\nDischarge Condition:\nStable, AOx3, appropriate.\n\n\nDischarge Instructions:\nYou were admitted to the hospital for evaluation of kidney\nfailure.  You had a biopsy of your kidney that showed a reaction\nknown as FSGS or focal segmental glomerulosclerosis.  This was\ntreated with high doses of steroids, and plasmapheresis.  You\nhad some mild improvement in your kidney function but required\ndialysis to replace your kidneys.  You will need to continue on\ndialysis until your kidney function improves.  During your\nhospital stay you also developed an infectious diarrhea known as\nC. Diff.  This diarrhea is treated with oral antibiotics such as\nvancomycin.  You were also treated for CMV infection which\noccurs in patients on high doses of immunosuppression such as\nyourself.  Please continue to take all medications on discharge.\n.\nPlease return to the hospital should you experience any fevers,\nchills, night sweats, worsening diarrhea, or other symptoms\nconcerning to you.\n\nFollowup Instructions:\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4861**], MD Phone:[**Telephone/Fax (1) 673**]\nDate/Time:[**2149-9-1**] 1:30\nProvider: [**Name10 (NameIs) 2105**] [**Name11 (NameIs) 2106**], MD Phone:[**Telephone/Fax (1) 673**]\nDate/Time:[**2149-9-22**] 1:20\n\n\n                             [**Name6 (MD) 2105**] [**Name8 (MD) 2106**] MD [**MD Number(2) 5038**]\n\n"
+    },
+    {
+      "note_id": 97897,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 38,
+          "end": 57,
+          "code": "I48.1",
+          "code_system": "ICD-10-CM",
+          "description": "Persistent atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 210,
+          "end": 213,
+          "code": "93318",
+          "code_system": "CPT",
+          "description": "Echocardiography, transesophageal (TEE) for monitoring purposes, including probe placement, real time 2-dimensional image acquisition and interpretation leading to ongoing (continuous) assessment of (dynamically changing) cardiac pumping function",
+          "type": "Human",
+          "covered_text": "TTE"
+        },
+        {
+          "begin": 421,
+          "end": 436,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "LA enlargement."
+        },
+        {
+          "begin": 1110,
+          "end": 1112,
+          "code": "I34.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic mitral (valve) insufficiency",
+          "type": "Human",
+          "covered_text": "MR"
+        },
+        {
+          "begin": 1223,
+          "end": 1247,
+          "code": "I27.22",
+          "code_system": "ICD-10-CM",
+          "description": "Pulmonary hypertension due to left heart disease",
+          "type": "Human",
+          "covered_text": "PA systolic hypertension"
+        },
+        {
+          "begin": 2339,
+          "end": 2341,
+          "code": "I34.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic mitral (valve) insufficiency",
+          "type": "Human",
+          "covered_text": "MR"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: Atrial fibrillation.\nHeight: (in) 71\nWeight (lb): 230\nBSA (m2): 2.24 m2\nBP (mm Hg): 155/79\nHR (bpm): 72\nStatus: Inpatient\nDate/Time: [**2149-8-6**] at 11:22\nTest: Portable TTE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Adequate\n\n\nINTERPRETATION:\n\nFindings:\n\nThis study was compared to the prior study of [**2147-9-12**].\n\n\nLEFT ATRIUM: Mild LA enlargement.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. Normal interatrial septum.\nNo ASD by 2D or color Doppler.\n\nLEFT VENTRICLE: Mild symmetric LVH with normal cavity size and regional/global\nsystolic function (LVEF>55%). No resting LVOT gradient. No VSD.\n\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\n\nAORTA: Normal aortic diameter at the sinus level. Mildly dilated ascending\naorta. Mildly dilated aortic arch.\n\nAORTIC VALVE: Normal aortic valve leaflets (3). No valvular AS. The increased\ntransaortic velocity is related to high cardiac output. No AR.\n\nMITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. No MS. Mild to\nmoderate ([**11-29**]+) MR.\n\nTRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. No TS. Mild to\nmoderate [[**11-29**]+] TR. Mild PA systolic hypertension.\n\nPULMONIC VALVE/PULMONARY ARTERY: No PS.\n\nPERICARDIUM: No pericardial effusion.\n\nConclusions:\nThe left atrium is mildly dilated. No atrial septal defect is seen by 2D or\ncolor Doppler. There is mild symmetric left ventricular hypertrophy with\nnormal cavity size and regional/global systolic function (LVEF>55%). There is\nno ventricular septal defect. Right ventricular chamber size and free wall\nmotion are normal. The ascending aorta is mildly dilated. The aortic arch is\nmildly dilated. The aortic valve leaflets (3) appear structurally normal with\ngood leaflet excursion. There is no valvular aortic stenosis. The increased\ntransaortic velocity is likely related to high cardiac output. No aortic\nregurgitation is seen. The mitral valve leaflets are mildly thickened. There\nis no mitral valve prolapse. Mild to moderate ([**11-29**]+) mitral regurgitation is\nseen. The tricuspid valve leaflets are mildly thickened. There is mild\npulmonary artery systolic hypertension. There is no pericardial effusion.\n\nCompared with the prior study (images reviewed) of [**2147-9-12**], the degree of\nMR has slightly increased.\n\n\n"
+    },
+    {
+      "note_id": 266312,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 13,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm."
+        },
+        {
+          "begin": 142,
+          "end": 148,
+          "code": "R94.31",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal electrocardiogram [ECG] [EKG]",
+          "type": "Human",
+          "covered_text": "change"
+        }
+      ],
+      "text": "Sinus rhythm.  Normal tracing.  Compared to the previous tracing of [**2147-9-12**]\nthe rate has increased.  Otherwise, no diagnostic interim change.\n\n"
+    },
+    {
+      "note_id": 594065,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 17,
+          "end": 36,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 284,
+          "end": 288,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Afib"
+        },
+        {
+          "begin": 313,
+          "end": 325,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 4393,
+          "end": 4405,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HYPERTENSION"
+        },
+        {
+          "begin": 4525,
+          "end": 4538,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "RENAL FAILURE"
+        },
+        {
+          "begin": 4540,
+          "end": 4549,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "END STAGE"
+        },
+        {
+          "begin": 4676,
+          "end": 4688,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "HYPERKALEMIA"
+        },
+        {
+          "begin": 4743,
+          "end": 4762,
+          "code": "I48.1",
+          "code_system": "ICD-10-CM",
+          "description": "Persistent atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        }
+      ],
+      "text": "Chief Complaint: acute renal failure, hypertension.\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   24 Hour Events:\n   New onset Afib responded to diltiazem. Hypertension s/p renal biospy\n   yesterday. s/p HD yesterday. PICC line placed.\n                                                   History obtained from Patient\n   Allergies:\n   Bactrim Ds (Oral) (Sulfamethoxazole/Trimethoprim)\n   Exfoliative [**Doctor Last Name **]\n   Cellcept (Oral) (Mycophenolate Mofetil)\n   Rash;\n   Last dose of Antibiotics:\n   Ceftriaxone - [**2149-8-3**] 10:27 PM\n   Ceftazidime - [**2149-8-4**] 10:07 PM\n   Infusions:\n   Other ICU medications:\n   Pantoprazole (Protonix) - [**2149-8-4**] 10:21 AM\n   Metoprolol - [**2149-8-4**] 10:59 PM\n   Diltiazem - [**2149-8-5**] 12:00 AM\n   Other medications:\n   heparin s/c, colace, methylpred 500 iv q24, RISS, norvasc 10, tacro 12\n   [**Hospital1 **], protonix, hydral 25 q8, calcium acetate\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2149-8-5**] 09:27 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37\nC (98.6\n   Tcurrent: 36.4\nC (97.6\n   HR: 68 (68 - 122) bpm\n   BP: 161/70(92) {122/62(81) - 188/82(106)} mmHg\n   RR: 14 (13 - 24) insp/min\n   SpO2: 99%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 70 Inch\n             Total In:\n                                                                  1,823 mL\n                                                                    242 mL\n   PO:\n             TF:\n   IVF:\n                                                                  1,473 mL\n                                                                    242 mL\n   Blood products:\n                                                                    350 mL\n   Total out:\n                                                                  1,583 mL\n                                                                     20 mL\n   Urine:\n                                                                     83 mL\n                                                                     20 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    240 mL\n                                                                    222 mL\n   Respiratory support\n   O2 Delivery Device: RA\n   SpO2: 98%\n   ABG: ///28/\n   Physical Examination\n   General Appearance: Well nourished, No acute distress, Anxious\n   Head, Ears, Nose, Throat: Normocephalic\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender\n   Extremities: Right lower extremity edema: Absent\n   Skin:  Warm\n   Neurologic: Attentive, Responds to: Not assessed, Movement: Not\n   assessed, Tone: Not assessed\n   Labs / Radiology\n   7.2 g/dL\n   103 K/uL\n   185 mg/dL\n   7.3 mg/dL\n   28 mEq/L\n   4.2 mEq/L\n   51 mg/dL\n   101 mEq/L\n   140 mEq/L\n   22.4 %\n   2.9 K/uL\n        [image002.jpg]\n                             [**2149-8-3**]  08:19 PM\n                             [**2149-8-3**]  08:22 PM\n                             [**2149-8-3**]  10:47 PM\n                             [**2149-8-4**]  03:32 AM\n                             [**2149-8-4**]  05:56 AM\n                             [**2149-8-4**]  10:59 PM\n                             [**2149-8-5**]  04:53 AM\n   WBC\n   3.5\n   2.2\n   2.3\n   2.9\n   2.9\n   Hct\n   24.7\n   20.4\n   21.7\n   23.1\n   22.4\n   Plt\n   107\n   108\n   112\n   109\n   103\n   Cr\n   13.5\n   13.3\n   9.1\n   6.7\n   7.3\n   Glucose\n   153\n   171\n   196\n   132\n   185\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Lactic Acid:0.5 mmol/L,\n   Ca++:7.6 mg/dL, Mg++:2.5 mg/dL, PO4:6.7 mg/dL\n   Imaging: CXR Right sided PICC, otherwise clear.\n   Assessment and Plan\n HYPERTENSION, BENIGN:\n   Will continue to titrate up oral regimen, will control this better\n   prior to transferring to the floor.\n RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)\n   of unclear etiology, f/u renal biopsy, f/u complement levels to assess\n   for lupus flare\n HYPERKALEMIA (HIGH POTASSIUM, HYPERPOTASSEMIA)\n   resolved s/p HD\n Atrial fibrillation:\n   brief run of A.fib, and now with peristent pleuritic chest pain, will\n   send cardiac enzymes, and complements to assess for lupus flare. Will\n   hold off on starting aspirin.\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   PICC Line - [**2149-8-4**] 02:00 PM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition :Transfer to floor\n   Total time spent: 30 minutes\n"
+    },
+    {
+      "note_id": 266308,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 7,
+          "end": 19,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "sinus rhythm"
+        },
+        {
+          "begin": 37,
+          "end": 74,
+          "code": "R94.31",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal electrocardiogram [ECG] [EKG]",
+          "type": "Human",
+          "covered_text": "Non-specific T wave changes laterally"
+        }
+      ],
+      "text": "Normal sinus rhythm. Axis 0 degrees. Non-specific T wave changes laterally.\nCompared to the previous tracing of [**2149-8-6**] the T waves have become flat in the\nlateral precordial leads. Otherwise, there is no diagnostic interim change.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 593846,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 237,
+          "end": 240,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 242,
+          "end": 245,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 335,
+          "end": 338,
+          "code": "M54.50",
+          "code_system": "ICD-10-CM",
+          "description": "Low back pain, unspecified",
+          "type": "Human",
+          "covered_text": "LBP"
+        },
+        {
+          "begin": 373,
+          "end": 394,
+          "code": "R14.0",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal distension (gaseous)",
+          "type": "Human",
+          "covered_text": "abdominal\n   fullness"
+        },
+        {
+          "begin": 4133,
+          "end": 4149,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        },
+        {
+          "begin": 4211,
+          "end": 4224,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "RENAL FAILURE"
+        },
+        {
+          "begin": 4226,
+          "end": 4235,
+          "code": "I12.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease",
+          "type": "Human",
+          "covered_text": "END STAGE"
+        },
+        {
+          "begin": 4702,
+          "end": 4708,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        }
+      ],
+      "text": "Chief Complaint:\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   52F with SLE, HTN, s/p renal [**Last Name (un) 8147**] ( 2 years ago, maintained on\n   prograf), p/w acute LBP onset am of admission, as well as abdominal\n   fullness; otherwise had been well and taking immunsupp regimen as\n   directed (though cannot name renal MD or recall last visit).  No F/C,\n   SOB/cough, CP, abd pain, N/V/C/D.  No dysuria, hematuria.  In ED, K\n   notable for 6.8, BUN/Cr 121/14.7.  EKG with mild peak Ts in V2 - got\n   hyperK treatment in ED.  CT abd pelvis, with perinephric fat stranding,\n   got empiric levo/flagyl.  Got high dose steroids per renal, and\n   transferred to MICU.\n   24 Hour Events:\n   - Increasing potassium to 7.4, EKG unchanged, but re-treated o/n with\n   Ca, insulin, glc.\n   - Renal notified, fistula patency verified and had short course HD\n   o/n.\n   - K corrected to 4.2, and Cr corrected to 9.\n   History obtained from Patient\n   Allergies:\n   Bactrim Ds (Oral) (Sulfamethoxazole/Trimethoprim)\n   Exfoliative [**Doctor Last Name **]\n   Cellcept (Oral) (Mycophenolate Mofetil)\n   Rash;\n   Last dose of Antibiotics:\n   Ceftriaxone - [**2149-8-3**] 10:27 PM\n   Infusions:\n   Other ICU medications:\n   Dextrose 50% - [**2149-8-3**] 09:31 PM\n   Insulin - Regular - [**2149-8-3**] 09:32 PM\n   Heparin Sodium (Prophylaxis) - [**2149-8-4**] 08:10 AM\n   Other medications:\n   Home: Tacro, Epo, Fe\n   Here: colace, methylpred, RISS, amlodipine, nitropaste, prograf\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2149-8-4**] 08:49 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.7\nC (98\n   Tcurrent: 36.7\nC (98\n   HR: 70 (65 - 85) bpm\n   BP: 201/83(108) {169/68(91) - 201/89(115)} mmHg\n   RR: 21 (16 - 27) insp/min\n   SpO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 70 Inch\n             Total In:\n                                                                  3,371 mL\n                                                                    919 mL\n   PO:\n             TF:\n   IVF:\n                                                                    346 mL\n                                                                    919 mL\n   Blood products:\n   Total out:\n                                                                     45 mL\n                                                                     43 mL\n   Urine:\n                                                                     45 mL\n                                                                     43 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  3,326 mL\n                                                                    876 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 98%\n   ABG: ///24/\n   Physical Examination\n   Labs / Radiology\n   6.8 g/dL\n   112 K/uL\n   196 mg/dL\n   9.1 mg/dL\n   24 mEq/L\n   4.2 mEq/L\n   73 mg/dL\n   105 mEq/L\n   141 mEq/L\n   21.7 %\n   2.3 K/uL\n        [image002.jpg]\n                             [**2149-8-3**]  08:19 PM\n                             [**2149-8-3**]  08:22 PM\n                             [**2149-8-3**]  10:47 PM\n                             [**2149-8-4**]  03:32 AM\n                             [**2149-8-4**]  05:56 AM\n   WBC\n   3.5\n   2.2\n   2.3\n   Hct\n   24.7\n   20.4\n   21.7\n   Plt\n   107\n   108\n   112\n   Cr\n   13.5\n   13.3\n   9.1\n   Glucose\n   153\n   171\n   196\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Lactic Acid:0.9 mmol/L,\n   Ca++:7.4 mg/dL, Mg++:1.8 mg/dL, PO4:5.7 mg/dL\n   Imaging: Perinephritic fluid, fat stranding c/w rejection - R kidney.\n   CXR: mild L pleural effusion, vascular fullness, otherwise clear.\n   Assessment and Plan\n RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD), ACUTE\n   REJECTION:\n   - Anticipate low tacro level, and predominant rejection, but with\n   possible superimposed infection/UTI\n   - Treating with steroids\n   - Renal and transplant surgery following\n   - Needs phosphate binder\n   - Empiric antibiotics (ceftazidime for ease of dosing with HD)\n HYPERTENSION, BENIGN\n   - On amlodipine, adding hydralazine.\n HYPERKALEMIA (HIGH POTASSIUM, HYPERPOTASSEMIA)\n now resolved post\n   HD.\n   Anemia\n  Fe studies, getting blood per renal.\n   ICU Care\n   Nutrition:   Renal diet.\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2149-8-3**] 07:54 PM\n   Prophylaxis:\n   DVT:  hep sc\n   Stress ulcer: ppi\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition :  ICU\n   Total time spent:\n"
+    },
+    {
+      "note_id": 594052,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 3863,
+          "end": 3875,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HYPERTENSION"
+        },
+        {
+          "begin": 3885,
+          "end": 3898,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "RENAL FAILURE"
+        },
+        {
+          "begin": 3900,
+          "end": 3909,
+          "code": "I12.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease",
+          "type": "Human",
+          "covered_text": "END STAGE"
+        },
+        {
+          "begin": 3911,
+          "end": 3920,
+          "code": "I12.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease",
+          "type": "Human",
+          "covered_text": "END STAGE"
+        },
+        {
+          "begin": 3943,
+          "end": 3955,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "HYPERKALEMIA"
+        },
+        {
+          "begin": 4017,
+          "end": 4020,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 4068,
+          "end": 4087,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 4762,
+          "end": 4765,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 4875,
+          "end": 4879,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Afib"
+        },
+        {
+          "begin": 5156,
+          "end": 5159,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 5311,
+          "end": 5317,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 5422,
+          "end": 5434,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: [**8-4**]\n   -Renal recs - Ceftaz started instead of ceftriaxone, continue tacro\n   12ng [**Hospital1 **] and follow levels, started phoslo\n   -1.5 liters removed with HD\n   -hydral 25 TID started for BP\n   -after HD started having afib with RVR to 140s, gave lopressor 5mg x 2,\n   and 250ml bolus, checked lytes and hct, gave calcium and mag, gave dilt\n   10mg x 1, pt then converted to sinus in 80s\n   -had renal bx, was given Desmopressin with procedure\n   -PICC line placed\n   -she was transfused 1 unit of RBCs in am on [**8-4**]\n   24 Hour Events:\n PICC LINE - START [**2149-8-4**] 02:00 PM\n   Allergies:\n   Bactrim Ds (Oral) (Sulfamethoxazole/Trimethoprim)\n   Exfoliative [**Doctor Last Name **]\n   Cellcept (Oral) (Mycophenolate Mofetil)\n   Rash;\n   Last dose of Antibiotics:\n   Ceftriaxone - [**2149-8-3**] 10:27 PM\n   Ceftazidime - [**2149-8-4**] 10:07 PM\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2149-8-4**] 08:10 AM\n   Pantoprazole (Protonix) - [**2149-8-4**] 10:21 AM\n   Metoprolol - [**2149-8-4**] 10:59 PM\n   Diltiazem - [**2149-8-5**] 12:00 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2149-8-5**] 07:40 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37\nC (98.6\n   Tcurrent: 36\nC (96.8\n   HR: 70 (67 - 122) bpm\n   BP: 169/75(97) {122/62(81) - 201/89(112)} mmHg\n   RR: 14 (13 - 24) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 70 Inch\n             Total In:\n                                                                  1,823 mL\n                                                                    226 mL\n   PO:\n             TF:\n   IVF:\n                                                                  1,473 mL\n                                                                    226 mL\n   Blood products:\n                                                                    350 mL\n   Total out:\n                                                                  1,583 mL\n                                                                     20 mL\n   Urine:\n                                                                     83 mL\n                                                                     20 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    240 mL\n                                                                    206 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 100%\n   ABG: ///28/\n   Physical Examination\n   GEN: awake, polite\n   HEENT: clear OP\n   CV: RRR, no M\n   CHEST: CTA B\n   ABD: soft, NT, +BS\n   Ext: trace edema\n   Labs / Radiology\n   103 K/uL\n   7.2 g/dL\n   185 mg/dL\n   7.3 mg/dL\n   28 mEq/L\n   4.2 mEq/L\n   51 mg/dL\n   101 mEq/L\n   140 mEq/L\n   22.4 %\n   2.9 K/uL\n        [image002.jpg]\n                             [**2149-8-3**]  08:19 PM\n                             [**2149-8-3**]  08:22 PM\n                             [**2149-8-3**]  10:47 PM\n                             [**2149-8-4**]  03:32 AM\n                             [**2149-8-4**]  05:56 AM\n                             [**2149-8-4**]  10:59 PM\n                             [**2149-8-5**]  04:53 AM\n   WBC\n   3.5\n   2.2\n   2.3\n   2.9\n   2.9\n   Hct\n   24.7\n   20.4\n   21.7\n   23.1\n   22.4\n   Plt\n   107\n   108\n   112\n   109\n   103\n   Cr\n   13.5\n   13.3\n   9.1\n   6.7\n   7.3\n   Glucose\n   153\n   171\n   196\n   132\n   185\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Lactic Acid:0.5 mmol/L,\n   Ca++:7.6 mg/dL, Mg++:2.5 mg/dL, PO4:6.7 mg/dL\n   Assessment and Plan\n HYPERTENSION, BENIGN\n RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)\n HYPERKALEMIA (HIGH POTASSIUM, HYPERPOTASSEMIA)\n   A/P: 52yo W with PMH of SLE, renal failure s/p transplant presents with\n   acute renal failure and likely rejection.\n   .\n   # ARF/Acute rejection: High concern for acute rejection. Had renal bx\n   and HD yesterday. Renal and transplant surgery are following. Pt was\n   started on steroids on admission.\n   - 500mg IV daily solumedrol\n   - continue tacro 12.5mg daily\n   - follow daily tacro levels\n   - dialysis as needed\n   - f/u renal recs\n   - f/u transplant surgery recs\n   - f/u on renal bx results\n   - monitor urine output\n   - ceftazidime for concern of infection though unlikely given clinical\n   picture\n   .\n   # Hyperkalemia: Mild peaked T waves on admission, K normalized with HD\n   yesterday\n   - monitor labs\n   - repeat EKG\n   - PRN dialysis\n   .\n   # SLE: thought to be stable, but if active could be inducing renal\n   faiure\n   - will check C3 and C4 levels\n   # Afib with RVR: new onset [**8-4**], HR to 140s, may have been secondary to\n   quick correction of potassium with HD or fluid shifts\n   - responds to dilt 10mg IV x 1, will give again if needed\n   - monitor lytes\n   - if reoccurs will consider anticoagulation/ASA therapy\n   .\n   # HTN: not currently on home meds. Was  hypertensive on admission,\n   corrected with HD\n   - hydral PRN\n   - continue amlodipine\n   - will monitor\n   .\n   # Anemia:\n   - continue iron supplement\n   .\n   FEN: Management if lytes per dialysis and acute management of\n   hyperkalemia; renal diet\n   .\n   PPX: heparin SC\n   .\n   ACCESS: [**Last Name (LF) 1200**], [**First Name3 (LF) **] fistula\n   .\n   CODE: Full\n   .\n   CONTACT: Pt\n   .\n   DISPO: ICU for now\n   ICU Care\n   Nutrition: renal diet\n   Glycemic Control:\n   Lines:\n   PICC Line - [**2149-8-4**] 02:00 PM\n   Prophylaxis:\n   DVT: hep SQ\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU for now, likely can be called out later today if BP\n   stable\n"
+    },
+    {
+      "note_id": 594064,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 3863,
+          "end": 3875,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HYPERTENSION"
+        },
+        {
+          "begin": 3885,
+          "end": 3898,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "RENAL FAILURE"
+        },
+        {
+          "begin": 3900,
+          "end": 3909,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "END STAGE"
+        },
+        {
+          "begin": 3911,
+          "end": 3920,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "END STAGE"
+        },
+        {
+          "begin": 3943,
+          "end": 3955,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "HYPERKALEMIA"
+        },
+        {
+          "begin": 4017,
+          "end": 4020,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 4068,
+          "end": 4087,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 4903,
+          "end": 4906,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 5016,
+          "end": 5020,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Afib"
+        },
+        {
+          "begin": 5339,
+          "end": 5342,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 5496,
+          "end": 5502,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 5726,
+          "end": 5738,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: [**8-4**]\n   -Renal recs - Ceftaz started instead of ceftriaxone, continue tacro\n   12ng [**Hospital1 **] and follow levels, started phoslo\n   -1.5 liters removed with HD\n   -hydral 25 TID started for BP\n   -after HD started having afib with RVR to 140s, gave lopressor 5mg x 2,\n   and 250ml bolus, checked lytes and hct, gave calcium and mag, gave dilt\n   10mg x 1, pt then converted to sinus in 80s\n   -had renal bx, was given Desmopressin with procedure\n   -PICC line placed\n   -she was transfused 1 unit of RBCs in am on [**8-4**]\n   24 Hour Events:\n PICC LINE - START [**2149-8-4**] 02:00 PM\n   Allergies:\n   Bactrim Ds (Oral) (Sulfamethoxazole/Trimethoprim)\n   Exfoliative [**Doctor Last Name **]\n   Cellcept (Oral) (Mycophenolate Mofetil)\n   Rash;\n   Last dose of Antibiotics:\n   Ceftriaxone - [**2149-8-3**] 10:27 PM\n   Ceftazidime - [**2149-8-4**] 10:07 PM\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2149-8-4**] 08:10 AM\n   Pantoprazole (Protonix) - [**2149-8-4**] 10:21 AM\n   Metoprolol - [**2149-8-4**] 10:59 PM\n   Diltiazem - [**2149-8-5**] 12:00 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2149-8-5**] 07:40 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37\nC (98.6\n   Tcurrent: 36\nC (96.8\n   HR: 70 (67 - 122) bpm\n   BP: 169/75(97) {122/62(81) - 201/89(112)} mmHg\n   RR: 14 (13 - 24) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 70 Inch\n             Total In:\n                                                                  1,823 mL\n                                                                    226 mL\n   PO:\n             TF:\n   IVF:\n                                                                  1,473 mL\n                                                                    226 mL\n   Blood products:\n                                                                    350 mL\n   Total out:\n                                                                  1,583 mL\n                                                                     20 mL\n   Urine:\n                                                                     83 mL\n                                                                     20 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    240 mL\n                                                                    206 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 100%\n   ABG: ///28/\n   Physical Examination\n   GEN: awake, polite\n   HEENT: clear OP\n   CV: RRR, no M\n   CHEST: CTA B\n   ABD: soft, NT, +BS\n   Ext: trace edema\n   Labs / Radiology\n   103 K/uL\n   7.2 g/dL\n   185 mg/dL\n   7.3 mg/dL\n   28 mEq/L\n   4.2 mEq/L\n   51 mg/dL\n   101 mEq/L\n   140 mEq/L\n   22.4 %\n   2.9 K/uL\n        [image002.jpg]\n                             [**2149-8-3**]  08:19 PM\n                             [**2149-8-3**]  08:22 PM\n                             [**2149-8-3**]  10:47 PM\n                             [**2149-8-4**]  03:32 AM\n                             [**2149-8-4**]  05:56 AM\n                             [**2149-8-4**]  10:59 PM\n                             [**2149-8-5**]  04:53 AM\n   WBC\n   3.5\n   2.2\n   2.3\n   2.9\n   2.9\n   Hct\n   24.7\n   20.4\n   21.7\n   23.1\n   22.4\n   Plt\n   107\n   108\n   112\n   109\n   103\n   Cr\n   13.5\n   13.3\n   9.1\n   6.7\n   7.3\n   Glucose\n   153\n   171\n   196\n   132\n   185\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Lactic Acid:0.5 mmol/L,\n   Ca++:7.6 mg/dL, Mg++:2.5 mg/dL, PO4:6.7 mg/dL\n   Assessment and Plan\n HYPERTENSION, BENIGN\n RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)\n HYPERKALEMIA (HIGH POTASSIUM, HYPERPOTASSEMIA)\n   A/P: 52yo W with PMH of SLE, renal failure s/p transplant presents with\n   acute renal failure and likely rejection.\n   .\n   # ARF/Acute rejection: High concern for acute rejection. Had renal bx\n   and HD yesterday. Renal and transplant surgery are following. Pt was\n   started on steroids on admission 500 IV q daily. Tacro level from\n   admission normal.\n   - 500mg IV daily solumedrol\n   - continue tacro 12mg daily\n   - follow daily tacro levels\n   - dialysis as needed\n likely tomorrow\n   - f/u renal recs\n   - f/u transplant surgery recs\n   - f/u on renal bx results\n   - monitor urine output\n   - ceftazidime for concern of infection though unlikely given clinical\n   picture and negative urine culture. Consider d/c tomorrow if blood\n   negative.\n   .\n   # Hyperkalemia: Mild peaked T waves on admission, K normalized with HD\n   yesterday\n   - monitor labs [**Hospital1 **]\n   - PRN dialysis\n   .\n   # SLE: thought to be stable, but if active could be inducing renal\n   faiure\n   - will check C3 and C4 levels\n   # Afib with RVR: new onset [**8-4**], HR to 140s, may have been secondary to\n   quick correction of potassium with HD or fluid shifts. C/O chest pain\n   this AM.\n   - responds to dilt 10mg IV x 1, will give again if needed\n   - monitor lytes\n   - if reoccurs will consider anticoagulation/ASA therapy\n   - check CE\n   .\n   # HTN: Not on treatment as outpatient. Continues to be hypertensive to\n   170\ns systolic.\n   - hydral PRN\n   - continue amlodipine\n   - will monitor\n   .\n   # Anemia: Iron studies with high ferritin, high TIBC and normal iron.\n   Likely ACD and low epo state. Also may be secondary to SLE.\n   - consider EPO with HD\n   .\n   FEN: Management if lytes per dialysis and acute management of\n   hyperkalemia; renal diet; continue phoslo for elevated phos.\n   .\n   PPX: heparin SC\n   .\n   ACCESS: PICC, AV fistula\n   .\n   CODE: Full\n   .\n   CONTACT: Pt\n   .\n   DISPO: Possible call out\n   ICU Care\n   Nutrition: renal diet\n   Glycemic Control:\n   Lines:\n   PICC Line - [**2149-8-4**] 02:00 PM\n   Prophylaxis:\n   DVT: hep SQ\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU for now, likely can be called out later today if BP\n   stable\n   ------ Protected Section ------\n   Discuss with renal need for pcp prophylaxis\n   [**Name9 (PRE) **] Protected Section Addendum Entered By:[**Name (NI) 130**] [**Last Name (NamePattern1) 816**], MD\n   on:[**2149-8-5**] 09:28 ------\n"
+    },
+    {
+      "note_id": 594063,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 3885,
+          "end": 3898,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "RENAL FAILURE"
+        },
+        {
+          "begin": 3900,
+          "end": 3909,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "END STAGE"
+        },
+        {
+          "begin": 3911,
+          "end": 3920,
+          "code": "I12.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease",
+          "type": "Human",
+          "covered_text": "END STAGE"
+        },
+        {
+          "begin": 3943,
+          "end": 3955,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "HYPERKALEMIA"
+        },
+        {
+          "begin": 4017,
+          "end": 4020,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 4068,
+          "end": 4087,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 4903,
+          "end": 4906,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 5016,
+          "end": 5020,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Afib"
+        },
+        {
+          "begin": 5496,
+          "end": 5502,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 5622,
+          "end": 5625,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 5726,
+          "end": 5738,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: [**8-4**]\n   -Renal recs - Ceftaz started instead of ceftriaxone, continue tacro\n   12ng [**Hospital1 **] and follow levels, started phoslo\n   -1.5 liters removed with HD\n   -hydral 25 TID started for BP\n   -after HD started having afib with RVR to 140s, gave lopressor 5mg x 2,\n   and 250ml bolus, checked lytes and hct, gave calcium and mag, gave dilt\n   10mg x 1, pt then converted to sinus in 80s\n   -had renal bx, was given Desmopressin with procedure\n   -PICC line placed\n   -she was transfused 1 unit of RBCs in am on [**8-4**]\n   24 Hour Events:\n PICC LINE - START [**2149-8-4**] 02:00 PM\n   Allergies:\n   Bactrim Ds (Oral) (Sulfamethoxazole/Trimethoprim)\n   Exfoliative [**Doctor Last Name **]\n   Cellcept (Oral) (Mycophenolate Mofetil)\n   Rash;\n   Last dose of Antibiotics:\n   Ceftriaxone - [**2149-8-3**] 10:27 PM\n   Ceftazidime - [**2149-8-4**] 10:07 PM\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2149-8-4**] 08:10 AM\n   Pantoprazole (Protonix) - [**2149-8-4**] 10:21 AM\n   Metoprolol - [**2149-8-4**] 10:59 PM\n   Diltiazem - [**2149-8-5**] 12:00 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2149-8-5**] 07:40 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37\nC (98.6\n   Tcurrent: 36\nC (96.8\n   HR: 70 (67 - 122) bpm\n   BP: 169/75(97) {122/62(81) - 201/89(112)} mmHg\n   RR: 14 (13 - 24) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 70 Inch\n             Total In:\n                                                                  1,823 mL\n                                                                    226 mL\n   PO:\n             TF:\n   IVF:\n                                                                  1,473 mL\n                                                                    226 mL\n   Blood products:\n                                                                    350 mL\n   Total out:\n                                                                  1,583 mL\n                                                                     20 mL\n   Urine:\n                                                                     83 mL\n                                                                     20 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    240 mL\n                                                                    206 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 100%\n   ABG: ///28/\n   Physical Examination\n   GEN: awake, polite\n   HEENT: clear OP\n   CV: RRR, no M\n   CHEST: CTA B\n   ABD: soft, NT, +BS\n   Ext: trace edema\n   Labs / Radiology\n   103 K/uL\n   7.2 g/dL\n   185 mg/dL\n   7.3 mg/dL\n   28 mEq/L\n   4.2 mEq/L\n   51 mg/dL\n   101 mEq/L\n   140 mEq/L\n   22.4 %\n   2.9 K/uL\n        [image002.jpg]\n                             [**2149-8-3**]  08:19 PM\n                             [**2149-8-3**]  08:22 PM\n                             [**2149-8-3**]  10:47 PM\n                             [**2149-8-4**]  03:32 AM\n                             [**2149-8-4**]  05:56 AM\n                             [**2149-8-4**]  10:59 PM\n                             [**2149-8-5**]  04:53 AM\n   WBC\n   3.5\n   2.2\n   2.3\n   2.9\n   2.9\n   Hct\n   24.7\n   20.4\n   21.7\n   23.1\n   22.4\n   Plt\n   107\n   108\n   112\n   109\n   103\n   Cr\n   13.5\n   13.3\n   9.1\n   6.7\n   7.3\n   Glucose\n   153\n   171\n   196\n   132\n   185\n   Other labs: PT / PTT / INR:13.2/26.0/1.1, Lactic Acid:0.5 mmol/L,\n   Ca++:7.6 mg/dL, Mg++:2.5 mg/dL, PO4:6.7 mg/dL\n   Assessment and Plan\n HYPERTENSION, BENIGN\n RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)\n HYPERKALEMIA (HIGH POTASSIUM, HYPERPOTASSEMIA)\n   A/P: 52yo W with PMH of SLE, renal failure s/p transplant presents with\n   acute renal failure and likely rejection.\n   .\n   # ARF/Acute rejection: High concern for acute rejection. Had renal bx\n   and HD yesterday. Renal and transplant surgery are following. Pt was\n   started on steroids on admission 500 IV q daily. Tacro level from\n   admission normal.\n   - 500mg IV daily solumedrol\n   - continue tacro 12mg daily\n   - follow daily tacro levels\n   - dialysis as needed\n likely tomorrow\n   - f/u renal recs\n   - f/u transplant surgery recs\n   - f/u on renal bx results\n   - monitor urine output\n   - ceftazidime for concern of infection though unlikely given clinical\n   picture and negative urine culture. Consider d/c tomorrow if blood\n   negative.\n   .\n   # Hyperkalemia: Mild peaked T waves on admission, K normalized with HD\n   yesterday\n   - monitor labs [**Hospital1 **]\n   - PRN dialysis\n   .\n   # SLE: thought to be stable, but if active could be inducing renal\n   faiure\n   - will check C3 and C4 levels\n   # Afib with RVR: new onset [**8-4**], HR to 140s, may have been secondary to\n   quick correction of potassium with HD or fluid shifts. C/O chest pain\n   this AM.\n   - responds to dilt 10mg IV x 1, will give again if needed\n   - monitor lytes\n   - if reoccurs will consider anticoagulation/ASA therapy\n   - check CE\n   .\n   # HTN: Not on treatment as outpatient. Continues to be hypertensive to\n   170\ns systolic.\n   - hydral PRN\n   - continue amlodipine\n   - will monitor\n   .\n   # Anemia: Iron studies with high ferritin, high TIBC and normal iron.\n   Likely ACD and low epo state. Also may be secondary to SLE.\n   - consider EPO with HD\n   .\n   FEN: Management if lytes per dialysis and acute management of\n   hyperkalemia; renal diet; continue phoslo for elevated phos.\n   .\n   PPX: heparin SC\n   .\n   ACCESS: PICC, AV fistula\n   .\n   CODE: Full\n   .\n   CONTACT: Pt\n   .\n   DISPO: Possible call out\n   ICU Care\n   Nutrition: renal diet\n   Glycemic Control:\n   Lines:\n   PICC Line - [**2149-8-4**] 02:00 PM\n   Prophylaxis:\n   DVT: hep SQ\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU for now, likely can be called out later today if BP\n   stable\n"
+    },
+    {
+      "note_id": 266309,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 37,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "sinus rhythm"
+        }
+      ],
+      "text": "The patient is in normal sinus rhythm. There is moderate baseline artifact in\nlead V5. Tracing is within normal limits. Compared to the previous tracing #2\nno diagnostic interim change.\nTRACING #3\n\n"
+    },
+    {
+      "note_id": 266307,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 17,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Sinus bradycardia"
+        },
+        {
+          "begin": 199,
+          "end": 205,
+          "code": "R94.31",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal electrocardiogram [ECG] [EKG]",
+          "type": "Human",
+          "covered_text": "change"
+        },
+        {
+          "begin": 207,
+          "end": 214,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "TRACING"
+        }
+      ],
+      "text": "Sinus bradycardia, rate 57. Compared to tracing #1 no diagnostic interim\nchange. Compared to the previous tracing of [**2149-8-6**], other than the T wave\nflattening laterally, no diagnostic interim change.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 593735,
+      "category": "Physician",
+      "description": "Critical Care Note",
+      "annotations": [
+        {
+          "begin": 255,
+          "end": 258,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 260,
+          "end": 263,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "htn"
+        },
+        {
+          "begin": 265,
+          "end": 280,
+          "code": "E21.3",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperparathyroidism, unspecified",
+          "type": "Human",
+          "covered_text": "hyperthyroidism"
+        },
+        {
+          "begin": 291,
+          "end": 294,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 565,
+          "end": 584,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 623,
+          "end": 635,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia"
+        },
+        {
+          "begin": 1346,
+          "end": 1349,
+          "code": "M32.10",
+          "code_system": "ICD-10-CM",
+          "description": "Systemic lupus erythematosus, organ or system involvement unspecified",
+          "type": "Human",
+          "covered_text": "SLE"
+        },
+        {
+          "begin": 1431,
+          "end": 1450,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 1465,
+          "end": 1477,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia"
+        },
+        {
+          "begin": 1762,
+          "end": 1774,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia"
+        },
+        {
+          "begin": 1911,
+          "end": 1923,
+          "code": "E87.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperkalemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia"
+        }
+      ],
+      "text": "TITLE:\n   Critical Care Attending Admission Note\n   I was present with the ICU team for the key portions of the services\n   this PM and I agree with Dr.[**Name (NI) 8127**] detailed note. I would add\n   emphasize the following:\n   52 yo AA woman with h/o SLE, htn, hyperthyroidism and ESRD (SLE)\n   requiring renal txplnt 2 years ago. Has been maintained on tacrolimus\n   with unclear diligence with followup recently. Now presenting to [**Hospital1 1**]\n   ED with dysuria, abdominal, flank and bilateral lower back pain. In\n   [**Hospital1 1**] ED found to be in acute renal failure (Creatinine 14.7) with\n   significant hyperkalemia (6.7) that was initially treated with\n   kayexalate, insulin, D50 and calcium. No EKG changes or chest pain.\n   Transferred to MICU Green.\n   Currently in MICU, patient reports no chest pain or dyspnea. Moderate\n   bilateral lower back pain. HR 84, Sat 92-95 on 2L NC, RR 20, BP 170/74,\n   JVP difficult to assess, MM dry, lungs cta, RRR w/o rub, abd nontender\n   including over incision. No focal CVAT. Neuro no asterixis. Repeat K\n   7.6, Cr 13.5, WBC 3.5, HCT 24.7. Renal US and ABd CT without stone,\n   atrophic native kidney, some stranding around transplant\n   kidney/sigmoid. Repeat EKG w/o changes.\n   In summary, Ms [**Known lastname 8128**] is a complex 52 yo woman s/p kidney transplant\n   for ESRD/SLE 2 years ago now on tacrolimus with unclear compliance. She\n   is presenting with acute renal failure, acidosis and hyperkalemia and\n   our concern is for rejection vs infection (minimal symptoms of this).\n   We will check tacrolimus level, pulse with 500 mg daily prednisone on\n   top of baseline tacrolimus (per transplant renal) and consider graft\n   biopsy in near future. Will also need urgent treatment for hyperkalemia\n   with repeat kayexalate, D50, insulin, calcium and bicarbonate. We will\n   likely need to institute hemodialysis tonight given rising hyperkalemia\n   despite adequate therapy. Additional plan as per Dr.[**Name (NI) 8127**] detailed\n   note.\n   [**First Name11 (Name Pattern1) 322**] [**Last Name (NamePattern1) 4609**], MD\n   Total time: 45 minutes\n"
+    }
+  ]
+}

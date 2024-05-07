@@ -1,0 +1,76 @@
+{
+  "hadm_id": 196881,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 39833,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 267,
+          "end": 280,
+          "code": "437.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "Human",
+          "covered_text": "PICA aneurysm"
+        },
+        {
+          "begin": 526,
+          "end": 530,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 551,
+          "end": 565,
+          "code": "E878.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",
+          "type": "Human",
+          "covered_text": "adenoidectomy,"
+        }
+      ],
+      "text": "Admission Date:  [**2160-3-3**]              Discharge Date:   [**2160-3-4**]\n\nDate of Birth:  [**2107-1-29**]             Sex:   F\n\nService: NEUROSURGERY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 78**]\nChief Complaint:\nL PICA aneurysm\n\nMajor Surgical or Invasive Procedure:\n[**2160-3-3**]: Cerebral angiogram with coiling of the L PICA aneurysm\n\n\nHistory of Present Illness:\n53F elective admission for coiling of the L PICA aneurysm\n\nPast Medical History:\ncarpal tunnel syndrome, COPD, tonsillectomy, and adenoidectomy,\nright thumb pulley,\nbunionectomy of the right foot.\n\n\nPhysical Exam:\nPre-procedure:\nNonfocal exam\n\nPost-procedure:\nNonfocal exam\n\nBrief Hospital Course:\n53F elective admission for PICA aneurysm coiling. Post-angio she\nwas monitored in the ICU and extubated. Overnight she remained\nstable. On [**3-4**] her foley was removed and she ambulated\nindependently. She was discharged home on [**3-4**].\n\nMedications on Admission:\n-albuterol sulfate 90 mcg 1-2 Puffs Inhalation UP TO 7 TIMES A\nDAY\n-fluticasone-salmeterol 500-50 mcg/dose Disk One (1) Disk with\nDevice Inhalation [**Hospital1 **] (2 times a day).\n-sertraline 100mg PO DAILY (Daily).\n-tiotropium bromide 18 mcg Capsule, w/Inhalation Device One (1)\nCap Inhalation DAILY (Daily).\n-alprazolam 0.50 mg PO TID (3 times a day) as needed for\nanxiety.\n\n\nDischarge Medications:\n1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*6*\n2. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ6H (every 6 hours) as needed for pain .\nDisp:*60 Tablet(s)* Refills:*0*\n3. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every\n6 hours) as needed for pain fever.\n4. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\n1-2 Puffs Inhalation UP TO 7 TIMES A DAY  ().\n5. fluticasone-salmeterol 500-50 mcg/dose Disk with Device Sig:\nOne (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).\n6. sertraline 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n7. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:\nOne (1) Cap Inhalation DAILY (Daily).\n8. alprazolam 0.25 mg Tablet Sig: Two (2) Tablet PO TID (3 times\na day) as needed for anxiety.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nL PICA aneurysm\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nAngiogram with coiling\nMedications:\n??????\tTake Aspirin 325mg (enteric coated) once daily.\n??????\tContinue all other medications you were taking before surgery,\nunless otherwise directed\n??????\tYou make take Tylenol or prescribed pain medications for any\npost procedure pain or discomfort.\n\nWhat activities you can and cannot do:\n??????\tWhen you go home, you may walk and go up and down stairs.\n??????\tYou may shower (let the soapy water run over groin incision,\nrinse and pat dry)\n??????\tYour incision may be left uncovered, unless you have small\namounts of drainage from the wound, then place a dry dressing or\nband aid over the area that is draining, as needed\n??????\tNo heavy lifting, pushing or pulling (greater than 5 lbs) for\n1 week (to allow groin puncture to heal).\n??????\tAfter 1 week, you may resume sexual activity.\n??????\tAfter 1 week, gradually increase your activities and distance\nwalked as you can tolerate.\n??????\tNo driving until you are no longer taking pain medications\n\nWhat to report to office:\n??????\tChanges in vision (loss of vision, blurring, double vision,\nhalf vision)\n??????\tSlurring of speech or difficulty finding correct words to use\n??????\tSevere headache or worsening headache not controlled by pain\nmedication\n??????\tA sudden change in the ability to move or use your arm or leg\nor the ability to feel your arm or leg\n??????\tTrouble swallowing, breathing, or talking\n??????\tNumbness, coldness or pain in lower extremities\n??????\tTemperature greater than 101.5F for 24 hours\n??????\tNew or increased drainage from incision or white, yellow or\ngreen drainage from incisions\n??????\tBleeding from groin puncture site\n\n*SUDDEN, SEVERE BLEEDING OR SWELLING\n(Groin puncture site)\nLie down, keep leg straight and have someone apply firm pressure\nto area for 10 minutes. If bleeding stops, call our office. If\nbleeding does not stop, call 911 for transfer to closest\nEmergency Room!\n\n\nFollowup Instructions:\nPlease follow-up with Dr. [**First Name (STitle) **] in 4 weeks, you do not need\nimaging at that time. Please call [**Telephone/Fax (1) 4296**] to make this\nappointment.\n\n\n\nCompleted by:[**2160-3-4**]"
+    },
+    {
+      "note_id": 1179089,
+      "category": "Radiology",
+      "description": "EMBO TRANSCRANIAL",
+      "annotations": [
+        {
+          "begin": 1318,
+          "end": 1337,
+          "code": "39.76",
+          "code_system": "ICD-9-PCS",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "Coiling of aneurysm"
+        },
+        {
+          "begin": 2964,
+          "end": 3003,
+          "code": "88.48",
+          "code_system": "ICD-9-PCS",
+          "description": "Arteriography of femoral and other lower extremity arteries",
+          "type": "Human",
+          "covered_text": "right common femoral artery arteriogram"
+        },
+        {
+          "begin": 3193,
+          "end": 3226,
+          "code": "88.41",
+          "code_system": "ICD-9-PCS",
+          "description": "Arteriography of cerebral arteries",
+          "type": "Human",
+          "covered_text": "Left vertebral artery arteriogram"
+        }
+      ],
+      "text": "[**2160-3-3**] 1:46 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 20240**]\n Reason: Coiling of aneurysmAnesthesia has been book for [**3-3**] on wait\n  Contrast: OPTIRAY Amt: 100ML OPTI240; 70ML OPTI320\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 284**] EMBO TRANSCRANIAL               [**Numeric Identifier 287**] SEL CATH 2ND ORDER               *\n * -51 MULTI-PROCEDURE SAME DAY          [**Numeric Identifier 289**] VERT/CAROTID A-GRAM              *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 43**] TRANSCATH EMBO THERAPY           *\n * [**Numeric Identifier 822**] F/U TRANS CATH THERAPY                                                 *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  53 year old woman with known aneurysm\n REASON FOR THIS EXAMINATION:\n  Coiling of aneurysmAnesthesia has been book for [**3-3**] on waitlist\n ______________________________________________________________________________\n                                 FINAL REPORT\n DATE OF SERVICE:  [**2160-3-3**].\n\n REASON FOR EXAMINATION:  Coiling of aneurysm left PICA to prevent rupture.\n\n ATTENDING PHYSICIAN:  [**First Name8 (NamePattern2) **] [**Name11 (NameIs) **], MD\n\n ASSISTANT:  [**First Name4 (NamePattern1) 823**] [**Last Name (NamePattern1) 824**], NP\n\n PROCEDURE PERFORMED:  Left vertebral artery arteriogram and coil embolization\n of left PICA aneurysm with GDC Target coils.  Right common femoral artery\n arteriogram and Angio-Seal closure of right common femoral artery.\n\n ANESTHESIA:  General.\n\n DETAILS OF PROCEDURE:  The patient was brought to the angiography suite.\n Anesthesia was induced.  Following this, both groins were prepped and draped\n in a sterile fashion.  Access was gained to the right common femoral artery\n using a Seldinger technique and a 6 French vascular sheath was placed in the\n right common femoral artery leading up into the distal aorta. This was\n connected to a continuous saline flush.  The left vertebral artery was\n catheterized with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 586**] 2 catheter, under roadmapping guidance.  The\n [**Doctor Last Name 586**] 2 catheter was exchanged out over an exchange length 0.038 Glidewire\n and a 6 French Neuron catheter was placed in the left vertebral artery.\n Following this, the aneurysm was catheterized with an SL-10 microcatheter and\n microwire. Coiling was commenced with a 4 mm 360 UltraSoft Target coil\n followed by 3 mm 360 UltraSoft Target coil followed by 2 mm 360 UltraSoft\n Target coil.  Following this, the aneurysm was obliterated except for a very\n small residual at the neck, which had to be maintained to keep the patency of\n the PICA artery.\n\n We now performed a right common femoral artery arteriogram . Since the artery\n was small, the sheath was left in place to be taken out later rather than\n using an Angioseal device.\n The ACT was maintained around 230 for the procedure.\n\n FINDINGS:  Left vertebral artery arteriogram reveals a 4.8 x 7.8 mm aneurysm\n                                                             (Over)\n\n [**2160-3-3**] 1:46 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 20240**]\n Reason: Coiling of aneurysmAnesthesia has been book for [**3-3**] on wait\n  Contrast: OPTIRAY Amt: 100ML OPTI240; 70ML OPTI320\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n arising at the PICA origin, incorporating the origin of the PICA vessel.\n\n Left vertebral artery arteriogram status post coiling shows complete\n obliteration of the aneurysm with a very small residual neck.\n\n Right common femoral arteriogram shows a small right common femoral artery.\n\n IMPRESSION:  [**Known firstname **] [**Known lastname 20241**] underwent cerebral arteriography and coil embolization\n of a PICA aneurysm which was uneventful.\n\n\n\n"
+    }
+  ]
+}

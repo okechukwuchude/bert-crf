@@ -1,0 +1,131 @@
+{
+  "hadm_id": 142323,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 40230,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 346,
+          "end": 371,
+          "code": "02RF08Z",
+          "code_system": "ICD-10-PCS",
+          "description": "Replacement of Aortic Valve with Zooplastic Tissue, Open Approach",
+          "type": "Human",
+          "covered_text": "Aortic Vavlve Replacement"
+        },
+        {
+          "begin": 453,
+          "end": 509,
+          "code": "02100Z9",
+          "code_system": "ICD-10-PCS",
+          "description": "Bypass Coronary Artery, One Artery from Left Internal Mammary, Open Approach",
+          "type": "Human",
+          "covered_text": "Left internal mammary\nartery to Left anterior descending"
+        },
+        {
+          "begin": 511,
+          "end": 574,
+          "code": "021009W",
+          "code_system": "ICD-10-PCS",
+          "description": "Bypass Coronary Artery, One Artery from Aorta with Autologous Venous Tissue, Open Approach",
+          "type": "Human",
+          "covered_text": "Saphenouse vein graft to\nobtuse marginal)/reduction aortoplasty"
+        },
+        {
+          "begin": 995,
+          "end": 1007,
+          "code": "I13.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1008,
+          "end": 1035,
+          "code": "N18.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "chronic renal insufficiency"
+        },
+        {
+          "begin": 1058,
+          "end": 1088,
+          "code": "I50.22",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic systolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "chronic systolic heart failure"
+        },
+        {
+          "begin": 1408,
+          "end": 1432,
+          "code": "Z87.891",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of nicotine dependence",
+          "type": "Human",
+          "covered_text": "Tobacco:quit 8 years ago"
+        },
+        {
+          "begin": 7589,
+          "end": 7604,
+          "code": "I35.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic aortic (valve) stenosis",
+          "type": "Human",
+          "covered_text": "Aortic stenosis"
+        },
+        {
+          "begin": 7609,
+          "end": 7632,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "coronary artery disease"
+        },
+        {
+          "begin": 7729,
+          "end": 7739,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 7768,
+          "end": 7774,
+          "code": "J45.909",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified asthma, uncomplicated",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 7801,
+          "end": 7832,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "Gastroseophageal reflux disease"
+        },
+        {
+          "begin": 7833,
+          "end": 7853,
+          "code": "K27.9",
+          "code_system": "ICD-10-CM",
+          "description": "Peptic ulcer, site unspecified, unspecified as acute or chronic, without hemorrhage or perforation",
+          "type": "Human",
+          "covered_text": "Peptic ulcer disease"
+        }
+      ],
+      "text": "Admission Date:  [**2195-1-19**]              Discharge Date:   [**2195-1-26**]\n\nDate of Birth:  [**2123-9-28**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nShortness of breath\n\nMajor Surgical or Invasive Procedure:\n[**2195-1-19**] Aortic Vavlve Replacement (23mm [**Company 1543**] Mosaic Ultra\nporcine)/ Coronary artery bypass graft x2 (Left internal mammary\nartery to Left anterior descending, Saphenouse vein graft to\nobtuse marginal)/reduction aortoplasty\n\nHistory of Present Illness:\n71 year old female with hypertension began to notice significant\nshortness of breath toward the end of [**Month (only) **]/early [**Month (only) 359**]\n[**2194**] while on vacation. She was seen at a walk in clinic and\nprescribed inhalers with plans for follow up with her local MD.\nCardiac cath showed 2V CAD after echo showing aortic stenosis.\nReferred for surgery.\n\nPast Medical History:\nHypertension\nchronic renal insufficiency ( baseline creat 1.5)\nchronic systolic heart failure\nAortic stenosis\nDepressed LVEF\nDepression\nOsteoarthritis- right ankle\nAsthma\nKidney stones s/p surgery\nGastroesophageal reflux disease\nPeptic ulcer disease\nPast Surgical History:\ns/p benign Left breast lumpectomy\nLaser surgery of right eye x 2\nRemote back surgery\n\nSocial History:\nLives with:husband\nOccupation:retired\nTobacco:quit 8 years ago, 1-2ppdx 20years\nETOH:Patient had been drinking 3 glasses of wine and one beer a\nday. She has had none in 3 weeks.\n\nFamily History:\nMother and father died from a CVA, brother had CVA\n\nPhysical Exam:\nPulse:66 Resp:14  O2 sat:97/RA\nB/P  Right:104/60    Left:108/66\nHeight:5'     Weight:131 lbs\n\nGeneral:\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur II/VI SEM\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]\nExtremities: Warm [x], well-perfused [x]  Edema Varicosities:\nNone [x] R pretibial incision\nNeuro: Grossly intact\nPulses:\nFemoral      Right:  dressing Left: +2\nDP           Right:  +2 Left: +2\nPT           [**Name (NI) 167**]:  +2 Left: +2\nRadial       Right:  +2 Left: +2\n\nCarotid Bruit        Right/Left: transmitted murmur\n\nPertinent Results:\n[**2195-1-19**] Echo: PRE-CPB:1. The left atrium is mildly dilated. No\nthrombus is seen in the left atrial appendage. 2. No atrial\nseptal defect is seen by 2D or color Doppler. 3. There is\nmoderate symmetric left ventricular hypertrophy. The left\nventricular cavity size is top normal/borderline dilated. 4.\nRight ventricular chamber size is normal. with normal free wall\ncontractility. 5. The ascending aorta is moderately dilated. The\ndescending thoracic aorta is mildly dilated. There are simple\natheroma in the descending thoracic aorta. 6. The aortic valve\nis bicuspid. The aortic valve leaflets are severely\nthickened/deformed. There is critical aortic valve stenosis\n(valve area <0.8cm2). Mild (1+) aortic regurgitation is seen.\nThe aortic regurgitation jet is eccentric, directed toward the\nanterior mitral leaflet. 7. The mitral valve leaflets are mildly\nthickened. Mild (1+) mitral regurgitation is seen. 8. There is a\ntrivial/physiologic pericardial effusion. Dr. [**Last Name (STitle) **] was\nnotified in person of the results. POST-CPB: On infusion of\nphenylephrine briefly. AV pacing, then a pacing. Well-seated\nbioprosthetic valve in the aortic position. Trivial central AI,\ngradient now 11 peak, 6 mean. Preserved biventricular systolic\nfunction with LVEF now 40 %. Aortic diameter now measures 3.8 in\nthe ascending aorta. Contour of the aorta is preserved post\ndecannulation. I certify that I was present for this procedure\nin compliance with HCFA regulations.\n\n[**2195-1-19**] 11:25AM BLOOD WBC-7.8 RBC-2.69*# Hgb-8.3*# Hct-24.0*#\nMCV-89 MCH-30.7 MCHC-34.4 RDW-14.2 Plt Ct-185\n[**2195-1-26**] 04:11AM BLOOD WBC-8.2 RBC-3.34* Hgb-9.9* Hct-30.1*\nMCV-90 MCH-29.8 MCHC-33.0 RDW-14.3 Plt Ct-207\n[**2195-1-19**] 11:25AM BLOOD PT-13.8* PTT-48.3* INR(PT)-1.2*\n[**2195-1-19**] 10:39PM BLOOD PT-12.4 PTT-38.7* INR(PT)-1.0\n[**2195-1-19**] 12:28PM BLOOD UreaN-38* Creat-1.5* Na-137 K-4.6 Cl-108\nHCO3-25 AnGap-9\n[**2195-1-26**] 04:11AM BLOOD Glucose-117* UreaN-33* Creat-1.4* Na-142\nK-4.4 Cl-101 HCO3-33* AnGap-12\n[**2195-1-19**] 10:41PM BLOOD Mg-3.1*\n[**2195-1-22**] 03:13AM BLOOD Calcium-9.1 Phos-3.5 Mg-1.8\n\nBrief Hospital Course:\nMrs. [**Known lastname 1968**] was a same day admit and on [**1-19**] underwent surgery\nwith Dr. [**Last Name (STitle) **]. Please see operative note for surgical\ndetails. Following surgery she was transferred to the CVICU in\nstable condition on titrated phenylephrine and propofol drips.\nLater that day she was weaned from sedation, awoke\nneurologically intact and extubated. She was weaned from drips\nover next 2 days. PICC placed for access on post-op day two.\nInitially post-op she was confused but cleared slowly over\ncouple days. Chest tubes and pacing wires were removed per\nprotocol. She was transferred to the floor on post-op day three\nto begin increasing her activity level. Gently diuresed toward\nher preop weight and Beta blockade titrated. She continued to\nmake good progress and was cleared for discharge to [**Hospital **] in [**Hospital1 3597**] NH via ambulance for the safest method of\ntransport on post-op day seven with the appropriate medications\nand follow-up appointments.\n\nMedications on Admission:\nATENOLOL -  (Prescribed by Other Provider) - 25 mg Tablet - 1\nTablet(s) by mouth every morning\nFLUTICASONE-SALMETEROL [ADVAIR DISKUS] -  (Prescribed by Other\nProvider) - 250 mcg-50 mcg/Dose Disk with Device -  twice a day\nFUROSEMIDE -  (Prescribed by Other Provider) - 20 mg Tablet - 1\nTablet(s) by mouth every morning\nPERPHENAZINE-AMITRIPTYLINE -  (Prescribed by Other Provider) - 2\nmg-25 mg Tablet - 1 Tablet(s) by mouth every evening\n\nMedications - OTC\nPYRIDOXINE [VITAMIN B-6] -  (Prescribed by Other Provider) - 100\nmg Tablet - 1 Tablet(s) by mouth daily\nVITAMIN E -  (Prescribed by Other Provider) - 400 unit Capsule -\n1 Capsule(s) by mouth daily\n\nDischarge Medications:\n1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day) for 1 months.\n2. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n3. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n5. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n6. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n7. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n8. pyridoxine 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n9. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:\nOne (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).\n10. vitamin E 400 unit Capsule Sig: One (1) Capsule PO DAILY\n(Daily).\n11. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n12. perphenazine 2 mg Tablet Sig: One (1) Tablet PO QHS (once a\nday (at bedtime)).\n13. amitriptyline 25 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime).\n14. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n15. metoprolol succinate 100 mg Tablet Sustained Release 24 hr\nSig: 1.5 Tablet Sustained Release 24 hrs PO DAILY (Daily).\n16. potassium chloride 20 mEq Tab Sust.Rel. Particle/Crystal\nSig: One (1) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily).\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 7665**]\n\nDischarge Diagnosis:\nAortic stenosis and coronary artery disease s/p Aortic valve\nreplacement/coronary artery bypass graft x2\nPast medical history:\nHypertension\nDepression\nOsteoarthritis- right ankle\nAsthma\nKidney stones s/p surgery\nGastroseophageal reflux disease\nPeptic ulcer disease\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with oral analgesics\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Right/Left - healing well, no erythema or drainage.\nNo Edema\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**Last Name (STitle) **]  [**2195-2-19**] 1:00 [**Telephone/Fax (1) 170**]\n\nPlaese call your\nPCP/cardiologist:Dr. [**Last Name (STitle) 32668**] to schedule an appointment to\nbe seen in [**5-5**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\nCompleted by:[**2195-1-26**]"
+    }
+  ]
+}

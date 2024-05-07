@@ -1,0 +1,176 @@
+{
+  "hadm_id": 138984,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 40904,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 212,
+          "end": 231,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "Respiratory failure"
+        },
+        {
+          "begin": 364,
+          "end": 367,
+          "code": "414.00",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of vessel, native or graft",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 368,
+          "end": 376,
+          "code": "V45.81",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical aortocoronary bypass status",
+          "type": "Human",
+          "covered_text": "s/p CABG"
+        },
+        {
+          "begin": 378,
+          "end": 381,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 1003,
+          "end": 1017,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonitis due to inhalation of food or vomitus",
+          "type": "Human",
+          "covered_text": "aspiration PNA"
+        },
+        {
+          "begin": 1629,
+          "end": 1633,
+          "code": "V45.81",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical aortocoronary bypass status",
+          "type": "Human",
+          "covered_text": "CABG"
+        },
+        {
+          "begin": 1638,
+          "end": 1642,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 5531,
+          "end": 5558,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "hypoxic respiratory failure"
+        },
+        {
+          "begin": 5588,
+          "end": 5622,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonitis due to inhalation of food or vomitus",
+          "type": "Human",
+          "covered_text": "CAP with possible aspiration event"
+        },
+        {
+          "begin": 5754,
+          "end": 5781,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "Hypoxic respiratory failure"
+        },
+        {
+          "begin": 6012,
+          "end": 6031,
+          "code": "530.3",
+          "code_system": "ICD-9-CM",
+          "description": "Stricture and stenosis of esophagus",
+          "type": "Human",
+          "covered_text": "esophageal stenosis"
+        },
+        {
+          "begin": 6033,
+          "end": 6037,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 6344,
+          "end": 6348,
+          "code": "93.90",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous positive airway pressure [CPAP]",
+          "type": "MapType.APPROX",
+          "covered_text": "CPAP"
+        },
+        {
+          "begin": 6776,
+          "end": 6793,
+          "code": "396.3",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve insufficiency and aortic valve insufficiency",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "mild MR, mild AS,"
+        },
+        {
+          "begin": 7274,
+          "end": 7285,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 8565,
+          "end": 8587,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "remote smoking history"
+        },
+        {
+          "begin": 8738,
+          "end": 8752,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 10724,
+          "end": 10733,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonitis due to inhalation of food or vomitus",
+          "type": "Human",
+          "covered_text": "Pneumonia"
+        }
+      ],
+      "text": "Admission Date:  [**2152-4-19**]              Discharge Date:   [**2152-4-23**]\n\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 2186**]\nChief Complaint:\nRespiratory failure\n\nMajor Surgical or Invasive Procedure:\nNone\n\n\nHistory of Present Illness:\nMr. [**Known lastname **] is a 78 yo male with history of CAD s/p CABG, CHF,\n? COPD presents from home with acute shortness of breath. He\nreports drinking ETOH tonight, but denies aspiration. The\npatient was found by EMS to not be able to talk in complete\nsentences. His BPs were 220s/140s. He received nitro spray x 4\nenroute with BiPAP with mild improvement.\n.\nIn the ED, initial VS were 138 139/126 28 97% on CPAP. Initially\nhe was thought to have CHF exacerbation, so was treated with\nmorphine, nitro drip. He then was found to have a rectal temp of\n103.6 and CXR returned with large RLL infiltrate. Nitro drip was\nstopped and he was given 1300mg PR tylenol. He was then treated\nfor suspected aspiration PNA with vanc/levofloxacin/flagyl. ETOH\nnegative despite report of ETOH use tonight. He was maintained\non CPAP 10/5 now with FiO2 100%, satting 100%. After report was\ngiven, attempt to titrate off non-invasive mechanical\nventilation was attempted given concern for autopeep with BPs in\nthe 80s. He was placed on NRB with adequate saturation, however\nfelt more dyspnea, thus non-invasive was restarted. He was given\na total of 2L NS for fluid resuscitation. 2 PIVs were placed.\n.\nUpon arrival to the ICU, the patient reports improvement in\nsymptoms. Does not remember the events of the night.\n\nPast Medical History:\nCABG\nCHF\nCOPD\ntwo recent PNA infections\n\n\nSocial History:\n- Home: Wife lives in a NH in [**Last Name (un) **]. Has two sons one in FL,\none in [**Location (un) **] is [**Name (NI) 86**] PD.\n- Tobacco: denies\n- Alcohol: +etoh\n- Illicits: denies\n\n\nFamily History:\nNC\n\nPhysical Exam:\nADMISSION EXAM\nGeneral: Alert, mildly confused, slow to answer questions in no\nrespiratory distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Rhonchi BL worse on R than l, expiratory wheezes worse on\nleft than right\nCV: tachycardic, regular rhythm, normal S1 + S2, no murmurs,\nrubs, gallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n.\nDISCHARGE EXAM\nVitals: 99.3 168/97 78 20 94%2L\nGeneral: NAD\nHEENT: NC/AT, EOMI, no pallor or icterus, MMM\nNeck: no JVD\nCV: regular, nml S1/S2,\nPulm: quiet bibasilar crackles, R>L, no wheezing\nAbdom: obese, soft, NT, NABS\nExtrem: WWP, 1+ pedal pulses, no edema\n\nPertinent Results:\nAdmission labs:\n===============\n[**2152-4-19**] 05:11AM BLOOD WBC-9.1 RBC-5.09 Hgb-15.8 Hct-47.1 MCV-93\nMCH-31.0 MCHC-33.6 RDW-14.1 Plt Ct-189\n[**2152-4-19**] 05:11AM BLOOD Neuts-90.8* Lymphs-5.4* Monos-1.8*\nEos-1.3 Baso-0.8\n[**2152-4-19**] 05:11AM BLOOD PT-11.0 PTT-21.3* INR(PT)-0.9\n[**2152-4-19**] 05:11AM BLOOD Fibrino-436*\n[**2152-4-19**] 05:11AM BLOOD Glucose-147* UreaN-17 Creat-0.9 Na-135\nK-5.6* Cl-97 HCO3-29 AnGap-15\n[**2152-4-19**] 05:11AM BLOOD ALT-15 AST-36 LD(LDH)-457* CK(CPK)-86\nAlkPhos-76 TotBili-0.8\n[**2152-4-19**] 05:11AM BLOOD Lipase-34\n[**2152-4-19**] 05:11AM BLOOD CK-MB-3 proBNP-822\n[**2152-4-19**] 05:11AM BLOOD cTropnT-<0.01\n[**2152-4-19**] 09:22AM BLOOD CK-MB-3 cTropnT-0.03*\n[**2152-4-19**] 05:45PM BLOOD CK-MB-4 cTropnT-0.01\n[**2152-4-19**] 05:11AM BLOOD Calcium-9.1 Phos-4.3 Mg-1.8\n[**2152-4-19**] 05:11AM BLOOD Ethanol-NEG\n[**2152-4-19**] 05:56PM BLOOD Lactate-1.8\n.\nDischarge labs:\n===============\n[**2152-4-23**] 06:40AM BLOOD WBC-4.4 RBC-4.12* Hgb-12.9* Hct-37.6*\nMCV-91 MCH-31.3 MCHC-34.3 RDW-14.0 Plt Ct-195\n[**2152-4-23**] 06:40AM BLOOD Glucose-98 UreaN-17 Creat-0.9 Na-137\nK-4.0 Cl-99 HCO3-31 AnGap-11\n[**2152-4-23**] 06:40AM BLOOD Calcium-9.0 Phos-3.8 Mg-1.9\n.\nImaging:\n========\nTTE: The left atrium is moderately dilated. The left atrium is\nelongated. The estimated right atrial pressure is 0-5 mmHg.\nThere is mild symmetric left ventricular hypertrophy with normal\ncavity size. There is mild regional left ventricular systolic\ndysfunction with hypokinesis of the basal-mid infero-lateral\nwalls. Overall left ventricular systolic function is low normal\n(LVEF 50-55%). Right ventricular chamber size and free wall\nmotion are normal. The aortic valve leaflets are mildly\nthickened (?#). There is mild aortic valve stenosis (valve area\n1.2-1.9cm2). There is no mitral valve prolapse. An eccentric,\nposteriorly directed jet of Mild to moderate ([**12-12**]+) mitral\nregurgitation is seen without clear evidence of mitral valve\nprolapse or significant anterior mitral leaflet tethering. There\nis mild pulmonary artery systolic hypertension. There is no\npericardial effusion.\nIMPRESSION: Mild symmetric left ventricular hypertrophy with\nmild focal LV systolic dysfunction c/w CAD. Mild aortic\nstenosis. Mild-moderate mitral regurgitation.\n.\nCXR:\n1. Opacification at the right base concerning for aspiration\npneumonia.\n2. Diffuse haziness in the right lung likely due to asymmetric\nedema, particularly as the patient was found lying on his right\nside for a prolonged period of time.\n.\nVIDEO OROPHARYNGEAL SWALLOW:\n1. Gross aspiration seen with thin barium and penetration seen\nwith\nnectar-thickened barium.\n\nBrief Hospital Course:\nBRIEF HOSPITAL COURSE:\nMr. [**Known lastname **] is an 87y/o gentleman with history of CAD s/p CABG,\nCHF who was admitted to the MICU for hypoxic respiratory failure\nthat was likely secondary to CAP with possible aspiration event.\nHis respiratory status was stable, he was treated with\nantibiotics, and he was discharged home.\n.\nACTIVE ISSUES:\n==============\n# Hypoxic respiratory failure: resolved.\nEtiology was likely multifactorial due to aspiration vs\ncommunity acquired PNA with component of flash pulmonary edema.\nPatient does have a history of recurrent aspiration pneumonias\nwhich were thought to be due to his esophageal stenosis, GERD,\nand nocturnal reflux. Aspiration was seen on video swallow.\nIn the ED, he was treated with morphine and nitro drip for a CHF\nexacerbation and then found to have temp of 103.6 rectally.\nNitro drip was stopped and he was treated with vanco,\nlevofloxacin, and flagyl for aspiration PNA. He was maintained\non CPAP and transferred to the MCIU on a non-rebreather with O2\nsats 93%. In the MICU, he was changed to azithromycin and\nceftriaxone and improved overnight to breathing comfortably on\nroom air. His legionella was negative and sputum sample was\ncontaminated. Because the patient woke up in the early morning\nwith acute dyspnea and had elevated BP on admission, flash\npulmonary edema was a concern as well and TTE was done which\nshowed mild MR, mild AS, mild focal LV systolic [**Last Name (LF) 20559**], [**First Name3 (LF) **]\n50-55% with an eccentric, posteriorly directed jet of mild to\nmoderate MR. This likely explains the unilateral pleural\neffusion. For his pneumonia likely due to aspiration, patient\nwas changed from IV antibiotics to PO augmentin.  He was\ndischarged home with plans to complete a course of PO Augmentin.\n Was counseled about modified diet to prevent aspiration events.\n He will follow up with his PCP.\n.\n# Hypotension:  Resolved.\nWas hypertensive per EMS which was treated with morphine, nitro\ngiven in the setting of SIRS/sepsis.  Fluid resuscitated with 2L\nIVF in the ED. Patient likely flashed in setting of hypertension\nduring REM sleep prior to admission. He remained normotensive in\nthe MICU and his carvedilol and lisinopril were restarted at\nhome doses.  His BP was reasonably controlled on the medical\nfloor as well.  His hypertension regimen was not adjusted; he\nwill f/u with his PCP after discharge.\n.\n# CHF: EF 50-55% on TTE this admission. As above, patient likely\nhad flash pulmonary edema in setting of hypertension prior to\nadmission, in addition to pneumonia. He had a unilateral pleural\neffusion, but did not appear to be fluid overloaded on exam. He\nwas not diuresed and restarted on his home carvedilol and\nlisinopril.\n.\nINACTIVE ISSUES\n.\n# CAD s/p 2 CABGs and AVR in [**1-19**]: stable.\nThere did not appear to be a cardiac etiology to patient's\nrespiratory distress and he was ruled out for MI with serial\nenzymes. He does take plavix though it is unclear for what\nreason. He has not taken coumadin so his AVR is likely to be\nbioprosthetic. He was continued on aspirin and plavix and was\ndischarged with instructions to follow up with his PCP.\n.\n# COPD: stable.\nPatient has remote smoking history and currently takes advair\ndiskuk and porair at home. He was given nebulizers throughout\nhospitalization though no evidence of COPD exacerbation.\n.\n# Hyperlipidemia: stable.\nHe was continued on home statin.\n.\n# GERD: stable.\nReflux likely contributes to his aspiration.  He was continued\non home omeprazole.\n.\nTRANSITION OF CARE:\n===================\n# Labs pending at discharge: none.\n# Follow-up: Patient was instructed to follow up with his PCP.\n# Communication: Patient and son/HCP [**Name (NI) **]\n# Emergency Contact: [**Name (NI) **] [**Name (NI) **] (son) [**Telephone/Fax (1) 89317**]\n# Code: Full Code\n\nMedications on Admission:\nCarvedilol 3.125mg [**Hospital1 **]\nLisinopril 2.5mg daily\nPlavix 75mg daily\nSimvastatin 20mg qhs\nOmperazole 20mg daily\nAdvair 500-50mcg/dose 1 puff [**Hospital1 **]\nproair HFA 108 mcg/act 2 puffs every 4hrs prn\nRobaxin 500mg 1 tab QID\nNeurontin 300mg TID\nPercoset 5-325mg 1 tab q6hr prn\n\n\nDischarge Medications:\n1. carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n2. lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).\n3. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n6. fluticasone-salmeterol 500-50 mcg/dose Disk with Device Sig:\nOne (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).\nDisp:*1 Disk with Device(s)* Refills:*2*\n7. ProAir HFA 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2)\npuffs Inhalation every four (4) hours as needed for shortness of\nbreath or wheezing.\nDisp:*1 inhaler* Refills:*0*\n8. Robaxin 500 mg Tablet Sig: One (1) Tablet PO four times a\nday.\n9. gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3\ntimes a day).\n10. Percocet 5-325 mg Tablet Sig: One (1) Tablet PO every six\n(6) hours as needed for pain.\n11. amoxicillin-pot clavulanate 875-125 mg Tablet Sig: One (1)\nTablet PO BID (2 times a day) for 5 days: To be taken through\n[**4-27**].\nDisp:*10 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPneumonia\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nMr. [**Known lastname **],\nYou were admitted with difficulty breathing and were found to\nhave a pneumonia which we are treating with antibiotics.\n.\nWe made the following changes to your medications:\n- STARTED Augmentin 850mg twice daily to be taken through\n[**2152-4-27**]\n\nFollowup Instructions:\nPlease call your primary care doctor BROWN,[**Doctor First Name **]\n[**Telephone/Fax (1) 37165**] to schedule a follow up appointment within the next\n1-2 weeks.\n\n\n\n"
+    }
+  ]
+}

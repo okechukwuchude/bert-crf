@@ -1,0 +1,379 @@
+{
+  "hadm_id": 103715,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 296497,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 14,
+          "end": 36,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Prolonged P-R interval"
+        },
+        {
+          "begin": 38,
+          "end": 89,
+          "code": "794.31",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+          "type": "MapType.EXACT",
+          "covered_text": "Non-specific inferior and lateral\nST-T wave changes"
+        }
+      ],
+      "text": "Sinus rhythm. Prolonged P-R interval. Non-specific inferior and lateral\nST-T wave changes. No previous tracing available for comparison.\n\n"
+    },
+    {
+      "note_id": 1147395,
+      "category": "Radiology",
+      "description": "DUPLEX DOPP ABD/PEL",
+      "annotations": [
+        {
+          "begin": 884,
+          "end": 903,
+          "code": "789.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatomegaly",
+          "type": "MapType.APPROX",
+          "covered_text": "tender hepatomegaly"
+        },
+        {
+          "begin": 908,
+          "end": 911,
+          "code": "578.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hemorrhage of gastrointestinal tract, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "GIB"
+        },
+        {
+          "begin": 1150,
+          "end": 1204,
+          "code": "793.4",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal findings on radiological and other examination of gastrointestinal tract",
+          "type": "MapType.APPROX",
+          "covered_text": "1.3-cm predominantly hypoechoic lesion of the pancreas"
+        }
+      ],
+      "text": "examination.\n PFI VERSION #2 OXZa WED [**2186-7-26**] 1:43 AM\n  1.3-cm hypoechoic cystic lesion of the pancreas.  Dedicated CT of pancreas\n  recommended for further evaluation.                                           Page: 2\n\n [**Known lastname 78333**],[**Known firstname **]                   F 63 ([**2122-12-25**])                      [**Medical Record Number 78334**]\n [**Last Name (LF) 1353**],[**First Name3 (LF) 1354**] M.           MED [**Hospital Unit Name 472**]                   [**2186-7-25**]  5:44 PM\n LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT; DUPLEX DOPP ABD/PELClip # [**Telephone/Fax (1) 78335**]\n Reason: evaluate liver size, portal flow, portal pressure, gallbladd\n Admitting Diagnosis: BRIGHT RED BLOOD PER RECTUM\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  63 year old woman with tender hepatomegaly and GIB\n REASON FOR THIS EXAMINATION:\n  evaluate liver size, portal flow, portal pressure, gallbladder, and spleen size\n ______________________________________________________________________________\n                                  PFI REPORT\n 1.3-cm predominantly hypoechoic lesion of the pancreas.  Dedicated CT of\n pancreas recommended for further evaluation.\n\n"
+    },
+    {
+      "note_id": 1147394,
+      "category": "Radiology",
+      "description": "P LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT",
+      "annotations": [
+        {
+          "begin": 388,
+          "end": 407,
+          "code": "789.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatomegaly",
+          "type": "MapType.APPROX",
+          "covered_text": "tender hepatomegaly"
+        },
+        {
+          "begin": 412,
+          "end": 415,
+          "code": "578.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hemorrhage of gastrointestinal tract, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "GIB"
+        },
+        {
+          "begin": 683,
+          "end": 737,
+          "code": "793.4",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal findings on radiological and other examination of gastrointestinal tract",
+          "type": "MapType.APPROX",
+          "covered_text": "1.3-cm predominantly hypoechoic lesion of the pancreas"
+        },
+        {
+          "begin": 1252,
+          "end": 1271,
+          "code": "789.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatomegaly",
+          "type": "MapType.APPROX",
+          "covered_text": "Tender hepatomegaly"
+        },
+        {
+          "begin": 1276,
+          "end": 1284,
+          "code": "578.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hemorrhage of gastrointestinal tract, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "GI bleed"
+        },
+        {
+          "begin": 1306,
+          "end": 1326,
+          "code": "76705",
+          "code_system": "CPT",
+          "description": "Ultrasound, abdominal, real time with image documentation; limited (eg, single organ, quadrant, follow-up)",
+          "type": "Human",
+          "covered_text": "ABDOMINAL ULTRASOUND"
+        },
+        {
+          "begin": 1921,
+          "end": 1975,
+          "code": "793.4",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal findings on radiological and other examination of gastrointestinal tract",
+          "type": "MapType.APPROX",
+          "covered_text": "1.3-cm predominantly hypoechoic lesion of the pancreas"
+        }
+      ],
+      "text": "[**2186-7-25**] 5:44 PM\n LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT; DUPLEX DOPP ABD/PELClip # [**Telephone/Fax (1) 78335**]\n Reason: evaluate liver size, portal flow, portal pressure, gallbladd\n Admitting Diagnosis: BRIGHT RED BLOOD PER RECTUM\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  63 year old woman with tender hepatomegaly and GIB\n REASON FOR THIS EXAMINATION:\n  evaluate liver size, portal flow, portal pressure, gallbladder, and spleen size\n ______________________________________________________________________________\n PROVISIONAL FINDINGS IMPRESSION (PFI): OXZa WED [**2186-7-26**] 1:45 AM\n  1.3-cm predominantly hypoechoic lesion of the pancreas.  Dedicated CT of\n  pancreas recommended for further evaluation.\n PFI VERSION #1 OXZa TUE [**2186-7-25**] 8:05 PM\n  1.3-cm hypoechoic cystic lesion of the pancreas.  Otherwise, normal ultrasound\n  examination.\n PFI VERSION #2 OXZa WED [**2186-7-26**] 1:43 AM\n  1.3-cm hypoechoic cystic lesion of the pancreas.  Dedicated CT of pancreas\n  recommended for further evaluation.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  Tender hepatomegaly and GI bleed.\n\n No comparisons.\n\n ABDOMINAL ULTRASOUND:\n\n Normal liver echogenicity and contour with no focal liver lesions seen.  The\n portal vein is patent with hepatopetal flow.  The gallbladder is nondistended\n without evidence of cholelithiasis.  No ascites is seen.  No biliary dilation\n is seen.  CBD measures up to 5 mm.\n\n Within the pancreatic head/neck, a 1.3 x 0.6 x 0.6 cm predominantly hypoechoic\n lesion is seen.  No internal flow is seen within the lesion.  Limited views of\n the right kidney are unremarkable.  Extensive calcified plaque is seen within\n the abdominal aorta. The spleen is not enlarged measuring 7 cm.\n\n IMPRESSION:  1.3-cm predominantly hypoechoic lesion of the pancreas.\n\n Though likely benign and possibly sequellae of processes such as pancreatitis,\n dedicated MRCP (on a nonemergent basis) of the pancreas recommended for\n further evaluation.\n\n"
+    },
+    {
+      "note_id": 1147433,
+      "category": "Radiology",
+      "description": "CTA ABD W&W/O C & RECONS",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 78,
+          "code": "74174",
+          "code_system": "CPT",
+          "description": "Computed tomographic angiography, abdomen and pelvis, with contrast material(s), including noncontrast images, if performed, and image postprocessing",
+          "type": "Human",
+          "covered_text": "CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS"
+        },
+        {
+          "begin": 435,
+          "end": 450,
+          "code": "V45.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other postsurgical status",
+          "type": "MapType.APPROX",
+          "covered_text": "s/p polypectomy"
+        },
+        {
+          "begin": 460,
+          "end": 464,
+          "code": "578.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hemorrhage of gastrointestinal tract, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "LGIB"
+        },
+        {
+          "begin": 1021,
+          "end": 1052,
+          "code": "998.11",
+          "code_system": "ICD-9-CM",
+          "description": "Hemorrhage complicating a procedure",
+          "type": "MapType.APPROX",
+          "covered_text": "Lower GI bleed post polypectomy"
+        },
+        {
+          "begin": 1760,
+          "end": 1787,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Bibasilar dependent changes"
+        },
+        {
+          "begin": 1833,
+          "end": 1858,
+          "code": "V43.82",
+          "code_system": "ICD-9-CM",
+          "description": "Breast replaced by other means",
+          "type": "MapType.APPROX",
+          "covered_text": "Bilateral breast implants"
+        }
+      ],
+      "text": "[**2186-7-26**] 3:50 AM\n CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 81718**]\n Reason: CT-A for lower GI bleed to plan angiography for embolization\n Admitting Diagnosis: BRIGHT RED BLOOD PER RECTUM\n Field of view: 40 Contrast: OPTIRAY Amt: 150\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  63 year old woman s/p polypectomy now with LGIB\n REASON FOR THIS EXAMINATION:\n  CT-A for lower GI bleed to plan angiography for embolization\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: EAGg WED [**2186-7-26**] 5:07 AM\n  No acute intra-abd or pelvic abnl. Patent mesenteric vasculature and no e/o\n  active extravasation.\n ______________________________________________________________________________\n                                 FINAL REPORT\n CT OF THE ABDOMEN AND PELVIS WITHOUT AND WITH IV CONTRAST\n\n INDICATION: Lower GI bleed post polypectomy.\n\n TECHNIQUE: Multiphasic CT of the abdomen and pelvis was performed before and\n after IV contrast.  150 cc of Optiray nonionic contrast was administered\n without complications.\n\n COMPARISONS:  Abdominal ultrasound performed 10 hours previously.\n\n FINDINGS:\n\n CTA: There is mild narrowing at the origins of the SMA and celiac axis, but\n with good filling of the vessels more distally.  Both renal arteries appear\n widely patent. Moderate vascular calcifications of the abdominal aorta are\n evident. Assessment of the large bowel prior to and after the administration\n of IV contrast demonstrates no areas of suspicious endoluminal contrast\n extravasation.\n\n CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  Bibasilar dependent changes,\n consistent with atelectasis, are present.  Bilateral breast implants are\n present.\n\n The liver, gallbladder, pancreas, adrenal glands, and spleen appear\n unremarkable.  Within the pancreas are two hypodense lesions, one at the neck\n just anterior to the SMV measuring approximately 6 x 14 mm, and the other in\n the pancreatic tail measuring approximately 5 mm, both of which are hypodense\n and probably fluid attenuation.  There is no significant abdominal free fluid\n or adenopathy.\n\n CT OF THE PELVIS WITHOUT AND WITH IV CONTRAST:  Uterus and adnexal structures\n and large and small bowel loops appear grossly unremarkable.  As noted\n previously, there is no overt contrast extravasation within large bowel loops.\n Bladder is within normal limits.  No pelvic free fluid or lymphadenopathy.\n\n Examination of osseous structures does not show lytic or sclerotic lesions of\n                                                             (Over)\n\n [**2186-7-26**] 3:50 AM\n CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 81718**]\n Reason: CT-A for lower GI bleed to plan angiography for embolization\n Admitting Diagnosis: BRIGHT RED BLOOD PER RECTUM\n Field of view: 40 Contrast: OPTIRAY Amt: 150\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n concern for malignancy.\n\n Degenerative changes at the disc space of L5-S1 are noted with loss of disc\n space and some vacuum phenomenon.  Mild disc space narrowing is also seen at\n the lower thoracic levels.\n\n 3D MIP and VR images created in the advanced imaging lab were used to assess\n vascular structures.\n\n IMPRESSION:\n\n 1.  No CT evidence of active endoluminal contrast extravasation within the\n large bowel.\n\n 2.  Low-density foci within the pancreas, consistent with cystic foci.\n Differential of these include pancreatic cysts, pseudocysts, IPMN.  Given the\n lack of enhancement on these images, these cystic lesions are likely to be\n benign, but suggest MRCP in [**6-3**] monthsfor assessment of stability and for\n further characterization.\n\n"
+    },
+    {
+      "note_id": 50969,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 455,
+          "end": 458,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 460,
+          "end": 463,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 542,
+          "end": 545,
+          "code": "786.05",
+          "code_system": "ICD-9-CM",
+          "description": "Shortness of breath",
+          "type": "MapType.EXACT",
+          "covered_text": "DOE"
+        },
+        {
+          "begin": 563,
+          "end": 570,
+          "code": "780.79",
+          "code_system": "ICD-9-CM",
+          "description": "Other malaise and fatigue",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "malaise"
+        },
+        {
+          "begin": 1218,
+          "end": 1226,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "description": "Diarrhea",
+          "type": "MapType.APPROX",
+          "covered_text": "diarrhea"
+        },
+        {
+          "begin": 1807,
+          "end": 1812,
+          "code": "780.4",
+          "code_system": "ICD-9-CM",
+          "description": "Dizziness and giddiness",
+          "type": "MapType.EXACT",
+          "covered_text": "dizzy"
+        },
+        {
+          "begin": 3148,
+          "end": 3156,
+          "code": "V13.89",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.APPROX",
+          "covered_text": "DCIS s/p"
+        },
+        {
+          "begin": 3157,
+          "end": 3167,
+          "code": "V45.71",
+          "code_system": "ICD-9-CM",
+          "description": "Acquired absence of breast",
+          "type": "MapType.APPROX",
+          "covered_text": "mastectomy"
+        },
+        {
+          "begin": 3170,
+          "end": 3180,
+          "code": "733.99",
+          "code_system": "ICD-9-CM",
+          "description": "Other disorders of bone and cartilage",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Osteopenia"
+        },
+        {
+          "begin": 3183,
+          "end": 3203,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Hypercholesterolemia"
+        },
+        {
+          "begin": 3290,
+          "end": 3293,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 3528,
+          "end": 3532,
+          "code": "V45.81",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical aortocoronary bypass status",
+          "type": "MapType.EXACT",
+          "covered_text": "CABG"
+        },
+        {
+          "begin": 3545,
+          "end": 3567,
+          "code": "V16.3",
+          "code_system": "ICD-9-CM",
+          "description": "Family history of malignant neoplasm of breast",
+          "type": "MapType.EXACT",
+          "covered_text": "Sister:  Breast cancer"
+        },
+        {
+          "begin": 3842,
+          "end": 3848,
+          "code": "785.2",
+          "code_system": "ICD-9-CM",
+          "description": "Undiagnosed cardiac murmurs",
+          "type": "MapType.APPROX",
+          "covered_text": "murmur"
+        },
+        {
+          "begin": 6686,
+          "end": 6743,
+          "code": "998.11",
+          "code_system": "ICD-9-CM",
+          "description": "Hemorrhage complicating a procedure",
+          "type": "MapType.APPROX",
+          "covered_text": "bleeding in the\ncecum, the site of 2 of her polypectomies"
+        },
+        {
+          "begin": 6921,
+          "end": 6940,
+          "code": "789.1",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatomegaly",
+          "type": "MapType.APPROX",
+          "covered_text": "Tender hepatomegaly"
+        },
+        {
+          "begin": 7155,
+          "end": 7170,
+          "code": "577.2",
+          "code_system": "ICD-9-CM",
+          "description": "Cyst and pseudocyst of pancreas",
+          "type": "Human",
+          "covered_text": "pancreatic\ncyst"
+        },
+        {
+          "begin": 7737,
+          "end": 7779,
+          "code": "998.11",
+          "code_system": "ICD-9-CM",
+          "description": "Hemorrhage complicating a procedure",
+          "type": "MapType.APPROX",
+          "covered_text": "Lower GI bleed from cecal polypectomy site"
+        },
+        {
+          "begin": 8618,
+          "end": 8633,
+          "code": "577.2",
+          "code_system": "ICD-9-CM",
+          "description": "Cyst and pseudocyst of pancreas",
+          "type": "Human",
+          "covered_text": "pancreatic cyst"
+        }
+      ],
+      "text": "Admission Date:  [**2186-7-25**]              Discharge Date:   [**2186-7-27**]\n\nDate of Birth:  [**2122-12-25**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 3326**]\nChief Complaint:\nBright red blood per rectum\n\nMajor Surgical or Invasive Procedure:\nColonoscopy with placement of 4 cecal clips [**2186-7-26**]\n\nHistory of Present Illness:\n63F with a history of HTN, HLD, and DCIS s/p bilateral\nmastectomy who presents with hematochezia x 12 hours, DOE, and\nsignificant malaise. She underwent a screening colonoscopy on\n[**2186-7-18**] where she was found to have a 5mm x 10mm sessile polyp\nin the cecum, 1 x 2mm sessile polyp in the cecum, and a 4mm\nsessile polyp in the sigmoid colon as well as several small\nAVMs, mild diverticulosis, and internal hemorrhoids. For a few\ndays after her colonoscopy she was feeling somewhat unwell but\ndenies abdominal pain or cramping, hematochezia, dark stool,\nmaroon stool, DOE, or orthostatic symptoms. She fully recovered\nand felt fine for a week. The evening prior to admission she\nsuddenly developed crampy lower abdominal pain and an urge to go\nto the bathroom. She have 4 bouts of diarrhea of brown stool as\nwell as bright red blood. She denies blood clots or maroon\nstool. She felt weak after the BMs and could barely walk back to\nher office. A colleague drove her home. That evening she had DOE\nwalking in the yard with her dog. She called the on call service\nat [**Location (un) 2274**] and was advised to stay well hydrated and consider\ncoming to the ED, but refused. The following morning she\nconitnued to feel tired and weak. her abdominal cramps returned\nand she had 4 more bouts of diarrhea with bright red blood. She\nfelt so weak she could barely stand and was dizzy with sitting\nup. Her son called 911 and she was transported to the ED for\nfurther management.\n.\nIn the ED initial vital signs were 97.9 72 140/90 20 100% on RA.\nInitial labs were notable for a H/H of 9.8/28.9 from a baseline\nof 14.5/42.8 in 11/[**2184**]. Two 18G PIVs were placed and an ECG\nshowed no ischemic changed. She received NS 2000mL and was seen\nby GI who recommended ICU admission and a PPI. She was\ntransfered to the ICU for further management.\n.\nIn the [**Hospital Unit Name 153**] she is tired but denies and CP, chest pressure, SOB,\npalpitations, or HA. She reports dizziness when she sits up and\nsome stomach grumbling, but no cramps. She denies any history of\nbleeding problems, GIB bleeding, clotting problems, GERD, heart\nburn, or jaundice.\n.\nShe was consented for ICU care.\n.\nReview of Systems:\n(+) Per HPI\n(-) Denies fever, chills, night sweats, recent weight loss or\ngain. Denies headache, sinus tenderness, rhinorrhea or\ncongestion. Denies chest pain or tightness, palpitations. Denies\ncough, shortness of breath, or wheezes. Denied nausea, vomiting.\nNo recent change in bowel or bladder habits. No dysuria. Denies\narthralgias or myalgias. Denies rashes or skin breakdown. No\nnumbness/tingling in extremities. No feelings of depression or\nanxiety. All other review of systems negative.\n\n\nPast Medical History:\n- DCIS s/p mastectomy\n- Osteopenia\n- Hypercholesterolemia\n- Vulvodynia\n- Hx of BCC and SCC\n- Rhinitis\n- Constipation\n- Sciatica\n- Cervicalgia\n- HTN\n- Osteoarthritis\n- Blistering dermatitis NOS\n\n\nSocial History:\n- Tobacco:  Denies\n- etOH:  Social\n- Illicits:  Distant marijuana, no IVDU or other illicits\n\n\nFamily History:\n- Mother:  [**Name (NI) 2481**] dementia\n- Father:  CAD s/p CABG, melanoma\n- Sister:  Breast cancer\n\nPhysical Exam:\nGEN: NAD, pale\nVS:  97.0  87  supine: 153/93 sitting 133/88  17  99% on RA\nHEENT: MMM, no OP lesions, JVP below the clavicle, neck is\nsupple, no cervical, supraclavicular, or axillary LAD, normal\ngeographic tongue\nCV: RR, NL S1S2 no S3S4, II/VI low systolic murmur at the LUSB\nPULM: CTAB\nABD: BS++, soft, nondistended, liver tender and palpable 3cm\nbelow the costal margin in the mid clavicular line, no stigmata\nof chronic liver disease\nLIMBS: No LE edema, no tremors or asterixis, no clubbing, no\nkoilonychia\nSKIN: No rashes or skin breakdown\nNEURO: Strength 5/5 of the upper and lower extremities, reflexes\n2+ of the upper and lower extremities\n\n\nPertinent Results:\nLabs on Admission:\n\n[**2186-7-25**] 11:51PM   GLUCOSE-95 UREA N-11 CREAT-0.7 SODIUM-145\nPOTASSIUM-3.5 CHLORIDE-114* TOTAL CO2-22 ANION GAP-13\n[**2186-7-25**] 11:51PM   CALCIUM-7.9* PHOSPHATE-2.1* MAGNESIUM-2.3\n[**2186-7-25**] 11:51PM   WBC-6.6 RBC-2.48* HGB-7.9* HCT-22.8* MCV-92\nMCH-31.8 MCHC-34.6 RDW-12.8\n[**2186-7-25**] 11:51PM   PLT COUNT-216\n[**2186-7-25**] 05:01PM   WBC-8.2 RBC-3.19* HGB-9.9* HCT-29.5* MCV-93\nMCH-31.2 MCHC-33.7 RDW-11.9\n[**2186-7-25**] 05:01PM   PLT COUNT-277\n[**2186-7-25**] 02:40PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.010\n[**2186-7-25**] 02:40PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG\nGLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-7.0\nLEUK-NEG\n[**2186-7-25**] 02:40PM URINE  RBC-0 WBC-0-2 BACTERIA-RARE YEAST-NONE\nEPI-0-2\n[**2186-7-25**] 12:30PM   GLUCOSE-145* UREA N-23* CREAT-0.8 SODIUM-134\nPOTASSIUM-3.1* CHLORIDE-99 TOTAL CO2-26 ANION GAP-12\n[**2186-7-25**] 12:30PM   ALT(SGPT)-21 AST(SGOT)-30 LD(LDH)-222 ALK\nPHOS-52 TOT BILI-0.4\n[**2186-7-25**] 12:30PM   ALBUMIN-3.8 CALCIUM-8.8 PHOSPHATE-2.9\nMAGNESIUM-1.8 IRON-73\n[**2186-7-25**] 12:30PM   calTIBC-272 VIT B12-513 FOLATE-10.3\nFERRITIN-72 TRF-209\n[**2186-7-25**] 12:30PM   WBC-7.6 RBC-3.23* HGB-9.8* HCT-28.9* MCV-90\nMCH-30.4 MCHC-34.0 RDW-12.7\n[**2186-7-25**] 12:30PM   NEUTS-79.0* LYMPHS-17.1* MONOS-3.3 EOS-0.5\nBASOS-0.2\n[**2186-7-25**] 12:30PM   PLT COUNT-249\n[**2186-7-25**] 12:03PM   GLUCOSE-167* UREA N-22* CREAT-0.8 SODIUM-133\nPOTASSIUM-3.3 CHLORIDE-98 TOTAL CO2-25 ANION GAP-13\n[**2186-7-25**] 12:03PM   estGFR-Using this\n\nCTA-Ab [**2186-7-26**]:\nNo acute intra-abd or pelvic abnl. Patent mesenteric vasculature\nand no e/o\nactive extravasation.\n.\nAb US [**2186-7-25**]\n1.3-cm predominantly hypoechoic lesion of the pancreas.\n\nThough likely benign and possibly sequellae of processes such as\npancreatitis,\ndedicated MRCP (on a nonemergent basis) of the pancreas\nrecommended for\nfurther evaluation.\n\nThe study and the report were reviewed by the staff radiologist.\n\n\n\nBrief Hospital Course:\n# Lower GI Bleed: Admitted with a Hct of 29 from baseline 43 and\northostatic by vital signs. She was aggressively volume\nresuscitated with 5 L of crystalloid and transfused 2 units of\nPRBCs after continuning to pass dilute blood with a Golytely\nprep, which was then held the first night of the hospitalization\nafter completing half of the prep. On hospital day 2, she\nunderwent colonoscopy, which was remarkable for bleeding in the\ncecum, the site of 2 of her polypectomies 9 days prior to\nadmission; 4 clips were placed with adequate hemostasis. Her\nvolume and hematocrit subsequently remained stable. She was\ndischarged home in stable condition.\n\n# Tender hepatomegaly: The patient's liver was slightly tender\nto palpation on admission, which prompted and abdominal\nultrasound, which subsequently showed that the liver was normal.\n\n# Pancreatic cyst on US: On abdominal ultrasound a pancreatic\ncyst was found incidentally described as a 1.3 x 0.6 x 0.6 cm\npredominantly hypoechoic lesion in the pancreatic head/neck; it\nis likely benign. This will be further evaluated on an\noutpatient basis after discharge with an MRCP.\n\nMedications on Admission:\n- Simvastatin 60mg PO HS\n- HCTZ 12.5mg PO HS\n\nDischarge Medications:\n1. Simvastatin 20 mg Tablet Sig: Three (3) Tablet PO at bedtime.\nTablet(s)\n2. STOPPED: Hydrochlorothiazide 12.5 mg Capsule Sig: One (1)\nCapsule PO once a day: Take in mornings; Restart in a week\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nLower GI bleed from cecal polypectomy site\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nIt was a privilege to take care of you in the hospital.\n.\nYou were hospitalized for a bleed in your colon caused by the\nre-bleeding of one of your polypectomy sites in your cecum. You\nwere admitted to the ICU with a low blood count and low blood\npressures when sitting up and standing. We resuscitated your\nvolume and blood coutns with IV fluids and 2 units of packed red\nblood cells. A CT of yoru abdomen did not show the bleeding\nsource, but a colonoscopy revealed the source, which was stopped\nwith clips. You also underwent an abdominal ultrasound because\nyour liver was slightly tender on admission, which showed a\nnormal liver but an incidental finding of a pancreatic cyst. We\nrecommend that you have this finding evaluated further as an\noutpatient.\n.\nNo changes were made to your home medications.\n\nFollowup Instructions:\nPlease schedule an appointment with Gastroenterology for\nevaluation of your pancreas\n\n\n\n"
+    }
+  ]
+}

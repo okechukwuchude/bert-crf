@@ -1,0 +1,885 @@
+{
+  "hadm_id": 149802,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1138261,
+      "category": "Radiology",
+      "description": "CT ABDOMEN W/CONTRAST",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 67,
+          "code": "74177",
+          "code_system": "CPT",
+          "description": "Computed tomography, abdomen and pelvis; with contrast material(s)",
+          "type": "Human",
+          "covered_text": "CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST"
+        },
+        {
+          "begin": 223,
+          "end": 237,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "ABDOMINAL PAIN"
+        },
+        {
+          "begin": 448,
+          "end": 454,
+          "code": "787.03",
+          "code_system": "ICD-9-CM",
+          "description": "Vomiting alone",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "emesis"
+        },
+        {
+          "begin": 766,
+          "end": 813,
+          "code": "573.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified disorder of liver",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Small locules of free air inferior to the liver"
+        },
+        {
+          "begin": 992,
+          "end": 999,
+          "code": "789.59",
+          "code_system": "ICD-9-CM",
+          "description": "Other ascites",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "ascites"
+        },
+        {
+          "begin": 1279,
+          "end": 1285,
+          "code": "787.03",
+          "code_system": "ICD-9-CM",
+          "description": "Vomiting alone",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "emesis"
+        },
+        {
+          "begin": 1586,
+          "end": 1625,
+          "code": "481",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]",
+          "type": "MapType.APPROX",
+          "covered_text": "consolidation of bilateral lower\n lobes"
+        },
+        {
+          "begin": 1712,
+          "end": 1729,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "MapType.APPROX",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 3417,
+          "end": 3432,
+          "code": "560.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified intestinal obstruction",
+          "type": "MapType.APPROX",
+          "covered_text": "ascending colon"
+        },
+        {
+          "begin": 4208,
+          "end": 4255,
+          "code": "575.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified disorder of gallbladder",
+          "type": "MapType.EXACT",
+          "covered_text": "locules of free air inferior to the gallbladder"
+        },
+        {
+          "begin": 4531,
+          "end": 4549,
+          "code": "787.3",
+          "code_system": "ICD-9-CM",
+          "description": "Flatulence, eructation, and gas pain",
+          "type": "MapType.APPROX",
+          "covered_text": "gastric distention"
+        },
+        {
+          "begin": 4713,
+          "end": 4738,
+          "code": "481",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]",
+          "type": "MapType.APPROX",
+          "covered_text": "lower lobe consolidations"
+        }
+      ],
+      "text": "[**2155-6-1**] 3:44 PM\n CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 80062**]\n Reason: Will need PO contrast, please be sure to do venous phase, as\n Admitting Diagnosis: ABDOMINAL PAIN\n  Contrast: OPTIRAY Amt: 130\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  56 year old man with s/p whipple procedure, now with billious emesis.  Had SMV\n  reconstruction\n REASON FOR THIS EXAMINATION:\n  Will need PO contrast, please be sure to do venous phase, as pt had\n  reconstruction\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: JXKc SUN [**2155-6-1**] 5:55 PM\n  1.  Small locules of free air inferior to the liver, atypical given time\n  course from surgery, correlate clinically.\n  2.  Gastric distension, without evidence of obstruction as contrast passes\n  distally into colon.\n  3.  Small ascites, simliar to prior study.\n  4.  Bilateral lower lobe consolidation, may reflect aspiration or pneumonia.\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  Status post Whipple, now with bilious emesis, had SMV\n reconstruction.\n\n COMPARISON:  [**2155-5-26**].\n\n TECHNIQUE:  MDCT axial images were obtained from the lung bases through the\n symphysis pubis with the administration of IV and oral contrast.  Coronal and\n sagittal reformations were obtained.\n\n CT OF THE ABDOMEN WITH IV CONTRAST:  Massive consolidation of bilateral lower\n lobes are concerning for aspiration given the provided history.  There are\n trace bilateral pleural effusions.  The visualized heart and pericardium are\n without pericardial effusion.\n\n Patient is status post Whipple procedure, with SMV reconstruction.  Marked\n narrowing just proximal to the splenic vein insertion is stable in appearance\n from prior study.  Thrombosis of the right anterior portal venous system is\n stable.  The liver is otherwise unremarkable.  There has been prior\n cholecystectomy, with multiple locules of free air noted inferior to the\n gallbladder [**Year (4 digits) 5917**], similar in appearance to prior study, without discrete\n adjacent fluid collection, and could reflect residual postoperative free air.\n The spleen, adrenal glands, and kidneys are notable for small rounded\n hypodensities in the right kidney, which are too small to characterize.\n\n An NG tube is in stomach, which is moderately distended, though contrast\n passes freely into the small and large bowel, without evidence for\n obstruction.  Previously noted collections adjacent to the Roux jejunal loop\n has resolved, as well as inferior to the liver tip have resolved.  Hypodensity\n in the expected region of the pancreatic head is stable in size measuring 3\n cm, with fiducial seeds noted.\n                                                             (Over)\n\n [**2155-6-1**] 3:44 PM\n CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 80062**]\n Reason: Will need PO contrast, please be sure to do venous phase, as\n Admitting Diagnosis: ABDOMINAL PAIN\n  Contrast: OPTIRAY Amt: 130\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n Mild wall thickening involving the ascending colon, hepatic flexure and\n transverse colon likely reflect residual postoperative inflammatory change.\n\n CT OF THE PELVIS WITH IV CONTRAST:  The urinary bladder, rectum and prostate\n are unremarkable.  A moderate amount of free fluid in abdomen is similar in\n extent to prior study.\n\n OSSEOUS STRUCTURES:  A sclerotic lesion within the right aspect of the sacrum\n likely reflects a bone island, and is stable.  Osseous structures are\n otherwise unremarkable.\n\n SOFT TISSUES:  Surgical wounds along the anterior subcutaneous fat with\n subcutaneous air are noted.\n\n IMPRESSION:\n 1.  Post-Whipple changes, with stable narrowing of the SMV just proximal to\n the splenic vein insertion into the portal vein.\n 2.  Stable partial thrombosis of the right anterior portal vein.\n 3.  Small locules of free air inferior to the gallbladder [**Last Name (LF) 5917**], [**First Name3 (LF) **] reflect\n residual postoperative air. There is no associated fluid or collection.\n 4.  Essentially resolved fluid collections previously seen adjacent to the\n Roux jejunal loop as well as inferior to the liver.\n 5.  Moderate gastric distention, though contrast passes freely through the\n small and large bowel without evidence for obstruction.\n 6.  Moderate free fluid in the pelvis.\n 7.  Massive bilateral lower lobe consolidations, concerning for aspiration.\n\n Findings were discussed with Dr. [**Last Name (STitle) 3634**] immediately at the time of study.\n\n"
+    },
+    {
+      "note_id": 1138407,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 34,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST PORT"
+        },
+        {
+          "begin": 292,
+          "end": 306,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "ABDOMINAL PAIN"
+        },
+        {
+          "begin": 782,
+          "end": 802,
+          "code": "V58.81",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for fitting and adjustment of vascular catheter",
+          "type": "MapType.EXACT",
+          "covered_text": "left PICC placement."
+        },
+        {
+          "begin": 1045,
+          "end": 1062,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "MapType.APPROX",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 1067,
+          "end": 1090,
+          "code": "481",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]",
+          "type": "MapType.APPROX",
+          "covered_text": "bibasal\n consolidations"
+        },
+        {
+          "begin": 1233,
+          "end": 1248,
+          "code": "518.4",
+          "code_system": "ICD-9-CM",
+          "description": "Acute edema of lung, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "pulmonary edema"
+        },
+        {
+          "begin": 1574,
+          "end": 1591,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "MapType.APPROX",
+          "covered_text": "pleural effusions"
+        }
+      ],
+      "text": "[**2155-6-2**] 2:31 PM\n CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 7**] # [**Clip Number (Radiology) 80242**]\n Reason: pls assess tip of 50cm LUE basilic picc, call [**Doctor First Name 3245**] [**Numeric Identifier 2401**] w/\n Admitting Diagnosis: ABDOMINAL PAIN\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  56 year old man with new left picc\n REASON FOR THIS EXAMINATION:\n  pls assess tip of 50cm LUE basilic picc, call [**Doctor First Name 3245**] [**Numeric Identifier 2401**] w/ wet read thanks\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  56-year-old man with new left PICC placement.\n\n COMPARISON:  Chest radiograph [**2155-6-2**]\n\n SINGLE AP SEMI-UPRIGHT CHEST RADIOGRAPH:  A left PICC ends in the low SVC.  No\n post-procedural complications, especially no pneumothorax or mediastinal\n widening is detected.  Bilateral small pleural effusions and bibasal\n consolidations, have not significantly changed since the prior study and could\n represent an infectious process versus aspiration and/or atelectasis.  Mild\n pulmonary edema is unchanged.  The cardiac and mediastinal contours are\n normal.  The lung volumes are low.  A nasogastric tube ends in the gastric\n fundus after making a loop in the gastric body.\n\n IMPRESSION:\n 1. Left PICC ends in the lower SVC.  No post-procedural complications\n detected.\n 2.  Bibasal consolidations and bilateral small pleural effusions are unchanged\n since the previous study.\n\n"
+    },
+    {
+      "note_id": 1138289,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 179,
+          "end": 193,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "ABDOMINAL PAIN"
+        },
+        {
+          "begin": 352,
+          "end": 358,
+          "code": "785.9",
+          "code_system": "ICD-9-CM",
+          "description": "Other symptoms involving cardiovascular system",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "desats"
+        },
+        {
+          "begin": 363,
+          "end": 366,
+          "code": "786.05",
+          "code_system": "ICD-9-CM",
+          "description": "Shortness of breath",
+          "type": "MapType.EXACT",
+          "covered_text": "SOB"
+        },
+        {
+          "begin": 1043,
+          "end": 1058,
+          "code": "518.4",
+          "code_system": "ICD-9-CM",
+          "description": "Acute edema of lung, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "pulmonary edema"
+        }
+      ],
+      "text": "[**2155-6-2**] 12:06 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 80063**]\n Reason: ? acute process\n Admitting Diagnosis: ABDOMINAL PAIN\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  56 year old man with hx of whipple now desats and SOB\n REASON FOR THIS EXAMINATION:\n  ? acute process\n ______________________________________________________________________________\n                                 FINAL REPORT\n REASON FOR EXAMINATION:  Evaluation of the patient after Whipple procedure,\n desaturating.\n\n Portable AP chest radiograph was compared to [**2155-6-1**].\n\n The NG tube tip is in the stomach.  Cardiomediastinal silhouette is stable.\n There is no interval change in bibasal opacities and bilateral pleural\n effusions.  Those findings are new since [**5-23**] and might represent interval\n development of infectious process, although aspiration and/or atelectasis\n would be another possibility.  Minimal pulmonary edema has developed and is\n new.\n\n\n"
+    },
+    {
+      "note_id": 1138845,
+      "category": "Radiology",
+      "description": "CHEST (PA & LAT)",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 40,
+          "code": "71046",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; 2 views",
+          "type": "Human",
+          "covered_text": "CHEST (PA & LAT)"
+        },
+        {
+          "begin": 177,
+          "end": 194,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "MapType.APPROX",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 217,
+          "end": 231,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "ABDOMINAL PAIN"
+        },
+        {
+          "begin": 372,
+          "end": 392,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonitis due to inhalation of food or vomitus",
+          "type": "Human",
+          "covered_text": "aspiration pneumonia"
+        },
+        {
+          "begin": 486,
+          "end": 503,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "MapType.APPROX",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 798,
+          "end": 810,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "cardiomegaly"
+        },
+        {
+          "begin": 905,
+          "end": 920,
+          "code": "518.4",
+          "code_system": "ICD-9-CM",
+          "description": "Acute edema of lung, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Pulmonary edema"
+        }
+      ],
+      "text": "[**2155-6-5**] 9:19 AM\n CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 80244**]\n Reason: Please eval extent of aspiration and pleural effusions\n Admitting Diagnosis: ABDOMINAL PAIN\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  56 year old man with aspiration pneumonia and ? pleural effusions\n REASON FOR THIS EXAMINATION:\n  Please eval extent of aspiration and pleural effusions\n ______________________________________________________________________________\n                                 FINAL REPORT\n PA AND LATERAL VIEWS OF THE CHEST\n\n REASON FOR EXAM:  Question pleural effusions and aspiration.\n\n Comparison is made with prior study performed a day earlier.\n\n Mild cardiomegaly is stable.  Bibasilar consolidations larger on the left side\n are consistent with pneumonia.  Pulmonary edema has markedly improved, now\n mild.  There is no pneumothorax.  Small bilateral pleural effusions are larger\n on the right side.\n\n\n"
+    },
+    {
+      "note_id": 1138690,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 192,
+          "end": 206,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "ABDOMINAL PAIN"
+        },
+        {
+          "begin": 961,
+          "end": 979,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "cardiac silhouette"
+        },
+        {
+          "begin": 1100,
+          "end": 1117,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "MapType.APPROX",
+          "covered_text": "pleural effusions"
+        }
+      ],
+      "text": "[**2155-6-4**] 9:48 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 80243**]\n Reason: ? resolution of acute process\n Admitting Diagnosis: ABDOMINAL PAIN\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  56 year old man with ? aspiration PNA\n REASON FOR THIS EXAMINATION:\n  ? resolution of acute process\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  56-year-old man with possible aspiration pneumonia, please assess\n for resolution.\n\n TECHNIQUE:  Semi-upright portable radiograph of the chest was obtained.\n\n COMPARISON:  Portable chest radiograph [**6-1**], 7 and 8, [**2154**].\n\n FINDINGS:\n The lung volumes are low.\n In the interval, there is worsening of the left retrocardiac opacity, and\n increase of the right basilar consolidation.  The cardiac silhouette appears\n slightly increased, likely positional.  No pulmonary edema.  Slightly\n increased moderate right and small left pleural effusions.   The mediastinum\n and hila are normal.  No acute bony or soft tissue abnormalities.  A NG tube\n ends in the gastric fundus.\n There is no pneumothorax.\n\n IMPRESSION:\n Worsening of bibasilar consolidations likely consistent with worsening pleural\n effusions and aspiration pneumonia.\n\n\n"
+    },
+    {
+      "note_id": 231199,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 6,
+          "end": 17,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 290,
+          "end": 309,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "normal sinus rhythm"
+        }
+      ],
+      "text": "Sinus tachycardia. rate 130. Possible anteroseptal myocardial infarction of\nindeterminate age. Possible inferior myocardial infarction of indeterminate\nage. Non-specific lateral repolarization changes consistent with myocardial\nischemia. Compared to the previous tracing of [**2155-5-25**] normal sinus rhythm has\ngiven way to sinus tachycardia and lateral repolarization changes consistent\nwith myocardial ischemia are new.\n\n"
+    },
+    {
+      "note_id": 37218,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 241,
+          "end": 255,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "Abdominal pain"
+        },
+        {
+          "begin": 259,
+          "end": 274,
+          "code": "787.01",
+          "code_system": "ICD-9-CM",
+          "description": "Nausea with vomiting",
+          "type": "MapType.APPROX",
+          "covered_text": "Nausea/vomiting"
+        },
+        {
+          "begin": 278,
+          "end": 292,
+          "code": "783.9",
+          "code_system": "ICD-9-CM",
+          "description": "Other symptoms concerning nutrition, metabolism, and development",
+          "type": "MapType.APPROX",
+          "covered_text": "Poor PO intake"
+        },
+        {
+          "begin": 447,
+          "end": 460,
+          "code": "157.8",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of other specified sites of pancreas",
+          "type": "MapType.APPROX",
+          "covered_text": "pancreatic ca"
+        },
+        {
+          "begin": 466,
+          "end": 480,
+          "code": "453.89",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.APPROX",
+          "covered_text": "SMV thrombosis"
+        },
+        {
+          "begin": 573,
+          "end": 597,
+          "code": "536.3",
+          "code_system": "ICD-9-CM",
+          "description": "Gastroparesis",
+          "type": "MapType.APPROX",
+          "covered_text": "delayed gastric emptying"
+        },
+        {
+          "begin": 877,
+          "end": 883,
+          "code": "787.02",
+          "code_system": "ICD-9-CM",
+          "description": "Nausea alone",
+          "type": "MapType.EXACT",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 1202,
+          "end": 1220,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "Diet-controlled DM"
+        },
+        {
+          "begin": 1222,
+          "end": 1225,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1676,
+          "end": 1682,
+          "code": "787.03",
+          "code_system": "ICD-9-CM",
+          "description": "Vomiting alone",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "emesis"
+        },
+        {
+          "begin": 1723,
+          "end": 1731,
+          "code": "780.79",
+          "code_system": "ICD-9-CM",
+          "description": "Other malaise and fatigue",
+          "type": "MapType.APPROX",
+          "covered_text": "fatigued"
+        },
+        {
+          "begin": 3328,
+          "end": 3339,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 3789,
+          "end": 3819,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Bilateral lower lobe opacities"
+        },
+        {
+          "begin": 3841,
+          "end": 3861,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonitis due to inhalation of food or vomitus",
+          "type": "Human",
+          "covered_text": "aspiration pneumonia"
+        },
+        {
+          "begin": 4396,
+          "end": 4414,
+          "code": "787.3",
+          "code_system": "ICD-9-CM",
+          "description": "Flatulence, eructation, and gas pain",
+          "type": "MapType.APPROX",
+          "covered_text": "gastric distention"
+        },
+        {
+          "begin": 4788,
+          "end": 4805,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "MapType.APPROX",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 4880,
+          "end": 4892,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "cardiomegaly"
+        },
+        {
+          "begin": 4984,
+          "end": 4999,
+          "code": "518.4",
+          "code_system": "ICD-9-CM",
+          "description": "Acute edema of lung, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Pulmonary edema"
+        },
+        {
+          "begin": 7459,
+          "end": 7465,
+          "code": "787.02",
+          "code_system": "ICD-9-CM",
+          "description": "Nausea alone",
+          "type": "MapType.EXACT",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 7567,
+          "end": 7573,
+          "code": "787.03",
+          "code_system": "ICD-9-CM",
+          "description": "Vomiting alone",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "emesis"
+        },
+        {
+          "begin": 7657,
+          "end": 7677,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonitis due to inhalation of food or vomitus",
+          "type": "Human",
+          "covered_text": "aspiration pneumonia"
+        },
+        {
+          "begin": 8469,
+          "end": 8489,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonitis due to inhalation of food or vomitus",
+          "type": "Human",
+          "covered_text": "aspiration pneumonia"
+        },
+        {
+          "begin": 13000,
+          "end": 13025,
+          "code": "157.9",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of pancreas, part unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Pancreatic adenocarcinoma"
+        },
+        {
+          "begin": 13049,
+          "end": 13073,
+          "code": "536.3",
+          "code_system": "ICD-9-CM",
+          "description": "Gastroparesis",
+          "type": "MapType.APPROX",
+          "covered_text": "Delayed gastric emptying"
+        },
+        {
+          "begin": 13077,
+          "end": 13091,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonitis due to inhalation of food or vomitus",
+          "type": "Human",
+          "covered_text": "Aspiration PNA"
+        },
+        {
+          "begin": 14476,
+          "end": 14486,
+          "code": "786.50",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified chest pain",
+          "type": "MapType.EXACT",
+          "covered_text": "chest pain"
+        },
+        {
+          "begin": 14540,
+          "end": 14545,
+          "code": "786.2",
+          "code_system": "ICD-9-CM",
+          "description": "Cough",
+          "type": "MapType.EXACT",
+          "covered_text": "cough"
+        },
+        {
+          "begin": 14547,
+          "end": 14566,
+          "code": "786.05",
+          "code_system": "ICD-9-CM",
+          "description": "Shortness of breath",
+          "type": "MapType.EXACT",
+          "covered_text": "shortness of breath"
+        },
+        {
+          "begin": 14694,
+          "end": 14702,
+          "code": "787.03",
+          "code_system": "ICD-9-CM",
+          "description": "Vomiting alone",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "vomiting"
+        },
+        {
+          "begin": 14704,
+          "end": 14712,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "description": "Diarrhea",
+          "type": "MapType.APPROX",
+          "covered_text": "diarrhea"
+        },
+        {
+          "begin": 14741,
+          "end": 14752,
+          "code": "276.51",
+          "code_system": "ICD-9-CM",
+          "description": "Dehydration",
+          "type": "MapType.EXACT",
+          "covered_text": "dehydration"
+        }
+      ],
+      "text": "Admission Date:  [**2155-6-1**]              Discharge Date:   [**2155-6-11**]\n\nDate of Birth:  [**2098-12-11**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nPercocet / Codeine\n\nAttending:[**First Name3 (LF) 148**]\nChief Complaint:\n1. Abdominal pain\n2. Nausea/vomiting\n3. Poor PO intake\n\nMajor Surgical or Invasive Procedure:\nNone\n\n\nHistory of Present Illness:\nPatient is a 56 y/o M s/p Whipple resection + SMV reconstruction\n[**5-14**] for\npancreatic ca with SMV thrombosis ([**Doctor Last Name **] and [**Doctor Last Name **]),\nwith post-operative course marked by delayed gastric emptying,\nrequiring NGT reinsertion on POD 7 until POD 11.  The remainder\nof his post-op course was notable for small wound infection\ntreated by opening up each corner of the incision and packing\nwith WTD dressings.  He was discharged home on [**2155-5-30**].\nYesterday\nhe developed some nausea, limiting his PO intake, which\nprogressed to emesis this morning of thin yellow-green fluid.\nReports mild abdominal pain, described as a tightness across his\nupper abdomen in the region of the incision.  + flatus yesterday\nbut not today.  Last BM was yesterday.  Denies fevers or chills.\n\n\nPast Medical History:\nPMHx: Diet-controlled DM, HTN.\n.\nPSHx: [**2155-4-22**] ERCP with sphincterotomy and stent placement,\n[**2155-4-24**] EUS.\n\nSocial History:\nWorks at Shaws as produce manager. Married with children and\ngrandchildren. No tobacco use history, 1 drink EtOH/month, no\nrecreational drugs.  He is only sexually active with his wife.\n\n\nFamily History:\nFather had IDDM and HTN, brother with DM, HTN\n\nPhysical Exam:\nOn Admission:\n97.9  102  145/89  22  96 on RA\nA&Ox3, active and continuous emesis of thin yellow-fluid without\nwretching, fatigued appearing\nCTAB with diminished breath sounds BL bases\nRRR\nsoft, minimally tender without rebound or guarding, min\ndistended.  incision c/d/i with each corner showing clean\ngranulation bed without surrounding erythema, re-packed with WTD\ngauze.\nWWP, wearing [**Male First Name (un) **] stockings BL (precludes examination for edema)\nNGT placed uneventually at bedside via R nare, no resistance\nencountered, no coughing or aspiration, volumous output of __cc\nof thin yellow-green fluid.\n\nOn Discharge:\nVS: 98.2, 66, 121/79, 18, 99% 2L n/c\nGen: Fatigued appearing, comfortably sitting on bed in NAD\nCV: RRR\nLungs: diminished bilateraly on bases L > R\nAbd: Soft, normal tenderness around incision. Incision open on\nboth corners and packed with moist-to-dry gauze dressing, middle\nportion with steri strips and c/d/i.\nExt: LUE PICC\n\nPertinent Results:\n[**2155-6-1**] 11:00AM   WBC-13.9* RBC-3.70* HGB-10.8* HCT-32.5*\nMCV-88 MCH-29.2 MCHC-33.3 RDW-15.1\n[**2155-6-1**] 11:00AM   NEUTS-90.3* LYMPHS-4.1* MONOS-5.3 EOS-0.1\nBASOS-0.2\n[**2155-6-1**] 11:00AM   PLT COUNT-651*\n[**2155-6-1**] 11:00AM   GLUCOSE-154* UREA N-15 CREAT-0.8 SODIUM-139\nPOTASSIUM-3.9 CHLORIDE-100 TOTAL CO2-29 ANION GAP-14\n[**2155-6-1**] 11:00AM   ALT(SGPT)-21 AST(SGOT)-17 CK(CPK)-20* ALK\nPHOS-126 AMYLASE-19 TOT BILI-1.0\n[**2155-6-1**] 11:00AM   LIPASE-17\n[**2155-6-1**] 05:18PM   TYPE-ART PO2-62* PCO2-39 PH-7.47* TOTAL\nCO2-29 BASE XS-4 INTUBATED-NOT INTUBA COMMENTS-15L NRB\n[**2155-6-1**] 05:01PM   TYPE-[**Last Name (un) **] PO2-97 PCO2-44 PH-7.37 TOTAL CO2-26\nBASE XS-0 COMMENTS-GREEN TOP\n\nRADIOLOGY:\n[**2155-6-1**] ECG:\nSinus tachycardia. rate 130. Possible anteroseptal myocardial\ninfarction of indeterminate age. Possible inferior myocardial\ninfarction of indeterminate age. Non-specific lateral\nrepolarization changes consistent with myocardial ischemia.\nCompared to the previous tracing of [**2155-5-25**] normal sinus rhythm\nhas given way to sinus tachycardia and lateral repolarization\nchanges consistent with myocardial ischemia are new.\n[**2155-6-1**] CHEST XRAY:\nIMPRESSION:\n1. Bilateral lower lobe opacities most compatible with\naspiration pneumonia.\n2. No pneumoperitoneum.\n[**2155-6-1**] CT ABD:\nIMPRESSION:\n1. Post-Whipple changes, with stable narrowing of the SMV just\nproximal to\nthe splenic vein insertion into the portal vein.\n2. Stable partial thrombosis of the right anterior portal vein.\n3. Small locules of free air inferior to the gallbladder fossa,\nmay reflect\nresidual postoperative air. There is no associated fluid or\ncollection.\n4. Essentially resolved fluid collections previously seen\nadjacent to the\nRoux jejunal loop as well as inferior to the liver.\n5. Moderate gastric distention, though contrast passes freely\nthrough the\nsmall and large bowel without evidence for obstruction.\n6. Moderate free fluid in the pelvis.\n7. Massive bilateral lower lobe consolidations, concerning for\naspiration\n[**2155-6-2**] CHEST PA:\nIMPRESSION:\n1. Left PICC ends in the lower SVC. No post-procedural\ncomplications\ndetected.\n2. Bibasal consolidations and bilateral small pleural effusions\nare unchanged since the previous study.\n[**2155-6-5**] CHEST PA/LAT:\nMild cardiomegaly is stable. Bibasilar consolidations larger on\nthe left side are consistent with pneumonia. Pulmonary edema has\nmarkedly improved, now mild. There is no pneumothorax. Small\nbilateral pleural effusions are larger on the right side.\n[**2155-6-9**] LUE US:\nIMPRESSION: No thrombus is identified in the deep veins of the\nleft upper limb.\n\nMICRO:\n[**2155-6-1**] 6:50 pm BLOOD CULTURE\n**FINAL REPORT [**2155-6-7**]**\nBlood Culture, Routine (Final [**2155-6-7**]):    NO GROWTH.\n[**2155-6-2**] 5:15 pm SPUTUM      Source: Expectorated.\n**FINAL REPORT [**2155-6-4**]**\nGRAM STAIN (Final [**2155-6-2**]):\n      >25 PMNs and <10 epithelial cells/100X field.\n      1+    (<1 per 1000X FIELD):   YEAST(S).\nRESPIRATORY CULTURE (Final [**2155-6-4**]):\n      SPARSE GROWTH Commensal Respiratory Flora.\n      YEAST.    SPARSE GROWTH.\n      GRAM NEGATIVE ROD(S).    RARE GROWTH.\n[**2155-6-4**] 4:01 pm URINE      Source: CVS.\n**FINAL REPORT [**2155-6-5**]**\nURINE CULTURE (Final [**2155-6-5**]):    NO GROWTH.\n\n[**2155-6-10**] 04:46\n\nReport Comment:\nSource: Line-PICC\nCOMPLETE BLOOD COUNT\nWhite Blood Cells 9.3 4.0 - 11.0 K/uL\n  PERFORMED AT WEST STAT LAB\nRed Blood Cells 3.25* 4.6 - 6.2 m/uL\n  PERFORMED AT WEST STAT LAB\nHemoglobin 9.5* 14.0 - 18.0 g/dL\n  PERFORMED AT WEST STAT LAB\nHematocrit 28.6* 40 - 52 %\n  PERFORMED AT WEST STAT LAB\nMCV 88 82 - 98 fL\n  PERFORMED AT WEST STAT LAB\nMCH 29.2 27 - 32 pg\n  PERFORMED AT WEST STAT LAB\nMCHC 33.3 31 - 35 %\n  PERFORMED AT WEST STAT LAB\nRDW 14.9 10.5 - 15.5 %\n  PERFORMED AT WEST STAT LAB\nBASIC COAGULATION (PT, PTT, PLT, INR)\nPlatelet Count [**Telephone/Fax (3) 83797**] K/uL\n  PERFORMED AT WEST STAT LAB\n[**2155-6-10**] 04:46\n\nReport Comment:\nSource: Line-PICC\nRENAL & GLUCOSE\nGlucose 150* 70 - 100 mg/dL\n  IF FASTING, 70-100 NORMAL, >125 PROVISIONAL DIABETES\nPERFORMED AT WEST STAT LAB\nUrea Nitrogen 26* 6 - 20 mg/dL\n  PERFORMED AT WEST STAT LAB\nCreatinine 0.7 0.5 - 1.2 mg/dL\n  PERFORMED AT WEST STAT LAB\nSodium 135 133 - 145 mEq/L\n  PERFORMED AT WEST STAT LAB\nPotassium 4.4 3.3 - 5.1 mEq/L\n  PERFORMED AT WEST STAT LAB\nChloride 105 96 - 108 mEq/L\n  PERFORMED AT WEST STAT LAB\nBicarbonate 24 22 - 32 mEq/L\n  PERFORMED AT WEST STAT LAB\nAnion Gap 10 8 - 20 mEq/L\nCHEMISTRY\nCalcium, Total 7.8* 8.4 - 10.3 mg/dL\n  PERFORMED AT WEST STAT LAB\nPhosphate 4.5 2.7 - 4.5 mg/dL\n  PERFORMED AT WEST STAT LAB\nMagnesium 1.9 1.6 - 2.6 mg/dL\n\n\n\n\nBrief Hospital Course:\nThe patient was discharged home on [**2155-5-30**] s/p Whipple\nresection and SMV reconstruction. On [**2155-6-1**] patient was\nreadmitted to the General Surgical Service with c/o\nnausea/vomiting and decreased PO intake. On admission in ED,\npatient continue to have active and continuous emesis of thin\nyellow-fluid. Patient was tachycardic with HRmax 130s, chest\nxray revealed aspiration pneumonia. Patient was intubated for\nairway protection and transferred in ICU for observation and\ntreatment.\n\nNeuro: The patient received propofol and fentanyl for sedation\nwhile intubated. After extubation, patient's pain was controlled\nwith IV Dilaudid with good effect and adequate pain control.\nWhen tolerating oral intake, the patient was transitioned to\noral pain medications. Currently patient taking Tylenol for pain\ncontrol.\n\nCV: On admission patient was tachycardic, after he was hydrated\npatient HR returned to [**Location 213**] sinus rhythm. Patient heart rate\nwas monitored with telemetry during hospitalization. The patient\nremained stable from a cardiovascular standpoint; vital signs\nwere routinely monitored.\n\nPulmonary: On admission patient had active emeses, and chest xr\nrevealed aspiration pneumonia. Patient was intubated and\ntransferred in ICU. On [**6-2**] patient was extubated, he was\nrequired 3-4 L of O2 via n/c for O2 Sats > 92%. Patient was\ntransferred on the floor, where he continue to be monitored for\nO2 Sats. He continue require 2L O2, his O2 Sats 95-97%. Last\nchest pa/lat demonstrated that pulmonary edema has markedly\nimproved and now mild; bibasilar consolidations larger on the\nleft side and consistent with pneumonia; there is no\npneumothorax. Patient was started on Vancomycin and Zosyn on\nadmission, late Erythromycin was added to his treatment. Patient\ncurrently stable from pulmonary standpoint, he will continue ABX\ntreatment after discharge.\n\nGI/GU/FEN: Patient was made NPO on admission and started on TPN.\nHis diet was advanced to clears on HD # 8. Patient will continue\nTPN on discharge. His diet will be advanced slowly within 2\nweeks to fulls, with no solid food allowed until follow up with\nDr. [**Last Name (STitle) **] (Surgery). Electrolytes were routinely followed, and\nrepleted when necessary.\n\nID: The patient's white blood count and fever curves were\nclosely watched for signs of infection. On admission patient's\nWBC was elevated, but currently WNL. Patient remained afebrile\nduring hospitalization. Blood, urine and sputum cultures were\nnegative.\n\nEndocrine: Patient has a history of diet controlled diabetes.\nAfter TPN was started, patient's BS was continue to increase and\nrequired increased TPN insulin, standing insulin order and high\nsliding scale for BS control. Currently patient's FS between\n90s-200s. Patient will require close blood sugar monitor when\nhis TPN will started to wean off.\n\nHematology: The patient's complete blood count was examined\nroutinely, his Hct was stable low (23.1-24.6). On [**6-5**] patient\nreceived one unit of RBC, after transfusion Hct was 24.6. On\n[**6-6**] patient received one more unit of RBC, his Hct was 29.2\nafter second transfusion. After blood transfusions, patient\nreported increase of energy and patient's O2 requirements\ndecreased from 5L to 3L.\n\nProphylaxis: The patient received subcutaneous heparin and\nvenodyne boots were used during this stay; was encouraged to get\nup and ambulate as early as possible. There was concern for a\nLUE DVT during his stay b/c of some swelling at and around the\nPICC site, but an ultrasound was performed that showed no clot\nand the swelling improved with elevation.\n\nAt the time of discharge, the patient was doing well, afebrile\nwith stable vital signs. The patient was tolerating a clear\nfluid diet and TPN, ambulating with stand by assist, voiding\nwithout assistance, and pain was well controlled. The patient\nreceived discharge teaching and follow-up instructions with\nunderstanding verbalized and agreement with the discharge plan.\n\nMedications on Admission:\nASA 325', norvasc 10', losartan 25', indapamide 2.5', lipitor\n10', protonix 40', reglan 10''', colace 100''prn, senna\n8.6''prn, dilaudid 2-4q4:prn, tylenol prn\n\n\nDischarge Medications:\n1. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1) NEB Inhalation Q4H (every 4 hours).\n2. Insulin Glargine 100 unit/mL Solution Sig: Fifteen (15) units\nSubcutaneous at bedtime.\n3. Insulin Regular Human 100 unit/mL Solution Sig: 4-32 units\nInjection as directed.\n4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for pain.\n5. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n6. Erythromycin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every\n12 hours).\n7. Losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n8. Amlodipine 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n9. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO once a day.\n11. Heparin Flush (10 units/ml) 2 mL IV PRN line flush\nPICC, heparin dependent: Flush with 10mL Normal Saline followed\nby Heparin as above daily and PRN per lumen.\n12. Reglan 10 mg Tablet Sig: One (1) Tablet PO every eight (8)\nhours.\n13. Vancomycin 500 mg Recon Soln Sig: 1250 (1250) mg Intravenous\ntwice a day for 4 days.\n14. Zosyn 4.5 gram Recon Soln Sig: One (1)  Intravenous every\neight (8) hours for 4 days.\n15. Dilaudid 2 mg Tablet Sig: One (1) Tablet PO every four (4)\nhours as needed for pain.\nDisp:*30 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 700**] - [**Location (un) 701**]\n\nDischarge Diagnosis:\n1. Pancreatic adenocarcinoma with SMV thrombosis\n2. Delayed gastric emptying\n3. Aspiration PNA\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nPlease resume all regular home medications , unless specifically\nadvised not to take a particular medication. Also, please take\nany new medications as prescribed.\nPlease get plenty of rest, continue to ambulate several times\nper day, and drink adequate amounts of fluids. Avoid lifting\nweights greater than [**5-5**] lbs until you follow-up with your\nsurgeon, who will instruct you further regarding activity\nrestrictions.\nAvoid driving or operating heavy machinery while taking pain\nmedications.\nPlease follow-up with your surgeon and Primary Care Provider\n(PCP) as advised.\n\nIncision Care:\n*Please call your doctor or nurse practitioner if you have\nincreased pain, swelling, redness, or drainage from the incision\nsite.\n*Avoid swimming and baths until your follow-up appointment.\n*You may shower, and wash surgical incisions with a mild soap\nand warm water. Gently pat the area dry.\n*If you have staples, they will be removed at your follow-up\nappointment.\n*If you have steri-strips, they will fall off on their own.\nPlease remove any remaining strips 7-10 days after surgery.\nPlease call your doctor or nurse practitioner if you experience\nthe following:\n*You experience new chest pain, pressure, squeezing or\ntightness.\n*New or worsening cough, shortness of breath, or wheeze.\n*If you are vomiting and cannot keep down fluids or your\nmedications.\n*You are getting dehydrated due to continued vomiting, diarrhea,\nor other reasons. Signs of dehydration include dry mouth, rapid\nheartbeat, or feeling dizzy or faint when standing.\n*You see blood or dark/black material when you vomit or have a\nbowel movement.\n*You experience burning when you urinate, have blood in your\nurine, or experience a discharge.\n*Your pain is not improving within 8-12 hours or is not gone\nwithin 24 hours. Call or return immediately if your pain is\ngetting worse or changes location or moving to your chest or\nback.\n*You have shaking chills, or fever greater than 101.5 degrees\nFahrenheit or 38 degrees Celsius.\n*Any change in your symptoms, or any new symptoms that concern\nyou.\n\nPICC line care:\n*Please monitor the site regularly, and [**Name6 (MD) 138**] your MD, nurse\npractitioner, or [**Name6 (MD) 269**] Nurse if you notice redness, swelling,\ntenderness or pain, drainage or bleeding at the insertion site.\n* [**Name6 (MD) **] your MD [**First Name (Titles) **] [**Last Name (Titles) 10836**] to the Emergency Room immediately if\nthe PICC Line tubing becomes damaged or punctured, or if the\nline is pulled out partially or completely. DO NOT USE THE PICC\nLINE IN THESE CIRCUMSTANCES.Please keep the dressing clean and\ndry. Contact your [**Name2 (NI) 269**] Nurse if the dressing comes undone or is\nsignificantly soiled for further instructions.\n\n\nFollowup Instructions:\nPlease follow up with Dr. [**First Name (STitle) **] (PCP) in [**1-29**] weeks after\ndischarge\n.\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2832**], MD Phone:[**Telephone/Fax (1) 1231**]\nDate/Time:[**2155-6-20**] 11:30 [**Hospital Ward Name 23**] 3, [**Hospital Ward Name **]\n\n\n\nCompleted by:[**2155-6-11**]"
+    },
+    {
+      "note_id": 1138255,
+      "category": "Radiology",
+      "description": "PORTABLE ABDOMEN",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 40,
+          "code": "74018",
+          "code_system": "CPT",
+          "description": "Radiologic examination, abdomen; 1 view",
+          "type": "Human",
+          "covered_text": "PORTABLE ABDOMEN"
+        },
+        {
+          "begin": 296,
+          "end": 304,
+          "code": "787.03",
+          "code_system": "ICD-9-CM",
+          "description": "Vomiting alone",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "vomiting"
+        },
+        {
+          "begin": 1190,
+          "end": 1205,
+          "code": "787.99",
+          "code_system": "ICD-9-CM",
+          "description": "Other symptoms involving digestive system",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Gasless abdomen"
+        }
+      ],
+      "text": "[**2155-6-1**] 2:50 PM\n PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 79768**]\n Reason: ? perf vs obstr\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  56 year old man with vomiting s/p whipple\n REASON FOR THIS EXAMINATION:\n  ? perf vs obstr\n ______________________________________________________________________________\n                                 FINAL REPORT\n REASON FOR EXAM:  Status post Whipple's.  Rule out perforation or bowel\n obstruction.\n\n COMPARISON:  CT abdomen and pelvis from [**2155-5-26**].\n\n SINGLE SUPINE VIEW OF THE ABDOMEN:  The upper portion of the abdomen is not\n imaged and therefore evaluation for pneumoperitoneum is not possible.  The\n abdomen is gasless.  Underlying bowel loops, either collapsed or possbile\n fluid-filled, cannot be assessed for dilatation.  A loop of colon in the right\n side of the abdomen as well as in the left pelvis contains air and stool.\n Osseous structures demonstrate degenerative changes of the hips.  There is\n likely bone island in the right side of the sacrum, better seen on prior CT.\n\n IMPRESSION:  Gasless abdomen.  Bowel obstruction cannot be excluded.  Clinical\n correlation is recommended.\n\n"
+    },
+    {
+      "note_id": 1139418,
+      "category": "Radiology",
+      "description": "L UNILAT UP EXT VEINS US LEFT",
+      "annotations": [
+        {
+          "begin": 144,
+          "end": 171,
+          "code": "93971",
+          "code_system": "CPT",
+          "description": "Duplex scan of extremity veins including responses to compression and other maneuvers; unilateral or limited study",
+          "type": "Human",
+          "covered_text": "UNILAT UP EXT VEINS US LEFT"
+        },
+        {
+          "begin": 302,
+          "end": 316,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "ABDOMINAL PAIN"
+        },
+        {
+          "begin": 457,
+          "end": 469,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "LUE swelling"
+        }
+      ],
+      "text": "[**Last Name (LF) 163**],[**First Name3 (LF) 164**] M.                 [**Doctor First Name 6**] FA9A                  [**2155-6-9**]  9:52 AM\n UNILAT UP EXT VEINS US LEFT                                     Clip # [**Clip Number (Radiology) 80245**]\n Reason: ? venous thrombosis\n Admitting Diagnosis: ABDOMINAL PAIN\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  56 year old man with LUE swelling, L PICC\n REASON FOR THIS EXAMINATION:\n  ? venous thrombosis\n ______________________________________________________________________________\n                                  PFI REPORT\n PFI:  No thrombus is identified in the left subclavian or left axillary veins.\n\n"
+    },
+    {
+      "note_id": 1138530,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 178,
+          "end": 192,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "ABDOMINAL PAIN"
+        },
+        {
+          "begin": 333,
+          "end": 346,
+          "code": "157.9",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of pancreas, part unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "pancreatic CA"
+        },
+        {
+          "begin": 348,
+          "end": 362,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonitis due to inhalation of food or vomitus",
+          "type": "Human",
+          "covered_text": "aspiration PNA"
+        }
+      ],
+      "text": "[**2155-6-3**] 10:46 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 80064**]\n Reason: inveral change\n Admitting Diagnosis: ABDOMINAL PAIN\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  56 year old man with pancreatic CA, aspiration PNA\n REASON FOR THIS EXAMINATION:\n  inveral change\n ______________________________________________________________________________\n                                 FINAL REPORT\n AP CHEST [**2155-6-3**]:57 P.M.\n\n HISTORY:  Pancreatic carcinoma.  Possible aspiration.\n\n IMPRESSION:\n AP chest compared to [**6-2**], 2:37 p.m.:\n\n Nasogastric tube is coiled in the stomach.  Large areas of pneumonia at the\n lung bases and right upper lobe are unchanged.  Heart size is normal.  Small\n right pleural effusion is stable.  No pneumothorax.  Left PIC catheter can be\n traced as far as the upper right atrium.\n\n\n"
+    },
+    {
+      "note_id": 1139417,
+      "category": "Radiology",
+      "description": "L UNILAT UP EXT VEINS US LEFT",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 51,
+          "code": "93971",
+          "code_system": "CPT",
+          "description": "Duplex scan of extremity veins including responses to compression and other maneuvers; unilateral or limited study",
+          "type": "Human",
+          "covered_text": "UNILAT UP EXT VEINS US LEFT"
+        },
+        {
+          "begin": 182,
+          "end": 196,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "ABDOMINAL PAIN"
+        },
+        {
+          "begin": 337,
+          "end": 349,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "LUE swelling"
+        }
+      ],
+      "text": "[**2155-6-9**] 9:52 AM\n UNILAT UP EXT VEINS US LEFT                                     Clip # [**Clip Number (Radiology) 80245**]\n Reason: ? venous thrombosis\n Admitting Diagnosis: ABDOMINAL PAIN\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  56 year old man with LUE swelling, L PICC\n REASON FOR THIS EXAMINATION:\n  ? venous thrombosis\n ______________________________________________________________________________\n PROVISIONAL FINDINGS IMPRESSION (PFI): CPMe MON [**2155-6-9**] 12:43 PM\n  PFI:  No thrombus is identified in the left subclavian or left axillary veins.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  56-year-old man with left upper extremity swelling.  ? venous\n thrombosis.\n\n FINDINGS:  Patent flow is seen on color Doppler imaging of the left internal\n jugular vein and the right internal jugular vein.  The left subclavian vein\n has patent flow on color and Doppler imaging.  There is normal flow,\n compressibility of the left axillary vein, left brachial vein, and left\n basilic vein.  PICC line is identified within the left basilic vein.\n\n IMPRESSION:\n\n No thrombus is identified in the deep veins of the left upper limb.\n\n"
+    },
+    {
+      "note_id": 1138247,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 296,
+          "end": 304,
+          "code": "787.03",
+          "code_system": "ICD-9-CM",
+          "description": "Vomiting alone",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "vomiting"
+        },
+        {
+          "begin": 557,
+          "end": 565,
+          "code": "787.03",
+          "code_system": "ICD-9-CM",
+          "description": "Vomiting alone",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "vomiting"
+        },
+        {
+          "begin": 892,
+          "end": 909,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "MapType.APPROX",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 1134,
+          "end": 1164,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Bilateral lower lobe opacities"
+        },
+        {
+          "begin": 1186,
+          "end": 1206,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonitis due to inhalation of food or vomitus",
+          "type": "Human",
+          "covered_text": "aspiration pneumonia"
+        }
+      ],
+      "text": "[**2155-6-1**] 1:33 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 79767**]\n Reason: ? perf vs obstr\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  56 year old man with vomiting s/p whipple\n REASON FOR THIS EXAMINATION:\n  ? perf vs obstr\n ______________________________________________________________________________\n                                 FINAL REPORT\n REASON FOR EXAM:  Status post Whipple's procedure, presents with vomiting.\n Clinical concern for free air.\n\n COMPARISON:  Multiple chest radiographs with the most recent from [**2155-5-26**].\n\n SINGLE FRONTAL VIEW OF THE CHEST:  There is no evidence of pneumoperitoneum.\n Low lung volumes limit evaluation.  An NG tube with the tip likely within the\n fundus of the stomach is noted.  Bilateral small pleural effusions are noted.\n There is new bilateral lower lobe reticular and nodular opacities as well as\n retrocardiac opacity which likely represent aspiration pneumonia. Upper\n abdominal surgical clips are again noted.\n\n IMPRESSION:\n 1.  Bilateral lower lobe opacities most compatible with aspiration pneumonia.\n 2. No pneumoperitoneum.\n\n Discussed with Dr. [**Last Name (STitle) **] at 5:12 pm [**2155-6-1**].\n\n"
+    }
+  ]
+}

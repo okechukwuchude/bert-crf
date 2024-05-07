@@ -1,0 +1,175 @@
+{
+  "hadm_id": 149397,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1234707,
+      "category": "Radiology",
+      "description": "CT ABD & PELVIS W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 1116,
+          "end": 1123,
+          "code": "789.59",
+          "code_system": "ICD-9-CM",
+          "description": "Other ascites",
+          "type": "Human",
+          "covered_text": "ascites"
+        }
+      ],
+      "text": "[**2188-5-7**] 9:06 PM\n CT ABD & PELVIS W/O CONTRAST                                    Clip # [**Clip Number (Radiology) 66797**]\n Reason: eval for bleed\n Admitting Diagnosis: SEPSIS\n ______________________________________________________________________________\n [**Hospital 4**] MEDICAL CONDITION:\n  80 year old woman with hct drop\n REASON FOR THIS EXAMINATION:\n  eval for bleed\n CONTRAINDICATIONS for IV CONTRAST:\n  renal failure;renal failure\n ______________________________________________________________________________\n WET READ: MDAg WED [**2188-5-7**] 10:52 PM\n  1. No retroperitoneal hematoma. 4.4 x 10.2 cm hematoma in the medial left\n  thigh adjacent to new fixation (2:89) extending to at least the mid thigh\n  (inferior aspect of the study), although full evaluation limited by streak\n  artifact from hardware.\n  2. Small bilateral pleural effusions are slightly increased from [**2188-4-21**].\n  Bibasilar atelectasis. Increased lingular opacity is incompletely imaged and\n  is probably atelecatsis, less likely infection. Dense mitral annular\n  calcifications.\n  3. Cirrhosis, large nonhemorrhagic ascites, unchanged from [**2188-4-21**].\n  Interval fixation of left femoral fracture. Dialysis catheter ends in inferior\n  right atrium.\n  4. Small stones or sludge layering in gallbladder.\n  -MAgarwal discussed with Dr. [**Last Name (STitle) 15163**] by phone at 10:51pm [**2188-5-7**] at time of\n  discovery.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  80-year-old female with dropping hematocrit.\n\n COMPARISON:  Comparison is made with portable AP chest radiographs from [**5-7**], [**2188**] and CT chest, abdomen and pelvis without contrast [**2188-4-21**].\n\n TECHNIQUE:  Multidetector CT-acquired axial images from the base of the lungs\n to the mid thigh were acquired without IV or oral contrast.  Sagittally and\n coronally reformatted images were generated.\n\n DLP:  657.57 mGy-cm.\n\n CT LUNG BASES WITHOUT CONTRAST:  There is mild bilateral pleural effusion with\n associated atelectasis and area of new consolidation in the left lower lobe\n (2:3).  There is moderate cardiomegaly with interval increase as compared to\n [**4-21**] study.  Seen terminating within the right atrium is a dialysis\n catheter unchanged in the position.  Previously seen left IJ catheter\n terminates out of field of view of this study.  Moderate coronary\n calcification and extensive mitral annular calcification is observed.  No\n pericardial effusion is identified.  There is mild prominence of pulmonary\n vasculature suggestive of pulmonary vascular congestion and/or heart failure.\n\n CT ABDOMEN WITHOUT CONTRAST:  Moderate-volume ascites is seen, somewhat\n increased from [**Month (only) 4155**] study, and is simple-fluid density and does not represent\n hemorrhage.  The liver is atrophic and macronodular consistent with history of\n                                                             (Over)\n\n [**2188-5-7**] 9:06 PM\n CT ABD & PELVIS W/O CONTRAST                                    Clip # [**Clip Number (Radiology) 66797**]\n Reason: eval for bleed\n Admitting Diagnosis: SEPSIS\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n cirrhosis.  No focal lesions are observed.  There is no evidence of\n intrahepatic or extrahepatic biliary dilatation.  Layering sludge and stones\n are seen within the gallbladder, but is otherwise unremarkable with no\n evidence of inflammatory changes.  The spleen, pancreas and adrenal glands are\n normal.  The spleen is mildly enlarged measuring 12.5 cm representing interval\n decrease in size (previously 14.3 cm).  The kidneys are unremarkable on this\n non-contrast study.  There are several foci of punctate calcification, which\n can represent non-obstructing stone or more likely arterial calcifications.\n There is no evidence of obstruction or hydronephrosis.  Small stable\n calcification is seen in segment VII of the liver, likely representing old\n granulomatous disease.  There is no retroperitoneal or mesenteric\n lymphadenopathy.  There is no free air.  The aortoiliac vessels and splenic\n artery are heavily calcified, SMA and celiac trunk appear patent.\n\n CT PELVIS WITHOUT CONTRAST:  Evaluation of this region is limited secondary to\n extensive streak artifact from bilateral metallic hip prosthesis.  Within\n these limitations, the rectum and distal sigmoid colon appear normal course\n and caliber.  Foley catheter is seen in place with a decompressed bladder,\n which appears otherwise unremarkable.  Uterus appears normal in size and\n contour.  Extensive free fluid is seen in the pelvis of the same density as\n abdominal ascites, not concerning for hemorrhage.  There is a large 4.4 x 10.3\n cm hematoma medial to metallic prosthesis in the left acetabulum within the\n medial left proximal thigh.  Hematoma appears to extend to the mid femur with\n CC span of 8.4 cm.  No obvious hardware complications are seen.\n\n BONE WINDOWS:  There is a displaced fracture of the lateral sixth rib which\n appears to have undergone slight interval sclerosis.  There are multiple other\n old rib fractures seen.  Stable degenerative changes are seen along the lower\n lumbar spine.  Moderate-to-severe degenerative changes are stable and seen in\n the mid-to-low thoracic spine.\n\n IMPRESSION:\n\n 1. Large hematoma measuring approximately 4.4 x 10.3 (TRV) x 8.4 (CC) cm in\n the medial left thigh with adjacent left femoral metallic hardware, placed\n after prior study.\n\n 2.  Large volume non-hemorrhagic ascites, slightly decreased from previous\n study.\n\n 3.  Stable bilateral pleural effusion with associated bibasilar atelectasis.\n Possible area of new consolidation in the left lower lobe.\n\n 4.  Dialysis catheter terminates within the inferior right atrium as before.\n\n                                                             (Over)\n\n [**2188-5-7**] 9:06 PM\n CT ABD & PELVIS W/O CONTRAST                                    Clip # [**Clip Number (Radiology) 66797**]\n Reason: eval for bleed\n Admitting Diagnosis: SEPSIS\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n"
+    },
+    {
+      "note_id": 15015,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 265,
+          "end": 276,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 929,
+          "end": 932,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 2020,
+          "end": 2023,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 2033,
+          "end": 2039,
+          "code": "410.72",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myocardial infarction, subendocardial infarction, subsequent episode of care",
+          "type": "Human",
+          "covered_text": "NSTEMI"
+        },
+        {
+          "begin": 2180,
+          "end": 2182,
+          "code": "250.40",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "II"
+        },
+        {
+          "begin": 2197,
+          "end": 2200,
+          "code": "404.93",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive heart and renal disease, unspecified, with heart failure and renal failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 2202,
+          "end": 2204,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HL"
+        },
+        {
+          "begin": 2313,
+          "end": 2317,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 2319,
+          "end": 2325,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 10484,
+          "end": 10493,
+          "code": "571.5",
+          "code_system": "ICD-9-CM",
+          "description": "Cirrhosis of liver without mention of alcohol",
+          "type": "Human",
+          "covered_text": "Cirrhosis"
+        },
+        {
+          "begin": 10495,
+          "end": 10504,
+          "code": "070.70",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified viral hepatitis C without hepatic coma",
+          "type": "Human",
+          "covered_text": "Secondary"
+        },
+        {
+          "begin": 11019,
+          "end": 11030,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "Human",
+          "covered_text": "Bradycardia"
+        },
+        {
+          "begin": 12224,
+          "end": 12227,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 17508,
+          "end": 17524,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Acute blood loss"
+        },
+        {
+          "begin": 17527,
+          "end": 17544,
+          "code": "785.59",
+          "code_system": "ICD-9-CM",
+          "description": "Other shock without mention of trauma",
+          "type": "Human",
+          "covered_text": "Hypovolemic shock"
+        },
+        {
+          "begin": 17771,
+          "end": 17781,
+          "code": "V46.3",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "wheelchair"
+        }
+      ],
+      "text": "Admission Date:  [**2188-5-7**]              Discharge Date:   [**2188-5-17**]\n\nDate of Birth:  [**2107-11-18**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 2291**]\nChief Complaint:\nHypotension\n\nMajor Surgical or Invasive Procedure:\nDiagnostic paracentesis [**2188-5-7**]\nDiagnostic paracentesis [**2188-5-12**]\n\nHistory of Present Illness:\nThis is an 80 -year-old female with history of left hip fracture\ns/p ORIF [**4-23**], and subsequent admission from [**4-29**] to [**5-5**] for\nNSTEMI treated medically, who was transferred to the ED today\nfrom her nursing home where she was noted to have SBPs in the\n70s.  She was subsequently transferred to [**Hospital1 18**] ED\n.\nIn the ED, initial VS were  60 76/52 20 99.  She triggered for\nhypotension and received 2LIVF in the ED.  UA showed >180 wbc\nand many bacteria and she was given zosyn for UTI.  Bloodwork\nwas significant for Hct of 23.0, down from 37.6 on discharge\n[**5-5**].  She was given 2 U PRBC with improvement to 29.9.  Concern\nwas for variceal bleed, and she was loaded with protonix and\nplaced on ggt.  She was intubated for airway protection and\nliver was consulted and did an upper endsocopy (once in the\nMICU) which showed no concern for bleed.  Rectal showed brown\nstool and G+.  BPs came up to SBPs in the 90s with fluids/blood,\nthough she did require push of norepinepherine for low systolics\nperi-intubation\n\nOf note, trop was elevated at 0.3 but this is actually\ndowntrending from her prior level of 0.41 during last admission\nand imrpoved to 0.26 on recheck.  Given her history of SBP,\ndiagnostic para was done showing only 65 wbc.  Renal saw the pt\nin the ED is following though felt no need for dialysis tonight\n(MWF at baseline).\n.\nOn arrival to the MICU, VS are 97.3  69  100/51  100% on AC\n450/14/5/80%.  She is intubated and sedated, not answering\nquestions\n.\nReview of systems:  Unable to obtain [**3-6**] intubation and sedation\n\nPast Medical History:\n-CHF--EF 35%\n-NSTEMI [**5-/2188**] treated medically\n-Hep C cirhosis- CHILD B - complicated with esophageal varices\nsp\nbanding, SBP/ascites in [**11/2187**]\n-DM II dx at age 55\n-HTN\n-HL\n-ESRD on HD since [**2187-11-3**](possible from Hep C, had attempted\nrenal bx), thought to be [**3-6**] DM\n-GERD\n-Anemia\n-Uterine polyps\n-Left hip fracture s/p ORIF [**2188-4-23**]\n\n\nSocial History:\nNo drugs, pts family feels she got Hep C in the hospital setting\nwhile in the [**Location (un) 3156**]. Lives in rehab. Has 2 children, 4\ngrandchildren.\n-Tobacco history:  never\n-ETOH:  denies\n-Illicit drugs:  never\n\n\nFamily History:\nMother with DM2 and MI. 2 brothers died of heart problems (one\ndefinitely from MI). No history of strokes.\n\nPhysical Exam:\nAdmission Physical Exam:\nVitals: VS are 97.3  69  100/51  100% on AC 450/14/5/80%.\nGeneral: intubated, sedated, not responding to verbal or\nphysical stimuli\nHEENT: Intubated.  PERRLA, MMM\nNeck: supple, JVP not elevated, no LAD\nCV: bradycardic, normal S1 + S2, no murmurs, rubs, gallops\nLungs: Clear to auscultation anteriorly,\nAbdomen: Distended, no tenderness appreciated.  Normal BS.\nGU:  foley\nExt: warm, well perfused, 2+ pulses.  There is a large hematoma\nof the medial left thight and groin.  incision site on the\nposterior thigh c/d/i with staples\nNeuro: intubated and sedated, not responding to stimuli\n\nDischarged Physical Exam:\n\n\nPertinent Results:\nAdmission labs:\nWBC 5.3 Hgb 6.9 Hct 23.0 Plts 65\n NEUTS-80.6* BANDS-0 LYMPHS-15.0* MONOS-3.3 EOS-0.9 BASOS-0.2\nTrop-T 0.3\n\nGLUCOSE-254* UREA N-56* CREAT-4.2* SODIUM-133 POTASSIUM-4.1\nCHLORIDE-98 TOTAL CO2-24 ANION GAP-15\n\nLACTATE-3.5*\n\nUrinalysis: RBC->182* WBC->182* BACTERIA-MANY YEAST-MANY EPI-8\nBLOOD-SM  NITRITE-NEG PROTEIN-100 GLUCOSE-NEG KETONE-NEG\nBILIRUBIN-NEG UROBILNGN-NEG PH-5.5 LEUK-LG\n\nPertinent labs:\nPF4 antibody negative\n\nDischarge labs:\n[**2188-5-15**] 05:58AM BLOOD WBC-4.4 RBC-2.80* Hgb-8.5* Hct-27.7*\nMCV-99* MCH-30.4 MCHC-30.8* RDW-21.8* Plt Ct-43*\n[**2188-5-11**] 04:52AM BLOOD Neuts-69.4 Lymphs-23.6 Monos-5.3 Eos-1.3\nBaso-0.3\n[**2188-5-15**] 05:58AM BLOOD Plt Ct-43*\n[**2188-5-15**] 05:58AM BLOOD Glucose-192* UreaN-20 Creat-2.4* Na-136\nK-3.4 Cl-100 HCO3-30 AnGap-9\n[**2188-5-14**] 07:00AM BLOOD cTropnT-0.15*\n\nMicrobiology:\nPeritoneal fluid [**5-12**]-\n   GRAM STAIN (Final [**2188-5-12**]):\n      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.\n      NO MICROORGANISMS SEEN.\n   FLUID CULTURE (Preliminary): NO GROWTH\nPeritoneal fluid [**5-7**]-\n   GRAM STAIN (Final [**2188-5-7**]):\n      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR\nLEUKOCYTES.\n      NO MICROORGANISMS SEEN.\n   FLUID CULTURE:    NO GROWTH.\n   ANAEROBIC CULTURE:    NO GROWTH.\nBlood culture [**5-7**]- pending, NGTD x 2\nUrine culture [**5-7**]- YEAST.    >100,000 ORGANISMS/ML\n\nImaging:\nCT abd/pelvix [**5-7**]-\n1. Large hematoma measuring approximately 4.4 x 10.3 (TRV) x 8.4\n(CC) cm in the medial left thigh with adjacent left femoral\nmetallic hardware, placed after prior study.\n2. Large volume non-hemorrhagic ascites, slightly decreased from\nprevious study.\n3. Stable bilateral pleural effusion with associated bibasilar\natelectasis.  Possible area of new consolidation in the left\nlower lobe.\n4. Dialysis catheter terminates within the inferior right atrium\nas before.\n\nTTE [**5-10**]- The left atrium is moderately dilated. There is\nmoderate symmetric left ventricular hypertrophy. The left\nventricular cavity is unusually small. Regional left ventricular\nwall motion is normal. Left ventricular systolic function is\nhyperdynamic (EF>75%). The right ventricular free wall is\nhypertrophied. Right ventricular chamber size is normal. with\nnormal free wall contractility. The diameters of aorta at the\nsinus, ascending and arch levels are normal. The aortic valve\nleaflets (3) are mildly thickened but aortic stenosis is not\npresent. Trace aortic regurgitation is seen. The mitral valve\nleaflets are mildly thickened. Mild to moderate ([**2-4**]+) mitral\nregurgitation is seen. There is moderate pulmonary artery\nsystolic hypertension. There is no pericardial effusion.\n   IMPRESSION: Small, hypertrophied left ventricle with\nhyperdynamic systolic function. Mild to moderate mitral\nregurgitation. Moderate pulmonary hypertension.\n\nLower extremity venous doppler [**5-11**]-\n1. No evidence of DVT in the visualized veins\n2. Subcutaneous edema of the calf, but calf veins not\nvisualized.\n3. Loculated fluid in the left groin proably represents seroma\nafter hip surgery.\n\nRUQ ultrasound [**5-12**]-\n1. Cirrhosis with splenomegaly consistent with portal\nhypertension.\nModerate-to-large ascites.\n2. Patent portal vein.\n3. Sludge in the gallbladder without evidence of gallstones. No\nbiliary obstruction. Gallbladder wall edema is noted, but\ncompatible with underlying liver disease and third spacing.\n\nHIDA scan [**5-13**]- Acute cholecystitis is unlikely given\ngallbladder filling. Delayed gallbladder filling only after\nmorphine administration may indicate a chronic cholecystis.\n\nCT abd/pelvis [**5-15**]-\n1. Stable hematoma in the left adductor muscles at the level of\nthe ischial tuberosity. Please note that the previously noted\nhematoma in the left thigh at the level of the inferior aspect\nof the plate in the femur is not depicted on this examination.\n2. There is no evidence for retroperitoneal hematoma or\nintraperitoneal\nhemorrhage. A large volume ascites is non-hemorrhagic.\n3. Cirrhotic liver with splenomegaly.\n4. Cholelithiasis without evidence for cholecystitis.\n5. 1.3 cm hypodense lesion in the tail of the pancreas most\nlikely represents an IPMN. In the patient's age group, no\nfurther followup is necessary.\n\n\nBrief Hospital Course:\n80 yof with history of HepC cirrhosis, with known varices,\nrecent admissions for for hip fracture s/p ORIF and NSTEMI\ntreated medically, admitted from rehab for hypotension, found to\nhave significant Hct drop.\n\n# Hypotension/Hct drop: Hct down from 37.6 to 23.0. Initial\nconcern was for variceal bleed given her history of varices.\nHowever, she was scoped by hepatology with EGD showing no bleed.\nCT showed 4x10cm hematoma over the left medial aspect of the\nthigh/groin, likely source of acute blood loss, thought to be\nexacerbated by recent treatment with aspirin/plavix/sc heparin\nfor NSTEMI. She had a coagulopathy (PTT is >100 and INR is 1.5)\nthought to be a combination of her subcutaneous heparin and\ncirrhosis which were corrected.  Her hematocrit responded\nappropriately to transfusion, and she received a total of 4U\nPRBCs.\n    Pressures were initially supported in the ICU with pressors,\nwhich were weaned following IVF and blood resuscitiation.\n    Given initial concern for septic shock, patient was started\non vancomycin and cefepime.  Cefepime was continued on transfer\nto floor and discontinued as patient had no signs of infection.\n\n    On transfer to the floor, blood pressures remained stable,\nbut were labile during hemodialysis preventing large fluid\nremoval.  Hematocrit varied with fluid shifts with dialysis.\nShe was quaiac positive, but had no evidence of variceal\nbleeding and was hemodynamically stable.  She received epo with\ndialysis and 1U PRBC during dialysis on day of discharge.\n\n# Abdominal pain/nausea: Patient had complaints of abdominal\npain and nausea on transfer to the floor from ICU.  Given recent\nNSTEMI, EKG and troponin were checked and showed no acute\nchanges, and downtrending troponin. She had not had a bowel\nmovement in several days and KUB confirmed that she had\nsignificant constipation.  In addition, given elevated\nTbili/alkphos and amylase, concern for cholecystitis,\npancreatitis or choledocholithiasis. RUQ showed biliary sludge\nwithout gallstones and normal size of common bile duct. HIDA was\nnegative for acute cholecystitis but did show delayed filling\nsuggesting chronic cholecystitis.  In addition, a paracentesis\nwas repeated which did not show evidence of spontaneous\nbacterial peritonitis. Pain was thought to be due to biliary\nsludge and resolved spontaneously. Patient may have ongoing\nabdominal pain, specifically with eating, however, she is not a\ncandidate for ERCP or other intervention on sludge/biliary\nstones.\n   With aggressive bowel regimen, patient had several good\nwell-formed bowel movements and nausea/abdominal pain improved.\nShe continued to have regular bowel movements with bowel regimen\nduring admission.\n   In addition, EGD on admission noted candidiasis in the\nesophagus.  Patient was started on clotrimazole troche po QID\nfor 2 weeks.\n\n# Cirrhosis: Secondary to Hep C. Patient with known varices not\nactively bleeding on EGD on admission. Diagnostic paracentesis\nnegative for SBP on [**5-7**] and [**5-12**]. Nadolol was held briefly then\nrestarted once pressures stabilized.  Patient was initially on\ncefepime given concern for septic shock causing hypotension,\nthen changed to ciprofloxacin for SBP prophylaxis (bactrim not\nrestarted given pancytopenia). Patient had a therapeutic\nparacentesis on the day prior to discharge with 4L of fluid\nremoved and albumin given.\n\n# Bradycardia: High 30s while in the ICU, but resolved once\npatient was off of neosynephrine.  Heart rate stable for the\nremainder of admission.\n\n# Chronic renal failure: On dialysis M/W/F. She continued\ndialysis during her hospitalization. Patient was hypotensive\nduring dialysis which limited the amount of fluid that could be\nremoved during each session.  On day of discharge, she had an\nextra session of ultrafiltration. She was continued on sevelamer\nand nephrocaps.\n\n# Left hip fracture s/p ORIF [**2188-4-23**]: In total required 4 units\nof pRBCs for hematoma in left hip.  Aspirin and plavix were held\non admission; aspirin restarted once hematocrit stabilized.\nSurgical site was intact without signs of wound dehiscence.\nStaples were removed at 2 week mark.  Patient continued to work\nwith physical therapy upon transfer to the floor.  Repeat CT\nscan prior to discharge showed interval improvement in hematoma.\n\n# DM: Continued home glargine 10 units daily with insulin\nsliding scale.\n\n# CHF: EF 35% on last admission, with EF 55% during this\nadmission. Carvedilol 12.5mg po BID and lisinopril 10mg po daily\nwere not restarted given normal blood pressure, and low blood\npressures with dialysis.\n\n# CAD: Recent NSTEMI treated medically with aspirin and plavix.\nBoth were held in setting of hematoma, acute blood loss.\nTroponins were monitored daily as were EKG given nonspecific\nsymptoms of nausea/abdominal pain and lethargy.  Troponins\ntrended down and were 0.15 at time of discharge.  EKG remained\nstable throughout admission.  Notably, QTc was prolonged at\n470-490.  Aspirin was restarted once hematocrit stabilized.\nPlavix was held at time of discharge given risk for bleed.  She\nwas not continued on subcutaneous heparin for same reason\n\n# Anemia/thrombocytopena: Related to both end stage renal and\nend stage liver diseases.  Platelets were variable during\nadmission, but current level in the 40-60s likely represents new\nbaseline.  Hematocrit varied, as above, with volume shifts\nrelated to dialysis, but baseline was around 27-28.\n\n# Transitional issues\n- started ciprofloxacin for SBP prophylaxis in place of bactrim\n- started nadolol for esophageal varices\n- started clotrimazole troche QID for [**Female First Name (un) **], continue x 2\nweeks through [**2188-5-28**]\n- bowel regimen: senna/colace/miralax and lactulose to ensure\ndaily stools\n- carvedilol and lisinopril held on discharge; if hypertensive,\nshould restart\n- dialysis monday, wednesday, friday at [**Hospital3 2005**].\n- left leg is partial weight bearing only secondary to hip\nsurgery\n\nMedications on Admission:\n1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\n\ntimes a day).\n2. ferrous sulfate 300 mg (60 mg iron) Tablet Sig: One (1)\nTablet PO BID (2 times a day).\n3. fluticasone 50 mcg/actuation Spray, Suspension Sig: Two (2)\nSpray Nasal [**Hospital1 **] (2 times a day).\n4. insulin glargine 100 unit/mL Solution Sig: Ten (10) units\nSubcutaneous once a day.\n5. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:\nOne (1) Adhesive Patch, Medicated Topical DAILY (Daily): apply\nto shoulder.\n6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\n\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n7. tramadol 50 mg Tablet Sig: One (1) Tablet PO every six (6)\nhours as needed for pain.\n8. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q8H (every\n\n8 hours).\n9. cyanocobalamin (vitamin B-12) 100 mcg Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n10. sertraline 25 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n11. heparin (porcine) 5,000 unit/mL Solution Sig: 5000 (5000)\nuntis Injection three times a day.\n12. sevelamer carbonate 800 mg Tablet Sig: Three (3) Tablet PO\nTID W/MEALS (3 TIMES A DAY WITH MEALS).\n13. Calcium 600 600 mg (1,500 mg) Tablet Sig: One (1) Tablet PO\n\ntwice a day.\n14. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1)\n\nTablet PO 5X/WEEK (MO,TU,TH,FR,SA): Take 5 times a week, after\ndialysis on dialysis days.\n15. lactulose 10 gram/15 mL Syrup Sig: Fifteen (15) ML PO ASDIR:\n\nTitrate to [**3-7**] BM daily. .\n16. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n17. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n18. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap\n\nPO DAILY (Daily).\n19. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n20. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\n\nPO once a day.\n21. carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n\n\nDischarge Medications:\n1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n2. ferrous sulfate 325 mg (65 mg iron) Capsule, Extended Release\nSig: One (1) Capsule, Extended Release PO twice a day.\n3. insulin glargine 100 unit/mL Solution Sig: Ten (10) Units\nSubcutaneous qAM.\n4. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n5. sertraline 25 mg Tablet Sig: One (1) Tablet PO once a day.\n6. nadolol 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n7. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H\n(every 24 hours).\n8. clotrimazole 10 mg Troche Sig: One (1) Troche Mucous membrane\nQID (4 times a day) for 2 weeks.\n9. sevelamer carbonate 800 mg Tablet Sig: Two (2) Tablet PO TID\nW/MEALS (3 TIMES A DAY WITH MEALS).\n10. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n11. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for\nconstipation.\n12. polyethylene glycol 3350 17 gram Powder in Packet Sig: One\n(1) Powder in Packet PO DAILY (Daily).\n13. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday): please hold for loose stools.\n14. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q8H PRN ()\nas needed for pain.\n15. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3\ntimes a day).\n16. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n17. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap\nPO DAILY (Daily).\n18. Calcium 600 600 mg (1,500 mg) Tablet Sig: One (1) Tablet PO\ntwice a day.\n19. fluticasone 50 mcg/actuation Spray, Suspension Sig: One (1)\nNasal twice a day as needed for cold symptoms.\n20. tramadol 50 mg Tablet Sig: One (1) Tablet PO every six (6)\nhours as needed for pain.\n21. Vitamin B-12 100 mcg Tablet Sig: One (1) Tablet PO once a\nday.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 2558**] - [**Location (un) **]\n\nDischarge Diagnosis:\nPrimary diagnosis:\n# Acute blood loss\n# Hypovolemic shock\n\nSecondary diagnosis:\n# Cirrhosis\n# End stage renal disease\n\n\nDischarge Condition:\nMental Status: Confused - sometimes.\nLevel of Consciousness: Lethargic but arousable.\n\nActivity Status: Out of Bed with assistance to chair or\nwheelchair.\nPartial weightbearing on left\n\n\nDischarge Instructions:\nIt was a pleasure taking care of you during your recent\nadmission.\n\nYou were admitted because of low blood pressures, which occurred\nbecause of a large bleed at the site of your hip fracture\nrepair.  You were given blood and your blood pressure improved.\n\nIn addition, you had severe constipation causing abdominal pain\nand nausea, which improved with a bowel regimen.\n\nYou had multiple paracentesis to investigate the fluid in your\nabdomen, which did not show any infection.  You had 4L removed\nprior to admission to make you feel better.\n\nYou were continued on dialysis throughout admission.\n\nThe following changes were made to your medication regimen:\n- STOP plavix\n- STOP omeprazole\n- START ranitidine\n- START nadolol to prevent bleeding from your esophagus\n- STOP bactrim\n- START ciprofloxacin for prevention of infection in your\nabdominal fluid\n- START clotrimazole to treat the fungal infection in your\nthroat\n- STOP carvedilol as your blood pressure has been well\ncontrolled off\n- STOP lisinopril as your blood pressure has been well\ncontrolled off\n\nFollowup Instructions:\nDepartment: LIVER CENTER\nWhen: MONDAY [**2188-6-9**] at 10:30 AM\nWith: [**Name6 (MD) 1382**] [**Name8 (MD) 1383**], MD [**Telephone/Fax (1) 2422**]\nBuilding: LM [**Hospital Unit Name **] [**Location (un) 858**]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\n\n\n"
+    }
+  ]
+}

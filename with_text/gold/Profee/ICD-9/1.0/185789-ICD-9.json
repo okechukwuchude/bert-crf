@@ -1,0 +1,900 @@
+{
+  "hadm_id": 185789,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 112906,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 6,
+          "end": 17,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "bradycardia"
+        },
+        {
+          "begin": 34,
+          "end": 49,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "MapType.APPROX",
+          "covered_text": "atrial bigeminy"
+        },
+        {
+          "begin": 136,
+          "end": 143,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "TRACING"
+        }
+      ],
+      "text": "Sinus bradycardia, atrial ectopy, atrial bigeminy. Compared to the previous\ntracing of [**2166-2-11**] atrial bigeminy is now recorded.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 112908,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 16,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "MapType.APPROX",
+          "covered_text": "Sinus arrhythmia"
+        },
+        {
+          "begin": 24,
+          "end": 46,
+          "code": "427.61",
+          "code_system": "ICD-9-CM",
+          "description": "Supraventricular premature beats",
+          "type": "MapType.EXACT",
+          "covered_text": "atrial premature beats"
+        },
+        {
+          "begin": 244,
+          "end": 251,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "TRACING"
+        }
+      ],
+      "text": "Sinus arrhythmia and/or atrial premature beats. Otherwise, normal tracing.\nSince the previous tracing of [**2166-2-8**] the rate is faster and cycle length is\nmore regular. P wave vector is more typical for sinus rhythm on the present\ntracing.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 112909,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 9,
+          "end": 31,
+          "code": "794.31",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+          "type": "MapType.EXACT",
+          "covered_text": "accelerated junctional"
+        },
+        {
+          "begin": 44,
+          "end": 62,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "short P-R interval"
+        }
+      ],
+      "text": "Probable accelerated junctional rhythm with short P-R interval. Compared to the\nprevious tracing of [**2166-2-6**] the P waves have changed suggestive of different\nfocus of conduction.\n\n"
+    },
+    {
+      "note_id": 2041,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 270,
+          "end": 280,
+          "code": "786.50",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified chest pain",
+          "type": "MapType.EXACT",
+          "covered_text": "Chest pain"
+        },
+        {
+          "begin": 603,
+          "end": 615,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 742,
+          "end": 756,
+          "code": "555.9",
+          "code_system": "ICD-9-CM",
+          "description": "Regional enteritis of unspecified site",
+          "type": "Human",
+          "covered_text": "Crohns disease"
+        },
+        {
+          "begin": 815,
+          "end": 836,
+          "code": "410.91",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myocardial infarction, unspecified site, initial episode of care",
+          "type": "MapType.APPROX",
+          "covered_text": "ST\nsegment depression"
+        },
+        {
+          "begin": 909,
+          "end": 932,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "coronary artery disease"
+        },
+        {
+          "begin": 989,
+          "end": 1017,
+          "code": "600.01",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "MapType.APPROX",
+          "covered_text": "Benign prostatic hypertrophy"
+        },
+        {
+          "begin": 1018,
+          "end": 1033,
+          "code": "555.9",
+          "code_system": "ICD-9-CM",
+          "description": "Regional enteritis of unspecified site",
+          "type": "Human",
+          "covered_text": "Crohn's disease"
+        },
+        {
+          "begin": 1034,
+          "end": 1046,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1047,
+          "end": 1067,
+          "code": "362.51",
+          "code_system": "ICD-9-CM",
+          "description": "Nonexudative senile macular degeneration of retina",
+          "type": "MapType.APPROX",
+          "covered_text": "Macular degeneration"
+        },
+        {
+          "begin": 1068,
+          "end": 1080,
+          "code": "733.00",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoporosis, unspecified",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 1163,
+          "end": 1194,
+          "code": "354.0",
+          "code_system": "ICD-9-CM",
+          "description": "Carpal tunnel syndrome",
+          "type": "MapType.APPROX",
+          "covered_text": "Bilateral carpal tunnel release"
+        },
+        {
+          "begin": 1195,
+          "end": 1229,
+          "code": "173.02",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Skin cancer excised from lower lip"
+        },
+        {
+          "begin": 2833,
+          "end": 2856,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "coronary artery\ndisease"
+        },
+        {
+          "begin": 2892,
+          "end": 2900,
+          "code": "724.00",
+          "code_system": "ICD-9-CM",
+          "description": "Spinal stenosis of unspecified region",
+          "type": "MapType.EXACT",
+          "covered_text": "stenosis"
+        },
+        {
+          "begin": 2906,
+          "end": 2909,
+          "code": "785.6",
+          "code_system": "ICD-9-CM",
+          "description": "Enlargement of lymph nodes",
+          "type": "MapType.APPROX",
+          "covered_text": "LAD"
+        },
+        {
+          "begin": 3083,
+          "end": 3121,
+          "code": "433.10",
+          "code_system": "ICD-9-CM",
+          "description": "Occlusion and stenosis of carotid artery, without mention of cerebral infarction",
+          "type": "MapType.APPROX",
+          "covered_text": "ostia of the internal carotid\narteries"
+        },
+        {
+          "begin": 3524,
+          "end": 3549,
+          "code": "440.0",
+          "code_system": "ICD-9-CM",
+          "description": "Atherosclerosis of aorta",
+          "type": "MapType.EXACT",
+          "covered_text": "descending thoracic aorta"
+        },
+        {
+          "begin": 3753,
+          "end": 3773,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral regurgitation"
+        },
+        {
+          "begin": 4317,
+          "end": 4329,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 4365,
+          "end": 4379,
+          "code": "555.9",
+          "code_system": "ICD-9-CM",
+          "description": "Regional enteritis of unspecified site",
+          "type": "Human",
+          "covered_text": "Crohns disease"
+        },
+        {
+          "begin": 4400,
+          "end": 4428,
+          "code": "794.39",
+          "code_system": "ICD-9-CM",
+          "description": "Other nonspecific abnormal function study of cardiovascular system",
+          "type": "Human",
+          "covered_text": "abnormal nuclear stress test"
+        },
+        {
+          "begin": 5237,
+          "end": 5256,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "MapType.APPROX",
+          "covered_text": "atrial fibrillation"
+        },
+        {
+          "begin": 7738,
+          "end": 7761,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 7822,
+          "end": 7850,
+          "code": "600.01",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "MapType.APPROX",
+          "covered_text": "Benign prostatic hypertrophy"
+        },
+        {
+          "begin": 7851,
+          "end": 7866,
+          "code": "555.9",
+          "code_system": "ICD-9-CM",
+          "description": "Regional enteritis of unspecified site",
+          "type": "Human",
+          "covered_text": "Crohn's disease"
+        },
+        {
+          "begin": 7867,
+          "end": 7879,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 7880,
+          "end": 7900,
+          "code": "362.51",
+          "code_system": "ICD-9-CM",
+          "description": "Nonexudative senile macular degeneration of retina",
+          "type": "MapType.APPROX",
+          "covered_text": "Macular degeneration"
+        },
+        {
+          "begin": 7901,
+          "end": 7913,
+          "code": "733.00",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoporosis, unspecified",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 7914,
+          "end": 7928,
+          "code": "715.90",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoarthrosis, unspecified whether generalized or localized, involving unspecified site",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Osteoarthritis"
+        },
+        {
+          "begin": 7996,
+          "end": 8027,
+          "code": "354.0",
+          "code_system": "ICD-9-CM",
+          "description": "Carpal tunnel syndrome",
+          "type": "MapType.APPROX",
+          "covered_text": "Bilateral carpal tunnel release"
+        },
+        {
+          "begin": 8028,
+          "end": 8062,
+          "code": "173.02",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Skin cancer excised from lower lip"
+        },
+        {
+          "begin": 8288,
+          "end": 8293,
+          "code": "782.2",
+          "code_system": "ICD-9-CM",
+          "description": "Localized superficial swelling, mass, or lump",
+          "type": "MapType.APPROX",
+          "covered_text": "Edema"
+        }
+      ],
+      "text": "Admission Date:  [**2166-2-6**]              Discharge Date:   [**2166-2-17**]\n\nDate of Birth:  [**2091-10-24**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 165**]\nChief Complaint:\nChest pain\n\nMajor Surgical or Invasive Procedure:\n[**2166-2-7**] Cardiac cath\n[**2166-2-12**] Coronary artery bypass graft x3: Left internal mammary\nartery to left anterior descending artery; and saphenous vein\ngrafts to obtuse marginal-1 and posterior descending artery\n\nHistory of Present Illness:\n74-year-old male with history of hypertension, accelerated\njunctional rhythm causing symptoms during exertion much improved\nfollowing aggressive blood pressure control,and Crohns disease\nthat presents after nuclear stress test today showed 3 mm ST\nsegment depression inferolaterally. He was admitted for cardiac\ncath which revealed severe coronary artery disease and is now\nreferred for surgery.\n\nPast Medical History:\nBenign prostatic hypertrophy\nCrohn's disease\nHypertension\nMacular degeneration\nOsteoporosis\nOsteoarthritis (back)\nBack surgery with rod (as teenager)\nBilateral rotator cuffs\nBilateral carpal tunnel release\nSkin cancer excised from lower lip\n\nSocial History:\nHe quit smoking in [**2132**].  He retired as a vice-president of a\nconstruction company.  He has been married for 29 years.  He has\nnot drunk any alcohol for the past 15 years or so. Lives with\nwife and daughter. [**Name (NI) **] Dental Exam: [**4-8**] mos. ago\n\nFamily History:\nMother had some type of cervical or perhaps bladder cancer.\nThere is no family history of colon cancer.  Father and one\nsister had a history of alcoholism.  His other sister is\notherwise well.  He has three healthy children ages 51, 45, and\n43 along with four grandchildren, all in good health.\n\nPhysical Exam:\nPulse: 56 Resp: 16 O2 sat: 100%RA\nB/P  Right:    Left: 129/57\nHeight:     Weight: 73.6kg\n\nGeneral: NAD, WGWN, appears stated age\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]\nExtremities: Warm [x], well-perfused [x]  Edema- none\nVaricosities: None [x]\nNeuro: Grossly intact\nPulses:\nFemoral      Right: 2+ **Mynx closure device** Left: 2+\nDP           Right: 1+  Left: 2+\nPT           [**Name (NI) 167**]: 2+  Left: 2+\nRadial       Right: 2+  Left: 2+\n\nCarotid Bruit        Right:    Left:\nno bruits\n\nPertinent Results:\n[**2166-2-6**] Nuclear perfusion: 1. Normal myocardial perfusion at the\nlevel of exercise achieved and in the setting of ischemic ECG\nchanges. EF of 63% at stress and 66% at rest.\n\n[**2166-2-7**] Cardiac cath: 1. Selective coronary angiography of this\nright dominant system revealed three vessel coronary artery\ndisease. The LMCA had a hazy distal 60-70% stenosis. The LAD and\nLCx were free of angiographically significant disease. The RCA\nhad serial 70% stenoses from its mid-portion to distal vesel.\n\n[**2166-2-10**] Carotid U/S: Plaque at the ostia of the internal carotid\narteries but no evidence of a hemodynamically significant\nstenosis. Flow in the vertebral arteries is prograde on both\nsides.\n\n[**2166-2-12**] Echo: Pre Bypass: The left atrium is normal in size. No\natrial septal defect is seen by 2D or color Doppler. Left\nventricular wall thicknesses and cavity size are normal. Right\nventricular chamber size and free wall motion are normal. There\nare simple atheroma in the descending thoracic aorta. The aortic\nvalve leaflets (3) appear structurally normal with good leaflet\nexcursion and no aortic regurgitation. The mitral valve appears\nstructurally normal with trivial mitral regurgitation. Trivial\nmitral regurgitation is seen. Post Bypass: Preserved\nbiventricular function, LVEF>55%. MR remains trace. No aortic\ndissection seen, though incidental note is made of shadowing in\nthe proximal aortic root near the right coronary cusp- can not\nexclude mass or throumbus, no luminal irregularities- discussed\nwith and shown to Dr. [**Last Name (STitle) **]. Remaining exam is\nunchanged, all findings discussed with surgeons at the time of\nthe exam.\n\nBrief Hospital Course:\nAs mentioned in the HPI, Mr. [**Known lastname 11165**] is a 74-year-old male with\nhistory of hypertension, accelerated junctional rhythm and\nCrohns disease that presents after abnormal nuclear stress test\nwith cardiac cath showing left main and RCA CAD. Patient\nunderwent usual pre-operative work-up for bypass surgery while\nreceiving appropriate medical management prior to surgery. On\n[**2-12**] he was brought to the operating room where he underwent a\ncoronary artery bypass graft x 3. Please see operative for\nsurgical details. Following surgery he was transferred to the\nCVICU for invasive monitoring in stable condition. Later that\nday he was weaned from sedation, awoke neurologically intact and\nextubated. On post-op day one beta-blockers and diuretics were\nstarted and he was gently diuresed towards his pre-op weight.\nLater on this day he was transferred to the step-down unit for\nfurther care. Chest tubes and epicardial pacing wires were\nremoved per protocol. On post-op day two he had an episode of\natrial fibrillation which was treated with Amiodarone and\nLopressor with conversion back to sinus rhythm. He otherwise\nmade good recovery while working with physical therapy for\nstrength and mobility. On post-op day five he was discharged\nhome with the appropriate medications and follow-up\nappointments.\n\nMedications on Admission:\nAlendronate 70 mg Tablet 1 Tablet(s) by mouth weekly (Sat)\nChlorthalidone 12.5 mg Tablet daily\nFolic acid 1 mg Tablet by mouth daily\nHydrocortisone 100 mg/60 mL enema rectally every third night\n(Patient takes about every ten days, last time on [**2166-2-5**])\nLisinopril 40 mg Tablet 1 Tablet(s) by mouth daily\nTerazosin 5 mg Capsule  1 Capsule(s) by mouth at bedtime\nAspirin 81 mg Tablet 1 (One) Tablet(s) by mouth once a day\nBifidobacterium infantis [Align]\nCalcium citrate-vitamin D3 [Citracal + D]\nMultivitamin\nStudy medication for macular degeneration at [**Hospital1 2025**] (unknown\nformulation)\n\nDischarge Medications:\n1. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:\nOne (1) Tablet, ER Particles/Crystals PO Q12H (every 12 hours).\nDisp:*10 Tablet, ER Particles/Crystals(s)* Refills:*0*\n2. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)\nfor 10 days.\nDisp:*10 Tablet(s)* Refills:*0*\n3. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\nDisp:*60 Tablet(s)* Refills:*2*\n4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*60 Capsule(s)* Refills:*2*\n5. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\nDisp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*\n6. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ4H (every 4 hours) as needed for pain.\nDisp:*45 Tablet(s)* Refills:*0*\n7. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*60 Tablet(s)* Refills:*2*\n8. alendronate 70 mg Tablet Sig: One (1) Tablet PO QSAT (every\nSaturday).\nDisp:*8 Tablet(s)* Refills:*2*\n9. terazosin 5 mg Capsule Sig: One (1) Capsule PO HS (at\nbedtime).\nDisp:*30 Capsule(s)* Refills:*2*\n10. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\nDisp:*60 Tablet(s)* Refills:*2*\n11. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*60 Tablet(s)* Refills:*2*\n12. multivitamin     Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*60 Tablet(s)* Refills:*2*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital 2255**] [**Name (NI) 2256**]\n\nDischarge Diagnosis:\nCoronary artery disease s/p Coronary artery bypass graft x 3\n\nPast medical history:\nBenign prostatic hypertrophy\nCrohn's disease\nHypertension\nMacular degeneration\nOsteoporosis\nOsteoarthritis (back)\nBack surgery with rod (as teenager)\nBilateral rotator cuffs\nBilateral carpal tunnel release\nSkin cancer excised from lower lip\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Right/Left - healing well, no erythema or drainage.\nEdema\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**First Name (STitle) **] on [**3-3**] at 1:30PM\nCardiologist: Dr. [**Last Name (STitle) 1911**] [**2-27**] at 3:30PM\n[**Hospital Ward Name 121**] 6 wound check on Tuesday [**2166-2-25**] at 11am with Midlevel #\n[**Telephone/Fax (1) 3071**]\n\nPlease call to schedule appointments with your\nPrimary Care Dr. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) **] in [**4-8**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]\n\nCompleted by:[**2166-2-17**]"
+    },
+    {
+      "note_id": 112907,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 6,
+          "end": 17,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "bradycardia"
+        },
+        {
+          "begin": 23,
+          "end": 45,
+          "code": "427.61",
+          "code_system": "ICD-9-CM",
+          "description": "Supraventricular premature beats",
+          "type": "MapType.EXACT",
+          "covered_text": "atrial premature beats"
+        },
+        {
+          "begin": 127,
+          "end": 134,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "TRACING"
+        }
+      ],
+      "text": "Sinus bradycardia with atrial premature beats. Since the previous tracing the\nrate is slower and cycle length is more regular.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 1175728,
+      "category": "Radiology",
+      "description": "CAROTID SERIES COMPLETE",
+      "annotations": [
+        {
+          "begin": 154,
+          "end": 162,
+          "code": "724.00",
+          "code_system": "ICD-9-CM",
+          "description": "Spinal stenosis of unspecified region",
+          "type": "MapType.EXACT",
+          "covered_text": "stenosis"
+        },
+        {
+          "begin": 357,
+          "end": 360,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 421,
+          "end": 429,
+          "code": "724.00",
+          "code_system": "ICD-9-CM",
+          "description": "Spinal stenosis of unspecified region",
+          "type": "MapType.EXACT",
+          "covered_text": "stenosis"
+        },
+        {
+          "begin": 647,
+          "end": 667,
+          "code": "433.10",
+          "code_system": "ICD-9-CM",
+          "description": "Occlusion and stenosis of carotid artery, without mention of cerebral infarction",
+          "type": "MapType.APPROX",
+          "covered_text": "carotid bifurcations"
+        }
+      ],
+      "text": "[**2166-2-10**] 9:22 AM\n CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 54168**]\n Reason: evaluate for stenosis\n Admitting Diagnosis: CHEST PAIN;POSITIVE STRESS TEST\n ______________________________________________________________________________\n [**Hospital 3**] MEDICAL CONDITION:\n  74 year old man with CAD going for CABG\n REASON FOR THIS EXAMINATION:\n  evaluate for stenosis\n ______________________________________________________________________________\n                                 FINAL REPORT\n CLINICAL EVALUATION:  The patient preop for CABG.\n\n FINDINGS:  Realtime evaluation of the carotid bifurcations reveals minimal\n plaque in the proximal internal carotid arteries on both sides, slightly more\n on the right.\n\n Peak systolic and diastolic velocities are unremarkable on both sides.  Flow\n in the vertebral arteries is prograde.  The ICA to CCA ratio on the right is\n 0.64, on the left 1.3.\n\n IMPRESSION:  Plaque at the ostia of the internal carotid arteries but no\n evidence of a hemodynamically significant stenosis.  Flow in the vertebral\n arteries is prograde on both sides.\n\n\n"
+    },
+    {
+      "note_id": 1176135,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 35,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST PORT"
+        },
+        {
+          "begin": 224,
+          "end": 234,
+          "code": "786.50",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified chest pain",
+          "type": "MapType.EXACT",
+          "covered_text": "CHEST PAIN"
+        },
+        {
+          "begin": 235,
+          "end": 255,
+          "code": "794.39",
+          "code_system": "ICD-9-CM",
+          "description": "Other nonspecific abnormal function study of cardiovascular system",
+          "type": "MapType.EXACT",
+          "covered_text": "POSITIVE STRESS TEST"
+        },
+        {
+          "begin": 396,
+          "end": 399,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 838,
+          "end": 842,
+          "code": "414.05",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of bypass graft",
+          "type": "MapType.APPROX",
+          "covered_text": "CABG"
+        },
+        {
+          "begin": 931,
+          "end": 935,
+          "code": "414.05",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of bypass graft",
+          "type": "MapType.APPROX",
+          "covered_text": "CABG"
+        },
+        {
+          "begin": 1277,
+          "end": 1313,
+          "code": "519.4",
+          "code_system": "ICD-9-CM",
+          "description": "Disorders of diaphragm",
+          "type": "MapType.EXACT",
+          "covered_text": "elevation of the right hemidiaphragm"
+        }
+      ],
+      "text": "[**2166-2-12**] 1:49 PM\n CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 33952**]\n Reason: FAST TRACK EXTUBATION CARDIAC SURGERY PROTOCOL, ?line placem\n Admitting Diagnosis: CHEST PAIN;POSITIVE STRESS TEST\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  74 year old man with CAD s/p CABG. Please [**First Name8 (NamePattern2) 1461**] [**First Name4 (NamePattern1) 3163**] [**Last Name (NamePattern1) 3164**] at [**Numeric Identifier 12572**] with\n  abnormalities.\n REASON FOR THIS EXAMINATION:\n  FAST TRACK EXTUBATION CARDIAC SURGERY PROTOCOL, ?line placement, r/o\n  PTX/Effusion\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  CABG.\n\n FINDINGS:  In comparison with the preoperative study of [**2-7**], there has been\n a CABG procedure performed with intact midline sternal wires.  Endotracheal\n tube tip lies approximately 5 cm above the carina.  Right IJ catheter extends\n to the mid-to-lower portion of the SVC.  Nasogastric tube is coiled within the\n upper stomach.  Left chest tube is in place and there is no definite evidence\n of pneumothorax.  Continued mild elevation of the right hemidiaphragm.\n Atelectatic changes are seen at the bases, especially on the left and there\n are some streaks of atelectasis in the mid lung zone on this side.\n\n\n"
+    },
+    {
+      "note_id": 1175472,
+      "category": "Radiology",
+      "description": "CHEST (PRE-OP PA & LAT)",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 46,
+          "code": "71046",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; 2 views",
+          "type": "Human",
+          "covered_text": "CHEST (PRE-OP PA & LAT"
+        },
+        {
+          "begin": 140,
+          "end": 150,
+          "code": "786.50",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified chest pain",
+          "type": "MapType.EXACT",
+          "covered_text": "CHEST PAIN"
+        },
+        {
+          "begin": 151,
+          "end": 171,
+          "code": "794.39",
+          "code_system": "ICD-9-CM",
+          "description": "Other nonspecific abnormal function study of cardiovascular system",
+          "type": "MapType.EXACT",
+          "covered_text": "POSITIVE STRESS TEST"
+        },
+        {
+          "begin": 205,
+          "end": 225,
+          "code": "794.39",
+          "code_system": "ICD-9-CM",
+          "description": "Other nonspecific abnormal function study of cardiovascular system",
+          "type": "MapType.EXACT",
+          "covered_text": "POSITIVE STRESS TEST"
+        },
+        {
+          "begin": 392,
+          "end": 414,
+          "code": "794.31",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+          "type": "MapType.EXACT",
+          "covered_text": "accelerated junctional"
+        },
+        {
+          "begin": 428,
+          "end": 442,
+          "code": "555.9",
+          "code_system": "ICD-9-CM",
+          "description": "Regional enteritis of unspecified site",
+          "type": "Human",
+          "covered_text": "Crohns disease"
+        },
+        {
+          "begin": 448,
+          "end": 451,
+          "code": "414.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 462,
+          "end": 466,
+          "code": "414.05",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of bypass graft",
+          "type": "MapType.APPROX",
+          "covered_text": "CABG"
+        },
+        {
+          "begin": 714,
+          "end": 726,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 728,
+          "end": 743,
+          "code": "555.9",
+          "code_system": "ICD-9-CM",
+          "description": "Regional enteritis of unspecified site",
+          "type": "Human",
+          "covered_text": "Crohn's disease"
+        },
+        {
+          "begin": 756,
+          "end": 760,
+          "code": "414.05",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of bypass graft",
+          "type": "MapType.APPROX",
+          "covered_text": "CABG"
+        },
+        {
+          "begin": 828,
+          "end": 851,
+          "code": "787.99",
+          "code_system": "ICD-9-CM",
+          "description": "Other symptoms involving digestive system",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Lungs are hyperinflated"
+        }
+      ],
+      "text": "[**2166-2-7**] 8:16 PM\n CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 33811**]\n Reason: CHEST PAIN;POSITIVE STRESS TEST\n Admitting Diagnosis: CHEST PAIN;POSITIVE STRESS TEST\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  74-year-old male with history of hypertension, accelerated junctional rhythm\n  and Crohns disease with CAD going for CABG.\n REASON FOR THIS EXAMINATION:\n  pre-op CXR\n ______________________________________________________________________________\n                                 FINAL REPORT\n PA AND LATERAL CHEST, [**2-7**]\n\n HISTORY:  74-year-old man with history of hypertension, Crohn's disease, going\n for CABG.\n\n IMPRESSION:  PA and lateral chest compared to [**2163-5-8**]:\n\n Lungs are hyperinflated, consistent with COPD.  Heart size is normal.  The\n hilar and pulmonary vascular shadows and pleural surfaces are unremarkable.\n There is no evidence of central lymph node enlargement.\n\n\n"
+    },
+    {
+      "note_id": 60755,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 263,
+          "end": 293,
+          "code": "93308",
+          "code_system": "CPT",
+          "description": "Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, follow-up or limited study",
+          "type": "Human",
+          "covered_text": "Full Doppler and color Doppler"
+        },
+        {
+          "begin": 847,
+          "end": 875,
+          "code": "440.0",
+          "code_system": "ICD-9-CM",
+          "description": "Atherosclerosis of aorta",
+          "type": "MapType.EXACT",
+          "covered_text": "atheroma in descending aorta"
+        },
+        {
+          "begin": 1004,
+          "end": 1006,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "MR"
+        },
+        {
+          "begin": 1741,
+          "end": 1766,
+          "code": "440.0",
+          "code_system": "ICD-9-CM",
+          "description": "Atherosclerosis of aorta",
+          "type": "MapType.EXACT",
+          "covered_text": "descending thoracic aorta"
+        },
+        {
+          "begin": 1940,
+          "end": 1960,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "mitral regurgitation"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: Intraop CABG evaluate valves, ventricles, aortic contours\nHeight: (in) 68\nWeight (lb): 165\nBSA (m2): 1.89 m2\nBP (mm Hg): 110/60\nHR (bpm): 60\nStatus: Inpatient\nDate/Time: [**2166-2-12**] at 11:19\nTest: TEE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Adequate\n\n\nINTERPRETATION:\n\nFindings:\n\nLEFT ATRIUM: Normal LA size.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal interatrial septum. No\nASD by 2D or color Doppler.\n\nLEFT VENTRICLE: Wall thickness and cavity dimensions were obtained from 2D\nimages. Normal LV wall thickness and cavity size.\n\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\n\nAORTA: Normal aortic diameter at the sinus level. Normal ascending aorta\ndiameter. Normal aortic arch diameter. Normal descending aorta diameter.\nSimple atheroma in descending aorta.\n\nAORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. No AS.\n\nMITRAL VALVE: Normal mitral valve leaflets with trivial MR. [**First Name (Titles) 6**] [**Last Name (Titles) 31**]. Trivial MR.\nThe MR vena contracta is <0.3cm.\n\nTRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.\n\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets. Physiologic\n(normal) PR.\n\nPERICARDIUM: No pericardial effusion.\n\nGENERAL COMMENTS: A TEE was performed in the location listed above. I certify\nI was present in compliance with HCFA regulations. No TEE related\ncomplications.\n\nConclusions:\nPre Bypass: The left atrium is normal in size. No atrial septal defect is seen\nby 2D or color Doppler. Left ventricular wall thicknesses and cavity size are\nnormal. Right ventricular chamber size and free wall motion are normal. There\nare simple atheroma in the descending thoracic aorta. The aortic valve\nleaflets (3) appear structurally normal with good leaflet excursion and no\naortic regurgitation. The mitral valve appears structurally normal with\ntrivial mitral regurgitation. Trivial mitral regurgitation is seen.\n\nPost Bypass: Preserved biventricular function, LVEF>55%. MR remains trace. No\naortic dissection seen, though incidental note is made of shadowing in the\nproximal aortic root near the right coronary cusp- can not exclude mass or\nthroumbus, no luminal irregularities- discussed with and shown to Dr.\n[**Last Name (STitle) 12**]. Remaining exam is unchanged, all findings discussed with\nsurgeons at the time of the exam.\n\n\n"
+    },
+    {
+      "note_id": 112946,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 6,
+          "end": 17,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "bradycardia"
+        },
+        {
+          "begin": 127,
+          "end": 159,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "no significant diagnostic change"
+        }
+      ],
+      "text": "Sinus bradycardia.  Otherwise, findings are within normal limits.  Compared to\nthe previous tracing of [**2163-5-3**] there is no significant diagnostic change.\n\n"
+    },
+    {
+      "note_id": 1176224,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 176,
+          "end": 186,
+          "code": "786.50",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified chest pain",
+          "type": "MapType.EXACT",
+          "covered_text": "CHEST PAIN"
+        },
+        {
+          "begin": 187,
+          "end": 207,
+          "code": "794.39",
+          "code_system": "ICD-9-CM",
+          "description": "Other nonspecific abnormal function study of cardiovascular system",
+          "type": "MapType.EXACT",
+          "covered_text": "POSITIVE STRESS TEST"
+        }
+      ],
+      "text": "[**2166-2-13**] 7:42 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 54200**]\n Reason: eval for ptx\n Admitting Diagnosis: CHEST PAIN;POSITIVE STRESS TEST\n ______________________________________________________________________________\n [**Hospital 3**] MEDICAL CONDITION:\n  74 year old man s/p ct removal\n REASON FOR THIS EXAMINATION:\n  eval for ptx\n ______________________________________________________________________________\n                                 FINAL REPORT\n CHEST RADIOGRAPH\n\n INDICATION:  Chest tube removal, evaluation for pneumothorax.\n\n COMPARISON:  [**2166-2-12**].\n\n FINDINGS:  As compared to the previous radiograph, the monitoring and support\n devices have all been removed, except for a right internal jugular vein\n catheter.\n\n No evidence of complications, notably no pneumothorax.  No pleural effusions.\n Normal size of the cardiac silhouette, no focal parenchymal opacity suggesting\n pneumonia.\n\n\n"
+    },
+    {
+      "note_id": 112905,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "794.31",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+          "type": "MapType.EXACT",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 133,
+          "end": 140,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "TRACING"
+        }
+      ],
+      "text": "Sinus rhythm and continued atrial ectopy. Compared to the previous tracing\nof [**2166-2-12**] there is no diagnostic interim change.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 1176670,
+      "category": "Radiology",
+      "description": "CHEST (PA & LAT)",
+      "annotations": [
+        {
+          "begin": 564,
+          "end": 568,
+          "code": "414.05",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of bypass graft",
+          "type": "MapType.APPROX",
+          "covered_text": "CABG"
+        },
+        {
+          "begin": 677,
+          "end": 711,
+          "code": "519.4",
+          "code_system": "ICD-9-CM",
+          "description": "Disorders of diaphragm",
+          "type": "MapType.EXACT",
+          "covered_text": "hemidiaphragm is\n mildly elevated."
+        },
+        {
+          "begin": 764,
+          "end": 782,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "increased\n opacity"
+        },
+        {
+          "begin": 881,
+          "end": 908,
+          "code": "511.1",
+          "code_system": "ICD-9-CM",
+          "description": "Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "bilateral pleural effusions"
+        }
+      ],
+      "text": "[**2166-2-16**] 11:15 AM\n CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 54211**]\n Reason: interval change\n Admitting Diagnosis: CHEST PAIN;POSITIVE STRESS TEST\n ______________________________________________________________________________\n [**Hospital 3**] MEDICAL CONDITION:\n  74 year old man with CABG\n REASON FOR THIS EXAMINATION:\n  interval change\n ______________________________________________________________________________\n                                 FINAL REPORT\n CHEST ON [**2-16**]\n\n HISTORY:  CABG, interval change.\n\n REFERENCE EXAM:  [**2-13**]\n\n FINDINGS:  The right IJ line has been removed.  The right hemidiaphragm is\n mildly elevated.  There is volume loss in both lower lungs with some increased\n opacity in the retrocardiac region likely representing small infiltrate or\n atelectasis.  There are small bilateral pleural effusions.  Compared to the\n prior study the aeration is better bilaterally.\n\n\n"
+    },
+    {
+      "note_id": 112903,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "794.31",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+          "type": "MapType.EXACT",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 79,
+          "end": 95,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "previous tracing"
+        }
+      ],
+      "text": "Sinus rhythm.  Early repolarization versus current of injury.  Compared to the\nprevious tracing of [**2166-2-13**] no change.\n\n"
+    },
+    {
+      "note_id": 112904,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "794.31",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+          "type": "MapType.EXACT",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 144,
+          "end": 151,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "TRACING"
+        }
+      ],
+      "text": "Sinus rhythm. Compared to the previous tracing of [**2166-2-12**] atrial ectopy is no\nlonger recorded. Otherwise, no diagnostic interim change.\nTRACING #3\n\n"
+    }
+  ]
+}

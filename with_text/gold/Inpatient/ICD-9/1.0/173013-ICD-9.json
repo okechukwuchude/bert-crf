@@ -1,0 +1,86 @@
+{
+  "hadm_id": 173013,
+  "comment": "Bronchoscopy - Missing OP Note to validate PCS",
+  "notes": [
+    {
+      "note_id": 33407,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2156,
+          "end": 2179,
+          "code": "245.2",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic lymphocytic thyroiditis",
+          "type": "MapType.EXACT",
+          "covered_text": "Hashimoto's thyroiditis"
+        },
+        {
+          "begin": 6657,
+          "end": 6666,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "Human",
+          "covered_text": "pneumonia"
+        },
+        {
+          "begin": 6695,
+          "end": 6714,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "Human",
+          "covered_text": "Respiratory failure"
+        },
+        {
+          "begin": 6715,
+          "end": 6737,
+          "code": "481",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]",
+          "type": "Human",
+          "covered_text": "Pneumococcal Pneumonia"
+        },
+        {
+          "begin": 8454,
+          "end": 8473,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute Renal Failure"
+        },
+        {
+          "begin": 8653,
+          "end": 8664,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 9011,
+          "end": 9041,
+          "code": "516.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary alveolar proteinosis",
+          "type": "Human",
+          "covered_text": "Pulmonary Alveolar Proteinosis"
+        },
+        {
+          "begin": 9228,
+          "end": 9242,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        }
+      ],
+      "text": "Admission Date:  [**2165-10-1**]              Discharge Date:   [**2165-10-9**]\n\nDate of Birth:  [**2114-6-3**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nAmoxicillin\n\nAttending:[**First Name3 (LF) 1928**]\nChief Complaint:\nTransfer for respiratory failure\n\nMajor Surgical or Invasive Procedure:\nbronchoscopy *2\n\nHistory of Present Illness:\nMr. [**Known lastname 39602**] is a 51 yo man with a diagnosis of pulmonary\nalveolar proteinosis who presents in transfer from [**Location 75548**] for treatment of pneumonia and respiratory\nfailure. Per H&P from OSH, the patient was in his usual state of\nhealth until [**9-28**] when he developed URI symptoms, dyspnea,\ncough, fever and chills. He presented to the hospital today and\nwas found to have a large LLL/lingular pneumonia on chest X-ray.\nHe was afebrile on admission there with RR 49, HR 143, BP\n111/75. He was started on IV linezolid and levofloxacin and\nadmitted to the ICU. O2 sat on arrival to the ICU was 88% on\nFiO2 70%. ABG was 7.48/33/51. His RR increased to 50, his HR\nremained 130s and his temp increased to 100.4, and he was\nintubated at that time. he was placed on ventilator support -\nassist control, tidal volume 600, FiO2 100% and RR 12. He was\nplaced on a propofol drip for sedation. He was suctioned for\nthick yellow brownish-colored sputum, blood-tinged. Gram stain\nshowed <10 epis, 1+ gram positive cocci. BP dropped to 89/40 and\nhe received a NS bolus and started on neosynephrine. Repeat ABG\nwas 7.43/39/222. High A-a gradient of 442. He was transferred to\n[**Hospital1 18**] for further management.\n\nUpon arrival to the ICU, the patient was intubated, sedated, on\nneo gtt. Central line and R radial A-line placed. Bronchoscopy\nperformed showing large mucus plug on the left.\n\nOn transfer to the floor, he felt that his shortness of breath\nhad improved, but was still requring supplemental oxygen.  He\nreported feeling tired, but was improved since his admission\n\n\nPast Medical History:\n- Pulmonary alveolar proteinosis, diagnosed [**5-10**] by open lung bx\n-follow-up 11/08 per OSH report almost complete resolution of\ninfiltrates\n- IBD s/p colon resection and colostomy\n- Hashimoto's thyroiditis\n- Hx of sinus surgery\n\n\nSocial History:\nOccasional ETOH use, does not and has never smoked. Married, two\nchildren.  Works as a mechanical engineer in an office setting.\nHas no known exposure to asbestos.  Mother grew up on a farm in\n[**State 23924**] and patient would visit often as a child.  No known\nexposure to any chemicals or solvents. Married with two\nchildren/\n\n\nFamily History:\nFather deceased - kidney CA. Mother is alive and healthy\n\n\nPhysical Exam:\nVS: T: 99.4 HR: 91 BP: 102/60 RR: 16 O2: 98% on FiO2 100%, PEEP\n5\nGen: Intubated sedated\nHEENT: PEERL, MM dry\nNeck: Supple, no LAD, no JVD\nHeart:RRR, nl S1/2, no murmurs\nLung: clear breath sounds b/l anteriorly\nAbd: Colostomy with midline scar\nExtrem: Warm, no edema, 2+ dp, radial pulses\nSkin: no rashes\nNeuro: No clonus, toes downgoing\n\nPertinent Results:\nEKG: Sinus rhythm at 88 with PVC. nl intervals, nl axis, J point\nelevation in lateral leads, changed from prior\n\nHEMATOLOGY\n[**2165-10-1**] 09:45PM BLOOD WBC-10.3 RBC-3.79* Hgb-11.7* Hct-35.6*\nMCV-94 MCH-31.0 MCHC-33.0 RDW-13.9 Plt Ct-241\n[**2165-10-4**] 03:04AM BLOOD WBC-13.0* RBC-3.16* Hgb-9.7* Hct-29.2*\nMCV-93 MCH-30.6 MCHC-33.0 RDW-14.5 Plt Ct-237\n[**2165-10-7**] 04:08AM BLOOD WBC-11.2* RBC-3.13* Hgb-9.7* Hct-29.2*\nMCV-93 MCH-31.0 MCHC-33.2 RDW-14.2 Plt Ct-381\n[**2165-10-9**] 08:40AM BLOOD WBC-9.4 RBC-3.64* Hgb-10.8* Hct-33.8*\nMCV-93 MCH-29.6 MCHC-31.9 RDW-14.6 Plt Ct-677*\n[**2165-10-5**] 02:36AM BLOOD Neuts-92.1* Lymphs-4.7* Monos-2.5 Eos-0.5\nBaso-0.2\n\nCOAGS\n[**2165-10-4**] 03:04AM BLOOD PT-13.9* PTT-30.3 INR(PT)-1.2*\n\nCHEMISTRY\n[**2165-10-1**] 09:45PM BLOOD Glucose-114* UreaN-23* Creat-1.4* Na-141\nK-3.7 Cl-107 HCO3-23 AnGap-15\n[**2165-10-5**] 02:36AM BLOOD Glucose-100 UreaN-16 Creat-0.9 Na-146*\nK-3.2* Cl-112* HCO3-26 AnGap-11\n[**2165-10-9**] 08:40AM BLOOD Glucose-80 UreaN-7 Creat-0.9 Na-137 K-4.8\nCl-106 HCO3-22 AnGap-14\n[**2165-10-9**] 08:40AM BLOOD Calcium-8.8 Phos-2.8 Mg-2.2\n\nLFTS\n[**2165-10-1**] 09:45PM BLOOD ALT-14 AST-39 LD(LDH)-303* AlkPhos-60\nTotBili-1.6*\n\nCARDIAC ENZYMES\n[**2165-10-2**] 03:16AM BLOOD CK(CPK)-53\n[**2165-10-3**] 11:00AM BLOOD CK(CPK)-435*\n[**2165-10-2**] 03:16AM BLOOD CK-MB-NotDone cTropnT-<0.01\n[**2165-10-3**] 11:00AM BLOOD CK-MB-5 cTropnT-<0.01\n[**2165-10-3**] 06:00PM BLOOD cTropnT-<0.01\n\nENDOCRINE/IRON\n[**2165-10-6**] 05:11AM BLOOD calTIBC-133* Ferritn-749* TRF-102*\n[**2165-10-4**] 03:04AM BLOOD TSH-1.4\n[**2165-10-4**] 03:04AM BLOOD T4-2.1* T3-44* calcTBG-0.95 TUptake-1.05\nT4Index-2.2* Free T4-0.44*\n[**2165-10-3**] 11:00AM BLOOD Cortsol-11.9\n[**2165-10-2**] 03:23AM BLOOD Lactate-1.6\n\nURINE:\nU/A: negative glucose, small bili, neg ketones, neg nitrates,\ntrace blood, negative leuk esterase, protein >=300, [**6-12**] WBC, 3+\nbacteria, 1+ amorphous crystals\nInfluenza antigen screen - negative\n\nCULTURE DATA:\nBAL: GRAM STAIN (Final [**2165-10-2**]):\n      >25 PMNs and <10 epithelial cells/100X field.\n      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.\n                                    IN PAIRS AND CLUSTERS.\n   RESPIRATORY CULTURE (Final [**2165-10-3**]):\n      SPARSE GROWTH Commensal Respiratory Flora.\n   FUNGAL CULTURE (Preliminary):\n      MOLD.\n\nBAL: GRAM STAIN (Final [**2165-10-2**]):\n      >25 PMNs and <10 epithelial cells/100X field.\n      NO MICROORGANISMS SEEN.\n   RESPIRATORY CULTURE (Final [**2165-10-4**]):\n      RARE GROWTH Commensal Respiratory Flora.\n   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.\n\nLegionella Urinary Antigen  (Final [**2165-10-2**]):\n      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.\n\nCLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2165-10-7**]):\n      Feces negative for C.difficile toxin A & B by EIA.\n\nBLOOD AND URINE CULTURES AT [**Hospital1 18**] NEGATIVE TO DATE\n\nCT CHEST [**2165-10-2**] - IMPRESSION: Confluent consolidation involving\nnearly the entire left lung with either bronchocentric or\nvascular dissemination to the right lung with assoicated\nmediastinal and hilar lymphadenopathy most suggestive of\ninfection. Alternatively, consolidative forms of\nbronchoaleveolar carcinoma or lymphoma could have a similar\nappearance.\nReview of the outside CT from [**2161**] and [**2164**] shows near\nresolution of previous extensive ground glass opacity, diagnosed\nas pulmonary alveloar proteinosis which may be idiopathic or\nrelated to inhalational exposure.  Extensive mediastinal soft\ntissue and lymphadenopathy.\n\n\nBrief Hospital Course:\n51 yo man with IBD, pulmonary alveolar proteinosis who presented\nfrom [**Hospital6 19155**] with pneumonia and respiratory\nfailure.\n\n# Respiratory failure/Pneumococcal Pneumonia: In the setting of\nan acute pulmonary process, this was initially attributed to\nbacterial pneumonia, likely community acquired, supported by\nintial GPC's on sputum at [**Hospital6 19155**].  However,\nPCP and Nocardia were also considered given known diagnosis of\nPAP and labs were sent accordingly. CXR demonstrated unilateral\ndisease, not c/w PAP flare and more concerning for an acute\nprocess. Patient was intubated and intially started on an ARDS\ntype ventilation with low tidal volumes. Patient was also\nunderwent bronchoscopy with aspiration of large, thick mucus\ncast. Legionella Ag was sent and was negative. The patient was\ninitially started on vancomycin and aztreonam.  He was\nsubsequently switched to levaquin after cultures (blood and\nsputum) from [**Location (un) **] returned possitive for Streptococcus\nPneumoniae. On [**10-3**], patient grew agitated in the evening and\nself-extubated.  He was maintained with adequate saturations on\nhighflow facemask.  Patient's mental status rapidly improved\nover the next several days. His CXR also rapidly improved with\nincreased oxygenation of the RL fields.  F/u of the nocardia\nculture was negative to date and PCP smear was never done in the\nlab. On transfer to the floor, his oxygen requirement was\ninitially 4L.  Levaquin was continued.  He had no acute events\non the floor, and O2 saturation was 94% on RA on day of\ndischarge.  Physical Therapy evaluated him during his admission\nand recommended [**1-4**] further visits.  He still had dyspnea on\nexertion so home oxygen was arranged for him.\n\nFOLLOW-UP: PCP [**Last Name (NamePattern4) **] 1 week (their office will contact patient to\narrange appointment) and repeat chest imaging in [**4-8**] weeks.\n\n# Acute Renal Failure - On transfer, patient had elevated\ncreatinine of 1.4, given 3L NS bolus in setting of hypotension\nand pressors.  Responded appropriately.  Discharged with\ncreatinine 0.8-0.9.\n\n# Hypotension - Patient experienced hypotension prior to\ntransfer from OSH.  He was transferred to [**Hospital1 18**] on a\nneosynephrine (phenylephrine) drip.  Chem-7 showed elevated\ncreatinine which likely indicated pre-renal state.  Responded to\n3L NS bolus and pressors were discontinued.  Patient maintained\nnormal blood pressure for rest of admission.\n\n# Pulmonary Alveolar Proteinosis - Not an acute issue during\nadmission, however, may have been contributing factor to his\nillness.  Instructed patient to follow-up with his pulmonologist\nwithin 4 weeks of discharge.\n\n# Hypothyroidism - TSH within normal limits.  Continued home\ndose of Levoxyl.\n\nMedications on Admission:\n- LEVOTHYROXINE - 200mcg po daily\n\n\nDischarge Medications:\n1. Oxygen\nO2 at 2 to 4 L continuous, Pulse dose for portability.\n2. Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n3. Levofloxacin 750 mg Tablet Sig: One (1) Tablet PO once a day\nfor 5 days.\nDisp:*5 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Company 1519**]\n\nDischarge Diagnosis:\nPrimary Diagnosis:\n1. Pneumonia\n2. Respiratory Failure\n3. Hypotension\n4. Acute Renal Failure\n\nSecondary Diagnosis:\n1. Pulmonary Alveolar Proteinosis\n2. Hypothyroidism\n\n\nDischarge Condition:\nHemodynamically Stable.  Tolerating PO intake.  Stable on oral\nantibiotics.\n\n\nDischarge Instructions:\nYou were transferred to [**Hospital1 18**] from [**Hospital6 19155**] for\nfurther management of your pneumonia.  When you arrived, you\nwere sedated and had a tube down your throat to help you\nbreathe.  You also needed medication to help your body maintain\nyour blood pressure.  After recieving IV fluids, the medication\nto help you maintain your blood pressure was discontinued.  You\npulled the breathing tube out of your mouth while in the\nIntensive Care Unit, however it was not inserted.  Oxygen was\nrequired for most of your hospitalization to help you breath.\nAntibiotics were continued while you were in the hospital.\nPlease complete your course of antibiotics after discharge.  It\nis important that you follow-up with your PCP and your\nPulmonologist after discharge.   You were given both a flu and\npneumococcal vaccine prior to discharge to help prevent flu and\npneumonia.\n\nOxygen has been arranged for you to have at home.  It is\nintended to be used during exertion for the next 2-3 days or at\nanytime that you are experiencing shortness of breath.\n\nChanges in Medication\nSTART Levofloxacin 750 mg by mouth daily for 5 days\nCONTINUE Levothyroxine 200 mcg by mouth daily\n\nIf you experience fever > 101, worsening shortness of breath,\nchest pain, pain when you breathe, coughing up blood, nausea or\nvomitting, headaches, confusion or any other symptom that\nconcerns you, please contact your PCP or go to the nearest\nemergency room for evaluation.\n\n\nFollowup Instructions:\nPlease follow-up with your PCP within one week of discharge.\nDr. [**Last Name (STitle) **] is no longer at the practice site your prevoiusly\nwent to and they stated your new PCP is [**Last Name (NamePattern4) **]. [**First Name (STitle) 1887**].  Dr. [**Name (NI) 77520**] nurse will contact you to arrange an appointment.\n\nAdditionally, you should follow-up with your pulmonologist\nwithin 4-6 weeks for evaluation.\n\n\n\n"
+    }
+  ]
+}

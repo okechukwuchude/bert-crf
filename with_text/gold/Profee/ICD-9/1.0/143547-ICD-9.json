@@ -1,0 +1,611 @@
+{
+  "hadm_id": 143547,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 545587,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 104,
+          "end": 129,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "hepatic biliary stricture"
+        },
+        {
+          "begin": 402,
+          "end": 419,
+          "code": "724.2",
+          "code_system": "ICD-9-CM",
+          "description": "Lumbago",
+          "type": "MapType.EXACT",
+          "covered_text": "chronic back pain"
+        },
+        {
+          "begin": 480,
+          "end": 488,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "abd pain"
+        },
+        {
+          "begin": 490,
+          "end": 500,
+          "code": "296.20",
+          "code_system": "ICD-9-CM",
+          "description": "Major depressive disorder, single episode, unspecified degree",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 502,
+          "end": 509,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "anxiety"
+        },
+        {
+          "begin": 511,
+          "end": 514,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "tob"
+        },
+        {
+          "begin": 4412,
+          "end": 4437,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "hepatic biliary stricture"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   42M w/remote h/o lap chole previously p/w RUQ pain, s/p ERCP\n   ([**11-18**]) showing R hepatic biliary stricture, thought to be\n   postsurgical; s/p PTC external biliary drain into R anterior\n   biliary duct ([**11-19**]), PTC repositioned [**11-30**]. Now s/p R lobectomy for\n   common hepatic stricture\n   Chief complaint:\n   s/p R lobectomy for common hepatic stricture\n   PMHx:\n   chronic back pain s/p fall down stairs 1yr ago, R bile duct stricture\n   w/ R abd pain, Depression, anxiety, tob, marijuana, h/o cocaine\n   PSH:CCY, spinal fusion L5S1 [**9-/2161**], ERCP\n   Current medications:\n   24 Hour Events:\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Ampicillin - [**2161-12-23**] 06:35 AM\n   Infusions:\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2161-12-23**] 08:01 PM\n   Heparin Sodium (Prophylaxis) - [**2161-12-23**] 10:03 PM\n   Other medications:\n   Flowsheet Data as of  [**2161-12-24**] 06:22 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**65**] a.m.\n   Tmax: 38.2\nC (100.8\n   T current: 37.6\nC (99.6\n   HR: 115 (110 - 132) bpm\n   BP: 121/80(89) {121/79(89) - 132/80(92)} mmHg\n   RR: 23 (6 - 33) insp/min\n   SPO2: 100%\n   Heart rhythm: ST (Sinus Tachycardia)\n   CVP: 7 (3 - 9) mmHg\n   Total In:\n                                                                  4,714 mL\n                                                                    968 mL\n   PO:\n                                                                    360 mL\n                                                                    180 mL\n   Tube feeding:\n   IV Fluid:\n                                                                  3,854 mL\n                                                                    788 mL\n   Blood products:\n                                                                    500 mL\n   Total out:\n                                                                  1,985 mL\n                                                                    630 mL\n   Urine:\n                                                                  1,455 mL\n                                                                    480 mL\n   NG:\n   Stool:\n   Drains:\n                                                                    530 mL\n                                                                    150 mL\n   Balance:\n                                                                  2,729 mL\n                                                                    338 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SPO2: 100%\n   ABG: 7.35/38/75/26/-3\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended, Non-tender\n   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   209 K/uL\n   9.8 g/dL\n   170 mg/dL\n   0.6 mg/dL\n   26 mEq/L\n   4.2 mEq/L\n   6 mg/dL\n   114 mEq/L\n   143 mEq/L\n   28.6 %\n   13.0 K/uL\n        [image002.jpg]\n                            [**2161-12-22**]  04:58 PM\n                            [**2161-12-22**]  10:11 PM\n                            [**2161-12-23**]  03:38 AM\n                            [**2161-12-23**]  05:58 PM\n                            [**2161-12-24**]  04:25 AM\n   WBC\n   15.6\n   12.9\n   13.0\n   Hct\n   35.3\n   33.5\n   35.1\n   28.6\n   Plt\n   391\n   291\n   209\n   Creatinine\n   0.6\n   0.6\n   0.6\n   TCO2\n   22\n   Glucose\n   130\n   150\n   170\n   Other labs: PT / PTT / INR:15.5/39.8/1.4, ALT / AST:144/116, Alk-Phos /\n   T bili:84/1.3, Lactic Acid:1.5 mmol/L, Albumin:3.3 g/dL, Ca:8.4 mg/dL,\n   Mg:1.9 mg/dL, PO4:1.6 mg/dL\n   Assessment and Plan\n   .H/O PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), .H/O LIVER FUNCTION\n   ABNORMALITIES\n   Assessment and Plan: 42M w/remote h/o lap chole previously p/w RUQ\n   pain, s/p ERCP\n   ([**11-18**]) showing R hepatic biliary stricture, thought to be\n   postsurgical; s/p PTC external biliary drain into R anterior\n   biliary duct ([**11-19**]), PTC repositioned [**11-30**]. Now s/p R lobectomy for\n   common hepatic stricture\n   Neurologic: Epidural Bupvac, and D PCA\n   Cardiovascular: No issues\n   Pulmonary: No issues\n   Gastrointestinal / Abdomen: s/p R lobectomy for common hepatic\n   stricture, tolerated clears\n   Nutrition: Advance diet as tolerated\n   Renal: Foley, Adequate UO\n   Hematology: stable\n   Endocrine: RISS\n   Infectious Disease: no Abx\n   Lines / Tubes / Drains: Foley, Surgical drains (hemovac, JP)\n   Wounds:\n   Imaging:\n   Fluids: NS, 125cc/h\n   Consults: Transplant\n   Billing Diagnosis: Post-op shock\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2161-12-22**] 07:00 PM\n   Multi Lumen - [**2161-12-22**] 08:31 PM\n   16 Gauge - [**2161-12-22**] 08:32 PM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle: HOB elevation, Mouth care, Daily wake up\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: Transfer to floor\n   Total time spent: 30 minutes\n"
+    },
+    {
+      "note_id": 545482,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 104,
+          "end": 129,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "hepatic biliary stricture"
+        },
+        {
+          "begin": 353,
+          "end": 361,
+          "code": "789.61",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal tenderness, right upper quadrant",
+          "type": "MapType.APPROX",
+          "covered_text": "RUQ pain"
+        },
+        {
+          "begin": 374,
+          "end": 391,
+          "code": "724.2",
+          "code_system": "ICD-9-CM",
+          "description": "Lumbago",
+          "type": "MapType.EXACT",
+          "covered_text": "chronic back pain"
+        },
+        {
+          "begin": 452,
+          "end": 460,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "abd pain"
+        },
+        {
+          "begin": 462,
+          "end": 472,
+          "code": "296.20",
+          "code_system": "ICD-9-CM",
+          "description": "Major depressive disorder, single episode, unspecified degree",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 474,
+          "end": 481,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "anxiety"
+        },
+        {
+          "begin": 483,
+          "end": 486,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "tob"
+        },
+        {
+          "begin": 1757,
+          "end": 1763,
+          "code": "787.02",
+          "code_system": "ICD-9-CM",
+          "description": "Nausea alone",
+          "type": "MapType.EXACT",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 1912,
+          "end": 1918,
+          "code": "787.02",
+          "code_system": "ICD-9-CM",
+          "description": "Nausea alone",
+          "type": "MapType.EXACT",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 3082,
+          "end": 3093,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Tachycardia"
+        },
+        {
+          "begin": 5666,
+          "end": 5678,
+          "code": "338.4",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic pain syndrome",
+          "type": "MapType.EXACT",
+          "covered_text": "chronic pain"
+        },
+        {
+          "begin": 5810,
+          "end": 5821,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 5848,
+          "end": 5859,
+          "code": "276.52",
+          "code_system": "ICD-9-CM",
+          "description": "Hypovolemia",
+          "type": "MapType.EXACT",
+          "covered_text": "hypovolemia"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   42M w/remote h/o lap chole previously p/w RUQ pain, s/p ERCP\n   ([**11-18**]) showing R hepatic biliary stricture, thought to be\n   postsurgical; s/p PTC external biliary drain into R anterior\n   biliary duct ([**11-19**]), PTC repositioned [**11-30**]. Now s/p 42M s/p R\n   lobectomy for common hepatic stricture\n   Chief complaint:\n   RUQ pain\n   PMHx:\n   chronic back pain s/p fall down stairs 1yr ago, R bile duct stricture\n   w/ R abd pain, Depression, anxiety, tob, marijuana, h/o cocaine\n   Current medications:\n    IV access: Peripheral line Order date: [**12-22**] @ 1612 10. HYDROmorphone\n   (Dilaudid) 0.37 mg IVPCA Lockout Interval: 6 minutes Basal Rate: 0\n   mg(s)/hour 1-hr Max Limit: 3.7 mg(s)  Order date: [**12-22**] @ 1751\n   2. 1000 mL NS Bolus 500 ml Over 30 mins Order date: [**12-22**] @ [**2078**] 11.\n   Heparin 5000 UNIT SC Q8H  Order date: [**12-22**] @ 1612\n   3. 1000 mL NS Bolus 500 ml Over 30 mins Order date: [**12-22**] @ 2047 12. IV\n   access request: CVL Access port Urgency: Routine Order date: [**12-22**] @\n   1704\n   4. 1000 mL NS Bolus 500 ml Over 30 mins Order date: [**12-23**] @ 0118 13.\n   Insulin SC  (per Insulin Flowsheet)\n         Sliding Scale Order date: [**12-22**] @ [**2088**]\n   5. 20 mEq KCL / 1000 mL D5 1/2NS\n   Continuous at 125 ml/hr Order date: [**12-22**] @ 2314 14. Magnesium Sulfate\n   4 gm IV ONCE Duration: 1 Doses Order date: [**12-22**] @ [**2078**]\n   6. Ampicillin-Sulbactam 3 g IV Q6H Duration: 3 Doses Order date: [**12-22**]\n   @ 1612 15. Nicotine Patch 14 mg TD DAILY  Order date: [**12-23**] @ 0625\n   7. Bupivacaine 0.1% 1 mg/ml ED\n   Infuse at 6-10 ml/hr\n   bolus 5cc epidural, then start at 8cc/hr  Order date: [**12-22**] @ 1727 16.\n   Ondansetron 4 mg IV Q8H:PRN nausea/vomiting  Order date: [**12-22**] @ 1612\n   8. Famotidine (IV) 20 mg IV Q12H  Order date: [**12-22**] @ 1612 17.\n   Promethazine 12.5 mg IV Q6H:PRN nausea  Order date: [**12-22**] @ 1612\n   9. HYDROmorphone (Dilaudid) 0.5-2 mg IV Q2H:PRN breakthrough pain\n   Order date: [**12-22**] @ 1730 18. Sodium Chloride 0.9% Flush 3 mL IV Q8H:PRN\n   line flush\n   Peripheral line: Flush with 3 mL Normal Saline every 8 hours and PRN.\n   Order date: [**12-22**] @ 1612\n   24 Hour Events:\n ARTERIAL LINE - START [**2161-12-22**] 07:00 PM\n MULTI LUMEN - START [**2161-12-22**] 08:31 PM\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Ampicillin - [**2161-12-23**] 06:35 AM\n   Infusions:\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2161-12-22**] 07:54 PM\n   Heparin Sodium (Prophylaxis) - [**2161-12-23**] 08:00 AM\n   Other medications:\n   Flowsheet Data as of  [**2161-12-23**] 10:01 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**65**] a.m.\n   Tmax: 38\nC (100.4\n   T current: 38\nC (100.4\n   HR: 129 (116 - 137) bpm\n   BP: 134/82(100) {117/77(94) - 163/104(123)} mmHg\n   RR: 20 (10 - 25) insp/min\n   SPO2: 99%\n   Heart rhythm: ST (Sinus Tachycardia)\n   CVP: 6 (0 - 7) mmHg\n   Total In:\n                                                                  5,675 mL\n                                                                  1,875 mL\n   PO:\n   Tube feeding:\n   IV Fluid:\n                                                                  5,675 mL\n                                                                  1,875 mL\n   Blood products:\n   Total out:\n                                                                  2,480 mL\n                                                                    557 mL\n   Urine:\n                                                                    240 mL\n                                                                    387 mL\n   NG:\n   Stool:\n   Drains:\n                                                                     10 mL\n                                                                    170 mL\n   Balance:\n                                                                  3,195 mL\n                                                                  1,318 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SPO2: 99%\n   ABG: ///24/\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended, Tender: appropriately\n   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   291 K/uL\n   11.7 g/dL\n   150 mg/dL\n   0.6 mg/dL\n   24 mEq/L\n   4.6 mEq/L\n   8 mg/dL\n   113 mEq/L\n   144 mEq/L\n   35.1 %\n   12.9 K/uL\n        [image002.jpg]\n                            [**2161-12-22**]  04:58 PM\n                            [**2161-12-22**]  10:11 PM\n                            [**2161-12-23**]  03:38 AM\n   WBC\n   15.6\n   12.9\n   Hct\n   35.3\n   33.5\n   35.1\n   Plt\n   391\n   291\n   Creatinine\n   0.6\n   0.6\n   Glucose\n   130\n   150\n   Other labs: PT / PTT / INR:13.9/30.5/1.2, ALT / AST:241/272, Alk-Phos /\n   T bili:96/1.4, Albumin:3.3 g/dL, Ca:8.0 mg/dL, Mg:2.3 mg/dL, PO4:3.6\n   mg/dL\n   Assessment and Plan\n   .H/O PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), .H/O LIVER FUNCTION\n   ABNORMALITIES\n   Assessment and Plan:\n   Neurologic: Neuro checks Q: 4 hr, h/o chronic pain, Pain control w/\n   epidura splitl w/ Dilaudid PCA- Pain service following & dose of\n   Dilaudid adjusted\n   Cardiovascular: Sinus tachycardia, likely [**2-28**] pain & hypovolemia, BP\n   stable, will give bolus of albumin\n   Pulmonary: IS, Extubated, Satting well on 3 L NC O2, CPT & encourage\n   IS, send ABG\n   Gastrointestinal / Abdomen: s/p right hepatic lobectomy for common\n   hepatic stricture, keep NPO, GI prophylaxis\n   Nutrition: NPO\n   Renal: Cr. 0.6, low UOP likely third spacing, will give albumin\n   Hematology: Serial Hct, Hct stable, follow daily, on SCH\n   Endocrine: RISS, DC D51/2 NS, change to NS\n   Infectious Disease: Ampicillin post op\n   Lines / Tubes / Drains: Foley, JP drain, CVL, art line\n   Wounds: Dry dressings\n   Imaging:\n   Fluids: NS, 125 ml/h\n   Consults: Transplant\n   Billing Diagnosis: Post-op complication\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2161-12-22**] 07:00 PM\n   Multi Lumen - [**2161-12-22**] 08:31 PM\n   16 Gauge - [**2161-12-22**] 08:32 PM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle: HOB elevation, Mouth care\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 35 minutes\n"
+    },
+    {
+      "note_id": 545680,
+      "category": "Nutrition",
+      "description": "Clinical Nutrition Note",
+      "annotations": [
+        {
+          "begin": 163,
+          "end": 180,
+          "code": "576.2",
+          "code_system": "ICD-9-CM",
+          "description": "Obstruction of bile duct",
+          "type": "Human",
+          "covered_text": "biliary stricture"
+        }
+      ],
+      "text": "Potential for nutrition risk. Patient being monitored. Current\n   intervention if any, listed below:\n   Comments:\n   42M w/remote h/o lap chole c/b common hepatic biliary stricture c/b PTC\n   external biliary drain into R anterior biliary duct [**11-19**] and  R\n   lobectomy [**12-22**].\n   Pt on regular diet, tol well.\n   If po\ns decline, pls c/s for recs on nutrition support.\n   Pge w/ questions/concerns #[**Numeric Identifier 526**]\n   15:24\n"
+    },
+    {
+      "note_id": 545663,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 54,
+          "end": 79,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "hepatic biliary stricture"
+        },
+        {
+          "begin": 273,
+          "end": 290,
+          "code": "724.2",
+          "code_system": "ICD-9-CM",
+          "description": "Lumbago",
+          "type": "MapType.EXACT",
+          "covered_text": "Chronic back pain"
+        },
+        {
+          "begin": 361,
+          "end": 371,
+          "code": "296.20",
+          "code_system": "ICD-9-CM",
+          "description": "Major depressive disorder, single episode, unspecified degree",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 382,
+          "end": 385,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "tob"
+        },
+        {
+          "begin": 454,
+          "end": 459,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.APPROX",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 4423,
+          "end": 4451,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "hepatic\n   biliary stricture"
+        },
+        {
+          "begin": 4617,
+          "end": 4648,
+          "code": "786.09",
+          "code_system": "ICD-9-CM",
+          "description": "Other dyspnea and respiratory abnormality",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Abdominal pain during breathing"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   42M w/remote h/o lap chole c/b common hepatic biliary stricture c/b PTC\n   external biliary drain into R anterior\n   biliary duct [**11-19**] and  R lobectomy [**12-22**].\n   Chief complaint:\n   S/p right lobectomy for hepatic biliary stricture\n   PMHx:\n   Chronic back pain s/p fall down stairs 1yr ago, R bile duct stricture\n   w/ R abd pain, Depression, anxiety, tob, marijuana, h/o cocaine\n   Current medications:\n   24 Hour Events:\n FEVER - 101.2\nF - [**2161-12-24**] 06:00 PM\n   Post operative day:\n   3\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Ampicillin - [**2161-12-23**] 06:35 AM\n   Infusions:\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2161-12-24**] 08:11 PM\n   Heparin Sodium (Prophylaxis) - [**2161-12-24**] 10:00 PM\n   Other medications:\n   Flowsheet Data as of  [**2161-12-25**] 09:05 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**65**] a.m.\n   Tmax: 38.4\nC (101.2\n   T current: 37.7\nC (99.8\n   HR: 105 (104 - 127) bpm\n   BP: 125/81(90) {108/68(78) - 157/107(122)} mmHg\n   RR: 19 (14 - 38) insp/min\n   SPO2: 100%\n   Heart rhythm: ST (Sinus Tachycardia)\n   CVP: 6 (3 - 12) mmHg\n   Total In:\n                                                                  3,585 mL\n                                                                    695 mL\n   PO:\n                                                                  1,075 mL\n                                                                     50 mL\n   Tube feeding:\n   IV Fluid:\n                                                                  2,510 mL\n                                                                    645 mL\n   Blood products:\n   Total out:\n                                                                  2,449 mL\n                                                                    455 mL\n   Urine:\n                                                                  2,114 mL\n                                                                    355 mL\n   NG:\n   Stool:\n   Drains:\n                                                                    335 mL\n                                                                    100 mL\n   Balance:\n                                                                  1,136 mL\n                                                                    240 mL\n   Respiratory support\n   SPO2: 100%\n   ABG: ///30/\n   Physical Examination\n   General Appearance: Anxious, Well nourished\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : , Diminished: bilateral bases)\n   Abdominal: Soft, Non-distended, No(t) Non-tender, Bowel sounds present,\n   Tender: approp\n   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Diminished), (Pulse - Posterior tibial: Diminished)\n   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Diminished), (Pulse - Posterior tibial: Diminished)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   190 K/uL\n   9.2 g/dL\n   104 mg/dL\n   0.5 mg/dL\n   30 mEq/L\n   3.5 mEq/L\n   3 mg/dL\n   108 mEq/L\n   142 mEq/L\n   27.1 %\n   8.8 K/uL\n        [image002.jpg]\n                            [**2161-12-22**]  04:58 PM\n                            [**2161-12-22**]  10:11 PM\n                            [**2161-12-23**]  03:38 AM\n                            [**2161-12-23**]  05:58 PM\n                            [**2161-12-24**]  04:25 AM\n                            [**2161-12-24**]  01:46 PM\n                            [**2161-12-25**]  04:11 AM\n   WBC\n   15.6\n   12.9\n   13.0\n   8.8\n   Hct\n   35.3\n   33.5\n   35.1\n   28.6\n   28.7\n   27.1\n   Plt\n   391\n   291\n   209\n   190\n   Creatinine\n   0.6\n   0.6\n   0.6\n   0.5\n   TCO2\n   22\n   Glucose\n   130\n   150\n   170\n   104\n   Other labs: PT / PTT / INR:14.5/37.6/1.3, ALT / AST:109/72, Alk-Phos /\n   T bili:96/1.3, Lactic Acid:1.5 mmol/L, Albumin:3.3 g/dL, Ca:8.4 mg/dL,\n   Mg:1.7 mg/dL, PO4:2.1 mg/dL\n   Assessment and Plan\n   .H/O PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), .H/O LIVER FUNCTION\n   ABNORMALITIES\n   Assessment and Plan: 42M w/remote h/o lap chole c/b common hepatic\n   biliary stricture, s/p PTC external biliary drain into R anterior\n   biliary duct [**11-19**] and  R lobectomy [**12-22**].  Difficulties with post-op\n   pain control.\n   Neurologic: Abdominal pain during breathing; brief episodes of\n   confusion yesterday, resolved; epidural bupiv (DC basal rate), dilaudid\n   PCA, and valium; transition to oxycodone; pain svc following.\n   Cardiovascular: Sinus tachy [**2-28**] pain\n   Pulmonary: No issues, SATing well, encourage IS\n   Gastrointestinal / Abdomen: S/p R lobectomy for common hepatic\n   stricture with JP drain; clears, advancing diet to regular; switch to\n   oral H2B.\n   Nutrition: Clear liquids, Advancing diet to regular.\n   Renal: Foley, Adequate UO\n   Hematology: Hct and WBC stable\n   Endocrine: RISS, BS well-controlled\n   Infectious Disease: Tm100.5; no infection suspected; no antibiotics,\n   encourage IS.\n   Lines / Tubes / Drains: Foley, Jp drain with serosang drainage; DC CVL.\n   Wounds: Abdominal incision dry dressing\n   Imaging: No new imaging\n   Fluids: KVO\n   Consults: General surgery\n   Billing Diagnosis: Other: Post-op care\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Multi Lumen - [**2161-12-22**] 08:31 PM\n   16 Gauge - [**2161-12-22**] 08:32 PM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status:\n   Disposition: ICU\n   Total time spent: 35 minutes\n"
+    },
+    {
+      "note_id": 545492,
+      "category": "Case Management",
+      "description": "Case Managment Initial Patient Assessment",
+      "annotations": [
+        {
+          "begin": 508,
+          "end": 540,
+          "code": "V70.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified general medical examinations",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "re-eval after therapy evals done"
+        }
+      ],
+      "text": "Insurance information\n   Primary insurance: MASSHEALTH MANAGED CARE\n   Secondary insurance: SELF PAY\n   Insurance reviewer::n/a\n   Free Care application: No\n   Status: Active\n   Medicaid application: N/A\n   Pre-Hospitalization services: no\n   DME / Home O[2]: no\n   Functional Status / Home / Family Assessment:\n   lives w wfie\n   Primary Contact(s): wife\n   Health [**Name (NI) 232**] Proxy: Deferred.\n   Dialysis: No\n   Referrals Recommended: Social Work, Physical Therapy\n   Current plan: Undetermined\n   re-eval after therapy evals done\n   Patient [**Name (NI) 45**](s) to Discharge:\n   pain-recent abdom [**Doctor First Name **]\n   Patient discussed with multidisciplinary team: No\n"
+    },
+    {
+      "note_id": 33908,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 275,
+          "end": 303,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "Right hepatic duct stricture"
+        },
+        {
+          "begin": 545,
+          "end": 570,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "hepatic biliary stricture"
+        },
+        {
+          "begin": 838,
+          "end": 846,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "description": "Diarrhea",
+          "type": "MapType.APPROX",
+          "covered_text": "diarrhea"
+        },
+        {
+          "begin": 874,
+          "end": 882,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "abd pain"
+        },
+        {
+          "begin": 884,
+          "end": 890,
+          "code": "787.02",
+          "code_system": "ICD-9-CM",
+          "description": "Nausea alone",
+          "type": "MapType.EXACT",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 892,
+          "end": 906,
+          "code": "579.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified intestinal malabsorption",
+          "type": "MapType.APPROX",
+          "covered_text": "po intolerance"
+        },
+        {
+          "begin": 951,
+          "end": 970,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "Bile duct stricture"
+        },
+        {
+          "begin": 971,
+          "end": 993,
+          "code": "300.09",
+          "code_system": "ICD-9-CM",
+          "description": "Other anxiety states",
+          "type": "MapType.APPROX",
+          "covered_text": "depression and anxiety"
+        },
+        {
+          "begin": 1027,
+          "end": 1052,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "hepatic biliary stricture"
+        },
+        {
+          "begin": 1161,
+          "end": 1178,
+          "code": "724.2",
+          "code_system": "ICD-9-CM",
+          "description": "Lumbago",
+          "type": "MapType.EXACT",
+          "covered_text": "chronic back pain"
+        },
+        {
+          "begin": 1287,
+          "end": 1323,
+          "code": "997.49",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.APPROX",
+          "covered_text": "hepatic lobectomy with cholangiogram"
+        },
+        {
+          "begin": 1335,
+          "end": 1352,
+          "code": "576.2",
+          "code_system": "ICD-9-CM",
+          "description": "Obstruction of bile duct",
+          "type": "Human",
+          "covered_text": "biliary stricture"
+        },
+        {
+          "begin": 1496,
+          "end": 1512,
+          "code": "V69.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other problems related to lifestyle",
+          "type": "MapType.APPROX",
+          "covered_text": "smoke cigarettes"
+        },
+        {
+          "begin": 2716,
+          "end": 2752,
+          "code": "997.49",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.APPROX",
+          "covered_text": "hepatic lobectomy with\ncholangiogram"
+        },
+        {
+          "begin": 3367,
+          "end": 3380,
+          "code": "794.8",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal results of function study of liver",
+          "type": "MapType.EXACT",
+          "covered_text": "LFTs improved"
+        },
+        {
+          "begin": 4752,
+          "end": 4806,
+          "code": "558.9",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified noninfectious gastroenteritis and colitis",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Chronic inflammation with focal glandular regeneration"
+        },
+        {
+          "begin": 4977,
+          "end": 4995,
+          "code": "571.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic nonalcoholic liver disease",
+          "type": "Human",
+          "covered_text": "Moderate steatosis"
+        },
+        {
+          "begin": 5084,
+          "end": 5103,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "Bile duct stricture"
+        },
+        {
+          "begin": 5620,
+          "end": 5677,
+          "code": "576.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified disorder of biliary tract",
+          "type": "MapType.EXACT",
+          "covered_text": "Bile duct with edema, mild chronic and acute inflammation"
+        },
+        {
+          "begin": 5689,
+          "end": 5728,
+          "code": "701.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertrophic and atrophic conditions of skin",
+          "type": "MapType.APPROX",
+          "covered_text": "epithelial hyperplasia with mild atypia"
+        },
+        {
+          "begin": 6100,
+          "end": 6169,
+          "code": "573.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified disorder of liver",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "right liver lobe is smooth and peritoneal with a rough area\nmeasuring"
+        },
+        {
+          "begin": 7759,
+          "end": 7766,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "anxiety"
+        },
+        {
+          "begin": 8021,
+          "end": 8038,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "Biliary stricture"
+        },
+        {
+          "begin": 8049,
+          "end": 8061,
+          "code": "338.4",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic pain syndrome",
+          "type": "MapType.EXACT",
+          "covered_text": "chronic pain"
+        }
+      ],
+      "text": "Admission Date:  [**2161-12-22**]              Discharge Date:   [**2161-12-31**]\n\nDate of Birth:  [**2119-9-5**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 668**]\nChief Complaint:\nRight hepatic duct stricture.\n\n\nMajor Surgical or Invasive Procedure:\n[**2161-12-25**] right lobectomy for common hepatic stricture\n\n\nHistory of Present Illness:\n42M with remote h/o lap chole previously p/w [**Month/Day/Year 5283**] pain, s/p ERCP\n[**11-18**] showing R hepatic biliary stricture, thougt to be\npostsurgical; s/p PTC external biliary drain into R anterior\nbiliary duct [**11-19**], PTC repositioned [**11-30**]. Bile cultures grew\nout sparse Lactobacillus. Discharged from hospital [**12-3**] on 21 d\ncourse of Augmentin. Returned [**12-10**] with diarrhea, [**Month/Year (2) 5283**] abd pain,\nnausea, po intolerance with 7 pound wt loss\n\nPast Medical History:\nBile duct stricture\ndepression and anxiety.\nERCP [**2161-11-18**] showing R hepatic biliary stricture\nPTC external biliary drain into R anterior biliary duct\n[**2161-11-19**], PTC repositioned [**2161-11-30**]\nchronic back pain s/p fall down stairs 1 yr prior\n\nPSH: lap chole [**2145**], L4-5/L5-S1 fusion [**10-5**]\n[**2161-12-22**] R hepatic lobectomy with cholangiogram for R duct\nbiliary stricture, benign\n\n\nSocial History:\nThe patient's relatives are from [**Name (NI) 11660**]\nislands. He lives in RI. He is not currently working. He does\nsmoke cigarettes\none pack per day for 13 years. He does not consume alcohol. He\nis married. His wife has suffered from Lupus for many years and\nrecently completed a lengthy chemotherapy course. He and his\nwife have been financially stressed. Has been staying with his\ndaughter in [**Name (NI) 1474**], MA\n\n\nFamily History:\nFamily history is significant for cancer and diabetes in his\nmother and father as well.  There is no family history of spinal\ndisorders.\n\n\nPertinent Results:\n[**2161-12-22**] 04:58PM BLOOD WBC-15.6*# RBC-3.85* Hgb-12.2* Hct-35.3*\nMCV-92 MCH-31.7 MCHC-34.5 RDW-13.5 Plt Ct-391\n[**2161-12-23**] 03:38AM BLOOD WBC-12.9* RBC-3.72* Hgb-11.7* Hct-35.1*\nMCV-95 MCH-31.5 MCHC-33.3 RDW-13.3 Plt Ct-291\n[**2161-12-25**] 04:11AM BLOOD WBC-8.8 RBC-2.84* Hgb-9.2* Hct-27.1*\nMCV-95 MCH-32.5* MCHC-34.1 RDW-13.4 Plt Ct-190\n[**2161-12-28**] 05:30AM BLOOD WBC-4.6 RBC-2.49* Hgb-8.0* Hct-22.9*\nMCV-92 MCH-32.1* MCHC-34.9 RDW-13.5 Plt Ct-307\n[**2161-12-30**] 06:53AM BLOOD WBC-4.6 RBC-2.53* Hgb-8.1* Hct-24.2*\nMCV-96 MCH-32.0 MCHC-33.5 RDW-13.8 Plt Ct-363\n[**2161-12-30**] 06:53AM BLOOD Glucose-105 UreaN-6 Creat-0.6 Na-142\nK-3.8 Cl-105 HCO3-32 AnGap-9\n\nBrief Hospital Course:\nOn [**2161-12-22**] he underwent right hepatic lobectomy with\ncholangiogram for right hepatic duct stricture. Surgeon was Dr.\n[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]. Please see operative report for details. Postop,\nhe was sent to the SICU given excessive pain management needs.\nAPS followed him.  He was treated with vanco and zosyn for 24\nhours then remained afebrile until pod 2 when he had a temp of\n101.2. This was attributed to atelectasis. He was encouraged to\nuse the incentive spirometer and was assisted oob. Temperature\ndecreased. He was transferred out of the SICU on [**12-26**].\n\nBile was noted in his JP. On [**12-28**], JP fluid bilirubin was 3.1.\nLFTs improved with the exception of the alk phos which which\nincrease slightly from 96 to 123. His complaint posopt op was\npain control. Initially postop, this was controlled with an\nepidural that was ineffective. The epidural meds were then split\nwith a dilaudid pca and a bupivicaine epidural that was later\ndiscontinued on pod 3. Oxycontin was then added at 45mb [**Hospital1 **] and\nprn oxycodone. This was ineffective in controlling his pain.\nOxycontin was switched to MS contin 90mg [**Hospital1 **] with oxycodone\nbreakthru. PCA was discontinued. He required supplemental break\nthru iv dilaudid for [**Hospital1 5283**] pain.\n\nOn [**12-29**], an abdominal CT was done to evaluate his pain. This\nshowed a small-to-moderate amount of fluid about the liver and\nat the resection bed with free air presumed to be post-surgical.\n\n\nHis diet was advanced slowly and tolerated. He was drinking [**3-1**]\nEnsures per day.He was ambulatory and vital signs remained\nstable. Of note, his hct slowly trended down from 35.3 on pod 0\nto 22.9 on pod 6. This stablized at 24 on pod 7 and 8.\n\nIncision was clean, dry and intact without redness. JP drainage\naveraged 200cc of bile tinged fluid. He was discharged with the\nJP and was instructed to record volume of outputs. He was\ndeclared safe for discharge home with a st. cane by PT.\n\nPathology was as follows: I.  Right hepatic duct (A-B):\n\n1.  Chronic inflammation with focal glandular regeneration and\nfibrosis.\n2.  No tumor.\n\nII.  Liver, right lobe (C-J):\n1.  Area of chronic inflammation with bile duct epithelial\nregeneration and marked fibrosis.\n2.  No tumor.\n3.  Moderate steatosis and mild portal mononuclear cell\ninflammation, without intracellular hyalin.\n\nClinical: Bile duct stricture, pain.\nGross: The specimen is received fresh from the O.R. in two\nparts, both labeled with \"[**Known lastname 16651**], [**Known firstname **]\" and the medical\nrecord number.\n\nPart 1 is additionally labeled \"right hepatic duct.\" It consists\nof one piece of brown soft tissue measuring 1.0 x 0.8 x 0.7 cm.\nA lumen is identified within the specimen.  The specimen is\nbisected and frozen for intraoperative frozen section diagnosis.\nFrozen section diagnosis by Dr. [**Last Name (STitle) **] reads: \"Right hepatic duct:\nBile duct with edema, mild chronic and acute inflammation, and\nfocal epithelial hyperplasia with mild atypia. No definitive\ncarcinoma seen, final diagnosis pending permanent sections.\" The\nspecimen is entirely submitted as follows: A = frozen section\nremnant, B = remaining tissue.\n\nPart 2 is additionally labeled \"liver, right lobe.\"  It consists\nof a right lobe of liver weighing 772 grams and measuring 18 x\n12.2 x 6 cm. The anterior and superior and posterior surface of\nthis right liver lobe is smooth and peritoneal with a rough area\nmeasuring 1 x 1 cm near the lateral edge which is consistent\nwith cautery. There is a rough surface on the medial edge of the\nspecimen which measures 14 x 7 cm and has cautery marks. There\nare associated staples throughout this rough edge and there are\nno discernable structures. A portion of this area is inked in\nblack at the potential margin. The specimen is serially\nsectioned medially to laterally at 5 mm intervals to reveal a\nsurpentuous white area which contains a tubular structure. This\narea measures 4.5 x 3 cm and is firm. The specimen is\nrepresented as follows; C-D = shaved inked margin, E-I =\nrepresentation of white firm area inferior to superior, J =\nnormal liver parenchyma.\n\n\nMedications on Admission:\ntylenol, colace, valium 1 [**Hospital1 **], nicotine patch, paxil 30', senna,\nMS Contin 30mg q 12 hours, oxycodone 2-3 tabs q 4 hours prn\n\nDischarge Medications:\n1. Paroxetine HCl 10 mg Tablet Sig: Three (3) Tablet PO DAILY\n(Daily).\n2. Docusate Sodium 100 mg Capsule Sig: Two (2) Capsule PO BID (2\ntimes a day).\n3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n4. Acetaminophen 500 mg Tablet Sig: One (1) Tablet PO Q6H (every\n6 hours).\n5. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO q8H PRN as\nneeded for pain.\n6. Morphine 30 mg Tablet Sustained Release Sig: Three (3) Tablet\nSustained Release PO Q12H (every 12 hours).\nDisp:*42 Tablet Sustained Release(s)* Refills:*0*\n7. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3 hours)\nas needed.\nDisp:*40 Tablet(s)* Refills:*0*\n8. Diazepam 2 mg Tablet Sig: 0.5 Tablet PO Q12H (every 12 hours)\nas needed for anxiety.\nDisp:*20 Tablet(s)* Refills:*0*\n9. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\nDisp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*1*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nBiliary stricture\nacute and chronic pain\n\n\n\n\nDischarge Condition:\nGood\n\n\nDischarge Instructions:\n1.  Please call Dr.[**Name (NI) 670**] office [**Telephone/Fax (1) 673**] if fever,\nchills, nausea, vomiting, worsening abdominal pain, jaundice\n(yellowing of whites of eyes or skin)or diarrhea/constipation\n2.  No driving while taking pain medication\n3.  No heavy lifting for four weeks\n4.  You may shower, but no baths.\n5.  Empty and record volume of fluid from drain.\n\nFollowup Instructions:\nPlease call Dr.[**Name (NI) 670**] office to schedule a follow-up\nappointment.\nPlease also follow up with your primary care doctor.\n\n\n\nCompleted by:[**2162-1-1**]"
+    },
+    {
+      "note_id": 545598,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 104,
+          "end": 129,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "hepatic biliary stricture"
+        },
+        {
+          "begin": 402,
+          "end": 419,
+          "code": "724.2",
+          "code_system": "ICD-9-CM",
+          "description": "Lumbago",
+          "type": "MapType.EXACT",
+          "covered_text": "chronic back pain"
+        },
+        {
+          "begin": 480,
+          "end": 488,
+          "code": "789.00",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal pain, unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "abd pain"
+        },
+        {
+          "begin": 490,
+          "end": 500,
+          "code": "296.20",
+          "code_system": "ICD-9-CM",
+          "description": "Major depressive disorder, single episode, unspecified degree",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 502,
+          "end": 509,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "anxiety"
+        },
+        {
+          "begin": 511,
+          "end": 514,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "tob"
+        },
+        {
+          "begin": 1378,
+          "end": 1389,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Tachycardia"
+        },
+        {
+          "begin": 4412,
+          "end": 4437,
+          "code": "751.61",
+          "code_system": "ICD-9-CM",
+          "description": "Biliary atresia, congenital",
+          "type": "MapType.APPROX",
+          "covered_text": "hepatic biliary stricture"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   42M w/remote h/o lap chole previously p/w RUQ pain, s/p ERCP\n   ([**11-18**]) showing R hepatic biliary stricture, thought to be\n   postsurgical; s/p PTC external biliary drain into R anterior\n   biliary duct ([**11-19**]), PTC repositioned [**11-30**]. Now s/p R lobectomy for\n   common hepatic stricture\n   Chief complaint:\n   s/p R lobectomy for common hepatic stricture\n   PMHx:\n   chronic back pain s/p fall down stairs 1yr ago, R bile duct stricture\n   w/ R abd pain, Depression, anxiety, tob, marijuana, h/o cocaine\n   PSH:CCY, spinal fusion L5S1 [**9-/2161**], ERCP\n   Current medications:\n   24 Hour Events:\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Ampicillin - [**2161-12-23**] 06:35 AM\n   Infusions:\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2161-12-23**] 08:01 PM\n   Heparin Sodium (Prophylaxis) - [**2161-12-23**] 10:03 PM\n   Other medications:\n   Flowsheet Data as of  [**2161-12-24**] 06:22 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**65**] a.m.\n   Tmax: 38.2\nC (100.8\n   T current: 37.6\nC (99.6\n   HR: 115 (110 - 132) bpm\n   BP: 121/80(89) {121/79(89) - 132/80(92)} mmHg\n   RR: 23 (6 - 33) insp/min\n   SPO2: 100%\n   Heart rhythm: ST (Sinus Tachycardia)\n   CVP: 7 (3 - 9) mmHg\n   Total In:\n                                                                  4,714 mL\n                                                                    968 mL\n   PO:\n                                                                    360 mL\n                                                                    180 mL\n   Tube feeding:\n   IV Fluid:\n                                                                  3,854 mL\n                                                                    788 mL\n   Blood products:\n                                                                    500 mL\n   Total out:\n                                                                  1,985 mL\n                                                                    630 mL\n   Urine:\n                                                                  1,455 mL\n                                                                    480 mL\n   NG:\n   Stool:\n   Drains:\n                                                                    530 mL\n                                                                    150 mL\n   Balance:\n                                                                  2,729 mL\n                                                                    338 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SPO2: 100%\n   ABG: 7.35/38/75/26/-3\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended, Non-tender\n   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   209 K/uL\n   9.8 g/dL\n   170 mg/dL\n   0.6 mg/dL\n   26 mEq/L\n   4.2 mEq/L\n   6 mg/dL\n   114 mEq/L\n   143 mEq/L\n   28.6 %\n   13.0 K/uL\n        [image002.jpg]\n                            [**2161-12-22**]  04:58 PM\n                            [**2161-12-22**]  10:11 PM\n                            [**2161-12-23**]  03:38 AM\n                            [**2161-12-23**]  05:58 PM\n                            [**2161-12-24**]  04:25 AM\n   WBC\n   15.6\n   12.9\n   13.0\n   Hct\n   35.3\n   33.5\n   35.1\n   28.6\n   Plt\n   391\n   291\n   209\n   Creatinine\n   0.6\n   0.6\n   0.6\n   TCO2\n   22\n   Glucose\n   130\n   150\n   170\n   Other labs: PT / PTT / INR:15.5/39.8/1.4, ALT / AST:144/116, Alk-Phos /\n   T bili:84/1.3, Lactic Acid:1.5 mmol/L, Albumin:3.3 g/dL, Ca:8.4 mg/dL,\n   Mg:1.9 mg/dL, PO4:1.6 mg/dL\n   Assessment and Plan\n   .H/O PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), .H/O LIVER FUNCTION\n   ABNORMALITIES\n   Assessment and Plan: 42M w/remote h/o lap chole previously p/w RUQ\n   pain, s/p ERCP\n   ([**11-18**]) showing R hepatic biliary stricture, thought to be\n   postsurgical; s/p PTC external biliary drain into R anterior\n   biliary duct ([**11-19**]), PTC repositioned [**11-30**]. Now s/p R lobectomy for\n   common hepatic stricture\n   Neurologic: Epidural Bupvac, and D PCA\n   Cardiovascular: No issues\n   Pulmonary: No issues\n   Gastrointestinal / Abdomen: s/p R lobectomy for common hepatic\n   stricture, tolerated clears\n   Nutrition: Advance diet as tolerated\n   Renal: Foley, Adequate UO\n   Hematology: stable\n   Endocrine: RISS\n   Infectious Disease: no Abx\n   Lines / Tubes / Drains: Foley, Surgical drains (hemovac, JP)\n   Wounds:\n   Imaging:\n   Fluids: NS, 125cc/h\n   Consults: Transplant\n   Billing Diagnosis: Post-op shock\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2161-12-22**] 07:00 PM\n   Multi Lumen - [**2161-12-22**] 08:31 PM\n   16 Gauge - [**2161-12-22**] 08:32 PM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle: HOB elevation, Mouth care, Daily wake up\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: Transfer to floor\n   Total time spent: 30 minutes\n   ------ Protected Section ------\n   Patient  examined , note reviewed . Agree with above\n   ------ Protected Section Addendum Entered By:[**Name (NI) 292**] [**Name8 (MD) 293**], MD\n   on:[**2161-12-24**] 07:17 ------\n"
+    }
+  ]
+}

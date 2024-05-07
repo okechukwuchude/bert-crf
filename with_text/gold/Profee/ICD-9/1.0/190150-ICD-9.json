@@ -1,0 +1,130 @@
+{
+  "hadm_id": 190150,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1237,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 489,
+          "end": 530,
+          "code": "368.12",
+          "code_system": "ICD-9-CM",
+          "description": "Transient visual loss",
+          "type": "MapType.APPROX",
+          "covered_text": "transient episode of left-sided blindness"
+        },
+        {
+          "begin": 739,
+          "end": 751,
+          "code": "437.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "Human",
+          "covered_text": "supraclinoid"
+        },
+        {
+          "begin": 1198,
+          "end": 1212,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 1213,
+          "end": 1222,
+          "code": "535.50",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified gastritis and gastroduodenitis, without mention of hemorrhage",
+          "type": "MapType.APPROX",
+          "covered_text": "Gastritis"
+        },
+        {
+          "begin": 1223,
+          "end": 1237,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 2839,
+          "end": 2851,
+          "code": "437.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "Human",
+          "covered_text": "supraclinoid"
+        }
+      ],
+      "text": "Admission Date:  [**2175-4-12**]              Discharge Date:   [**2175-4-13**]\n\nDate of Birth:  [**2105-6-23**]             Sex:   F\n\nService: NEUROSURGERY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 78**]\nChief Complaint:\nincidental finding\n\nMajor Surgical or Invasive Procedure:\n[**2175-4-12**]: Cerebral Angiogram with stent assisted coiling\n\n\nHistory of Present Illness:\nShe was recently admitted at [**Hospital3 **] in [**2175-2-2**] for a\ntransient episode of left-sided blindness that started acutely.\nNo cause was found for this and her aspirin was upgraded to\nPlavix with a presumptive diagnosis of TIA.  However, during the\nadmission, we also found a 5-mm aneurysm involving the\nright supraclinoid area measuring 3.7 x 6.2 mm.  This is in the\nsuperior hypophyseal area.  I had offered her the option of\nconservative management given her age of 69 years, but she is\nbeing distraught with the fear that this could rupture despite\nthe fact that I had discussed with her that the risk of rupture\nis only approximately 2% per year.  However, she wants this to\nbe\ntreated and electively presents today to undergo embolization.\n\nPast Medical History:\nHypothyroidism\nGastritis\nHyperlipidemia\n\nSocial History:\nquit tobacco over 25 yrs ago. alcohol [**12-5**]/week; married, retired\n\n\nFamily History:\nFather had stroke in his 80s, 3 brothers all past away, 2 from\nprostate CA (One recently in fall [**2173**]) and 3rd brother passed\naway this winter from a stroke that occurred after his 1st chemo\nsession for pancreatic CA.\n\n\nPhysical Exam:\nOn Discharge:\nNonfocal\nGroin- no hematoma, soft\ndorsalis pedis pulses 2+ bilaterally\n\nPertinent Results:\nAngiogram: successful stent asssited coiling of brain aneurysm\n\nBrief Hospital Course:\nPt electively presented and underwent cerebral angiogram, and\nstent assisted coiling. Procedure was without complication. She\nextubated and transferred to the SICU. She was continued on\naspirin and plavix with an SBP goal <160. Overnight, her HOB and\ndiet were advanced. She was nonfocal on AM exam, pulses intact\nand groin soft and no hematoma. She was discharged home in\nstable condition on aspirin and plavix.\n\nMedications on Admission:\nPLAVIX, LEVOTHROID, ZANTAC,SIMVASTATIN, ambien, VitB12\n\n\nDischarge Medications:\n1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*60 Tablet(s)* Refills:*2*\n2. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)\nfor 1 months.\nDisp:*30 Tablet(s)* Refills:*0*\n3. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ4H (every 4 hours) as needed for pain.\nDisp:*30 Tablet(s)* Refills:*0*\n4. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n5. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nright supraclinoid aneurysm.\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nAngiogram with Embolization and/or Stent placement\nMedications:\n??????\tTake Aspirin 325mg (enteric coated) once daily.\n??????\tTake Plavix (Clopidogrel) 75mg once daily.\n??????\tContinue all other medications you were taking before surgery,\nunless otherwise directed\n??????\tYou make take Tylenol or prescribed pain medications for any\npost procedure pain or discomfort.\n\nWhat activities you can and cannot do:\n??????\tWhen you go home, you may walk and go up and down stairs.\n??????\tYou may shower (let the soapy water run over groin incision,\nrinse and pat dry)\n??????\tYour incision may be left uncovered, unless you have small\namounts of drainage from the wound, then place a dry dressing or\nband aid over the area that is draining, as needed\n??????\tNo heavy lifting, pushing or pulling (greater than 5 lbs) for\n1 week (to allow groin puncture to heal).\n??????\tAfter 1 week, you may resume sexual activity.\n??????\tAfter 1 week, gradually increase your activities and distance\nwalked as you can tolerate.\n??????\tNo driving until you are no longer taking pain medications\n\n\nFollowup Instructions:\nPlease follow up with Dr. [**First Name (STitle) **] in 6 months with a MRI/A. This\nappointment can be scheduled by calling [**Telephone/Fax (1) 1669**].\n\n\n\nCompleted by:[**2175-4-13**]"
+    },
+    {
+      "note_id": 1238998,
+      "category": "Radiology",
+      "description": "SEL CATH 3RD ORDER THOR",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 36,
+          "code": "93886",
+          "code_system": "CPT",
+          "description": "Transcranial Doppler study of the intracranial arteries; complete study",
+          "type": "Human",
+          "covered_text": "CAROT/CEREB"
+        },
+        {
+          "begin": 155,
+          "end": 184,
+          "code": "437.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "Human",
+          "covered_text": "coiling of anuerysmAnesthesia"
+        },
+        {
+          "begin": 1527,
+          "end": 1554,
+          "code": "442.81",
+          "code_system": "ICD-9-CM",
+          "description": "Aneurysm of artery of neck",
+          "type": "MapType.APPROX",
+          "covered_text": "hypophyseal artery aneurysm"
+        },
+        {
+          "begin": 3308,
+          "end": 3319,
+          "code": "93886",
+          "code_system": "CPT",
+          "description": "Transcranial Doppler study of the intracranial arteries; complete study",
+          "type": "Human",
+          "covered_text": "CAROT/CEREB"
+        },
+        {
+          "begin": 3438,
+          "end": 3467,
+          "code": "437.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral aneurysm, nonruptured",
+          "type": "Human",
+          "covered_text": "coiling of anuerysmAnesthesia"
+        },
+        {
+          "begin": 4103,
+          "end": 4139,
+          "code": "444.22",
+          "code_system": "ICD-9-CM",
+          "description": "Arterial embolism and thrombosis of lower extremity",
+          "type": "MapType.APPROX",
+          "covered_text": "patent right common\n femoral artery."
+        }
+      ],
+      "text": "[**2175-4-12**] 4:05 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 24720**]\n Reason: coiling of anuerysmAnesthesia has been booked for [**4-12**] at 1pm\n  Contrast: OPTIRAY Amt: 100ML OPTI240; 66MM OPTI320\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 2151**] EMBO TRANSCRANIAL               [**Numeric Identifier 146**] SEL CATH 3RD ORDER [**Last Name (un) **]          *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 2159**] CAROTID/CEREBRAL UNILAT          *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 1238**] TRANSCATH EMBO THERAPY           *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  69 year old woman with aneurysm\n REASON FOR THIS EXAMINATION:\n  coiling of anuerysmAnesthesia has been booked for [**4-12**] at 1pm\n ______________________________________________________________________________\n                                 FINAL REPORT\n ANGIO REPORT\n\n PREOPERATIVE DIAGNOSIS:  Right superior hypophyseal artery aneurysm.\n\n INDICATION:  For treatment of cerebral aneurysm.\n\n PROCEDURE PERFORMED:  Right internal carotid artery arteriogram, right common\n femoral artery arteriogram.\n\n INTERVENTIONAL PROCEDURE PERFORMED:  Neuroform 4.5 x 20 mm stent-assisted coil\n embolization of a right superior hypophyseal artery aneurysm.\n\n ATTENDING PHYSICIAN:  [**First Name8 (NamePattern2) 2152**] [**Name11 (NameIs) 118**], [**Name Initial (NameIs) **].D.\n\n ASSISTANT:  [**First Name4 (NamePattern1) 2161**] [**Last Name (NamePattern1) 2162**], nurse practitioner.\n\n ANESTHESIA:  General.\n\n DETAILS OF PROCEDURE:  The patient was brought to the angiography suite.  IV\n sedation was given.  Anesthesia was induced in the supine position.  Both\n groins were prepped and draped in a sterile fashion.  Access was gained to the\n right common femoral artery using a Seldinger technique and a 6 French\n vascular sheath was placed in the right common femoral artery.  I now\n catheterized the right internal carotid artery with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2155**] 2 catheter and\n this was exchanged out and a Neuron 6 French catheter was placed in the right\n internal carotid artery.  5000 units of heparin was given to anticoagulate the\n patient.  Following this, we proceeded to catheterize the right middle\n cerebral artery with XT-27 microcatheter along with a Synchro wire.  Following\n this, through a second port, the aneurysm was catheterized with an SL-10\n microcatheter.  We now deployed a 4 x 4.5 x 20 mm Neuroform stent across the\n neck of the aneurysm.  Following this, the aneurysm was coiled with a 3-mm\n Target UltraSoft coil and with 2-mm Target UltraSoft coil.  Following this,\n the aneurysm was seen to be fairly obliterated except for a small residual at\n the base.  The catheters were now removed and right common femoral artery\n arteriogram was done and a 6 French Angio-Seal was used for closure of the\n right common femoral artery puncture site.\n\n                                                             (Over)\n\n [**2175-4-12**] 4:05 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 24720**]\n Reason: coiling of anuerysmAnesthesia has been booked for [**4-12**] at 1pm\n  Contrast: OPTIRAY Amt: 100ML OPTI240; 66MM OPTI320\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n FINDINGS:  Right internal carotid artery arteriogram shows 5 x 3 mm aneurysm\n of the right superior hypophyseal artery with a broad neck.\n\n Right internal carotid artery arteriogram status post coil embolization shows\n no evidence of stenosis at the placement of the stent and the aneurysm itself\n is obliterated except for a small residual at the base.\n\n Right common femoral artery arteriogram shows widely patent right common\n femoral artery.\n\n IMPRESSION: [**Known firstname 1100**] [**Known lastname **] underwent cerebral angiography and stent-assisted\n coil embolization of a brain aneurysm in the right paraclinoid area without\n any complications.  The patient was extubated and found to be neurologically\n unchanged.\n\n"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "hadm_id": 151973,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 49512,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 375,
+          "end": 378,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 380,
+          "end": 384,
+          "code": "491.22",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive chronic bronchitis with acute bronchitis",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 390,
+          "end": 400,
+          "code": "303.90",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified alcohol dependence, unspecified drinking behavior",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Alcoholism"
+        },
+        {
+          "begin": 1449,
+          "end": 1454,
+          "code": "93.90",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous positive airway pressure [CPAP]",
+          "type": "MapType.APPROX",
+          "covered_text": "BiPAP"
+        },
+        {
+          "begin": 2275,
+          "end": 2279,
+          "code": "491.22",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive chronic bronchitis with acute bronchitis",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 2280,
+          "end": 2292,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 2313,
+          "end": 2403,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "Tobacco:  120-160 pack years (3-4 packs daily x 40 years)\ncurrently smoking 3 packs daily."
+        },
+        {
+          "begin": 6790,
+          "end": 6818,
+          "code": "571.2",
+          "code_system": "ICD-9-CM",
+          "description": "Alcoholic cirrhosis of liver",
+          "type": "Human",
+          "covered_text": "probable alcoholic\ncirrhosis"
+        },
+        {
+          "begin": 6863,
+          "end": 6872,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "pneumonia"
+        },
+        {
+          "begin": 6877,
+          "end": 6906,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "hypoxemic respiratory failure"
+        },
+        {
+          "begin": 6940,
+          "end": 6959,
+          "code": "291.81",
+          "code_system": "ICD-9-CM",
+          "description": "Alcohol withdrawal",
+          "type": "MapType.APPROX",
+          "covered_text": "alcohol withdrawal,"
+        },
+        {
+          "begin": 6960,
+          "end": 6974,
+          "code": "348.30",
+          "code_system": "ICD-9-CM",
+          "description": "Encephalopathy, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "encephalopathy"
+        },
+        {
+          "begin": 7013,
+          "end": 7042,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "Hypoxemic respiratory failure"
+        },
+        {
+          "begin": 7053,
+          "end": 7114,
+          "code": "491.21",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive chronic bronchitis with (acute) exacerbation",
+          "type": "Human",
+          "covered_text": "Severe exacerbation of\nchronic obstructive pulmonary disease:"
+        },
+        {
+          "begin": 7217,
+          "end": 7227,
+          "code": "96.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Insertion of endotracheal tube",
+          "type": "Human",
+          "covered_text": "intubation"
+        },
+        {
+          "begin": 7300,
+          "end": 7309,
+          "code": "96.71",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous mechanical ventilation for less than 96 consecutive hours",
+          "type": "Human",
+          "covered_text": "extubated"
+        },
+        {
+          "begin": 8001,
+          "end": 8010,
+          "code": "571.2",
+          "code_system": "ICD-9-CM",
+          "description": "Alcoholic cirrhosis of liver",
+          "type": "Human",
+          "covered_text": "Cirrhosis"
+        },
+        {
+          "begin": 9663,
+          "end": 9691,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "Community Acquired Pneumonia"
+        },
+        {
+          "begin": 9692,
+          "end": 9709,
+          "code": "491.21",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive chronic bronchitis with (acute) exacerbation",
+          "type": "Human",
+          "covered_text": "COPD exacerbation"
+        },
+        {
+          "begin": 9710,
+          "end": 9761,
+          "code": "428.33",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, acute on chronic",
+          "type": "Human",
+          "covered_text": "Acute on Chronic Diastolic Congestive Heart Failure"
+        }
+      ],
+      "text": "Admission Date:  [**2125-11-26**]              Discharge Date:   [**2125-12-7**]\n\nDate of Birth:  [**2065-1-20**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 602**]\nChief Complaint:\nHypoxia\n\nMajor Surgical or Invasive Procedure:\nnone\n\n\nHistory of Present Illness:\nA 60 year old male with PMH HTN, COPD, and Alcoholism presented\nto the [**Hospital1 18**] ED with dyspnea and cough and was admitted to the\nICU for hypoxia.\n\nHistory obtained primairly from ExWife who is at bedside. She\nreports that for the past month, the patient has been having\nworseing dyspnea on exertion. Two days prior to admission, she\nreports that he had increasing sputum production and dyspnea, he\nwas somnolent and spent >16 hours sleeping each day. On the day\nof admission, she noted confusion, though he usually speaks with\nher in English, he began only speaking in Hindi which she does\nnot speak.\n\nIn the ED initial vitals were 98.7, 107, 125/68, 40 and 70 on\nRA, he was triggered for hypoxia. Initial labs were remarkable\nfor HCT 44.0, WBC 9.7 PMN 76%, INR 1.4, Cr 1.1, Lactate 2.6, BNP\n3272. Chest xray showed BL (L>R) pleural effusions and pulmonary\nedema. According to the report, exam was remarkable for\nabdomiinal distention however ultrasound examination failed to\nidentify ascitic fluid collection.\n\nInitial ABG showed 7.31/69/76/36 on 15L (unclear O2 delivery) he\nwas placed on BiPAP with 50% FiO2 repeat ABG showed\n7.33/65/74/36.He was given Albuterol and ipratropium nebulizer\ntreatements, 500mg Azithromycin, Ceftriaxone 1g IV, and\nMethylprednisolone 125mg IV x1.\n\nABG shortly prior to transfer showed 7.39/55/58/35. Vitals on\ntransfer BP157/72 RR24 SaO293% on BiPAP PEEP of 8\n\nOn arrival to the ICU, initial vitals were BP 127/70 HR:80 RR:19\n90% on a 50% ventimask. He was agitated, pulling at lines and\nhis foley and demanding to get out of bed. He stated that his\nlast alcoholic drink was 2 days ago which his ExWife confirmed.\n\nReview of systems:\n(+) Per HPI\n(-) Denies changes in sputum color. Denies fever. Denies chest\npain, chest pressure. Unable to perform further ROS due to\nagitation.\n\nPast Medical History:\nAlcoholism since [**33**]'s, Denies withdrawl history, denies history\nof seizures\nCOPD\nHypertension\n\n\nSocial History:\n- Tobacco:  120-160 pack years (3-4 packs daily x 40 years)\ncurrently smoking 3 packs daily.\n- Alcohol:  currently drinking 2 bottles of wine + large mixed\ndrink daily\n\nFamily History:\nMother: [**Name (NI) 2481**] Coronary artery disease\nFather: Leukemia\n\nPhysical Exam:\nAdmission Exam:\nVitals: T:96.9 BP:127/70 P:80 R:19 O2:92 30% 10/2 BiPAP\nGeneral: Overewight male. Agitated, oriented to\nperson/place/year speaking in [**12-31**] word sentences\nHEENT: Sclera anicteric fair dentition\nNeck: full supple, JVP not elevated, no LAD\nLungs: Poor air movement, right sided wheezes, decreased breath\nsounds on the left base.\nCV: Distant Regular rate and rhythm, normal S1 + S2, no murmurs,\nrubs, gallops\nAbdomen: Distended, soft, non-tender, bowel sounds normoactive,\nunable to assess shifting dullness\nGU: Foley in place\nExt: Non pitting edema to mid calf BL, warm, hyperpigmentation\nof anterior shin BL consistent with peripheral vascular disease\n\nDischarge Exam:\nPhysical Exam:\nGENERAL - well-appearing in NAD, comfortable, appropriate\nHEENT - NC/AT\nNECK -  no JVD appreciated\nLUNGS - CTA bilat, no r/rh/wh, good air movement, resp\nunlabored, no accessory muscle use\nHEART - RRR, no MRG, nl S1-S2\nABDOMEN - NABS, soft/NT/ND, no rebound/guarding\nEXTREMITIES - WWP, no c/c trace edema\nNEURO - awake, A&Ox3, moving all extremities\n\n\nPertinent Results:\nAdmission Labs:\n[**2125-11-26**] 01:05AM BLOOD WBC-9.7 RBC-4.31* Hgb-14.0 Hct-44.0\nMCV-102* MCH-32.4* MCHC-31.8 RDW-15.3 Plt Ct-233\n[**2125-11-26**] 01:05AM BLOOD Neuts-76* Bands-0 Lymphs-15* Monos-8\nEos-0 Baso-0 Atyps-0 Metas-1* Myelos-0 NRBC-8*\n[**2125-11-26**] 01:05AM BLOOD Plt Ct-233\n[**2125-11-26**] 01:05AM BLOOD PT-15.2* PTT-28.3 INR(PT)-1.3*\n[**2125-11-26**] 01:05AM BLOOD Glucose-96 UreaN-11 Creat-1.1 Na-140\nK-4.6 Cl-100 HCO3-32 AnGap-13\n[**2125-11-26**] 01:05AM BLOOD ALT-24 AST-55* CK(CPK)-58 AlkPhos-176*\nTotBili-0.7\n[**2125-11-26**] 01:05AM BLOOD CK-MB-3 cTropnT-<0.01 proBNP-2372*\n[**2125-11-26**] 01:05AM BLOOD Albumin-2.9*\n[**2125-11-26**] 01:05AM BLOOD TSH-3.5\n[**2125-11-26**] 01:05AM BLOOD Free T4-1.0\n[**2125-11-26**] 01:18AM BLOOD Lactate-2.6*\n[**2125-11-26**] 09:00PM BLOOD freeCa-1.13\n\nNotable studies:\nECHO [**2125-11-26**]:\nPoor image quality. The left atrium is normal in size. No atrial\nseptal defect is seen by 2D or color Doppler. There is mild\nsymmetric left ventricular hypertrophy with normal cavity size\nand global systolic function (LVEF>55%). Regional left\nventricular wall motion is normal. There is no ventricular\nseptal defect. The right ventricular cavity is mildly dilated\nwith normal free wall contractility. There is abnormal septal\nmotion/position. The ascending aorta is mildly dilated. The\naortic valve is not well seen. There is no aortic valve\nstenosis. No aortic regurgitation is seen. The mitral valve\nleaflets are not well seen. No mitral regurgitation is seen.\nTricuspid regurgitation is present but cannot be quantified. The\npulmonary artery systolic pressure could not be determined.\nThere is an anterior space which most likely represents a\nprominent fat pad.\n\nCXR [**2125-11-26**]:\nIMPRESSION:\n1. Bibasilar consolidation, left greater than right, and\nmoderate left\npleural effusion, may represent infection in the appropriate\nclinical setting.\n2. Moderate cardiomegaly and/or pericardial effusion. Mild\npulmonary edema.\n\nLE Ultrasound [**2125-11-26**]:\nIMPRESSION:\nNo left or right lower extremity DVT.\n\nRUQ Ultrasound [**2125-11-27**]:\nThe liver is echogenic and shows some irregularity of outline\nmore suggestive of cirrhosis than fatty liver, though either\ncould be the cause. Portal blood flow is towards the liver. No\nfocal defects are seen within the liver. The gallbladder is free\nof stones. The liver itself is enlarged.   Both right and left\nkidneys are normal. Spleen could not be identified suggesting\nthat it is not enlarged. Pancreas and aorta are hidden by\noverlying bowel gas. There is no ascites.\nIMPRESSION: Abnormal liver more consistent with cirrhosis than\nfatty infiltrate. No ascites.\n\nDischarge Labs:\n[**2125-12-6**] 07:00AM BLOOD WBC-9.2 RBC-4.38* Hgb-14.0 Hct-43.6\nMCV-100* MCH-32.0 MCHC-32.1 RDW-14.7 Plt Ct-194\n[**2125-12-6**] 07:00AM BLOOD Glucose-104* UreaN-13 Creat-0.9 Na-141\nK-3.4 Cl-94* HCO3-38* AnGap-12\n[**2125-12-5**] 06:45AM BLOOD Calcium-9.6 Phos-4.0 Mg-1.8\n\nStudies pending at Discharge:\nNone\n\nBrief Hospital Course:\nMr. [**Known lastname 103584**] is a 60 y/o male with a history of hypertension,\nchronic obstructive pulmonary disease, probable alcoholic\ncirrhosis, and alcohol abuse/dependence admitted with pneumonia\nand hypoxemic respiratory failure. Hospital course was notable\nfor alcohol withdrawal, encephalopathy, and acute diastolic\nheart failure.\n\n#Hypoxemic respiratory failure/Pneumonia/Severe exacerbation of\nchronic obstructive pulmonary disease:\nChest X-ray was consistent with left lower lobe pneumonia and\npatient was requiried ICU admission and intubation. He was also\ngiven steroids for exacerbation of COPD and was able to be\nextubated. He completed his antibiotic course of Ceftriaxone and\nazithromycin during his hospitalization and was discharged off\nsupplemental oxygen. He was also started on maintenance\nTiotropium and inhaled fluticasone on discharge.\n\n#Acute diastolic heart failure:\nPatient was felt to be volume overloaded on admission and was\ndiuresed with improvement in pulmonary edema and oxygen\nrequirement. Since he has had poor PCP follow up in the past and\nwas felt to have heart failure exacerbation due to infection,\nwhich was treated prior to discharge, he was not discharged on\ndiuretics. Echocardiogram showed mild symmetric LVH, preserved\nLVEF, and mild RV dilation.\n\n#Alcohol withdrawal/encephalopathy/Cirrhosis:\nPatient became delirious and agitated following extubation and\nthis was felt to be due to alcohol withdrawal and benzodiazepine\nwithdrawal. He was treated with Haldol and tapering doses of\nbenzodiazepines and his mental status returned to [**Location 213**] prior\nto discharge. Although he had imaging consistent with cirrhosis,\nhe was not felt to have hepatic encephalopathy. Abdominal\nultrasound showed probable cirrhosis but no ascites. He was\ncounseled on importance of abstaining from alcohol and was given\nfolate and thiamine. He was maintained on CIWA protocol while on\nthe medical floor.\n\n# Transitional issues:\nPatient was discharged with PCP follow up of COPD, probable\ncirrhosis, diastolic heart failure, and alcohol abuse.\n\nMedications on Admission:\nSymbicort 80/4.5 prescribed but not using\nVitamin D (Dose unknown)\nVitamin B12 (Dose unknown)\nFolate (Dose unknown)\nCalcium (Dose unknown)\n\nDischarge Medications:\n1. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:\nOne (1) Cap Inhalation DAILY (Daily).\nDisp:*1 Cap(s)* Refills:*2*\n2. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nTablet(s)\n3. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*0*\n4. fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff\nInhalation [**Hospital1 **] (2 times a day).\nDisp:*1 * Refills:*2*\n5. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\n1-2 puffs Inhalation every 4-6 hours as needed for shortness of\nbreath or wheezing: please have pharmacist teach  you how to use\nthis.\nDisp:*1 * Refills:*0*\n6. Calcium 500 + D  Oral\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nCommunity Acquired Pneumonia\nCOPD exacerbation\nAcute on Chronic Diastolic Congestive Heart Failure\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDear Mr. [**Known lastname 103584**],\nYou were admitted to the hospital for shortness of breath and\ncough and you were found to have pneumonia. You were admitted to\nthe intensive care unit and a breathing tube was placed. You\nwere treated with antibiotics and your symptoms improved. You\nwere transferred to the medicine floor and continued to improve.\n\nDuring your hospital stay, you underwent an ultrasound of your\nliver which shows liver disease. It is very important that you\nstop drinking alcohol, as this can further damage your liver and\nmake you very sick. It is also important that you quit smoking,\nas this can increase your risk for developing pneumonia. You\nprimary care doctor can help you with this.\n\nIt is very important you follow up with your primary care doctor\nregarding your multiple medical conditions. Please go to your\nscheduled appointments. You need to have your primary care\ndoctor set up home physical therapy services.\n\nPlease check your weights each morning and if you notice greater\nthan 3 pound weight gain, please call your primary care doctor\nimmediately, as this can represent worsening heart failure.\n\nThe following changes were made to your medications:\n- Please START tiotropium inhaler daily -- this is to help with\nyour lungs because you have emphysema\n- Please STOP Symbicort\n- Please START fluticasone inhaler -- this is also for your\nlungs\n- Please START thiamine vitamins\n\nPlease be sure to schedule a followup appointment with your\nprimary care physician, [**Last Name (NamePattern4) **]. [**First Name (STitle) 807**].\n\nDr. [**First Name (STitle) 807**] may set you up with a liver specialist, a lung\nspecialist, and a heart specialist.\n\n1.) You likely have Emphysema from smoking so much, so you will\nneed to start the inhalers, as listed below.  You will also need\nto have pulmonary function tests when you are feeling back to\nnormal.\nPlease try to cut back as much as possible on your smoking to\nmake it easier to quit.\n\n2.) You were also found to have diastolic heart failure, which\nmeans that you can build up fluid easily in your lungs and legs\nif you eat extra salt.  Please try to avoid salt as much as\npossible in your diet.  Please also weigh yourself every morning\nbefore breakfast, as we discussed.  If you are gaining more than\n3 lbs, it is likely fluid weight, so you should call Dr. [**Name (NI) 30283**] office, and he may need to start you on a medication\ncalled furosemide so that you can urinate out the extra fluid.\n\n3.) You were also found to have cirrhosis of the liver, likely\nbecause of the alcohol you have been drinking over the years.\nPlease try to stop drinking alcohol, as this can cause further\nharm to your liver.  You will need to follow with a liver\nspecialist.\n\nFollowup Instructions:\nName: [**Last Name (LF) **],[**First Name3 (LF) **] A.\nLocation: [**Hospital **] MEDICAL PHYSICIANS, P.C.\nAddress: [**University/College 808**], [**Location (un) **],[**Numeric Identifier 809**]\nPhone: [**Telephone/Fax (1) 823**]\n**Please contact your Primary Care Physician for [**Name Initial (PRE) **] follow up\nappointment from your hospital stay. It is recommended you\nfollow up with Dr [**First Name (STitle) 807**] within 1 week for a FULL PHYSICAL.**\n**Also please speak with your PCP about the need to follow up\nwith a Liver specialist, Heart specialist, Lung specialist**\n\n\n\nCompleted by:[**2125-12-9**]"
+    }
+  ]
+}

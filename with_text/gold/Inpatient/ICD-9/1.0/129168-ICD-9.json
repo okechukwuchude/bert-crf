@@ -1,0 +1,165 @@
+{
+  "hadm_id": 129168,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 513928,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 557,
+          "end": 575,
+          "code": "443.0",
+          "code_system": "ICD-9-CM",
+          "description": "Raynaud&apos;s syndrome",
+          "type": "Human",
+          "covered_text": "raynaud's disease,"
+        },
+        {
+          "begin": 6340,
+          "end": 6349,
+          "code": "276.3",
+          "code_system": "ICD-9-CM",
+          "description": "Alkalosis",
+          "type": "Human",
+          "covered_text": "alkalosis"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   HD11   POD 4-redo sternotomy/MVR(29 StJude Epic Porcine)\n   Ejection Fraction:75(preop)\n   Hemoglobin A1c:7.0\n   Pre-Op Weight:156.53 lbs   71 kgs\n   Baseline Creatinine:1.3\n   PMH: hypertension, pulmonary hypertension, mitral stenosis, chronic\n   diastolic heart failure, s/p mitral valve replacement\n   (bioprosthetic)[**2097**], post-op atrial fibrillation, s/p radiofrequency\n   ablation, sick sinus syndrome, s/p pacemaker [**2097**], hypothyroidism,\n   multiple myeloma, chronic renal insufficiency, paralyzed right\n   hemidiaphragm, raynaud's disease, gastroesophageal reflux disease\n   PSH: mitral valve replacement [**2097**], permanent pacemaker [**2097**] ([**First Name8 (NamePattern2) **] [**First Name5 (NamePattern1) **]\n   [**Last Name (NamePattern1) 12752**] Model #5376), right total knee replacement, left lower\n   extremity vein ligation\n   [**Last Name (un) **]: levoxyl 25', ambien 5/prn, norvasc 2.5',\n   on admission:lorazepam 0.5 q6/prn, amiodarone 200', asa 81', bisacodyl\n   10', mylanta 30 q4/prn, ambien 5/prn, enoxaparin 40 hs,\n   Events:\n   [**2104-12-19**] lasix gtt d/c'd, weaning milrinone. much improved fluid\n   status, cre stable 2.4\n   [**2104-12-18**] Lasix to 15, Natricor started. Renal on board.Echo for RV fxn,\n   d/c CT.\n   [**2104-12-17**] Extubated, epi, vasopressin weaned off, milrinone kept on -\n   swan left in\n   [**2104-12-16**] OR-\n   Assessment:76yoW s/p redo sternotomy/MVR(29 StJude Epic Porcine)[**12-16**]\n   Current medications:\n   1. Acetaminophen 5. Amiodarone 6. Aspirin EC 7. Calcium Gluconate 9.\n   Docusate Sodium 10. Furosemide 13. Insulin 14. Levothyroxine Sodium 15.\n   Magnesium Sulfate 16. Metoclopramide 18. Milrinone 19. Morphine Sulfate\n   20. Nesiritide 21. Oxycodone-Acetaminophen 22. Pneumococcal Vac\n   Polyvalent 24. Ranitidine\n   24 Hour Events:\n TEMPORARY PACEMAKER WIRES DISCONTINUED - At [**2104-12-19**] 10:15 AM\n   Post operative day:\n   POD#4 - Redo mitral valve.\n   Allergies:\n   Keflex (Oral) (Cephalexin Monohydrate)\n   Hives;\n   Penicillins\n   Hives;\n   Last dose of Antibiotics:\n   Vancomycin - [**2104-12-17**] 10:00 PM\n   Infusions:\n   Milrinone - 0.12 mcg/Kg/min\n   Nesiritide - 0.01 mcg/Kg/min\n   Other ICU medications:\n   Furosemide (Lasix) - [**2104-12-19**] 10:05 AM\n   Other medications:\n   Flowsheet Data as of  [**2104-12-20**] 07:46 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**06**] a.m.\n   HR: 86 (74 - 91) bpm\n   BP: 121/53(72) {102/41(57) - 145/60(86)} mmHg\n   RR: 19 (13 - 29) insp/min\n   SPO2: 100%\n   Heart rhythm: V Paced\n   Wgt (current): 76 kg (admission): 71 kg\n   Height: 65 Inch\n   CVP: 3 (3 - 22) mmHg\n   PAP: (65 mmHg) / (24 mmHg)\n   CO/CI (Fick): (4.6 L/min) / (2.6 L/min/m2)\n   CO/CI (CCO): (4.9 L/min) / (3.5 L/min/m2)\n   SvO2: 60%\n   Mixed Venous O2% sat: 65 - 65\n   Total In:\n                                                                  1,741 mL\n                                                                     79 mL\n   PO:\n                                                                    640 mL\n   Tube feeding:\n   IV Fluid:\n                                                                  1,101 mL\n                                                                     79 mL\n   Blood products:\n   Total out:\n                                                                  4,855 mL\n                                                                  1,025 mL\n   Urine:\n                                                                  4,855 mL\n                                                                  1,025 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                 -3,114 mL\n                                                                   -946 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SPO2: 100%\n   ABG: 7.48///31/\n   Physical Examination\n   General Appearance: No acute distress\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:\n   Diminished: bases)\n   Left Extremities: (Edema: 3+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: 3+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present), (Pulse - Posterior tibial: Present)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   132 K/uL\n   9.1 g/dL\n   118 mg/dL\n   1.8 mg/dL\n   31 mEq/L\n   4.1 mEq/L\n   48 mg/dL\n   99 mEq/L\n   137 mEq/L\n   27.0 %\n   11.3 K/uL\n        [image002.jpg]\n                             [**2104-12-18**]  12:59 AM\n                             [**2104-12-18**]  03:00 AM\n                             [**2104-12-18**]  03:26 AM\n                             [**2104-12-18**]  12:37 PM\n                             [**2104-12-18**]  12:43 PM\n                             [**2104-12-18**]  05:26 PM\n                             [**2104-12-19**]  02:16 AM\n                             [**2104-12-19**]  11:13 AM\n                             [**2104-12-19**]  11:23 AM\n                             [**2104-12-20**]  01:08 AM\n   WBC\n   18.7\n   12.8\n   12.7\n   11.3\n   Hct\n   29\n   30.7\n   27.4\n   23\n   26.0\n   27.0\n   Plt\n   [**Telephone/Fax (3) 12798**]32\n   Creatinine\n   2.1\n   2.4\n   2.4\n   1.8\n   TCO2\n   25\n   27\n   27\n   Glucose\n   151\n   147\n   147\n   124\n   113\n   110\n   118\n   Other labs: PT / PTT / INR:13.6/47.0/1.2, ALT / AST:21/36, Alk-Phos / T\n   bili:57/1.1, Amylase / Lipase:91/12, Lactic Acid:1.4 mmol/L,\n   Albumin:3.1 g/dL, LDH:406 IU/L, Ca:8.2 mg/dL, Mg:2.3 mg/dL, PO4:6.1\n   mg/dL\n   Assessment and Plan\n   VALVE REPLACEMENT, MITRAL BIOPROSTHETIC (MVR), MITRAL REGURGITATION\n   (MITRAL INSUFFICIENCY)\n   Assessment and Plan: Resolving [**Last Name (un) **]. Still on milrinone and nesiritide.\n   Neurologic: Neuro checks Q: 4 hr, Pain controlled\n   Cardiovascular: Aspirin, Start statin. Wean milrinone\n   Pulmonary: IS, OOB and CPT\n   Gastrointestinal / Abdomen:\n   Nutrition: Regular diet\n   Renal: Foley, Adequate UO, 3 liters negative yesterday. Still\n   significant fluid overload. Will d/c nesiritide and continue lasix.\n   Will add diamox for alkalosis\n   Hematology: Serial Hct\n   Endocrine: RISS\n   Infectious Disease: Check cultures, No evidence of infection\n   Lines / Tubes / Drains: Foley\n   Wounds: Dry dressings\n   Imaging: CXR today\n   Fluids: KVO\n   Consults: CT surgery\n   Billing Diagnosis: Post-op hypotension, Post-op complication, Acute\n   renal failure\n   ICU Care\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2104-12-16**] 04:00 PM\n   CCO PAC - [**2104-12-16**] 04:00 PM\n   Cordis/Introducer - [**2104-12-16**] 04:00 PM\n   Indwelling Port (PortaCath) - [**2104-12-18**] 10:47 AM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: H2 blocker\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status:\n   Disposition: ICU\n   Total time spent: 32 minutes\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 37210,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 875,
+          "end": 887,
+          "code": "404.91",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive heart and renal disease, unspecified, with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 911,
+          "end": 942,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "MapType.MULTI",
+          "covered_text": "Chronic diastolic heart failure"
+        },
+        {
+          "begin": 1080,
+          "end": 1095,
+          "code": "V45.01",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac pacemaker in situ",
+          "type": "MapType.EXACT",
+          "covered_text": "s/p pacemaker ["
+        },
+        {
+          "begin": 1105,
+          "end": 1119,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 1120,
+          "end": 1136,
+          "code": "203.00",
+          "code_system": "ICD-9-CM",
+          "description": "Multiple myeloma without mention of remission",
+          "type": "Human",
+          "covered_text": "Multiple myeloma"
+        },
+        {
+          "begin": 1137,
+          "end": 1164,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Chronic renal insufficiency"
+        },
+        {
+          "begin": 1213,
+          "end": 1244,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "Gastroesophageal reflux disease"
+        },
+        {
+          "begin": 1245,
+          "end": 1273,
+          "code": "V43.65",
+          "code_system": "ICD-9-CM",
+          "description": "Knee joint replaced by other means",
+          "type": "MapType.APPROX",
+          "covered_text": "Right total knee replacement"
+        },
+        {
+          "begin": 11301,
+          "end": 11323,
+          "code": "416.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pulmonary heart diseases",
+          "type": "Human",
+          "covered_text": "Pulmonary hypertension"
+        },
+        {
+          "begin": 11417,
+          "end": 11444,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "MapType.APPROX",
+          "covered_text": "post-op\natrial fibrillation"
+        }
+      ],
+      "text": "Admission Date:  [**2104-12-10**]              Discharge Date:   [**2104-12-24**]\n\nDate of Birth:  [**2028-4-5**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nKeflex / Penicillins\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nDyspnea\n\nMajor Surgical or Invasive Procedure:\n[**2104-12-16**] Redo-Sternotomy, Mitral Valve Replacement\n\nHistory of Present Illness:\n76F who underwent MVR in [**2097**] has developed progressive fatigue\nand dyspnea since [**2104-7-29**].  She also developed lower\nextremity edema.  She was found to have severe MS [**First Name (Titles) **] [**Last Name (Titles) 113**] as\nwell as 3+MR and pulmonary htn with PA pressures in the 50s.\nShe underwent cardiac catheterization and coronary angiography\nin preparation for cardiac surgery.  She is transferred for\ncardiac surgery evaluation.\n\nPast Medical History:\nMitral Stenosis\nHypertension\nPulmonary hypertension\nChronic diastolic heart failure\ns/p mitral valve replacement (bioprosthetic) [**2097**] with post-op\natrial fibrillation s/p radiofrequency ablation\nSick sinus syndrome s/p pacemaker [**2097**]\nHypothyroidism\nMultiple myeloma\nChronic renal insufficiency\nParalyzed right hemidiaphragm\nRaynaud's disease\nGastroesophageal reflux disease\nRight total knee replacement\nLeft lower extremity vein ligation\n\nSocial History:\nLast Dental Exam: [**2104-9-28**], Dr. [**Last Name (STitle) 83783**], [**Location (un) 12017**], NH\nLives with: husband\nOccupation: -\n[**Name2 (NI) 1139**]: denies\nETOH: denies\n\nFamily History:\nmom 42 colon ca\ndad 56 HOCM\n\nPhysical Exam:\nPulse: 98 Resp: 20 O2 sat: 98%2L\nB/P  Right: 122/82   Left:\nHeight:  5'5\"   Weight: 157lb\n\nGeneral:\nSkin: Dry [x] intact [x]\nwell healed median sternotomy incision\nright upper chest- port-a-cath\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [] crackles at bases\nHeart: RRR [x]  Irregular []  Murmur soft systolic and diastolic\nmurmurs\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]\nExtremities: Warm [x], well-perfused [x]  Edema 2+ Varicosities:\nsmall varicosities b/l LEs None []\nNeuro: Grossly intact X\nPulses:\nFemoral      Right: 2+  Left: 2+\nDP           Right: 2+  Left: 2+\nPT           [**Name (NI) 167**]:   Left: not palpable [**12-30**] edema\nRadial       Right: 2+  Left: 2+\n\nCarotid Bruit        Right:    Left: no carotid bruits\n\nPertinent Results:\n[**2104-12-10**] 07:45PM   PT-13.7* PTT-58.1* INR(PT)-1.2*\n[**2104-12-10**] 07:45PM   PLT COUNT-467*\n[**2104-12-10**] 07:45PM   WBC-8.9 RBC-4.00* HGB-10.9* HCT-35.6* MCV-89\nMCH-27.2 MCHC-30.6* RDW-14.3\n[**2104-12-10**] 07:45PM   %HbA1c-7.0*\n[**2104-12-10**] 07:45PM   ALBUMIN-3.7 CALCIUM-8.8 PHOSPHATE-3.4\nMAGNESIUM-1.9\n[**2104-12-10**] 07:45PM   ALT(SGPT)-47* AST(SGOT)-44* LD(LDH)-306* ALK\nPHOS-77 TOT BILI-0.7\n[**2104-12-10**] 07:45PM   GLUCOSE-212* UREA N-36* CREAT-1.4* SODIUM-138\nPOTASSIUM-3.8 CHLORIDE-101 TOTAL CO2-25 ANION GAP-16\n[**2104-12-22**] 05:49AM BLOOD WBC-9.1 RBC-3.33* Hgb-9.6* Hct-30.2*\nMCV-90 MCH-28.6 MCHC-31.7 RDW-16.1* Plt Ct-258\n[**2104-12-22**] 05:49AM BLOOD Plt Ct-258\n[**2104-12-18**] 03:00AM BLOOD PT-13.6* PTT-47.0* INR(PT)-1.2*\n[**2104-12-22**] 05:49AM BLOOD Glucose-94 UreaN-29* Creat-1.0 Na-138\nK-4.4 Cl-97 HCO3-34* AnGap-11\n[**2104-12-11**] Carotid U/S: No significant carotid artery stenosis\nidentified(less than 40% on the right, none on the left).\n[**2104-12-16**] [**Month/Day/Year **]: PRE BYPASS The left atrium is markedly dilated.\nThe left atrium is elongated. Mild spontaneous [**Month/Day/Year 113**] contrast is\nseen in the body of the left atrium. No mass/thrombus is seen in\nthe left atrium or left atrial appendage. Mild spontaneous [**Month/Day/Year 113**]\ncontrast is present in the left atrial appendage. The left\natrial appendage emptying velocity is depressed (<0.2m/s). The\nright atrium is dilated. No atrial septal defect is seen by 2D\nor color Doppler. The coronary sinus is dilated (diameter\n>15mm). Injection of agitated saline into the left upper\nextremity appeared in the right atrium through the superior vena\ncava, ruling out a persistent left SVC. The left ventricular\ncavity size is normal. Due to suboptimal technical quality, a\nfocal wall motion abnormality cannot be fully excluded. Overall\nleft ventricular systolic function is normal (LVEF>55%).\n[Intrinsic left ventricular systolic function is likely not as\ngood given the severity of valvular regurgitation.] Left\nventricular dysnchrony is present. The right ventricular cavity\nis dilated with mild hypokinesis of the basilar portion but\nsevere mid and apical free wall hypokinesis. There is abnormal\nseptal motion/position consistent with right ventricular\npressure/volume overload. There are simple atheroma in the\naortic arch. There are focal calcifications in the aortic arch.\nThe descending thoracic aorta is mildly dilated. There are\nsimple atheroma in the descending thoracic aorta. There are\nthree aortic valve leaflets. The aortic valve leaflets are\nmoderately thickened. The non-coronary cusp is immobilized.\nThere is mild to moderate aortic valve stenosis (valve area 1.3\ncm2). Trace aortic regurgitation is seen. The prosthetic mitral\nvalve leaflets are thickened. Motion of the prosthetic mitral\nvalve leaflets is abnormal. The leaflets appear to be fused at\ntheir bases. The gradients are higher than expected for this\ntype of prosthesis. There is severe valvular mitral stenosis\n(area <1.0cm2). Moderate (2+) mitral regurgitation is seen. The\nvalve ring appears somewhat more mobile than expected but there\nis no perivalvualr leak and no evidence of dehiscence. The\ntricuspid valve leaflets are mildly thickened. The tricuspid\nregurgitation is at least mild to moderate. At times it may be\nslightly worse and emanates from the center of the valve. There\nis a large left pleural effusion. Dr. [**Last Name (STitle) **] was notified in\nperson of the results in the operating room at the time of the\nstudy.\nPOST BYPASS The patient is being AV placed. The patient is\nreceiving milrinone, epinephrine, and norepinephrine by\ninfusion. The right ventricle displays improved systolic\nfunction with mild free wall hypokinesis. The left ventricle is\nhyperdynamic with an ejection fraction near 75 to 80%. There is\na bioprosthesis in the mitral position. It appears well seated\nwith normal leaflet function. There is trace valvular mitral\nregurgitation. No perivalvular regurgitation is seen. The\nmaximum gradient through the mitral valve is 12 mmHg with a mean\ngradient of 5 mmHg at a cardiac output of about 5.7\nliters/minute. The tricuspid regurgitation is significantly\nimproved and is now mild. The aortic valve is unchanged. The\nthoracic aorta appears intact.\nCHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 83784**]\nFinal Report\nPA AND LATERAL CHEST RADIOGRAPHS: Comparison is made to multiple\nprior\nradiographs, most recently [**12-15**] and [**2104-12-18**]. Lung\nvolumes\nremain low without evidence of pneumothorax and with unchanged\npositioning to left-sided pacemaker and right Port-A-Cath. Left\npleural effusion has\nincreased in the interval with expected probable adjacent\ncompression\natelectasis. Mild right basilar atelectasis is improved with\nstable\neventration of the hemidiaphragms. Cardiac silhouette remains\nenlarged with no other change to mediastinal and hilar contours.\nThe epicardial pacing leads as well as right central venous line\nhave been removed in the interval.\nDegenerative changes involving the right humeral head are again\nnoted.\nIMPRESSION:\nMarked interval increase in size to moderate left pleural\neffusion and small right pleural effusion.\nThe study and the report were reviewed by the staff radiologist.\n\nDR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]\nDR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3891**]\n\n\nBrief Hospital Course:\n76F who underwent mitral valve replacement in [**2097**] who had\ndeveloped progressive fatigue and dyspnea since [**2104-7-29**].\nShe also developed lower extremity edema.  She was found to have\nsevere MS [**First Name (Titles) **] [**Last Name (Titles) 113**] as well as 3+MR and pulmonary hypertension\nwith PA pressures in the 50s.  She underwent cardiac\ncatheterization at outside hospital, which showed no coronary\nartery disease.  She was transferred to [**Hospital1 18**] and on [**2104-12-16**]\nunderwent a redo sternotomy and redo mitral valve replacement\nwith a 29-mm St. [**Hospital 923**] Medical Biocor tissue valve. Her bypass\ntime was 108 minutes with a crossclamp time of 66 minutes. See\noperative note for full details.  She tolerated the operation\nbut required inotropic and pressor support post operatively, she\nwas transferred from the operating room to the cardiac surgery\nICU in stable condition on epinephrine, Milrinone and Levophed.\nVasopressin was added and Levophed was weaned to off on the\noperative day. On the morning of POD1 sedation was weaned and\nshe was extubated. She was continued on milronone until post\noperative day 4 due to right ventricular dysfunction.  She did\nhave acute tubular nephrosis with a peak creatinine of 2.4.  The\nrenal team was consulted.  The patient was started on Natrecor\nand Lasix drips with increased diuresis.  The drips were\ndiscontinued on post operative day 4 and she continued to\ndiurese with Lasix daily. Her renal function continued to\nimprove with creatinine returning to baseline prior to\ndischarge. Chest tubes and pacing wires were removed per cardiac\nsurgery protocol.  Physical therapy worked with her to improve\nstrength and endurance.  She was transferred to the floor on\npost operative day 6 (held in the unit one extra day due to bed\navailability).  The patient continued to progress slowly with\nphysical therapy and was found ready for transfer to rehab on\nPOD 8.\n\n\nMedications on Admission:\nAt home: Levoxyl 25mcg', Ambien 5 prn, Norvasc 2.5'\nOn admission: Lorazepam 0.5 q6h prn, Amiodarone 200', Aspirin\n81', Bisacodyl 10', Mylanta 30 q4h prn, Ambien 5 prn, Enoxaparin\n40 hs, Acetylcysteine 600mg 2 doses, Lasix 40 x1\n\nDischarge Medications:\n1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n3. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ6H (every 6 hours) as needed for pain.\n6. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every\n4 hours) as needed for pain.\n7. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nDAILY (Daily) as needed for constipation.\n8. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n9. Diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO QID (4\ntimes a day).\n10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO twice a day\nfor 2 weeks.\n11. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal\nSig: Two (2) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily).\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Last Name (un) 83785**] Pines\n\nDischarge Diagnosis:\nMitral valve stenosis s/p Redo-Sternotomy, Mitral valve\nreplacement\nPast medical history:\nHypertension\nPulmonary hypertension\nChronic diastolic heart failure\ns/p mitral valve replacement (bioprosthetic) [**2097**] with post-op\natrial fibrillation s/p radiofrequency ablation\nSick sinus syndrome s/p pacemaker [**2097**]\nHypothyroidism\nMultiple myeloma\nChronic renal insufficiency\nParalyzed right hemidiaphragm\nRaynaud's disease\nGastroesophageal reflux disease\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating, with [**First Name4 (NamePattern1) **]\n[**Last Name (NamePattern1) 83786**] pain managed with percocet prn\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming, and look at your incisions\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month until follow up with\nsurgeon\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n\nFollowup Instructions:\nSurgeon Dr. [**Last Name (STitle) **] in 4 weeks [**Telephone/Fax (1) 170**] [**1-22**] at 1:00 PM\nPlease call to schedule appointments\nPrimary Care Dr. [**Last Name (STitle) 83787**] in [**11-29**] weeks [**Telephone/Fax (1) 10026**]\nCardiologist Dr. [**Last Name (STitle) 83788**] in [**11-29**] weeks\n\n\n\nCompleted by:[**2104-12-24**]"
+    },
+    {
+      "note_id": 513754,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 5686,
+          "end": 5692,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "anemia"
+        },
+        {
+          "begin": 5996,
+          "end": 6015,
+          "code": "458.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other iatrogenic hypotension",
+          "type": "Human",
+          "covered_text": "Post-op hypotension"
+        },
+        {
+          "begin": 6017,
+          "end": 6036,
+          "code": "584.5",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure with lesion of tubular necrosis",
+          "type": "Human",
+          "covered_text": "Acute renal failure"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   resolving ARF and hypotension s/p redo MVR\n   Chief complaint:\n   PMHx:\n   hypertension, pulmonary hypertension, mitral stenosis, chronic\n   diastolic heart failure, s/p mitral valve replacement\n   (bioprosthetic)[**2097**], post-op atrial fibrillation, s/p radiofrequency\n   ablation, sick sinus syndrome, s/p pacemaker [**2097**], hypothyroidism,\n   multiple myeloma, chronic renal insufficiency, paralyzed right\n   hemidiaphragm, raynaud's disease, gastroesophageal reflux disease\n   PSH: mitral valve replacement [**2097**], permanent pacemaker [**2097**] ([**First Name8 (NamePattern2) **] [**First Name5 (NamePattern1) **]\n   [**Last Name (NamePattern1) 12752**] Model #5376), right total knee replacement, left lower\n   extremity vein ligation\n   Current medications:\n   Acetaminophen 5. Amiodarone 6. Aspirin EC 9. Docusate Sodium 10.\n   Furosemide  15. Insulin 16. Levothyroxine 17. Magnesium Sulfate 18.\n   Metoclopramide 20. Milrinone 21. Morphine Sulfate 22. Nesiritide 24.\n   Oxycodone-Acetaminophen 27. Ranitidine\n   24 Hour Events:\n INDWELLING PORT (PORTACATH) - START [**2104-12-18**] 10:47 AM\n CHEST TUBE REMOVED - At [**2104-12-18**] 11:30 AM\n TRANSTHORACIC ECHO - At [**2104-12-18**] 01:50 PM\n   Post operative day:\n   POD#3 - Redo mitral valve.\n   Allergies:\n   Keflex (Oral) (Cephalexin Monohydrate)\n   Hives;\n   Penicillins\n   Hives;\n   Last dose of Antibiotics:\n   Vancomycin - [**2104-12-17**] 10:00 PM\n   Infusions:\n   Nesiritide - 0.01 mcg/Kg/min\n   Milrinone - 0.25 mcg/Kg/min\n   Other ICU medications:\n   Other medications:\n   Flowsheet Data as of  [**2104-12-19**] 08:38 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**06**] a.m.\n   HR: 74 (73 - 84) bpm\n   BP: 123/54(72) {104/45(62) - 140/61(84)} mmHg\n   RR: 21 (9 - 25) insp/min\n   SPO2: 100%\n   Heart rhythm: V Paced\n   Wgt (current): 77.5 kg (admission): 71 kg\n   Height: 65 Inch\n   CVP: 18 (7 - 22) mmHg\n   PAP: (61 mmHg) / (23 mmHg)\n   CO/CI (Fick): (6.5 L/min) / (3.7 L/min/m2)\n   CO/CI (CCO): (5.9 L/min) / (2.9 L/min/m2)\n   SvO2: 71%\n   Total In:\n                                                                  1,732 mL\n                                                                    548 mL\n   PO:\n                                                                    950 mL\n                                                                    240 mL\n   Tube feeding:\n   IV Fluid:\n                                                                    782 mL\n                                                                    308 mL\n   Blood products:\n   Total out:\n                                                                  1,449 mL\n                                                                  2,140 mL\n   Urine:\n                                                                  1,189 mL\n                                                                  2,140 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    283 mL\n                                                                 -1,592 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SPO2: 100%\n   ABG: 7.40/42/89.[**Numeric Identifier 126**]/27/0\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular), V-paced\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :\n   bilateral), (Sternum: Stable )\n   Abdominal: Soft, Non-distended, Non-tender\n   Left Extremities: (Edema: 2+), (Pulse - Dorsalis pedis: Present)\n   Right Extremities: (Edema: 2+), (Pulse - Dorsalis pedis: Present)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   150 K/uL\n   8.8 g/dL\n   113 mg/dL\n   2.4 mg/dL\n   27 mEq/L\n   3.4 mEq/L\n   55 mg/dL\n   97 mEq/L\n   133 mEq/L\n   27.4 %\n   12.8 K/uL\n        [image002.jpg]\n                             [**2104-12-17**]  10:15 PM\n                             [**2104-12-17**]  11:42 PM\n                             [**2104-12-18**]  12:54 AM\n                             [**2104-12-18**]  12:59 AM\n                             [**2104-12-18**]  03:00 AM\n                             [**2104-12-18**]  03:26 AM\n                             [**2104-12-18**]  12:37 PM\n                             [**2104-12-18**]  12:43 PM\n                             [**2104-12-18**]  05:26 PM\n                             [**2104-12-19**]  02:16 AM\n   WBC\n   18.7\n   12.8\n   Hct\n   32\n   29\n   30.7\n   27.4\n   Plt\n   208\n   150\n   Creatinine\n   2.1\n   2.4\n   2.4\n   TCO2\n   29\n   27\n   27\n   25\n   27\n   27\n   Glucose\n   120\n   151\n   147\n   147\n   124\n   113\n   Other labs: PT / PTT / INR:13.6/47.0/1.2, ALT / AST:21/36, Alk-Phos / T\n   bili:57/1.1, Amylase / Lipase:91/12, Lactic Acid:1.4 mmol/L,\n   Albumin:3.1 g/dL, LDH:406 IU/L, Ca:8.2 mg/dL, Mg:2.3 mg/dL, PO4:6.1\n   mg/dL\n   Assessment and Plan\n   VALVE REPLACEMENT, MITRAL BIOPROSTHETIC (MVR), MITRAL REGURGITATION\n   (MITRAL INSUFFICIENCY)\n   Assessment and Plan: 76yoW POD#3 s/p redo sternotomy/MVR\n   Neurologic: Pain controlled, Percocet prn\n   Cardiovascular: Aspirin, Discontinue epicardial wires, Wean milrinone.\n   V-paced via permanent pacer\n   Pulmonary: IS, OOB/IS, wean supplemental oxygen\n   Gastrointestinal / Abdomen: Bowel regimen\n   Nutrition: Full liquids, advance diet as tolerates\n   Renal: Foley, Adequate UO, discontinue lasix drip. Start 40mg lasix IV\n   BID.  wean nesiritide.\n   Hematology: Stable anemia\n   Endocrine: RISS, Blood glucose well controlled\n   Infectious Disease: No signs of infection\n   Lines / Tubes / Drains: Foley, Pacing wires, Discontinue pericardial\n   pacing wires\n   Wounds: Dry dressings\n   Imaging: CXR today\n   Fluids: KVO\n   Consults: CT surgery, Nephrology\n   Billing Diagnosis: Post-op hypotension, Acute renal failure\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2104-12-16**] 04:00 PM\n   CCO PAC - [**2104-12-16**] 04:00 PM\n   Cordis/Introducer - [**2104-12-16**] 04:00 PM\n   Indwelling Port (PortaCath) - [**2104-12-18**] 10:47 AM\n   Prophylaxis:\n   DVT:\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication: ICU consent signed Comments:\n   Code status:\n   Disposition: ICU\n   Total time spent: 33 minutes\n"
+    }
+  ]
+}

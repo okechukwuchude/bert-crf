@@ -1,0 +1,95 @@
+{
+  "hadm_id": 121739,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 38112,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 5906,
+          "end": 5928,
+          "code": "V45.01",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac pacemaker in situ",
+          "type": "Human",
+          "covered_text": "status-post pacemaker,"
+        },
+        {
+          "begin": 5929,
+          "end": 5961,
+          "code": "V42.2",
+          "code_system": "ICD-9-CM",
+          "description": "Heart valve replaced by transplant",
+          "type": "Human",
+          "covered_text": "porcine aortic valve\nreplacement"
+        },
+        {
+          "begin": 5963,
+          "end": 5971,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "MapType.APPROX",
+          "covered_text": "diabetes"
+        },
+        {
+          "begin": 5973,
+          "end": 5985,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 5987,
+          "end": 6007,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "MapType.APPROX",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 7276,
+          "end": 7297,
+          "code": "255.41",
+          "code_system": "ICD-9-CM",
+          "description": "Glucocorticoid deficiency",
+          "type": "Human",
+          "covered_text": "Adrenal insufficiency"
+        },
+        {
+          "begin": 8643,
+          "end": 8698,
+          "code": "431",
+          "code_system": "ICD-9-CM",
+          "description": "Intracerebral hemorrhage",
+          "type": "Human",
+          "covered_text": "12 x 10 mm hemorrhagic stroke in the left basal ganglia"
+        },
+        {
+          "begin": 8720,
+          "end": 8728,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "MapType.APPROX",
+          "covered_text": "Diabetes"
+        },
+        {
+          "begin": 8729,
+          "end": 8743,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        }
+      ],
+      "text": "Admission Date:  [**2188-6-5**]              Discharge Date:   [**2188-6-10**]\n\nDate of Birth:  [**2103-7-29**]             Sex:   M\n\nService: NEUROLOGY\n\nAllergies:\nPenicillins / Sulfa (Sulfonamide Antibiotics)\n\nAttending:[**First Name3 (LF) 5018**]\nChief Complaint:\n84-year old man presenting with onset of right leg weakness and\nright facial droop with subsequent non-word speech and possibly\nright leg\ntingling now with symptoms improving, exam notable for right\nword-finding difficulties and low-frequency naming difficulty,\nright facial droop, and trace right pronator drift but no\nobvious weakness.\n\nMajor Surgical or Invasive Procedure:\nnone\n\n\nHistory of Present Illness:\n84-year old man with history of recently noted atrial\nfibrillation, cardiac disease status-post pacemaker and porcine\naortic valve replacement, hypertension, hyperlipidemia, and\ndiabetes presents with new onset right leg weakness, difficulty\nspeaking, and right facial droop.  Patient reports that he was\ngardening with his wife at 11:30, and he almost fell due to\nright\nleg weakness.  He went into the house to sit down and was\ninitially feeling a bit better, but his wife was very concerned,\nso she took him to his PCP.  [**Name10 (NameIs) **] also apparently told him that\nhis face looked asymmetric.  He noted that as he was waiting to\nsee his primary care physician he continued to have mild\ndifficulty walking and right leg weakness.  In addition, while\nat\nthe PCP he reports that for a few hours he was unable to speak\nproperly.  It is noted in the medical record that he was\nanswering questions appropriately but then at times repeating\nnon-word answers.  His speech also seemed slurred to them as\nwell\nas the patient.  He denies any difficulty understanding\nquestions.  In addition to his speech, language, and weakness\nissues he also notes that in the past he has had long-standing\nissues with discoordination possibly due to a \"mini-stroke,\" and\nthis was also worse today while in general it had been improving\nover the past few years.  His PCP was concerned regarding a\nstroke, so sent him to the emergency room where a CT scan was\nobtained revealing a right basal ganglia hemorrhage about 1x1\nand\n2 cm in the craniocaudal direction.  He was noted to have\nelevated blood pressure with SBP around 180, but since he was\nimproving neurologically, they did not lower it. Otherwise, upon\nquestioning he endorses possibly right leg tingling but denies\nheadache, right arm weakness.\n\n\nPast Medical History:\nHypertension\nHyperlipidemia\nDiabetes mellitus type 2\nAdrenal insufficiency/Addison's disease - needs stress dose\nsteroids 100 mg is his crisis dose\nCardiac disease - pacemaker, aortic valve porcine replacement,\napparently was on plavix up until 1-2 weeks ago, discontinued\nand\nreplaced with 325 mg aspirin--unknown why\nPacemaker recently interrogated and atrial fibrillation noted\n\n\nSocial History:\nLives with wife, former television and antenna repairman\nEtOH: [**12-8**] drink daily (increased recently as his wife pours\nmore now)\ntobacco: denies\ndrugs: denies\n\n\nFamily History:\ndenies family history of neurologic disease, early\nstroke, clotting or bleeding disorder\n\n\nPhysical Exam:\nGeneral: Awake, cooperative, NAD.\nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in\noropharynx\nNeck: Supple, no nuchal rigidity\nPulmonary: Lungs CTA bilaterally without R/R/W\nCardiac: RRR, nl. S1S2, no M/R/G noted\nAbdomen: soft, NT/ND, normoactive bowel sounds, no masses or\norganomegaly noted.\nExtremities: No C/C/E bilaterally, 2+ radial, DP pulses\nbilaterally.\nSkin: no rashes or lesions noted.\nNeurologic:\n-Mental Status: Alert, oriented x 3. Able to relate history with\nOCCASIONAL WORD-FINDING DIFFICULTY. Attentive, able to name DOW\nbackward without difficulty. Language is fluent with intact\nrepetition and comprehension. Normal prosody. There were no\nparaphasic errors. Pt. was able to name high BUT NOT LOW\nFREQUENCY. Speech was not dysarthric. Able to follow both\nmidline\nand appendicular commands. Pt. was able to register 3 objects\nand\nRECALL [**12-9**] at 5 minutes (but 1 hour later still recalled [**1-9**]).\nThere was no evidence of apraxia or neglect.\nCN\nI: not tested\nII,III: VFF to confrontation, pupils 4mm->2mm bilaterally, fundi\nnormal\nIII,IV,V: EOMI, no ptosis. No nystagmus\nV: sensation intact V1-V3 to LT\nVII: RIGHT FACIAL DROOP IN UPPER MOTOR NEURON PATTERN\nVIII: hears finger rub bilaterally , but slightly decreased to\nvoice\nIX,X: palate elevates symmetrically, uvula midline\n[**Doctor First Name 81**]: SCM/trapezeii [**4-9**] bilaterally\nXII: tongue protrudes midline, no dysarthria\nMotor: Normal bulk and tone; no asterixis or myoclonus. Subtle\npronator drift on right.\n   Delt [**Hospital1 **]  Tri  WE FE Grip IO\n   C5   C6  C7   C6 C7 C8/T1 T1\nL  5    5   5    5   5 5     5\nR  5    5   5    5   5 5     5\n\n  IP Quad Hamst DF [**Last Name (un) 938**] PF\n  L2 L3   L4-S1 L4 L5  S1/S2\nL  5  5     5    5 5    5\nR  5  5     5    5 5    5\nReflex: No clonus\n  [**Hospital1 **] Tri Bra Pat An Plantar\n  C5 C7  C6  L4  S1 CST\nL 0  0   0   1   0 Flexor\nR 0  0   0   1   0 Flexor\n-Sensory: REPORTS DECREASED COLD SENSATION ON RLE TO KNEE;\ndecreased vibratory sense bilaterally distally, intact to light\ntouch, pinprick, and no extinction\n-Coordination: No intention tremor, dysdiadochokinesia noted. No\ndysmetria on FNF and foot tapping rhythmic bilaterally.\n-Gait: not assessed.\n\n\nPertinent Results:\n[**2188-6-6**] 02:54AM BLOOD %HbA1c-7.9* eAG-180*\n[**2188-6-10**] 04:45AM BLOOD Calcium-8.9 Phos-2.2* Mg-1.8\nCT head\n1. 12 x 10 mm hemorrhagic focus in the left basal ganglia,\nwithout\nsignificant mass effect, midline shift, intraventricular\nextension or\nsubarachnoid hemorrhage. Most likely etiology is hypertension.\n\n2. Global atrophy with mild chronic microvascular ischemic\ndisease.\n\n\nBrief Hospital Course:\n84-year old man with complex past medical history including\ncardiac disease status-post pacemaker, porcine aortic valve\nreplacement, diabetes, hypertension, hypercholesterolemia\npresenting with onset of right leg weakness and right facial\ndroop with subsequent non-word speech and possibly right leg\ntingling now with symptoms improving, exam notable for right\nword-finding difficulties and low-frequency naming difficulty,\nright facial droop, and trace right pronator drift but no\nobvious\nweakness.  CT head from OSH reveals right basal ganglia bleed\ndifferential diagnosis includes amyloid, unlikely because not\nlobar, tumor, or arteriovenous malformation, but far more likely\nhypertensive given known history of hypertension and classic\nlocation of bleed.  Not a candidate for MRI given pacer.\n\nNeuro:\npatient was admitted to neuro ICU, attending [**Doctor Last Name **] a SBP < 160\nwas maintained using emolol.  patient's ASA and sc heparin were\ninitially held until day 3.  Patient progressed well.  on\ndischarge patient's weakness was limited only to a fine R\nprotonator drift and 4+ strength in biceps.  Cardiac enzymes\nwere negative. LDL was found to be 165 was started on Zocor 40\nmg PO qHS.  Patients Phos was noted to be 2.2 and was given 1\npacket of neutro phos.\n\nDM:\n\npatient was restarted on his metformin w. insulin sliding scale\ncoverage.\n\nHTN:\n\nPatients BP was controlled with Atenolol and Lisinopril 5 mg PO\ndaily was started.\n\nAdrenal insufficiency:\n\nPatient was continued on home doses of prednisone and\nfludrocortisone.\n\nDVT prophylaxis. was kept on pneumoboots before restarting\nsubcutaneous heparin\n\ndispo: patient was re-evaluated by PT who stated that patient\nwas capable of going home with only minor deficits remaining.\n\n****spoke with patient's wife on the phone and made her aware of\nall the medication changes that were made.  Lisinopril was\ncalled into pharmacy at [**Telephone/Fax (1) 85048**].  Patient also made aware\nto cont. on Aspirin and to follow up with PCP early next week.\n\n\nMedications on Admission:\nAlendronate 70 mg qweek\nMetformin 500 mg [**Hospital1 **]\nPrednisone 2.5 mg daily\nAspiring 325 mg daily\nAtenolol 50 mg daily\nFludrocortisone 0.1 mg daily\n\n\nDischarge Medications:\n1. Alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week.\nTablet(s)\n2. Metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.\n3. Prednisone 2.5 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n5. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n6. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO at bedtime.\nDisp:*30 Tablet(s)* Refills:*2*\n7. Aspirin 325 mg PO daily\n8. Lisinopril 5 mg PO daily\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nDiversified VNA and hospice\n\nDischarge Diagnosis:\n12 x 10 mm hemorrhagic stroke in the left basal ganglia.\nHigh blood pressure\nDiabetes\nHyperlipidemia\n\n\nDischarge Condition:\nLevel of Consciousness: Lethargic but arousable.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane). Inpatient PT noted pt. has walker at home for use and\nthat patient would benefit from home PT for home safety eval and\nto progress mobility.\nMental Status: Confused - sometimes.\n\n\nDischarge Instructions:\nYou suffered a 12 x 10 mm hemorrhagic focus in the left basal\nganglia portion of the brain, without significant mass effect,\nmidline shift, intraventricular extension or subarachnoid\nhemorrhage. It was thought that this was most likely related to\nyour high blood pressure.  You were also found to have\nuncontrolled diabetes and cholesterol.  You were started on\nSimvastatin for cholesterol.  You will need to follow up with\nyour primary doctor regarding your diabetes management.   You\nwere initially stopped on your Aspirin secondary to bleed in\nyour brain.\n\n\nFollowup Instructions:\nFollow up with your Primary care physician for further\nmanagement.\n\nFollow up with Dr [**Last Name (STitle) **] for neurology. Please call [**Telephone/Fax (1) 657**]\n\n\n                             [**Name6 (MD) 4267**] [**Last Name (NamePattern4) 4268**] MD, [**MD Number(3) 5023**]\n\nCompleted by:[**2188-6-10**]"
+    }
+  ]
+}

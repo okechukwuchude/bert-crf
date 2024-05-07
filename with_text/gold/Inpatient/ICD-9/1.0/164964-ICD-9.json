@@ -1,0 +1,122 @@
+{
+  "hadm_id": 164964,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 2902,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2413,
+          "end": 2425,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 2428,
+          "end": 2442,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 2445,
+          "end": 2457,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 2460,
+          "end": 2483,
+          "code": "327.23",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "Human",
+          "covered_text": "Obstructive sleep apnea"
+        },
+        {
+          "begin": 2486,
+          "end": 2492,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 2495,
+          "end": 2507,
+          "code": "733.00",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoporosis, unspecified",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 2510,
+          "end": 2521,
+          "code": "737.39",
+          "code_system": "ICD-9-CM",
+          "description": "Other kyphoscoliosis and scoliosis",
+          "type": "MapType.APPROX",
+          "covered_text": "Scoliosis -"
+        },
+        {
+          "begin": 2557,
+          "end": 2564,
+          "code": "278.00",
+          "code_system": "ICD-9-CM",
+          "description": "Obesity, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Obesity"
+        },
+        {
+          "begin": 7624,
+          "end": 7640,
+          "code": "430",
+          "code_system": "ICD-9-CM",
+          "description": "Subarachnoid hemorrhage",
+          "type": "Human",
+          "covered_text": "Intraventricular"
+        },
+        {
+          "begin": 9614,
+          "end": 9635,
+          "code": "250.80",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with other specified manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "Reported Hypoglycemia"
+        },
+        {
+          "begin": 10261,
+          "end": 10264,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 14719,
+          "end": 14742,
+          "code": "742.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified congenital anomaly of brain, spinal cord, and nervous system",
+          "type": "Human",
+          "covered_text": "Cavernous malformations"
+        }
+      ],
+      "text": "Admission Date:  [**2159-2-4**]              Discharge Date:   [**2159-2-23**]\n\nDate of Birth:  [**2124-11-29**]             Sex:   F\n\nService: NEUROLOGY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**Last Name (NamePattern1) 1838**]\nChief Complaint:\nHypoglycemia, fever\n\n\nMajor Surgical or Invasive Procedure:\nNone\n\n\nHistory of Present Illness:\nThe patient is a 34 year old female with cognitive delay and DM2\nnot on hypoglycemics who presented to the ED from her group home\nfor unexplained hypoglycemia and fever.  The group home staff\nnoted that she had a cough and body aches yesterday.  This\nmorning, she was walking hunched over and using her cane.  She\nhas the cane from hip replacement one year ago, but does not use\nit at baseline.  The staff noted that she started to shake while\non the toilet.  Her FBG was checked and was reportedly low on\nthe monitor (<20).  She was given sugar packets, and when her\nFBG was rechecked it was 180.  She was also given Tylenol 1000\nmg.  Her temperature was noted to be 100.3 afterwards.  EMS was\ncalled and brought her to the ED.  EMS found FBG 230, and her\nFBG was 238 in triage.  The group home staff was uncertain if\nshe received a flu shot this year.\n.\nIn the ED, she was noted to have proptosis and intial vitals T\n100.8, BP 130/74, HR 96, RR 18, and SpO2 98% on RA.  She\nreported feeling okay and back to her baseline.  Her UA showed\n11-20 WBCs, rare bacteria, mod leukocyte esterase, and negative\nnitrite.  She was given a dose of Ceftriaxone in the ED for her\npositive UA. Her CXR showed no evidence of pneumonia.  She was\nadmitted to medicine for further workup and treatment.\n.\nOn the floor, she reported current fever, chills, and headache.\nShe does report a mild cough and congestion recently.  She\ndenied any other focal complaints such as chest pain, SOB,\nabdominal pain, dysuria, nausea, vomiting, or diarrhea.  She is\nnot sure how long she has been feeling sick, but thinks maybe a\nfew days.\n.\nREVIEW OF SYSTEMS:\n(+) Per HPI\n(-) Denies night sweats, recent weight loss or gain.  Denies\nsinus tenderness, rhinorrhea, or congestion.  Denied cough,\nshortness of breath.  Denied chest pain or tightness,\npalpitations.  Denied nausea, vomiting, diarrhea, constipation,\nor abdominal pain.  No recent change in bowel or bladder habits.\n No dysuria.  Denied current arthralgias or myalgias.\n\n\nPast Medical History:\n# Diabetes Mellitus\n# Dyslipidemia\n# Hypothyroidism\n# Hypertension\n# Obstructive sleep apnea\n# Anemia\n# Osteoporosis\n# Scoliosis -- s/p spinal fusion in [**2135**]\n# Obesity\n# Hip fracture ([**2-/2157**])\n# Intracerebral hemmorhage\n-- secondary to cavernous malformation\n\n\nSocial History:\nLives in group home at Bay Cove.\n# Tobacco: Smokes 3 cigarettes/day\n# Alcohol: None\n# Drugs: None\n\n\nFamily History:\nNoncontributory\n\n\nPhysical Exam:\nPHYSICAL EXAM ON ADMISSION:\nVS: T 102.4, BP 141/98, HR 95, RR 18, SpO2 100% on RA, Wt 90.5\nkg\nGen: Young female in NAD. Oriented x3. Mood, affect pleasant.\nHEENT: Well healed scar across right temporal area.  Sclera\nanicteric. Significant proptosis. PERRL. EOMI. MMM, OP benign.\nNeck: Supple, full ROM, no meningismus.  JVP just above clavicle\nat 45 degrees.  No cervical lymphadenopathy.\nCV: Somewhat distant heart sounds.  RRR with normal S1, S2.  No\nM/R/G.  No S3 or S4.\nChest: Respiration unlabored, no accessory muscle use. CTAB\nwithout crackles, wheezes or rhonchi.\nBack: No CVA tenderness. Well healed scar down midline of back.\nAbd: Normal bowel sounds. Soft, NT, ND. No organomegaly or\nmasses.\nExt: WWP.  Digital cap refill <2 sec.  No C/C.  LE edema 1+\nbilaterally.  Distal pulses intact radial 2+, DP 2+.\nSkin: No rashes, ulcers, or other lesions noted\nNeuro: CN II-XII grossly intact. Moving all four limbs.\n.\nPHYSICAL EXAM ON DISCHARGE:\nAlert, NAD\nPulmonary is clear to auscultation, CV: RRR no MRG. Abd: Soft\nNT/ND.\nNeuro: Alert. Oriented to self and hospital not year or month.\nSometimes coperates with examination, most of the time she does\nnot. Able to follow simple commands. Dyscongugate gaze with\nexotropia of both eyes that switches. Perhaps a subtle INO with\nthe right eye. There is exophthalmos R>L.  Face is symmetric.\nShe is moving all 4 extremities. Does not allow for formal\nexamination of the lower extremities.\n\nPertinent Results:\nLAB RESULTS ON ADMISSION:\n[**2159-2-4**] 02:40PM BLOOD WBC-8.8# RBC-4.03* Hgb-11.8* Hct-33.8*\nMCV-84 MCH-29.4 MCHC-34.9 RDW-15.9* Plt Ct-124*\n[**2159-2-4**] 02:40PM BLOOD Neuts-64.0 Lymphs-25.7 Monos-9.8 Eos-0.2\nBaso-0.3\n[**2159-2-4**] 02:40PM BLOOD Glucose-109* UreaN-13 Creat-1.2* Na-137\nK-4.0 Cl-104 HCO3-24 AnGap-13\n.\nOTHER RELEVANT LABS:\n[**2159-2-5**] 05:40AM BLOOD ALT-18 AST-48* LD(LDH)-215 AlkPhos-48\nTotBili-0.3\n[**2159-2-5**] 05:40AM BLOOD Albumin-3.4* Calcium-9.1 Phos-2.8 Mg-2.4\nIron-57\n[**2159-2-5**] 05:40AM BLOOD calTIBC-302 Hapto-261* Ferritn-379*\nTRF-232\n[**2159-2-5**] 05:40AM BLOOD Ret Aut-2.6\n[**2159-2-5**] 05:40AM BLOOD %HbA1c-6.2* eAG-131*\n[**2159-2-4**] 02:40PM BLOOD TSH-2.8 T4-3.9*\n[**2159-2-5**] 05:40AM BLOOD Valproa-54\n.\nURINALYSIS:\n[**2159-2-4**] 03:50PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.016\n[**2159-2-4**] 03:50PM URINE Blood-NEG Nitrite-NEG Protein-25\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-MOD\n[**2159-2-4**] 03:50PM URINE RBC-0-2 WBC-[**11-18**]* Bacteri-RARE\nYeast-NONE Epi-0-2 RenalEp-0-2\n[**2159-2-4**] 03:50PM URINE Hours-RANDOM UreaN-644 Creat-140 Na-50\nK-36 Cl-48\n[**2159-2-4**] 03:50PM URINE UCG-NEGATIVE Osmolal-453\n.\nLABS ON DISCHARGE:\n.\n\n- [**2-9**] CT Head: (compared to [**2159-2-7**]) mild increase IVH;\nhyperdense lesion in the medial aspect of L lateral ventricle\nlikely a subependymal clot and appears diminished in size;\nnumerous b/l hyperdense lesions, likely cavernomas; prominent\nsulci and markedly enlarged ventricles, likely developmental in\nnature; hyper-pneumatized frontal sinuses and mucosal\nthickening.\n- [**2-9**] b/l LENIs: No evidence of DVT.\n- [**2-12**] CT Torso: IMPRESSION: No apparent cause of pt's FUO; due\nto sig artifact paraspinal and epidural space can only be\nminimally evaluated; vascular variant in the chest inlet:\nseparate R & L SVC with absence of the left innominte vein.\n- [**2-13**] MRI R Hip: Limited assessment of R hip due to THR;\nevidence of mild greater trochanteric R bursitis and\ntendinopathy w/out osteomyelitits; R adductor compartment edema\nc/w muscle strain; avascular necrosis involving <30% of the\narticular surface of L femoral head w/out articular surface\ncollapse.\n- [**2-14**] TTE: EF 55-60%, no vegetation\n- [**2-16**] CXR: NGT ends in / just beyond pylorus; lungs low in\nvolume but clear; no PTX; pt is s/p R upper rib rsxn; spinal\nstabilization devices noted; heart size normal; no pleural\nabnormality.\n- [**2-16**] EEG: P\n- [**2-17**] EEG: P\n- [**2-18**] CTH: Decreased intraventricular hemorrhage, hemorrhage in\nthe splenium of the corpus callosum, and adjacent subarachnoid\nhemorrhage\n- [**2-18**] LENIS: negative for DVT\nEVENTS:\n[**2-16**]: Transferred to SICU\n[**2-17**]: Intermittently lethargic; febrile to 103.2 & pan-cultured;\ntolerated ~1L PO, NGT maintained for meds as pt has waxing /\n[**Doctor Last Name 688**] MS.\n[**2-18**]: LENIS negative, pelvic US ordered, CTH no new hemorrhage,\ncdiff. Febrile but not cultured (cultured in the last 24h)\n[**2-21**]: Afebrile for >24 hours.\n\n\nBrief Hospital Course:\nThe patient is a 34 year old female with cognitive delay and DM2\nnot currently on hypoglycemic agents who presented to the ED\nfrom her group home for unexplained hypoglycemia and fever.\nNegative infectious workup, but new intracranial bleed found on\nCT and MRI.\n.\n# Intraventricular Hemorrhage: CT head was obtained on [**2159-2-7**]\ndue to her persistent headache, lack of other localizing\nsymptoms, and history of cavernous malformations with\nintracerebral bleeding.  The CT showed acute intraventricular\nhemorrhage and enlarged ventricles.  Neurosurgery consult was\ncalled and an MRI/MRA was obtained.  The MRI showed similar\nfindings as the CT as well as a possible new SAH at the right\nvertex.  No emergent or urgent neurosurgical intervention was\nrequired at this time.  She was restarted on her home Lisinopril\n5 mg PO daily.  She was transferred to Neurology for further\nmanagement. A repeat head CT was completed [**2159-2-18**] with no\ninterval changes.\n.\n# Fever: She reportedly developed shaking and agitation while at\nher group home.  She was also given Tylenol 1000 mg and later\nnoted to have T 100.3 prior to arrival at the hospital.  She had\nT 100.8 in the ED.  Once on the floor, she was febrile to 104\nwith shaking chills, and continued to have intermittent fevers\nduring her stay.  She denies any focal symptoms except headache,\nbut reportedly had cough and myalgias at her group home.\nInfluenza and respiratory viral swab was negative by DFA as well\nas final cultures.  Urine culture showed no growth and blood\ncultures have been NGTD. She was found to have intraventricular\nhemorrhage as above, which can be associated with persistent\nfevers and likely explains her recent symptoms.  She had\nnegative viral studies.  Her fevers were treated symptomatically\nwith Acetaminophen 1000 mg PO Q6H PRN pain/fever. A full fever\nwork was in place. Multiple blood and urine cultures was taken\nand NGTD. A CT scan of the torso was completed and was non\ncontributory. An MRI of the right hip was also completed and was\nalso non contributory. An LP was performed and was abnormal\nsecondary to interventricular blood and no organism on gram\nstain. GPC's were isolated on urine [**2159-2-17**]. Her fever subsided\non Tylenol without antibiotics.\n.\n# Reported Hypoglycemia: It is unclear whether her reported\nepisode of hypoglycemia was a real event or an artifact from\nglucometer malfunction.  She has a history of DM2, but has not\nbeen on hypoglycemic agents recently.  The rapid correction of\nher hypoglycemia with oral sugar packets and sustained readings\nin the 200s by EMS and in the ED is strange.  Her shaking was\nlikely due to fever from an infection rather than hypoglycemia.\nShe was monitored with fingersticks QACHS and had hypoglycemia\nprotocol orders in place to treat any low readings.  Her FBG was\n121 on reaching the floor and has remained between 100 and 200\nduring her stay.\n.\n# UTI: Her UA on admission was positive and she received a dose\nof Ceftriaxone in the ED.  She was initially continued on\nCeftriaxone 1000 mg IV Q24H pending final urine culture results.\n Her urine culture came back negative and Ceftriaxone was\ndiscontinued after three doses had been given.\n.\n# Anemia / Thrombocytopenia: Her Hct on admission was 33.8,\nwhich is lower than her recent baseline in the high 30s.  She\nhas had a mild microcytic anemia in the past.  Her MCV is\ncurrently low normal at 84, but her RDW is high at 15.9.  Her\nplatelets have also been low over at least the last few months.\nThis could potentially represent a medication effect.\nThrombocytopenia is a relatively common side effect of Valproic\nacid, with a dose response.  Anemia and pancytopenia have also\nbeen associated with several of her other psych meds, but these\neffects are rare.  Her iron and hemolysis panels showed no\nevidence of either iron deficiency or hemolysis.\n.\n# Creatinine Elevation: Her Cr on admission was 1.2, increased\nslightly from a recent baseline around 0.9 (from [**2158-9-14**]).  Her\nLisinopril 5 mg PO daily was held initially.  Her Cr has since\nreturned to baseline, and her Lisinopril was restarted.\n.\n# Hypertension: Substituted Metoprolol tartrate 50 mg PO BID for\nhome succinate daily.  Her Lisinopril 5 mg PO daily was\ninitially held as mentioned above.  Due to her intracranial\nbleeding, her BP was controlled with goal SBP<140.  She was\nrestarted on her home Lisinopril 5 mg PO daily and ordered for\nHydralazine 10 mg IV Q6H to be given for SBP>140.\n.\n# Diabetes Mellitus: She reportedly has a history of DM2, but is\nnot currently on medications.  Her last HgbA1c was 5.5% on\n[**2158-9-14**] and was 6.2% on admission.  She was continued on a\ndiabetic diet during her stay.  Her FBGs were occasionally\nelevated during her stay into the 200s and she was started on a\nHumalog sliding scale.\n.\n# Hypothyroidism: Her TSH on admission was normal at 2.8, but\nher T4 was 3.9, which is somewhat low.  The meaning of these\nresults is unclear in the setting of an acute illness and can be\nreaddressed as an outpatient.  She was continued on\nLevothyroxine 25 mcg PO daily during her stay.\n.\n# Neuro/Psych: She was continue on her home regimen of\npsychiatric meds.\n.\n# GI Prophylaxis: Bowel regimen with Colace and Senna\n.\n# DVT Prophylaxis: She was initially kept on Heparin 5000 units\nSC TID.  This was discontinued after her intraventricular\nhemorrhage was found.  Pneumoboots were used therafter.\n.\n# Seizure history: No seizures here. She was on >24hr VEEG\nwithout capture of events. No changes to her medications (AEDs)\nwere made.\n.\n# Followup: She should follow up with her PCP. [**Name10 (NameIs) **] should be\nre-referred to your neurology doctor.\n--\n.\n\n\nMedications on Admission:\nMetoprolol succinate 100 mg PO daily\nLisinopril 5 mg PO daily\nLevothyroxine 25 mcg PO daily\nAlendronate 70 mg PO weekly\nDepakote ER 2500 mg PO QHS\nGabapentin 300 mg PO BID\nOxcarbazepine 300 mg PO BID\nRisperidone 1 mg PO BID\nSenna 8.6 mg 2 tabs PO QHS\nMultivitamin 1 tab PO daily\nCalcium-Vitamin D (600 mg-400 unit) 1 tab PO BID\nSystane 1 drop each eye QAM\n\n\nDischarge Medications:\n1. metoprolol succinate 100 mg Tablet Extended Release 24 hr\nSig: One (1) Tablet Extended Release 24 hr PO once a day.\n2. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n3. alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week.\n\n4. Depakote ER 500 mg Tablet Extended Release 24 hr Sig: Five\n(5) Tablet Extended Release 24 hr PO at bedtime.\n5. gabapentin 300 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n6. oxcarbazepine 300 mg Tablet Sig: One (1) Tablet PO twice a\nday.\n7. risperidone 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n8. senna 8.6 mg Capsule Sig: Two (2) Tablet PO at bedtime.\n9. multivitamin     Tablet Sig: One (1) Tablet PO once a day.\n10. Calcium 600 + D(3) 600-400 mg-unit Tablet Sig: One (1)\nTablet PO twice a day.\n11. Systane 0.4-0.3 % Drops Sig: One (1)  Ophthalmic once a day.\n\n12. acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for pain or fever.\n13. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital 671**] [**Hospital 4094**] Hospital - [**Location (un) 86**]\n\nDischarge Diagnosis:\nPrimary Diagnoses:\nCentral Fever seocndary to Interparanchymal hemorrhage with\ninterventricular extension.\n\nSecondary Diagnoses:\nCavernous malformations\n# Dyslipidemia\n# Hypothyroidism\n# Hypertension\n# Obstructive sleep apnea\n# Anemia\n# Osteoporosis\n# Scoliosis -- s/p spinal fusion in [**2135**]\n# Obesity\n# Hip fracture ([**2-/2157**]), s/p replacement?\n# Intracerebral hemmorhage, -- secondary to cavernous\nmalformation; had a brain surgery at [**Hospital1 **] for bleeding\n# Chronic seizures (on Depakote, Oxcarb, Neurontin)\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nYou were admitted to the hospital for fevers and possible low\nblood sugar levels.  During your stay, your blood sugars\nremained normal, but you continued to have fevers.  Testing\ninitially showed evidence of a urinary tract infection, but\nfinal culture results did not show any bacterial growth.  You\nreceived several doses of Ceftriaxone, an antibiotic, while the\nresults were pending.  You were also tested for influenza and\nseveral other viruses, but these tests were negative.  Because\nof your history of bleeding within the brain and your only other\nsymptom being headache, you had imaging of your head and this\nshowed a hemorrhage, this was stable with repeat imaging. You\nhad also imaging of your torso and hip which did not show a\nsource for your infection. We also were tested for possible\nseizures and this did not demonstrate seizures.\nAfter a full set of tests your fever was determined to be\nsecondary to your bleed.\n\nYour fevers were treated with Acetaminophen and Ibuprofen, which\nhelped you feel better.  None of your prior medications were\nchanged.  You should continue taking your medications as\npreviously prescribed and as indicated on your discharge\nmedication sheet.\n\n\nFollowup Instructions:\nAlso please have your PCP [**Name9 (PRE) 14030**] you to your Neurologist.\n\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 14031**], MD Phone:[**Telephone/Fax (1) 719**]\nDate/Time:[**2159-4-2**] 11:30\nProvider: [**Name10 (NameIs) 14032**],[**Name11 (NameIs) 14033**] [**Location (un) **] IM (NHB)\nDate/Time:[**2159-4-25**] 11:30\nProvider: [**First Name11 (Name Pattern1) 3210**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **], DPM Phone:[**Telephone/Fax (1) 543**]\nDate/Time:[**2159-5-22**] 11:20\n\n\n\nCompleted by:[**2159-2-23**]"
+    }
+  ]
+}

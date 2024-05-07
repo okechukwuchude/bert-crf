@@ -1,0 +1,194 @@
+{
+  "hadm_id": 126586,
+  "comment": "Bronchoscopy report not present- unable to validate the PCS codes",
+  "notes": [
+    {
+      "note_id": 43658,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 330,
+          "end": 342,
+          "code": "33.21",
+          "code_system": "ICD-9-PCS",
+          "description": "Bronchoscopy through artificial stoma",
+          "type": "MapType.MULTI",
+          "covered_text": "Bronchoscopy"
+        },
+        {
+          "begin": 381,
+          "end": 416,
+          "code": "V10.03",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of esophagus",
+          "type": "Human",
+          "covered_text": "h/o squamous cell esophageal cancer"
+        },
+        {
+          "begin": 476,
+          "end": 502,
+          "code": "530.84",
+          "code_system": "ICD-9-CM",
+          "description": "Tracheoesophageal fistula",
+          "type": "Human",
+          "covered_text": "tracheo-esophageal fistula"
+        },
+        {
+          "begin": 2245,
+          "end": 2267,
+          "code": "511.1",
+          "code_system": "ICD-9-CM",
+          "description": "Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "b/l pleural effusions."
+        },
+        {
+          "begin": 3310,
+          "end": 3322,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 3324,
+          "end": 3338,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 3340,
+          "end": 3355,
+          "code": "V10.46",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of prostate",
+          "type": "Human",
+          "covered_text": "Prostate cancer"
+        },
+        {
+          "begin": 3356,
+          "end": 3363,
+          "code": "V15.3",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of irradiation, presenting hazards to health",
+          "type": "MapType.EXACT",
+          "covered_text": "s/p XRT"
+        },
+        {
+          "begin": 3364,
+          "end": 3382,
+          "code": "V10.03",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of esophagus",
+          "type": "Human",
+          "covered_text": "-h/o esophageal CA"
+        },
+        {
+          "begin": 3403,
+          "end": 3418,
+          "code": "V45.72",
+          "code_system": "ICD-9-CM",
+          "description": "Acquired absence of intestine (large) (small)",
+          "type": "MapType.APPROX",
+          "covered_text": "esohagectomy in"
+        },
+        {
+          "begin": 4549,
+          "end": 4565,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "stopped smoking."
+        },
+        {
+          "begin": 8109,
+          "end": 8114,
+          "code": "785.50",
+          "code_system": "ICD-9-CM",
+          "description": "Shock, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Shock"
+        },
+        {
+          "begin": 8436,
+          "end": 8447,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 9250,
+          "end": 9263,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "RUL pneumonia"
+        },
+        {
+          "begin": 10835,
+          "end": 10841,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 10922,
+          "end": 10940,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "MapType.APPROX",
+          "covered_text": "transfused 2U PRBC"
+        },
+        {
+          "begin": 11118,
+          "end": 11131,
+          "code": "276.0",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperosmolality and/or hypernatremia",
+          "type": "Human",
+          "covered_text": "Hypernatremia"
+        },
+        {
+          "begin": 13060,
+          "end": 13066,
+          "code": "038.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified septicemia",
+          "type": "Human",
+          "covered_text": "Sepsis"
+        },
+        {
+          "begin": 13067,
+          "end": 13076,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Pneumonia"
+        },
+        {
+          "begin": 13125,
+          "end": 13145,
+          "code": "V15.3",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of irradiation, presenting hazards to health",
+          "type": "MapType.EXACT",
+          "covered_text": "esophageal radiation"
+        }
+      ],
+      "text": "Admission Date:  [**2120-1-25**]              Discharge Date:   [**2120-2-1**]\n\nDate of Birth:  [**2053-1-19**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 99**]\nChief Complaint:\nHypoxic respiratory distress\n\nMajor Surgical or Invasive Procedure:\nBronchoscopy\n\nHistory of Present Illness:\n67yoM w/ h/o squamous cell esophageal cancer s/p XRT with a\ngastric pull-up in [**2104**] w/ subsequent tracheo-esophageal fistula\nand eventual tracheostomy/ PEG tube placement who presents from\nrehab with respiratory distress. Apparently pt vomiting earlier\nin the day, then noted to desaturate down to 70s off vent and\nbecame apneic (up until this point pt had been doing well off\nthe vent per report). He has been placed back on the vent since\nthe desaturations and is noted to be tachypnic.\n.\nInitially presented on [**2119-4-13**] with complaints of difficulty\nswallowing and productive cough and who was found to have a\nright base pneumonia.  A failed swallow evaluation prompted a CT\nneck that revealed a tracheoesophageal fistula just below the\nlevel of the thoracic inlet, confirmed via barium swallow, then\nat bronchoscopy. TE fistula  determined to be benign by\npathological exam of biopsies.  After J-tube placement for\nnutrition support, the TE fistula was repaired and esophageal\nstricture resected on [**2119-8-3**]. This was c/b left vocal cord\nparalysis after the operation (had to remove left recurrent\nlaryngeal nerve), and required tracheostomy from respiratory\nfailure after anastomotic incompetence on [**2119-8-18**]. Since\ndischarge after an admission [**2119-10-3**] - [**2119-11-8**] for large bowel\nobstruction, he has been weaned from the ventilator to trach\ncollar with humidified air. She continued to have a TEF and\nunderwent a rigid bronchoscopy with fibrin injection into the\nfistula on [**2120-1-22**]. Apparently the fibrin clotted the fistula\nand he was admitted overnight for monitoring, though no other\ncomplications per OMR.\n.\nIn the ED, initial vs were:  T98.6 HR88 BP106/76 PO288% (though\nnoted to be difficult to get an accurate sat). CXR showed right\nupper lobe opacity concerning for PNA, pulmonary vascular\ncongestion and small b/l pleural effusions. EKG was reportedly\nunremarkable. ABG was 7.41/38/184/25 on pressure support\nventilation. Remarkable labs include lactate 2.7, WBC 13.7 with\n94% PMN no bands, Na 147. Patient was given levaquin in the ED\n(ordered also for CTX and levaquin, but not yet received).\nPatient was noted to gradually drop systolic pressure to 70's.\nFelt to be mentating well in the ED, though orientation was not\nassessed. No UOP as per ED resident. Received 2L IVF. On the way\nto the ICU, levophed gtt was started for hypotension.\n\n.\nOn arrival to ICU, patient noted to have low tidal volumes,\nelevated airway pressures, BP's in 70's systolic, and\nsaturations in 70's to 80's. With anesthesia and RT at bedside,\ntrach was repositioned (likely had been auto-PEEPing). Bronch\nperformed which showed trach well-seated in trachea. Currently\npt states breathing more comfortable, c/o pain at site of\nabdominal wound. Denies CP, states intermittent diarrhea. States\nhe doesn't remember what brought him to the hospital. Does not\nrecall vomiting.\n\n\nPast Medical History:\n-Hypertension\n-Hypothyroidism\n-Prostate cancer s/p XRT\n-h/o esophageal CA s/p XRT with 3-hole esohagectomy in [**2104**] at\n[**Hospital1 112**]. Recently hospitalized at [**Hospital1 18**] for PNA and found to have\nstricture near cricopharyngeus, with evidence of TEF. EGD showed\nno cancer recurrence. J-tube placed [**4-/2119**]\n-Small bowel obstruction\n-Cognitive deficit NOS vs limited safety awareness\n-Orthostatic hypotension - hospitalization [**1-/2119**] after fall\n-DVT of the L subclavian and L axillary vein\n-R hip fracture s/p ORIF by Dr. [**Last Name (STitle) **] @ [**Hospital1 112**]\n-RLL PNA [**1-11**], treated with levofloxacin\n-multiple stab wounds to the abdomen in the [**2079**]\n-right sided PTX after bronchoscopy s/p CT placement\n-Tonsillectomy and adenoidectomy\n-R wrist and hand surgery\n-large bowel obstruction in [**2119**] s/p exploratory laparotomy with\nreduction of a paraesophageal hernia and was left with an open\nabdomen due to edema and bowel distention s/p closure on [**2119-10-17**]\n\nSocial History:\nOriginally from [**State 9512**]. He has three daughters. One daughter\nlives in [**State 4260**], another is in [**Name (NI) 86**], [**First Name3 (LF) 2184**] who is very involved.\nReports he recently stopped smoking. Although he has a history\nof binge drinking, he reports he hasn't drank since [**Month (only) 1096**] of\n[**2118**]. Retired construction worker and plumber.\n\nFamily History:\nMother died of a blood clot. Doesn't know what his father died\nof. Sister died of obesity and \"fat around her heart\"\n\nPhysical Exam:\nOn admission to the MICU:\nVitals: T 101  HR 77  BP 72/45   18  97% on RA\n-low tidal volumes, elevated airway pressures, BP's in 70's\nsystolic, and saturations in 70's to 80's\nGeneral: Alert, no acute distress\nHEENT: Sclera anicteric, MM dry, oropharynx clear\nNeck: trached\nLungs: Upper airway sounds heard throughout\nCV: Tachycardic rate, regular\nAbdomen: scaphoid, soft, non-tender,  bowel sounds present, no\nrebound tenderness or guarding, PEG in place, well healing\nabdominal wound with pink granulation tissue\nGU: no foley\nExt: warm, well perfused\n.\nOn discharge,\nO2 sats 97% on 50% trach mask; equal breath sounds bilaterally\nJ tube site with mild erythema around site\nabd wound with granulation tissue, appears to be healthy and\nhealing\n\nPertinent Results:\nAdmission Labs:\n.\nImages:\nCXR [**1-25**]:\n1. Increased right upper lobe opacity concerning for PNA.\n2. Pulmonary vascular congestion with mild interstitial edema.\n3. Small bilateral pleural effusions.\n.\nEKG:  Rate 138, LAD appears to be sinus but unclear if\nconsistent P waves given poor baseline. Again difficult to\nassess but ? rate related ST depressions in V4-V6 in lateral\nleads.\n.\n[**2120-1-25**] 03:05AM BLOOD WBC-13.7* RBC-3.30* Hgb-9.2* Hct-29.1*\nMCV-88 MCH-28.0 MCHC-31.7 RDW-17.7* Plt Ct-422\n[**2120-1-25**] 03:05AM BLOOD Neuts-94.0* Lymphs-3.9* Monos-1.6*\nEos-0.3 Baso-0.2\n[**2120-1-25**] 03:05AM BLOOD PT-14.4* PTT-33.6 INR(PT)-1.3*\n[**2120-1-25**] 03:05AM BLOOD Glucose-125* UreaN-31* Creat-1.3* Na-147*\nK-5.9* Cl-112* HCO3-25 AnGap-16\n[**2120-1-26**] 02:27AM BLOOD Calcium-7.5* Phos-2.5* Mg-1.4* Iron-14*\n[**2120-1-25**] 03:05AM BLOOD TSH-27*\n[**2120-1-25**] 03:05AM BLOOD Free T4-0.98\n[**2120-1-25**] 03:51AM BLOOD Type-ART pO2-184* pCO2-38 pH-7.41\ncalTCO2-25 Base XS-0\n[**2120-1-25**] 03:10AM BLOOD Lactate-2.7* K-4.3\n[**2120-1-25**] 12:20PM BLOOD Lactate-3.2*\n[**2120-1-25**] 03:08PM BLOOD Lactate-1.8\n.\nDischarge labs:\n[**2120-2-1**] 03:33AM BLOOD WBC-6.3 RBC-3.55* Hgb-10.0* Hct-30.8*\nMCV-87 MCH-28.3 MCHC-32.6 RDW-17.2* Plt Ct-222\n[**2120-2-1**] 03:33AM BLOOD Glucose-91 UreaN-11 Creat-0.5 Na-138\nK-3.9 Cl-102 HCO3-30 AnGap-10\n[**2120-2-1**] 03:33AM BLOOD Calcium-8.4 Phos-3.0 Mg-1.4*\n[**2120-1-26**] 02:27AM BLOOD calTIBC-183* Ferritn-687* TRF-141*\n.\nSB follow-through:\nIMPRESSION:\nWithin the limits of a small bowel follow-through, there are no\nfistulae or\nstrictures identified. Transit time through the small intestine\nis within\nexpected (normal) range.\n.\nCXR:\nIMPRESSION:\n1. Increased right lower lobe density, which may either\nrepresent fissural\nfluid or consolidation.\n2. Stable bilateral loculated pleural effusions.\n3. Stable left lower lobe atelectasis.\n4. Mild worsening pulmonary edema.\n5. Contrast opacification of the large bowel with further small\nbowel\nopacification, if an enteroenteric fistula is suspect, further\nevaluation with\nfluroscopy or an abdominal radiograph is suggested to localize\nthe small bowel\nloop and assess a potential fistulous communication with large\nbowel.\n\n\nBrief Hospital Course:\n67yoM h/o squamous cell esophageal cancer s/p XRT with a gastric\npull-up in [**2104**] w/ subsequent tracheo-esophageal fistula and\neventual tracheostomy/ PEG tube placement who presents from\nrehab with respiratory distress.\n.\n# Shock: Pt with BP in 70s/40s on arrival to the MICU and\nfebrile to 101. Lactate 2.7 -> 3.2 -> 1.8 in first 24 hours with\n~7-8L of fluid. Was initially on levophed but this was weaned by\nhospital day #2. Antibiotics were started on arrival to the ICU\n- were eventually broadened to meropenem/linezolid as patient\nhad persistent hypotension. CXR showed new RUL infiltrate\nconcerning for pneumonia. U/A looked infected. Sputum culture\ngrew morganella morganii, sensitive to meropenem - identical\nculture to earlier admission. Patient's lactate normalized and\nhe was weaned off pressors. He was continued on meropenem for\ng-negative rods in sputum and finished his course on [**2-1**].\n.\n# Hypoxemic respiratory distress: Given timing of hypoxic\nrespiratory distress, likely had aspiration event most\nimmediately. On arrival to the floor, patient was seen by\nanesthesia and a bronchoscopy was performed out of concern for\ntrach displacement. The trach was visualized in the correct\nlocation. The patient was initially ventilated on A-C, but this\nwas weaned and on ICU day #2 was on PSV. Antibiotics were\nadministered as above out of concern for RUL pneumonia. The\npatient's trach was changed on HD #2 because of problems with\nongoing cuffleaks. The original trach was found to have a\ndefective balloon. The patient's tidal volumes improved with new\ntrach. The patient remained stable from a respiratory standpoint\nfor the rest of his MICU stay and tolerated trach mask; he was\nsatting in the high 90s on 50% trach mask prior to discharge.\n.\n# TE fistula: Pt is s/p fibrin injection [**2120-1-22**]. Patient with\nknown TEF s/p recent injection. On HD #5, IP performed a\nbronchoscopy, which showed a partially closed TE fistula. The\npatient had 2 episodes of bilious contents being suctioned from\nhis trach. Thoracic surgery was consulted and attempted to place\nan NG tube endoscopically; the attempt was not successful given\nhis complicated anatomy and will not attempt again. IP has no\nplans to attempt another injection for pts TE fistula.\n.\n# J tube leakage: The patient has had a chronic problem with his\njtube leaking and has had it changed 3 times in the recent past.\nThe patient had continued profuse leakage while in the MICU. His\ntube feeds were stopped and PPN was started. Surgery was\nconsulted who recommended a KUB with gastrografin, which was\nnormal. care was also consulted. Patient complained of abdominal\npain and received prn IV morphine. Abd exam was benign.\nThoracics recommended a barium swallow through the j tube with\nsmall bowel follow through showed no abnormalities. Given this,\ntube feeds were re-started on [**1-31**]. Thoracics will not attempt\nto replace the j-tube given his complicated anatomy.\n.\n# Anemia: The patient had a Hct of 20.5 on ICU day #2. Stool was\nguaiac negative. He was transfused 2U PRBC with appropriate\nresponse. Iron studies showed elevated ferritin (likely as acute\nphase reactant). His Hct stayed stable ~27 to 28 for the\nremainder of his hospitalization.\n.\n# Hypernatremia - Na in the 145-150 range; stable over recent\nadmissions. TF and free water flushes were utilized. Na was\ntrended daily and improved to the normal range for the remainder\nof his admission.\n.\n# Prophylaxis was with subcutaneous heparin. Communication was\nwith the patient and Daughter [**First Name8 (NamePattern2) 2184**] [**Known lastname 93756**] [**Telephone/Fax (1) 93877**]. He\nremained full code during this admission.\n\n\nMedications on Admission:\n1. kayexelate MWF\n2. citalopram 20 mg Tablet daily\n3. Prilosec 20mg daily\n4. ergocalciferol (vitamin D2) 8,000 unit/mL Drops [**Telephone/Fax (1) **]: 5000\nunits weekly\n5. combivent/albuterol nebs\n6. levothyroxine 125 mcg Tablet   *** TSH [**2120-1-16**] 16***** [**Month (only) 116**]\nneed adjustment per last DC summary.\n7. Tylenol 325 mg Tablet [**Month (only) **]: 1-2 Tablets PO every 4-6 hrs PRN\npain\n\nDischarge Medications:\n1. citalopram 20 mg Tablet [**Month (only) **]: One (1) Tablet PO DAILY (Daily).\n\n2. ergocalciferol (vitamin D2) 8,000 unit/mL Drops [**Month (only) **]: 5000\n(5000) Units PO once a week.\n3. ipratropium-albuterol 18-103 mcg/Actuation Aerosol [**Month (only) **]: [**2-4**]\nPuffs Inhalation Q6H (every 6 hours) as needed for wheezing.\n4. levothyroxine 125 mcg Capsule [**Month/Day (2) **]: One (1) Capsule PO once a\nday.\n5. acetaminophen 325 mg Tablet [**Month/Day (2) **]: 1-2 Tablets PO every [**5-9**]\nhours.\n6. lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)\nTablet,Rapid Dissolve, DR [**Last Name (STitle) **] once a day.\n7. oxycodone 20 mg/mL Concentrate [**Last Name (STitle) **]: 2.5-5 mg PO every [**7-11**]\nhours as needed for pain.\n8. acetaminophen 325 mg/10.15 mL Suspension [**Month/Day (3) **]: 325-650 mg PO\nevery 4-6 hours as needed for pain.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital 671**] [**Hospital 4094**] Hospital - [**Location (un) 86**]\n\nDischarge Diagnosis:\nPrimary:\nSepsis\nPneumonia\nTE fistula\nAnemia\n.\nSecondary:\nHypertension\ns/p esophageal radiation and gastric pull-up surgery\n\n\nDischarge Condition:\nMental Status: Clear and coherent --> pt did not use speaking\nvalve but would communicate by writing and mouthing words\nLevel of Consciousness: Alert and interactive.\nActivity Status: Out of Bed with assistance to chair or\nwheelchair\n\n\nDischarge Instructions:\nDear Mr. [**Known lastname 93756**],\nYou were admitted for respiratory distress and with low blood\npressure. We treated you with IV fluids, blood\npressure-supporting medications, and antibiotics and you\nimproved. You were initially on a breathing machine to help\nsupport your lungs. We believe the source of the low blood\npressure was an infection in your lungs. You were able to\nbreathe well with the trach mask in place prior to your\ndischarge. The pulmonary doctors also looked to see if the\nabnormal connection between your trachea and esophagus was\nhealed - they found that it was partially healed. Finally, we\nhad the thoracic surgeons evaluate your J-tube. A study was\nperformed, which showed that the J-tube was working normally and\nthat you had normal bowel function. You did have leakage around\nthe J-tube but the surgeons thought it would be too dangerous to\nattempt to fix.\n.\nWe made the following changes to your medications:\nWe STOPPED Kayexelate because your potassium levels were normal\nWe STARTED oxycodone 2.5-5 mg (liquid) every 6-8 hours as needed\nfor abdominal pain\nWe STOPPED Prilosec\nWe STARTED Lansoprazole (rapid dissolve tablet) 30 mg once per\nday\n.\nYou should continue to see the medical doctor at your rehab\nfacility. Your follow-up appointments are listed below.\n\n\nFollowup Instructions:\nDepartment: WEST [**Hospital 2002**] CLINIC\nWhen: TUESDAY [**2120-2-20**] at 9:45 AM\nWith: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 3020**]\nBuilding: De [**Hospital1 **] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **]\nCampus: WEST     Best Parking: [**Street Address(1) 592**] Garage\n\nDepartment: WEST [**Hospital 2002**] CLINIC\nWhen: TUESDAY [**2120-2-20**] at 10:30 AM\nWith: [**Name6 (MD) 1532**] [**Last Name (NamePattern4) 8786**], MD [**Telephone/Fax (1) 3020**]\nBuilding: De [**Hospital1 **] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **]\nCampus: EAST     Best Parking: [**Street Address(1) 592**] Garage\n\n\n\n"
+    }
+  ]
+}

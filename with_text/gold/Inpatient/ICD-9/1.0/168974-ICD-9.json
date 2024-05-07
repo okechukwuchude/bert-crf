@@ -1,0 +1,128 @@
+{
+  "hadm_id": 168974,
+  "comment": "Sigmoid colectomy-Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 1053826,
+      "category": "Radiology",
+      "description": "COLON (BARIUM ENEMA)",
+      "annotations": [
+        {
+          "begin": 2325,
+          "end": 2335,
+          "code": "153.2",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of descending colon",
+          "type": "Human",
+          "covered_text": "concerning"
+        }
+      ],
+      "text": "[**2151-1-5**] 11:12 AM\n COLON (BARIUM ENEMA)                                            Clip # [**Clip Number (Radiology) 50660**]\n Reason: therapeutic barium enema for volvulus\n Admitting Diagnosis: VOLVULUS\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  77 year old man with sigmoid volvulus.  S/p colonoscopic decompression with\n  some improvement but volvulus likely still present.\n REASON FOR THIS EXAMINATION:\n  therapeutic barium enema for volvulus\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:\n Sigmoid volvulus.\n\n TECHNIQUE:\n Single contrast barium enema\n\n COMPARISON:\n Comparison is made to abdominal radiographs taken earlier the same day.\n\n FINDINGS:\n Initial frontal abdominal radiograph shows a dilated loop of sigmoid colon, to\n ~16 cm with a rectal tube in place, traversing the area of dilation and\n terminating in the left lower quadrant near the more proximal sigmoid colon.\n\n Under fluoroscopic observance, barium was instilled into the pre-existing\n rectal tube under gravity. Contrast filled the dilated loop of sigmoid colon,\n though did not pass caudal to an area near the rectosigmoid junction, ~15 cm\n proximal to the anus.  This area shows a twisting mucosal fold pattern,\n consistent with sigmoid volvulus.  More proximally, the lumen of the sigmoid\n narrowed abruptly in the left lower quadrant near the tip of the rectal tube\n and then reconstitutes in the left mid-abdomen, more proximally.  At this area\n of luminal narrowing, the mucosal fold pattern was disrupted laterally and a\n central ulceration was seen within the filling defect, overall suggesting a\n large ulcerated mass.  No other filling defect or strictures were seen.  A\n final frontal radiograph was taken following drainage of the instilled barium,\n and contrast was seen to have passed up to the splenic flexure with the\n superior portion of the abdomen excluded from the field of view.\n\n IMPRESSION:\n 1.  Distal sigmoid volvulus with likely organoaxial rotation, and rectal tube\n traversing the site of the volvulus.\n 2.  Large ulcerated filling defect in the mid-portion of the sigmoid colon\n with associated luminal narrowing, suggestive of an ulcerated mass, concerning\n for malignancy.\n\n These findings were discussed over the telephone with Dr. [**First Name4 (NamePattern1) 1036**] [**Last Name (NamePattern1) 2466**]\n at the time of interpretation.\n                                                             (Over)\n\n [**2151-1-5**] 11:12 AM\n COLON (BARIUM ENEMA)                                            Clip # [**Clip Number (Radiology) 50660**]\n Reason: therapeutic barium enema for volvulus\n Admitting Diagnosis: VOLVULUS\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n"
+    },
+    {
+      "note_id": 35962,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 535,
+          "end": 545,
+          "code": "V46.3",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "wheelchair"
+        },
+        {
+          "begin": 908,
+          "end": 915,
+          "code": "296.80",
+          "code_system": "ICD-9-CM",
+          "description": "Bipolar disorder, unspecified",
+          "type": "Human",
+          "covered_text": "bipolar"
+        },
+        {
+          "begin": 918,
+          "end": 931,
+          "code": "295.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified schizophrenia, unspecified state",
+          "type": "Human",
+          "covered_text": "schizophrenia"
+        },
+        {
+          "begin": 951,
+          "end": 954,
+          "code": "600.01",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "Human",
+          "covered_text": "BPH"
+        },
+        {
+          "begin": 956,
+          "end": 972,
+          "code": "788.20",
+          "code_system": "ICD-9-CM",
+          "description": "Retention of urine, unspecified",
+          "type": "Human",
+          "covered_text": "urnary\nretention"
+        },
+        {
+          "begin": 3488,
+          "end": 3496,
+          "code": "560.2",
+          "code_system": "ICD-9-CM",
+          "description": "Volvulus",
+          "type": "MapType.EXACT",
+          "covered_text": "volvulus"
+        }
+      ],
+      "text": "Admission Date:  [**2151-1-5**]              Discharge Date:   [**2151-1-21**]\n\nDate of Birth:  [**2073-9-26**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 301**]\nChief Complaint:\nPatient admitted with abdominal distention and pain.\n\nMajor Surgical or Invasive Procedure:\nStatus Post Proximal jejunum resection and anastomosis of\ndeodunum to jejunum and sigmoid colectomy w/ end colostomy.\n\n\n\nHistory of Present Illness:\n77M, NH resident and wheelchair bound having onstipation,\nincreasing ab distension and mild pain for the past 2-3 days.\nAfebrile, mild problems breathing, no CP/d/n/v. Never had\nsymptoms like this before. At [**Hospital1 **] had AXR shows\nsignificant\ndistension c/w sigmoid volvulus. Intubated for respiratory\nprotection do to tachypnea and low O2 sats for the transfer.\n\nPast Medical History:\nbipolar & schizophrenia (newer diagnoses), BPH, urnary\nretention, neuromuscular disorder - wheelchair and NH bound\n\n\nSocial History:\nPatient is wheelchair bound and lives in nursing home. Daughter\n([**Doctor First Name **]) involved with care.\n\nFamily History:\nNot applicable.\n\nPhysical Exam:\nPE 98.2 100 121/76 18 100% ventilator (50% FIO2 PEEP 5)\nintubated, sedated\ndecreased bs b/l\nRRR\nsoft distended, tympanitic\nno c/c/e\nguiac neg\n\n\nPertinent Results:\n[**2151-1-5**] 12:00AM BLOOD WBC-24.3* RBC-4.23* Hgb-12.9* Hct-37.2*\nMCV-88 MCH-30.5 MCHC-34.7 RDW-12.9 Plt Ct-491*\n[**2151-1-8**] 03:09AM BLOOD WBC-14.5* RBC-2.95* Hgb-8.9* Hct-26.4*\nMCV-89 MCH-30.2 MCHC-33.7 RDW-13.1 Plt Ct-292\n[**2151-1-18**] 08:16AM BLOOD WBC-8.8 RBC-3.20* Hgb-9.8* Hct-28.0*\nMCV-87 MCH-30.5 MCHC-34.9 RDW-13.7 Plt Ct-315\n\nBrief Hospital Course:\n77yo M, NH resident presented [**1-5**] with 1 day history of\nabdominal pain and distension with 1 episode diarrhea day prior.\nSeen at OSH where XRays showed distended loops of bowel and\nlikely sigmoid colon volvulus. Tx with hydration. Became\ntachypneic with RR 50 and hypoxic and was intubated. Transfer to\n[**Hospital1 18**]. Sigmoid volvulus confirmed, and pt with leukocytosis of\n24.3 with left shift, lactate of 4.8, and urinanalysis\nconsistent with UTI. To MICU. Decompression by GI but not\nsustained.  Question of mass found on barium enema. Pt extubated\nand wish to have surgery. To OR [**1-6**] and is now s/p prox\njejunum resection and anastomosis of deod to jejunum and sigmoid\ncolectomy w/ end colostomy.\n\nPostoperative course complicated by several days of ileus\nrequiring nasogastric tube and TPN. Currently patient on regular\ndiet with oral reglan. Ostomy is actively draining.\n\nPatient will follow up with Dr. [**Last Name (STitle) **] in 2 weeks. He will be\ndischarged to nursing home/rehab today.\n\nMedications on Admission:\nflomax, mvi, colace, zcor, risperdal, senna\n\nDischarge Medications:\n1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) ml\nInjection twice a day.\n2. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4\ntimes a day (before meals and at bedtime)).\n3. Risperidone 1 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime).\n4. Risperidone 0.25 mg Tablet Sig: One (1) Tablet PO QAM (once a\nday (in the morning)).\n5. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12\nhours).\n6. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Location (un) 582**] Of [**Location (un) 620**]\n\nDischarge Diagnosis:\nPrimary Diagnosis: Gastric volvulus with mass of colon.\n\n\nDischarge Condition:\nStable\n\n\nDischarge Instructions:\nPlease call your doctor or return to the emergency room if you\nhave any of the following:\n\n * You experience new chest pain, pressure, squeezing or\n tightness.\n\n* New or worsening cough or wheezing.\n\n* If you are vomiting and cannot keep in fluids or your\n medications.\n\n* You are getting dehydrated due to continued vomiting,\n diarrhea or other reasons. Signs of dehydration include dry\n mouth, rapid heartbeat or feeling dizzy or faint when standing.\n\n* You see blood or dark/black material when you vomit or have a\n bowel movement.\n\n\n* You have shaking chills, or a fever greater than 101.5 (F)\n degrees or 38(C) degrees.\n\n* Any serious change in your symptoms, or any new symptoms that\n concern you.\n\n* Please resume all regular home medications and take any new\nmeds\n as ordered.\nActivity:\nNo heavy lifting of items [**10-21**] pounds for 6 weeks. You may\nresume moderate\nexercise at your discretion, no abdominal exercises.\n\nWound Care:\nYou may shower, no tub baths or swimming.\nIf there is clear drainage from your incisions, cover with\nclean, dry gauze.\nYour steri-strips will fall off on their own. Please remove any\nremaining strips 7-10 days after surgery.\nPlease call the doctor if you have increased pain, swelling,\nredness, or drainage from the incision sites.\n\n\nFollowup Instructions:\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 304**], MD Phone:[**Telephone/Fax (1) 274**]\nDate/Time:[**2151-2-5**] 3:15\n\n\n\nCompleted by:[**2151-1-20**]"
+    },
+    {
+      "note_id": 651771,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 3936,
+          "end": 3947,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "Human",
+          "covered_text": "Respiratory"
+        },
+        {
+          "begin": 4357,
+          "end": 4360,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        }
+      ],
+      "text": "Chief Complaint:  abd pain/distention\n   HPI:\n   77 y.o. male, lives in nursing home, presented with 1 day of abdominal\n   pain and distention.  Had 1 episode diarrhea 1 day prior to admission\n   per family.  At NH, foley was placed with no improvement. Was seen at\n   OSH ED, where CXR and Abd x-ray revealed distended loops of bowel and\n   likely sigmoid colon volvulus.  He was given 1 L saline bolus, then\n   maintenance fluids at 100cc/hr.  He was tachypeic, RR 50, and hypoxic,\n   91% on 100%FM.  He was sedated with propofol and intubated prior to\n   transfer. Per report, given Cefoxitin at OSH prior to transfer.\n   At [**Hospital1 5**], initial vitals: T 99, BP 99/78, hr 104, rr 30, 93% on Fi02\n   80%.  Abd xray/cxr confirmed the presence of sigmoid volvulus.  Labs\n   reveal a leukocytosis of 24.3 with left shift, lactate of 4.8, troponin\n   of 0.02, and U/A consistent with UTI.  GI and Surgery consulted.  Pt's\n   daughter prefers a conservative approach, and patient admitted to MICU\n   with plan for GI to do sidmoidoscopy to relieve volvulus\n   Patient admitted from: ED\n   History obtained from Family / Friend\n   [**Name (NI) **] unable to provide history: Sedated\n   Allergies:\n   Last dose of Antibiotics:\n   Infusions:\n   Propofol - 50 mcg/Kg/min\n   Other ICU medications:\n   Other medications:\n   Famotidine\n   Ciprofloxacin 400 Q12\n   Hep SC\n   Past medical history:\n   Family history:\n   Social History:\n   Schizophrenia/Bipolar d/o\n   BPH\n   urnary retention,\n   neuromuscular disorder (daugher calls it \"spastic paralysis)\n   wheelchair and NH bound\n   NC\n   Occupation:\n   Drugs: no\n   Tobacco: no\n   Alcohol: no\n   Other: wheel chair bound, lives at [**Location **]\n   Review of systems: Could not obtain/sedated\n   Flowsheet Data as of [**2151-1-5**] 03:14 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Heart rhythm: ST (Sinus Tachycardia)\n             Total In:\n             19 mL\n   PO:\n             TF:\n   IVF:\n   19 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    200 mL\n   Urine:\n   200 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                   -181 mL\n   Respiratory\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 450 (450 - 450) mL\n   RR (Set): 14\n   RR (Spontaneous): 1\n   PEEP: 5 cmH2O\n   FiO2: 100%\n   PIP: 37 cmH2O\n   Ve: 17.9 L/min\n   Physical Examination\n   GEN: sedated, intubated\n   HEENT: NCAT\n   LUNGS: CTA b/l (anteriorly)\n   HEART: RRR, nl S1S2, no m/r/g\n   ABD: hypoactive BS, markedly distended.  Pt sedated so tenderness could\n   not be assessed\n   EXT: no edema.  2+ DP pulses b/l\n   NEURO: sedated\n   Labs / Radiology\n   491\n   171\n   0.9\n   27\n   23\n   108\n   4.8\n   145\n   37.2\n   24.3\n        [image002.jpg]\n   INR 1.2\n   AST 35\n   ALT 21\n   ALP 106\n   Tbili 0.5\n   Lip 23\n   Imaging:\n   [**2151-1-5**] CXR: dilated loops of bowel.  Low lung volumes, likely\n   atelectasis\n   [**2151-1-5**] Abd xray: dilated loops of bowel\n   Microbiology: Blood cx [**1-5**], Urine cx [**1-5**], sputum cx [**1-5**]: NGTD\n   ECG: NSR\n   Assessment and Plan\n   77 y.o. man with schizophrenia, neuromuscular d/o, presents with\n   sigmoid volvulus.\n   .\n   # Sigmoid volvulus: Surgery and GI consulted.  Attempt being made for\n   decompression with sigmoidoscope.  Surgery discussed surgical options\n   as well.\n   -scope in unit with successful decompression\n   -repeat abd x-ray\n   -IVFs (2 liter bolus)\n   -no need for abx for abdomen; giving cipro for UTI\n   -repeat lactate after bolus\n   -serial abd exams\n   .\n   # Respiratory failure.  Unclear etiology.  Could be due to sepsis [**2-7**]\n   abdominal infection vs atelectasis due to distended abdomen.\n   - repeat ABG, try to wean FI02 after procedure\n   - CXR no clear evidence infection\n   - f/u blood, sputum, and urine cultures\n   - treat UTI as below\n   - daily RSBI, spontaneous breathing trial when appropriate\n   - may be able to wean off vent once volvulus resolved\n   .\n   # UTI: positive UA, culture pending\n   - cipro IV BID emperically\n   .\n   # Hyperlipidemia: hold statin while NPO\n   .\n   # Schizoaffective d/o: hold risperdal while sedated.  Restart when\n   awake.\n   .\n   # BPH: hold flomax while intubated\n   .\n   # FEN: NPO, IVF bolus\n   .\n   ICU Care\n   Nutrition: NPO\n   Glycemic Control:\n   Lines:\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP: HOB elevation, Mouth care, Daily wake up, RSBI\n   Need for restraints reviewed\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , Family\n   meeting held , ICU consent signed Comments: Communication - [**First Name5 (NamePattern1) **]\n   [**Last Name (NamePattern1) 3622**] (daughter) [**Telephone/Fax (1) 3623**]\n   Code status: DNR (do not resuscitate)\n   Disposition: ICU\n"
+    },
+    {
+      "note_id": 653087,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 5381,
+          "end": 5386,
+          "code": "560.1",
+          "code_system": "ICD-9-CM",
+          "description": "Paralytic ileus",
+          "type": "Human",
+          "covered_text": "ileus"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   77yo M, NH resident presented [**1-5**] w/ 1day h/o abd pain and distension\n   with 1 episode diarrhea day prior.  Seen at OSH where XRays showed\n   distended loops of bowel and likely sigmoid colon volvulus. Tx w/\n   hydration.  Became tachypneic w/ RR 50 and hypoxic and was intubated.\n   Transfer to [**Hospital1 5**].  Sigmoid volvulus confirmed, and pt w/ leukocytosis\n   of 24.3 with left shift, lactate of 4.8, and U/A consistent with UTI.\n   To MICU.  Decompression by GI but not sustained.  ?mass found on barium\n   enema.  Pt extubated and wish to have surgery.  To OR [**1-6**] and is now\n   s/p prox jejunum resection and anastomosis of deod to jejunum and\n   sigmoid colectomy w/ end colostomy\n   Chief complaint:\n   PMHx:\n   bipolar & schizophrenia (newer diagnoses), BPH, urnary\n   retention, neuromuscular disorder (?spastic paralysis) - wheelchair and\n   NH bound\n   Current medications:\n   24 Hour Events:\n PICC LINE - START [**2151-1-10**] 12:14 PM\n ARTERIAL LINE - STOP [**2151-1-10**] 07:00 PM\n UNPLANNED LINE/CATHETER REMOVAL (PATIENT INITIATED) - At [**2151-1-10**]\n   07:30 PM\n   Post operative day:\n   POD#5 - colectomy\n   Allergies:\n   Last dose of Antibiotics:\n   Ciprofloxacin - [**2151-1-9**] 04:40 PM\n   Infusions:\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2151-1-10**] 10:31 AM\n   Metoprolol - [**2151-1-11**] 03:03 AM\n   Other medications:\n   Flowsheet Data as of  [**2151-1-11**] 07:58 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**54**] a.m.\n   Tmax: 36.9\nC (98.4\n   T current: 36.2\nC (97.1\n   HR: 65 (64 - 88) bpm\n   BP: 120/68(80) {104/58(69) - 125/74(85)} mmHg\n   RR: 14 (13 - 26) insp/min\n   SPO2: 99%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 71.8 kg (admission): 70 kg\n             Total In:\n                                                                  3,951 mL\n                                                                  1,081 mL\n   PO:\n             Tube feeding:\n   IV Fluid:\n                                                                  3,951 mL\n                                                                  1,081 mL\n   Blood products:\n   Total out:\n                                                                  2,912 mL\n                                                                  2,050 mL\n   Urine:\n                                                                  1,212 mL\n                                                                    600 mL\n   NG:\n                                                                  1,400 mL\n                                                                  1,050 mL\n   Stool:\n   Drains:\n   Balance:\n                                                                  1,039 mL\n                                                                   -969 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SPO2: 99%\n   ABG: ///24/\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Breath Sounds: CTA bilateral : )\n   Abdominal: Soft, Non-tender, Distended\n   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Neurologic: Follows simple commands, Moves all extremities\n   Labs / Radiology\n   410 K/uL\n   9.2 g/dL\n   120 mg/dL\n   0.5 mg/dL\n   24 mEq/L\n   3.9 mEq/L\n   15 mg/dL\n   113 mEq/L\n   141 mEq/L\n   28.0 %\n   9.8 K/uL\n        [image002.jpg]\n                             [**2151-1-8**]  03:09 AM\n                             [**2151-1-8**]  05:54 AM\n                             [**2151-1-8**]  08:25 AM\n                             [**2151-1-8**]  10:00 AM\n                             [**2151-1-8**]  11:01 AM\n                             [**2151-1-8**]  05:16 PM\n                             [**2151-1-9**]  02:01 AM\n                             [**2151-1-10**]  02:30 AM\n                             [**2151-1-10**]  05:42 PM\n                             [**2151-1-11**]  02:31 AM\n   WBC\n   14.5\n   18.3\n   11.2\n   9.8\n   Hct\n   26.4\n   30.5\n   27.7\n   28.0\n   Plt\n   292\n   410\n   397\n   410\n   Creatinine\n   0.5\n   0.5\n   0.5\n   0.6\n   0.5\n   0.5\n   TCO2\n   28\n   27\n   30\n   Glucose\n   115\n   115\n   97\n   127\n   124\n   118\n   120\n   Other labs: PT / PTT / INR:13.3/28.4/1.1, ALT / AST:25/65, Alk-Phos / T\n   bili:75/0.2, Lactic Acid:0.9 mmol/L, Albumin:2.6 g/dL, LDH:285 IU/L,\n   Ca:7.8 mg/dL, Mg:2.1 mg/dL, PO4:2.2 mg/dL\n   Assessment and Plan\n   DELIRIUM / CONFUSION, ELECTROLYTE & FLUID DISORDER, OTHER, HYPOTENSION\n   (NOT SHOCK), RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 76**]), .H/O ABDOMINAL\n   PAIN (INCLUDING ABDOMINAL TENDERNESS), URINARY TRACT INFECTION (UTI)\n   Assessment and Plan: 77M POD4 s/p prox jejunum resection and\n   anastomosis of deod to jejunum and sigmoid colectomy w/ end colostomy.\n   Neurologic: off sedation, fent prn, haldol prn\n   Cardiovascular: hypotensive intermittantly, responded to fluid bolus,\n   lopressor 5 IV q6h\n   Pulmonary: extubated, stable\n   Gastrointestinal / Abdomen: Post-op ileus, s/p duod resection and\n   anastomosis to jejunum and sigmoid. NGT clamp trial\n   Nutrition: TPN, NPO\n   Renal: Adequate UO\n   Hematology: Hct stable\n   Endocrine: RISS\n   Infectious Disease: Flagyl x2doses and Cefaz x2doses postop; Cipro\n   ([**1-5**]) x4 days for UTI; Sputum Cx.\n   Lines / Tubes / Drains: left Ailine, PIV, NGT, PICC\n   Wounds:\n   Imaging:\n   Fluids: D5 1/2NS 40K @ 150/hr, stop when TPN\n   Consults: General surgery\n   Billing Diagnosis: Post-op complication\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   PICC Line - [**2151-1-10**] 12:14 PM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 35 minutes\n"
+    }
+  ]
+}

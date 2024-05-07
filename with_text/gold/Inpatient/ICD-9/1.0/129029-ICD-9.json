@@ -1,0 +1,122 @@
+{
+  "hadm_id": 129029,
+  "comment": "CABG OP report not present- unablet to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 18185,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 380,
+          "end": 442,
+          "code": "36.15",
+          "code_system": "ICD-9-PCS",
+          "description": "Single internal mammary-coronary artery bypass",
+          "type": "MapType.APPROX",
+          "covered_text": "left internal mammary artery graft to left anterior\ndescending"
+        },
+        {
+          "begin": 444,
+          "end": 497,
+          "code": "36.11",
+          "code_system": "ICD-9-PCS",
+          "description": "(Aorto)coronary bypass of one coronary artery",
+          "type": "Human",
+          "covered_text": "reverse saphenous vein graft to the ramus\nintermedius"
+        },
+        {
+          "begin": 955,
+          "end": 974,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "MapType.APPROX",
+          "covered_text": "Tobacco: cigar 1/wk"
+        },
+        {
+          "begin": 3378,
+          "end": 3397,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial\nfibrillation"
+        },
+        {
+          "begin": 5864,
+          "end": 5887,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 5889,
+          "end": 5901,
+          "code": "403.91",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive renal disease, unspecified, with renal failure",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 5903,
+          "end": 5927,
+          "code": "250.40",
+          "code_system": "ICD-9-CM",
+          "description": "Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",
+          "type": "MapType.APPROX",
+          "covered_text": "Diabetes mellitus type 2"
+        },
+        {
+          "begin": 5929,
+          "end": 5943,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "hyperlipidemia"
+        },
+        {
+          "begin": 5945,
+          "end": 5949,
+          "code": "274.9",
+          "code_system": "ICD-9-CM",
+          "description": "Gout, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Gout"
+        },
+        {
+          "begin": 5950,
+          "end": 5973,
+          "code": "585.6",
+          "code_system": "ICD-9-CM",
+          "description": "End stage renal disease",
+          "type": "Human",
+          "covered_text": "End stage renal disease"
+        },
+        {
+          "begin": 5974,
+          "end": 5989,
+          "code": "V45.11",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "on hemodialysis"
+        },
+        {
+          "begin": 6058,
+          "end": 6083,
+          "code": "V49.83",
+          "code_system": "ICD-9-CM",
+          "description": "Awaiting organ transplant status",
+          "type": "Human",
+          "covered_text": "Awaiting renal transplant"
+        }
+      ],
+      "text": "Admission Date:  [**2153-4-30**]              Discharge Date:   [**2153-5-6**]\n\nDate of Birth:  [**2081-10-30**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nExertional dyspnea\n\nMajor Surgical or Invasive Procedure:\nCoronary artery bypass grafting x2 with\nleft internal mammary artery graft to left anterior\ndescending, reverse saphenous vein graft to the ramus\nintermedius\n\n\nHistory of Present Illness:\nPatient presented with increasing\ndyspnea, given multiple cardiac risk factors had ETT which was\npositive\n\n\nPast Medical History:\nCoronary artery disease, Hypertension,\nDiabetes mellitus type 2, hyperlipidemia, Gout\nEnd stage renal disease on hemodialysis x2 years(M-W-F)Dr\n[**Last Name (STitle) 11427**] is nephrologist. **Awaiting renal transplant**\n\n\nSocial History:\nLives with: wife\nOccupation: retired from [**Company **]\nTobacco: cigar 1/wk\nETOH: none\nDrugs: none\n\n\nFamily History:\nBoth parents w/MI  Mother died @66, father died\n@72. Sister colon CA, Sister-leukemia, Brother prostate CA,\n[**Name (NI) 50273**]\n\n\nPhysical Exam:\nPulse: 72  Resp: 20  O2 sat:\nB/P  Right: 122/66   Left: deferred AV fistula\nHeight: 5'8\"    Weight: 125.2 Kg  258 lbs\n\nGeneral: NAD-obese\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur\nAbdomen: Soft[x] non-distended[x] non-tender[x]\nbowel sounds + [x]\nExtremities: Warm [x], well-perfused []  Edema: none\nVaricosities: None [] mild\nNeuro: Grossly intact, non focal exam\nPulses:\nFemoral      Right: 2+  Left: 2+\nDP           Right: 1+  Left: 1+\nPT           [**Name (NI) 167**]: 1+  Left: 1+\nRadial       Right: 2+  Left: 2+\nLeft AV fistula with thrill\n\nCarotid Bruit Right: no   Left: yes\n\nPertinent Results:\n[**2153-5-4**] 05:22AM BLOOD WBC-10.7 RBC-3.49* Hgb-11.2* Hct-34.6*\nMCV-99* MCH-32.1* MCHC-32.3 RDW-15.0 Plt Ct-274\n[**2153-5-1**] 06:45PM BLOOD PT-13.3 PTT-28.3 INR(PT)-1.1\n[**2153-5-5**] 09:20AM BLOOD Glucose-217* UreaN-47* Creat-7.0*# Na-136\nK-5.0 Cl-94* HCO3-29 AnGap-18\n[**2153-5-4**] 05:22AM BLOOD Glucose-136* UreaN-59* Creat-8.7*# Na-133\nK-5.6* Cl-92* HCO3-26 AnGap-21*\n[**2153-5-5**] 09:20AM BLOOD Calcium-9.7 Phos-6.4*# Mg-2.6\n[**2153-5-4**] 05:22AM BLOOD Calcium-9.7 Phos-9.3*# Mg-2.5\n\nBrief Hospital Course:\nThe patient was brought to the operating room on [**2153-5-3**] where\nthe patient underwent coronary artery bypass x 4.  Overall the\npatient tolerated the procedure well and post-operatively was\ntransferred to the CVICU in stable condition for recovery and\ninvasive monitoring.  Vancomycin was used for surgical\nantibiotic prophylaxis.  POD 1 found the patient extubated,\nalert and oriented and breathing comfortably.  The patient was\nneurologically intact and hemodynamically stable on no inotropic\nor vasopressor support.  Beta blocker was initiated and the\npatient was gently diuresed toward the preoperative weight.  He\nwas maintained on his regular M/W/F hemodialysis schedule.  The\npatient was transferred to the telemetry floor for further\nrecovery.  Chest tubes and pacing wires were discontinued\nwithout complication.  The patient was evaluated by the physical\ntherapy service for assistance with strength and mobility.  He\ndid have several episodes of rate controlled atrial\nfibrillation.  His beta-blocker was titrated and amiodarone was\ninitiated.  Anti-coagulation was initiated with coumadin.  By\nthe time of discharge on POD 5 the patient was ambulating\nfreely, the wound was healing and pain was controlled with oral\nanalgesics.  The patient was discharged to home in good\ncondition with appropriate follow up instructions.\n\nMedications on Admission:\nMetoprolol 25\", Lisinopril 40', Amlopidine\n10', ASA 81', Clonidine 0.2 @HS/prn, Pravastatin 40',\nAllopurinol\n100', Colchicine 0.6', Actos 45', Nephrocaps 1', Phoslo 667''',\nHydrocortisone 12.5'\n\n\nDischarge Medications:\n1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n3. Pravastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n4. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n5. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)\nas needed for acute gout flair.\n6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ4H (every 4 hours) as needed for pain.\nDisp:*60 Tablet(s)* Refills:*0*\n7. Pioglitazone 45 mg Tablet Sig: One (1) Tablet PO once a day.\n\n8. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap\nPO DAILY (Daily).\n9. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID\nW/MEALS (3 TIMES A DAY WITH MEALS).\n10. Hydrocortisone 5 mg Tablet Sig: 2.5 Tablets PO DAILY\n(Daily).\n11. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO TID (3\ntimes a day).\nDisp:*135 Tablet(s)* Refills:*2*\n12. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*2*\n13. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H\n(every 4 hours) as needed for pain/fever.\n14. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times\na day): 400mg [**Hospital1 **] x 1 week, then 400mg daily x 1 week, then\n200mg daily.\nDisp:*120 Tablet(s)* Refills:*2*\n15. Warfarin 3 mg Tablet Sig: One (1) Tablet PO once a day: Dose\nto change daily for goal INR [**1-10**] for atrial fibrillation.  First\nINR [**2153-5-8**] with results to cardiac surgery [**Telephone/Fax (1) 170**].\nDisp:*30 Tablet(s)* Refills:*2*\n16. Outpatient Lab Work\nSerial PT/INR\ndx: atrial fibrillation\ngoal INR [**1-10**]\nResults to Cardiac Surgery [**Telephone/Fax (1) 170**]\n1st draw Tues. [**2153-5-8**]\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Location (un) 1110**] VNA\n\nDischarge Diagnosis:\nCoronary artery disease, Hypertension,\nDiabetes mellitus type 2, hyperlipidemia, Gout\nEnd stage renal disease on hemodialysis x2 years(M-W-F)Dr\n[**Last Name (STitle) 11427**] is nephrologist. **Awaiting renal transplant**\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating, gait steady\nSternal pain managed with oral analgesics\nSternal Incision - healing well, no erythema or drainage\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming, and look at your incisions\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\nNo driving for approximately one month until follow up with\nsurgeon\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours\n\nFollowup Instructions:\nDr. [**Last Name (STitle) **] in 3 weeks at [**Hospital1 **] for wound check and post-op\nfollow-up : [**Telephone/Fax (1) 6256**]\nDr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6254**] in 3 weeks [**Telephone/Fax (1) 6256**]\nDr. [**First Name8 (NamePattern2) 12334**] [**Last Name (NamePattern1) 50274**] in 2 weeks\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n**First INR draw [**2153-5-8**], results to cardiac surgery\n[**Telephone/Fax (1) 170**]**\n\n\n\nCompleted by:[**2153-5-6**]"
+    }
+  ]
+}

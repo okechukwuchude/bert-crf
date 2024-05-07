@@ -1,0 +1,176 @@
+{
+  "hadm_id": 130333,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 47569,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 296,
+          "end": 323,
+          "code": "45.13",
+          "code_system": "ICD-9-PCS",
+          "description": "Other endoscopy of small intestine",
+          "type": "Human",
+          "covered_text": "Eesophagogastroduodenoscopy"
+        },
+        {
+          "begin": 1132,
+          "end": 1135,
+          "code": "V45.01",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac pacemaker in situ",
+          "type": "Human",
+          "covered_text": "PPM"
+        },
+        {
+          "begin": 1200,
+          "end": 1214,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "hyperlipidemia"
+        },
+        {
+          "begin": 1216,
+          "end": 1238,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "chronic kidney disease"
+        },
+        {
+          "begin": 1270,
+          "end": 1282,
+          "code": "733.00",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoporosis, unspecified",
+          "type": "Human",
+          "covered_text": "osteoporosis"
+        },
+        {
+          "begin": 1284,
+          "end": 1287,
+          "code": "715.90",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoarthrosis, unspecified whether generalized or localized, involving unspecified site",
+          "type": "Human",
+          "covered_text": "DJD"
+        },
+        {
+          "begin": 1289,
+          "end": 1301,
+          "code": "389.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hearing loss",
+          "type": "Human",
+          "covered_text": "hearing loss"
+        },
+        {
+          "begin": 1303,
+          "end": 1311,
+          "code": "365.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified glaucoma",
+          "type": "Human",
+          "covered_text": "glaucoma"
+        },
+        {
+          "begin": 1329,
+          "end": 1359,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "She quit smoking 25 years ago."
+        },
+        {
+          "begin": 3854,
+          "end": 3858,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "MapType.APPROX",
+          "covered_text": "pRBC"
+        },
+        {
+          "begin": 4020,
+          "end": 4029,
+          "code": "535.51",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified gastritis and gastroduodenitis, with hemorrhage",
+          "type": "MapType.APPROX",
+          "covered_text": "gastritis"
+        },
+        {
+          "begin": 4031,
+          "end": 4062,
+          "code": "531.40",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",
+          "type": "MapType.APPROX",
+          "covered_text": "small non-bleeding antral ulcer"
+        },
+        {
+          "begin": 4430,
+          "end": 4460,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "MapType.APPROX",
+          "covered_text": "paroxysmal atrial fibrillation"
+        },
+        {
+          "begin": 4494,
+          "end": 4502,
+          "code": "V58.61",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of anticoagulants",
+          "type": "Human",
+          "covered_text": "coumadin"
+        },
+        {
+          "begin": 5038,
+          "end": 5057,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute Renal Failure"
+        },
+        {
+          "begin": 5164,
+          "end": 5187,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "acute blood loss anemia"
+        },
+        {
+          "begin": 5283,
+          "end": 5297,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 5576,
+          "end": 5591,
+          "code": "V58.66",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of aspirin",
+          "type": "MapType.EXACT",
+          "covered_text": "ASA 81 mg daily"
+        }
+      ],
+      "text": "Admission Date:  [**2139-11-27**]              Discharge Date:   [**2139-11-29**]\n\n\nService: MEDICINE\n\nAllergies:\nIodine / Codeine / Rose Hips / Zocor / Flecainide / Diamox\nSequels\n\nAttending:[**First Name3 (LF) 2641**]\nChief Complaint:\nWeakness and Melena\n\nMajor Surgical or Invasive Procedure:\nEesophagogastroduodenoscopy\n\n\nHistory of Present Illness:\nMs. [**Known lastname **] is an 89 year-old woman with a history of atrial\nfibrillation on coumadin who presents with a GI bleed. She was\nin her usual state of excellent health until yesterday morning\nwhen she woke up feeling weak and unable to do her usual ADLs.\nShe also noted two black stools, which had never happened to her\nbefore. She had no abdominal pain, nausea, vomitting.\n.\nIn the ED, initial VS: T 99, 79, 143/54, 20, 97% RA\nLabs were notable for INR 3.2 and Hct 19.7, down from 35 10 days\nago. She received vitamin K 5 mg IV and pantoprazole 80 mg\nfollowed by 8 mg/h drip. 2 PIV were placed. GI was contact[**Name (NI) **] and\nwould like to scope in the morning.\nVS prior to transfer: 89, 136/54, 20, 98%\n\nPast Medical History:\n-paroxysmal atrial fibrillation\n-s/p PPM for pauses\n-mitral and tricuspid regurgitation\n-mild AS and AR\n-hyperlipidemia\n-chronic kidney disease\n-cholelithiasis (asymptomatic\n-osteoporosis\n-DJD\n-hearing loss\n-glaucoma\n\nSocial History:\nShe quit smoking 25 years ago. She drinks wine very\noccasionally. she lives alone and is independent in her ADLs.\nShe plans to travel to [**State 108**] for the winter in 3 days as per\nher usual routine.\n\nFamily History:\nNon-Contributory\n\nPhysical Exam:\nVS: 96.3, 103/85, 500 cc u/o\nGEN: pleasant, A&Ox 3, pale\nHEENT: MMM, no scleral icterus\nRESP: bilateral apical expiratory wheeze\nCV: regular, 3/6 systolic murmur\nABD: No echymoses, + BS, no hepatosplenomegaly, non tender to\npalpation. No rebound or gaurding\nEXT: trace bilateral pitting edema\nRECTAL: Skin tag, small amount of black stool in vault\n\n\nPertinent Results:\n[**2139-11-27**] 03:30PM BLOOD WBC-11.5* RBC-2.37*# Hgb-6.9*# Hct-20.4*#\nMCV-86 MCH-29.2 MCHC-34.0 RDW-17.9* Plt Ct-248\n[**2139-11-27**] 11:07PM BLOOD Hct-26.5*#\n[**2139-11-28**] 03:14AM BLOOD WBC-9.3 RBC-3.01*# Hgb-9.1*# Hct-26.1*\nMCV-87 MCH-30.2 MCHC-34.9 RDW-16.7* Plt Ct-210\n[**2139-11-28**] 01:44PM BLOOD Hct-26.7*\n[**2139-11-28**] 09:00PM BLOOD Hct-27.1*\n[**2139-11-29**] 07:25AM BLOOD WBC-9.9 RBC-3.14* Hgb-9.4* Hct-27.6*\nMCV-88 MCH-29.8 MCHC-33.9 RDW-16.8* Plt Ct-214\n\n[**2139-11-27**] 03:30PM BLOOD Glucose-106* UreaN-57* Creat-2.0* Na-140\nK-4.2 Cl-106 HCO3-24 AnGap-14\n[**2139-11-29**] 07:25AM BLOOD Glucose-98 UreaN-28* Creat-1.4* Na-145\nK-3.8 Cl-111* HCO3-25 AnGap-13\n\n[**2139-11-27**] 03:30PM BLOOD cTropnT-<0.01\n\n[**11-28**] EGD report\nUlcer in the antrum 1.5 cm raised lesion with central erosion\nnoted in the antral-body junction. No active bleeding. Bile\nnoted in duodenum, no blood.\n\nErythema and petechiae in the fundus compatible with gastritis.\n\nOtherwise normal EGD to second part of the duodenum.\n\nRecommendations: Small non-bleeding ulceration and gastritis\nnoted in stomach. 1.5 cm raised gastric lesion of unknown\nsignificance potentially from previous ulcer with raised edges\nor potential submucosal lesion such as GIST.\n\nRecommend IV BID PPI, test and treat for H-pylori, call out from\nICU. Can resume anticoagulation as needed at discharge. Advance\ndiet. Recommend repeat endoscopy in 6 weeks to assess\nimprovement in ulceration and address raised lesion if still\npresent and or need for EUS.\n\nBrief Hospital Course:\nMs. [**Known lastname **] is a 89 year-old woman with atrial fibrillation on\nwarfarin who was admitted for an upper gastrointestinal bleed\nwith an INR of 3.2.\n\n# GI bleed: She was admitted with a hematocrit of 20.4 and an\nINR of 3.2. She received 5 mg IV vitamin K in the ED and her INR\nfell to 1.4 over the ensuing 12 hours.  She also received 2\nunits of pRBC with an appropriate rise in Hct to 26.  After this\nshe felt subjectively much improved. Her coumadin was held\ndurring her admission. An upper endoscopy revealed gastritis,\nsmall non-bleeding antral ulcer and 1.5 cm raised gastric\nlesion. The gastroenterology service advised twice daily PPI and\na follow-up EGD in 6 weeks. H. pylori IgG was also collected and\nwas pending at the time of discahrge. She was to follow up with\nher PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **], in [**State 108**] early the following week.\n.\n# Atrial fibrillation: She had paroxysmal atrial fibrillation\nand had been anticoagulated with coumadin. She did not require\nrate control agents, and her rate remained stable in the\n70s-80s. Anticoagulation was held durring her admission. Upon\ndischarge, it was decided that given her risk of stroke\nanticoagulation should not be discontinued altogether. Thus, her\naspirin was stopped and she was restarted\non her anticoagulation at 5 mg on the day of discharge and 2.5\nmg daily thereafter with close PCP [**Name9 (PRE) 702**] advised. She was to\nget her INR checked 2-3 days following discharge with her PCP in\n[**Name9 (PRE) 108**].\n.\n# Acute Renal Failure: Her acute elevation in serum creatinine\nwas likely due to relative renal hypoperfusion in the setting of\nacute blood loss anemia. Her renal function improved following\nblood transfusion to its prior baseline of 1.2-1.4.\n.\n# Hypothyroidism:  Her home dose of levothyroxine 100 mcg daily\nwas continued.\n\nMedications on Admission:\natorvastatin 20 mg daily\nbrimonidine .1% gtt one drop OD TID\nlevothyroxine 100 mcg daily\nvalsartan 80 mg [**Hospital1 **]\nwarfarin 2.5 mg MF, 2 mg all other days\nascorbic acid 500 mg daily\nASA 81 mg daily\ncalcium carbonate-vitamin D3 1250 - 200 mg daily\nMVI\nomega 3\nvitamin E\nSocial History\n\n\nDischarge Medications:\n1. brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic Q8H\n(every 8 hours).\n2. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n3. valsartan 40 mg Tablet Sig: One (1) Tablet PO twice a day.\nDisp:*60 Tablet(s)* Refills:*0*\n4. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.\n\n5. Calcium+D 500 mg(1,250mg) -200 unit Tablet Sig: One (1)\nTablet PO once a day.\n6. Omega-3 Fish Oil  Oral\n7. Multiple Vitamins  Oral\n8. vitamin E  Oral\n9. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO once a day:\nTake two tablets today [**2139-11-29**] and one table daily\nthereafter. Please see your PCP to check to INR and adjust your\ndose on Tuesday [**2139-12-1**].\nDisp:*30 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nUpper Gastrointestinal Bleed\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to the hospital for black tarry stools, a sign\nof upper GI bleeding. You were evaluated and treated by the\nmedicine service and found to be anemic. You INR was elevated at\n3.2, so your coumdin was held. You also received IV vitamin K.\nYou were transfused 2 units of packed red blood cells for your\nanemia and your blood levels remained stable througout the\nremainder of your admission. You also underwent an endoscopy,\nwhich show gastritis, a small ulcer and a 1.5cm lesion in your\nstomach that will require a follow-up endoscopy in 6 weeks. You\nalso received a blood test for H. pylori, a bacteria that causes\nulcers; this test is still pending. If this test is positive you\nwill need appropriate treatment for this infection from your\nPCP. [**Name10 (NameIs) **] will be contact[**Name (NI) **] via your cell phone to inform you of\nthe result of this test.\n\nThe following changes were made to your medication:\n1. You have been STARTED on Pantoprazole 40mg twice daily for 6\nweeks.\n2. You have been Re-STARTED on Coumadin, you should take 5mg\ntoday and 2.5mg daily until Tuesday when you should present to\nDr. [**Last Name (STitle) **] for an INR check and adjust the of coumdin dose\naccordingly.\n3. Your Valsartan has been DECREASED to 40mg [**Hospital1 **], please discuss\nthis change with your PCP.\n4. Your Aspirin has been STOPPED, please discuss this change\nwith your PCP.\n\nNo other changes have been made to your medications.\n\nPlease take your medications as prescribed and keep your\noutpatient appointments.\n\nFollowup Instructions:\nYou shold follow up with you physcian in [**State 108**] for this bleed\nand your atrial fibrillation management. Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 100546**]\n\nYou will be contact[**Name (NI) **] about the results of the H. Pylori test to\nyour cellular phone number: [**Telephone/Fax (1) 100547**].\n\n\n\n"
+    }
+  ]
+}

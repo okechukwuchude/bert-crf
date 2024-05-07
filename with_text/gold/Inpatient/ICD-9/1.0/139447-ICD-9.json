@@ -1,0 +1,167 @@
+{
+  "hadm_id": 139447,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 41913,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 236,
+          "end": 243,
+          "code": "E812.0",
+          "code_system": "ICD-9-CM",
+          "description": "Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle",
+          "type": "Human",
+          "covered_text": "s/p MVC"
+        },
+        {
+          "begin": 458,
+          "end": 482,
+          "code": "854.06",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with loss of consciousness of unspecified duration",
+          "type": "MapType.APPROX",
+          "covered_text": "small frontal contusion,"
+        },
+        {
+          "begin": 487,
+          "end": 509,
+          "code": "807.08",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of eight or more ribs",
+          "type": "Human",
+          "covered_text": "multiple rib\nfractures"
+        },
+        {
+          "begin": 514,
+          "end": 524,
+          "code": "860.0",
+          "code_system": "ICD-9-CM",
+          "description": "Traumatic pneumothorax without mention of open wound into thorax",
+          "type": "Human",
+          "covered_text": "small PTX."
+        },
+        {
+          "begin": 631,
+          "end": 639,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "diabetes"
+        },
+        {
+          "begin": 641,
+          "end": 656,
+          "code": "V12.71",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of peptic ulcer disease",
+          "type": "Human",
+          "covered_text": "bleeding ulcer,"
+        },
+        {
+          "begin": 657,
+          "end": 660,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 754,
+          "end": 760,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "MapType.APPROX",
+          "covered_text": "smoker"
+        },
+        {
+          "begin": 993,
+          "end": 1008,
+          "code": "873.44",
+          "code_system": "ICD-9-CM",
+          "description": "Open wound of jaw, uncomplicated",
+          "type": "MapType.MULTI",
+          "covered_text": "chin laceration"
+        },
+        {
+          "begin": 1424,
+          "end": 1455,
+          "code": "86.59",
+          "code_system": "ICD-9-PCS",
+          "description": "Closure of skin and subcutaneous tissue of other sites",
+          "type": "Human",
+          "covered_text": "chin laceration sutures removed"
+        },
+        {
+          "begin": 4698,
+          "end": 4709,
+          "code": "801.26",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with loss of consciousness of unspecified duration",
+          "type": "Human",
+          "covered_text": "small R SAH"
+        },
+        {
+          "begin": 4712,
+          "end": 4736,
+          "code": "854.06",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with loss of consciousness of unspecified duration",
+          "type": "MapType.APPROX",
+          "covered_text": "R frontal lobe contusion"
+        },
+        {
+          "begin": 4739,
+          "end": 4764,
+          "code": "802.4",
+          "code_system": "ICD-9-CM",
+          "description": "Malar and maxillary bones, closed fracture",
+          "type": "MapType.APPROX",
+          "covered_text": "R zygomatic arch fracture"
+        },
+        {
+          "begin": 4767,
+          "end": 4824,
+          "code": "802.4",
+          "code_system": "ICD-9-CM",
+          "description": "Malar and maxillary bones, closed fracture",
+          "type": "MapType.APPROX",
+          "covered_text": "fracture of lateral and frontal wall of R maxillary sinus"
+        },
+        {
+          "begin": 4837,
+          "end": 4862,
+          "code": "802.6",
+          "code_system": "ICD-9-CM",
+          "description": "Orbital floor (blow-out) closed fracture",
+          "type": "MapType.APPROX",
+          "covered_text": "displaced fx of the right"
+        },
+        {
+          "begin": 4919,
+          "end": 4966,
+          "code": "807.08",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of eight or more ribs",
+          "type": "Human",
+          "covered_text": "Rib fracures right 1,2,[**5-20**]; left 2nd rib"
+        },
+        {
+          "begin": 4969,
+          "end": 4999,
+          "code": "860.0",
+          "code_system": "ICD-9-CM",
+          "description": "Traumatic pneumothorax without mention of open wound into thorax",
+          "type": "Human",
+          "covered_text": "small left apical pneumothorax"
+        }
+      ],
+      "text": "Admission Date:  [**2119-1-3**]              Discharge Date:   [**2119-1-10**]\n\nDate of Birth:  [**2057-10-15**]             Sex:   F\n\nService: SURGERY\n\nAllergies:\nCodeine / NSAIDS\n\nAttending:[**First Name3 (LF) 598**]\nChief Complaint:\ns/p MVC\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\n61 Year old female, driving on highway, missed exit and backed\nup, struck by oncoming truck. + airbag deployment, +LOC. At OSH\nfound to have small frontal contusion, and multiple rib\nfractures and small PTX. Awake and alert on arrival to [**Hospital1 18**].\nMultiple facial fractures.\n\n\nPast Medical History:\nPMH: diabetes, bleeding ulcer, HTN, opioid abuse\nPSH: total hysterectomy, back surgery\n\n\nSocial History:\nsingle, lives at home, smoker, no EtOH\n\nFamily History:\nNoncontributory\n\nPhysical Exam:\nOn arrival to [**Hospital1 18**]:\n\nConstitutional: Uncomfortable\nHEENT: Pupils equal, round and reactive to light,\nExtraocular muscles intact\nOropharynx within normal limits\nchin laceration\nChest: Clear to auscultation, tender to palpation -right\nCardiovascular: Regular Rate and Rhythm\nAbdominal: Soft, Nontender, Nondistended\nExtr/Back: No cyanosis, clubbing or edema\nNeuro: Speech fluent, GCS 15, moves all extremities\n\nOn discharge:\n\nVitals 98.5 81 122/73 18 93% RA\n\nConstitutional: A&O, NAD\nHEENT: Pupils equal, round and reactive to light,\nExtraocular muscles intact\nOropharynx within normal limits\nchin laceration sutures removed, well approximated, no drainage\nChest: Clear to auscultation, tender to palpation -right\nCardiovascular: Regular Rate and Rhythm\nAbdominal: Soft, Nontender, Nondistended\nExtr/Back: No cyanosis, clubbing or edema\nNeuro: Speech fluent, GCS 15, moves all extremities\n\n\n\n\nPertinent Results:\nCT head/ Sinus:\n1. Small subarachnoid hemorrhage in the sulci of the right\ntemporo-parietal\nlobe.\n2. Hyperdense focus in the right frontal lobe, likely contusion.\nPossible\ncontusion in the left frontal lobe.\n3. Fracture of the right zygomatic arch and lateral wall of the\nright\nmaxillary sinus with hemorrhagic fluid within the right\nmaxillary sinus.\nFacial bone fractures are better seen on subsequent CT sinus.\n4. Subcutaneous emphysema as outlined above.\n\nCT Neck:\n1. No acute fracture or traumatic malalignment of the cervical\nspine.\n2. Displaced fractures of the second and third ribs on the\nright.\n3. Left apical pneumothorax and atelectasis at the lung apices.\n4. Large amount of subcutaneous emphysema tracking to the\nfascial planes of the neck. No evidence of airway injury.\n\nCT sinus:\n1. Minimally displaced fractures of the right zygomatic arch,\nand lateral and anterior walls of the right maxillary sinus with\nhemorrhagic fluid within the sinus cavity.\n2. Minimally displaced fractures of the bilateral orbital roof\nwith a small amount of associated subcutaneous emphysema.\n3. Mucosal thickening in the ethmoidal sinus as well as minimal\nmucosal\nthickening in the left maxillary and left sphenoid sinus.\n4. Cervical subcutaneous emphysema, better assessed on\nconcurrent C-spine\nstudy.\n\n[**1-7**] SHOULDER (AP, NEUTRAL & AXILLARY) TRAUMA RIGHT\nBone fragments projecting superior to the narrowed\nacromioclavicular joint\ncould be acute avulsions. There also appear to be areas of\nerosion on the\ndistal clavicle suggesting a chronic degenerative component. The\nhead of the humerus is smooth, and there is no dislocation.\nGlenoid is intact.\n\n[**2119-1-9**] CHEST (PA & LAT)\n1. No new focal consolidation.\n2. Increased small right pleural effusion and new, loculated,\nright pleural or extrapleural fluid, could be due to interval\nbleeding of displaced rib fractures.\n3. Pulmonary edema has resolved.\n4. Decrease in subcutaneous emphysema.\n\n\n\n[**2119-1-3**] 01:20PM   WBC-13.4* RBC-3.45* HGB-11.5* HCT-34.4*\nMCV-100* MCH-33.4* MCHC-33.4 RDW-13.7\n[**2119-1-3**] 01:20PM   PLT COUNT-228\n[**2119-1-3**] 01:20PM   PT-11.6 PTT-21.0* INR(PT)-1.0\n[**2119-1-3**] 01:20PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.039*\n[**2119-1-3**] 01:20PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG\nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0\nLEUK-NEG\n[**2119-1-3**] 01:20PM URINE  RBC-<1 WBC-<1 BACTERIA-NONE YEAST-NONE\nEPI-0\n[**2119-1-3**] 01:20PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG\ncocaine-NEG amphetmn-NEG mthdone-NEG\n[**2119-1-3**] 01:20PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG\nbnzodzpn-NEG barbitrt-NEG tricyclic-NEG\n[**2119-1-3**] 01:20PM   LIPASE-20\n[**2119-1-3**] 01:20PM   cTropnT-<0.01\n[**2119-1-3**] 01:20PM   UREA N-25* CREAT-1.2*\n[**2119-1-3**] 01:31PM   GLUCOSE-140* LACTATE-2.4* NA+-139 K+-4.0\nCL--99 TCO2-27\n\nBrief Hospital Course:\n61 F s/p MVC admitted to the ACS service for treatment of the\nfollowing injuries:\n\n- small R SAH\n- R frontal lobe contusion\n- R zygomatic arch fracture\n- fracture of lateral and frontal wall of R maxillary sinus\n- minimally displaced fx of the right and left orbital roofs\n- 3cm anterior neck laceration\n- Rib fracures right 1,2,[**5-20**]; left 2nd rib\n- small left apical pneumothorax\n\nThe patient has a history of narcotic abuse and was on suboxone\nat the time of admission. She was admitted to the ICU for neuro\nchecks which were intact throughout her time in the ICU. She was\nseen by neurosurgery who recommended a a follow head CT. This CT\nwas not obtained as the patient able to participate in neuro\nchecks. Plastic surgery saw the patient and determined that her\nfacial fractures were nonoperative and she will follow up with\nthem in clinic and sinus precautions while she was hospitalized.\nHer pain was difficult to manage because of the suboxone but\nbecame manageable after the medication cleared her system.\n\nEvents in the TICU were the following:\n[**1-3**]: admitted to TSICU. acute pain consult - unable to place\nepidural. dilaudid PCA. ophtho exam.\n[**1-4**]: Resumed regular diet, home meds. Added PO oxycodone to\npain regimen. Decreased frequency of neurochecks to Q4h.\n\nShe was transferred to the surgical floor on [**1-5**]. She remained\nalert and oriented and neuro checks were performed q8h, with no\nchanges in neuro status. Her pain was frequently assessed and\nshe remained on the Dilaudid PCA initially and was transitioned\nto an oral narcotic pain regimen subsequently, with which she\nreported adequate pain relief. Her vitals signs were routinely\nmonitored and she remained hemodynamically stable. She was\nplaced on telemetry with continuous O2 monitoring given her rib\nfractures. It was noted that her O2 saturation was decreasing to\nthe high 80's on RA. The patient denied SOB and incentive\nspirometry and pulmonary toileting were encouraged. However,\ndifficulty remained weaning supplemental oxygen and a chest xray\nwas obtained  on [**1-9**] which showed a very small right pleural\neffusion  (old) and new, small loculated, right pleural or\nextrapleural fluid. However the xray showed resolution of prior\npulmonary edema when compared to prior xrays, no new focal\nconsolidation, and no evidence of prior pneumothorax seen\ninitially on CT scan at admission. The patient continued to deny\nany shortness of breath, and O2 her sats at discharge remained\nbetween 89-93% on RA (patient with significant smoking history).\n\nShe was tolerating a regular diet and started on a bowel regimen\ngiven her use of narcotics. A foley catheter was placed on\nadmission and removed on [**1-5**], at which time she voided without\ndifficulty.\n\nShe was evaluated by physical therapy and occupational therapy\nwho initially recommended discharge to an extended care facility\nfor further rehabilitation when medically stable. However, as\nshe progressed toward discharge her mobility greatly improved\nand she become much more independent and was able to dress\nherself independently. She was out of bed ambulating with\nsupervision at the time of discharge, and was discharged to home\nwith VNA services in place.\n\nHer blood sugars were monitored routinely and managed with her\nhome metformin and a sliding scale of regular insulin as needed.\nThey remained controlled in the 100's at the time of discharge\nso she was not continued on the sliding scale insulin.\n\nPlastic surgery was consulted initially for her facial\nfractures. It was determined that her facial fractures did not\nrequire operative intervention at that time. Plastics\nrecommended follow up as an outpatient, for which the patient\nwas scheduled at discharge.\n\nOrthopedics was consulted for new complaints of right shoulder\npain. Xrays were obtained (see pertinent results for details.)\nShe was noted to have weakness in her right shoulder which may\nbe secodary to pain vs. from a rotator cuff injury. However it\nwas decided that there was no acute injury and the patient was\nscheduled for orthopedic follow up as an outpatient. The patient\nwas given a sling for comfort.\n\nOpthlomology was consulted when the patient was in the ICU for\nher eye fracture who deferred to the plastic surgery team for\nacute management and recommended routine annual exams for\nDM/HTN.\n\nNeurosurgery was consulted initially for cerebral ecchymosis and\nSAH. The patient remained neurologically stable the neurosurgery\nsigned off.\n\nThe patient was scheduled for follow up at discharge in the [**Hospital 2536**]\nclinic on [**2119-1-31**].\n\n\nMedications on Admission:\nlisinopril, atenolol, lasix, suboxone, simvastatin, Asa,\nprilosec, prozac, amitryptiline\n\n\nDischarge Medications:\n1. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H (every\n6 hours).\n2. carisoprodol 350 mg Tablet Sig: One (1) Tablet PO TID (3\ntimes a day).\n3. atenolol 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n4. fluoxetine 20 mg Capsule Sig: One (1) Capsule PO QAM (once a\nday (in the morning)).\n5. amitriptyline 25 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime).\n6. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n7. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2)\nTablet PO DAILY (Daily).\n8. metformin 500 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n9. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n10. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n11. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n12. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n13. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n14. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n15. morphine 15 mg Tablet Extended Release Sig: One (1) Tablet\nExtended Release PO Q8H (every 8 hours).\nDisp:*65 Tablet Extended Release(s)* Refills:*0*\n16. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3\nhours) as needed for breakthrough pain.\nDisp:*30 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nAll Care VNA of Greater [**Location (un) **]\n\nDischarge Diagnosis:\ns/p MVC\n\nInjuries:\nSAH in the right sylvian fissure\nRight frontal lobe contusion\nRib fractures- Right: 1,2,[**5-20**]. Left: 2nd rib\nFracture of right zygomatic arch\nFracture of lateral & frontal wall of the right maxillary sinus\nMinimally displaced fracture of bilateral orbital roofs\n3cm anterior neck laceration\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to the hospital after a motor vehicle\naccident. You sustained multiple injuries including a small head\nbleed and bruising, multiple facial fractures, multiple rib\nfractures, and a laceration on your neck.\n\nYou are being discharged with the following instructions:\n\nYou sustained rib fractures which can cause severe pain and\nsubsequently cause you to take shallow breaths because of the\npain.\nYou should take your pain medicine as as directed to stay ahead\nof the pain otherwise you won't be able to take deep breaths.\nIf the pain medication is too sedation, take half the dose and\nnotify your physician.\n[**Name10 (NameIs) **] is a complication of rib fractures. In order to\ndecrease your risk you must use your incentive spirometer 4\ntimes every hour while awake. This will help expand the samll\nairways in your lungs and assist in coughing up secretions that\npool in the lungs.\nYou will be more comfortable if you use a cough pillow to hold\nagainst your chest and guard your rib cage while coughing and\ndeep breathing.\nSymptomatic relief with ice packs or heating pads for short\nperiods may ease the pain.\nDo NOT smoke.\nReturn to the ED right away for any acute shortness of breath,\nincreased pain or crackling sensation around your rips\n(crepitus).\nNarcotic pain medication can cause constipation. Thefore you\nshould take a stool softener twice daily and increase your fluid\nand fiber intake if possible.\nIf your doctor allows, non steriodal anti-inflammatory drugs are\nvery effective in controlling pain (i.e. Ibuprofen, Motrin,\nAdvil, Aleve, Naprosyn) but they have their own set of side\neffects so make sure your doctor approves.\n\nPlease follow up as instructed below with the Acute Care\nService, orthopedics and plastic surgery.\n\nYou were also seen by the opthomology doctors [**Name5 (PTitle) 1028**] [**Name5 (PTitle) **] were in\nthe hospital who recommended that you have annual eye exams\ngiven your history of diabetes mellitus and high blood pressure.\n\nFollowup Instructions:\nDepartment: DIV. OF PLASTIC SURGERY\nWhen: FRIDAY [**2119-1-20**] at 9:15 AM\nWith: [**First Name11 (Name Pattern1) 1216**] [**Last Name (NamePattern4) 2612**], MD and Dr [**Last Name (STitle) 65728**]\nPhone[**Telephone/Fax (1) 6331**]\nBuilding: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\nDepartment: ORTHOPEDICS\nWhen: THURSDAY [**2119-1-26**] at 11:20 AM\nWith: ORTHO XRAY (SCC 2) [**Telephone/Fax (1) 1228**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 551**]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\nDepartment: ORTHOPEDICS\nWhen: THURSDAY [**2119-1-26**] at 11:40 AM\nWith: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1984**], MD [**Telephone/Fax (1) 1228**]\nBuilding: [**Hospital6 29**] [**Location (un) 551**]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\nDepartment: GENERAL SURGERY/[**Hospital Unit Name 2193**]\nWhen: TUESDAY [**2119-1-31**] at 1 PM\nWith: ACUTE CARE CLINIC with Dr [**Last Name (STitle) 853**]\nPhone:[**Telephone/Fax (1) 600**]\nBuilding: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\nYou will need a chest x-ray prior to this appointment. Please go\nto [**Hospital1 7768**], [**Hospital Ward Name 517**] Clinical Center, [**Location (un) **]\nRadiology 30 minutes prior to your appointment.\n\n\n                             [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number(2) 601**]\n\nCompleted by:[**2119-1-10**]"
+    }
+  ]
+}

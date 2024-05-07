@@ -1,0 +1,293 @@
+{
+  "hadm_id": 145495,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 20660,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 288,
+          "end": 321,
+          "code": "38.93",
+          "code_system": "ICD-9-PCS",
+          "description": "Venous catheterization, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "central venous catheter placement"
+        },
+        {
+          "begin": 377,
+          "end": 388,
+          "code": "331.0",
+          "code_system": "ICD-9-CM",
+          "description": "Alzheimer&apos;s disease",
+          "type": "Human",
+          "covered_text": "Alzheimer's"
+        },
+        {
+          "begin": 406,
+          "end": 415,
+          "code": "V12.01",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of tuberculosis",
+          "type": "Human",
+          "covered_text": "latent TB"
+        },
+        {
+          "begin": 465,
+          "end": 467,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "AF"
+        },
+        {
+          "begin": 468,
+          "end": 479,
+          "code": "V58.61",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of anticoagulants",
+          "type": "Human",
+          "covered_text": "on coumadin"
+        },
+        {
+          "begin": 481,
+          "end": 484,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1991,
+          "end": 1994,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 2032,
+          "end": 2044,
+          "code": "V10.05",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of large intestine",
+          "type": "Human",
+          "covered_text": "colon cancer"
+        },
+        {
+          "begin": 2291,
+          "end": 2294,
+          "code": "600.01",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "Human",
+          "covered_text": "BPH"
+        },
+        {
+          "begin": 2306,
+          "end": 2310,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "MapType.EXACT",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 5317,
+          "end": 5325,
+          "code": "294.10",
+          "code_system": "ICD-9-CM",
+          "description": "Dementia in conditions classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "Dementia"
+        },
+        {
+          "begin": 5343,
+          "end": 5347,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "AFib"
+        },
+        {
+          "begin": 5348,
+          "end": 5360,
+          "code": "V58.61",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of anticoagulants",
+          "type": "Human",
+          "covered_text": "on Coumadin,"
+        },
+        {
+          "begin": 5446,
+          "end": 5465,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "respiratory failure"
+        },
+        {
+          "begin": 5470,
+          "end": 5482,
+          "code": "785.52",
+          "code_system": "ICD-9-CM",
+          "description": "Septic shock",
+          "type": "Human",
+          "covered_text": "septic shock"
+        },
+        {
+          "begin": 5726,
+          "end": 5740,
+          "code": "995.91",
+          "code_system": "ICD-9-CM",
+          "description": "Sepsis",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "VRE bacteremia"
+        },
+        {
+          "begin": 5822,
+          "end": 5853,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "Healthcare Associated Pneumonia"
+        },
+        {
+          "begin": 6909,
+          "end": 6922,
+          "code": "785.52",
+          "code_system": "ICD-9-CM",
+          "description": "Septic shock",
+          "type": "Human",
+          "covered_text": "Severe sepsis"
+        },
+        {
+          "begin": 7409,
+          "end": 7442,
+          "code": "V09.80",
+          "code_system": "ICD-9-CM",
+          "description": "Infection with microorganisms resistant to other specified drugs, without mention of resistance to multiple drugs",
+          "type": "MapType.APPROX",
+          "covered_text": "Vancomycin Resistant Enterococcus"
+        },
+        {
+          "begin": 7717,
+          "end": 7725,
+          "code": "293.0",
+          "code_system": "ICD-9-CM",
+          "description": "Delirium due to conditions classified elsewhere",
+          "type": "Human",
+          "covered_text": "Delerium"
+        },
+        {
+          "begin": 7964,
+          "end": 7983,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 8247,
+          "end": 8270,
+          "code": "600.01",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "Human",
+          "covered_text": "BPH/Urinary Obstruction"
+        },
+        {
+          "begin": 8924,
+          "end": 8928,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 8977,
+          "end": 8994,
+          "code": "280.9",
+          "code_system": "ICD-9-CM",
+          "description": "Iron deficiency anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Microcytic Anemia"
+        },
+        {
+          "begin": 10156,
+          "end": 10188,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "health-care associated pneumonia"
+        },
+        {
+          "begin": 10200,
+          "end": 10230,
+          "code": "349.82",
+          "code_system": "ICD-9-CM",
+          "description": "Toxic encephalopathy",
+          "type": "MapType.MULTI",
+          "covered_text": "toxic/metabolic encephalopathy"
+        },
+        {
+          "begin": 10231,
+          "end": 10250,
+          "code": "593.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other ureteric obstruction",
+          "type": "MapType.APPROX",
+          "covered_text": "urinary obstruction"
+        },
+        {
+          "begin": 10253,
+          "end": 10261,
+          "code": "294.10",
+          "code_system": "ICD-9-CM",
+          "description": "Dementia in conditions classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 10269,
+          "end": 10288,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial fibrillation"
+        },
+        {
+          "begin": 10669,
+          "end": 10678,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "pneumonia"
+        },
+        {
+          "begin": 10857,
+          "end": 10873,
+          "code": "790.92",
+          "code_system": "ICD-9-CM",
+          "description": "Abnormal coagulation profile",
+          "type": "MapType.EXACT",
+          "covered_text": "INR was elevated"
+        }
+      ],
+      "text": "Admission Date:  [**2161-5-16**]              Discharge Date:   [**2161-5-23**]\n\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 8961**]\nChief Complaint:\nrespiratory failure and septic shock\n\nMajor Surgical or Invasive Procedure:\ncentral venous catheter placement\n\n\nHistory of Present Illness:\n88 y/o Russian male with Alzheimer's dementia, remote latent TB\ntreated w/rifampin and pyrazadine in [**2153**], AF on coumadin, HTN\nsent in from [**Hospital 100**] Rehab for dyspnea, fever, and hypoxia. On\nthe day prior to presentation ([**2161-5-15**]) he was noted to be tired\nand weak, and he fell. He has not complained of respiratory\nsymtpoms. Overnight at 0100 he dropped to below 90% and placed\non 2LNC. He had respiratory distress, was given nebulizer and\ntylenol without improvement. Later, his O2 sat dropped to 70 on\n2L, and he was switched to NRB with 15L, then 96%. Temp was\n99.6, given albuterol, but respirations increased to 37. Two\nother people were ruled out for flu on the floor. Urine\nlegionella is pending.\n.\nIn the ED, initial VS - 101, 125 (AF), 148/70, 32, 94% 15L NRB.\nExam notable for tachypnea, 94% on NRB, diffuse rhonchi. Labs\nnotable for lactate 5.8, Cr 1.1, bicarb 19, wbc 10.3 (29%\nbands), INR 2.2. Bcx pending. CXR showing right sided pneumonia.\nEKG showing ST 125, LAD, first degree AV delay, no ischemic\nchanges. Patient was given vancomycin, zosyn, combivent x 3,\ntylenol. Only received 1L IVF. His vitals on transfer - 96 on\n10L, RR 27, and his access was 1 PIV.\n.\nOn the unit, he was tachypneic, but appeared comfortable and\ndenied any symptoms. He had a few episodes of relative\nhypotension to the 80s-90s systolic. His oxygenation improved to\nlow-mid 90s on 5L. His lactate rose to 9. He was given 2L of LR\nand his lactate trended down to 6. A second IV was placed and he\nwas started on vancomycin, cefepime, and levofloxacin.\n\n\nPast Medical History:\n- COPD (unclear history, always a nonsmoker)\n- HTN (active)\n- AF on coumadin (active)\n- colon cancer [**2152**] (inactive)\n- dementia (AO x 1 at baseline)\n- history of TB, found to have 10mm PPD in [**2153**], had a negative\nCXR so treated in [**2153**] for 9 months for latent TB. CXR repeat in\n[**2156**] looked increased density at the bases\n- BPH (active)\n- GERD (active)\n\nSocial History:\nlives at [**Hospital 100**] Rehab\n\nFamily History:\nNo family history of TB.\n\nPhysical Exam:\nOn Admission:\nGEN: pleasantly demented, AOx2 (knew he was in a hospital)\ncomfortable but tachypneic, NAD, pulling at lines\nHEENT: PERRL, anicteric, MMM, no jvd,\nRESP: Right basilar rales and reduced breath sounds, otherwise\nclear. No wheezes.\nCV: RR, S1 and S2 wnl, no m/r/g\nABD: nd, +b/s, soft, nt, no masses or hepatosplenomegaly\nEXT: no c/c/e\nSKIN: no rashes/no jaundice/no splinters\nNEURO: AAOx2. [**4-7**] symmetric strength throughout upper and lower\nextremities. No pronator drift., downgoing toes,\n1+DTR's-patellar and biceps.\n.\nOn Discharge:\nGEN: alert, comfortable, no increased work of breathing\nHEENT: sclera anicteric. MMM\nCards: RRR S1/S2 heard. no murmurs/gallops/rubs.\nPulm: limited by cooperation. bibasilar rales\nAbd: +BS, soft, NT, ND\nGU: + foley\nExtremities: warm, +SCDs\nNeuro/Psych: face symmetric, moves all extremites\n\nPertinent Results:\nAdmission:\n[**2161-5-16**] 06:00AM BLOOD WBC-10.3 RBC-5.53 Hgb-14.2 Hct-43.4\nMCV-79* MCH-25.6* MCHC-32.6 RDW-14.8 Plt Ct-177\n[**2161-5-16**] 06:00AM BLOOD Neuts-62 Bands-29* Lymphs-5* Monos-1*\nEos-0 Baso-0 Atyps-0 Metas-3* Myelos-0\n[**2161-5-16**] 06:00AM BLOOD PT-23.7* PTT-36.7* INR(PT)-2.2*\n[**2161-5-16**] 06:00AM BLOOD Glucose-172* UreaN-27* Creat-1.1 Na-140\nK-5.0 Cl-104 HCO3-19* AnGap-22*\n[**2161-5-16**] 06:00AM BLOOD cTropnT-0.01 proBNP-1255*\n[**2161-5-17**] 04:25AM BLOOD Calcium-7.6* Phos-1.8* Mg-1.4*\n.\nDischarge:\n[**2161-5-23**] 06:00AM BLOOD WBC-11.4* RBC-4.95 Hgb-12.4* Hct-38.5*\nMCV-78* MCH-25.1* MCHC-32.3 RDW-15.5 Plt Ct-367\n[**2161-5-23**] 06:00AM BLOOD PT-30.3* PTT-34.4 INR(PT)-3.0*\n[**2161-5-23**] 06:00AM BLOOD Glucose-112* UreaN-21* Creat-1.2 Na-146*\nK-3.5 Cl-105 HCO3-27 AnGap-18\n[**2161-5-23**] 06:00AM BLOOD Calcium-8.8 Phos-2.3* Mg-2.3\n.\n[**2161-5-17**] 10:08 am SPUTUM      Source: Endotracheal.\nGRAM STAIN (Final [**2161-5-17**]):\n      >25 PMNs and <10 epithelial cells/100X field.\n      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.\n                                    SINGLY IN PAIRS.\n   RESPIRATORY CULTURE (Final [**2161-5-19**]):\n      Commensal Respiratory Flora Absent.\n      YEAST.    SPARSE GROWTH.\n\n   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED.\n.\n[**2161-5-19**] 1:55 pm BLOOD CULTURE      Source: Line-Rt CVL.\nBlood Culture, Routine (Preliminary): ENTEROCOCCUS\n\n_________________________________________________________\n                             ENTEROCOCCUS SP.\n                             |\nAMPICILLIN------------       R\nLEVOFLOXACIN----------       R\nVANCOMYCIN------------       R\n\n   Anaerobic Bottle Gram Stain (Final [**2161-5-20**]):\n      GRAM POSITIVE COCCI IN CHAINS.\n.\n[**2161-5-20**] 3:07 pm CATHETER TIP-IV      Source: Rt IJ.\n**FINAL REPORT [**2161-5-22**]**\nWOUND CULTURE (Final [**2161-5-22**]):    No significant growth.\n.\n5 sets of blood cultures pending, all no growth to date\n\nBrief Hospital Course:\n88 year-old Russian-speaking M with Dementia, suspected COPD,\nAFib on Coumadin, HTN who presented with dyspnea, hypoxia, and\nfever, s/p MICU course for treatment of respiratory failure and\nseptic shock likely secondary to healthcare-associate pneumonia,\ntransferred to the Medicine floor for continued management,\nwhich was complicated by delerium and subsequent uretheral\ninjury from self-discontinuation of foley placement. Also found\nto have VRE bacteremia for which he was started on 14 days of\nLinezolid.\n.\n# Acute respiratory distress/Healthcare Associated Pneumonia:\nPresentation with dyspnea, fever, bandemia, hypoxia, and CXR\nfindings all consistent with acute pneumonia. Given his\nresidence at [**Hospital 100**] Rehab, he was started on Vancomycin,\nCefepime, and Levofloxacin. TB felt unlikely given the rapid\nacuity of symptoms and lack of other more subacute\nconstitutional symptoms. Moreover, patient had documented\nadequate treatment of latent TB (with negative CXR) in [**2153**].\nAdditional processes, such as pulmonary embolism, seemed\nunlikely given his therapeutic INR. Patient was treated with\nBipap and appeared to improve, but on hospital day #2, he was\ntachypneic to the 30s, somnolent and working very hard to breath\nso he was intubated and placed on ARDS net ventilation. Once\nstable he was 12L positive and diuresis with IV Lasix was\ninitiated. He responded well to Lasix 20mg IV and was extubated\non [**5-19**] without complication. Diuresis was continued until his\nvolume status was optimized. An echocardiogram showed normal\nsystolic function. He completed a 7 day course of broad\nantibiotics.\n.\n# Severe sepsis: Patient presented with pneumosepsis and\nelevated lactate up to 9.  His lactate trended down to 2 after\n6L IVF in the ED.  His pressures maintained MAP >60 until the\npatient was intubated when he became hypotensive.  A central\nline was placed and he was started on Levophed. He was given\nbolus fluids for CVP <10 and weaned off pressors. He was put on\nVanc/Levo/Cef for presumed HAP. He did have BCx positive for\nGPCs after resolution of sepsis, which were ultimately speciated\nto VRE (Vancomycin Resistant Enterococcus). His central venous\ncatheter was removed. He was started on a 14 days course of PO\nLinezolid 600 mg twice daily, which should continue until\n[**2161-6-3**]. Surveillence blood cultures have shown no growth to\ndate. These are still pending and should be followed up on.\n.\n# Delerium: Likely secondary to toxic/metabolic encephalopathy\nfrom infection in a patient with underlying dementia. We\nattempted to minimize unecessary lines and tubes, provide\nfrequent orientation, and avoid aggravating\nmedications/sedatives.\n.\n# Atrial fibrillation: Rate controlled without medications. On\nCoumadin for anticoagulation. His INR was elevated at 3 (likely\nsecondary to antibiotics and poor nutrition), so Coumadin has\nbeen held at discharge. His INR should be monitored and Coumadin\nre-started once necessary.\n.\n# BPH/Urinary Obstruction: Tamsulosin held on admission during\nsevere sepsis, but re-started upon transfer to the floor. The\npatient self-discontinued his foley and had subsequent traumatic\ninjury resulting in blood clots that would cause painful\nobstruction. A foley was placed and will need to remain until he\nis healed and a voiding trial can be attempted. Frequent\nirrigation should be provided to prevent blood clots.\n.\n# [**Last Name (un) **]: Mild, but eGFR of 40 on admission with elevated BUN.\nCreatinine improved from 1.1 to 0.8 after IVF resuscitation in\nthe MICU, but increased after diuresis. 1.2 at discharge, which\nshould be monitored in the future.\n.\n# Suspected COPD: Patient continued on nebulizer treatement.\n.\n# Microcytic Anemia: Remained relatively stable throughout the\nadmission. He required no blood products.\n\nMedications on Admission:\n- warfarin 3 mg daily\n- aspirin 325 mg daily\n- flomax 0.4 mg daily\n- senna 17.2mg PO HS\n- trazodone 12.5mg PO HS\n- albuterol nebs 0.083%\n- tylenol 650mg PO PRN pain\n\nDischarge Medications:\n1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n2. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)\nCapsule, Ext Release 24 hr PO HS (at bedtime).\n3. senna 8.8 mg/5 mL Syrup Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n4. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2\ntimes a day).\n5. acetaminophen 650 mg/20.3 mL Solution Sig: Six [**Age over 90 1230**]y\n(650) mg PO Q6H (every 6 hours) as needed for Pain.\n6. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1) nebulizer Inhalation Q4H (every 4\nhours) as needed for shortness of breath, wheezing.\n7. linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 12\nhours) for 11 days: last day [**2161-6-3**].\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 459**] for the Aged - LTC\n\nDischarge Diagnosis:\nhealth-care associated pneumonia\nbacteremia\ntoxic/metabolic encephalopathy\nurinary obstruction\n.\ndementia\nanemia\natrial fibrillation\n\n\nDischarge Condition:\nMental Status: Confused - always.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nDear Mr. [**Known lastname 55195**],\n\nYou were initially admitted to the intensive care unit (ICU) for\ntreatment of your difficulty breathing, which was likely\nsecondary to a pneumonia. You were given medications and you\nimproved. You were also found to have a bacteria in your blood,\nfor which you will continue to take an antibiotic for after\ndischarge.\n.\nYour INR was elevated from the antibiotics you are receiving.\nToday the level was 3. We are holding your Coumadin (3 mg\ndaily), but this will need to be re-started once the level\nfalls.\n.\nAdditionally, when you were confused you pulled out your foley,\nwhich caused an injury and subsequent blood clots. You will be\ndischarged with the foley, which will be removed once you heal.\n.\n-Please START Linezolid 600 mg by mouth twice daily for a total\nof 14 days (last day [**2161-6-3**])\n-Please HOLD Coumadin for now until labwork shows INR falls\nbelow 2.5\n\nFollowup Instructions:\nA physician at your facility will be taking care of your needs.\n\n\n                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 8965**]\n\n"
+    }
+  ]
+}

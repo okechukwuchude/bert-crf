@@ -1,0 +1,864 @@
+{
+  "hadm_id": 126677,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 250192,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 6,
+          "end": 17,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 78,
+          "end": 99,
+          "code": "I21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute myocardial infarction, unspecified",
+          "type": "Human",
+          "covered_text": "myocardial infarction"
+        },
+        {
+          "begin": 181,
+          "end": 203,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "ST segment depressions"
+        }
+      ],
+      "text": "Sinus tachycardia.  Intraventricular conduction delay.  Possible old anterior\nmyocardial infarction.  Possible old inferior myocardial infarction.  Compared\nto the previous tracing ST segment depressions in leads V5-V6 have mostly\nresolved.\nTRACING #3\n\n"
+    },
+    {
+      "note_id": 91685,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 38,
+          "end": 61,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 63,
+          "end": 66,
+          "code": "I73.9",
+          "code_system": "ICD-10-CM",
+          "description": "Peripheral vascular disease, unspecified",
+          "type": "Human",
+          "covered_text": "PVD"
+        },
+        {
+          "begin": 68,
+          "end": 70,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 246,
+          "end": 258,
+          "code": "93306",
+          "code_system": "CPT",
+          "description": "Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, complete, with spectral Doppler echocardiography, and with color flow Doppler echocardiography",
+          "type": "Human",
+          "covered_text": "Full Doppler"
+        },
+        {
+          "begin": 363,
+          "end": 383,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "Mild LA enlargement."
+        },
+        {
+          "begin": 1043,
+          "end": 1055,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 1155,
+          "end": 1184,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "left atrium is mildly dilated"
+        },
+        {
+          "begin": 1945,
+          "end": 1973,
+          "code": "I34.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic mitral (valve) insufficiency",
+          "type": "Human",
+          "covered_text": "Trivial mitral regurgitation"
+        },
+        {
+          "begin": 2074,
+          "end": 2086,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: Coronary artery disease. PVD. DM\nHeight: (in) 72\nWeight (lb): 155\nBSA (m2): 1.91 m2\nBP (mm Hg): 91/66\nHR (bpm): 101\nStatus: Inpatient\nDate/Time: [**2158-8-5**] at 10:46\nTest: Portable TTE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Adequate\n\n\nINTERPRETATION:\n\nFindings:\n\nLEFT ATRIUM: Mild LA enlargement.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. Normal interatrial septum.\nNo ASD by 2D or color Doppler.\n\nLEFT VENTRICLE: Mild symmetric LVH. Mildly dilated LV cavity. Severely\ndepressed LVEF. No LV mass/thrombus. No resting LVOT gradient. No VSD.\n\nRIGHT VENTRICLE: Dilated RV cavity. Severe global RV free wall hypokinesis.\n\nAORTA: Normal diameter of aorta at the sinus, ascending and arch levels.\n\nAORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. No AR.\n\nMITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. No MS. Trivial\nMR.\n\nTRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. No TS. Mild [1+]\nTR. Mild PA systolic hypertension.\n\nPULMONIC VALVE/PULMONARY ARTERY: No PS.\n\nPERICARDIUM: No pericardial effusion.\n\nConclusions:\nThe left atrium is mildly dilated. No atrial septal defect is seen by 2D or\ncolor Doppler. There is mild symmetric left ventricular hypertrophy. The left\nventricular cavity is mildly dilated. Overall left ventricular systolic\nfunction is severely depressed (LVEF= 15-20 %) with global hypokinesis and\ndistal LV/apical akinesis to dyskinesis. No masses or thrombi are seen in the\nleft ventricle. There is no ventricular septal defect. The right ventricular\ncavity is dilated with severe global free wall hypokinesis. The diameters of\naorta at the sinus, ascending and arch levels are normal. The aortic valve\nleaflets (3) are mildly thickened but aortic stenosis is not present. No\naortic regurgitation is seen. The mitral valve leaflets are mildly thickened.\nThere is no mitral valve prolapse. Trivial mitral regurgitation is seen. The\ntricuspid valve leaflets are mildly thickened. There is mild pulmonary artery\nsystolic hypertension. There is no pericardial effusion.\n\n\n"
+    },
+    {
+      "note_id": 250193,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 6,
+          "end": 17,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 36,
+          "end": 62,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "previous tracing no change"
+        }
+      ],
+      "text": "Sinus tachycardia.  Compared to the previous tracing no change.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 250194,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 6,
+          "end": 17,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 42,
+          "end": 63,
+          "code": "I21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute myocardial infarction, unspecified",
+          "type": "Human",
+          "covered_text": "myocardial infarction"
+        },
+        {
+          "begin": 79,
+          "end": 96,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "ST-T wave changes"
+        }
+      ],
+      "text": "Sinus tachycardia.  Possible old anterior myocardial infarction.  Non-specific\nST-T wave changes are suggested but baseline artifact makes it difficult for\ninterpretation.  No previous tracing available for comparison.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 1201619,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 34,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST PORT"
+        },
+        {
+          "begin": 140,
+          "end": 154,
+          "code": "Z45.2",
+          "code_system": "ICD-10-CM",
+          "description": "Encounter for adjustment and management of vascular access device",
+          "type": "Human",
+          "covered_text": "Line Placement"
+        },
+        {
+          "begin": 400,
+          "end": 414,
+          "code": "Z45.2",
+          "code_system": "ICD-10-CM",
+          "description": "Encounter for adjustment and management of vascular access device",
+          "type": "Human",
+          "covered_text": "Line Placement"
+        },
+        {
+          "begin": 604,
+          "end": 638,
+          "code": "S22.43XA",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple fractures of ribs, bilateral, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "Multiple\n  bilateral rib fractures"
+        },
+        {
+          "begin": 1002,
+          "end": 1034,
+          "code": "S22.43XA",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple fractures of ribs, bilateral, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "multiple bilateral rib fractures"
+        }
+      ],
+      "text": "[**2158-8-4**] 6:21 PM\n CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 24462**]\n Reason: Line Placement\n Admitting Diagnosis: CARDIOGENIC SHOCK/MI\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  57 year old man with left sub-clavian certral line\n REASON FOR THIS EXAMINATION:\n  Line Placement\n ______________________________________________________________________________\n WET READ: SPfc FRI [**2158-8-4**] 9:03 PM\n  No pneumothorax.  Low lung volumes.  Dense left basal opacity.  Multiple\n  bilateral rib fractures\n ______________________________________________________________________________\n                                 FINAL REPORT\n PORTABLE CHEST\n\n HISTORY:  Left central line placement.\n\n COMPARISONS:  None.\n\n FINDINGS:  Central catheter projects over the lower superior vena cava.  Lung\n volumes are quite low, making evaluation of the lungs difficult.  There are\n multiple bilateral rib fractures.  I see no pneumothorax.\n\n\n"
+    },
+    {
+      "note_id": 250189,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 19,
+          "code": "I48.20",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic atrial fibrillation, unspecified",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 31,
+          "end": 51,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "ventricular response"
+        },
+        {
+          "begin": 113,
+          "end": 135,
+          "code": "I12.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "myocardial infarctions"
+        }
+      ],
+      "text": "Atrial fibrillation with rapid ventricular response. Low limb lead voltage.\nProbable prior anterior and inferior myocardial infarctions. Compared to the\nprevious tracing of [**2158-8-7**] atrial fibrillation with a rapid ventricular\nresponse has appeared. Otherwise, no diagnostic interim change.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 250187,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 19,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Normal sinus rhythm"
+        },
+        {
+          "begin": 116,
+          "end": 137,
+          "code": "I21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute myocardial infarction, unspecified",
+          "type": "Human",
+          "covered_text": "myocardial infarction"
+        }
+      ],
+      "text": "Normal sinus rhythm. Intraventricular conduction defect. Q waves in\nleads V1-V3 consistent with prior anterior wall myocardial infarction. Low limb\nlead voltage. Compared to the previous tracing of [**2158-8-7**] no diagnostic interim\nchange.\n\n"
+    },
+    {
+      "note_id": 41817,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 275,
+          "end": 280,
+          "code": "I21.3",
+          "code_system": "ICD-10-CM",
+          "description": "ST elevation (STEMI) myocardial infarction of unspecified site",
+          "type": "Human",
+          "covered_text": "STEMI"
+        },
+        {
+          "begin": 286,
+          "end": 303,
+          "code": "R57.0",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiogenic shock",
+          "type": "Human",
+          "covered_text": "cardiogenic shock"
+        },
+        {
+          "begin": 463,
+          "end": 477,
+          "code": "Z45.2",
+          "code_system": "ICD-10-CM",
+          "description": "Encounter for adjustment and management of vascular access device",
+          "type": "Human",
+          "covered_text": "PICC placement"
+        },
+        {
+          "begin": 565,
+          "end": 569,
+          "code": "N18.6",
+          "code_system": "ICD-10-CM",
+          "description": "End stage renal disease",
+          "type": "Human",
+          "covered_text": "ESRD"
+        },
+        {
+          "begin": 570,
+          "end": 575,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "on HD"
+        },
+        {
+          "begin": 907,
+          "end": 910,
+          "code": "R06.02",
+          "code_system": "ICD-10-CM",
+          "description": "Shortness of breath",
+          "type": "Human",
+          "covered_text": "SOB"
+        },
+        {
+          "begin": 979,
+          "end": 984,
+          "code": "I21.3",
+          "code_system": "ICD-10-CM",
+          "description": "ST elevation (STEMI) myocardial infarction of unspecified site",
+          "type": "Human",
+          "covered_text": "STEMI"
+        },
+        {
+          "begin": 1026,
+          "end": 1046,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "three vessel disease"
+        },
+        {
+          "begin": 1185,
+          "end": 1204,
+          "code": "J96.90",
+          "code_system": "ICD-10-CM",
+          "description": "Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia",
+          "type": "Human",
+          "covered_text": "respiratory\nfailure"
+        },
+        {
+          "begin": 1501,
+          "end": 1513,
+          "code": "H91.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified hearing loss, unspecified ear",
+          "type": "Human",
+          "covered_text": "hearing\nloss"
+        },
+        {
+          "begin": 2359,
+          "end": 2372,
+          "code": "M86.9",
+          "code_system": "ICD-10-CM",
+          "description": "Osteomyelitis, unspecified",
+          "type": "Human",
+          "covered_text": "Osteomyelitis"
+        },
+        {
+          "begin": 2401,
+          "end": 2411,
+          "code": "G82.20",
+          "code_system": "ICD-10-CM",
+          "description": "Paraplegia, unspecified",
+          "type": "Human",
+          "covered_text": "paraplegia"
+        },
+        {
+          "begin": 2414,
+          "end": 2433,
+          "code": "E21.3",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperparathyroidism, unspecified",
+          "type": "Human",
+          "covered_text": "Hyperparathyroidism"
+        },
+        {
+          "begin": 2436,
+          "end": 2444,
+          "code": "Z89.512",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of left leg below knee",
+          "type": "Human",
+          "covered_text": "Left BKA"
+        },
+        {
+          "begin": 2458,
+          "end": 2466,
+          "code": "T87.54",
+          "code_system": "ICD-10-CM",
+          "description": "Necrosis of amputation stump, left lower extremity",
+          "type": "Human",
+          "covered_text": "gangrene"
+        },
+        {
+          "begin": 2469,
+          "end": 2486,
+          "code": "M25.111",
+          "code_system": "ICD-10-CM",
+          "description": "Fistula, right shoulder",
+          "type": "Human",
+          "covered_text": "Right arm fistula"
+        },
+        {
+          "begin": 4392,
+          "end": 4404,
+          "code": "B95.62",
+          "code_system": "ICD-10-CM",
+          "description": "Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "STAPH AUREUS"
+        },
+        {
+          "begin": 5397,
+          "end": 5416,
+          "code": "B96.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified bacterial agents as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "GRAM POSITIVE COCCI"
+        },
+        {
+          "begin": 5614,
+          "end": 5646,
+          "code": "S22.43XA",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple fractures of ribs, bilateral, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "multiple bilateral rib fractures"
+        },
+        {
+          "begin": 5696,
+          "end": 5725,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "left atrium is mildly dilated"
+        },
+        {
+          "begin": 6486,
+          "end": 6514,
+          "code": "I34.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic mitral (valve) insufficiency",
+          "type": "Human",
+          "covered_text": "Trivial mitral regurgitation"
+        },
+        {
+          "begin": 6615,
+          "end": 6627,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 6724,
+          "end": 6744,
+          "code": "L89.609",
+          "code_system": "ICD-10-CM",
+          "description": "Pressure ulcer of unspecified heel, unspecified stage",
+          "type": "Human",
+          "covered_text": "calcaneal tuberosity"
+        },
+        {
+          "begin": 6947,
+          "end": 6950,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 6952,
+          "end": 6954,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 6956,
+          "end": 6959,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 6969,
+          "end": 6973,
+          "code": "I12.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "ESRD"
+        },
+        {
+          "begin": 6977,
+          "end": 6979,
+          "code": "E11.22",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with diabetic chronic kidney disease",
+          "type": "Human",
+          "covered_text": "HD"
+        },
+        {
+          "begin": 7083,
+          "end": 7100,
+          "code": "R57.0",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiogenic shock",
+          "type": "Human",
+          "covered_text": "Cardiogenic Shock"
+        },
+        {
+          "begin": 7459,
+          "end": 7462,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 8318,
+          "end": 8322,
+          "code": "A49.01",
+          "code_system": "ICD-10-CM",
+          "description": "Methicillin susceptible Staphylococcus aureus infection, unspecified site",
+          "type": "Human",
+          "covered_text": "MSSA"
+        },
+        {
+          "begin": 8690,
+          "end": 8709,
+          "code": "I48.20",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic atrial fibrillation, unspecified",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 10576,
+          "end": 10597,
+          "code": "I21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute myocardial infarction, unspecified",
+          "type": "Human",
+          "covered_text": "myocardial infarction"
+        },
+        {
+          "begin": 14329,
+          "end": 14346,
+          "code": "R57.0",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiogenic shock",
+          "type": "Human",
+          "covered_text": "Cardiogenic shock"
+        },
+        {
+          "begin": 14351,
+          "end": 14375,
+          "code": "I25.82",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic total occlusion of coronary artery",
+          "type": "Human",
+          "covered_text": "Left circumflex stenosis"
+        },
+        {
+          "begin": 15434,
+          "end": 15446,
+          "code": "B95.62",
+          "code_system": "ICD-10-CM",
+          "description": "Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "Staph Aureus"
+        }
+      ],
+      "text": "Admission Date:  [**2158-8-4**]              Discharge Date:   [**2158-8-11**]\n\nDate of Birth:  [**2100-8-8**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nCephalosporins / Penicillins / Iodine / clindamycin\n\nAttending:[**First Name3 (LF) 1711**]\nChief Complaint:\nS/P STEMI with cardiogenic shock\n\nMajor Surgical or Invasive Procedure:\nCardiac catheterization with percutaneous coronary\nrevascularization of left circumflex artery with drug eluding\nstent\n\nPICC placement\n\n\nHistory of Present Illness:\nMr. [**Known lastname 13512**] is a 57 year-old man with ESRD on HD who presented\nto [**Hospital3 **] on [**2158-8-1**] with an inferior STEMI now s/p\nRCA PCI being transfered for further care.  Patient was\nscheduled to have an outpatient stress test the day prior to\nadmission, but was unbale to participate in the study and\nreturned to his nursing home.  Later the same evening he\ndeveloped acute SOB and was take to [**Hospital3 **] where he\nwas found to be having an STEMI. Cardiac catheterization\nrevealed severe three vessel disease with 100% occluded LAD, 90%\nLCx lesion and severe RCA disease requiring BMS x3. He required\nintubation during cardiac catheterization for respiratory\nfailure and subsequently required pressor support with\nperipheral dopamine for cardiogenic shock. He is now extubated\nbut continues to require dopamine to maintain a SBP in the\n80s-90s.\n.\n On arrival his vital signs were HR 114 with BP 94/71. He is\nbreathing comfortably and has no complaints other than hearing\nloss. In particular, he denies chest and jaw pain.\n.\nOn review of systems, he denies any prior history of stroke,\nTIA, deep venous thrombosis, pulmonary embolism, bleeding at the\ntime of surgery, myalgias, joint pains, cough, hemoptysis, black\nstools or red stools. He denies recent fevers, chills or rigors.\nHe denies exertional buttock or calf pain. All of the other\nreview of systems were negative.\n.\nCardiac review of systems is notable for absence of chest pain,\ndyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,\nankle edema, palpitations, syncope or presyncope.\n\nPast Medical History:\n1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension,\nPVD\n2. CARDIAC HISTORY:\n- PERCUTANEOUS CORONARY INTERVENTIONS:  [**2158-8-1**] BMS to RCA x 3\n3. OTHER PAST MEDICAL HISTORY:\n- ESRD [**2-1**] to diabetic nephropathy on HD x7yrs MWF\n- Osteomyelitis of the spine with resultant paraplegia\n- Hyperparathyroidism\n- Left BKA [**2-1**] to gangrene\n- Right arm fistula\n\n\nSocial History:\nSingle Male. Has been on disability in his left BKA. Lives in a\nnursing home.\n- Tobacco history:  Denies\n- ETOH:  Denies\n- Illicit drugs:  Denies\n\nFamily History:\n- No family history of early MI, arrhythmia, cardiomyopathies,\nor sudden cardiac death; otherwise non-contributory.\n- Significant for diabetes\n\nPhysical Exam:\nAdmission Exam:\nGENERAL: Profoundly hard of hearing. NAD. Oriented x3. Mood,\naffect appropriate.\nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were\npink, no pallor or cyanosis of the oral mucosa. No xanthalesma.\n\nNECK: Supple with JVP of 9 cm.\nCARDIAC:  Regular rhythm, soft S1 and S2. No m/r/g appreciated\nLUNGS: Pronounced leftward chest deformity of unknown\nchronicity. symmetric air movement bilaterally. End expiratory\ncrackles on exam, no wheezes or rhonchi.\nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not\nenlarged by palpation. No abdominial bruits.\nEXTREMITIES: L BKA, No femoral bruits. right heel ulcer 2x4cm\nwith scant exudate and exposed bone and fat\nPULSES:\nRight: Carotid 2+ Femoral 2+ doplerable DP pulse\nLeft: Carotid 2+ Femoral 2+\n\nDischarge exam:\n\nPertinent Results:\nAdmisson Labs:\n[**2158-8-4**] 09:16PM   WBC-8.3 RBC-3.35* HGB-10.7* HCT-33.4*\nMCV-100* MCH-32.0 MCHC-32.2 RDW-14.0\n[**2158-8-4**] 09:16PM   PLT COUNT-189\n[**2158-8-4**] 09:16PM   GLUCOSE-404* UREA N-30* CREAT-3.5* SODIUM-136\nPOTASSIUM-4.7 CHLORIDE-94* TOTAL CO2-24 ANION GAP-23*\n[**2158-8-4**] 09:16PM   CALCIUM-7.7* PHOSPHATE-4.8* MAGNESIUM-2.1\n[**2158-8-4**] 09:16PM   PT-15.0* PTT-30.6 INR(PT)-1.3*\n\nCardiac Enzymes:\n[**2158-8-4**] 09:16PM   CK(CPK)-146\n[**2158-8-4**] 09:16PM   CK-MB-9 cTropnT-13.7*\n[**2158-8-5**] 04:50AM BLOOD CK-MB-8 cTropnT-13.99*\n\nOther pertinent labs:\n[**2158-8-6**] 12:14PM BLOOD Lactate-2.4*\n\nStudies\nMicro:\n[**2158-8-5**] 4:50 am BLOOD CULTURE      Source: Line-central lumen\ncath.\n\n   Blood Culture, Routine (Preliminary):\n      STAPH AUREUS COAG +.\n         Consultations with ID are recommended for all blood\ncultures\n         positive for Staphylococcus aureus and [**Female First Name (un) 564**] species.\n\n         PRELIMINARY SENSITIVITY.\n         These preliminary susceptibility results are offered to\nhelp guide\n         treatment; interpret with caution as final\nsusceptibilities may\n         change. Check for final susceptibility results in 24\nhours.\n\n                              SENSITIVITIES: MIC expressed in\nMCG/ML\n\n_________________________________________________________\n                             STAPH AUREUS COAG +\n                             |\nOXACILLIN-------------       S\n\n   Aerobic Bottle Gram Stain (Final [**2158-8-5**]):\n      Reported to and read back by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 90823**] @ 2232 ON [**8-5**]\n-[**Numeric Identifier 28124**].\n      GRAM POSITIVE COCCI.\n      IN PAIRS AND CLUSTERS.\n\n   Anaerobic Bottle Gram Stain (Final [**2158-8-5**]):\n      GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS.\n\nImaging:\nCXR AP [**2158-8-4**]: Central catheter projects over the lower superior\nvena cava. Lung volumes are quite low, making evaluation of the\nlungs difficult. There are multiple bilateral rib fractures. I\nsee no pneumothorax.\n\nTTE [**2158-8-5**]: The left atrium is mildly dilated. No atrial septal\ndefect is seen by 2D or color Doppler. There is mild symmetric\nleft ventricular hypertrophy. The left ventricular cavity is\nmildly dilated. Overall left ventricular systolic function is\nseverely depressed (LVEF= 15-20 %) with global hypokinesis and\ndistal LV/apical akinesis to dyskinesis. No masses or thrombi\nare seen in the left ventricle. There is no ventricular septal\ndefect. The right ventricular cavity is dilated with severe\nglobal free wall hypokinesis. The diameters of aorta at the\nsinus, ascending and arch levels are normal. The aortic valve\nleaflets (3) are mildly thickened but aortic stenosis is not\npresent. No aortic regurgitation is seen. The mitral valve\nleaflets are mildly thickened. There is no mitral valve\nprolapse. Trivial mitral regurgitation is seen. The tricuspid\nvalve leaflets are mildly thickened. There is mild pulmonary\nartery systolic hypertension. There is no pericardial effusion.\n\n\nR foot X ray: [**2158-8-10**]\nLarge ulcer extending to the calcaneal tuberosity\nposteroinferiorly without gross cortical destruction. If the\nulcer probes the bone this would be highly suspicious for\nosteomyelitis.\n\n\nBrief Hospital Course:\nPrimary Reason for Hospitalization:\n57M w/ HTN, DM, HLD, PVD and ESRD on HD presented to OSH with\ninferior STEMI s/p PCI to RCA now transfered for further care.\n\nActive Issues:\n# Cardiogenic Shock: Patient required pressor support with\ndopamine following PCI at OSH and was transferred to [**Hospital1 18**] at a\ndose of 8mg/kg/min.  On HD6 patient was successfully weaned from\ndopamine and was maintaining a stable blood pressure.  He\nmaintained pressures through dialysis as well.  He was restarted\non his home anti-hypertensives prior to discharge.\n\n# CAD:  Patient did not have prior history of known CAD, but\nrecent TTE from [**5-/2158**] revealed anterolateral and apical defects\nconsistent with CAD. Patient presented on [**8-1**] with RCA infarct\nthat required BMS x3. Cardiac cath also revealed 90% LCx disease\nand completely occluded LAD that was presumed chronic. LV gram\nrevealed LVEF of 20%.  On HD3 patient was taken to the cath lab\nand had successful stenting of his left circumflex.  He was\ncontinued on plavix and aspirin throughout admission.\n\n# ESRD on HD: Patient receives chronic HD on MWF schedule.\nPatient's electrolytes were monitored closely throughout\nadmission.  Patient was dialyzed on his normal schedule and\npressures tolerated this without issue.  He refused many of his\nmedications throughout admission.\n\n#Bacteremia: Patient had one blood culture positive for gram\npositive cocci, MSSA.  He was treated with IV vancomycin given\npenicillin allergy.  Patient will be treated for 10 day course,\nlast day [**2158-8-15**].  A PICC line was placed for IV administration\nfollowing discharge.  Patient was afebrile and hemodynamically\nstable at the time of discharge.  He had two days of\nsurveillance cultures with no growth to date at the time of\ndischarge.\n\n#Atrial fibrillation: Patient had an episode of atrial\nfibrillation during his catheterization.  He was given\namiodarone, and spontaneously converted to sinus rhythm.  He\nagain had an episode of atrial fibrillation on HD5 and was\nstarted on an amiodarone drip.  He spontaneously converted into\nsinus rhythm again, later the same day.  He was started on oral\namiodarone with a goal loading dose of 8g.  At the time of\ndischarge, his dose was 300mg po BID.  He will continue this for\n11 days, ending [**2158-8-21**].  At that time, he should be\ntransitioned to amiodarone 200mg po daily.  Despite CHADS2 score\nof 3, patient was felt to be a poor candidate for\nanticoagulation given poor medication compliance and fall risk.\nPatient was in sinus rhythm and hemodynamically stable at the\ntime of discharge.\n\n# HTN: Patient was in cardiogenic shock at the time of\nadmission, therefore his home anti-hypertensives were held.\nSince BPs were still lowish at discharge norvasc was\ndiscontinued and valsartan was continued but at a much lower\ndose (40mg [**Hospital1 **]).\n\n# HLD: Patient is s/p STEMI. He was changed to 40mg po\natorvastatin daily as he is also on amiodarone, and therefore\nwas felt to not necessitate 80mg daily.\n\n# Right heel ulcer: Patient had a 2x4 cm ulcer on right heel\nconsistent with arterial insufficiency. Per report, this has\nbeen followed by vascular surgery as an outpatient.  Patient was\nevaluated by both vascular surgery and podiatry.  Both teams\nagreed that the ulcer was not actively infected, and therefore\nthere was no indication for antibiotics.  The ulcer was cleaned\ndaily with application of Santil ointment.  An xray of the heel\nwas performed showing an ulcer but no cortical destruction.  Per\nvascular surgery, the patient should have an ABI checked as an\noutpatient.\n\n# Bilateral hearing loss: Patient reported acute hearing deficit\ncoinciding with his myocardial infarction. No obstructive cause\nwas apparent on otoscopic examination. Hearing loss appeared to\nbe symmetric. He was not given otoxic drugs. Ischemia in the\nsetting of cardiogenic shock is also a possiblity. Symptoms were\nnot consistent with CVA causing hearing loss, as he had no\nassociated symptoms of nystagmus, nausea or dizziness as would\nbe expected.  Patient's hearing improved spontaneously.  He\nshould have ENT follow-up as an outpatient if he continues to\nhave further issues.\n\n# Compliance: Patient refused many medications throughout\nadmission, which made regulation of blood sugar and electrolytes\ndifficult.  He was made aware of the risks involved in refusing\neach medication.\n\nChronic Issues:\n# DM: Patient is on oral hypoglycemics and insulin at home.\nPatient's blood sugars were controlled throughout admission on a\ndiabetic diet and insulin sliding scale.\n\nTransitional Issues:\n- Patient maintained full code status throughout hospitalization\n- Patient will need ABIs performed as outpatient.  Dressing\nchanges daily to heel.  Will also need to follow-up with his\nvascular surgeon.\n- Follow-up with ENT if hearing issues persist\n-Follow- up with cardiology in approximately 2 weeks\n\n\nMedications on Admission:\nHOME MEDICATIONS:\n- Norvasc 10mg on non-HD days\n- Sensipar 120mg daily\n- Trazodone 50mg QHS\n- Zocor 20mg QPM\n- Diovan 160mg [**Hospital1 **]\n- DuoNeb Q4H PRN\n- Actos 30mg daily\n- Glipizide 5mg daily\n- PhosLo 3 tabs QAC\n- Reglan PRN\n- Atarax PRN\n.\nMEDICATIONS on TRANSFER:\n- Acetaminophen 650 Q6H PRN\n- Albuterol HFA 4 puff Q2H PRN\n- Aspirin 325 daily\n- Calcium Acetate 2001mg TIDQAC\n- Cinacalcet 120mg QHS\n- Plavix 75mg daily\n- Colace 100mg [**Hospital1 **]\n- Dopamine gtt\n- Epoetin 8000 unit IV QHD\n- Glipizide 5mg QAM\n- Heparin 5000 units SQ\n- Hydroxyzine 50mg Q6H PRN\n- Lidoderm Patch QD\n- Metoclopramide 10mg TIDQAC\n- Metoprolol 6.25 Q8H\n- Morphine 2mg Q5MIN\n- NTG 0.4mg SL\n- Zofran 4mg IV Q8H PRN\n- Pantoprazole 40mg QD\n- Simvastatin 10mg QHS\n- Trazodone 50mg QHS\n- Valsartan 160mg [**Hospital1 **]\n- Insulin Sliding Scale:\n201-250:3 units\n251-300:5 units\n301-350:7 units\n351-400:9 units\n>400: 11 units\n\nDischarge Medications:\n1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n2. DuoNeb 0.5 mg-3 mg(2.5 mg base)/3 mL Solution for\nNebulization Sig: One (1)  Inhalation q4h PRN SOB, wheezing.\n3. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n4. digoxin 125 mcg Tablet Sig: One (1) Tablet PO 1X/WEEK ([**Doctor First Name **]):\nlast dose given [**2158-8-6**], next dose [**2158-8-13**].\nDisp:*30 Tablet(s)* Refills:*2*\n5. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n6. metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QID (4\ntimes a day) as needed for nausea.\n7. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)\nas needed for sleep.\n8. amiodarone 200 mg Tablet Sig: 1.5 Tablets PO BID (2 times a\nday) for 11 days: Then change to 200 daily.\nDisp:*44 Tablet(s)* Refills:*2*\n9. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1)\nIntravenous HD PROTOCOL (HD Protochol) for 4 days: ending\n[**2158-8-15**].\nDisp:*4 units* Refills:*0*\n10. Norvasc 10 mg Tablet Sig: One (1) Tablet PO on non-HD days:\nhold for SBP<90, HR<60.\n11. Sensipar 60 mg Tablet Sig: Two (2) Tablet PO once a day.\n12. Diovan 40 mg Tablet Sig: One (1) Tablet PO twice a day: hold\nfor SBP<90, HR<60.\n13. glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day.\n14. Actos 30 mg Tablet Sig: One (1) Tablet PO once a day.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\nColonial Heights Care and Rehabilitation Center - [**Hospital1 487**]\n\nDischarge Diagnosis:\nPrimary Diagnosis:\n1.  Cardiogenic shock\n2.  Left circumflex stenosis\n\nSecondary Diagnosis:\n1.  Coronary artery disease\n2.  End stage renal disease\n3.  Diabetes mellitus type II\n4.  Peripheral vascular disease\n5.  Chronic right heel ulcer\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Out of Bed with assistance to chair or\nwheelchair.\n\n\nDischarge Instructions:\nDear Mr. [**Last Name (Titles) 90824**],\nIt was a pleasure taking care of you during your recent\nadmission to [**Hospital1 18**].  You were admitted to our hospital because\nfollowing heart your catheterization because you required IV\nmedications to maintain your blood pressure.  During this\nhospitalization, a previously noted blockage in your coronary\narteries was stented open.  After this, the IV medications were\nslowly weaned and your blood pressure was stable off of these\nmedications at the time of discharge.\n\nYou were dialyzed on your normal schedule throughout admission.\n\nIn addition, you had an infection in your blood stream. One of\nyour blood cultures grew a bacteria called Staph Aureus. We\ntreated this with an IV antibiotic (vancomycin) as you are\nallergic to penicillin.  You will need to continue this\nmedication through [**2158-8-15**].\n\nMedication changes:\nYou were continued on most of your home medications. But you\nshould STOP the following home medications:\n1. Norvasc\nThe following home medications had their doses changed:\n1. Diovan dose decreased from 160mg [**Hospital1 **] to 40 mg [**Hospital1 **]\nYou were started on the following NEW medications.  These\nmedications are very important.  Please be sure to take them\nevery day as prescribed.\n   1.  Plavix 75 mg by mouth once each day\n   2.  Aspirin 325 mg by mouth once each day\n   3.  Atorvastatin 40mg by mouth once each day\n   4.  Digoxin 0.125mg by mouth once a week, next dose [**2158-8-16**]\n   5.  Amiodarone 300mg by mouth twice each day for 11 days. On\n[**2158-8-23**] you will change this does to 200mg by mouth once each\nday and continue this indefinitely.\n   6.  Vancomycin IV with dialysis each time dialyzed, ending\n[**2158-8-15**]. After you finish this medication your PICC line can be\nsafely removed.\n\nWeigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more\nthan 3 lbs.\n\n\n"
+    },
+    {
+      "note_id": 250186,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 19,
+          "code": "I48.20",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic atrial fibrillation, unspecified",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 31,
+          "end": 51,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "ventricular response"
+        },
+        {
+          "begin": 73,
+          "end": 94,
+          "code": "I21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute myocardial infarction, unspecified",
+          "type": "Human",
+          "covered_text": "myocardial infarction"
+        }
+      ],
+      "text": "Atrial fibrillation with rapid ventricular response. Prior anterior wall\nmyocardial infarction. Low limb lead voltage. Compared to the previous\ntracing #1 atrial fibrillation is new. Clinical correlation is suggested.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 250188,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 14,
+          "end": 35,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Low limb lead voltage"
+        },
+        {
+          "begin": 65,
+          "end": 87,
+          "code": "I12.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "myocardial\ninfarctions"
+        }
+      ],
+      "text": "Sinus rhythm. Low limb lead voltage. Prior inferior and anterior myocardial\ninfarctions. Compared to the previous tracing of [**2158-8-7**] sinus rhythm has\nreappeared and the tracing is similar to that recorded on previous tracing\nof [**2158-8-7**]. No diagnostic interim change.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 1201961,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 34,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST PORT"
+        },
+        {
+          "begin": 398,
+          "end": 402,
+          "code": "Z45.2",
+          "code_system": "ICD-10-CM",
+          "description": "Encounter for adjustment and management of vascular access device",
+          "type": "Human",
+          "covered_text": "picc"
+        }
+      ],
+      "text": "[**2158-8-7**] 3:16 PM\n CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 23066**]\n Reason: l dl picc 45cm  [**Doctor First Name **]  iv [**Numeric Identifier 4241**]\n Admitting Diagnosis: CARDIOGENIC SHOCK/MI\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  57 year old man with picc\n REASON FOR THIS EXAMINATION:\n  l dl picc 45cm  [**Doctor First Name **]  iv [**Numeric Identifier 4241**]\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  57-year-old male with left PICC placement.\n\n EXAMINATION:  Single frontal chest radiograph.\n\n COMPARISONS:  [**2158-8-4**].\n\n FINDINGS:  A left approach PICC tip terminates within the right atrium and can\n be withdrawn by approximately 2 cm for more optimal positioning.  Low lung\n volumes accentuate normal pulmonary vasculature.  There is bibasilar left\n greater right opacification, likely atelectasis.  There are no pleural\n effusions or pneumothorax.  The cardiomediastinal and hilar contours are\n stable.  Heart is normal in size.  Chronic rib fractures are demonstrated\n bilaterally.\n\n IMPRESSION:  Left approach PICC terminating within the right atrium, it can be\n withdrawn 2 cm for more optimal positioning within the SVC.\n\n\n"
+    },
+    {
+      "note_id": 250191,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 26,
+          "end": 43,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "sinus tachycardia"
+        },
+        {
+          "begin": 167,
+          "end": 188,
+          "code": "I21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute myocardial infarction, unspecified",
+          "type": "Human",
+          "covered_text": "myocardial infarction"
+        }
+      ],
+      "text": "Sinus rhythm bordering on sinus tachycardia. Anterior wall myocardial\ninfarction of indeterminate age. Intraventricular conduction delay. Cannot\nexclude inferior wall myocardial infarction. Low QRS voltage in both limb and\nprecordial leads. Compared to the previous tracing of [**2158-8-6**] lateral ST segment\ndepressions are less prominent.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 250190,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 12,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Sinus rhythm"
+        },
+        {
+          "begin": 26,
+          "end": 49,
+          "code": "R94.31",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal electrocardiogram [ECG] [EKG]",
+          "type": "Human",
+          "covered_text": "tracing #1 the findings"
+        }
+      ],
+      "text": "Sinus rhythm. Compared to tracing #1 the findings are similar.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 1202412,
+      "category": "Radiology",
+      "description": "R FOOT AP,LAT & OBL RIGHT",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 37,
+          "code": "73630",
+          "code_system": "CPT",
+          "description": "Radiologic examination, foot; complete, minimum of 3 views",
+          "type": "Human",
+          "covered_text": "FOOT AP,LAT"
+        },
+        {
+          "begin": 353,
+          "end": 363,
+          "code": "L97.509",
+          "code_system": "ICD-10-CM",
+          "description": "Non-pressure chronic ulcer of other part of unspecified foot with unspecified severity",
+          "type": "Human",
+          "covered_text": "foot ulcer"
+        },
+        {
+          "begin": 643,
+          "end": 653,
+          "code": "L97.509",
+          "code_system": "ICD-10-CM",
+          "description": "Non-pressure chronic ulcer of other part of unspecified foot with unspecified severity",
+          "type": "Human",
+          "covered_text": "foot ulcer"
+        },
+        {
+          "begin": 670,
+          "end": 683,
+          "code": "M86.9",
+          "code_system": "ICD-10-CM",
+          "description": "Osteomyelitis, unspecified",
+          "type": "Human",
+          "covered_text": "osteomyelitis"
+        },
+        {
+          "begin": 804,
+          "end": 824,
+          "code": "L89.609",
+          "code_system": "ICD-10-CM",
+          "description": "Pressure ulcer of unspecified heel, unspecified stage",
+          "type": "Human",
+          "covered_text": "calcaneal tuberosity"
+        }
+      ],
+      "text": "[**2158-8-10**] 11:39 AM\n FOOT AP,LAT & OBL RIGHT                                         Clip # [**Clip Number (Radiology) 23067**]\n Reason: ? osteomyelitis\n Admitting Diagnosis: CARDIOGENIC SHOCK/MI\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  58 year old man with non healing foot ulcer\n REASON FOR THIS EXAMINATION:\n  ? osteomyelitis\n ______________________________________________________________________________\n                                 FINAL REPORT\n STUDY:  Right foot, three views, [**2158-8-10**].\n\n CLINICAL HISTORY:  58-year-old man with non-healing foot ulcer.  Evaluate for\n osteomyelitis.\n\n FINDINGS:  Comparison is made to the prior study from [**2158-8-10**].\n\n There is again seen a large ulcer along the calcaneal tuberosity\n posteroinferiorly.  Soft tissue gas is seen.  However, the cortical contours\n are preserved without obvious radiographic evidence for osteomyelitis.  Spurs\n about the calcaneus is stable.  Vascular calcifications are also seen.\n Generalized demineralization.  No acute fractures are present.\n\n IMPRESSION:\n\n Large ulcer extending to the calcaneal tuberosity posteroinferiorly without\n gross cortical destruction.  If the ulcer probes the bone this would be highly\n suspicious for osteomyelitis.\n\n\n"
+    },
+    {
+      "note_id": 250185,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 19,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "Normal sinus rhythm"
+        },
+        {
+          "begin": 94,
+          "end": 115,
+          "code": "I21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute myocardial infarction, unspecified",
+          "type": "Human",
+          "covered_text": "myocardial infarction"
+        }
+      ],
+      "text": "Normal sinus rhythm. Rightward axis. Intraventricular conduction delay.\nProbable old inferior myocardial infarction. Low voltage in the limb leads.\nCompared to the previous tracing of [**2158-8-9**] atrial fibrillation has been\nreplaced by sinus rhythm.\n\n"
+    }
+  ]
+}

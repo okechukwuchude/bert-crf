@@ -1,0 +1,122 @@
+{
+  "hadm_id": 159247,
+  "comment": "ERCP - Need OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 40344,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 568,
+          "end": 580,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "fibrillation"
+        },
+        {
+          "begin": 594,
+          "end": 617,
+          "code": "317",
+          "code_system": "ICD-9-CM",
+          "description": "Mild mental retardation",
+          "type": "Human",
+          "covered_text": "mild mental retardation"
+        },
+        {
+          "begin": 630,
+          "end": 641,
+          "code": "V12.54",
+          "code_system": "ICD-9-CM",
+          "description": "Transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "MapType.EXACT",
+          "covered_text": "of CVA with"
+        },
+        {
+          "begin": 647,
+          "end": 662,
+          "code": "438.22",
+          "code_system": "ICD-9-CM",
+          "description": "Hemiplegia affecting nondominant side as late effect of cerebrovascular disease",
+          "type": "MapType.APPROX",
+          "covered_text": "sided paralysis"
+        },
+        {
+          "begin": 2710,
+          "end": 2722,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 2723,
+          "end": 2733,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 2742,
+          "end": 2745,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 2870,
+          "end": 2900,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "Patient quit smoking years ago"
+        },
+        {
+          "begin": 2972,
+          "end": 2988,
+          "code": "V46.3",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "wheelchair bound"
+        },
+        {
+          "begin": 8648,
+          "end": 8671,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "Urinary tract infection"
+        },
+        {
+          "begin": 11684,
+          "end": 11721,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "Human",
+          "covered_text": "Hypoxic respiratory failure secondary"
+        },
+        {
+          "begin": 11725,
+          "end": 11756,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "healthcare-associated pneumonia"
+        }
+      ],
+      "text": "Admission Date:  [**2107-10-10**]              Discharge Date:   [**2107-10-15**]\n\nDate of Birth:  [**2043-9-10**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 5893**]\nChief Complaint:\nRespiratory distress\n\nMajor Surgical or Invasive Procedure:\nEndoscopic retrograde cholangiopancreatography\nEndotracheal intubation\nPeripherally inserted central catheter placement on [**10-14**]\n\n\nHistory of Present Illness:\nMs. [**Known lastname 9449**] is a 64yo F with history of atrial fibrillation on\nwarfarin, mild mental retardation and history of CVA with left\nsided paralysis who was transferred to [**Hospital1 18**] for urgent [**Hospital1 **] in\nsetting of elevated liver enzymes and concern for cholangitis.\nPatient was tachypneic to 20-30s while awaiting [**Hospital1 **] and\nintubated to protect her airway for the procedure.  She became\nhypoxic to 70s% during induction and remained intubated after\nthe procedure.\n\nPer records, patient presented to [**Hospital3 6592**] on [**10-5**] with\nepigastric pain.  She was found to have elevated LFTs (initially\nonly mildly elevated, see below for details) and had an\nabdominal ultrasound and CT which showed possible stones in the\ngallbladder without common bile duct dilation.  She also was\ndiagnosed with a UTI but had a negative urine culture.  While at\nthe OSH, she had a CXR on [**10-8**] that showed cardiomegaly without\npulmonary edema and questionable left lower lung atelectasis.\nShe also had a nuclear medicine cardiology scan with EF noted to\nbe 90% and \"technically it was not ideal\" but no evidence of\nischemia.  There is also an echo report that comments on normal\nEF, moderately dilated LA, evidence of ASD repair although \"not\nclear if patch is still intact or not\", moderate MR, moderate TR\nand RVSP is 51mmHg.  Patient received two doses of 5mg vitamin K\nthe day prior to transfer to [**Hospital1 18**]. She was transferred to [**Hospital1 18**]\nfor [**Hospital1 **] before a possible cholcystectomy.\n\nAt [**Hospital1 18**], she underwent [**Hospital1 **] with biliary stenting (no\nsphincteromy given INR 2.0) that was unremarkable without\nevidence of cholangitis or biliary obstruction.  She received\nceftriaxone 1g IV and ampicillin 2g IV during [**Hospital1 **].  Patient\nremained intubated after the procedure and was transferred to\nthe [**Hospital Unit Name 153**] for further management.  In the [**Hospital Unit Name 153**], she is intubated\nand sedated.  She squeezes right hand to command but does not\nsqueeze on left.  She does not open eyes to command.\n\nPast Medical History:\nMental retardation\nHistory of embolic CVA, now with left hemiplegia\nHypertension\nDepression\nChronic CHF of unknown etiology\nh/o alcohol abuse, sober since [**2091**]\ns/p ASD repair\n\nSocial History:\nShe lives in a nursing home.  Patient quit smoking years ago and\nquit drinking alcohol in [**2091**].  No illicit drug use.  She is\nwheelchair bound at home.\n\nFamily History:\nUnable to obtain.\n\nPhysical Exam:\nADMISSION:\nVS: 99.2 65 105/55 16 94%PSV FiO2 0.4\nGeneral: Intubated and sedated\nHEENT: Sclera anicteric, MMM, ET in mouth\nNeck: supple, JVP elevated to angle of mandible, no LAD\nLungs: Clear to auscultation bilaterally anteriorly with coarse\nvent sounds, no wheezes, rales, rhonchi appreciated\nCV: Irregularly irregular, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: soft, no grimace to palpation, non-distended, bowel\nsounds present, no rebound tenderness or guarding, no\norganomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: Squeezes hand on right to command, not on left; will not\nopen eyes or follow other commands\n\nDISCHARGE:\nVS: Tmax 98.1, Tcurrent 97.9, BP 154/97, HR 63, RR 25, O2 sat\n94% RA\nGEN: A+Ox3\nHEENT: Sclerae anicteric, PERRL, EOMI\nNECK: supple, JVD not appreciated no LAD\nLUNGS: Bibasilar rales, no wheezes or rhonchi\nCV: Irregularly irregular, normal S1 + S2, no murmurs, rubs,\ngallops\nABD: soft, non-tender, non-distended, bowel sounds present\nEXT: warm, well perfused, 2+ pulses, no clubbing, cyanosis.\nTrace peripheral edema\nNEURO: limited by cognitive impairment (mild MR), moving BLE,\nLUE contracted (stable), moving RUE, face symmetric, CN II-XII\nw/o focal deficit\n\nPertinent Results:\nADMISSION LABS:\n[**2107-10-10**] 01:12PM BLOOD WBC-7.0 RBC-3.68* Hgb-11.6* Hct-34.1*\nMCV-93 MCH-31.6 MCHC-34.0 RDW-14.2 Plt Ct-185\n[**2107-10-11**] 04:15AM BLOOD PT-18.1* PTT-29.6 INR(PT)-1.6*\n[**2107-10-10**] 01:12PM BLOOD Glucose-140* UreaN-17 Creat-0.8 Na-143\nK-3.3 Cl-104 HCO3-26\n[**2107-10-10**] 01:12PM BLOOD ALT-165* AST-85* AlkPhos-222* Amylase-49\nTotBili-1.9*\n[**2107-10-10**] 01:12PM BLOOD Lipase-40\n[**2107-10-10**] 01:12PM BLOOD proBNP-3344*\n[**2107-10-10**] 01:12PM BLOOD Calcium-8.9 Phos-2.9 Mg-1.7\n[**2107-10-10**] 12:43PM BLOOD Type-ART pO2-158* pCO2-43 pH-7.39\ncalTCO2-27 Base XS-1\n[**2107-10-10**] 12:43PM BLOOD Lactate-1.2\n[**2107-10-10**] 11:06PM BLOOD O2 Sat-99\n\nDISCHARGE LABS:\n[**2107-10-15**] 04:02AM BLOOD WBC-5.4 RBC-3.60* Hgb-11.2* Hct-33.9*\nMCV-94 MCH-31.2 MCHC-33.1 RDW-14.2 Plt Ct-179\n[**2107-10-15**] 04:02AM BLOOD PT-16.4* PTT-29.1 INR(PT)-1.5*\n[**2107-10-15**] 04:02AM BLOOD Glucose-142* UreaN-11 Creat-0.7 Na-139\nK-3.5 Cl-103 HCO3-31 AnGap-9\n[**2107-10-15**] 04:02AM BLOOD Calcium-9.0 Phos-2.5* Mg-2.0\n\n\nMICROBIOLOGY:\n[**2107-10-11**] 4:16 am SPUTUM  (Source: Endotracheal)\nGRAM STAIN (Final [**2107-10-11**]): >25 PMNs and <10 epithelial\ncells/100X field. NO MICROORGANISMS SEEN.\nRESPIRATORY CULTURE (Final [**2107-10-13**]): NO GROWTH.\n\n[**2107-10-11**] 4:15 am URINE  (Source: Catheter)\nURINE CULTURE (Final [**2107-10-12**]): NO GROWTH.\n\n[**2107-10-11**] 4:16 am BLOOD CULTURE  (Source: Venipuncture)\nBlood Culture, Routine (Pending):\n\n[**2107-10-10**] 1:12 pm MRSA SCREEN  (Source: Nasal swab)\nMRSA SCREEN (Final [**2107-10-12**]): No MRSA isolated.\n\nIMAGING:\n[**10-11**] Transthoracic Echocardiogram (TTE)\nIMPRESSION: Surgical repair of a probable ostium secundum ASD\nwith residual left-to-right interatrial shunting. Dilated right\nventricle with preserved systolic function and mild pulmonary\nhypertension. Normal left ventricular systolic function.\n\nRecommend a cardiac MRI for more precise definition of\ncongenital anatomic abnormalities and quantification of\nintracardiac shunting. Findings discussed with Dr. [**Last Name (STitle) **] at\n1410 hours on the day of the study.\n\n[**10-10**] [**Month/Year (2) **] Images\nIMPRESSION: Placement of common bile duct stent. Normal\nappearing bile ducts.\n\n\nBrief Hospital Course:\nMs. [**Known lastname 9449**] is a 64yo F with history of mental retardation,\natrial fibrillation and CVA with left hemiplegia who was\ntransferred to [**Hospital1 18**] for [**Hospital1 **] and intubated for respiratory\ndistress likely secondary to volume overload & pneumonia;\nsuccessfully extubated on [**10-13**].\n\n# Respiratory distress: Patient was tachypneic to 20-30s while\nawaiting [**Month/Year (2) **] and intubated to protect her airway for the\nprocedure. She became hypoxic to 70s% during induction and\nremained intubated after the procedure. Respiratory distress\nlikely caused by CHF exacerbation secondary to volume overload,\nin addition to healthcare-associated pneumonia (BNP 3344). CXR\nwas concerning for infiltrate or pulmonary edema. Echo with EF\n>55% with mild pulmonary hypertension. Treated with vancomycin\nand cefepime for HCAP with a planned 8-day course (D1=[**10-10**],\nlast day [**10-17**]). She was treated with IV lasix for her volume\noverload.  Lasix was held on [**10-14**] due to agressive diuresis,\nbut redosed on the morning of discharge based on exam and repeat\nchest x-ray.  She should resume her usual home dose of oral\nlasix on [**10-16**].\n\n# LFT abnormalities: Her [**Month/Year (2) **] was unremarkable and did not show\nany frank pus from the biliary system s/p stent placement. Will\nneed repeat [**Month/Year (2) **] for stent removal in 2 months (appointment has\nalready been scheduled). LFTs trended down during admission.\n\n# Atrial fibrillation and h/o CVA: Coumadin was restarted when\nit was clear that the patient would not be undergoing any other\nprocedure during this admission. There had been a question of\nwhether she would be having a cholecystectomy but per the OSH\nthis was not planned or necessary. Increased dose to 5mg from\n2.5mg for subtherapeutic INR.  She will need close monitoring of\nher INR and adjustments of coumadin dosing until it stabilizes.\n\n\n# Hypertension: Lisinopril was initially held as patient was\nbeing diuresed with IV lasix. After diuresis was stopped,\nlisinopril was restarted at home dose.\n\n# Urinary tract infection: Final urine culture negative. OSH\nrecords report UTI.  Continued her on cefepime for biliary tract\ninfection which was adequate treatment for an uncomplicated UTI.\n\n# Prophylaxis: Patient received heparin products during this\nadmission.\n\n# Code status: Presumed full code.\n\nMedications on Admission:\nAcetaminophen 650mg qhs\nAcetaminophen 650mg q4-6 PRN\nDulcolax suppository 10mg PR daily PRN\nRefresh Tear 1 gtt OU 4XD\nCelexa 40mg daily\nColace 100mg [**Hospital1 **]\nFlonase 2 sprays each nostril daily\nLasix 40mg daily\nLisinopril 10mg qdaily\nMilk of Magnesia 30 mL daily PRN constipation\nMVI\nMylanta 30 mL q6 PRN gastric upset\nCoumadin 2.5mg daily\nLorazepam 1mg q6 PRN anxiety\n\nDischarge Medications:\n1. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for pain, fever: Do not exceed 4 grams/day.\n2. citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n3. Refresh Tears 0.5 % Drops Sig: One (1) DROP IN EACH EYE\nOphthalmic four times a day.\n4. Flonase 50 mcg/Actuation Spray, Suspension Sig: Two (2)\nsprays in each nostril Nasal once a day.\n5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO twice\na day: Hold for loose stools.\n6. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4\nPM: adjust dose based on INR checks every other day.\n7. Heparin Flush (10 units/ml) 2 mL IV PRN line flush\nPICC, heparin dependent: Flush with 10mL Normal Saline followed\nby Heparin as above daily and PRN per lumen.\n8. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n9. cefepime 2 gram Recon Soln Sig: Two (2) grams Injection Q12H\n(every 12 hours) for 3 days.\nDisp:*12 grams* Refills:*0*\n10. multivitamin,tx-minerals     Tablet Sig: One (1) Tablet PO\nDAILY (Daily).\n11. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1) gram\nIntravenous Q 12H (Every 12 Hours) for 3 days.\nDisp:*6 grams* Refills:*0*\n12. bisacodyl 10 mg Suppository Sig: One (1) suppository Rectal\nonce a day: Hold for loose stools.\n13. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.\n14. Milk of Magnesia 400 mg/5 mL Suspension Sig: Five (5) mL PO\nonce a day as needed for constipation.\n15. Mylanta 200-200-20 mg/5 mL Suspension Sig: [**10-19**] mL PO every\nsix (6) hours as needed for gastric upset.\n16. lorazepam 1 mg Tablet Sig: One (1) Tablet PO every six (6)\nhours as needed for anxiety: This medication can make you\nsleepy. Do no drink alcohol, drive or operate machinery after\ntaking this medication.\n17. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO at\nbedtime.\n18. Outpatient Lab Work\nPlease check INR every other day until level is stable between\n[**2-2**] on three checks and patient has completed antibiotic course.\n Please fax results to Dr. [**Last Name (STitle) 47367**].\n19. Outpatient Lab Work\nChem7 on [**2107-10-20**].  Please fax results to Dr. [**Last Name (STitle) 47367**].\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Location (un) 6598**] Manor Extended Care Facility - [**Location (un) 6598**]\n\nDischarge Diagnosis:\nPrimary diagnoses:\n1. Hypoxic respiratory failure secondary to\nhealthcare-associated pneumonia\n2. Pulmonary edema\n3. Liver function test elevations secondary to presumed\ncholangitis with biliary stent placement\n\nSecondary Diagnoses:\nHypertension\nMental retardation\nChronic congestive heart failure\nUrinary tract infection\n\n\nDischarge Condition:\nMental Status: Confused - sometimes.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Out of Bed with assistance to chair or\nwheelchair.\n\n\nDischarge Instructions:\n1. You were transfered from [**Hospital3 6592**] to have a procedure\ncalled an [**Hospital3 **].  You had a biliary stent placed during this\nprocedure and will need a repeat [**Hospital3 **] in 2 months as below.\nYour INR should be less than 1.5 at that time if possible.\n\n2. You were admitted to the intensive care unit after your [**Hospital3 **]\nfor difficulty breathing. You required a breathing tube, also\nknown as intubation. We removed the tube on [**10-13**]. You were\ntreated for healthcare-associated pneumonia with antibiotics and\nwe gave you medicine to help remove fluid from your body.  You\nwill need to continue taking antibiotics through [**2107-10-17**].\n\n3. You urine cultures were negative, but we had received a\nreport that they were positive at [**Hospital3 **]. We treated\nthis with the same antibiotics that we used to treat your\npneumonia.\n\n4. We restarted your coumadin at a higher dose because your INR\nwas too low.  You will need to have your INR checked every other\nday and you coumadin dose adjusted as needed.  The antibiotics\nmay be affecting your coumadin dosing.\n\n5. We made the following changes to your medications:\nSTARTED cefepime (last dose on [**10-17**])\nSTARTED vancomycin (last dose on [**10-17**])\nINCREASED warfarin dose to 5mg (adjust as necessary based on\nINR)\nSTARTED Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC\n\n6. It is important that you take all of your medications as\nprescribed.\n\n7. It is important that you follow up with your primary care\ndoctor.\n\nFollowup Instructions:\nDate/Time: [**2107-12-15**] at 12:00PM\nProvider: [**Name Initial (NameIs) **] 2 (ST-4) GI ROOMS\nProvider: [**Name10 (NameIs) 1948**] [**Last Name (NamePattern4) 1949**], MD\nPhone:[**Telephone/Fax (1) 463**]\n\nIt is important that you follow up with your primary doctor (Dr.\n[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 47367**]) at [**Hospital 6598**] [**Hospital 731**] Nursing Home (tel: [**Telephone/Fax (1) 88487**]).\n\n\n\n"
+    }
+  ]
+}

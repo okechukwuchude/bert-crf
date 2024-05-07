@@ -1,0 +1,290 @@
+{
+  "hadm_id": 123750,
+  "comment": "Pacemaker OP report missing- unable to validate PCS code",
+  "notes": [
+    {
+      "note_id": 542320,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 3357,
+          "end": 3372,
+          "code": "4B02XSZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Measurement of Cardiac Pacemaker, External Approach",
+          "type": "Human",
+          "covered_text": "PM interrogated"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:\n   s/p fall, Bradycardia\n   24 Hour Events:\n   Patient had PPM placed yesterday.  Patient afebrile, VSS.\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cephalexin 500mg po q8hrs\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2155-12-9**] 08:00 AM\n   Atropine - [**2155-12-9**] 09:30 AM\n   Other medications:\n   ASA 81mg\n   CaCo3 500mg TID\n   Dopamine 2-5mcg/kg/min (for HR < 40)\n   Colace 100mg [**Hospital1 **]\n   Senna prn\n   Fluoxetine 20mg daily\n   Vitamin D 400 u [**Hospital1 **]\n   Simvastatin 10mg qHS\n   Percocet prn q8hrs\n   Heparin 5000 u TID\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2155-12-10**] 07:23 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.7\nC (99.8\n   Tcurrent: 35.8\nC (96.4\n   HR: 74 (40 - 94) bpm\n   BP: 158/66(86) {118/24(36) - 176/97(161)} mmHg\n   RR: 22 (14 - 26) insp/min\n   SpO2: 98%\n   Heart rhythm: A Paced\n                  Total In:\n                                                                  2,607 mL\n                                                                     60 mL\n   PO:\n                                                                     60 mL\n                                                                     60 mL\n   TF:\n   IVF:\n                                                                  2,547 mL\n   Blood products:\n   Total out:\n                                                                  2,890 mL\n                                                                    260 mL\n   Urine:\n                                                                    990 mL\n                                                                    260 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                   -283 mL\n                                                                   -200 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 98%\n   ABG: ///33/\n   Physical Examination\n   Gen: NAD lying in bed sleeping\n   HEENT: laceration note\n   Resp: CTAB anteriorly\n   CV: RRR, nl S1/S2, distant heart sounds and and 2/6 systolic murmur\n   heard @ LUSB radiating to carotids\n   Abd: + BS, soft, non-tender, non-distended\n   Ext: 1+ lower ext edema bilaterally, radial and DP 2+ symmetric\n   Labs / Radiology\n   181 K/uL\n   10.8 g/dL\n   111 mg/dL\n   0.7 mg/dL\n   33 mEq/L\n   3.2 mEq/L\n   12 mg/dL\n   105 mEq/L\n   143 mEq/L\n   31.4 %\n   10.6 K/uL\n        [image002.jpg]\n                             [**2155-12-8**]  09:19 PM\n                             [**2155-12-9**]  05:19 AM\n                             [**2155-12-10**]  05:17 AM\n   WBC\n   10.4\n   10.6\n   Hct\n   32.1\n   31.4\n   Plt\n   198\n   181\n   Cr\n   0.9\n   0.8\n   0.7\n   Glucose\n   151\n   130\n   111\n   Other labs: PT / PTT / INR:13.9/34.6/1.2, Ca++:8.8 mg/dL, Mg++:1.8\n   mg/dL, PO4:2.6 mg/dL\n   Assessment and Plan\n   IMPRESSION: [**Age over 90 **] y/o woman admitted to hospital s/p fall and transfered\n   to the CCU with bradycardia\n   .\n   PLAN\n   # Bradycardia: Resolved.  PPM placed yesterday.  PM interrogated\n   today.\n   - SBPs have been > 150, will restart metoprolol at home dose\n   - Transfer to floor today.\n   .\n   # Low Urine output:  Resolved.  Pt has been negative 200cc.  MMM.\n   - NS bolus, IVF as needed.  .\n   .\n   # Elevated TSH: T3/T4 normal.  Likely sick euthyroid.\n   .\n   # Fall: likely that sinus pauses/bradycardia were the etiology, but\n   unknown as patient has not had then thus far while awake.  Echo showed\n   mild AS, but not likely to be causitive.  No focal neuro deficits.\n   - PT consult\n   - consider transfer to medicine for further workup once bradycardia\n   characterized and plan in place\n   .\n   # Hypertension; restart metoprolol\n   .\n   # Depression: continue fluoxetine\n   .\n   # Hyperlipidemia; continue statin\n   .\n   # CODE: DNR/DNI\n"
+    },
+    {
+      "note_id": 49411,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 375,
+          "end": 378,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 388,
+          "end": 407,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "Alzheimer's disease"
+        },
+        {
+          "begin": 429,
+          "end": 433,
+          "code": "W19.XXXA",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified fall, initial encounter",
+          "type": "Human",
+          "covered_text": "fall"
+        },
+        {
+          "begin": 441,
+          "end": 453,
+          "code": "Y92.129",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified place in nursing home as the place of occurrence of the external cause",
+          "type": "Human",
+          "covered_text": "nursing home"
+        },
+        {
+          "begin": 479,
+          "end": 494,
+          "code": "Y93.01",
+          "code_system": "ICD-10-CM",
+          "description": "Activity, walking, marching and hiking",
+          "type": "Human",
+          "covered_text": "she was walking"
+        },
+        {
+          "begin": 940,
+          "end": 963,
+          "code": "S00.03XA",
+          "code_system": "ICD-10-CM",
+          "description": "Contusion of scalp, initial encounter",
+          "type": "Human",
+          "covered_text": "hematoma on her occiput"
+        },
+        {
+          "begin": 976,
+          "end": 986,
+          "code": "S01.01XA",
+          "code_system": "ICD-10-CM",
+          "description": "Laceration without foreign body of scalp, initial encounter",
+          "type": "Human",
+          "covered_text": "laceration"
+        },
+        {
+          "begin": 976,
+          "end": 1027,
+          "code": "0HQ0XZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Repair Scalp Skin, External Approach",
+          "type": "Human",
+          "covered_text": "laceration below that which was cleaned and stapled"
+        },
+        {
+          "begin": 1299,
+          "end": 1307,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 1339,
+          "end": 1357,
+          "code": "G43.909",
+          "code_system": "ICD-10-CM",
+          "description": "Migraine, unspecified, not intractable, without status migrainosus",
+          "type": "Human",
+          "covered_text": "migraine headaches"
+        },
+        {
+          "begin": 1439,
+          "end": 1466,
+          "code": "Z96.653",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of artificial knee joint, bilateral",
+          "type": "Human",
+          "covered_text": "bilateral knee replacements"
+        },
+        {
+          "begin": 4489,
+          "end": 4500,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotensive"
+        },
+        {
+          "begin": 4681,
+          "end": 4692,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "bradycardia"
+        },
+        {
+          "begin": 4727,
+          "end": 4745,
+          "code": "R09.2",
+          "code_system": "ICD-10-CM",
+          "description": "Respiratory arrest",
+          "type": "Human",
+          "covered_text": "respiratory\narrest"
+        },
+        {
+          "begin": 5285,
+          "end": 5296,
+          "code": "E86.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypovolemia",
+          "type": "Human",
+          "covered_text": "Hypovolemia"
+        },
+        {
+          "begin": 5439,
+          "end": 5452,
+          "code": "R94.6",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal results of thyroid function studies",
+          "type": "Human",
+          "covered_text": "Elevated TSH:"
+        },
+        {
+          "begin": 5635,
+          "end": 5642,
+          "code": "I35.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic aortic (valve) stenosis",
+          "type": "Human",
+          "covered_text": "Mild AS"
+        },
+        {
+          "begin": 6066,
+          "end": 6081,
+          "code": "Z79.82",
+          "code_system": "ICD-10-CM",
+          "description": "Long term (current) use of aspirin",
+          "type": "Human",
+          "covered_text": "asa 81 mg daily"
+        },
+        {
+          "begin": 7267,
+          "end": 7286,
+          "code": "I49.5",
+          "code_system": "ICD-10-CM",
+          "description": "Sick sinus syndrome",
+          "type": "Human",
+          "covered_text": "Sick sinus syndrome"
+        },
+        {
+          "begin": 7307,
+          "end": 7319,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 7320,
+          "end": 7330,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 7331,
+          "end": 7345,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 7347,
+          "end": 7350,
+          "code": "Z66",
+          "code_system": "ICD-10-CM",
+          "description": "Do not resuscitate",
+          "type": "Human",
+          "covered_text": "DNR"
+        }
+      ],
+      "text": "Admission Date:  [**2155-12-7**]              Discharge Date:   [**2155-12-12**]\n\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 7651**]\nChief Complaint:\ns/p Fall\n\nMajor Surgical or Invasive Procedure:\nPlacement of Permanent Pacemaker\n\nHistory of Present Illness:\n[**Age over 90 **] yo F with PMH of CVA, HTN, TIA and Alzheimer's disease who\npresents after a fall at her nursing home. Per the report sent\nin, she was walking with an aide who turned away for a min and\nheard the patient fall. Unclear what led to her fall. Did not\nappear to have any LOC after the event. No loss of bowel or\nbladder function or seizure activity. She was sent to [**Hospital1 18**] ED.\n\n\nIn our ED, her initial vital signs were T 96.8, HR 56, BP\n203/93, RR 20, O2 sat 97% RA. She was given 1L NS. She had a\ntrauma work up with pelvic xrays, CT of C spine and head. She\nwas noted to have a hematoma on her occiput and a small\nlaceration below that which was cleaned and stapled. She was\nalso given a tetanus shot. She is being admitted for a syncope\nwork up.\n\n\nPast Medical History:\n-TIAs\n-left subcortical ischemic stroke [**2153**] - had R sided hemiparesis\nand dysarthria, has since recovered much function and speech, ?\nambulates w/ walker now\n-dementia\n-hypertension\n-hyperlipidemia\n-migraine headaches\n-right intertrochanteric fracture, status post repair\n-myofascial pain syndrome\n-bilateral knee replacements\n-depression\n\n\nSocial History:\nResides in the Alzheimer's unit of an [**Hospital3 **] facility.\nNo history of EtOH, tobacco or illicit drug use\n\nFamily History:\nNo history of neurologic disease.\n\nPhysical Exam:\nVitals: T 96.3, BP 140/80, HR 57, RR 22, O2sat 97% RA.\nGen: NAD lying in bed sleeping\nHEENT: laceration note\nResp: CTAB anteriorly\nCV: RRR, nl S1/S2, distant heart sounds and and 2/6 systolic\nmurmur heard @ LLSB\nAbd: + BS, soft, non-tender, non-distended\nExt: 1+ lower ext edema bilaterally, radial and DP 2+ symmetric\n\nNeuro: not oriented. Smiles, pleasant, closes eyes to go to\nsleep and has noted myoclonus.\n\nPertinent Results:\n[**2155-12-11**] 05:00AM BLOOD WBC-12.6* RBC-3.51* Hgb-11.3* Hct-32.9*\nMCV-94 MCH-32.3* MCHC-34.3 RDW-15.4 Plt Ct-203\n[**2155-12-7**] 07:10PM BLOOD Neuts-58.2 Lymphs-37.5 Monos-2.9 Eos-0.9\nBaso-0.6\n[**2155-12-9**] 05:19AM BLOOD PT-13.9* PTT-34.6 INR(PT)-1.2*\n[**2155-12-11**] 05:00AM BLOOD Glucose-111* UreaN-12 Creat-0.6 Na-140\nK-3.3 Cl-101 HCO3-30 AnGap-12\n[**2155-12-8**] 03:45AM BLOOD CK(CPK)-19*\n[**2155-12-8**] 03:45AM BLOOD CK-MB-2 cTropnT-<0.01\n[**2155-12-9**] 05:19AM BLOOD Calcium-8.8 Phos-2.6* Mg-1.7\n[**2155-12-8**] 03:45AM BLOOD VitB12-658 Folate-10.3\n[**2155-12-7**] 07:10PM BLOOD TSH-5.1*\n[**2155-12-8**] 03:45AM BLOOD T3-88 Free T4-0.98\n[**2155-12-7**] 07:10PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.009\n[**2155-12-7**] 07:10PM URINE Blood-TR Nitrite-NEG Protein-NEG\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-NEG\n[**2155-12-7**] 07:10PM URINE RBC-[**4-9**]* WBC-0-2 Bacteri-OCC Yeast-NONE\nEpi-[**4-9**]\nUrine Culture: No growth\n\nHead CT [**12-7**]:\n1. No fracture, hemorrhage, or edema.\n2. Chronic small vessel ischemic disease and age-related\nparenchymal\ninvolutional change.\n3. Right parietal scalp hematoma.\n\nECHO [**12-8**]:\nThe left atrium is mildly dilated. There is mild symmetric left\nventricular hypertrophy with normal cavity size and global\nsystolic function (LVEF>55%). Due to suboptimal technical\nquality, a focal wall motion abnormality cannot be fully\nexcluded. Tissue Doppler imaging suggests an increased left\nventricular filling pressure (PCWP>18mmHg). Right ventricular\nchamber size and free wall motion are normal. There is mild\naortic valve stenosis (area 1.2-1.9cm2). Mild (1+) aortic\nregurgitation is seen. The mitral valve leaflets are mildly\nthickened. Trivial mitral regurgitation is seen. The pulmonary\nartery systolic pressure could not be determined. There is no\npericardial effusion.\n\nCompared with the prior study (images reviewed) of [**2153-7-9**], the\naortic valve gradient has increased.\n\nCXR [**12-10**]: Standard position of the pacemakers with no evidence\nof\ncomplications.\n\n\nBrief Hospital Course:\n[**Age over 90 **] y/o woman admitted to hospital s/p fall and transfered to the\nCCU with bradycardia\n\n# Bradycardia: Pt was initially admitted to the wards, where\ntelemetry demonstrated marked sinus pauses with an irregular\nrate of approx 20.  During these episodes she was witnessed to\nbe hypotensive and have myoclonic jerking and a blue tinge to\nher lips. She was then transferred to the CCU, where she had\nsimilar episodes responsive to atropine, including an epsiode of\nsevere bradycardia with loss of consciousness, brief respiratory\narrest with stable O2 sat, awoke shaking after atropine.\nEtiology was thought to be is sick sinus or sinus exit block as\nno unconducted p waves observed during bradycardia. Family\nagreed to PPM placement and reversal of DNR/DNI status for\nprocedure.  Pacemaker was placed without complications on [**12-9**],\nafter which pt's code status was reversed back to DNR/DNI and\nshe had no furthur arrhythmic episodes. Pacemaker was\ninterigated and chest imaged and pt given 3 day course of\nKeflex. She is to follow up with electrophysiology in 1 wk.\n\n# Hypovolemia: Pt appeared dry on presenation and had decreased\nurine output which responded well to IVF. The orthostasis may\nhave contributed to falls.\n\n# Elevated TSH: TFTs were checked and since T3 and T4 were\nnormal, etiology was thought to be sick euthyroid.\n\n# Fall: Likely etiology was multifactorial - sinus\npauses/bradycardia and orthostasis. Mild AS on echo unlikely to\nbe suffient to be responsible. There were no focal neuro\ndeficits and pt was evaluated by physical therapy, who\ndetermined that pt would require rehab for strengthening.\n\n# Hypertension: Pt's home metoprolol was initially held, and\nrestarted after PPM was placed and blood pressures raised.\n\n# Depression: Pt was continued on fluoxetine\n\n# Hyperlipidemia: Statin continued\n\n\n\n\nMedications on Admission:\nasa 81 mg daily\nCa w/ Vit D 600 mg [**Hospital1 **]\ndocusate 100mg [**Hospital1 **]\nfluoxetine 20 mg daily\nmetoprolol 25 mg [**Hospital1 **]\nsimvastatin 10 mg qhs\nvit B-12 100 mg daily\nsenna prn\n\nDischarge Medications:\n1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for pain.\n2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed.\n3. Docusate Sodium 50 mg/5 mL Liquid Sig: Ten (10) cc PO BID (2\ntimes a day).\n4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n5. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)\nTablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).\n6. Cholecalciferol (Vitamin D3) 1,000 unit Tablet Sig: One (1)\nTablet PO once a day.\n7. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY\n(Daily): crush meds.\n8. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime): crush meds.\n9. Cyanocobalamin 100 mcg Tablet Sig: One (1) Tablet PO DAILY\n(Daily): crush meds.\n10. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day): crush meds.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 2558**] - [**Location (un) **]\n\nDischarge Diagnosis:\nSick sinus syndrome requiring pacemaker\nHypertension\nDepression\nHyperlipidemia\n\nDNR/DNI\n\n\nDischarge Condition:\nBUN 14\ncreat 0.7\nhct 34.8\nwbc 13.1\n\n\nDischarge Instructions:\nYou had a fall at your home and injured your head. You had a\nslow heart rate and needed a pacemaker. You should not lift\nanything heavier than 5 pounds for the next 6 weeks. You should\nnot put your left arm over your head or tuck in your shirt for 6\nweeks. Please see the pacemaker handout that was given to you on\ndischarge with more information. You have been restarted on your\nhome medicines. You need 1 more day of antibiotics for the pacer\nplacement.\n\nFollowup Instructions:\nCardiology:\nDevice Clinic follow up on Wednesday [**12-17**] at 3pm.  [**Location (un) 3971**] [**Hospital Ward Name 23**].  [**Telephone/Fax (1) 62**]\nProvider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD [**12-26**] at 10:00am. Phone:\n[**Telephone/Fax (1) 62**].\n\n\n\nCompleted by:[**2156-1-21**]"
+    },
+    {
+      "note_id": 542315,
+      "category": "Rehab Services",
+      "description": "Physical Therapy Evaluation Note",
+      "annotations": [
+        {
+          "begin": 526,
+          "end": 548,
+          "code": "I69.351",
+          "code_system": "ICD-10-CM",
+          "description": "Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side",
+          "type": "Human",
+          "covered_text": "residual R hemiparesis"
+        },
+        {
+          "begin": 553,
+          "end": 563,
+          "code": "I69.322",
+          "code_system": "ICD-10-CM",
+          "description": "Dysarthria following cerebral infarction",
+          "type": "Human",
+          "covered_text": "dysarthria"
+        },
+        {
+          "begin": 612,
+          "end": 632,
+          "code": "H35.30",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified macular degeneration",
+          "type": "Human",
+          "covered_text": "macular degeneration"
+        }
+      ],
+      "text": "Attending Physician: [**Name10 (NameIs) **]\n   Referral date: [**2155-12-9**]\n   Medical Diagnosis / ICD 9:  / 780.2\n   Reason of referral: Eval/Tx\n   History of Present Illness / Subjective Complaint: Pt is a [**Age over 90 **]F with\n   Alzheimer's Dementia and HTN s/p fall (no obvious LOC) while walking\n   with aide at ALF adm [**12-7**] and transferred to CCU with symptomatic\n   bradycardia to 20s now s/p DDD PM placement [**12-9**].\n   Past Medical / Surgical History: TIAs, L Subcortical ishcemic CVA [**2153**]\n   c residual R hemiparesis and dysarthria, hyperlipidemia, R IT hip\n   fracture s/p ORIF, macular degeneration, B TKR\n   Medications: Heparin, Metoprolol, Dopamine, Oxycodone\n   Radiology: [**12-10**] CXR Stardard placement of PM.\n   Labs:\n   31.4\n   10.8\n   181\n   10.6\n         [image002.jpg]\n   Activity Orders: OOB c A.\n   Social / Occupational History: Lives at ALF [**Name8 (MD) 24**] RN\n   Living Environment: N/A\n   Prior Functional Status / Activity Level: Per Chart Pt amb c RW.\n   Objective Test\n   Arousal / Attention / Cognition / Communication: Alert. Orientated to\n   person only. Able to follow all one step commands.\n   Aerobic Capacity\n   HR\n   BP\n   RR\n   O[2] sat\n   RPE\n   Rest\n   78\n   149/88\n   16\n   100 3L O2\n   Activity\n   132\n   184/80\n   28\n   98 RA\n   Recovery\n   75\n   783/75\n   20\n   100 2L O2\n   Total distance walked: 75\n   Minutes:\n   Pulmonary Status: CTA B. +DOE. Strong, nonproductive cough.\n   Integumentary / Vascular: PM incision c gauze dressing C/D/I. Foley.\n   Sensory Integrity: Intact to Lt touch.\n   Pain / Limiting Symptoms: Denied pain. Limited by c/o generalized\n   fatigue and DOE.\n   Posture: WNL.\n   Range of Motion\n   Muscle Performance\n   WNL\n   Shd NT but o/w grossly [**5-10**] RUE/LE and 4+/5 LUE/LE\n   Motor Function: Able to MAE in isolation\n   Functional Status:\n   Activity\n   Clarification\n   I\n   S\n   CG\n   Min\n   Mod\n   Max\n   Gait, Locomotion: Pt amb 75 pushing w/c with decreased B step length\n   and increased path deviation.\n   Rolling:\n\n\n\n\n                                      T\n\n   Supine /\n   Sidelying to Sit:\n\n\n\n                                      T\n\n   Transfer:\n\n\n\n\n\n   Sit to Stand:\n\n\n                                      T\n\n\n   Ambulation:\n\n\n                                      T\n\n\n   Balance: S at EOB. [**Female First Name (un) 939**] for dynamic standing balance requiring frequent\n   [**Female First Name (un) 939**] for lateral LOBs.\n   Education / Communication: [**Name6 (MD) 459**] c RN and MD [**First Name (Titles) **] [**Last Name (Titles) **] and D/C planning\n   Pt [**Name (NI) 460**] RE Role of PT\n   Diagnosis:\n   1.\n   Aerobic Capacity / Endurance, Impaired\n   2.\n   Balance, Impaired\n   3.\n   Gait, Impaired\n   4.\n   Muscle Performace, Impaired\n   5.\n   Transfers, Impaired\n   6.\n   Ventilation, Impaired\n   Clinical impression / Prognosis: Pt is a [**Age over 90 **]F who p/w above impairments\n   c/w cardiovascular pump dysfunction. Pt is functioning well below\n   baseline limited by tachycardia [**3-8**] not yet getting bblocker and by\n   decreased endurance [**3-8**] deconditioning.  Ideally pt would be able to\n   return to ALF with increased amount of supervision and assistance as pt\n   would no doubt be more comfortable in a familiar environment given her\n   dementia. If more A is not available at ALF pt will require STR with\n   good rehab potential given progress thus far.\n   Goals\n   Time frame: One Week\n   1.\n   Amb 150 c RW s LOB CTG\n   2.\n   Sup to Sit [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 939**]\n   3.\n   RR < 26 with Above\n   4.\n   5.\n   6.\n   Anticipated Discharge: Rehab\n   Treatment Plan:\n   Frequency / Duration: 2-3x/wk for about one week\n   Functional Mobility / Balance Training\n   T Patient agrees with the above goals and is willing to participate in\n   the rehabilitation program.\n   11:45\n 12:15\n"
+    },
+    {
+      "note_id": 542269,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 4190,
+          "end": 4199,
+          "code": "E87.3",
+          "code_system": "ICD-10-CM",
+          "description": "Alkalosis",
+          "type": "Human",
+          "covered_text": "alkalosis"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:\n   s/p fall, Bradycardia\n   24 Hour Events:\n   Patient had PPM placed yesterday.  Patient afebrile, VSS.\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cephalexin 500mg po q8hrs\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2155-12-9**] 08:00 AM\n   Atropine - [**2155-12-9**] 09:30 AM\n   Other medications:\n   ASA 81mg\n   CaCo3 500mg TID\n   Dopamine 2-5mcg/kg/min (for HR < 40)\n   Colace 100mg [**Hospital1 **]\n   Senna prn\n   Fluoxetine 20mg daily\n   Vitamin D 400 u [**Hospital1 **]\n   Simvastatin 10mg qHS\n   Percocet prn q8hrs\n   Heparin 5000 u TID\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2155-12-10**] 07:23 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.7\nC (99.8\n   Tcurrent: 35.8\nC (96.4\n   HR: 74 (40 - 94) bpm\n   BP: 158/66(86) {118/24(36) - 176/97(161)} mmHg\n   RR: 22 (14 - 26) insp/min\n   SpO2: 98%\n   Heart rhythm: A Paced\n                  Total In:\n                                                                  2,607 mL\n                                                                     60 mL\n   PO:\n                                                                     60 mL\n                                                                     60 mL\n   TF:\n   IVF:\n                                                                  2,547 mL\n   Blood products:\n   Total out:\n                                                                  2,890 mL\n                                                                    260 mL\n   Urine:\n                                                                    990 mL\n                                                                    260 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                   -283 mL\n                                                                   -200 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 98%\n   ABG: ///33/\n   Physical Examination\n   Gen: NAD lying in bed sleeping\n   HEENT: laceration note\n   Resp: CTAB anteriorly\n   CV: RRR, nl S1/S2, distant heart sounds and and 2/6 systolic murmur\n   heard @ LUSB radiating to carotids\n   Abd: + BS, soft, non-tender, non-distended\n   Ext: 1+ lower ext edema bilaterally, radial and DP 2+ symmetric\n   Neuro: not oriented. Smiles, pleasant, closes eyes to go to sleep and\n   has noted myoclonus.\n   Labs / Radiology\n   181 K/uL\n   10.8 g/dL\n   111 mg/dL\n   0.7 mg/dL\n   33 mEq/L\n   3.2 mEq/L\n   12 mg/dL\n   105 mEq/L\n   143 mEq/L\n   31.4 %\n   10.6 K/uL\n        [image002.jpg]\n                             [**2155-12-8**]  09:19 PM\n                             [**2155-12-9**]  05:19 AM\n                             [**2155-12-10**]  05:17 AM\n   WBC\n   10.4\n   10.6\n   Hct\n   32.1\n   31.4\n   Plt\n   198\n   181\n   Cr\n   0.9\n   0.8\n   0.7\n   Glucose\n   151\n   130\n   111\n   Other labs: PT / PTT / INR:13.9/34.6/1.2, Ca++:8.8 mg/dL, Mg++:1.8\n   mg/dL, PO4:2.6 mg/dL\n   Assessment and Plan\n   IMPRESSION: [**Age over 90 **] y/o woman admitted to hospital s/p fall and transfered\n   to the CCU with bradycardia\n   .\n   PLAN\n   # Bradycardia: Transferred from the floor with hypotensive\n   bradycardia.  She has had similar episodes here, worse during periods\n   around sleep and responsive to atropine.  Has had myoclonic jerks\n   suggestive of cerebral hypoperfusion.  Family was initally hesititant\n   to place a placemaker, but now wishes to have one placed.    Most\n   likely etiology is sick sinus or sinus exit block as no unconducted p\n   waves observed during bradycardia.\n   - EP consult early for placement.  Will need DNR/DNI status temporarily\n   reversed & consent from HCP (brother).\n   - Continue atropine for HR at 60, pacer pads placed.\n   - Dopamine or isoproteronol if needed for chronotrophic support.\n   - hold metoprolol indefinitely.\n   .\n   # Low Urine output:  Appears dry.  Contraction alkalosis responds to\n   IVF.  Orthostasis may have contributed to falls.\n   - NS bolus, IVF.\n   .\n   # Elevated TSH: T3/T4 normal.  Likely sick euthyroid.\n   .\n   # Fall: likely that sinus pauses/bradycardia were the etiology, but\n   unknown as patient has not had then thus far while awake.  Echo shoed\n   mild AS, but not likely to be causitive.  No focal neuro deficits.\n   - PT consult\n   - consider transfer to medicine for further workup once bradycardia\n   characterized and plan in place\n   .\n   # Hypertension; hold metoprolol\n   .\n   # Depression: continue fluoxetine\n   .\n   # Hyperlipidemia; continue statin\n   .\n   # CODE: DNR/DNI but ok for atropine and transcutaneous pacing.\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2155-12-9**] 06:32 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: DNR / DNI\n   Disposition:\n"
+    }
+  ]
+}

@@ -1,0 +1,984 @@
+{
+  "hadm_id": 193800,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 604246,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 98,
+          "end": 115,
+          "code": "V17.9XXA",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified pedal cyclist injured in collision with fixed or stationary object in traffic accident, initial encounter",
+          "type": "Human",
+          "covered_text": "fall from bicycle"
+        },
+        {
+          "begin": 725,
+          "end": 738,
+          "code": "S12.112A",
+          "code_system": "ICD-10-CM",
+          "description": "Nondisplaced Type II dens fracture, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "dens fracture"
+        },
+        {
+          "begin": 3029,
+          "end": 3048,
+          "code": "G93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Anoxic brain damage, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "anoxic brain injury"
+        },
+        {
+          "begin": 3053,
+          "end": 3072,
+          "code": "S14.152A",
+          "code_system": "ICD-10-CM",
+          "description": "Other incomplete lesion at C2 level of cervical spinal cord, initial encounter",
+          "type": "Human",
+          "covered_text": "C2 cord transection"
+        },
+        {
+          "begin": 6846,
+          "end": 6864,
+          "code": "S14.102A",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified injury at C2 level of cervical spinal cord, initial encounter",
+          "type": "Human",
+          "covered_text": "SPINAL CORD INJURY"
+        },
+        {
+          "begin": 6955,
+          "end": 6969,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "cardiac arrest"
+        },
+        {
+          "begin": 7046,
+          "end": 7060,
+          "code": "S14.102A",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified injury at C2 level of cervical spinal cord, initial encounter",
+          "type": "Human",
+          "covered_text": "C2 cord injury"
+        },
+        {
+          "begin": 7198,
+          "end": 7212,
+          "code": "S14.102A",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified injury at C2 level of cervical spinal cord, initial encounter",
+          "type": "Human",
+          "covered_text": "C2 cord injury"
+        }
+      ],
+      "text": "TITLE:\n   TSICU\n   HPI:\n   This is a 71 year old male who presents to ED in cardiac arrest s/p\n   fall from bicycle.  Per witnesses report, the patient was riding his\n   bike with a helmet at a low speed and hit a pot hole; he did not lose\n   consciousness, but stood up and then suddenly collapsed. Per witnesses,\n   patient was initially unresponsive but with a pulse. Upon EMS arrival,\n   he arrested; CPR was started, and a pulse was regained. However the\n   patient went into cardiac arrest again. He was pulseless and\n   non-breathing for approximately 5-10 minutes. ACLS protocol was started\n   and a pulse was found. In ED, he remains intubated, in NSR and on\n   norepi for blood pressure. Found to have Acute type 2 dens fracture.\n   Admitted to TICU for further management.\n   Chief complaint:\n   unresponsive\n   PMHx:\n   idiopathic generalized neuropathy, distant h/o seizure, BPH, leukopenia\n   (presumed [**3-13**] lamictal, no h/o serious infection), sleep apnea, spinal\n   stenosis, retinal detachment, [**Hospital Ward Name 5060**] cyst, rt 3rd fx\n   Current medications:\n   1. IV access: Temporary central access (ICU) Location: Left Subclavian,\n   Date inserted: [**2147-12-18**] Order date: [**12-18**] @ 1325\n   10. Insulin SC  (per Insulin Flowsheet)\n         Sliding Scale Order date: [**12-18**] @ 1132\n   2. IV access: Temporary central access (ICU) Location: Left Subclavian,\n   Date inserted: [**2147-12-18**] Order date: [**12-18**] @ 1557\n   11. LeVETiracetam 1000 mg IV 1X Duration: 1 Doses Order date: [**12-18**] @\n   1609\n   3. OK to use line Order date: [**12-18**] @ 1557\n   12. Magnesium Sulfate  IV Sliding Scale Order date: [**12-18**] @ 1455\n   4. 1000 mL NS\n   Continuous at 100 ml/hr Order date: [**12-18**] @ 1525\n   13. Norepinephrine 0.03-0.25 mcg/kg/min IV DRIP TITRATE TO sbp > 90\n   Order date: [**12-18**] @ 1132\n   5. 500 ml NS Bolus 500 ml Over 15 mins Order date: [**12-18**] @ 1132\n   14. Potassium Chloride  IV Sliding Scale Order date: [**12-18**] @ 1455\n   6. Calcium Gluconate  IV Sliding Scale Order date: [**12-18**] @ 1455\n   15. Potassium Phosphate  IV Sliding Scale\n   Infuse over 6 hours  Order date: [**12-18**] @ 1455\n   7. Chlorhexidine Gluconate 0.12% Oral Rinse 15 ml ORAL [**Hospital1 **]\n   Use only if patient is on mechanical ventilation.  Order date: [**12-18**] @\n   1132\n   16. Sodium Chloride 0.9% Flush 10 mL IV PRN line flush\n   Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and\n   PRN.  Order date: [**12-18**] @ 1325\n   8. Famotidine 20 mg IV Q12H  Order date: [**12-18**] @ 1454\n   17. Sodium Chloride 0.9% Flush 10 mL IV PRN line flush\n   Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and\n   PRN.  Order date: [**12-18**] @ 1557\n   9. Fentanyl Citrate 25-100 mcg IV Q1H:PRN discomfort  Order date: [**12-18**]\n   @ [**2160**]\n   24 Hour Events:\n   Pan-scanned and found to have Acute type 2 dens fracture. Admitted to\n   TICU. Left subclavian CVL and right radial artery line placed. MRI\n   brain/c-spine c/w anoxic brain injury and C2 cord transection. Family\n   meeting - pt will be made [**Year (4 digits) 303**] this AM. DNR overnight. No acute issues\n   overnight.\n   Allergies:\n   Last dose of Antibiotics:\n   Infusions:\n   Norepinephrine - 0.06 mcg/Kg/min\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2147-12-18**] 08:20 PM\n   Fentanyl - [**2147-12-19**] 02:03 AM\n   Other medications:\n   Flowsheet Data as of  [**2147-12-19**] 04:55 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**50**] a.m.\n   Tmax: 36.7\nC (98.1\n   T current: 36.3\nC (97.4\n   HR: 54 (53 - 67) bpm\n   BP: 110/62(81) {93/57(71) - 155/96(117)} mmHg\n   RR: 22 (17 - 22) insp/min\n   SPO2: 98%\n   Heart rhythm: SB (Sinus Bradycardia)\n   Wgt (current): 92 kg (admission): 92 kg\n             Total In:\n                                                                  5,424 mL\n                                                                    539 mL\n   PO:\n             Tube feeding:\n   IV Fluid:\n                                                                  1,424 mL\n                                                                    539 mL\n   Blood products:\n   Total out:\n                                                                  1,995 mL\n                                                                    407 mL\n   Urine:\n                                                                  1,995 mL\n                                                                    157 mL\n   NG:\n   250 mL\n   Stool:\n   Drains:\n   Balance:\n                                                                  3,429 mL\n                                                                    132 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 22\n   RR (Spontaneous): 0\n   PEEP: 10 cmH2O\n   FiO2: 60%\n   RSBI Deferred: PEEP > 10, FiO2 > 60%\n   PIP: 24 cmH2O\n   Plateau: 20 cmH2O\n   SPO2: 98%\n   ABG: 7.37/38/162/21/-2\n   Ve: 10.4 L/min\n   PaO2 / FiO2: 270\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: pupils sluggish to react b/l\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended\n   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present)\n   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present)\n   Neurologic: (Responds to: Unresponsive)\n   Labs / Radiology\n   208 K/uL\n   12.2 g/dL\n   159 mg/dL\n   0.7 mg/dL\n   21 mEq/L\n   4.3 mEq/L\n   27 mg/dL\n   108 mEq/L\n   139 mEq/L\n   37.3 %\n   7.4 K/uL\n        [image002.jpg]\n                             [**2147-12-18**]  12:14 PM\n                             [**2147-12-18**]  02:17 PM\n                             [**2147-12-18**]  02:34 PM\n                             [**2147-12-18**]  06:50 PM\n                             [**2147-12-18**]  07:00 PM\n                            [**2147-12-19**]  01:00 AM\n                            [**2147-12-19**]  01:01 AM\n                            [**2147-12-19**]  01:11 AM\n   WBC\n   3.7\n   7.4\n   Hct\n   38.5\n   37.3\n   Plt\n   225\n   208\n   Creatinine\n   0.8\n   0.7\n   TCO2\n   22\n   24\n   22\n   23\n   Glucose\n   195\n   153\n   127\n   153\n   159\n   Other labs: PT / PTT / INR:13.5/23.6/1.2, ALT / AST:280/333, Alk-Phos /\n   T bili:177/0.3, Amylase / Lipase:56/41, Differential-Neuts:82.2 %,\n   Lymph:13.5 %, Mono:1.9 %, Eos:1.8 %, Fibrinogen:210 mg/dL, Lactic\n   Acid:1.2 mmol/L, Albumin:3.7 g/dL, Ca:7.9 mg/dL, Mg:2.0 mg/dL, PO4:5.0\n   mg/dL\n   Assessment and Plan\n   CERVICAL FRACTURE (WITH SPINAL CORD INJURY)\n   ASSESSMENT AND PLAN: 71y M s/p fall from bike with subsequent\n   unresponsiveness and cardiac arrest for approximately 10 minutes.\n   Found to have a Type II Dens fracture with C2 cord injury, and anoxic\n   brain injury.\n   NEURO: unresponsive, reactive pupils, no gag reflex, no oculocephalic\n   reflex. Anoxic brain injury and C2 cord injury. Neurology consulted\n   regarding questionable status epilepticus - given 1 time dose of\n   keppra. EEG monitoring cancelled as pts family wishes to make pt [**Name (NI) 303**] in\n   am.\n   Neuro checks Q:4h\n   Pain: fentanyl prn\n   CVS: currently on levophed gtt with goal to titrate SBP>90.\n   PULM: intubated, AC 500/22/5/100%. F/U repeat CXR to eval for pulm\n   hematoma s/p CVL placement.\n   GI: NPO, unable to place NGT, famotidine prophy\n   RENAL: foley. Monitor UOP. Cr 1.0\n   HEME: Hct 36.9 -> 38.5, cont to monitor\n   ENDO: RISS\n   ID: afebrile, no signs of infection\n   TLD: right radial artery line, left subclavian CVL, ETT, foley\n   IVF: NS@100cc/hr\n   CONSULTS: Red (west 3) surgery\n   BILLING DIAGNOSIS:\n   ICU CARE:\n   GLYCEMIC CONTROL: RISS\n   PROPHYLAXIS:\n   DVT - boots\n   STRESS ULCER - famotidine\n   VAP BUNDLE - yes\n   COMMUNICATIONS: wife\n   ICU Consent: Yes\n   CODE STATUS: Full Code\n   DISPOSITION: TICU\n"
+    },
+    {
+      "note_id": 604152,
+      "category": "Consult",
+      "description": "Physician Initial Consult Note",
+      "annotations": [
+        {
+          "begin": 103,
+          "end": 118,
+          "code": "V17.9XXA",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified pedal cyclist injured in collision with fixed or stationary object in traffic accident, initial encounter",
+          "type": "Human",
+          "covered_text": "fall of bicycle"
+        },
+        {
+          "begin": 277,
+          "end": 282,
+          "code": "S12.112A",
+          "code_system": "ICD-10-CM",
+          "description": "Nondisplaced Type II dens fracture, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "C2 fx"
+        },
+        {
+          "begin": 295,
+          "end": 301,
+          "code": "S22.42XA",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple fractures of ribs, left side, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "rib fx"
+        },
+        {
+          "begin": 425,
+          "end": 431,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypoTN"
+        },
+        {
+          "begin": 3775,
+          "end": 3789,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "cardiac arrest"
+        },
+        {
+          "begin": 3816,
+          "end": 3832,
+          "code": "S12.112A",
+          "code_system": "ICD-10-CM",
+          "description": "Nondisplaced Type II dens fracture, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "dens\n   fracture"
+        },
+        {
+          "begin": 3886,
+          "end": 3909,
+          "code": "R68.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypothermia, not associated with low environmental temperature",
+          "type": "Human",
+          "covered_text": "Therapeutic Hypothermia"
+        }
+      ],
+      "text": "Consult requested by: ED Team / Trauma Team\n   Chief Complaint: s/p arrest\n   HPI:\n   71M BIBEMS after fall of bicycle, by report stood up, then collapsed,\n   found to be pulseless. Received CPR, meds, with ROSC. Re-arrested with\n   EMS, and again in Trauma bay. Found to have C2 fx on imaging, rib fx,\n   no other acute injuries. MRI of spine ordered and pending. Estimated\n   downtime 10 mins.\n   Currently on Levophed for hypoTN.  Rhythm strips currently unavailable\n   for review.\n   Allergies:\n   Last dose of Antibiotics:\n   Infusions:\n   Norepinephrine - 0.1 mcg/Kg/min\n   Other ICU medications:\n   Other medications:\n   Past medical history:\n   Family history:\n   Social history:\n   idiopathic generalized neuropathy, distant h/o seizure, BPH, leukopenia\n   (presumed [**3-13**] lamictal, no h/o serious infection), sleep apnea, spinal\n   stenosis, retinal detachment, [**Hospital Ward Name 5060**] cyst,\n   Occupation:\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other:\n   Review of systems:\n   Flowsheet Data as of  [**2147-12-18**] 03:59 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.4\nC (97.6\n   Tcurrent: 35.5\nC (95.9\n   HR: 59 (59 - 67) bpm\n   BP: 113/67(87) {93/59(74) - 114/67(87)} mmHg\n   RR: 21 (17 - 21) insp/min\n   SpO2: 96%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 92 kg (admission): 92 kg\n             Total In:\n             4,552 mL\n   PO:\n             TF:\n   IVF:\n   552 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                  1,380 mL\n   Urine:\n   1,380 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  3,172 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 22\n   RR (Spontaneous): 0\n   PEEP: 10 cmH2O\n   FiO2: 100%\n   PIP: 24 cmH2O\n   SpO2: 96%\n   ABG: 7.29/48/81.[**Numeric Identifier **]/21/-3\n   Ve: 10.7 L/min\n   PaO2 / FiO2: 81\n   Physical Examination\n   General Appearance: Intubated\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Endotracheal tube\n   Lymphatic: c-collar\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: Absent\n   Skin:  Not assessed\n   Neurologic: Responds to: Unresponsive, Movement: No spontaneous\n   movement, Tone: Not assessed\n   Labs / Radiology\n   225 K/uL\n   12.4 g/dL\n   153 mg/dL\n   0.8 mg/dL\n   21 mEq/L\n   5.0 mEq/L\n   29 mg/dL\n   107 mEq/L\n   139 mEq/L\n   38.5 %\n   3.7 K/uL\n        [image002.jpg]\n                             [**2147-12-18**]  12:14 PM\n                             [**2147-12-18**]  02:17 PM\n                             [**2147-12-18**]  02:34 PM\n   WBC\n   3.7\n   Hct\n   38.5\n   Plt\n   225\n   Cr\n   0.8\n   TCO2\n   22\n   24\n   Glucose\n   195\n   153\n   Other labs: PT / PTT / INR:14.7/23.8/1.3, ALT / AST:333/517, Alk Phos /\n   T Bili:199/0.3, Amylase / Lipase:56/41, Differential-Neuts:82.2 %,\n   Lymph:13.5 %, Mono:1.9 %, Eos:1.8 %, Fibrinogen:210 mg/dL, Lactic\n   Acid:4.5 mmol/L, Albumin:3.7 g/dL, Ca++:7.4 mg/dL, Mg++:2.1 mg/dL,\n   PO4:5.7 mg/dL\n   Assessment and Plan\n   71M s/p fall with subsequent cardiac arrest, ? cord injury [**3-13**] dens\n   fracture.\n   Recommendations for neuroprotection:\n   1.       Therapeutic Hypothermia: Pt had a cardiac arrest of unclear\n   etiology, although may be related to a high cervical spine injury since\n   pt has evidence of a dens fracture on CT scan. Induction of hypothermia\n   carries a theoretical risk of coagulopathy and while this pat sustained\n   trauma, there is currently no evidence of active hemorrhage. However,\n   in discussion with the attending trauma surgeon, there is a concern for\n   the possibility of delayed bleeding around site of cord injury if the\n   pt becomes coagulopathic; therefore, will defer cooling for now,\n   pending MRI of spine. If MRI is negative for cord edema, this issue\n   could be revisited, although pt is now at least 5 hours out from\n   initial arrest.\n   2.       Avoid elevated ICP:\n   -          HOB > 30 degrees\n   -          Maintain normocarbia goal pCO2 35-40\n   3.       Monitor for seizure activity:\n                  -      Continuous EEG x 48 hrs\n                  -       If sz activity on EEG, treat with benzos/AEDs as\n   per Neurology recs\n                  -       Neurology ICU/Epilepsy consult for EEG\n   interpretation, prognosis\n   We will continue to follow with primary team, please call/page with\n   questions.\n   [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 963**], MD\n   EM/CCM  Fellow\n   Pager [**Numeric Identifier 8744**]\n"
+    },
+    {
+      "note_id": 604372,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 76,
+          "end": 90,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "cardiac arrest"
+        },
+        {
+          "begin": 156,
+          "end": 222,
+          "code": "V17.9XXA",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified pedal cyclist injured in collision with fixed or stationary object in traffic accident, initial encounter",
+          "type": "Human",
+          "covered_text": "riding his\n   bike with a helmet at a low speed and hit a pot hole"
+        },
+        {
+          "begin": 405,
+          "end": 408,
+          "code": "92950",
+          "code_system": "CPT",
+          "description": "Cardiopulmonary resuscitation (eg, in cardiac arrest)",
+          "type": "Human",
+          "covered_text": "CPR"
+        },
+        {
+          "begin": 725,
+          "end": 738,
+          "code": "S12.112A",
+          "code_system": "ICD-10-CM",
+          "description": "Nondisplaced Type II dens fracture, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "dens fracture"
+        },
+        {
+          "begin": 832,
+          "end": 865,
+          "code": "G60.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hereditary and idiopathic neuropathy, unspecified",
+          "type": "Human",
+          "covered_text": "idiopathic generalized neuropathy"
+        },
+        {
+          "begin": 2947,
+          "end": 2966,
+          "code": "36556",
+          "code_system": "CPT",
+          "description": "Insertion of non-tunneled centrally inserted central venous catheter; age 5 years or older",
+          "type": "Human",
+          "covered_text": "Left subclavian CVL"
+        },
+        {
+          "begin": 3029,
+          "end": 3048,
+          "code": "G93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Anoxic brain damage, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "anoxic brain injury"
+        },
+        {
+          "begin": 3053,
+          "end": 3072,
+          "code": "S14.102A",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified injury at C2 level of cervical spinal cord, initial encounter",
+          "type": "Human",
+          "covered_text": "C2 cord transection"
+        },
+        {
+          "begin": 3145,
+          "end": 3148,
+          "code": "Z66",
+          "code_system": "ICD-10-CM",
+          "description": "Do not resuscitate",
+          "type": "Human",
+          "covered_text": "DNR"
+        },
+        {
+          "begin": 7668,
+          "end": 7673,
+          "code": "51702",
+          "code_system": "CPT",
+          "description": "Insertion of temporary indwelling bladder catheter; simple (eg, Foley)",
+          "type": "Human",
+          "covered_text": "foley"
+        }
+      ],
+      "text": "TITLE:\n   TSICU\n   HPI:\n   This is a 71 year old male who presents to ED in cardiac arrest s/p\n   fall from bicycle.  Per witnesses report, the patient was riding his\n   bike with a helmet at a low speed and hit a pot hole; he did not lose\n   consciousness, but stood up and then suddenly collapsed. Per witnesses,\n   patient was initially unresponsive but with a pulse. Upon EMS arrival,\n   he arrested; CPR was started, and a pulse was regained. However the\n   patient went into cardiac arrest again. He was pulseless and\n   non-breathing for approximately 5-10 minutes. ACLS protocol was started\n   and a pulse was found. In ED, he remains intubated, in NSR and on\n   norepi for blood pressure. Found to have Acute type 2 dens fracture.\n   Admitted to TICU for further management.\n   Chief complaint:\n   unresponsive\n   PMHx:\n   idiopathic generalized neuropathy, distant h/o seizure, BPH, leukopenia\n   (presumed [**3-13**] lamictal, no h/o serious infection), sleep apnea, spinal\n   stenosis, retinal detachment, [**Hospital Ward Name 5060**] cyst, rt 3rd fx\n   Current medications:\n   1. IV access: Temporary central access (ICU) Location: Left Subclavian,\n   Date inserted: [**2147-12-18**] Order date: [**12-18**] @ 1325\n   10. Insulin SC  (per Insulin Flowsheet)\n         Sliding Scale Order date: [**12-18**] @ 1132\n   2. IV access: Temporary central access (ICU) Location: Left Subclavian,\n   Date inserted: [**2147-12-18**] Order date: [**12-18**] @ 1557\n   11. LeVETiracetam 1000 mg IV 1X Duration: 1 Doses Order date: [**12-18**] @\n   1609\n   3. OK to use line Order date: [**12-18**] @ 1557\n   12. Magnesium Sulfate  IV Sliding Scale Order date: [**12-18**] @ 1455\n   4. 1000 mL NS\n   Continuous at 100 ml/hr Order date: [**12-18**] @ 1525\n   13. Norepinephrine 0.03-0.25 mcg/kg/min IV DRIP TITRATE TO sbp > 90\n   Order date: [**12-18**] @ 1132\n   5. 500 ml NS Bolus 500 ml Over 15 mins Order date: [**12-18**] @ 1132\n   14. Potassium Chloride  IV Sliding Scale Order date: [**12-18**] @ 1455\n   6. Calcium Gluconate  IV Sliding Scale Order date: [**12-18**] @ 1455\n   15. Potassium Phosphate  IV Sliding Scale\n   Infuse over 6 hours  Order date: [**12-18**] @ 1455\n   7. Chlorhexidine Gluconate 0.12% Oral Rinse 15 ml ORAL [**Hospital1 **]\n   Use only if patient is on mechanical ventilation.  Order date: [**12-18**] @\n   1132\n   16. Sodium Chloride 0.9% Flush 10 mL IV PRN line flush\n   Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and\n   PRN.  Order date: [**12-18**] @ 1325\n   8. Famotidine 20 mg IV Q12H  Order date: [**12-18**] @ 1454\n   17. Sodium Chloride 0.9% Flush 10 mL IV PRN line flush\n   Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and\n   PRN.  Order date: [**12-18**] @ 1557\n   9. Fentanyl Citrate 25-100 mcg IV Q1H:PRN discomfort  Order date: [**12-18**]\n   @ [**2160**]\n   24 Hour Events:\n   Pan-scanned and found to have Acute type 2 dens fracture. Admitted to\n   TICU. Left subclavian CVL and right radial artery line placed. MRI\n   brain/c-spine c/w anoxic brain injury and C2 cord transection. Family\n   meeting - pt will be made [**Year (4 digits) 303**] this AM. DNR overnight. No acute issues\n   overnight.\n   Allergies:\n   Last dose of Antibiotics:\n   Infusions:\n   Norepinephrine - 0.06 mcg/Kg/min\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2147-12-18**] 08:20 PM\n   Fentanyl - [**2147-12-19**] 02:03 AM\n   Other medications:\n   Flowsheet Data as of  [**2147-12-19**] 04:55 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**50**] a.m.\n   Tmax: 36.7\nC (98.1\n   T current: 36.3\nC (97.4\n   HR: 54 (53 - 67) bpm\n   BP: 110/62(81) {93/57(71) - 155/96(117)} mmHg\n   RR: 22 (17 - 22) insp/min\n   SPO2: 98%\n   Heart rhythm: SB (Sinus Bradycardia)\n   Wgt (current): 92 kg (admission): 92 kg\n             Total In:\n                                                                  5,424 mL\n                                                                    539 mL\n   PO:\n             Tube feeding:\n   IV Fluid:\n                                                                  1,424 mL\n                                                                    539 mL\n   Blood products:\n   Total out:\n                                                                  1,995 mL\n                                                                    407 mL\n   Urine:\n                                                                  1,995 mL\n                                                                    157 mL\n   NG:\n   250 mL\n   Stool:\n   Drains:\n   Balance:\n                                                                  3,429 mL\n                                                                    132 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 22\n   RR (Spontaneous): 0\n   PEEP: 10 cmH2O\n   FiO2: 60%\n   RSBI Deferred: PEEP > 10, FiO2 > 60%\n   PIP: 24 cmH2O\n   Plateau: 20 cmH2O\n   SPO2: 98%\n   ABG: 7.37/38/162/21/-2\n   Ve: 10.4 L/min\n   PaO2 / FiO2: 270\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: pupils sluggish to react b/l\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended\n   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present)\n   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present)\n   Neurologic: (Responds to: Unresponsive)\n   Labs / Radiology\n   208 K/uL\n   12.2 g/dL\n   159 mg/dL\n   0.7 mg/dL\n   21 mEq/L\n   4.3 mEq/L\n   27 mg/dL\n   108 mEq/L\n   139 mEq/L\n   37.3 %\n   7.4 K/uL\n        [image002.jpg]\n                             [**2147-12-18**]  12:14 PM\n                             [**2147-12-18**]  02:17 PM\n                             [**2147-12-18**]  02:34 PM\n                             [**2147-12-18**]  06:50 PM\n                             [**2147-12-18**]  07:00 PM\n                            [**2147-12-19**]  01:00 AM\n                            [**2147-12-19**]  01:01 AM\n                            [**2147-12-19**]  01:11 AM\n   WBC\n   3.7\n   7.4\n   Hct\n   38.5\n   37.3\n   Plt\n   225\n   208\n   Creatinine\n   0.8\n   0.7\n   TCO2\n   22\n   24\n   22\n   23\n   Glucose\n   195\n   153\n   127\n   153\n   159\n   Other labs: PT / PTT / INR:13.5/23.6/1.2, ALT / AST:280/333, Alk-Phos /\n   T bili:177/0.3, Amylase / Lipase:56/41, Differential-Neuts:82.2 %,\n   Lymph:13.5 %, Mono:1.9 %, Eos:1.8 %, Fibrinogen:210 mg/dL, Lactic\n   Acid:1.2 mmol/L, Albumin:3.7 g/dL, Ca:7.9 mg/dL, Mg:2.0 mg/dL, PO4:5.0\n   mg/dL\n   Assessment and Plan\n   CERVICAL FRACTURE (WITH SPINAL CORD INJURY)\n   ASSESSMENT AND PLAN: 71y M s/p fall from bike with subsequent\n   unresponsiveness and cardiac arrest for approximately 10 minutes.\n   Found to have a Type II Dens fracture with C2 cord injury, and anoxic\n   brain injury.\n   NEURO: unresponsive, reactive pupils, no gag reflex, no oculocephalic\n   reflex. Anoxic brain injury and C2 cord injury. Neurology consulted\n   regarding questionable status epilepticus - given 1 time dose of\n   keppra. EEG monitoring cancelled as pts family wishes to make pt [**Name (NI) 303**] in\n   am.\n   Neuro checks Q:4h\n   Pain: fentanyl prn\n   CVS: currently on levophed gtt with goal to titrate SBP>90.\n   PULM: intubated, AC 500/22/5/100%. F/U repeat CXR to eval for pulm\n   hematoma s/p CVL placement.\n   GI: NPO, unable to place NGT, famotidine prophy\n   RENAL: foley. Monitor UOP. Cr 1.0\n   HEME: Hct 36.9 -> 38.5, cont to monitor\n   ENDO: RISS\n   ID: afebrile, no signs of infection\n   TLD: right radial artery line, left subclavian CVL, ETT, foley\n   IVF: NS@100cc/hr\n   CONSULTS: Red (west 3) surgery\n   BILLING DIAGNOSIS:\n   ICU CARE:\n   GLYCEMIC CONTROL: RISS\n   PROPHYLAXIS:\n   DVT - boots\n   STRESS ULCER - famotidine\n   VAP BUNDLE - yes\n   COMMUNICATIONS: wife\n   ICU Consent: Yes\n   CODE STATUS: Full Code\n   DISPOSITION: TICU\n   Total time spent: 32 minutes\n"
+    },
+    {
+      "note_id": 1106851,
+      "category": "Radiology",
+      "description": "L HAND (AP, LAT & OBLIQUE) LEFT",
+      "annotations": [
+        {
+          "begin": 1081,
+          "end": 1133,
+          "code": "S52.572A",
+          "code_system": "ICD-10-CM",
+          "description": "Other intraarticular fracture of lower end of left radius, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "Non-displaced intra-articular distal radius fracture"
+        },
+        {
+          "begin": 1141,
+          "end": 1183,
+          "code": "S62.337A",
+          "code_system": "ICD-10-CM",
+          "description": "Displaced fracture of neck of fifth metacarpal bone, left hand, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "Fracture through the fifth metacarpal neck"
+        }
+      ],
+      "text": "[**2147-12-18**] 12:26 PM\n HAND (AP, LAT & OBLIQUE) LEFT                                   Clip # [**Clip Number (Radiology) 27046**]\n Reason: eval for injury\n Admitting Diagnosis: S/P CARDIAC ARREST\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  71 year old man s/p bicycle accident\n REASON FOR THIS EXAMINATION:\n  eval for injury\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  Bicycle accident.\n\n COMPARISON:  None.\n\n THREE VIEWS LEFT HAND:\n\n Examination is limited by an overlying IV and tubing. There is a non-displaced\n intra-articular distal radial fracture.  At the fifth metacarpal, there is a\n prominent osteophyte but additionally, there is a mildly apex dorsally\n angulated fracture through the metacarpal neck.  There are moderate\n degenerative changes at the first metacarpophalangeal and carpometacarpal\n joints.  There is also mild chondrocalcinosis at the lunotriquetral ligament.\n\n IMPRESSION:\n 1)  Non-displaced intra-articular distal radius fracture.\n\n 2)  Fracture through the fifth metacarpal neck with apex dorsal angulation.\n\n These findings were discussed with Dr.[**Doctor Last Name 21465**] on [**2147-12-18**] at 3 p.m.\n\n\n"
+    },
+    {
+      "note_id": 1106893,
+      "category": "Radiology",
+      "description": "MR HEAD W & W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 195,
+          "end": 209,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "CARDIAC ARREST"
+        },
+        {
+          "begin": 425,
+          "end": 446,
+          "code": "G93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Anoxic brain damage, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "anoxic brain\n  injury"
+        }
+      ],
+      "text": "[**2147-12-18**] 3:56 PM\n MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 27048**]\n Reason: eval for neurologic injury\n Admitting Diagnosis: S/P CARDIAC ARREST\n  Contrast: MAGNEVIST Amt: 18\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  71 year old man s/p fall off bike and likely cord injury eval for anoxic brain\n  injury\n REASON FOR THIS EXAMINATION:\n  eval for anoxic brain injury\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: SBNa MON [**2147-12-18**] 5:53 PM\n\n  Abnl diffusion in basal ganglia, thalamus and medial posterior temporal lobes\n  bilaterally c/w hypoxic injury. D/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4062**] [**Last Name (NamePattern1) 4063**]\n ______________________________________________________________________________\n                                 FINAL REPORT\n MRI OF THE BRAIN WITHOUT AND WITH GAD\n\n HISTORY:  Hypoxic injury to the brain status post trauma.\n\n FINDINGS:\n There is restricted diffusion and increased FLAIR signal in bilateral caudate\n nuclei, putamen, dorsal mid brain, and in the occipital cortex.  Findings are\n compatible with hypoxic injury.  Post-gadolinium images demonstrate\n enhancement in the caudate head and in the left putamen as well as in\n bilateral occipital cortices.\n   A few scattered subcortical hyperintensities may represent small vessel\n ischemic sequela in a patient of this age group. Bilateral ethmoid\n opacification is noted and there is a right maxillary sinus mucous retention\n cyst.  There is a small fluid level in the sphenoid sinus. Intracranial flow\n voids are maintained.\n\n There is no evidence for hydrocephalus.\n\n There is fluid in the left mastoid air cells.\n\n There is a right scleral band in the globe.\n\n\n Incidentally noted on the sagittal images is a known cervical fracture at C2\n with cord contusion.\n\n IMPRESSION:\n Findings compatible with hypoxic brain injury.\n\n Findings were discussed with [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 4063**] by Dr. [**Last Name (STitle) 7398**].\n\n\n\n\n                                                             (Over)\n\n [**2147-12-18**] 3:56 PM\n MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 27048**]\n Reason: eval for neurologic injury\n Admitting Diagnosis: S/P CARDIAC ARREST\n  Contrast: MAGNEVIST Amt: 18\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n\n\n\n\n"
+    },
+    {
+      "note_id": 1106833,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 291,
+          "end": 299,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "asystole"
+        },
+        {
+          "begin": 1031,
+          "end": 1055,
+          "code": "R91.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other nonspecific abnormal finding of lung field",
+          "type": "Human",
+          "covered_text": "Right upper lobe opacity"
+        },
+        {
+          "begin": 1158,
+          "end": 1172,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "cardiac arrest"
+        }
+      ],
+      "text": "[**2147-12-18**] 11:05 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 27042**]\n Reason: trauma?\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  60 year old man with asystole, s/p bike trauma\n REASON FOR THIS EXAMINATION:\n  trauma?\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  60-year-old male status post asystole and bike trauma.\n\n No comparison studies available.\n\n Supine AP view of the chest: There is a trauma board underneath the patient.\n There is increased density along the right upper lobe, which may represent\n pulmonary contusion or aspiration pneumonitis.  The remaining lungs are clear.\n Cardiomediastinal contours are otherwise within normal limits.  There is no\n pneumothorax or pleural effusion seen.  The endotracheal tube tip is noted\n within the proximal right bronchus.\n\n IMPRESSION:\n 1.  Right upper lobe opacity could be secondary to contusion or aspiration in\n the setting of this patient's history of trauma and cardiac arrest.\n 2.  The endotracheal tube is positioned within the right bronchus. Please\n note, ETT repositioned on subsequent CT.\n\n Please refer to CT torso performed subsequently for additional findings.\n\n"
+    },
+    {
+      "note_id": 77170,
+      "category": "Echo",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 209,
+          "end": 232,
+          "code": "93306",
+          "code_system": "CPT",
+          "description": "Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, complete, with spectral Doppler echocardiography, and with color flow Doppler echocardiography",
+          "type": "Human",
+          "covered_text": "Portable TTE (Complete)"
+        },
+        {
+          "begin": 1997,
+          "end": 2037,
+          "code": "R93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal findings on diagnostic imaging of heart and coronary circulation",
+          "type": "Human",
+          "covered_text": "Mild global left ventricular hypokinesis"
+        },
+        {
+          "begin": 2069,
+          "end": 2092,
+          "code": "I77.819",
+          "code_system": "ICD-10-CM",
+          "description": "Aortic ectasia, unspecified site",
+          "type": "Human",
+          "covered_text": "Dilated ascending aorta"
+        }
+      ],
+      "text": "PATIENT/TEST INFORMATION:\nIndication: Left ventricular function.\nHeight: (in) 71\nWeight (lb): 300\nBSA (m2): 2.51 m2\nBP (mm Hg): 110/71\nHR (bpm): 62\nStatus: Inpatient\nDate/Time: [**2147-12-18**] at 15:09\nTest: Portable TTE (Complete)\nDoppler: Full Doppler and color Doppler\nContrast: None\nTechnical Quality: Adequate\n\n\nINTERPRETATION:\n\nFindings:\n\nLEFT ATRIUM: Elongated LA.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. Normal IVC diameter\n(<2.1cm) with >55% decrease during respiration (estimated RA pressure\n(0-5mmHg).\n\nLEFT VENTRICLE: Normal LV wall thickness and cavity size. Mild global LV\nhypokinesis. No resting LVOT gradient.\n\nRIGHT VENTRICLE: Normal RV chamber size. Borderline normal RV systolic\nfunction.\n\nAORTA: Moderately dilated aortic sinus. Mildly dilated ascending aorta.\n\nAORTIC VALVE: Normal aortic valve leaflets (3). No AS. Trace AR.\n\nMITRAL VALVE: Normal mitral valve leaflets with trivial MR. Mild mitral\nannular calcification.\n\nTRICUSPID VALVE: Normal tricuspid valve leaflets. Mild to moderate [[**2-10**]+] TR.\nMild PA systolic hypertension.\n\nPULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized. No PS.\nPhysiologic PR.\n\nPERICARDIUM: No pericardial effusion.\n\nConclusions:\nThe left atrium is elongated. The right atrium is moderately dilated. The\nestimated right atrial pressure is 0-5 mmHg. Left ventricular wall thicknesses\nand cavity size are normal. There is mild global left ventricular hypokinesis\n(LVEF = 45%). Right ventricular chamber size is normal with borderline normal\nfree wall function. The aortic root is moderately dilated at the sinus level.\nThe ascending aorta is mildly dilated. The aortic valve leaflets (3) appear\nstructurally normal with good leaflet excursion and no aortic stenosis. Trace\naortic regurgitation is seen. The mitral valve appears structurally normal\nwith trivial mitral regurgitation. There is mild pulmonary artery systolic\nhypertension. There is no pericardial effusion.\n\nIMPRESSION: Suboptimal image quality. Mild global left ventricular hypokinesis\nwithout regional dysfunction.. Dilated ascending aorta.\n\nCLINICAL IMPLICATIONS:\nBased on [**2145**] AHA endocarditis prophylaxis recommendations, the echo findings\nindicate prophylaxis is NOT recommended. Clinical decisions regarding the need\nfor prophylaxis should be based on clinical and echocardiographic data.\n\n\n"
+    },
+    {
+      "note_id": 604253,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 38,
+          "end": 70,
+          "code": "94003",
+          "code_system": "CPT",
+          "description": "Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; hospital inpatient/observation, each subsequent day",
+          "type": "Human",
+          "covered_text": "Day of mechanical ventilation: 2"
+        }
+      ],
+      "text": "Demographics\n   Day of intubation:\n   Day of mechanical ventilation: 2\n   Ideal body weight: 0 None\n   Ideal tidal volume: 0 / 0 / 0 mL/kg\n   Airway\n   Tube Type\n   ETT:\n                   Position: 22 cm at teeth\n                   Route: Oral\n                   Type: Standard\n                   Size: 7.5mm\n   Cuff  Management:\n                   Vol/Press:\n                                   Cuff pressure: 26  cmH2O\n   Lung sounds\n   RLL Lung Sounds: Diminished\n   RUL Lung Sounds: Clear\n   LUL Lung Sounds: Clear\n   LLL Lung Sounds: Diminished\n   Comments:\n   Secretions\n   Sputum color / consistency:  /\n   Sputum source/amount: Suctioned / None\n   Comments:\n   Ventilation Assessment\n   Level of breathing assistance: Continuous invasive ventilation\n   Visual assessment of breathing pattern: Normal quiet breathing\n   Assessment of breathing comfort: No response (sleeping / sedated)\n   Invasive ventilation assessment:\n   Trigger work assessment: Not triggering\n   Plan\n   Next 24-48 hours: Comfort measures only\n   Reason for continuing current ventilatory support:\n"
+    },
+    {
+      "note_id": 604135,
+      "category": "Physician",
+      "description": "Physician Surgical Admission Note",
+      "annotations": [
+        {
+          "begin": 182,
+          "end": 248,
+          "code": "V17.9XXA",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified pedal cyclist injured in collision with fixed or stationary object in traffic accident, initial encounter",
+          "type": "Human",
+          "covered_text": "riding his\n   bike with a helmet at a low speed and hit a pot hole"
+        },
+        {
+          "begin": 510,
+          "end": 524,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "cardiac arrest"
+        },
+        {
+          "begin": 5977,
+          "end": 5998,
+          "code": "S12.112A",
+          "code_system": "ICD-10-CM",
+          "description": "Nondisplaced Type II dens fracture, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "Type II Dens fracture"
+        },
+        {
+          "begin": 6013,
+          "end": 6032,
+          "code": "G93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Anoxic brain damage, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "anoxic brain injury"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: Unresponsive\n   HPI:\n     This is a 71 year old male who presents to ED in cardiac arrest s/p\n   fall from bicycle.  Per witnesses report, the patient was riding his\n   bike with a helmet at a low speed and hit a pot hole; he did not lose\n   consciousness, but stood up and then suddenly collapsed. Per witnesses,\n   patient was initially\n   unresponsive but with a pulse. Upon EMS arrival, he arrested; CPR was\n   started, and a pulse was regained. However the patient went into\n   cardiac arrest again. He was pulseless and non-breathing for\n   approximately 5-10 minutes. ACLS protocol was started and a pulse was\n   found. In ED, he remains intubated, in NSR and on norepi for blood\n   pressure. Found to have Acute type 2 dens fracture. Admitted to TICU\n   for further management.\n   Other medications:\n   1. IV access: Temporary central access (ICU) Location: Left Subclavian,\n   Date inserted: [**2147-12-18**] Order date: [**12-18**] @ 1325\n   7. Insulin SC  (per Insulin Flowsheet)\n         Sliding Scale Order date: [**12-18**] @ 1132\n   2. 1000 mL NS\n   Continuous at 100 ml/hr Order date: [**12-18**] @ 1525\n   8. Magnesium Sulfate  IV Sliding Scale Order date: [**12-18**] @ 1455\n   3. 500 ml NS Bolus 500 ml Over 15 mins Order date: [**12-18**] @ 1132\n   9. Norepinephrine 0.03-0.25 mcg/kg/min IV DRIP TITRATE TO sbp > 90\n   Order date: [**12-18**] @ 1132\n   4. Calcium Gluconate  IV Sliding Scale Order date: [**12-18**] @ 1455\n   10. Potassium Chloride  IV Sliding Scale Order date: [**12-18**] @ 1455\n   5. Chlorhexidine Gluconate 0.12% Oral Rinse 15 ml ORAL [**Hospital1 **]\n   Use only if patient is on mechanical ventilation.  Order date: [**12-18**] @\n   1132\n   11. Potassium Phosphate  IV Sliding Scale\n   Infuse over 6 hours  Order date: [**12-18**] @ 1455\n   6. Famotidine 20 mg IV Q12H  Order date: [**12-18**] @ 1454\n   12. Sodium Chloride 0.9% Flush 10 mL IV PRN line flush\n   Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and\n   PRN.  Order date: [**12-18**] @ 1325\n   Post operative day:\n   Allergies:\n   DI VALPROATE\n   Last dose of Antibiotics:\n   Infusions:\n   Norepinephrine - 0.1 mcg/Kg/min\n   Other ICU medications:\n   Past medical history:\n   Family / Social  history:\n   idiopathic generalized neuropathy, distant h/o seizure, BPH, leukopenia\n   (presumed [**3-13**] lamictal, no h/o serious infection), sleep apnea, spinal\n   stenosis, retinal detachment, [**Hospital Ward Name 5060**] cyst, rt 3rd fx\n   Married to wife [**Name (NI) 2379**], works for [**Company 4535**]\n   Flowsheet Data as of  [**2147-12-18**] 03:25 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.4\nC (97.6\n   Tcurrent: 35.5\nC (95.9\n   HR: 59 (59 - 67) bpm\n   BP: 113/67(87) {93/59(74) - 114/67(87)} mmHg\n   RR: 21 (17 - 21) insp/min\n   SpO2: 96%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 92 kg (admission): 92 kg\n             Total In:\n             4,539 mL\n   PO:\n             TF:\n   IVF:\n   539 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                  1,380 mL\n   Urine:\n   1,380 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  3,159 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 22\n   RR (Spontaneous): 0\n   PEEP: 10 cmH2O\n   FiO2: 100%\n   PIP: 24 cmH2O\n   SpO2: 96%\n   ABG: 7.29/48/81.[**Numeric Identifier **]//-3\n   Ve: 10.7 L/min\n   PaO2 / FiO2: 81\n   Physical Examination\n   General Appearance: No acute distress\n   Eyes / Conjunctiva: Pupils dilated, nonreactive pupils\n   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube\n   Lymphatic: Cervical WNL, Supraclavicular WNL\n   Cardiovascular: (No(t) PMI), (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, No(t) Non-tender, Bowel sounds present\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: Absent\n   Musculoskeletal: No withdrawal of extremities to noxious stimuli\n   Skin:  Warm\n   Neurologic: Responds to: Unresponsive, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   225 K/uL\n   12.4 g/dL\n   195 mg/dL\n   4.2 mEq/L\n   105 mEq/L\n   137 mEq/L\n   38.5 %\n   3.7 K/uL\n        [image002.jpg]\n                             [**2147-12-18**]  12:14 PM\n                             [**2147-12-18**]  02:17 PM\n                             [**2147-12-18**]  02:34 PM\n   WBC\n   3.7\n   Hct\n   38.5\n   Plt\n   225\n   TCO2\n   22\n   24\n   Glucose\n   195\n   Other labs: Lactic Acid:4.5 mmol/L\n   Imaging: [**12-18**] CT Chest/Abd/Pelv - Small hematoma along the left renal\n   pelvis/UPJ without evidence of urinary tract disruption; Bilateral\n   posterior lung consolidations likely reflect the sequelae of\n   aspiration; Extensive atherosclerotic calcification along the coronary\n   arteries; Multiple left-sided rib fractures; Heterogeneous perfusion\n   along the dome of the liver likely reflects abnormal perfusion and may\n   be related to volume resuscitation and asystolic arrest.\n   [**12-18**] CT Head - no acute intracranial pathology.\n   [**12-18**] - CT C-Spine - Acute type 2 dens fracture with neighboring soft\n   tissue swelling and no significant displacement.\n   Assessment and Plan\n   Assessment And Plan: 71y M s/p fall from bike with subsequent\n   unresponsiveness and cardiac arrest for approximately 10 minutes. Found\n   to have a Type II Dens fracture, and signs of anoxic brain injury.\n   Neurologic: unresponsive, unreactive pupils, no gag reflex, showing no\n   signs of brain activity. F/u MRI brain to eval for anoxic brain injury.\n   F/U MRI C-spine to assess for spinal cord involvement. Pt to remain in\n   C-collar\n   Cardiovascular: currently on levophed gtt with goal to titrate SBP>90.\n   Bedside echo with no signs of wallmotion abnormality. F/[**Location 9212**]\n   echocardiogram.\n   Pulmonary: intubated, AC 500/22/5/100%. F/U repeat CXR to eval for pulm\n   hematoma s/p CVL placement.\n   Gastrointestinal: NPO, unable to place NGT, famotidine prophy\n   Renal: foley. Monitor UOP. Cr 1.0\n   Hematology: Hct 36.9, cont to monitor\n   Infectious Disease: afebrile. WBC wnl.\n   Endocrine: RISS\n   Fluids: NS@100cc/hr\n   Electrolytes: replace as needed\n   Nutrition: NPO\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Multi Lumen - [**2147-12-18**] 01:25 PM\n   Arterial Line - [**2147-12-18**] 02:50 PM\n   18 Gauge - [**2147-12-18**] 02:50 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: H2 blocker\n   VAP: HOB elevation, Mouth care\n   Need for restraints reviewed\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent:\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 1106878,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 1498,
+          "end": 1509,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "atelectasis"
+        }
+      ],
+      "text": "[**2147-12-18**] 3:36 PM\n CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 5**] # [**Clip Number (Radiology) 27050**]\n Reason: interval change, ? BLEED IN CHEST\n Admitting Diagnosis: S/P CARDIAC ARREST\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  71 year old man with new L SC CVL, ? bleed in LUL seen on initial chest x-ray\n REASON FOR THIS EXAMINATION:\n  interval change, ? BLEED IN CHEST\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  Follow-up of suspected left upper lobe bleed seen on the prior x-\n ray and to assess for interval change.\n\n COMPARISON:  A chest radiograph from [**2147-12-18**] from 11 a.m. and a chest\n radiograph from [**2147-12-18**] at 13:48.\n\n PORTABLE AP SUPINE CHEST RADIOGRAPH:  The study is limited due to marked\n rotation of the patient to the right with non-inclusion of the left lung base\n in the study.  Mediastinum is distorted due to the rotation.  There is\n interval resolution of the left upper lobe opacity which probably represents\n an atelectatic left upper lobe.  There is mild increase in the right lung\n interstitial opacities with Kerley B lines, which may represent positional\n effect of pulmonary edema affecting the right lung.  There is diffuse decrease\n in the translucency of the right lung, representing a right pleural effusion.\n Bibasilar atelectasis is otherwise unchanged.  Interval improvement in the\n right upper lobe atelectasis.\n\n An endotracheal tube is in standard position terminating 6 cm from the carina.\n Left subclavian line terminates at the upper SVC.  There is no evidence of\n pneumothorax.\n\n IMPRESSION:  Interval resolution of the left upper lobe opacity suggests left\n upper lobe collapse as a likely etiology for the opacity in the prior study.\n Stable bibasilar atelectasis with minimal interval improvement in the right\n upper lobe atelectasis.\n\n\n"
+    },
+    {
+      "note_id": 1106838,
+      "category": "Radiology",
+      "description": "CT C-SPINE W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 761,
+          "end": 775,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "cardiac arrest"
+        },
+        {
+          "begin": 1497,
+          "end": 1508,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "atelectasis"
+        },
+        {
+          "begin": 1567,
+          "end": 1580,
+          "code": "S12.112A",
+          "code_system": "ICD-10-CM",
+          "description": "Nondisplaced Type II dens fracture, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "dens fracture"
+        }
+      ],
+      "text": "[**2147-12-18**] 11:14 AM\n CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 27044**]\n Reason: fx\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  60 year old man with return of pulse after arrest in context of fall off of\n  bicycle\n REASON FOR THIS EXAMINATION:\n  fx\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: LLTc MON [**2147-12-18**] 11:59 AM\n  Acute Type II dens fx.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  60-year-old male status post bicycle fall and cardiac arrest.\n\n TECHNIQUE:  CT of the C-spine without IV contrast.\n\n Comparison CT of the Torso from [**2147-12-20**].\n\n FINDINGS:  There is an acute type 2 fracture of the dens, best seen on\n sagittal reformation.  There is no traumatic malalignment along the cervical\n spine.  There are no other acute fracture seen in the c-spine.  There is mild\n prevertebral soft tissue swelling at C1-2, without significant hematoma.\n There is no significant cervical spinal canal stenosis.  There are moderate\n degenerative changes throughout the remaining cervical spine.\n\n There is a nasogastric tube coiled upon itself within the oropharynx. ETT\n noted, tip not see.   Included portions of the lung demonstrate mild posterior\n consolidation/atelectasis.  Thyroid appears normal.\n\n IMPRESSION:\n 1.  Acute type 2 dens fracture with neighboring soft tissue swelling and no\n significant displacement.\n 2.  Coiled nasogastric tube within the oropharynx.\n\n These findings were discussed with Dr. [**Last Name (STitle) 776**] and remainder of the trauma\n team at the time of initial review.\n\n"
+    },
+    {
+      "note_id": 604143,
+      "category": "Consult",
+      "description": "Physician Initial Consult Note",
+      "annotations": [
+        {
+          "begin": 3155,
+          "end": 3169,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "cardiac arrest"
+        },
+        {
+          "begin": 3196,
+          "end": 3212,
+          "code": "S12.112A",
+          "code_system": "ICD-10-CM",
+          "description": "Nondisplaced Type II dens fracture, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "dens\n   fracture"
+        }
+      ],
+      "text": "Consult requested by: ED Team / Trauma Team\n   Chief Complaint: s/p arrest\n   HPI:\n   71M\n   Allergies:\n   Last dose of Antibiotics:\n   Infusions:\n   Norepinephrine - 0.1 mcg/Kg/min\n   Other ICU medications:\n   Other medications:\n   Past medical history:\n   Family history:\n   Social history:\n   Occupation:\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other:\n   Review of systems:\n   Flowsheet Data as of  [**2147-12-18**] 03:59 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.4\nC (97.6\n   Tcurrent: 35.5\nC (95.9\n   HR: 59 (59 - 67) bpm\n   BP: 113/67(87) {93/59(74) - 114/67(87)} mmHg\n   RR: 21 (17 - 21) insp/min\n   SpO2: 96%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 92 kg (admission): 92 kg\n             Total In:\n             4,552 mL\n   PO:\n             TF:\n   IVF:\n   552 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                  1,380 mL\n   Urine:\n   1,380 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  3,172 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 22\n   RR (Spontaneous): 0\n   PEEP: 10 cmH2O\n   FiO2: 100%\n   PIP: 24 cmH2O\n   SpO2: 96%\n   ABG: 7.29/48/81.[**Numeric Identifier **]/21/-3\n   Ve: 10.7 L/min\n   PaO2 / FiO2: 81\n   Physical Examination\n   General Appearance: Intubated\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Endotracheal tube\n   Lymphatic: c-collar\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: Absent\n   Skin:  Not assessed\n   Neurologic: Responds to: Unresponsive, Movement: No spontaneous\n   movement, Tone: Not assessed\n   Labs / Radiology\n   225 K/uL\n   12.4 g/dL\n   153 mg/dL\n   0.8 mg/dL\n   21 mEq/L\n   5.0 mEq/L\n   29 mg/dL\n   107 mEq/L\n   139 mEq/L\n   38.5 %\n   3.7 K/uL\n        [image002.jpg]\n                             [**2147-12-18**]  12:14 PM\n                             [**2147-12-18**]  02:17 PM\n                             [**2147-12-18**]  02:34 PM\n   WBC\n   3.7\n   Hct\n   38.5\n   Plt\n   225\n   Cr\n   0.8\n   TCO2\n   22\n   24\n   Glucose\n   195\n   153\n   Other labs: PT / PTT / INR:14.7/23.8/1.3, ALT / AST:333/517, Alk Phos /\n   T Bili:199/0.3, Amylase / Lipase:56/41, Differential-Neuts:82.2 %,\n   Lymph:13.5 %, Mono:1.9 %, Eos:1.8 %, Fibrinogen:210 mg/dL, Lactic\n   Acid:4.5 mmol/L, Albumin:3.7 g/dL, Ca++:7.4 mg/dL, Mg++:2.1 mg/dL,\n   PO4:5.7 mg/dL\n   Assessment and Plan\n   71M s/p fall with subsequent cardiac arrest, ? cord injury [**3-13**] dens\n   fracture.\n"
+    },
+    {
+      "note_id": 604175,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 48,
+          "end": 80,
+          "code": "94002",
+          "code_system": "CPT",
+          "description": "Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; hospital inpatient/observation, initial day",
+          "type": "Human",
+          "covered_text": "Day of mechanical ventilation: 1"
+        }
+      ],
+      "text": "TITLE:\n   Demographics\n   Day of intubation:\n   Day of mechanical ventilation: 1\n   Ideal body weight: 0 None\n   Ideal tidal volume: 0 / 0 / 0 mL/kg\n   Airway\n   Airway Placement Data\n   Known difficult intubation:\n   Procedure location:\n   Reason:\n   Tube Type\n   ETT:\n                   Position: 22 cm at teeth\n                   Route: Oral\n                   Type: Standard\n                   Size: 7.5mm\n   Tracheostomy tube:\n                   Type:\n                   Manufacturer:\n                   Size:\n                   PMV:\n   Cuff  Management:\n                   Vol/Press:\n                                   Cuff pressure:   cmH2O\n                                   Cuff volume:   mL /\n                   Airway problems:\n                   Comments:\n   Lung sounds\n   RLL Lung Sounds: Clear\n   RUL Lung Sounds: Clear\n   LUL Lung Sounds: Clear\n   LLL Lung Sounds: Clear\n   Comments:\n   Secretions\n   Sputum color / consistency: Clear /\n   Sputum source/amount: Suctioned / Scant\n   Comments:\n   Ventilation Assessment\n   Level of breathing assistance: Continuous invasive ventilation\n   Visual assessment of breathing pattern: Normal quiet breathing\n   Assessment of breathing comfort: No response (sleeping / sedated)\n   Non-invasive ventilation assessment:\n   Invasive ventilation assessment:\n   Trigger work assessment: Not triggering\n   Dysynchrony assessment:\n   Comments:\n   Plan\n   Next 24-48 hours:\n   Reason for continuing current ventilatory support: Underlying illness\n   not resolved\n   Respiratory Care Shift Procedures\n   Transports:\n   Destination (R/T)\n   Time\n   Complications\n   Comments\n   Bedside Procedures:\n   Comments:\n"
+    },
+    {
+      "note_id": 1106891,
+      "category": "Radiology",
+      "description": "MR CERVICAL SPINE W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 2267,
+          "end": 2316,
+          "code": "S14.0XXA",
+          "code_system": "ICD-10-CM",
+          "description": "Concussion and edema of cervical spinal cord, initial encounter",
+          "type": "Human",
+          "covered_text": "Acute edema of the spinal cord at the level of C2"
+        },
+        {
+          "begin": 2325,
+          "end": 2329,
+          "code": "S12.112A",
+          "code_system": "ICD-10-CM",
+          "description": "Nondisplaced Type II dens fracture, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "dens"
+        },
+        {
+          "begin": 2422,
+          "end": 2435,
+          "code": "S12.112A",
+          "code_system": "ICD-10-CM",
+          "description": "Nondisplaced Type II dens fracture, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "dens fracture"
+        }
+      ],
+      "text": "[**2147-12-18**] 3:56 PM\n MR CERVICAL SPINE W/O CONTRAST                                  Clip # [**Clip Number (Radiology) 27047**]\n Reason: eval unstable dense fracture for cord injury\n Admitting Diagnosis: S/P CARDIAC ARREST\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  71 year old man s/p bicycle accident\n REASON FOR THIS EXAMINATION:\n  eval unstable dense fracture for cord injury\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: SBNa MON [**2147-12-18**] 5:52 PM\n  Abnl cord signal posterior to C2 c/w cord contusion/edema. No large epidural\n  hematoma. Disruption of PLL and injury to ALL, interspinous ligaments. Known\n  C2 fx. Findings d/w with [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 4063**]\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  Dens fracture.\n\n COMPARISON:  Cervical spine CT scan dated [**2147-12-18**] at 11:24 a.m.\n\n TECHNIQUE:  Sagittal T1-weighted, T2-weighted, STIR, and diffusion-weighted\n images of the cervical spine were obtained, with axial gradient echo images\n from the craniocervical junction through C7-T1 interspace.\n\n FINDINGS:  Type II fracture of the dens is again seen, as described in detail\n in the preceding CT scan report.  There is associated disruption of the\n anterior and posterior longitudinal ligaments.  There is also edema in the\n interspinous ligament at C1-2, extending into the posterior paravertebral soft\n tissues.  There is high T2 signal and swelling in the spinal cord at the level\n of C2 and the dens, consistent with acute edema.  While the dens fracture\n fragment is slightly retropulsed relative to the body of [**Name (NI) 267**], no significant\n narrowing of the spinal canal is seen.  There is a very small epidural\n hematoma posterior to the body of the dens, measuring 1.5 mm in thickness\n (image 3:10).\n\n Degenerative changes are present from C3-4, C6-7, with mild-to-moderate\n narrowing of the neural foramina due to uncovertebral and facet osteophytes.\n No significant spinal canal stenosis is seen.\n\n IMPRESSION:\n\n 1.  Acute edema of the spinal cord at the level of C2 and the dens.\n\n 2.  Disruption of the anterior and posterior longitudinal ligaments at the\n level of the dens fracture.  Edema in the interspinous ligaments at C1-2.\n\n 3.  Small anterior epidural hematoma at the level of the C2 body.  While the\n dens fracture fragment is slightly retropulsed relative to the [**Name (NI) 267**] body, there\n is no significant spinal canal narrowing.\n\n\n\n                                                             (Over)\n\n [**2147-12-18**] 3:56 PM\n MR CERVICAL SPINE W/O CONTRAST                                  Clip # [**Clip Number (Radiology) 27047**]\n Reason: eval unstable dense fracture for cord injury\n Admitting Diagnosis: S/P CARDIAC ARREST\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n\n\n\n\n\n"
+    },
+    {
+      "note_id": 1106865,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 927,
+          "end": 938,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "atelectasis"
+        }
+      ],
+      "text": "[**2147-12-18**] 1:32 PM\n CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 27049**]\n Reason: ? line placement\n Admitting Diagnosis: S/P CARDIAC ARREST\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  71 year old man with new L SC CVL.\n REASON FOR THIS EXAMINATION:\n  ? line placement\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  New left subclavian central venous line.\n\n COMPARISON:  [**2147-12-18**]; CT, [**2147-12-18**].\n\n SINGLE PORTABLE SUPINE CHEST RADIOGRAPH:  The endotracheal tube has been\n retracted with its tip now 6.1 cm from the carina:  There has been interval\n introduction of a left subclavian catheter with the tip in the upper SVC.\n There is a new opacity around the aortic knob which may be  atelectasis or\n possible pulmonary hemorrhage.  Opacification in the right lobe is likely\n atelectasis from the occluded upper lobe bronchus.  Retrocardiac opacification\n suggests perisistent atelectasis worse in the right parasagital area.  There\n is no large effusion or pneumothorax.  Bowel loops remain distended.\n\n COMMENT:  These results were discussed with Dr. [**First Name8 (NamePattern2) 2609**] [**Last Name (NamePattern1) 14719**] by Dr. [**First Name8 (NamePattern2) 1238**]\n [**Name (STitle) 1239**] at 2:10 p.m.\n\n"
+    },
+    {
+      "note_id": 182955,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 17,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Sinus bradycardia"
+        }
+      ],
+      "text": "Sinus bradycardia. Non-specific slight anterolateral ST segment elevation.\nClinical correlation is suggested. Compared to tracing #1 of earlier the same\nday sinus bradycardia is new, ST segment elevation is new and the lateral\nT wave flattening has resolved.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 22294,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 445,
+          "end": 461,
+          "code": "G40.909",
+          "code_system": "ICD-10-CM",
+          "description": "Epilepsy, unspecified, not intractable, without status epilepticus",
+          "type": "Human",
+          "covered_text": "seizure disorder"
+        },
+        {
+          "begin": 809,
+          "end": 817,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "asystole"
+        },
+        {
+          "begin": 881,
+          "end": 889,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "asystole"
+        },
+        {
+          "begin": 1093,
+          "end": 1112,
+          "code": "G93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Anoxic brain damage, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "anoxic brain injury"
+        },
+        {
+          "begin": 1453,
+          "end": 1470,
+          "code": "S12.112A",
+          "code_system": "ICD-10-CM",
+          "description": "Nondisplaced Type II dens fracture, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "Odontoid fracture"
+        },
+        {
+          "begin": 1471,
+          "end": 1489,
+          "code": "S14.102A",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified injury at C2 level of cervical spinal cord, initial encounter",
+          "type": "Human",
+          "covered_text": "spinal cord injury"
+        },
+        {
+          "begin": 1490,
+          "end": 1509,
+          "code": "J96.90",
+          "code_system": "ICD-10-CM",
+          "description": "Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia",
+          "type": "Human",
+          "covered_text": "respiratory failure"
+        }
+      ],
+      "text": "Admission Date:  [**2147-12-18**]              Discharge Date:   [**2147-12-19**]\n\nDate of Birth:  [**2076-7-26**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nNo Drug Allergy Information on File\n\nAttending:[**First Name3 (LF) 974**]\nChief Complaint:\nfall from bike\n\nMajor Surgical or Invasive Procedure:\nN/A\n\n\nHistory of Present Illness:\n71M who was brought to the [**Hospital1 18**] ED after a fall from his bike.\n\nPast Medical History:\nseizure disorder, BPH, spinal stenosis, sleep apnea\n\nSocial History:\nN/A\n\nFamily History:\nN/A\n\nPhysical Exam:\nNo brainstem reflexes\n\nPertinent Results:\nN/A\n\nBrief Hospital Course:\nMr. [**Known lastname 58085**] was admitted after a fall from his bicycle.  He was\nseen getting up from the accident and then collapsed shortly\nthereafter.  He then was noted to be in asystole when EMS\narrived.  The total amount of time the patient was in asystole\nis not known.  Upon arrival to the ED he had regained a pulse.\nA neuro exam was performed and he had no brainstem reflexes.  An\nMRI confirmed a C2 level spinal cord injury and changes\nconsistent with an anoxic brain injury.  The NEOB was contact[**Name (NI) **]\nbut due to unknown circumstances surrounding his cardiac arrest\nhe did not meet donation criteria.  The family elected to\nwithdraw care.  He was extubated and expired shortly thereafter.\n\n\nMedications on Admission:\nN/A\n\nDischarge Medications:\nN/A\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nOdontoid fracture\nspinal cord injury\nrespiratory failure\n\n\nDischarge Condition:\nN/A\n\n\nDischarge Instructions:\nN/A\n\nFollowup Instructions:\nN/A\n\n\n"
+    },
+    {
+      "note_id": 1106839,
+      "category": "Radiology",
+      "description": "CT CHEST W/CONTRAST",
+      "annotations": [
+        {
+          "begin": 4276,
+          "end": 4306,
+          "code": "S22.42XA",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple fractures of ribs, left side, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "Acute left-sided rib fractures"
+        },
+        {
+          "begin": 4571,
+          "end": 4610,
+          "code": "M51.36",
+          "code_system": "ICD-10-CM",
+          "description": "Other intervertebral disc degeneration, lumbar region",
+          "type": "Human",
+          "covered_text": "Degenerative change in the lumbar spine"
+        },
+        {
+          "begin": 4616,
+          "end": 4633,
+          "code": "M47.816",
+          "code_system": "ICD-10-CM",
+          "description": "Spondylosis without myelopathy or radiculopathy, lumbar region",
+          "type": "Human",
+          "covered_text": "facet arthropathy"
+        }
+      ],
+      "text": "[**2147-12-18**] 11:14 AM\n CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 27045**]\n CT PELVIS W/CONTRAST\n Reason: trauma\n  Contrast: OPTIRAY Amt: 130\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  60 year old man with return of pulse after arrest in context of fall off of\n  bicycle\n REASON FOR THIS EXAMINATION:\n  trauma\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: LLTc MON [**2147-12-18**] 11:53 AM\n  Bilateral posterior consolidations within the lung, likely [**3-13**] aspiration.\n  Multiple acute left-sided rib fx\n  Small hematoma at the left ureteropelvic junction.\n ______________________________________________________________________________\n                                 FINAL REPORT\n CT SCAN OF THE CHEST, ABDOMEN, AND PELVIS PERFORMED ON [**2147-12-18**].\n\n CLINICAL HISTORY:  60-year-old man status post fall from bicycle with\n asystolic cardiac arrest.  Evaluate for internal injuries.\n\n TECHNIQUE:\n MDCT was used to obtain contiguous axial images through the chest, abdomen,\n and pelvis following the administration of 130 cc Optiray IV contrast.\n Delayed imaging through the kidneys was also performed.  Coronal and sagittal\n reformations were provided.\n\n FINDINGS:\n\n CHEST:  An endotracheal tube is seen with its tip approximately 4.6 cm above\n the carina.  The tip of the NG tube is seen within the distal esophagus.\n Please note, the proximal NG tube is coiled in the oropharynx (seen on the\n concurrently performed CT cervical spine).  The mediastinal great vessels\n opacify normally.  There is a moderate amount of atherosclerotic calcification\n noted along the aortic arch.  There is dense calcification along the coronary\n arteries.  The heart is normal in size.  There is no pericardial effusion.  No\n lymphadenopathy.\n\n Dense consolidation is seen within the posterior lungs bilaterally with\n scattered air bronchograms most compatible with sequelae of aspiration.  There\n is no pneumothorax, hemothorax or evidence of lung contusion.\n\n ABDOMEN:  Streak artifact from a metallic EKG lead overlying the upper abdomen\n and right lung base somewhat limits evaluation through the liver dome.  Within\n the liver dome in segment VIII, there is patchy hypoattenuation which may\n reflect abnormal perfusion as the appearance is unusual for contusion.  There\n is no evidence of liver laceration or perihepatic fluid.  There is mild\n periportal edema, likely reflecting volume resuscitation.  The gallbladder is\n normal.  The spleen is intact.  Adrenal glands are unremarkable.  The right\n kidney is intact with parapelvic cysts noted.  The kidneys enhance\n                                                             (Over)\n\n [**2147-12-18**] 11:14 AM\n CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 27045**]\n CT PELVIS W/CONTRAST\n Reason: trauma\n  Contrast: OPTIRAY Amt: 130\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n symmetrically.  Along the left renal pelvis/ureteropelvic junction, there is a\n small amount of hematoma which surrounds the collecting system.  There is no\n contrast extravasation on the delayed images to suggest urinary tract\n disruption.  The source of this hematoma/bleeding is unclear, and the\n possibility of a parapelvic cyst rupture is considered.  There is no renal\n laceration or evidence of parenchymal injury.\n\n The abdominal aorta contains scattered atherosclerotic calcifications though\n is normal in caliber and major branch vessels appear widely patent.  There is\n no lymphadenopathy.\n\n The stomach and duodenum appear grossly unremarkable.\n\n PELVIS:  Loops of small bowel appear slightly prominent and gas-distende\n though there is no evidence of obstruction.  Large bowel contains a large\n amount of fecal material.  The appendix is normal.  Urinary bladder contains a\n Foley catheter.  The prostate gland measures 5.1 cm in transverse dimension.\n No free fluid is seen in the pelvis. Pelvic vessels contain scattered\n atherosclerotic calcification.\n\n BONE WINDOWS:  Acute left-sided rib fractures are seen involving the left\n second anterior rib, and anterolateral arch of the left 3 - 7th ribs  Old\n right-sided rib cage deformities are seen.  Vertebral body heights are\n preserved.  Schmorl's node likely result in concavity along the L2 superior\n endplate.  Degenerative change in the lumbar spine with facet arthropathy is\n noted.  The sternum is intact.  Bony pelvis appears intact.\n\n IMPRESSION:\n\n 1.  Small hematoma along the left renal pelvis/UPJ without evidence of urinary\n tract disruption.\n\n 2.  Bilateral posterior lung consolidations likely reflect the sequelae of\n aspiration.\n\n 3.  Malpositioned NG tube with tip at the level of the distal esophagus.\n Recommendation for repositioning has been discussed with the trauma team.\n\n 4.  Extensive atherosclerotic calcification along the coronary arteries.\n\n 5.  Multiple left-sided rib fractures as detailed above.\n\n 6.  Heterogeneous perfusion along the dome of the liver likely reflects\n abnormal perfusion and may be related to volume resuscitation and asystolic\n arrest.  Clinical correlation is advised.  No abnormality seen in this region\n                                                             (Over)\n\n [**2147-12-18**] 11:14 AM\n CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 27045**]\n CT PELVIS W/CONTRAST\n Reason: trauma\n  Contrast: OPTIRAY Amt: 130\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n on the delayed imaging.\n\n These findings were discussed with Dr. [**Last Name (STitle) 776**] and remainder of the trauma\n team at the time of initial review.\n\n"
+    },
+    {
+      "note_id": 604202,
+      "category": "Physician",
+      "description": "Physician Surgical Admission Note",
+      "annotations": [
+        {
+          "begin": 5162,
+          "end": 5211,
+          "code": "S37.012A",
+          "code_system": "ICD-10-CM",
+          "description": "Minor contusion of left kidney, initial encounter",
+          "type": "Human",
+          "covered_text": "Small hematoma along the left renal\n   pelvis/UPJ"
+        },
+        {
+          "begin": 5258,
+          "end": 5300,
+          "code": "R91.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other nonspecific abnormal finding of lung field",
+          "type": "Human",
+          "covered_text": "Bilateral\n   posterior lung consolidations"
+        },
+        {
+          "begin": 5347,
+          "end": 5417,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "Extensive atherosclerotic calcification along the coronary\n   arteries"
+        },
+        {
+          "begin": 5419,
+          "end": 5452,
+          "code": "S22.42XA",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple fractures of ribs, left side, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "Multiple left-sided rib fractures"
+        },
+        {
+          "begin": 5594,
+          "end": 5610,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "asystolic arrest"
+        },
+        {
+          "begin": 6013,
+          "end": 6032,
+          "code": "G93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Anoxic brain damage, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "anoxic brain injury"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: Unresponsive\n   HPI:\n     This is a 71 year old male who presents to ED in cardiac arrest s/p\n   fall from bicycle.  Per witnesses report, the patient was riding his\n   bike with a helmet at a low speed and hit a pot hole; he did not lose\n   consciousness, but stood up and then suddenly collapsed. Per witnesses,\n   patient was initially\n   unresponsive but with a pulse. Upon EMS arrival, he arrested; CPR was\n   started, and a pulse was regained. However the patient went into\n   cardiac arrest again. He was pulseless and non-breathing for\n   approximately 5-10 minutes. ACLS protocol was started and a pulse was\n   found. In ED, he remains intubated, in NSR and on norepi for blood\n   pressure. Found to have Acute type 2 dens fracture. Admitted to TICU\n   for further management.\n   Other medications:\n   1. IV access: Temporary central access (ICU) Location: Left Subclavian,\n   Date inserted: [**2147-12-18**] Order date: [**12-18**] @ 1325\n   7. Insulin SC  (per Insulin Flowsheet)\n         Sliding Scale Order date: [**12-18**] @ 1132\n   2. 1000 mL NS\n   Continuous at 100 ml/hr Order date: [**12-18**] @ 1525\n   8. Magnesium Sulfate  IV Sliding Scale Order date: [**12-18**] @ 1455\n   3. 500 ml NS Bolus 500 ml Over 15 mins Order date: [**12-18**] @ 1132\n   9. Norepinephrine 0.03-0.25 mcg/kg/min IV DRIP TITRATE TO sbp > 90\n   Order date: [**12-18**] @ 1132\n   4. Calcium Gluconate  IV Sliding Scale Order date: [**12-18**] @ 1455\n   10. Potassium Chloride  IV Sliding Scale Order date: [**12-18**] @ 1455\n   5. Chlorhexidine Gluconate 0.12% Oral Rinse 15 ml ORAL [**Hospital1 **]\n   Use only if patient is on mechanical ventilation.  Order date: [**12-18**] @\n   1132\n   11. Potassium Phosphate  IV Sliding Scale\n   Infuse over 6 hours  Order date: [**12-18**] @ 1455\n   6. Famotidine 20 mg IV Q12H  Order date: [**12-18**] @ 1454\n   12. Sodium Chloride 0.9% Flush 10 mL IV PRN line flush\n   Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and\n   PRN.  Order date: [**12-18**] @ 1325\n   Post operative day:\n   Allergies:\n   DI VALPROATE\n   Last dose of Antibiotics:\n   Infusions:\n   Norepinephrine - 0.1 mcg/Kg/min\n   Other ICU medications:\n   Past medical history:\n   Family / Social  history:\n   idiopathic generalized neuropathy, distant h/o seizure, BPH, leukopenia\n   (presumed [**3-13**] lamictal, no h/o serious infection), sleep apnea, spinal\n   stenosis, retinal detachment, [**Hospital Ward Name 5060**] cyst, rt 3rd fx\n   Married to wife [**Name (NI) 2379**], works for [**Company 4535**]\n   Flowsheet Data as of  [**2147-12-18**] 03:25 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.4\nC (97.6\n   Tcurrent: 35.5\nC (95.9\n   HR: 59 (59 - 67) bpm\n   BP: 113/67(87) {93/59(74) - 114/67(87)} mmHg\n   RR: 21 (17 - 21) insp/min\n   SpO2: 96%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 92 kg (admission): 92 kg\n             Total In:\n             4,539 mL\n   PO:\n             TF:\n   IVF:\n   539 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                  1,380 mL\n   Urine:\n   1,380 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  3,159 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 22\n   RR (Spontaneous): 0\n   PEEP: 10 cmH2O\n   FiO2: 100%\n   PIP: 24 cmH2O\n   SpO2: 96%\n   ABG: 7.29/48/81.[**Numeric Identifier **]//-3\n   Ve: 10.7 L/min\n   PaO2 / FiO2: 81\n   Physical Examination\n   General Appearance: No acute distress\n   Eyes / Conjunctiva: Pupils dilated, nonreactive pupils\n   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube\n   Lymphatic: Cervical WNL, Supraclavicular WNL\n   Cardiovascular: (No(t) PMI), (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, No(t) Non-tender, Bowel sounds present\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: Absent\n   Musculoskeletal: No withdrawal of extremities to noxious stimuli\n   Skin:  Warm\n   Neurologic: Responds to: Unresponsive, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   225 K/uL\n   12.4 g/dL\n   195 mg/dL\n   4.2 mEq/L\n   105 mEq/L\n   137 mEq/L\n   38.5 %\n   3.7 K/uL\n        [image002.jpg]\n                             [**2147-12-18**]  12:14 PM\n                             [**2147-12-18**]  02:17 PM\n                             [**2147-12-18**]  02:34 PM\n   WBC\n   3.7\n   Hct\n   38.5\n   Plt\n   225\n   TCO2\n   22\n   24\n   Glucose\n   195\n   Other labs: Lactic Acid:4.5 mmol/L\n   Imaging: [**12-18**] CT Chest/Abd/Pelv - Small hematoma along the left renal\n   pelvis/UPJ without evidence of urinary tract disruption; Bilateral\n   posterior lung consolidations likely reflect the sequelae of\n   aspiration; Extensive atherosclerotic calcification along the coronary\n   arteries; Multiple left-sided rib fractures; Heterogeneous perfusion\n   along the dome of the liver likely reflects abnormal perfusion and may\n   be related to volume resuscitation and asystolic arrest.\n   [**12-18**] CT Head - no acute intracranial pathology.\n   [**12-18**] - CT C-Spine - Acute type 2 dens fracture with neighboring soft\n   tissue swelling and no significant displacement.\n   Assessment and Plan\n   Assessment And Plan: 71y M s/p fall from bike with subsequent\n   unresponsiveness and cardiac arrest for approximately 10 minutes. Found\n   to have a Type II Dens fracture, and signs of anoxic brain injury.\n   Neurologic: unresponsive, unreactive pupils, no gag reflex, showing no\n   signs of brain activity. F/u MRI brain to eval for anoxic brain injury.\n   F/U MRI C-spine to assess for spinal cord involvement. Pt to remain in\n   C-collar\n   Cardiovascular: currently on levophed gtt with goal to titrate SBP>90.\n   Bedside echo with no signs of wallmotion abnormality. F/[**Location 9212**]\n   echocardiogram.\n   Pulmonary: intubated, AC 500/22/5/100%. F/U repeat CXR to eval for pulm\n   hematoma s/p CVL placement.\n   Gastrointestinal: NPO, unable to place NGT, famotidine prophy\n   Renal: foley. Monitor UOP. Cr 1.0\n   Hematology: Hct 36.9, cont to monitor\n   Infectious Disease: afebrile. WBC wnl.\n   Endocrine: RISS\n   Fluids: NS@100cc/hr\n   Electrolytes: replace as needed\n   Nutrition: NPO\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Multi Lumen - [**2147-12-18**] 01:25 PM\n   Arterial Line - [**2147-12-18**] 02:50 PM\n   18 Gauge - [**2147-12-18**] 02:50 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: H2 blocker\n   VAP: HOB elevation, Mouth care\n   Need for restraints reviewed\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent:\n   Patient seen by Dr. [**Last Name (STitle) 293**] at 1pm:\n   Patient seen by Dr. [**Last Name (STitle) **] at 7pm, plus family discussion regarding\n   prognosis and withdrawal of care - 25 minutes.\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 604203,
+      "category": "Physician",
+      "description": "Physician Surgical Admission Note",
+      "annotations": [
+        {
+          "begin": 102,
+          "end": 116,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "cardiac arrest"
+        },
+        {
+          "begin": 124,
+          "end": 141,
+          "code": "V17.9XXA",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified pedal cyclist injured in collision with fixed or stationary object in traffic accident, initial encounter",
+          "type": "Human",
+          "covered_text": "fall from bicycle"
+        },
+        {
+          "begin": 182,
+          "end": 248,
+          "code": "V17.9XXA",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified pedal cyclist injured in collision with fixed or stationary object in traffic accident, initial encounter",
+          "type": "Human",
+          "covered_text": "riding his\n   bike with a helmet at a low speed and hit a pot hole"
+        },
+        {
+          "begin": 754,
+          "end": 767,
+          "code": "S12.112A",
+          "code_system": "ICD-10-CM",
+          "description": "Nondisplaced Type II dens fracture, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "dens fracture"
+        },
+        {
+          "begin": 2256,
+          "end": 2289,
+          "code": "G60.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hereditary and idiopathic neuropathy, unspecified",
+          "type": "Human",
+          "covered_text": "idiopathic generalized neuropathy"
+        },
+        {
+          "begin": 5162,
+          "end": 5211,
+          "code": "S37.012A",
+          "code_system": "ICD-10-CM",
+          "description": "Minor contusion of left kidney, initial encounter",
+          "type": "Human",
+          "covered_text": "Small hematoma along the left renal\n   pelvis/UPJ"
+        },
+        {
+          "begin": 5258,
+          "end": 5300,
+          "code": "R91.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other nonspecific abnormal finding of lung field",
+          "type": "Human",
+          "covered_text": "Bilateral\n   posterior lung consolidations"
+        },
+        {
+          "begin": 5347,
+          "end": 5417,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "Extensive atherosclerotic calcification along the coronary\n   arteries"
+        },
+        {
+          "begin": 5419,
+          "end": 5452,
+          "code": "S22.42XA",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple fractures of ribs, left side, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "Multiple left-sided rib fractures"
+        },
+        {
+          "begin": 5594,
+          "end": 5610,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "asystolic arrest"
+        },
+        {
+          "begin": 6013,
+          "end": 6032,
+          "code": "G93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Anoxic brain damage, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "anoxic brain injury"
+        },
+        {
+          "begin": 6622,
+          "end": 6627,
+          "code": "51702",
+          "code_system": "CPT",
+          "description": "Insertion of temporary indwelling bladder catheter; simple (eg, Foley)",
+          "type": "Human",
+          "covered_text": "foley"
+        },
+        {
+          "begin": 7510,
+          "end": 7520,
+          "code": "99291",
+          "code_system": "CPT",
+          "description": "Critical care, evaluation and management of the critically ill or critically injured patient; first 30-74 minutes",
+          "type": "Human",
+          "covered_text": "35 minutes"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: Unresponsive\n   HPI:\n     This is a 71 year old male who presents to ED in cardiac arrest s/p\n   fall from bicycle.  Per witnesses report, the patient was riding his\n   bike with a helmet at a low speed and hit a pot hole; he did not lose\n   consciousness, but stood up and then suddenly collapsed. Per witnesses,\n   patient was initially\n   unresponsive but with a pulse. Upon EMS arrival, he arrested; CPR was\n   started, and a pulse was regained. However the patient went into\n   cardiac arrest again. He was pulseless and non-breathing for\n   approximately 5-10 minutes. ACLS protocol was started and a pulse was\n   found. In ED, he remains intubated, in NSR and on norepi for blood\n   pressure. Found to have Acute type 2 dens fracture. Admitted to TICU\n   for further management.\n   Other medications:\n   1. IV access: Temporary central access (ICU) Location: Left Subclavian,\n   Date inserted: [**2147-12-18**] Order date: [**12-18**] @ 1325\n   7. Insulin SC  (per Insulin Flowsheet)\n         Sliding Scale Order date: [**12-18**] @ 1132\n   2. 1000 mL NS\n   Continuous at 100 ml/hr Order date: [**12-18**] @ 1525\n   8. Magnesium Sulfate  IV Sliding Scale Order date: [**12-18**] @ 1455\n   3. 500 ml NS Bolus 500 ml Over 15 mins Order date: [**12-18**] @ 1132\n   9. Norepinephrine 0.03-0.25 mcg/kg/min IV DRIP TITRATE TO sbp > 90\n   Order date: [**12-18**] @ 1132\n   4. Calcium Gluconate  IV Sliding Scale Order date: [**12-18**] @ 1455\n   10. Potassium Chloride  IV Sliding Scale Order date: [**12-18**] @ 1455\n   5. Chlorhexidine Gluconate 0.12% Oral Rinse 15 ml ORAL [**Hospital1 **]\n   Use only if patient is on mechanical ventilation.  Order date: [**12-18**] @\n   1132\n   11. Potassium Phosphate  IV Sliding Scale\n   Infuse over 6 hours  Order date: [**12-18**] @ 1455\n   6. Famotidine 20 mg IV Q12H  Order date: [**12-18**] @ 1454\n   12. Sodium Chloride 0.9% Flush 10 mL IV PRN line flush\n   Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and\n   PRN.  Order date: [**12-18**] @ 1325\n   Post operative day:\n   Allergies:\n   DI VALPROATE\n   Last dose of Antibiotics:\n   Infusions:\n   Norepinephrine - 0.1 mcg/Kg/min\n   Other ICU medications:\n   Past medical history:\n   Family / Social  history:\n   idiopathic generalized neuropathy, distant h/o seizure, BPH, leukopenia\n   (presumed [**3-13**] lamictal, no h/o serious infection), sleep apnea, spinal\n   stenosis, retinal detachment, [**Hospital Ward Name 5060**] cyst, rt 3rd fx\n   Married to wife [**Name (NI) 2379**], works for [**Company 4535**]\n   Flowsheet Data as of  [**2147-12-18**] 03:25 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.4\nC (97.6\n   Tcurrent: 35.5\nC (95.9\n   HR: 59 (59 - 67) bpm\n   BP: 113/67(87) {93/59(74) - 114/67(87)} mmHg\n   RR: 21 (17 - 21) insp/min\n   SpO2: 96%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 92 kg (admission): 92 kg\n             Total In:\n             4,539 mL\n   PO:\n             TF:\n   IVF:\n   539 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                  1,380 mL\n   Urine:\n   1,380 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  3,159 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 22\n   RR (Spontaneous): 0\n   PEEP: 10 cmH2O\n   FiO2: 100%\n   PIP: 24 cmH2O\n   SpO2: 96%\n   ABG: 7.29/48/81.[**Numeric Identifier **]//-3\n   Ve: 10.7 L/min\n   PaO2 / FiO2: 81\n   Physical Examination\n   General Appearance: No acute distress\n   Eyes / Conjunctiva: Pupils dilated, nonreactive pupils\n   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube\n   Lymphatic: Cervical WNL, Supraclavicular WNL\n   Cardiovascular: (No(t) PMI), (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, No(t) Non-tender, Bowel sounds present\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: Absent\n   Musculoskeletal: No withdrawal of extremities to noxious stimuli\n   Skin:  Warm\n   Neurologic: Responds to: Unresponsive, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   225 K/uL\n   12.4 g/dL\n   195 mg/dL\n   4.2 mEq/L\n   105 mEq/L\n   137 mEq/L\n   38.5 %\n   3.7 K/uL\n        [image002.jpg]\n                             [**2147-12-18**]  12:14 PM\n                             [**2147-12-18**]  02:17 PM\n                             [**2147-12-18**]  02:34 PM\n   WBC\n   3.7\n   Hct\n   38.5\n   Plt\n   225\n   TCO2\n   22\n   24\n   Glucose\n   195\n   Other labs: Lactic Acid:4.5 mmol/L\n   Imaging: [**12-18**] CT Chest/Abd/Pelv - Small hematoma along the left renal\n   pelvis/UPJ without evidence of urinary tract disruption; Bilateral\n   posterior lung consolidations likely reflect the sequelae of\n   aspiration; Extensive atherosclerotic calcification along the coronary\n   arteries; Multiple left-sided rib fractures; Heterogeneous perfusion\n   along the dome of the liver likely reflects abnormal perfusion and may\n   be related to volume resuscitation and asystolic arrest.\n   [**12-18**] CT Head - no acute intracranial pathology.\n   [**12-18**] - CT C-Spine - Acute type 2 dens fracture with neighboring soft\n   tissue swelling and no significant displacement.\n   Assessment and Plan\n   Assessment And Plan: 71y M s/p fall from bike with subsequent\n   unresponsiveness and cardiac arrest for approximately 10 minutes. Found\n   to have a Type II Dens fracture, and signs of anoxic brain injury.\n   Neurologic: unresponsive, unreactive pupils, no gag reflex, showing no\n   signs of brain activity. F/u MRI brain to eval for anoxic brain injury.\n   F/U MRI C-spine to assess for spinal cord involvement. Pt to remain in\n   C-collar\n   Cardiovascular: currently on levophed gtt with goal to titrate SBP>90.\n   Bedside echo with no signs of wallmotion abnormality. F/[**Location 9212**]\n   echocardiogram.\n   Pulmonary: intubated, AC 500/22/5/100%. F/U repeat CXR to eval for pulm\n   hematoma s/p CVL placement.\n   Gastrointestinal: NPO, unable to place NGT, famotidine prophy\n   Renal: foley. Monitor UOP. Cr 1.0\n   Hematology: Hct 36.9, cont to monitor\n   Infectious Disease: afebrile. WBC wnl.\n   Endocrine: RISS\n   Fluids: NS@100cc/hr\n   Electrolytes: replace as needed\n   Nutrition: NPO\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Multi Lumen - [**2147-12-18**] 01:25 PM\n   Arterial Line - [**2147-12-18**] 02:50 PM\n   18 Gauge - [**2147-12-18**] 02:50 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: H2 blocker\n   VAP: HOB elevation, Mouth care\n   Need for restraints reviewed\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent:\n   Patient seen by Dr. [**Last Name (STitle) 293**] at 1pm:\n   Patient seen by Dr. [**Last Name (STitle) **] at 7pm, plus family discussion regarding\n   prognosis and withdrawal of care - 35 minutes.\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 604204,
+      "category": "Physician",
+      "description": "Physician Surgical Admission Note",
+      "annotations": [
+        {
+          "begin": 431,
+          "end": 434,
+          "code": "92950",
+          "code_system": "CPT",
+          "description": "Cardiopulmonary resuscitation (eg, in cardiac arrest)",
+          "type": "Human",
+          "covered_text": "CPR"
+        },
+        {
+          "begin": 3585,
+          "end": 3602,
+          "code": "31500",
+          "code_system": "CPT",
+          "description": "Intubation, endotracheal, emergency procedure",
+          "type": "Human",
+          "covered_text": "Endotracheal tube"
+        },
+        {
+          "begin": 5162,
+          "end": 5211,
+          "code": "S37.012A",
+          "code_system": "ICD-10-CM",
+          "description": "Minor contusion of left kidney, initial encounter",
+          "type": "Human",
+          "covered_text": "Small hematoma along the left renal\n   pelvis/UPJ"
+        },
+        {
+          "begin": 5258,
+          "end": 5300,
+          "code": "R91.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other nonspecific abnormal finding of lung field",
+          "type": "Human",
+          "covered_text": "Bilateral\n   posterior lung consolidations"
+        },
+        {
+          "begin": 5347,
+          "end": 5417,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "Extensive atherosclerotic calcification along the coronary\n   arteries"
+        },
+        {
+          "begin": 5419,
+          "end": 5452,
+          "code": "S22.42XA",
+          "code_system": "ICD-10-CM",
+          "description": "Multiple fractures of ribs, left side, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "Multiple left-sided rib fractures"
+        },
+        {
+          "begin": 5594,
+          "end": 5610,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "asystolic arrest"
+        },
+        {
+          "begin": 6013,
+          "end": 6032,
+          "code": "G93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Anoxic brain damage, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "anoxic brain injury"
+        },
+        {
+          "begin": 7526,
+          "end": 7536,
+          "code": "99291",
+          "code_system": "CPT",
+          "description": "Critical care, evaluation and management of the critically ill or critically injured patient; first 30-74 minutes",
+          "type": "Human",
+          "covered_text": "35 minutes"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: Unresponsive\n   HPI:\n     This is a 71 year old male who presents to ED in cardiac arrest s/p\n   fall from bicycle.  Per witnesses report, the patient was riding his\n   bike with a helmet at a low speed and hit a pot hole; he did not lose\n   consciousness, but stood up and then suddenly collapsed. Per witnesses,\n   patient was initially\n   unresponsive but with a pulse. Upon EMS arrival, he arrested; CPR was\n   started, and a pulse was regained. However the patient went into\n   cardiac arrest again. He was pulseless and non-breathing for\n   approximately 5-10 minutes. ACLS protocol was started and a pulse was\n   found. In ED, he remains intubated, in NSR and on norepi for blood\n   pressure. Found to have Acute type 2 dens fracture. Admitted to TICU\n   for further management.\n   Other medications:\n   1. IV access: Temporary central access (ICU) Location: Left Subclavian,\n   Date inserted: [**2147-12-18**] Order date: [**12-18**] @ 1325\n   7. Insulin SC  (per Insulin Flowsheet)\n         Sliding Scale Order date: [**12-18**] @ 1132\n   2. 1000 mL NS\n   Continuous at 100 ml/hr Order date: [**12-18**] @ 1525\n   8. Magnesium Sulfate  IV Sliding Scale Order date: [**12-18**] @ 1455\n   3. 500 ml NS Bolus 500 ml Over 15 mins Order date: [**12-18**] @ 1132\n   9. Norepinephrine 0.03-0.25 mcg/kg/min IV DRIP TITRATE TO sbp > 90\n   Order date: [**12-18**] @ 1132\n   4. Calcium Gluconate  IV Sliding Scale Order date: [**12-18**] @ 1455\n   10. Potassium Chloride  IV Sliding Scale Order date: [**12-18**] @ 1455\n   5. Chlorhexidine Gluconate 0.12% Oral Rinse 15 ml ORAL [**Hospital1 **]\n   Use only if patient is on mechanical ventilation.  Order date: [**12-18**] @\n   1132\n   11. Potassium Phosphate  IV Sliding Scale\n   Infuse over 6 hours  Order date: [**12-18**] @ 1455\n   6. Famotidine 20 mg IV Q12H  Order date: [**12-18**] @ 1454\n   12. Sodium Chloride 0.9% Flush 10 mL IV PRN line flush\n   Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and\n   PRN.  Order date: [**12-18**] @ 1325\n   Post operative day:\n   Allergies:\n   DI VALPROATE\n   Last dose of Antibiotics:\n   Infusions:\n   Norepinephrine - 0.1 mcg/Kg/min\n   Other ICU medications:\n   Past medical history:\n   Family / Social  history:\n   idiopathic generalized neuropathy, distant h/o seizure, BPH, leukopenia\n   (presumed [**3-13**] lamictal, no h/o serious infection), sleep apnea, spinal\n   stenosis, retinal detachment, [**Hospital Ward Name 5060**] cyst, rt 3rd fx\n   Married to wife [**Name (NI) 2379**], works for [**Company 4535**]\n   Flowsheet Data as of  [**2147-12-18**] 03:25 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.4\nC (97.6\n   Tcurrent: 35.5\nC (95.9\n   HR: 59 (59 - 67) bpm\n   BP: 113/67(87) {93/59(74) - 114/67(87)} mmHg\n   RR: 21 (17 - 21) insp/min\n   SpO2: 96%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 92 kg (admission): 92 kg\n             Total In:\n             4,539 mL\n   PO:\n             TF:\n   IVF:\n   539 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                  1,380 mL\n   Urine:\n   1,380 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  3,159 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 22\n   RR (Spontaneous): 0\n   PEEP: 10 cmH2O\n   FiO2: 100%\n   PIP: 24 cmH2O\n   SpO2: 96%\n   ABG: 7.29/48/81.[**Numeric Identifier **]//-3\n   Ve: 10.7 L/min\n   PaO2 / FiO2: 81\n   Physical Examination\n   General Appearance: No acute distress\n   Eyes / Conjunctiva: Pupils dilated, nonreactive pupils\n   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube\n   Lymphatic: Cervical WNL, Supraclavicular WNL\n   Cardiovascular: (No(t) PMI), (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, No(t) Non-tender, Bowel sounds present\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: Absent\n   Musculoskeletal: No withdrawal of extremities to noxious stimuli\n   Skin:  Warm\n   Neurologic: Responds to: Unresponsive, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   225 K/uL\n   12.4 g/dL\n   195 mg/dL\n   4.2 mEq/L\n   105 mEq/L\n   137 mEq/L\n   38.5 %\n   3.7 K/uL\n        [image002.jpg]\n                             [**2147-12-18**]  12:14 PM\n                             [**2147-12-18**]  02:17 PM\n                             [**2147-12-18**]  02:34 PM\n   WBC\n   3.7\n   Hct\n   38.5\n   Plt\n   225\n   TCO2\n   22\n   24\n   Glucose\n   195\n   Other labs: Lactic Acid:4.5 mmol/L\n   Imaging: [**12-18**] CT Chest/Abd/Pelv - Small hematoma along the left renal\n   pelvis/UPJ without evidence of urinary tract disruption; Bilateral\n   posterior lung consolidations likely reflect the sequelae of\n   aspiration; Extensive atherosclerotic calcification along the coronary\n   arteries; Multiple left-sided rib fractures; Heterogeneous perfusion\n   along the dome of the liver likely reflects abnormal perfusion and may\n   be related to volume resuscitation and asystolic arrest.\n   [**12-18**] CT Head - no acute intracranial pathology.\n   [**12-18**] - CT C-Spine - Acute type 2 dens fracture with neighboring soft\n   tissue swelling and no significant displacement.\n   Assessment and Plan\n   Assessment And Plan: 71y M s/p fall from bike with subsequent\n   unresponsiveness and cardiac arrest for approximately 10 minutes. Found\n   to have a Type II Dens fracture, and signs of anoxic brain injury.\n   Neurologic: unresponsive, unreactive pupils, no gag reflex, showing no\n   signs of brain activity. F/u MRI brain to eval for anoxic brain injury.\n   F/U MRI C-spine to assess for spinal cord involvement. Pt to remain in\n   C-collar\n   Cardiovascular: currently on levophed gtt with goal to titrate SBP>90.\n   Bedside echo with no signs of wallmotion abnormality. F/[**Location 9212**]\n   echocardiogram.\n   Pulmonary: intubated, AC 500/22/5/100%. F/U repeat CXR to eval for pulm\n   hematoma s/p CVL placement.\n   Gastrointestinal: NPO, unable to place NGT, famotidine prophy\n   Renal: foley. Monitor UOP. Cr 1.0\n   Hematology: Hct 36.9, cont to monitor\n   Infectious Disease: afebrile. WBC wnl.\n   Endocrine: RISS\n   Fluids: NS@100cc/hr\n   Electrolytes: replace as needed\n   Nutrition: NPO\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Multi Lumen - [**2147-12-18**] 01:25 PM\n   Arterial Line - [**2147-12-18**] 02:50 PM\n   18 Gauge - [**2147-12-18**] 02:50 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: H2 blocker\n   VAP: HOB elevation, Mouth care\n   Need for restraints reviewed\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent:\n   Patient seen by Dr. [**Last Name (STitle) 293**] at 1pm:\n   Patient seen by Dr. [**Last Name (STitle) **] at 7pm, plus family discussion regarding\n   prognosis, DNR, and potential withdrawal of care - 35 minutes.\n   Patient is critically ill\n"
+    }
+  ]
+}

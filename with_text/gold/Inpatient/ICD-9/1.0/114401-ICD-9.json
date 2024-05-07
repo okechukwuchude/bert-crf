@@ -1,0 +1,157 @@
+{
+  "hadm_id": 114401,
+  "comment": "OP reports missing- unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 442207,
+      "category": "Physician",
+      "description": "ICU Note - CVI",
+      "annotations": [
+        {
+          "begin": 240,
+          "end": 244,
+          "code": "412",
+          "code_system": "ICD-9-CM",
+          "description": "Old myocardial infarction",
+          "type": "MapType.EXACT",
+          "covered_text": "MIx3"
+        },
+        {
+          "begin": 3901,
+          "end": 3914,
+          "code": "250.02",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "HYPERGLYCEMIA"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   HD3\n   72F readmit with sternal wound infection S/P CABG x4 (LIMA>LAD, SVG>D1,\n   SVG>OM, SVG>RCA) MV repair (28mm [**Company 1994**] 30mm ring) [**1-14**]\n   EF: 35% Wt: 108kg Cr:1.2-1.9 (preop) Hgb A1C:6.4\n   PMH DM, CAD MIx3, BMS [**10-25**], HTN, pulm HTN, MR, HTN, PVD s/p bilat LE\n   stenting, MRSA, s/p psoas abscess repair, s/p chol, s/p appy\n   Chief complaint:\n   PMHx:\n   Current medications:\n   Albuterol-Ipratropium , Amiodarone , Aspirin , Ciprofloxacin HCl,\n   Clopidogrel , Docusate Sodium , Heparin Flush (10 units/ml) , Heparin ,\n   Heparin Flush (10 units/ml) , Insulin , Lisinopril , Metoprolol\n   Succinate XL , Omeprazole, Oxycodone-Acetaminophen,  Rosuvastatin\n   Calcium , Vancomycin\n   24 Hour Events:\n BLOOD CULTURED - At [**2189-1-30**] 11:15 PM\n   Allergies:\n   Iodine; Iodine Containing\n   lips and tongue\n   Lipitor (Oral) (Atorvastatin Calcium)\n   leg cramps;\n   Codeine\n   Nausea/Vomiting\n   Last dose of Antibiotics:\n   Vancomycin - [**2189-1-31**] 09:45 AM\n   Infusions:\n   Other ICU medications:\n   Insulin - Regular - [**2189-1-30**] 07:00 PM\n   Heparin Sodium (Prophylaxis) - [**2189-1-31**] 08:00 AM\n   Omeprazole (Prilosec) - [**2189-1-31**] 08:00 AM\n   Other medications:\n   Flowsheet Data as of  [**2189-1-31**] 02:47 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**91**] a.m.\n   Tmax: 37.3\nC (99.1\n   T current: 36.2\nC (97.1\n   HR: 69 (54 - 69) bpm\n   BP: 120/51(70) {102/38(54) - 134/99(108)} mmHg\n   RR: 16 (14 - 19) insp/min\n   SPO2: 96%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 66 Inch\n             Total In:\n                                                                    403 mL\n                                                                    219 mL\n   PO:\n                                                                    360 mL\n             Tube feeding:\n   IV Fluid:\n                                                                     43 mL\n                                                                    219 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                  1,300 mL\n   Urine:\n   1,300 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    403 mL\n                                                                 -1,081 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SPO2: 96%\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL, EOMI\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : ), (Sternum: Stable ), superficial sound improving\n   Abdominal: Soft\n   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Neurologic: (Awake / Alert / Oriented: x 3)\n   Labs / Radiology\n   475 K/uL\n   10.1 g/dL\n   104\n   1.4 mg/dL\n   32 mEq/L\n   4.7 mEq/L\n   42 mg/dL\n   95 mEq/L\n   134 mEq/L\n   29.3 %\n   13.2 K/uL\n        [image002.jpg]\n                             [**2189-1-30**]  11:40 PM\n                             [**2189-1-31**]  03:31 AM\n                             [**2189-1-31**]  04:01 AM\n                             [**2189-1-31**]  05:00 AM\n                             [**2189-1-31**]  06:00 AM\n   WBC\n   13.2\n   Hct\n   29.3\n   Plt\n   475\n   Creatinine\n   1.4\n   Glucose\n   114\n   104\n   99\n   110\n   104\n   Other labs: Ca:10.6 mg/dL, Mg:1.8 mg/dL, PO4:3.5 mg/dL\n   Imaging: CT scan negative\n   Microbiology: all neg\n   Assessment and Plan\n   HYPERGLYCEMIA, WOUND INFECTION\n   Assessment and Plan: Pt. doing very well.  Blood sugar under control.\n   PICC placed today.  Tx to floor.\n   Neurologic:\n   Cardiovascular: Aspirin, Beta-blocker, Statins\n   Pulmonary: IS\n   Gastrointestinal / Abdomen:\n   Nutrition: Regular diet\n   Renal:\n   Hematology:\n   Endocrine: RISS\n   Infectious Disease: all neg\n   Lines / Tubes / Drains:\n   Wounds: Wet / Dry dressings, Sternum\n   Imaging:\n   Fluids:\n   Consults: P.T.\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   PICC Line - [**2189-1-31**] 09:30 AM\n   Prophylaxis:\n   DVT:\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status: Full code\n   Disposition: Transfer to floor\n"
+    },
+    {
+      "note_id": 27783,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 820,
+          "end": 831,
+          "code": "V45.81",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical aortocoronary bypass status",
+          "type": "Human",
+          "covered_text": "s/p CABG x4"
+        },
+        {
+          "begin": 857,
+          "end": 880,
+          "code": "414.00",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of vessel, native or graft",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 902,
+          "end": 932,
+          "code": "428.22",
+          "code_system": "ICD-9-CM",
+          "description": "Systolic heart failure, chronic",
+          "type": "Human",
+          "covered_text": "chronic systolic heart failure"
+        },
+        {
+          "begin": 933,
+          "end": 954,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "Human",
+          "covered_text": "mitral regurgitatiuon"
+        },
+        {
+          "begin": 955,
+          "end": 962,
+          "code": "278.00",
+          "code_system": "ICD-9-CM",
+          "description": "Obesity, unspecified",
+          "type": "Human",
+          "covered_text": "obesity"
+        },
+        {
+          "begin": 963,
+          "end": 998,
+          "code": "250.02",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "insulin dependent diabetes mellitus"
+        },
+        {
+          "begin": 1034,
+          "end": 1059,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "hypertension\nhypertension"
+        },
+        {
+          "begin": 1060,
+          "end": 1089,
+          "code": "443.9",
+          "code_system": "ICD-9-CM",
+          "description": "Peripheral vascular disease, unspecified",
+          "type": "Human",
+          "covered_text": "peripheral vascular disease-s"
+        },
+        {
+          "begin": 1201,
+          "end": 1244,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "Heavy smoker up to 2 PPD for 50 years, quit"
+        },
+        {
+          "begin": 4215,
+          "end": 4226,
+          "code": "V58.63",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of antiplatelets/antithrombotics",
+          "type": "MapType.EXACT",
+          "covered_text": "plavix 75mg"
+        },
+        {
+          "begin": 4260,
+          "end": 4307,
+          "code": "V58.67",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of insulin",
+          "type": "Human",
+          "covered_text": "Insulin NPH 36 units in the morning and evening"
+        },
+        {
+          "begin": 4452,
+          "end": 4464,
+          "code": "V58.66",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of aspirin",
+          "type": "MapType.EXACT",
+          "covered_text": "aspirin 81mg"
+        },
+        {
+          "begin": 5908,
+          "end": 5943,
+          "code": "998.59",
+          "code_system": "ICD-9-CM",
+          "description": "Other postoperative infection",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "superficial sternal wound infection"
+        }
+      ],
+      "text": "Admission Date:  [**2189-1-29**]              Discharge Date:   [**2189-2-2**]\n\nDate of Birth:  [**2116-1-21**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nIodine; Iodine Containing / Lipitor / Codeine\n\nAttending:[**First Name3 (LF) 165**]\nChief Complaint:\nsuperficial sternal wound infection\n\nMajor Surgical or Invasive Procedure:\nnone\n\n\nHistory of Present Illness:\nMs. [**Known lastname 67738**] is a 73 year old woman who [**Known lastname 1834**] a coronary\nartery bypass grafting times four and mitral valve repair on\n[**2189-1-14**].  She subsequently was discharged to a rehab facility.\nOnce home, her visiting nurse described her sternal wound to be\nerythematous with foul smelling eschar.  She was admitted to\n[**Hospital1 69**] for debridement and\nintravenous antibiotics.\n\nPast Medical History:\ns/p CABG x4/MVr (on [**2189-1-14**])\nCoronary artery disease with unstable angina\nchronic systolic heart failure\nmitral regurgitatiuon\nobesity\ninsulin dependent diabetes mellitus\ns/p coronary angioplasty\npulmonary hypertension\nhypertension\nperipheral vascular disease-s/p stenting lower extremities\ns/p cholecystectomy\ns/p appendectomy\ns/p psoas abcess\ngastritis\n\n\nSocial History:\nHeavy smoker up to 2 PPD for 50 years, quit in [**10-25**]. Denies\netOH or IVDU. Pt is a retired x-ray technician. She lives with\nher husband and two grandchildren in [**Name (NI) 67740**], She is the\ncaregiver for her sister with [**Name (NI) 309**] body dementia and her husband\nas well as her two grandchildren.\n\n\nFamily History:\nNo family history of CAD or premature death, DM, HTN, HLD.\nMother with PD. Sister with [**Name (NI) 309**] body dementia. Sister with lung\nCA.\n\nPhysical Exam:\nAt admission Ms. [**Known lastname 67738**] was noted to be in no acute distress.\nShe was hemodynamically stable and afebrile.  Her lungs were\nclear to auscultation bilaterally and her heart was of regular\nrate and rhythm.  Her abdomen was soft, non-tender, and\nnon-distended.  Her mediastinal incision was intact at the\nsuperior pole, but inferiorly a 3 cm long by 2 cm wide area of\neschar.\n\nPertinent Results:\n[**2189-1-30**] 04:19PM BLOOD WBC-10.2 RBC-3.77* Hgb-11.2* Hct-34.2*\nMCV-91 MCH-29.7 MCHC-32.7 RDW-13.5 Plt Ct-495*#\n[**2189-2-2**] 05:59AM BLOOD WBC-10.4\n[**2189-1-30**] 04:19PM BLOOD Glucose-338* UreaN-40* Creat-1.5* Na-133\nK-6.0* Cl-94* HCO3-31 AnGap-14\n[**2189-2-2**] 05:59AM BLOOD UreaN-31* Creat-1.1\n\n\n\n\n[**2189-1-29**] 6:22 pm SWAB      Source: mediastinum.\n\n   GRAM STAIN (Final [**2189-1-29**]):\n      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR\nLEUKOCYTES.\n      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI IN\nPAIRS.\n      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S).\n\n   WOUND CULTURE (Final [**2189-2-1**]):\n      Due to mixed bacterial types (>=3) an abbreviated workup\nis\n      performed; P.aeruginosa, S.aureus and beta strep. are\nreported if\n      present. Susceptibility will be performed on P.aeruginosa\nand\n      S.aureus if sparse growth or greater..\n\n   ANAEROBIC CULTURE (Preliminary):    RESULTS PENDING.\n\n\n\n\n\nBrief Hospital Course:\nMs. [**Known lastname 67738**] was admitted and her wound cultured.  She was placed\non Vancomycin and her wound was debrided.  Superficial eschar\nwas removed and vascularized healthy tissue was discovered just\nbelow it.  No pus was expressed. A peripherally inserted central\ncatheter was placed for access. She remained afebrile with a\nnormal white blood cell count. Her wound on discharge was\nsuperficial without erythema or drainage. Her sternum was stable\nwith no [**Doctor Last Name **] or click. Wound swab culture from [**1-29**] showed mixed\nbacteria. As per Dr.[**Last Name (STitle) **], Vanco and Cipro was\ndiscontinued and Ms.[**Known lastname 67738**] was placed on oral antibiotic course:\nKeflex 500 mg every 6 hours x ten days. A visiting nurse has\nbeen arranged for wound checks at home and Ms.[**Known lastname 67738**] has been\ninstructed on dressing changes as well so that the wound can be\ndressd twice daily. She was advised to call with any signs or\nsymptoms of worsening infection, and to follow up with\nDr.[**First Name8 (NamePattern2) **] [**Name (STitle) **] for wound visit in 1 week.\n\nMedications on Admission:\nplavix 75mg\nomeprazole 20mg [**Hospital1 **]\nInsulin NPH 36 units in the morning and evening\nInsulin Lispro 4 units in the morning and evening\natrovent\nxenopex\n[**Hospital1 21177**] 10mg\nmetolazone 5mg [**Hospital1 **]\ncolace\nzocor 40mg\naspirin 81mg\npercocet\namiodarone 400mg\nlopressor 75mg\n\nDischarge Medications:\n1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*60 Tablet(s)* Refills:*0*\n2. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO BID (2 times a day).\nDisp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*0*\n3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*60 Capsule(s)* Refills:*0*\n4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\nDisp:*60 Tablet, Chewable(s)* Refills:*0*\n5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ6H (every 6 hours) as needed.\nDisp:*40 Tablet(s)* Refills:*0*\n6. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr\nSig: Three (3) Tablet Sustained Release 24 hr PO DAILY (Daily).\nDisp:*180 Tablet Sustained Release 24 hr(s)* Refills:*0*\n7. Rosuvastatin 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).\nDisp:*60 Tablet(s)* Refills:*0*\n8. [**Hospital1 **] 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*60 Tablet(s)* Refills:*0*\n9. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: [**1-21**]\nPuffs Inhalation Q6H (every 6 hours).\nDisp:*1 * Refills:*0*\n10. Cephalexin 500 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours): x 10 days.\nDisp:*40 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital1 **] VNA, [**Hospital1 1559**]\n\nDischarge Diagnosis:\nsuperficial sternal wound infection\n\n\nDischarge Condition:\ngood\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions, no baths or\nswimming\nMonitor wounds for infection - redness, drainage, or increased\npain\nReport any fever greater than 101\nNo creams, lotions, powders, or ointments to incisions\n**Wound dressing changes, wet to dry, twice daily\n\nFollowup Instructions:\nSee Dr. [**Last Name (STitle) **] in 1week\nCall for appointment [**Telephone/Fax (1) **]\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]\n\nCompleted by:[**2189-2-2**]"
+    }
+  ]
+}

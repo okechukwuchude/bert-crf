@@ -1,0 +1,139 @@
+{
+  "hadm_id": 183259,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 710311,
+      "category": "Physician",
+      "description": "Physician Surgical Admission Note",
+      "annotations": [
+        {
+          "begin": 1928,
+          "end": 1931,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 2006,
+          "end": 2009,
+          "code": "441.4",
+          "code_system": "ICD-9-CM",
+          "description": "Abdominal aortic aneurysm without mention of rupture",
+          "type": "Human",
+          "covered_text": "AAA"
+        },
+        {
+          "begin": 2043,
+          "end": 2053,
+          "code": "331.0",
+          "code_system": "ICD-9-CM",
+          "description": "Alzheimer&apos;s disease",
+          "type": "MapType.APPROX",
+          "covered_text": "alzheimers"
+        },
+        {
+          "begin": 2054,
+          "end": 2062,
+          "code": "294.10",
+          "code_system": "ICD-9-CM",
+          "description": "Dementia in conditions classified elsewhere without behavioral disturbance",
+          "type": "MapType.EXACT",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 6051,
+          "end": 6062,
+          "code": "276.52",
+          "code_system": "ICD-9-CM",
+          "description": "Hypovolemia",
+          "type": "Human",
+          "covered_text": "hypovolemia"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: s/p fall\n   HPI:\n    This is a [**Age over 90 **] year old male transferred via med flight from\n   OSH s/p fall down 5 steps this afternoon. Was carrying a table\n   down the steps, and fell backwards. He hit his head on the\n   ground, and the table landed on his abdomen. At OSH, he was\n   originally A&Ox3 and followed commands, but began to develop\n   increasing abdominal pain and respiratory distress. His head CT\n   demonstrated a reported IPH, however, the patient came without a\n   CT report or a disk. He was intubated for transport. Upon\n   arrival to the ED, he was hypoxic and hypotensive. He had b/l chest\n   tubes placed for b/l pneumothoraces which initially put out 600cc of\n   blood on the R and 100cc on the L. His fast exam was postitive for\n   blood in the spleno-renal space and [**Location (un) **] pouch. He was given 4U\n   PRBC, 2U FFP, and 8L NS in the ED for hypotension with systolic blood\n   pressures between 60 and 80. His blood pressure initially improved but\n   he then became hypotensive and his repeat HCt was down to 17 (from\n   initial Hct 30 at OSH). He was noted to have brown guiac positive stool\n   on rectal exam. He was found to have a small R IPH, multiple\n   intra-abdominal injuries as well as multiple rib fractures on the R\n   with flail chest and the plan was made to bring him to the OR, however\n   the family elected instead for conservative management. He was made\n   DNR/DNI and brought to the TSICU for further resuscitation. Patient\n   arrived on vent with stable vital signs.\n   Post operative day:\n   Allergies:\n   Last dose of Antibiotics:\n   Infusions:\n   Midazolam (Versed) - 2 mg/hour\n   Other ICU medications:\n   Dilantin - [**2135-12-11**] 09:25 PM\n   Sodium Bicarbonate 8.4% (Amp) - [**2135-12-11**] 09:38 PM\n   Fentanyl - [**2135-12-11**] 09:46 PM\n   Other medications:\n   Past medical history:\n   Family / Social  history:\n   PMH:\n   1. HTN\n   2. GI Bleeds\n   3. Kidney Stones\n   4. PE - has IVC Filter\n   5. Known AAA\n   6. Prostate CA s/p TURP\n   7. alzheimers dementia.\n   PSH:inguinal hernia repair, IVC filter placement, TURP\n   Soc: lives at home with wife\n   Flowsheet Data as of  [**2135-12-11**] 11:10 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36\nC (96.8\n   Tcurrent: 35.6\nC (96\n   HR: 54 (54 - 63) bpm\n   BP: 119/72(79) {86/50(58) - 149/72(90)} mmHg\n   RR: 18 (18 - 27) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n           Total In:\n           18,960 mL\n   PO:\n           TF:\n   IVF:\n   5,260 mL\n   Blood products:\n   3,600 mL\n   Total out:\n                                                                      0 mL\n                                                                  1,275 mL\n   Urine:\n   235 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                 17,685 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 16\n   RR (Spontaneous): 0\n   PEEP: 5 cmH2O\n   FiO2: 50%\n   PIP: 39 cmH2O\n   Plateau: 32 cmH2O\n   SpO2: 100%\n   ABG: ///21/\n   Ve: 12.3 L/min\n   Physical Examination\n   General Appearance: Overweight / Obese\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Endotracheal tube, OG tube, large scalp\n   laceration\n   Lymphatic: c-collar in place\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Breath Sounds: Diminished: b/l), + subcutaneous\n   emphysema present L>R\n   Abdominal: No(t) Soft, Distended\n   Extremities: Right lower extremity edema: 1+, Left lower extremity\n   edema: 1+\n   Musculoskeletal: No(t) Muscle wasting\n   Skin:  Cool\n   Neurologic: Responds to: Unresponsive, Movement: Non -purposeful,\n   Sedated, Tone: Not assessed\n   Labs / Radiology\n   42 K/uL\n   8.3 g/dL\n   134 mg/dL\n   1.3 mg/dL\n   21 mEq/L\n   4.8 mEq/L\n   20 mg/dL\n   122 mEq/L\n   145 mEq/L\n   24.6 %\n   6.9 K/uL\n        [image002.jpg]\n                            [**2135-12-11**]  07:15 PM\n                            [**2135-12-11**]  08:54 PM\n                            [**2135-12-11**]  09:10 PM\n                            [**2135-12-11**]  09:52 PM\n   WBC\n   8.5\n   10.7\n   6.9\n   Hct\n   17.6\n   28.0\n   24.6\n   Plt\n   72\n   66\n   42\n   Cr\n   1.4\n   1.3\n   Glucose\n   148\n   138\n   134\n   Other labs: PT / PTT / INR:17.7/44.3/1.6, CK / CKMB / Troponin-T:344//,\n   ALT / AST:15/37, Alk Phos / T Bili:20/0.5, Amylase / Lipase:96/44,\n   Differential-Neuts:85.6 %, Lymph:3.5 %, Mono:10.5 %, Eos:0.3 %, Lactic\n   Acid:3.1 mmol/L, Ca++:5.2 mg/dL, Mg++:1.3 mg/dL, PO4:3.7 mg/dL\n   Imaging: [**2135-12-11**] CT torso:\n   1.active bleeding mesenteric hematoma with thickening of supplied prox\n   jejunum (presumed early ischemic) just distal to Lig of Treitz\n   2.active bleeding of L RP hemorrhage medial and separate to L adrenal\n   gland - ?transected L diaphragmatic crus vessel vs L suprarenal art\n   3. cannot exclude panc body laceration though > or = 50% panc\n   transection NOT suspected\n   4. bilat small pntx w indwelling chest tubes (R posterior but kinked, L\n   in major fissure), ant LUL contusion, R lower lobe opacity likely combo\n   of contusion, atx, possibly aspiration\n   5. ~8cm pre-exiusting AAA - no acute injury\n   6. R adductor muscle hematoma with active extravasation (apparent\n   iatrogenic with indwelling L CFV cath)\n   7. UNSTABLE extension-distraction injury of T9-T10, fxs of T9, T10 sp\n   processes\n   8. ALL R ribs fx'd including R5-7 fx'd x3 places, R8-10 fx'd 2 places\n   -> flail chest, L 1st rib fx'd ant at SC junction\n   9. IVC mildly flattened with air at infrarenal filter, small spleen\n   (hypovolemia)\n   [**2135-12-11**] CT head: Acute right posterior parietal 1.2cm IPH with edema.\n   Tiny second focus just posterior. Hypodensity in the left frontal lobe.\n   No intraventricular extension. No significant shift of midline\n   structures.\n   [**2135-12-11**]: Min displ fx R TP of C7, no body or post element Cspine fx,\n   normal lordosis w/o malalignment; post osteophytes at C3-4 - cannot\n   assess cord for injury, if indicated consider MR; min coiling NGT in\n   hypopharynx, ETT ok; R1st and 2nd ribs fx'd at costovert junctions\n   Assessment and Plan\n   Assessment And Plan: 89 YO M with multiple intraabdominal and\n   intrathoracic injuries as well as an IPH after falling today. He was\n   coagulopathic on arrival with multiple sites of hemorrhage and his labs\n   continue to show multi-organ system failure, despite aggressive\n   resuscitative measures\n   Neurologic: intubated, sedated. PERRL. Not responsive to vigorous\n   painful stimuli. Patient with 2 small R frontal IPH. Exam reportedly\n   declining prior to intubation.\n   Neuro checks Q: 1h\n   Cardiovascular: hypotensive, treated with PRBC, FFP, and crystalloid.\n   Patient is DNR which was verified by the family.\n   Pulmonary: intubated, ventillated on AC at 500 x16 PEEP: 5 FIO2: 50 %\n   Patient with b/l chest tubes for pneumothorax putting out significant\n   amounts of blood. Continue chest tubes to low suction while patient on\n   vent. Monitor VBGs.\n   Gastrointestinal: npo. guiac positive stools and blood from NGT.\n   Renal: hematuria. s/p false lumen [**2-14**] traumatic foley placment at OSH.\n   urology to follow.\n   Hematology: Hct 30 -> 21 -> 17. s/p 4U PRBC. Platelets 170 -> 66 -> 42.\n   INR climbing. likely component of DIC. will trend Hct post second\n   transfusion of 4U PRBC.\n   Infectious Disease:  afebrile, no antibiotics at this point.\n   Endocrine: RISS\n   Fluids: LR boluses PRN, LR at 100cc/hr\n   Electrolytes: significant metabolic acidosis\n   Nutrition:\n   General:\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   16 Gauge - [**2135-12-11**] 09:06 PM\n   20 Gauge - [**2135-12-11**] 09:07 PM\n   Cordis/Introducer - [**2135-12-11**] 09:08 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: DNR (do not resuscitate)\n   Disposition: ICU\n   Total time spent:\n"
+    },
+    {
+      "note_id": 37347,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 492,
+          "end": 495,
+          "code": "E880.9",
+          "code_system": "ICD-9-CM",
+          "description": "Accidental fall on or from other stairs or steps",
+          "type": "Human",
+          "covered_text": "hit"
+        },
+        {
+          "begin": 512,
+          "end": 518,
+          "code": "E849.0",
+          "code_system": "ICD-9-CM",
+          "description": "Home accidents",
+          "type": "Human",
+          "covered_text": "ground"
+        },
+        {
+          "begin": 721,
+          "end": 724,
+          "code": "853.06",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified intracranial hemorrhage following injury, without mention of open intracranial wound, with loss of consciousness of unspecified duration",
+          "type": "MapType.APPROX",
+          "covered_text": "IPH"
+        },
+        {
+          "begin": 752,
+          "end": 762,
+          "code": "860.2",
+          "code_system": "ICD-9-CM",
+          "description": "Traumatic hemothorax without mention of open wound into thorax",
+          "type": "Human",
+          "covered_text": "hemothorax"
+        },
+        {
+          "begin": 1534,
+          "end": 1544,
+          "code": "863.89",
+          "code_system": "ICD-9-CM",
+          "description": "Injury to other and unspecified gastrointestinal sites without open wound into cavity",
+          "type": "Human",
+          "covered_text": "mesenteric"
+        },
+        {
+          "begin": 1662,
+          "end": 1672,
+          "code": "863.84",
+          "code_system": "ICD-9-CM",
+          "description": "Injury to pancreas, multiple and unspecified sites, without open wound into cavity",
+          "type": "Human",
+          "covered_text": "pancreatic"
+        },
+        {
+          "begin": 1920,
+          "end": 1959,
+          "code": "805.2",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury",
+          "type": "Human",
+          "covered_text": "T10 and numerous\nother spinal fractures"
+        },
+        {
+          "begin": 1967,
+          "end": 1978,
+          "code": "807.4",
+          "code_system": "ICD-9-CM",
+          "description": "Flail chest",
+          "type": "Human",
+          "covered_text": "flail chest"
+        }
+      ],
+      "text": "Admission Date:  [**2135-12-11**]              Discharge Date:   [**2135-12-12**]\n\n\nService: SURGERY\n\nAllergies:\nNo Drug Allergy Information on File\n\nAttending:[**First Name3 (LF) 3223**]\nChief Complaint:\ns/p fall with multiple injuries\n\nMajor Surgical or Invasive Procedure:\n2 chest tube placements\n\nHistory of Present Illness:\nThis is an 89 year old man transferred via med flight from\nOSH s/p fall down 5 steps  [**2135-12-11**]. Was carrying a table\ndown the steps and fell backwards. He hit his head on the\nground, and the table landed on his abdomen. At OSH, he was\noriginally A&Ox3 and followed commands, but began to develop\nincreasing abdominal pain and respiratory distress. His head CT\ndemonstrated a reported IPH, and he also had a known R\nhemothorax. He was intubated for transport.\n\nPast Medical History:\n1. HTN\n2. GI Bleeds\n3. Kidney Stones\n4. PE - has IVC Filter\n5. Known 7.5cm AAA\n\nSocial History:\nMarried, lives with wife, does not smoke, drink EtOH, or take\ndrugs. Retired.\n\nFamily History:\nNon-contributory\n\nPhysical Exam:\nNot applicable\n\nBrief Hospital Course:\nThe patient was admitted to the emergency department, where\nbilateral chest tubes were placed. These immediately returned a\nlarge volume of blood and continued returning blood.  The\npatient's hct was quickly falling, ultimately to 17. His\npressure was also falling. He was transfused 4 units blood and 2\nFFP in the ED. He was also given 11L crystalloid.  On imaging,\nthe patient was found to have extensive serious traumatic\ninjuries. There was active mesenteric bleeding with hematoma and\nevidence of early small bowel ischemia, retroperitoneal active\nbleeding, likely low grade pancreatic injury, blateral\npneumathoraces with indwelling chest tubes and likely right\nlower lobe contusion and/or aspiration (#5), iatrogenic injury\nresulting inactive bleeding in the R adductor musculature (#7),\nunstable extension distracton injury at T9-T10 and numerous\nother spinal fractures, right\nflail chest, and evidence of hypovlemia.  He was en route to the\noperating room when the family decided to forego surgery.  He\nwas then transferred to the trauma ICU, where he was given 4\nmore units of PRBCs, 2 units of FFP, and 5L crystalloid before\nbeing made CMO.  He was out on a fentanyl/dilaudid drip and\ntaken off the vent. His oxygen saturation and blood pressure\nfell quickly over the next hours, and he expired at 1:42am,\n\nMedications on Admission:\n1. Lisinopril 60mg Daily\n2. Lopressor 50mg Twice Daily\n3. Citalopram 20mg Daily\n4. Aricept 20mg Daily\n5. Iron Daily\n\nDischarge Medications:\nnot applicable\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nfall with extensive internal injuries\n\nDischarge Condition:\nexpired\n\nDischarge Instructions:\nnot applicable\n\nFollowup Instructions:\nnot applicable\n\n                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 520**] MD, [**MD Number(3) 3226**]\n\n"
+    }
+  ]
+}

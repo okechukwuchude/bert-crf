@@ -1,0 +1,59 @@
+{
+  "hadm_id": 162441,
+  "comment": "Spinal Fusion- Missing OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 42111,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 559,
+          "end": 562,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 564,
+          "end": 567,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 569,
+          "end": 579,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 581,
+          "end": 595,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "hypothyroidism"
+        },
+        {
+          "begin": 4318,
+          "end": 4349,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Acute post-op blood loss anemia"
+        }
+      ],
+      "text": "Admission Date:  [**2171-5-6**]              Discharge Date:   [**2171-5-15**]\n\nDate of Birth:  [**2100-7-11**]             Sex:   F\n\nService: ORTHOPAEDICS\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 3190**]\nChief Complaint:\nBack pain\n\nMajor Surgical or Invasive Procedure:\nAnterior L3-S1 fusion\nAnterolateral T12-L3 fusion\nPosterior T9-S1 fusion\n\n\nHistory of Present Illness:\nMs. [**Known lastname **] has a long history of back pain due to scoliosis.\nShe presents for surgical intervention.\n\nPast Medical History:\nHLD, HTN, depression, hypothyroidism\n\nSocial History:\nDenies\n\nFamily History:\nN/C\n\nPhysical Exam:\nA&O X 3; NAD\nRRR\nCTA B\nAbd soft NT/ND\nBUE- good strength at deltoid, biceps, triceps, wrist\nflexion/extension, finger flexion/extension and intrinics;\nsensation intact C5-T1 dermatomes; - [**Doctor Last Name 937**], reflexes\nsymmetric at biceps, triceps and brachioradialis\nBLE- good strength at hip flexion/extension, knee\nflexion/extension, ankle dorsiflexion and plantar flexion,\n[**Last Name (un) 938**]/FHL; sensation intact L1-S1 dermatomes; - clonus, reflexes\nsymmetric at quads and Achilles\n\n\nPertinent Results:\n[**2171-5-12**] 01:39AM BLOOD WBC-7.9 RBC-3.74* Hgb-11.2* Hct-34.3*\nMCV-92 MCH-29.9 MCHC-32.6 RDW-13.6 Plt Ct-210\n[**2171-5-10**] 12:04AM BLOOD WBC-6.7 RBC-3.57* Hgb-10.9* Hct-31.7*\nMCV-89 MCH-30.6 MCHC-34.4 RDW-14.5 Plt Ct-148*\n[**2171-5-8**] 11:47PM BLOOD WBC-4.5 RBC-3.57* Hgb-11.0* Hct-31.0*\nMCV-87 MCH-30.9 MCHC-35.6* RDW-14.0 Plt Ct-157\n[**2171-5-12**] 01:39AM BLOOD Glucose-131* UreaN-11 Creat-0.4 Na-136\nK-3.6 Cl-100 HCO3-30 AnGap-10\n[**2171-5-10**] 12:04AM BLOOD Glucose-118* UreaN-8 Creat-0.4 Na-143\nK-3.8 Cl-107 HCO3-32 AnGap-8\n[**2171-5-8**] 06:14PM BLOOD Glucose-199* UreaN-7 Creat-0.6 Na-141\nK-3.2* Cl-104 HCO3-26 AnGap-14\n\nBrief Hospital Course:\nMs. [**Known lastname **] was admitted to the [**Hospital1 18**] Spine Surgery Service on\n[**2171-5-6**] and taken to the Operating Room for L3-S1 interbody\nfusion through an anterior approach. Please refer to the\ndictated operative note for further details. The surgery was\nwithout complication and the patient was transferred to the PACU\nin a stable condition. TEDs/pnemoboots were used for\npostoperative DVT prophylaxis. Intravenous antibiotics were\ngiven per standard protocol. Initial postop pain was controlled\nwith a PCA. On HD#2 she returned to the operating room for a\nscheduled T12-L3 anterior release with as part of a staged\n2-part procedure. Please refer to the dictated operative note\nfor further details. The second surgery was also without\ncomplication and the patient was transferred to the PACU in a\nstable condition. Hospital day #3 she underwent a posterior\nT9-L1 posterior fusion.\nPost-operatively she was transfered to the T/ICU for hemodynamic\nmonitoring.  Her course was uneventful.  Postoperative HCT was\nlow and she was transfused PRBCs.  She was kept NPO until bowel\nfunction returned then diet was advanced as tolerated. The\npatient was transitioned to oral pain medication when tolerating\nPO diet. Foley was removed on POD#4 from the third procedure.\nShe was fitted with a TLSO  brace for out of bed. Physical\ntherapy was consulted for mobilization OOB to ambulate. Hospital\ncourse was otherwise unremarkable. On the day of discharge the\npatient was afebrile with stable vital signs, comfortable on\noral pain control and tolerating a regular diet.\n\nMedications on Admission:\nAmlodipine\nCitalopram\nDexilant\nLevothyroxine\nLosartan Potassium\nPravastatin\n\n\nDischarge Medications:\n1. Acetaminophen 1000 mg PO Q 8H pain\n2. Amlodipine 10 mg PO DAILY\n3. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation\n4. Citalopram 20 mg PO DAILY\n5. Docusate Sodium (Liquid) 100 mg PO BID\n6. Heparin 5000 UNIT SC BID\n7. Ipratropium Bromide Neb 1 NEB IH Q6H:PRN wheezing\n8. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY\n9. Levothyroxine Sodium 88 mcg PO DAILY\n10. Losartan Potassium 50 mg PO DAILY\n11. OxycoDONE (Immediate Release)  5-15 mg PO Q3H:PRN pain\nhold if somnolent, rr < 12, sat < 92\n12. Oxycodone SR (OxyconTIN) 20 mg PO Q12H\n13. Pravastatin 20 mg PO DAILY\n14. Senna 1 TAB PO BID:PRN Constipation\n15. traZODONE 25 mg PO HS:PRN Insomnia\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 85**] - [**Location (un) 86**]\n\nDischarge Diagnosis:\nScoliosis\nAcute post-op blood loss anemia\n\n\nDischarge Condition:\nGood\n\n\nDischarge Instructions:\nYou have undergone the following operation: ANTERIOR/POSTERIOR\nThoracolumbar Decompression With Fusion\n\n\n\nImmediately after the operation:\n\n\n\n-Activity: You should not lift anything greater than 10 lbs for\n2 weeks. You will be more comfortable if you do not sit or stand\nmore than ~45 minutes without getting up and walking around.\n\n\n\n-Rehabilitation/ Physical Therapy:\n\no2-3 times a day you should go for a walk for 15-30 minutes as\npart of your recovery. You can walk as much as you can tolerate.\n\n\noLimit any kind of lifting.\n\n\n\n-Diet: Eat a normal healthy diet. You may have some constipation\nafter surgery. You have been given medication to help with this\nissue.\n\n\n\n-Brace: You have been given a brace. This brace is to be worn\nfor comfort when you are walking. You may take it off when\nsitting in a chair or while lying in bed.\n\n\n\n-Wound Care: Remove the dressing in 2 days. If the incision is\ndraining cover it with a new sterile dressing. If it is dry then\nyou can leave the incision open to the air. Once the incision is\ncompletely dry (usually 2-3 days after the operation) you may\ntake a shower. Do not soak the incision in a bath or pool. If\nthe incision starts draining at anytime after surgery, do not\nget the incision wet. Cover it with a sterile dressing. Call the\noffice.\n\n\n\n-You should resume taking your normal home medications. No\nNSAIDs.\n\n\n\n-You have also been given Additional Medications to control your\npain. Please allow 72 hours for refill of narcotic\nprescriptions, so please plan ahead. You can either have them\nmailed to your home or pick them up at the clinic located on\n[**Hospital Ward Name 23**] 2. We are not allowed to call in or fax narcotic\nprescriptions (oxycontin, oxycodone, percocet) to your pharmacy.\nIn addition, we are only allowed to write for pain medications\nfor 90 days from the date of surgery.\n\n\n\nPlease call the office if you have a fever>101.5 degrees\nFahrenheit and/or drainage from your wound.\n\n\nPhysical Therapy:\nActivity:  Activity as tolerated in brace\nTreatments Frequency:\nPlease continue to change the dressing daily.\n\nFollowup Instructions:\nWith Dr. [**Last Name (STitle) 363**] in 10 days\n\n\n\nCompleted by:[**2171-5-14**]"
+    }
+  ]
+}

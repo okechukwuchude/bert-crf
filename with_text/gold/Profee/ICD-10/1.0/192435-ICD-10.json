@@ -1,0 +1,861 @@
+{
+  "hadm_id": 192435,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1164570,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 180,
+          "end": 191,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "HYPOTENSION"
+        },
+        {
+          "begin": 334,
+          "end": 345,
+          "code": "J96.02",
+          "code_system": "ICD-10-CM",
+          "description": "Acute respiratory failure with hypercapnia",
+          "type": "Human",
+          "covered_text": "hypercarbia"
+        },
+        {
+          "begin": 347,
+          "end": 350,
+          "code": "I50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 599,
+          "end": 602,
+          "code": "I50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 728,
+          "end": 746,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "cardiac silhouette"
+        },
+        {
+          "begin": 843,
+          "end": 859,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        }
+      ],
+      "text": "[**2119-12-20**] 2:28 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 81792**]\n Reason: interval change\n Admitting Diagnosis: HYPOTENSION\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  69 year old woman with hypercarbia, CHF\n REASON FOR THIS EXAMINATION:\n  interval change\n ______________________________________________________________________________\n                                 FINAL REPORT\n SINGLE AP PORTABLE VIEW OF THE CHEST\n\n REASON FOR EXAM:  Hypercarbia and CHF.\n\n Comparison is made with prior study performed a day earlier.\n\n There are persistent low lung volumes.  Enlargement of the cardiac silhouette\n is unchanged.  Right IJ catheter tip is in the upper-to-mid SVC.  There is no\n pneumothorax or pleural effusion.  Right perihilar opacities are persistent,\n most likely due to atelectasis.  Left upper lobe medial opacities are stable,\n consistent with atelectasis.\n\n\n"
+    },
+    {
+      "note_id": 1164124,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 893,
+          "end": 914,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "bibasilar atelectasis"
+        },
+        {
+          "begin": 984,
+          "end": 1000,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusion"
+        },
+        {
+          "begin": 1023,
+          "end": 1045,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "lower lobe atelectasis"
+        }
+      ],
+      "text": "[**2119-12-17**] 1:08 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 80270**]\n Reason: acute CT process\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  69 year old woman with question of hypoxia, eval for acute CT process\n REASON FOR THIS EXAMINATION:\n  acute CT process\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  69 year-old with question of hypoxia.\n\n COMPARISON:  Portable AP chest radiograph, [**2119-12-8**].\n\n PORTABLE AP CHEST RADIOGRAPH:  The patient is significantly rotated. In the\n interim the picc has been removed. The cardiac, mediastinal and hilar contours\n are stable since [**2119-12-8**] with borderline cardiomegaly.   Both lung\n volumes are low with bibasilar atelectasis.   There is a left, trace pleural\n effusion.  There is a right small pleural effusion.\n\n IMPRESSION:  Right lower lobe atelectasis. Trace left and right pleural\n effusions.\n\n"
+    },
+    {
+      "note_id": 1164177,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 180,
+          "end": 191,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "HYPOTENSION"
+        },
+        {
+          "begin": 334,
+          "end": 337,
+          "code": "I50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 533,
+          "end": 559,
+          "code": "I50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "Congestive cardiac failure"
+        },
+        {
+          "begin": 789,
+          "end": 809,
+          "code": "R93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal findings on diagnostic imaging of heart and coronary circulation",
+          "type": "Human",
+          "covered_text": "juxtacardiac density"
+        },
+        {
+          "begin": 904,
+          "end": 926,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "lower lobe atelectasis"
+        },
+        {
+          "begin": 1184,
+          "end": 1204,
+          "code": "R93.1",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal findings on diagnostic imaging of heart and coronary circulation",
+          "type": "Human",
+          "covered_text": "juxtacardiac density"
+        }
+      ],
+      "text": "[**2119-12-18**] 4:28 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 80977**]\n Reason: interval change\n Admitting Diagnosis: HYPOTENSION\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  69 year old woman with CHF EF 10%\n REASON FOR THIS EXAMINATION:\n  interval change\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  Congestive cardiac failure, ejection fraction of 10%.  Evaluate\n for interval change.  Priod CABG and sternectomy.\n\n COMPARISON:  Radiographs dating back to [**2119-12-1**] and most recently [**2119-12-17**].\n\n FINDINGS:  Lung volumes are decreased, right juxtacardiac density is more\n prominent on the current radiograph, which may relate to patient positioning,\n right lower lobe atelectasis is also considered possible and this should be\n followed radiographically.  The tip of the right internal jugular central\n venous catheter is at the expected location of the mid SVC.  The cardiac size\n is at the upper limits of normal.\n\n IMPRESSION:  Right juxtacardiac density, may represent evolving atelectasis.\n\n"
+    },
+    {
+      "note_id": 1164402,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 196,
+          "end": 207,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "HYPOTENSION"
+        },
+        {
+          "begin": 356,
+          "end": 387,
+          "code": "J96.92",
+          "code_system": "ICD-10-CM",
+          "description": "Respiratory failure, unspecified with hypercapnia",
+          "type": "Human",
+          "covered_text": "hypercarbic respiratory failure"
+        },
+        {
+          "begin": 762,
+          "end": 780,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "Cardiac silhouette"
+        },
+        {
+          "begin": 843,
+          "end": 854,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "atelectatic"
+        }
+      ],
+      "text": "[**2119-12-19**] 8:14 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 81659**]\n Reason: any evidence of volume overload\n Admitting Diagnosis: HYPOTENSION\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  69 yo female with low EF and hypercarbic respiratory failure\n REASON FOR THIS EXAMINATION:\n  any evidence of volume overload\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  Hypercarbic respiratory failure, to assess for volume overload.\n\n FINDINGS:  In comparison with the study of [**12-18**], the patient has taken a much\n better inspiration.  Cardiac silhouette is at the upper limits of normal or\n slightly enlarged.  Mild atelectatic changes persist at the bases without\n definite effusion, vascular congestion, or acute pneumonia.\n\n Right IJ catheter remains in place.  There is a slight impression on the lower\n right side of the cervical trachea on both images, raising the possibility of\n thyroid enlargement.\n\n\n"
+    },
+    {
+      "note_id": 294649,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 38,
+          "end": 57,
+          "code": "I48.20",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic atrial fibrillation, unspecified",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 182,
+          "end": 189,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "TRACING"
+        }
+      ],
+      "text": "Moderate to marked baseline artifact. Atrial fibrillation, average ventricular\nrate 82. Compared to tracing #1 no diagnostic interim change. The non-specific\nT wave changes persist.\nTRACING #2\n\n"
+    },
+    {
+      "note_id": 1164126,
+      "category": "Radiology",
+      "description": "CT HEAD W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 46,
+          "code": "70450",
+          "code_system": "CPT",
+          "description": "Computed tomography, head or brain; without contrast material",
+          "type": "Human",
+          "covered_text": "CT HEAD W/O CONTRAST"
+        },
+        {
+          "begin": 444,
+          "end": 452,
+          "code": "R53.83",
+          "code_system": "ICD-10-CM",
+          "description": "Other fatigue",
+          "type": "Human",
+          "covered_text": "lethargy"
+        }
+      ],
+      "text": "[**2119-12-17**] 2:28 PM\n CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 80976**]\n Reason: IC process\n ______________________________________________________________________________\n                                 FINAL ADDENDUM\n ADDENDUM:\n\n Additional information has been obtained from CareWeb Clinical Lookup since\n the approval of the original report.  Reason for exam should also state\n lethargy.\n\n\n [**2119-12-17**] 2:28 PM\n CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 80976**]\n Reason: IC process\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  69 year old woman with question of AMS, eval for IC process\n REASON FOR THIS EXAMINATION:\n  IC process\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: JKSd SUN [**2119-12-17**] 7:35 PM\n  No acute intracranial process.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  69-year-old woman with question of altered mental status.\n Evaluate for acute intracranial process.\n\n COMPARISON:  None.\n\n TECHNIQUE:  Axially acquired images were obtained through the head without\n contrast.\n\n FINDINGS:  There is no acute intracranial hemorrhage, large areas of edema,\n large masses or mass effect.  Periventricular [**Known lastname 3946**] matter hypodensities are\n most likely due to chronic small vessel ischemic changes.  [**Doctor Last Name **]-[**Known lastname 3946**] matter\n differentiation is preserved.  Ventricles and sulci are normal in size and\n configuration.  Soft tissues of the orbits and nasopharynx are within normal\n limits.\n\n IMPRESSION:  No acute intracranial process.\n\n"
+    },
+    {
+      "note_id": 294650,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 0,
+          "end": 19,
+          "code": "I48.20",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic atrial fibrillation, unspecified",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 258,
+          "end": 269,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 445,
+          "end": 452,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "TRACING"
+        }
+      ],
+      "text": "Atrial fibrillation, average ventricular rate 64. Diffuse non-specific T wave\nchanges. Tendency toward low voltage in the standard leads and in the lateral\nprecordial leads. Compared to the previous tracing of [**2119-12-2**] the patient has\ngone from sinus tachycardia, rate 117, to atrial fibrillation, average\nventricular rate 64. The non-specific T wave changes are somewhat more\nprominent at this time. No other diagnostic interval change.\nTRACING #1\n\n"
+    },
+    {
+      "note_id": 51224,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 253,
+          "end": 261,
+          "code": "R53.83",
+          "code_system": "ICD-10-CM",
+          "description": "Other fatigue",
+          "type": "Human",
+          "covered_text": "lethargy"
+        },
+        {
+          "begin": 433,
+          "end": 439,
+          "code": "J45.909",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified asthma, uncomplicated",
+          "type": "Human",
+          "covered_text": "asthma"
+        },
+        {
+          "begin": 441,
+          "end": 444,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 446,
+          "end": 449,
+          "code": "I50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 460,
+          "end": 464,
+          "code": "E11.22",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with diabetic chronic kidney disease",
+          "type": "Human",
+          "covered_text": "IDDM"
+        },
+        {
+          "begin": 466,
+          "end": 469,
+          "code": "N18.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CKD"
+        },
+        {
+          "begin": 516,
+          "end": 526,
+          "code": "L03.90",
+          "code_system": "ICD-10-CM",
+          "description": "Cellulitis, unspecified",
+          "type": "Human",
+          "covered_text": "cellulitis"
+        },
+        {
+          "begin": 531,
+          "end": 562,
+          "code": "J96.92",
+          "code_system": "ICD-10-CM",
+          "description": "Respiratory failure, unspecified with hypercapnia",
+          "type": "Human",
+          "covered_text": "hypercarbic respiratory failure"
+        },
+        {
+          "begin": 581,
+          "end": 592,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 597,
+          "end": 627,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute on chronic kidney injury"
+        },
+        {
+          "begin": 709,
+          "end": 719,
+          "code": "L03.90",
+          "code_system": "ICD-10-CM",
+          "description": "Cellulitis, unspecified",
+          "type": "Human",
+          "covered_text": "cellulitis"
+        },
+        {
+          "begin": 778,
+          "end": 809,
+          "code": "J96.92",
+          "code_system": "ICD-10-CM",
+          "description": "Respiratory failure, unspecified with hypercapnia",
+          "type": "Human",
+          "covered_text": "hypercarbic respiratory failure"
+        },
+        {
+          "begin": 854,
+          "end": 871,
+          "code": "J44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic obstructive pulmonary disease, unspecified",
+          "type": "Human",
+          "covered_text": "COPD exacerbation"
+        },
+        {
+          "begin": 1253,
+          "end": 1267,
+          "code": "R09.02",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoxemia",
+          "type": "Human",
+          "covered_text": "mildly hypoxic"
+        },
+        {
+          "begin": 2105,
+          "end": 2113,
+          "code": "R41.0",
+          "code_system": "ICD-10-CM",
+          "description": "Disorientation, unspecified",
+          "type": "Human",
+          "covered_text": "confused"
+        },
+        {
+          "begin": 2919,
+          "end": 2932,
+          "code": "M54.40",
+          "code_system": "ICD-10-CM",
+          "description": "Lumbago with sciatica, unspecified side",
+          "type": "Human",
+          "covered_text": "low back pain"
+        },
+        {
+          "begin": 3106,
+          "end": 3112,
+          "code": "J45.909",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified asthma, uncomplicated",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 3116,
+          "end": 3119,
+          "code": "I25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic ischemic heart disease, unspecified",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 3143,
+          "end": 3167,
+          "code": "I50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "Congestive heart failure"
+        },
+        {
+          "begin": 3207,
+          "end": 3226,
+          "code": "I48.20",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic atrial fibrillation, unspecified",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 3242,
+          "end": 3244,
+          "code": "E11.319",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 3270,
+          "end": 3272,
+          "code": "E11.319",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 3288,
+          "end": 3302,
+          "code": "E66.01",
+          "code_system": "ICD-10-CM",
+          "description": "Morbid (severe) obesity due to excess calories",
+          "type": "Human",
+          "covered_text": "Morbid obesity"
+        },
+        {
+          "begin": 3306,
+          "end": 3338,
+          "code": "N18.30",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, stage 3 unspecified",
+          "type": "Human",
+          "covered_text": "stage III chronic kidney disease"
+        },
+        {
+          "begin": 3342,
+          "end": 3362,
+          "code": "E55.9",
+          "code_system": "ICD-10-CM",
+          "description": "Vitamin D deficiency, unspecified",
+          "type": "Human",
+          "covered_text": "Vitamin D deficiency"
+        },
+        {
+          "begin": 3366,
+          "end": 3390,
+          "code": "R60.9",
+          "code_system": "ICD-10-CM",
+          "description": "Edema, unspecified",
+          "type": "Human",
+          "covered_text": "chronic peripheral edema"
+        },
+        {
+          "begin": 3399,
+          "end": 3413,
+          "code": "K92.1",
+          "code_system": "ICD-10-CM",
+          "description": "Melena",
+          "type": "Human",
+          "covered_text": "blood in stool"
+        },
+        {
+          "begin": 3418,
+          "end": 3438,
+          "code": "E78.00",
+          "code_system": "ICD-10-CM",
+          "description": "Pure hypercholesterolemia, unspecified",
+          "type": "Human",
+          "covered_text": "hypercholesterolemia"
+        },
+        {
+          "begin": 3742,
+          "end": 3747,
+          "code": "E66.9",
+          "code_system": "ICD-10-CM",
+          "description": "Obesity, unspecified",
+          "type": "Human",
+          "covered_text": "obese"
+        },
+        {
+          "begin": 4115,
+          "end": 4128,
+          "code": "R60.9",
+          "code_system": "ICD-10-CM",
+          "description": "Edema, unspecified",
+          "type": "Human",
+          "covered_text": "pitting edema"
+        },
+        {
+          "begin": 4841,
+          "end": 4852,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 4900,
+          "end": 4912,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "hyponatremia"
+        },
+        {
+          "begin": 4914,
+          "end": 4925,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 5780,
+          "end": 5799,
+          "code": "R06.02",
+          "code_system": "ICD-10-CM",
+          "description": "Shortness of breath",
+          "type": "Human",
+          "covered_text": "Shortness of breath"
+        },
+        {
+          "begin": 5900,
+          "end": 5903,
+          "code": "I50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 5966,
+          "end": 5973,
+          "code": "R09.02",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoxemia",
+          "type": "Human",
+          "covered_text": "hypoxia"
+        },
+        {
+          "begin": 5978,
+          "end": 5989,
+          "code": "J96.02",
+          "code_system": "ICD-10-CM",
+          "description": "Acute respiratory failure with hypercapnia",
+          "type": "Human",
+          "covered_text": "hypercarbia"
+        },
+        {
+          "begin": 6543,
+          "end": 6573,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute on chronic kidney injury"
+        },
+        {
+          "begin": 6740,
+          "end": 6752,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "hyponatremia"
+        },
+        {
+          "begin": 6754,
+          "end": 6765,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 7040,
+          "end": 7057,
+          "code": "R74.8",
+          "code_system": "ICD-10-CM",
+          "description": "Abnormal levels of other serum enzymes",
+          "type": "Human",
+          "covered_text": "Elevated troponin"
+        },
+        {
+          "begin": 7271,
+          "end": 7282,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 7479,
+          "end": 7482,
+          "code": "I50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 7544,
+          "end": 7555,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 7710,
+          "end": 7729,
+          "code": "I48.20",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic atrial fibrillation, unspecified",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 8616,
+          "end": 8618,
+          "code": "E11.319",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 11223,
+          "end": 11234,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 11257,
+          "end": 11276,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        },
+        {
+          "begin": 11295,
+          "end": 11298,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 11299,
+          "end": 11307,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "diabetes"
+        },
+        {
+          "begin": 11308,
+          "end": 11311,
+          "code": "I50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 11312,
+          "end": 11316,
+          "code": "I48.20",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic atrial fibrillation, unspecified",
+          "type": "Human",
+          "covered_text": "Afib"
+        },
+        {
+          "begin": 11317,
+          "end": 11329,
+          "code": "G89.4",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic pain syndrome",
+          "type": "Human",
+          "covered_text": "chronic pain"
+        },
+        {
+          "begin": 11703,
+          "end": 11714,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 11719,
+          "end": 11738,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute renal failure"
+        }
+      ],
+      "text": "Admission Date:  [**2119-12-17**]              Discharge Date:   [**2119-12-27**]\n\nDate of Birth:  [**2050-1-3**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nCephalexin / Erythromycin Base\n\nAttending:[**First Name3 (LF) 2279**]\nChief Complaint:\nlethargy\n\nMajor Surgical or Invasive Procedure:\ninternal jugular line placement\n\nHistory of Present Illness:\nMs. [**Known lastname 1007**] is a 69 year-old woman with a history of asthma, CAD,\nCHF (EF 10%), IDDM, CKD, discharged 1 week ago after an\nadmission for cellulitis and hypercarbic respiratory failure,\nwho now presents hypotension and acute on chronic kidney injury.\n\n.\nShe was recently admitted [**12-1**] - [**12-11**]. She had acute on chronic\ncellulitis and completed a 10 day course of vancomycin. She also\nhad hypercarbic respiratory failure requiring intubation. She\nwas treated for a COPD exacerbation as well as volume overload\nand was extubated after two days. She was called out of the ICU.\nOn the medical floor, she was agressively diuresed. Her heart\nfailure regimen was also optimized in consultation with\ncardiology. In particular, metoprolol was increased from Toprol\nXL 100 mg qday to metoprolol tartrate 150 mg [**Hospital1 **]. Lisinopril 2.5\nmg was started. She remained mildly hypoxic and was discharged\nto home on [**1-29**] L O2, having refused rehab. Her previous dose of\ntorsemide 100 mg daily was resumed on discharge. Creatinine was\n1.5 on the day of discharge.\n.\nAfter arrival at home, Ms. [**Known lastname 1007**] was living with her husband who\nnoted her to be mostly immobile, unwilling to eat, and taking\nher medications unreliably. A visiting nurse noted that she was\nunable to care for herself and so was admitted to rehab from\nhome on [**12-14**]. At the time her initial BP was low 70s but\nquicklky rose into the 80s and then 90s. Diuretics were held.\nDespite holding torsemide for two days, the patient remained\nhypotensive. Today, sge was noted to be more lethargic and BP\n70s so she was referred to [**Hospital1 18**].\n.\nUpon arrival to ED, initial VS: 96.6 58 103/42 18 99% 6L NC. FS\nWNL. She was very confused. Blood pressure then fell into the\n70s systolic. She was given vancomycin 1 g,\npiperacillin-tazobactam 4.5 g, and 4 L NS. IJ was placed and\nlevophed started (initially at .03, titrated up to .12 prior to\ntransfer). She was not more hypoxic than baseline (99% on 2L).\nEKG was similar to prior. Labs were notable for a troponin\nelevated to .45 and creatinine 2.4. CXR did not demonstrate\nvolume overload or infiltrate. Her mental status improved after\nthe initiation of pressors. Cardiology was consulted with regard\nto the elevated troponin. They thought an ischemic event was\nunlikely and will follow. She was sent for CT head and torso\nprior to transfer to the ICU. However, she refused the torso\nportion of this exam. She was transferred to the ICU.\n.\nUpon arrival to the MICU, the patient complains of low back pain\nthat is chronic for her. She also has leg pain when moved. She\ndenies chest pain, cough, palpitations, abdominal pain, nausea,\ndiarrhea, dysuria.\n\n\nPast Medical History:\n1. Asthma\n2. CAD s/p CABG [**2112**]\n3. Congestive heart failure with EF 10-15% on TTE [**11/2119**]\n4. Atrial fibrillation on coumadin\n5. DM - insulin dependent, c/b DM retinopathy\n6. Morbid obesity\n7. stage III chronic kidney disease\n8. Vitamin D deficiency\n9. chronic peripheral edema\n10. h/o blood in stool\n11. hypercholesterolemia\n12. lower extremity cellulitis\n\n\nSocial History:\nLives independently with husband. Denies alcohol, drugs and\nsmoking.\n\nFamily History:\nCancer, hypertension, substance abuse, heart disorder, adult\nonset diabetes.\n\nPhysical Exam:\nVitals: BP 125/38 (on norepi .04), HR 86, RR 20, O2 95% on 4L NC\n\nGeneral: obese female, lying in bed with eyes closed, no\napparent distress.\nHEENT: no apparent lesions in OP\nNeck: obese, difficult to assess JVD\nLungs: distant breath sounds, faint crackles at bases barely\naudible\nHeart: regular, no murmurs appreciated, sternal defect with\npalpable heart tones\nAbdomen: Obese, soft, nondistended, positive bowel sounds\nExt: 2+ bilateral partially pitting edema. Bilateral lower legs\nwith woody changes, areas of denuded skin, minimal serous\ndrainage, appear much improved compared to prior admission\nNeuro: oriented to self and year, not place. Moving all\nextremities\n\n\nPertinent Results:\nAdmission labs:\n[**2119-12-17**] 01:00PM   GLUCOSE-114* UREA N-111* CREAT-2.4*\nSODIUM-129* POTASSIUM-4.5 CHLORIDE-91* TOTAL CO2-30 ANION GAP-13\n[**2119-12-17**] 01:00PM   WBC-7.5 RBC-3.79* HGB-10.7* HCT-34.0* MCV-90\nMCH-28.3 MCHC-31.6 RDW-16.7*\n[**2119-12-17**] 01:00PM   NEUTS-76.1* LYMPHS-15.1* MONOS-5.8 EOS-2.4\nBASOS-0.6\n\nBrief Hospital Course:\nAssessment and Plan: Ms. [**Known lastname 1007**] is a 69 year-old woman with\nischemic cardiomyopathy and EF 10-15% who presents with\nhypotension.\n.\n# Hypotension: Given [**Last Name (un) **], hyponatremia, hypotension, and good\nresponse to 4 L IVF in the ED, this may have been simply related\nto volume depletion and an aggressive heart failure regimen.\nHowever, diuretics have recently been held and it is notable\nthat her bicarb and her Hct are actually both lower than\ndischarge on admission labs. CVP on admission was 18.  Sepsis\nwas also on the differential, but patient afebrile, WBC not\nelevated, CXR clear, UA not impressive, so she was not initially\ncovered with antibiotics.  However, the following morning her\nWBC was elevated so vancomycin and zosyn were started.\nNorepinephrine was weaned to low doses and continued to maintain\nMAP >60. Patient was transferred to the floor off pressors and\nwas normotensive for the remainder of her stay.  Her home\nhypertension medications were held except for\nhydrochlorothiazide which was restarted prior to discharge.\n.\n# Shortness of breath:  Patient with increased work of breathing\non the second hospital day.  This was attributed in part CHF\nexacerbation.  She intermittently became drowsy.  ABGs showed\nhypoxia and hypercarbia.  Bipap was used, but patient was poorly\ntolerant of this and consistently took it off when she woke up.\nShe was also diuresed, with improvement in shortness of breath.\nShe was initially maintained on torsemide 20 mg daily with IV\nlasix 40 mg prn volume overload.  After necessitating IV lasix\ndue to tachypnea, torsemide was increased to 30 mg daily.\nOxygen and IV morphine prn were continued as needed for comfort\nalthough patient did not require IV morphine.  She remained\nstable on 1-3L NC with no respiratory distress during her\nhospital stay.\n.\n# Acute on chronic kidney injury: Baseline creatinine per\nrecords obtained at last hospitalization ~1.5, which was what it\nwas on discharge a week ago.  2.5 on this admission. Given\nconcominant mild hyponatremia, hypotension, this may be simply\ndue to volume depletion.  Creatinine fell with IVF in the ED.\nUrine electrolytes showed a prerenal etiology.  Labs were\ndiscontinued on the floor per patient request.  She continued to\nhave good urine output throughout the rest of her hospital stay.\n.\n# Elevated troponin: Troponin .45. Recently, .08 in the setting\nof not quite so bad renal function. It does seem likely that she\nhas had some cardiac ischemia, probably in the setting of poor\ncoronary perfusion secondary to systemic hypotension.  This was\ntrended and fell appropriately.\n.\n# Hyponatremia: likely secondary to volume depletion.  Improved\nafter IVF resuscitation. Labs discontinued on floor after\ndiscussion with patient.\n.\n# CHF: EF 10%:  Metoprolol, ACEI, torsemide held in the setting\nof hypotension but were restarted at lower-than-home-doses.  She\nwill be discharged on lower doses of these medications as she\nhas been stable during hospital stay.\n.\n# Atrial fibrillation: Rate controlled and anticoagulated on\nadmission. Was subtherapeutic INR after having warfarin held at\nrehab for several days (for INR 5 on [**12-15**]).  Warfarin was\nrestarted at a lower dose and she was started on a heparin drip\nwhile warfarin subtherapeutic.  INR was then found to be\nsupratherapeutic and warfarin was held.  Risks and benefits of\nanticoagulation were discussed with patient and she decided that\nshe did not want to continue anticoagulation.  Warfarin was thus\nstopped and will not be continued at discharge.  No evidence of\nbleeding or clots on exam.  Will continue metoprolol for rate\ncontrol as described above.\n.\n#End of life: Palliative care consult was obtained per PCP\n[**Name Initial (PRE) **]. Patient was confirmed DNR/DNI and also did not wish to\nbe transferred to the MICU or undergo NIPPV should she\ndecompensate. She will be discharged to hospice\n.\n# DM:  Home dose of glargine 15 units qam was initially\ncontinued, with humalog sliding scale.  Glargine was decreased\nto 5 units daily on the floor.  Blood sugars were well\ncontrolled on this regimen.\n.\n\n\nMedications on Admission:\n-insulin glargine 15 units qhs\n-humalog sliding scale\n-warfarin 1.5 mg daily (but held on [**12-15**] and decreased to .5 mg\n[**12-16**], not given [**12-17**])\n-metoprolol tartrate 150 mg [**Hospital1 **]\n-torsemide 100 mg daily\n-simvastatin 40 mg qhs\n-cholecalciferol 1000 IU daily\n-ipratropium-albuterol nebs prn\n-calcium carbonate 500 mg daily\n-ASA 81 mg daily\n-docusate 100 mg [**Hospital1 **]\n-senna 8.6 mg [**Hospital1 **]\n-acetaminophen 650 mg tid prn\n-oxycodone 1.25 - 2.5 mg prn dressing changes\n-lisinopril 2.5 mg daily\n\n\nDischarge Medications:\n1. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n2. oxycodone 5 mg Tablet Sig: 0.5 Tablet PO Q3H (every 3 hours)\nas needed for pain.\nDisp:*30 Tablet(s)* Refills:*0*\n3. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\nDisp:*60 Tablet(s)* Refills:*2*\n4. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n5. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n6. ipratropium bromide 0.02 % Solution Sig: One (1) spray\nInhalation Q6H (every 6 hours) as needed for shortness of breath\nor wheezing.\n7. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1) spray Inhalation Q6H (every 6 hours)\nas needed for shortness of breath or wheezing.\n8. Lantus Solostar 100 unit/mL (3 mL) Insulin Pen Sig: Five (5)\nunits Subcutaneous once a day.\nDisp:*30 ml* Refills:*2*\n9. Humalog  Subcutaneous\n10. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every\neight (8) hours as needed for pain.\n11. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO twice\na day.\n12. senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day.\n13. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: One (1)\nTablet PO at bedtime.\n14. calcium carbonate 500 mg (1,250 mg) Tablet Sig: One (1)\nTablet PO once a day.\n15. torsemide 10 mg Tablet Sig: Three (3) Tablet PO once a day.\nDisp:*90 Tablet(s)* Refills:*2*\n16. needle (disp)     Needle Sig: One (1)  Miscellaneous once a\nday.\nDisp:*30 needles* Refills:*2*\n17. lancets     Misc Sig: One (1)  Miscellaneous once a day.\nDisp:*30 lancets* Refills:*2*\n18. One Touch Basic System     Kit Sig: One (1)  Miscellaneous\nonce a day.\nDisp:*1 kit* Refills:*0*\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 2558**] - [**Location (un) **]\n\nDischarge Diagnosis:\nhypotension, responsive to fluids\nacute renal failure, likely pre-renal\nUTI\ndiabetes\nCHF\nAfib\nchronic pain\nrespiratory failure, resolved,\nCAD s/p CABG\nChronic lower extremity venous stasis\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Lethargic but arousable.\nActivity Status: Bedbound.\n\nDischarge Instructions:\nDear Mrs. [**Known lastname 1007**],\nIt was a pleasure participating in your health care.  You were\nadmitted to [**Hospital1 **] for hypotension\nand acute renal failure for which you were admitted to the\nintensive care unit where you were given fluids.  In the\nintensive care unit, you were treated with pressors and diuresis\nas well as antibiotics.  The decision was made to transition to\nhospice care and to stop anticoagulation with warfarin.\n\nPlease make the following changes to your medications:\nSTOP WARFARIN\nDECREASE Torsemide to 30 mg daily\nINCREASE Lisinopril to 5 mg daily\nDECREASE Metoprolol to 25 mg twice a day\nDECREASE Glargine to 5 units daily\nSTART Oxycodone 2.5 mg every 3 hours as needed for pain\n\nFollowup Instructions:\nPlease follow-up with a physician as desired\n\n                             [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 2285**]\n\n"
+    },
+    {
+      "note_id": 1164133,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 36,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST PORT"
+        },
+        {
+          "begin": 1004,
+          "end": 1015,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "atelectasis"
+        }
+      ],
+      "text": "[**2119-12-17**] 3:50 PM\n CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 26**] # [**Clip Number (Radiology) 80511**]\n Reason: confirm line placement\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  69 year old woman with new line placement\n REASON FOR THIS EXAMINATION:\n  confirm line placement\n ______________________________________________________________________________\n                                 FINAL REPORT\n CHEST RADIOGRAPH PERFORMED ON [**2119-12-17**]\n\n Comparison is made with the largest radiograph from earlier today.\n\n CLINICAL HISTORY:  New line placement, question line position.\n\n FINDINGS:  Semi-upright portable AP view of the chest obtained.  Patient is\n rotated to the right and low lung volumes limit evaluation.  There has been\n interval placement of a right IJ central venous catheter with tip seen at the\n expected level of the superior vena cava.  Right basilar atelectasis is noted.\n Pneumothorax.\n\n IMPRESSION: Interval placement of right IJ central venous catheter with tip in\n appropriate position.\n                                                                       SESHa\n\n"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "hadm_id": 184784,
+  "comment": "ORIF- Missing OP Note to validate PCS",
+  "notes": [
+    {
+      "note_id": 1132733,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 488,
+          "end": 496,
+          "code": "E87.2",
+          "code_system": "ICD-10-CM",
+          "description": "Acidosis",
+          "type": "Human",
+          "covered_text": "acidosis"
+        }
+      ],
+      "text": "[**2181-5-4**] 3:29 PM\n CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 7**] # [**Clip Number (Radiology) 82593**]\n Reason: 49 year old man s/p MVC w/ hip fracture postop intubated wit\n Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  49 year old man s/p MVC w/ hip fracture postop intubated with massive blood\n  loss and metabolic acidosis. Eval for acute lung pathology or trauma.\n REASON FOR THIS EXAMINATION:\n  49 year old man s/p MVC w/ hip fracture postop intubated with massive blood\n  loss and metabolic acidosis. Eval for acute lung pathology or trauma.\n ______________________________________________________________________________\n                                 FINAL REPORT\n PORTABLE CHEST [**2181-5-4**]\n\n COMPARISON:  Study of earlier the same date.\n\n INDICATION:  Intubated.\n\n FINDINGS:  Interval placement of endotracheal tube, with tip terminating 5.8\n cm above carina.  Cardiomediastinal contours are similar in appearance to the\n prior study, and lungs are remarkable for multifocal areas of atelectasis,\n most pronounced at the left lung base and right retrocardiac region.\n Coexisting aspiration is possible.\n\n\n"
+    },
+    {
+      "note_id": 38851,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 282,
+          "end": 289,
+          "code": "V48.5XXA",
+          "code_system": "ICD-10-CM",
+          "description": "Car driver injured in noncollision transport accident in traffic accident, initial encounter",
+          "type": "Human",
+          "covered_text": "vehicle"
+        },
+        {
+          "begin": 540,
+          "end": 554,
+          "code": "E03.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypothyroidism, unspecified",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 1217,
+          "end": 1247,
+          "code": "J69.0",
+          "code_system": "ICD-10-CM",
+          "description": "Pneumonitis due to inhalation of food and vomit",
+          "type": "Human",
+          "covered_text": "Bilateral aspiration/pneumonia"
+        },
+        {
+          "begin": 3153,
+          "end": 3176,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Acute blood loss anemia"
+        },
+        {
+          "begin": 3455,
+          "end": 3462,
+          "code": "F10.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol abuse, uncomplicated",
+          "type": "Human",
+          "covered_text": "alcohol"
+        }
+      ],
+      "text": "Admission Date:  [**2181-5-4**]              Discharge Date:   [**2181-5-9**]\n\nDate of Birth:  [**2132-1-15**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 371**]\nChief Complaint:\ns/p Motor vehicle crash\n\nMajor Surgical or Invasive Procedure:\nORIF left femur fracture\n\nHistory of Present Illness:\n49M with + EtOH s/p motor vehicle crash; restrained driver vs.\ntree. He was transported to [**Hospital1 18**] for further care.\n\nPast Medical History:\nHypothyroidism\n\nFamily History:\nNoncontributory\n\nPertinent Results:\n[**2181-5-4**] 08:16PM   GLUCOSE-151* LACTATE-5.9*\n[**2181-5-4**] 03:09PM   WBC-13.3* RBC-3.71*# HGB-11.3*# HCT-32.9*#\nMCV-89 MCH-30.4 MCHC-34.3 RDW-14.6\n[**2181-5-4**] 03:09PM   PLT COUNT-132*\n[**2181-5-4**] 06:53AM   PT-12.0 PTT-22.4 INR(PT)-1.0\n[**2181-5-4**] 06:53AM   ASA-NEG ETHANOL-104* ACETMNPHN-NEG\nbnzodzpn-NEG barbitrt-NEG tricyclic-NEG\n[**2181-5-4**] 12:53PM   GLUCOSE-147* LACTATE-4.7* NA+-141 K+-5.2\nCL--111\n\nImaging upon admission:\nCT head\nIMPRESSION: No acute intracranial process.\n\nCT c-spine\nIMPRESSION: No fractures are identified. Alignment maintained.\n\nChest CT/Abd/Pelvis\nIMPRESSION:\n1. Bilateral aspiration/pneumonia.\n\n2. Slightly plump left adrenal gland with adjacent fat\nstranding, concerning for left adrenal hematoma.\n\n3. Area of wedge-shaped peripheral hypoenhancement in the upper\npole of the left kidney concerning for renal infarction. The\nsoft tissue stranding seen in the area of the left adrenal\ngland, alternatively, could be surrounding the left renal\nartery, although there is no evidence of frank left renal\narterial injury.\n\n\n\nBrief Hospital Course:\nHe was admitted to the trauma team. Orthopedics was consulted\nfor the femur fracture and he was taken to the operating room on\n[**4-15**] and [**4-18**] for repair of these injuries.  He is receiving\nHeparin subcutaneously for DVT prophylaxis. He is on a regular\ndiet and taking oral narcotics for pain. Postoperatively he has\nbeen slow to progress; he was evaluated by Physical therapy and\nis being recommended for rehab.\n\nMedications on Admission:\nSynthroid\n\nDischarge Medications:\n1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) ML\nInjection TID (3 times a day).\n2. Ipratropium Bromide 0.02 % Solution Sig: One (1) Neb\nInhalation Q6H (every 6 hours).\n3. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1) Neb Inhalation Q6H (every 6 hours) as\nneeded for wheezing.\n4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ4H (every 4 hours) as needed for pain.\n5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n6. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).\n7. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO Q6H (every 6 hours) as needed for constipation.\n8. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for\nconstipation.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 **] hills\n\nDischarge Diagnosis:\ns/p Motor vehicle crash\nComminuted left femur fracture\nAcute blood loss anemia\n\nDischarge Condition:\nMental Status: Clear and coherent.\nActivity Status: Out of Bed with assistance to chair or\nwheelchair.\nLevel of Consciousness: Alert and interactive.\n\nDischarge Instructions:\nYou may touch down weight bear only on your left leg.\n\nYou should AVOID drinking alcohol or taking illicit drugs as\nthese behaviors put you at risk for further injuries.\n\nFollowup Instructions:\nFollow up in 2 weeks Dr. [**Last Name (STitle) 7376**], Orthopedics Trauma; call\n[**Telephone/Fax (1) 1228**] for an appointment.\n\nFollow up after discharge from rehab with your PCP.\n\n\n\nCompleted by:[**2181-5-8**]"
+    },
+    {
+      "note_id": 1132652,
+      "category": "Radiology",
+      "description": "L HIP UNILAT MIN 2 VIEWS LEFT",
+      "annotations": [
+        {
+          "begin": 884,
+          "end": 904,
+          "code": "S72.302A",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified fracture of shaft of left femur, initial encounter for closed fracture",
+          "type": "Human",
+          "covered_text": "femur shaft fracture"
+        }
+      ],
+      "text": "[**2181-5-4**] 8:52 AM\n HIP UNILAT MIN 2 VIEWS LEFT                                     Clip # [**Clip Number (Radiology) 82300**]\n Reason: BETTER VIEWS OF HIP JOINT PER ORTHOPEDIC SURGEON\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  39 year old man with MVC multipartite L femur frx\n REASON FOR THIS EXAMINATION:\n  please get full length femur film\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  39-year-old man with motor vehicle collision, multipartite left\n femur fracture.  Please get full length femur.\n\n TECHNIQUE:  A total of three images of the left hip and proximal left femur\n are obtained. Evaluation is slightly limited secondary to external foreign\n stabilizing cast and rods.  There is a proximal left femur shaft fracture with\n the distal fracture fragment foreshortened by 1.5 cm and medially displaced by\n about one-shaft width.  There is no evidence of femur neck fractures or\n dislocation.\n\n IMPRESSION: Foreshortened and medially displaced left proximal diaphyseal\n femur fracture.  No left hip joint dislocation.\n\n"
+    }
+  ]
+}

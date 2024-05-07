@@ -1,0 +1,113 @@
+{
+  "hadm_id": 167342,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 41970,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 330,
+          "end": 352,
+          "code": "38.93",
+          "code_system": "ICD-9-PCS",
+          "description": "Venous catheterization, not elsewhere classified",
+          "type": "MapType.APPROX",
+          "covered_text": "Central line placement"
+        },
+        {
+          "begin": 353,
+          "end": 373,
+          "code": "99.25",
+          "code_system": "ICD-9-PCS",
+          "description": "Injection or infusion of cancer chemotherapeutic substance",
+          "type": "MapType.MULTI",
+          "covered_text": "LP with IT chemo x 2"
+        },
+        {
+          "begin": 1594,
+          "end": 1601,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 1771,
+          "end": 1793,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "tob: 0.5 ppd x 3 years"
+        },
+        {
+          "begin": 5293,
+          "end": 5330,
+          "code": "41.31",
+          "code_system": "ICD-9-PCS",
+          "description": "Biopsy of bone marrow",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "BONE MARROW ASPIRATE AND CORE BIOPSY:"
+        },
+        {
+          "begin": 10929,
+          "end": 10956,
+          "code": "204.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute lymphoid leukemia without mention of remission",
+          "type": "Human",
+          "covered_text": "Acute\nLymphocytic Leukemia."
+        },
+        {
+          "begin": 12385,
+          "end": 12404,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 12863,
+          "end": 12869,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, without mention of status asthmaticus",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 12928,
+          "end": 12932,
+          "code": "314.01",
+          "code_system": "ICD-9-CM",
+          "description": "Attention deficit disorder of childhood with hyperactivity",
+          "type": "Human",
+          "covered_text": "ADHD"
+        },
+        {
+          "begin": 13076,
+          "end": 13086,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 14694,
+          "end": 14697,
+          "code": "204.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute lymphoid leukemia without mention of remission",
+          "type": "Human",
+          "covered_text": "ALL"
+        }
+      ],
+      "text": "Admission Date:  [**2131-8-15**]              Discharge Date:   [**2131-9-6**]\n\nDate of Birth:  [**2108-7-3**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nVicodin / pears\n\nAttending:[**First Name3 (LF) 3918**]\nChief Complaint:\nEasy bruising, malaise, bony pain, concern for leukemia\n\nMajor Surgical or Invasive Procedure:\nCentral line placement\nLP with IT chemo x 2\n\nHistory of Present Illness:\n23yoF with h/o asthma and ADHD who is being admitted out of\nconcern for acute leukemia. She was in her USOH until [**7-12**] when\nshe presented to [**Hospital6 **] with intermittent, L-sided\nchest pain. CXR was read as normal. She was treated for\nbronchitis with azithromycin. She again presented to the ED on\n[**7-14**] with similar complaints and began taking ibuprofen for the\npain. Over the course of the past month she has experienced\nworsening sweating - at night and during the day, worsening\nfatigue, bilateral arm heaviness, easy bruising, and petechial\nrash on her arms and legs. She presented to [**Hospital6 33**]\nwith these complaints and CBC showed thrombocytopenia to 15 as\nwell as lymphocytosis. There was initially concern for ITP or\nrickettsial infection, but peripheral blood was sent for flow\ncytometry, which reportedly showed lymphoblasts.\n.\nAt present, she complains of bilateral arm pain and pain in her\nback between her shoulder blades. She is diaphoretic. She does\nendorse worsening fatigue recently as well as intermittent\nnausea. She understands that she may have leukemia.\n\n\nPast Medical History:\nADHD\nAsthma - uses albuterol 2x per week since age 13\nDepression\nAnxiety\n\n\nSocial History:\nLives in [**Location 10022**], MA with her grandmother and grandfather. She\nis single. Works as a hairdresser and is going to school\nstudying massage.\ntob: 0.5 ppd x 3 years (quit last Saturday)\nEtOH: 1 beer per week\nillicits: none\n\n\nFamily History:\nMother - epilepsy\n[**Name (NI) **] Aunt: [**Name (NI) 4278**] lymphoma\nMa GPa: [**Name (NI) 2320**]\nFather - doesn't know about father's health\n\n\nPhysical Exam:\nPhysical Exam on admission:\nVS - 100.0 111 120/88 20 96% on RA\nGENERAL - overweight female w/ cold compress on forehead,\npleasant, a&ox3, diaphoretic, NAD\nHEENT - wearing color contacts so difficult to assess pupils,\nEOMI, sclerae anicteric, MMM, OP clear\nNECK - supple, no thyromegaly, no JVD\nLUNGS - CTA bilat, no r/rh/wh\nHEART - tachycardic, regular, no MRG, nl S1-S2\nABDOMEN - obese abdomen, NABS, soft/NT/ND, difficult to assess\nfor hepatosplenomegaly\nEXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)\n\nSKIN - petechial rash on arms and legs, tattoo on back,\nextensive brusing on bilateral UE\nNEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength\n[**5-10**] throughout, sensation grossly intact throughout, DTRs 2+ and\nsymmetric, cerebellar exam intact\n\nPhysical Exam on Discharge:\nPatient was afebrile on discharge.\nHEART: RRR, no M/R/G\nCHEST: occlusive dressing on wound from central line removal\nExam otherwise unchanged from admission\nEXTREMITIES: no bruising or petechiae\n\nPertinent Results:\nADMISSION LABS\n\n[**2131-8-15**] 04:00PM BLOOD WBC-12.8* RBC-3.55* Hgb-11.3* Hct-29.8*\nMCV-84 MCH-31.9 MCHC-38.0* RDW-13.5 Plt Ct-21*\n[**2131-8-15**] 04:00PM BLOOD Neuts-15* Bands-1 Lymphs-25 Monos-1*\nEos-0 Baso-0 Atyps-0 Metas-1* Myelos-0 Blasts-57* Other-0\n[**2131-8-15**] 04:00PM BLOOD Hypochr-1+ Anisocy-OCCASIONAL\nPoiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL\n[**2131-8-15**] 04:00PM BLOOD PT-13.9* PTT-40.0* INR(PT)-1.2*\n[**2131-8-15**] 04:00PM BLOOD Fibrino-727*\n[**2131-8-15**] 04:00PM BLOOD Ret Aut-1.1*\n[**2131-8-15**] 04:00PM BLOOD Glucose-109* UreaN-7 Creat-0.6 Na-130*\nK-3.8 Cl-92* HCO3-29 AnGap-13\n[**2131-8-15**] 04:00PM BLOOD ALT-24 AST-30 LD(LDH)-617* AlkPhos-85\nTotBili-1.0\n[**2131-8-15**] 04:00PM BLOOD Albumin-4.0 Calcium-9.6 Phos-5.6* Mg-1.6\nUricAcd-5.1\n[**2131-8-17**] 03:05PM BLOOD Triglyc-120 HDL-15 CHOL/HD-8.7 LDLcalc-91\nLDLmeas-66\n[**2131-8-17**] 03:05PM BLOOD TSH-3.5\n[**2131-8-17**] 03:05PM BLOOD HCG-<5\n\nBCX, UCX, CSF GRAM STAIN: Negative\n\nFLOW CYTOMETRY: RESULTS:\n\nCell marker analysis demonstrates that a majority of the cells\nisolated from this peripheral blood are in the\nCD45-dim-to-moderate, low side-scatter, 'blast gate'. Gating on\nthese cells demonstrates that these cells express immature\nantigens CD34, HLA-DR, and TdT, lymphoid associated antigens\nCD10, CD19 and CD20 along with CD71. They lack surface\nimmunoglobulin light chains kappa and lambda. They lack\nT-associated antigens (CD3, CD5, CD2, CD7, CD4, CD8) and are\nnegative for myeloid associated antigens CD13, CD14, CD15, CD33,\nCD117, CD11c, CD41, CD56, CD64 and Glycophorin A.\n\nCD45 bright lymphocytes comprise 24% of total analyzed events.\nB cells comprise 18% of lymphoid-gated events, are polyclonal,\nand do not express aberrant antigens. T cells comprise 63% of\nlymphoid-gated events, express mature lineage antigens, and have\na decreased helper-cytotoxic ratio of 0.7:1 (usual range in\nblood 0.7-3.0).\n\nINTERPRETATION\n\nImmunophenotypic findings consistent with involvement by acute\nlymphoblastic leukemia (pre B-ALL).\n\nPlease correlate with morphologic and cytogenetic findings (see\nseparate report).  Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) **] notified on [**2131-8-16**].\n\nBONE MARROW:\nSPECIMEN: BONE MARROW ASPIRATE AND CORE BIOPSY:\n\nDIAGNOSIS:\nAcute lymphoblastic leukemia, see note.\nNote: The morphologic findings on this core biopsy specimen\ncombined with concurrent flow cytometry findings on peripheral\nblood (S11-33319M) are consistent with the diagnosis of acute\nlymphoblastic leukemia (pre-B-ALL). Please correlate with\ncytogenetic findings (see separate report).\nMICROSCOPIC DESCRIPTION\nPeripheral Blood Smear:\n\nThe smear is adequate for evaluation. Erythrocytes appear mildly\ndecreased in number, are normochromic with rare dacryocytes,\nechinocytes, fragments,  microcytes and nucleated red blood\ncells noted. The white blood cell count appears mildly\nincreased.  A majority of circulating cells are variably sized,\nwith moderately condensed to open chromatin, prominent nuclei,\nround to slightly irregular nuclear contours, scant amounts of\nbasophilic cytoplasm and occasional coarse granules.  Platelet\ncount appears significantly decreased.  Differential shows 12%\nneutrophils, 20% lymphocytes, 68% Blasts.\nAspirate Smear:\n\nThe aspirate material is not submitted due to dry tap.\nTouch Imprints:\n\nTouch imprints are adequate for evaluation. The smears are\nhypercellular with sheets of small to medium sized cells, with\nscant cytoplasm, smooth chromatin, prominent nucleoli and\nslightly irregular nuclear contours, morphologically consistent\nwith blasts\nClot Section and Biopsy Slides:\n\nThe biopsy material is adequate for evaluation and consists of\ntwo bone marrow core biopsies composed of trabecular bone with\nbone marrow elements, the overall cellularity is more than 95%\nand consists almost entirely of a monotonous population of\nvariably-sized cells with round to regular nuclei, open\nchromatin and scant amount of cytoplasm.  Occasional atypical\nmitoses are seen in the neoplastic cells.  Rare scattered\nmyeloid precursors, plasma cells and small erythroid islands are\nseen.\n\nBCR-ABL: Normal, see cytogenetics report for full description\n\nTTE [**8-16**] The left atrium is normal in size. Left ventricular\nwall thickness, cavity size and regional/global systolic\nfunction are normal (LVEF 70%). Tissue Doppler imaging suggests\na normal left ventricular filling pressure (PCWP<12mmHg). The\nright ventricular cavity appears small, with normal free wall\ncontractility. There are complex (mobile) atheroma in the aortic\narch. The aortic valve leaflets (3) appear structurally normal\nwith good leaflet excursion and no aortic stenosis or aortic\nregurgitation. The mitral valve appears structurally normal with\ntrivial mitral regurgitation. There is no mitral valve prolapse.\nThe estimated pulmonary artery systolic pressure is normal.\n\nImpression: Suboptimal image quality. The right atrium and, to a\nlesser extent, the right ventricle appear extrinsically\ncompressed. However, due to the technically suboptimal nature of\nthe acquired images, neither cardiac tamponade secondary to a\nloculated pericardial effusion nor a soft tissue mass causing\nright heart compression can be excluded on the basis of this\nstudy. A cardiac CT scan or MRI is recommended for further\nimaging of this abnormality.\n\nCT chest [**8-16**]: IMPRESSION:\n\n1. Ascending, arch and descending thoracic aorta is normal in\nmorphology\nwithout any element of calcification\n\n2. No CT evidence of an extrinsic compression on the\natrium/right ventricle.\n\n3. No pulmonary embolism\n\n4. Focal opacity in the right upper lobe may represent either\ninfectious focus\nor could be inflammatory give the clinical setting.\n\n5. Mild splenomegaly\n\nEKG [**8-17**]: Afib with RVR\n\n[**8-16**] Echocardiogram: Impression: Suboptimal image quality. The\nright atrium and, to a lesser extent, the right ventricle appear\nextrinsically compressed. However, due to the technically\nsuboptimal nature of the acquired images, neither cardiac\ntamponade secondary to a loculated pericardial effusion nor a\nsoft tissue mass causing right heart compression can be excluded\non the basis of this study. A cardiac CT scan or MRI is\nrecommended for further imaging of this abnormality.\n\nCSF:\n[**2131-8-18**] 03:38PM CEREBROSPINAL FLUID (CSF) WBC-1 RBC-7* Polys-0\nLymphs-56 Monos-44\n[**2131-8-18**] 03:38PM CEREBROSPINAL FLUID (CSF) TotProt-20 Glucose-62\nLD(LDH)-17\n[**2131-9-1**] 07:01PM CEREBROSPINAL FLUID (CSF) WBC-1 RBC-1* Polys-2\nLymphs-62 Monos-36\n\n[**8-18**] immunophenotyping of CSF:\nNo aberrant cells are identified in this specimen using a\nlimited marker panel.\n\nDue to paucicellularity the findings need to be interpreted with\ncaution.  A concurrent cytospin specimen reveals mostly a\nmixture of rare monocytes and small mature lymphocytes.\n\nDischarge Labs:\n\n[**2131-9-6**] 12:10AM BLOOD WBC-2.2*# RBC-2.92* Hgb-8.9* Hct-25.0*\nMCV-86 MCH-30.3 MCHC-35.4* RDW-14.1 Plt Ct-242\n[**2131-9-6**] 12:10AM BLOOD Neuts-44* Bands-1 Lymphs-26 Monos-24*\nEos-0 Baso-0 Atyps-0 Metas-3* Myelos-2* NRBC-4*\n[**2131-9-6**] 12:10AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-OCCASIONAL\nMacrocy-1+ Microcy-1+ Polychr-OCCASIONAL Schisto-OCCASIONAL Tear\nDr[**Last Name (STitle) 833**]\n[**2131-9-6**] 09:54AM BLOOD PT-11.8 PTT-23.4 INR(PT)-1.0\n[**2131-9-4**] 12:00AM BLOOD Fibrino-159\n[**2131-9-6**] 12:10AM BLOOD Gran Ct-1205*\n[**2131-9-6**] 12:10AM BLOOD Glucose-128* UreaN-18 Creat-0.6 Na-140\nK-3.9 Cl-101 HCO3-29 AnGap-14\n[**2131-9-6**] 12:10AM BLOOD ALT-189* AST-45* AlkPhos-92 TotBili-0.4\nDirBili-0.2 IndBili-0.2\n[**2131-9-6**] 12:10AM BLOOD Calcium-8.8 Phos-4.2 Mg-2.0\n\nBrief Hospital Course:\nPrimary reason for hospitalization:\nPatient is a 23yo female with history of ADHD and asthma who\npresented at an outside hospital with a month of night sweats,\neasy bruising, and fatigue and was found to have Acute\nLymphocytic Leukemia. She was transferred to [**Hospital **] [**Hospital **]\nMedical Center for initiation of care.\n\nAcute Care:\n\n1. ALL: Patient had symptoms of night sweats, easy bruising,\nfatigue and initially chest pain and was diagnosed with ALL at\nOSH via flow cytometry. At our hospital the diagnosis was\nconfirmed via biopsy and flow cytometry, which were consistent\nwith pre-B cell ALL negative for the [**Location (un) 5622**] chromosome.\nShe underwent induction chemotherapy under experimental protcol\n#06-254 ALL Adult Consortium trial.  The protocol included PO\nprednisone, and IV doxorubicin, cytarabine, vincristine, and\nmethotrexate. She also received intrathecal methotrexate,\ncytarabine, and hydrocortisone. The protocol included\nasparaginase as well. She tolerated it well with slight\nintermittant symptoms of headache, throat pain and nausea.\nActivated AT and fibrinogen levels were monitored and remained\nwithin normal limits. She received enoxaparin for DVT\nprophylaxis, and zofran and compazine for nausea. She was given\nacyclovir and fluconazole for infection prophylaxis while\nneutropenic and received a 10-day course of IV cefepime for\nfever on admission that was culture-negative. Patient's\nneutrophil count dropped with therapy but recovered. She was\ndischarged on day 20 of the protocol having regained her cell\ncounts to a granulocyte count of 1205. She was instructed to\nfollow up on day 22 next for IV vincristine\n\n2. Atrial fibrillation: Patient experienced new onset atrial\nfibrillation with RVR in the hospital after a placement of a\ncentral line. CT showed potential area of leukemic infiltrate in\nthe right mediastinum. Patient's line  was changed over the\nwire, as irritation from the line was a likely explaination for\natrial fibrillation. She went to the ICU where she was placed on\na diltiazem drip. She converted to sinus rhythm following. He\nhome adderall was held.\n\nChronic Care:\n\n1. Asthma: Patient was continued on home albuterol inhaler prn.\n\n2. ADHD: Adderall was held because of its potential to cause\narryhthmias, and will be restarted as an oupatient when risk is\nlower for arrythmias.\n\n3. Depression: Patient was continued on home venlafaxine.\n\nTransitions in Care:\nPatient was given a follow-up appointment 2 days post-discharge\nfor IV chemotherapy and blood work, and given an appointment on\n[**2131-9-14**] for further chemo and BM biopsy. She was instructed to\nstop taking Lovenox >24 hours before the procedure. She will\nneed weekly AT and fibrinogen levels drawn.\n\nMedications on Admission:\nAlbuterol prn\nAdderall 30 mg [**Hospital1 **]\nvenlafaxine XR 75 mg qday\nibuprofen prn\n\n\nDischarge Medications:\n1. prednisone 10 mg Tablet Sig: 4.5 Tablets PO BID (2 times a\nday) for 10 days.\nDisp:*90 Tablet(s)* Refills:*0*\n2. acyclovir 400 mg Tablet Sig: One (1) Tablet PO TID (3 times a\nday).\nDisp:*90 Tablet(s)* Refills:*2*\n3. enoxaparin 40 mg/0.4 mL Syringe Sig: One (1) unit\nSubcutaneous DAILY (Daily): Last day is day 26 ([**2131-9-12**]).\nDisp:*13 unit* Refills:*0*\n4. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1)\nTablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\nDisp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*\n6. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every six (6)\nhours as needed for pain.\nDisp:*30 Tablet(s)* Refills:*0*\n7. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\n1-2 puffs Inhalation every 4-6 hours as needed for shortness of\nbreath or wheezing.\nDisp:*1 inhaler* Refills:*1*\n8. venlafaxine 75 mg Capsule, Ext Release 24 hr Sig: One (1)\nCapsule, Ext Release 24 hr PO once a day.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nALL\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDear Ms. [**Known lastname 91125**],\n\nYou were admitted to the hospital for chemotherapy for newly\ndiagnosed leukemia. You completed the first stage of your\nchemotherapy and are ready to go home to continue therapy as an\noutpatient.\n\nPlease make the following changes to your medications:\n\n1. START Acyclovir 400mg by mouth three times daily\n2. START Enoxaparin 40mg by subcutaneous injection daily, and\nSTOP taking it after your dose on Wednesday, [**9-12**].\n3. START Lorazepam 0.5-1mg by mouth every four hours as needed\nfor anxiety or nausea\n4. START Omeprazole 20mg by mouth daily\n5. START Prednisone 45mg by mouth twice daily through [**9-14**]\n6. START Vitamin D3 400units by mouth daily\n7. STOP taking Adderall until further instructed\n8. STOP taking venlafaxine until further instructed\n\nPlease continue taking all other medications as previously\nprescribed to you.\nPlease return to clinic as instructed to complete your course of\nchemotherapy, and for scheduled bone marrow biopsy.\n\nFollowup Instructions:\n[**2131-9-8**] at 10:30AM-Please go to your appointment at 7 [**Hospital Ward Name 1826**]\nOutpatient Clinic for chemotherapy and labs.\n\n[**2131-9-14**] at 9:30AM-Please go to you appointment at Dr. [**Last Name (STitle) **]'\noffice for bone marrow biopsy and lumbar puncture with\nintrathecal chemotherapy.\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3922**]\n\n"
+    }
+  ]
+}

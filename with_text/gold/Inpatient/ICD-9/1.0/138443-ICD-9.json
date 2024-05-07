@@ -1,0 +1,86 @@
+{
+  "hadm_id": 138443,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 37061,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2120,
+          "end": 2123,
+          "code": "313.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other emotional disturbances of childhood or adolescence",
+          "type": "MapType.APPROX",
+          "covered_text": "ADD"
+        },
+        {
+          "begin": 2220,
+          "end": 2232,
+          "code": "733.01",
+          "code_system": "ICD-9-CM",
+          "description": "Senile osteoporosis",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "OSTEOPOROSIS"
+        },
+        {
+          "begin": 2233,
+          "end": 2244,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "MapType.APPROX",
+          "covered_text": "TOBACCO USE"
+        },
+        {
+          "begin": 8863,
+          "end": 8909,
+          "code": "250.12",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with ketoacidosis",
+          "type": "Human",
+          "covered_text": "Diabetes complicated by diabetic ketoacidosis:"
+        },
+        {
+          "begin": 8953,
+          "end": 8966,
+          "code": "250.12",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with ketoacidosis",
+          "type": "Human",
+          "covered_text": "hyperglycemic"
+        },
+        {
+          "begin": 10154,
+          "end": 10186,
+          "code": "577.0",
+          "code_system": "ICD-9-CM",
+          "description": "Acute pancreatitis",
+          "type": "Human",
+          "covered_text": "#Acute on chronic pancreatitis:\n"
+        },
+        {
+          "begin": 10164,
+          "end": 10184,
+          "code": "577.1",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic pancreatitis",
+          "type": "Human",
+          "covered_text": "chronic pancreatitis"
+        },
+        {
+          "begin": 10396,
+          "end": 10434,
+          "code": "444.81",
+          "code_system": "ICD-9-CM",
+          "description": "Embolism and thrombosis of iliac artery",
+          "type": "MapType.EXACT",
+          "covered_text": "Occluded/Stenotic common iliac artery:"
+        }
+      ],
+      "text": "Admission Date:  [**2176-12-16**]              Discharge Date:   [**2176-12-19**]\n\nDate of Birth:  [**2126-2-28**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nCodeine / Ciprofloxacin\n\nAttending:[**First Name3 (LF) 602**]\nChief Complaint:\nAbdominal pain\n\nMajor Surgical or Invasive Procedure:\nNone\n\nHistory of Present Illness:\n50M with h/o recurrent pancreatitis and multiple pancreatic\nsurgeries here with abdominal pain radiating to back, consistent\nwith previous pancreatitis flares.  Pain has been going on for 3\nweeks, getting worse.  Per patient, he has not eaten or stooled\nfor 3 weeks.  He tried small sips yesterday.   Report that he is\npassing gas but had significant weight loss, weak, and unable to\nambulation.  He ran out of pain meds this week.  Denies HA,\nfevers/chills, N/V, chest pain, sob, cough.\n.\nIn the ED inital vitals were, 99.4 106 122/94 20 100%.  His labs\nwere notable for WBC of 14.3, ALT: 21 AP: 189 Tbili: 0.7 Alb:\n4.2 AST: 18 Lip: 51 Ca: 8.9 Mg: 2.9 P: 5.9, Na: 121, Cl: 78, K\n5.3, HCO3 18 BUN 27, Cr. 1.2, Gluc 707.  He recieved dilaudid\nx2, zofran, Insulin gtt with NS 2L. FSBS trended down to 335\nthen 301.  He did not get an EKG. CT abd showed pancreatic\ncalcifications consistent with history of chronic pancreatitis,\nno adjacent stranding or pseudocyst. Diffuse small bowel wall\nthickening is nonspecific and may be related to infection or\ninflammation. No free fluid.  He was transferred to ICU for\nfurther management.  vitals prior to transfer: Vital Signs:\nPulse: 96, RR: 16, BP: 119/80, O2Sat: 100, O2Flow: rm air, Pain:\n8.\n.\nOn arrival to the ICU, he appears to be in good spirit.\n.\nReview of systems:\n(+) Per HPI\n(-) Denies fever, chills, night sweats, recent weight loss or\ngain. Denies headache, sinus tenderness, rhinorrhea or\ncongestion. Denies cough, shortness of breath, or wheezing.\nDenies chest pain, chest pressure, palpitations, or weakness.\nDenies nausea, vomiting, diarrhea, constipation, abdominal pain,\nor changes in bowel habits. Denies dysuria, frequency, or\nurgency. Denies arthralgias or myalgias. Denies rashes or skin\nchanges.\n\n\nPast Medical History:\nADD\nPANCREATITIS, CHRONIC\nABDOMINAL PAIN, GENERALIZED\nNAUSEA\nINTESTINAL MALABSORPTION, POSTSURGICAL\nOSTEOPOROSIS\nTOBACCO USE\n\nPSHx:\nCCY with lateral pancreaticojejunostomy and\nRoux-en-Y(complicated by bile duct leak, partial CBD stricture\nacute pancreatitis, and hernia) [**2168**]\nre-op for biliary drain and transhepatic biliary stent\nincisional hernia repair (complicated by stent abscess) [**2168**].\n\n\nSocial History:\nPatient moved from VT to [**Location (un) 86**] with his husband last year seek\nout better medical care.  Used to work in manufacturing, unable\nto work recently.  No EtOH since pancreatitis diagnosis in [**2167**];\nprior to that was drinking [**2-28**] drinks/day for a few years and\nhad been drinking less heavily before that time.  Smokes 1.5\npacks cigarettes/day.  No history IVDU, remote history of\nmarijuana.\n\n\nFamily History:\nPaternal grandmother and uncle with diabetes, maternal family\nhistory unknown.\n\n\nPhysical Exam:\nADMISSION PHYSICAL EXAM:\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, DMM, oropharynx clear\nNeck: supple, JVP flat, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nrhonchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: bowel sounds absent, notable tenderness with guarding\non light touch, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n\nDischarge Exam:\nGENERAL: [x] NAD [] Uncomfortable. Cachectic.\nEyes: [x] anicteric [] PERRL\nENT: [x] MMM [] Oropharynx clear [] Hard of hearing\nNECK: [] No LAD [] JVP:\nCVS: [x] RRR [x] nl s1 s2 [] no MRG [x] no edema\nLUNGS: [x] No rales [x] No wheeze [x] comfortable\nABDOMEN: [x] Soft []nontender [x]bowel sounds present []No\nhepatosplenomegaly. mild ttp epigastrum without guarding or\nrebound. midline abd scar.\nSKIN: [x]No rashes [x]warm []dry [] decubitus ulcers:\nLYMPH: [] No cervical LAD []No axillary LAD [] No inguinal LAD\nNEURO: [x] Oriented x3 [x] Fluent speech\nPsych: [x] Alert [x] Calm [x] Mood/Affect: appropriate\n.\n\nPertinent Results:\nAdmission Labs:\n[**2176-12-16**] 02:00PM BLOOD WBC-14.3* RBC-5.61 Hgb-17.0 Hct-48.7\nMCV-87 MCH-30.3 MCHC-34.9 RDW-13.0 Plt Ct-415\n[**2176-12-16**] 02:00PM BLOOD Neuts-87.4* Lymphs-9.4* Monos-2.7 Eos-0\nBaso-0.4\n[**2176-12-16**] 02:27PM BLOOD PT-9.3* PTT-22.5* INR(PT)-0.9\n[**2176-12-16**] 02:00PM BLOOD Glucose-707* UreaN-27* Creat-1.2 Na-121*\nK-5.3* Cl-78* HCO3-18* AnGap-30*\n[**2176-12-16**] 02:00PM BLOOD ALT-21 AST-18 AlkPhos-189* TotBili-0.7\n[**2176-12-16**] 02:00PM BLOOD Lipase-51\n[**2176-12-16**] 02:00PM BLOOD Albumin-4.2 Calcium-8.9 Phos-5.9*#\nMg-2.9*\n[**2176-12-16**] 08:30PM BLOOD Triglyc-83 HDL-38 CHOL/HD-2.3 LDLcalc-33\n[**2176-12-16**] 05:24PM BLOOD Type-ART pO2-68* pCO2-36 pH-7.37\ncalTCO2-22 Base XS--3\n[**2176-12-16**] 06:05PM BLOOD Glucose-287* K-4.4\n\n\nIMAGING:\n\n[**12-16**] CXR:\nFINDINGS: As compared to the previous radiograph, there is no\nrelevant\nchange. Unchanged bilateral basal pleural scarring, more evident\non the right than on the left side of the thorax. No acute\npulmonary or cardiac changes, no pleural effusions. No\npneumothorax. No focal parenchymal opacities indicative of\npneumonia.\n\n[**12-16**] CT abdomen/pelvis:\nCT ABDOMEN: The visualized lung bases are clear. There is no\npleural or\npericardial effusion. Pleural thickening or atelectasis is seen\nin the right lower lobe (2:7).\n\nPatient is status post Puestow procedure with suture lines in\nthe jejunum, not well assessed on this study. Pancreatic\ncalcifications are consistent with known chronic pancreatitis.\nThere is no evidence of pseudocyst or acute pancreatitis. The\nliver is normal without focal liver lesion identified.\nPneumobilia throughout the mildly dilated intrahepatic biliary\ntree is re-demonstrated as seen on MRI. The patient is status\npost cholecystectomy. The spleen and right adrenal gland are\nnormal. Mild thickening of the medial limb of the left adrenal\ngland is similar to [**2175-1-30**]. The kidneys enhance symmetrically\nand excrete contrast promptly without hydronephrosis.\n\nLack of intra-abdominal fat makes evaluation of the bowel\nsuboptimal. There is marked small bowel wall thickening to 9 mm\n(2:42), which is nonspecific. There is no small bowel\nobstruction. The large bowel are normal in course and caliber\nwithout obstruction. There is no free fluid and no free air. No\npathologically enlarged mesenteric or retroperitoneal lymph\nnodes are identified, although evaluation is limited by lack of\nintra-abdominal fat. Main portal vein, splenic vein and SMV are\npatent.\n\nThe proximal aorta is of normal caliber with a significant\namount of\natherosclerotic calcifications. There is luminal narrowing of\nthe distal aorta with eccentric intraluminal thrombus. There is\nminimal to no flow in the right common iliac artery. The right\ncommon iliac artery at the bifurcation of the internal and\nexternal iliac arteries is patent. The right external iliac\nartery is attenuated. The left common iliac and external iliac\narteries are patent. The bilateral internal iliac arteries are\nnot well assessed due to extensive atherosclerotic\ncalcifications.\n\nCT PELVIS: The rectum, sigmoid colon, bladder and prostate are\nnormal. There is no free fluid and no inguinal lymphadenopathy.\n\nBONE WINDOWS: No bone finding suspicious for infection or\nmalignancy is seen.\n\nIMPRESSION:\n1. Pancreatic calcifications consistent with known chronic\npancreatitis. No evidence of pseudocyst or acute pancreatitis.\n2. Diffuse small bowel wall thickening is nonspecific and may be\nrelated to hypoperfusion, infection, or inflammation. No bowel\nobstruction, free\nintra-abdominal fluid or free air.\n3. Occlusion of the right common iliac artery as described\nabove.\n\nStudies:\nLE Arterial Duplex:FINDINGS: The ABI on the right is 0.71 and on\nthe left is 0.69. Doppler\ndemonstrates monophasic waveforms diffusely and bilaterally. The\nvolume\nrecordings demonstrate waveform widening and low amplitude\nbilaterally,\nsymmetrically.\n\nIMPRESSION: Findings consistent with CT of [**2176-12-16**].\n\nDischarge/Notable Labs:\n[**2176-12-19**] 08:00AM BLOOD WBC-6.3 RBC-3.81* Hgb-11.7* Hct-32.8*\nMCV-86 MCH-30.8 MCHC-35.8* RDW-13.4 Plt Ct-282\n[**2176-12-19**] 08:00AM BLOOD Glucose-248* UreaN-2* Creat-0.5 Na-132*\nK-3.6 Cl-99 HCO3-27 AnGap-10\n[**2176-12-16**] 08:30PM BLOOD ALT-19 AST-13 LD(LDH)-130 AlkPhos-135*\nAmylase-62 TotBili-0.3\n[**2176-12-17**] 12:34PM BLOOD Calcium-9.2 Phos-2.6* Mg-2.0\n[**2176-12-17**] 04:55AM BLOOD %HbA1c-11.1* eAG-272*\n[**2176-12-16**] 08:30PM BLOOD Triglyc-83 HDL-38 CHOL/HD-2.3 LDLcalc-33\n\nBrief Hospital Course:\n50M with chronic panceatitis and multiple pancreatic surgeries\nincluding pancreaticojejunostomy c/b biliary leak and stricture\nadmitted with abdominal pain and DKA\n\n#Diabetes complicated by diabetic ketoacidosis:\nA1c of 11.1 suggests that patient has been hyperglycemic for\nsome time. The exact cause is unclear, but it is likely a\nreflection of pancreatic destruction from pancreatitis as his\nblood sugars were very sensitive to insulin during\nhospitalization. He was initially admitted to the ICU where he\nwas treated with an insulin gtt and then transitioned to\nsubcutaneous insulin. He was seen by [**Last Name (un) **] Diabetes team and he\nwas discharged on Lantus 4units QAM. Given the patients erratic\nfood intake including during flares of his pancreatitis,\ncombined with his history of poor medical followup, there was\nconcern that insulin may be associated with increased risk of\nhypoglycemia in the patient. However, he had finger sticks of\n300-400 consistently during hospitalization after he resumed a\nregular diet so the decision was made to discharge the patient\non a regimen of low dose Lantus insulin alone. Extensive time\nwas spent teaching the patient how to accurately and\nappropriately check his finger sticks and administer his insulin\nand when to call doctors and of the warning signs of hyper and\nhypoglycemia. Patient was discharged with plan to be in close\ncommunication with his PCP and [**Name9 (PRE) **] re: insulin titration.\n\n#Acute on chronic pancreatitis:\nPatient's abdominal pain was felt to represent acute on chronic\npancreatitis. Pain improved over hospitalization and patient was\ndischarged on home pain regimen tolerating a diet. He was\ncontinued on Creon.\n\n# Occluded/Stenotic common iliac artery: Seen incidentally on CT\nscan on admission. Patient did endorse claudication. He was seen\nby the Vascular Surgery service and will follow up in Vascular\nSurgery outpatient clinic.\n\n#Dispostion: Patient was discharged home to follow up with his\nPCP, [**Name10 (NameIs) **], and Vascular Surgery\n\n\nMedications on Admission:\nOXYCONTIN 15 MG  XR 1 tab po twice daily\nOXYCODONE HCL TABS 15 MG po q3-4 hr prn\nCREON [**Numeric Identifier 17514**] UNIT CPEP (PANCRELIPASE (LIP-PROT-AMYL)) [**1-26**] with\neach main meal and [**11-25**] with snacks\n\nDischarge Medications:\n1. Lantus Solostar 100 unit/mL (3 mL) Insulin Pen Sig: Four (4)\nunits Subcutaneous once a day: Please take in the morning.\nPlease call your doctor to adjust the dose if you have morning\nfinger stick sugars >200 or have readings <70 during the day.\nDisp:*1 Pen* Refills:*2*\n2. oxycodone 20 mg Tablet Extended Release 12 hr Sig: One (1)\nTablet Extended Release 12 hr PO Q12H (every 12 hours).\nDisp:*28 Tablet Extended Release 12 hr(s)* Refills:*0*\n3. oxycodone 15 mg Tablet Sig: One (1) Tablet PO Q3H (every 3\nhours) as needed for pain.\nDisp:*80 Tablet(s)* Refills:*0*\n4. One Touch UltraSoft Lancets     Misc Sig: as directed\nMiscellaneous with meals and at bedtime.\nDisp:*120 lancets* Refills:*2*\n5. One Touch Test     Strip Sig: as directed  Miscellaneous as\ndirected.\nDisp:*120 strips* Refills:*2*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nDiabetic ketoacidosis\nAcute on chronic pancreatitis\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted with high blood sugars and diabetic\nketoacidosis. You were treated in the Intensive Care Unit with\nIV insulin and then given insulin on the medical floor. You were\nalso found to have a flare of your pancreatitis which improved\nover the course of your hospitalization and you were able to\ntolerate a regular diet prior to discharge.\n\nYou were seen by the [**Last Name (un) **] Diabetes service and were taught how\nto give yourself insulin injections and check your blood sugars\nusing finger sticks.\n\nYou should take your Lantus insulin in the morning and check\nyour blood sugars before meals and before bedtime. Please lower\nyour insulin dose if you are not eating or if your blood sugars\nare low. You should also keep juice, or non-diet soda,\nchocolates or sweets with you to take in case your finger stick\nreadings are less than 70 or if you feel tremulous, start\nsweating, notice vision changes, or feel as if you are going to\npass out.\n\nPlease be in close communication with your PCP and the [**Name9 (PRE) **]\ncenter regarding your sugars so that your insulin dosing may be\nadjusted as needed.\n\nPlease call your 911 if your blood sugars are continually\nelevated above 500 or if you have low blood sugars with symptoms\nthat do not improve with sugar containing compounds such as\njuice, soda, chocolate, or sweets.\n\nFollowup Instructions:\n1) Please make an appointment to see your PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] within\nthe next week\n\n2) Please follow up the Vascular Surgery service as noted below:\n\nDepartment: VASCULAR SURGERY\nWhen: FRIDAY [**2177-1-3**] at 11:15 AM\nWith: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1244**], MD [**Telephone/Fax (1) 1237**]\nBuilding: LM [**Hospital Unit Name **] [**Location (un) **]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\n\n\n"
+    }
+  ]
+}

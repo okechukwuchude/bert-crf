@@ -1,0 +1,103 @@
+{
+  "hadm_id": 169117,
+  "comment": "Right Colectomy, Extensive Enterolysis - Need OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 35053,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 231,
+          "end": 267,
+          "code": "C18.2",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of ascending colon",
+          "type": "Human",
+          "covered_text": "Adenocarcinoma of the Proximal Colon"
+        },
+        {
+          "begin": 578,
+          "end": 584,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "anemia"
+        },
+        {
+          "begin": 1216,
+          "end": 1244,
+          "code": "Z95.1",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of aortocoronary bypass graft",
+          "type": "Human",
+          "covered_text": "coronary artery bypass graft"
+        },
+        {
+          "begin": 1471,
+          "end": 1482,
+          "code": "K65.0",
+          "code_system": "ICD-10-CM",
+          "description": "Generalized (acute) peritonitis",
+          "type": "Human",
+          "covered_text": "peritonitis"
+        },
+        {
+          "begin": 2145,
+          "end": 2148,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 2242,
+          "end": 2246,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 2247,
+          "end": 2250,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 3964,
+          "end": 4002,
+          "code": "C18.2",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of ascending colon",
+          "type": "Human",
+          "covered_text": "Adenocarcinoma of the ascending colon,"
+        }
+      ],
+      "text": "Admission Date:  [**2106-11-19**]              Discharge Date:   [**2106-12-6**]\n\nDate of Birth:  [**2027-2-7**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nPenicillins\n\nAttending:[**First Name3 (LF) 974**]\nChief Complaint:\nAdenocarcinoma of the Proximal Colon\n\n\nMajor Surgical or Invasive Procedure:\n1. Right colectomy.\n2. Extensive enterolysis.\n3. Exploratory laparotomy.\n4. Washout and takedown and resection of failed ileocolic\n    anastomosis with end ileostomy.\n\n\nHistory of Present Illness:\nThis patient is a 79-year-old male who presents with a history\nof having anemia which was worked up and he was found to have a\ntumor in cecum very near the ileocecal valve. This was palpable\nat the time surgery. Additionally he\nhad 2  polyps in the ascending colon. The highest one was distal\nto the hepatic flexure. At surgery we found his hepatic flexure\nwas quite adherent to the gallbladder fossa. This was taken down\nand we managed to get his colon over to\nthe level of his antecolic B2 where we resected. We actually\nmanaged to get to the right branch of the middle colic artery.\nThis did require extensive enterolysis for approximately an hour\nand half because of his previous\nabdominal sepsis following coronary artery bypass graft in [**2093**].\n\nHe was doing well until yesterday when he developed a white\ncount and a fever overnight. This morning he had some stool\nexpressing from his wound. He was\nbrought to surgery and there he was found to have fecal\nperitonitis. He actually been taking diet and having flatus, but\nno bowel movement yet prior to surgery. At surgery, the colonic\nside of this ileocolic anastomoses was found to be disrupted,\nbut was not necrotic. It was determined that the entire colon\nwas open, and so therefore, it was felt it would probably be\nbest to just go ahead and oversew it and take down the\nanastomoses and give him an end ileostomy, especially since\nthere was so much a fecal spillage. This was\naccomplished with some degree of difficulty because he had had a\npreperitoneal bleed, I assume from closure, so we had some\nabdominal wall hematoma, as well, which was removed.\n\nPast Medical History:\nCAD s/p CABG [**2093**]\nAntrectomy and vagotomy [**2093**] with BillrothII then converted to\nR-Y\nGERD\nHTN\n\nSocial History:\nLives at home with his wife.  [**Name (NI) **] social support amongst family\nmembers.\n\nFamily History:\nNot elicited\n\nPertinent Results:\n[**2106-11-19**] 06:01PM   POTASSIUM-4.1\n[**2106-11-19**] 06:01PM   CK(CPK)-377*\n[**2106-11-19**] 06:01PM   CK-MB-5 cTropnT-<0.01\n[**2106-11-19**] 06:01PM   MAGNESIUM-1.5*\n[**2106-11-19**] 06:01PM   HCT-39.0*\n[**2106-11-19**] 05:09PM   HGB-13.2* calcHCT-40\n[**2106-11-19**] 04:24PM   HGB-5.7* calcHCT-17\n\nPORTABLE CHEST, [**2106-11-19**], 21:44\n\nINDICATION: Hypertension and dyspnea.\n\nFINDINGS:\n\nCABG changes are evident. At the right upper lobe laterally,\nthere is some\nlinear reticular markings and a nodular feature is appreciated\nprojecting over\nright anterior rib 3. The latter was shown to be a dense\ncalcification on\nprior chest CT. That CT shows no definite correlate with the\nreticular\nmarkings visualized at the right upper lobe laterally, but\nadditional\nreticular markings were seen in the right upper lobe anteriorly.\nThe\npulmonary vascular markings are not distended, and the\ncostophrenic sulci are\nsharply delineated. There is no focal consolidation. No\npneumothorax.\n\nIMPRESSION: No focal consolidation. Reticular markings seen in\nthe right\nupper lobe laterally should be followed with a subsequent film\nto see if this\nis evolving. Dense calcification presumably granuloma in the\nsuperior aspect\nof the right lower lobe laterally.\n\nPathology Report\nSPECIMEN SUBMITTED: right colon.\n\nProcedure date     Tissue received     Report Date    Diagnosed\nby\n[**2106-11-19**] [**2106-11-19**] [**2106-11-23**] DR. [**Last Name (STitle) **]. [**Doctor Last Name **]/ttl\nPrevious biopsies:    [**-8/3905**]  GI BX'S, 3 JARS.\n\nDIAGNOSIS:\nIleocolectomy:\n1.  Adenocarcinoma of the ascending colon, see synoptic report.\n2.  Two adenomas of the colon.\n3.  Fibrous obliteration, distal end of appendix.\n4.  Ileal segment, within normal limits.\n\nECG\nSinus rhythm with borderline A-V conduction delay\nConsider left atrial abnormality\nLeft anterior fascicular block\nSince previous tracing of [**2106-11-16**], ventricular ectopy absent\n\n\n\n\n\nBrief Hospital Course:\nPt admitted to surgery for removal of adenocarcinoma proximal\ncolon. He had a colectomy of the R colon and an anastomis\nperformed to bring terminal ileum to the transverse colon.  This\ndid require extensive enterolysis for approximately an hour and\nhalf because of his previous abdominal sepsis following coronary\nartery bypass graft in [**2093**].  He did well for the first five\npostoperative days until it was noted on POD 6 that pt had stool\nexpressing from his wound. He was brought to surgery and there\nhe was found to have fecal peritonitis. He was on a regular diet\nand having flatus, but no bowel movement yet prior to the second\nsurgery. At surgery, the colonic side of this ileocolic\nanastomoses was found to be disrupted, but was not necrotic. It\nwas determined that the entire colon was open, and so therefore,\nit was felt it would probably be best to just go ahead and\noversew it and take down the anastomoses and give him an end\nileostomy, especially since there was so much a fecal spillage.\nThis was accomplished with some degree of difficulty because he\nhad had a preperitoneal bleed, I assume from closure, so we had\nsome abdominal wall hematoma, as well, which was removed.  S/p\nsurgery pt did well and had wound vac placed over abdominal wall\nwhere hematoma was removed.  Pt continued to progress and was\ndischarged to home after receinf ileostomy care and setting up\nservices for wound vac changes.\n\nMedications on Admission:\nAtenolol 50mg Qdaily\nXanax 0.25 PRN\nOmeprazole 20mg QDaily\nMVN\nASA 81mg QDaily\nTravatan Eye drops (Travoprost)\n\nDischarge Medications:\n1. Phenol-Phenolate Sodium     Mouthwash Sig: One (1) Spray\nMucous membrane PRN (as needed).\n2. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at\nbedtime).\n3. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID\n(3 times a day).\n4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).\nDisp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*\n5. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n6. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n7. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n8. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)\nas needed.\n9. Hydrocodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet\nPO every six (6) hours as needed for pain.\nDisp:*30 Tablet(s)* Refills:*0*\n10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as\nneeded for constipation.\nDisp:*60 Tablet(s)* Refills:*2*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nGreater [**Location (un) 1468**] VNA\n\nDischarge Diagnosis:\nAnastomotic failure with fecal peritonitis.\nAdenocarcinoma of the right colon.\n\n\nDischarge Condition:\nGood\n\n\nDischarge Instructions:\nCall your surgeon or return to the ER if:\n* If you are vomiting and cannot keep in fluids or your\nmedications.\n* If you have shaking chills, fever greater than 101.5 (F)\ndegrees or 38 (C) degrees, increased redness, swelling or\ndischarge from incision, chest pain, shortness of breath, or\nanything else that is troubling you.\n* Any serious change in your symptoms, or any new symptoms that\nconcern you.\n* Please resume all regular home medications and take any new\nmeds as ordered.\n* Do not drive or operate heavy machinery while taking any\nnarcotic pain medication. You may have constipation when taking\nnarcotic pain medications (oxycodone, percocet, vicodin,\nhydrocodone, dilaudid, etc.); you should continue drinking\nfluids, you may take stool softeners, and should eat foods that\nare high in fiber.\n\n\nFollowup Instructions:\nPlease follow-up with Dr. [**Last Name (STitle) **] and the Wound Care Clinic -\nyour appoinments are on the same day on [**2106-12-21**]\n\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 2213**], MD Phone:[**Telephone/Fax (1) 2359**]\nDate/Time:[**2106-12-21**] 9:30\nWound care: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 10132**], NP. [**2106-12-21**] 10:45AM\n\n\n\n"
+    },
+    {
+      "note_id": 541876,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 898,
+          "end": 916,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "periop Afib w/ RVR"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   HPI:  79 yo male w/ htn, cad s/p cabg [**2093**], gerd, colon ca s/p right\n   hemicolectomy [**11-19**], back to OR [**11-26**] for suspected leak --> ex lap,\n   abd washout, leak found, end ileostomy created. Periop fluid balance 3L\n   in/150ml urine/EBL?, intermittent phenylephrine boluses, no cont\n   pressor gtt. Pt hospital course w/ paroxymal afib on rate control,\n   postop w/ PAF.\n   .\n   ISSUES:\n   1. periop Afib w/ RVR\n   Chief complaint:\n   SICU\n   HPI:\n   HPI:  79 yo male w/ htn, cad s/p cabg [**2093**], gerd, colon ca s/p right\n   hemicolectomy [**11-19**], back to OR [**11-26**] for suspected leak --> ex lap,\n   abd washout, leak found, end ileostomy created. Periop fluid balance 3L\n   in/150ml urine/EBL?, intermittent phenylephrine boluses, no cont\n   pressor gtt. Pt hospital course w/ paroxymal afib on rate control,\n   postop w/ PAF.\n   .\n   ISSUES:\n   1. periop Afib w/ RVR\n   Chief complaint:\n   arrhythmia\n   PMHx:\n   htn, cad s/p cabg [**2093**], gerd, colon ca\n   Current medications:\n   1. 2. 3. 4. 1000 mL LR 5. Amiodarone 6. Amiodarone 7. Calcium Gluconate\n   8. Ciprofloxacin 9. HYDROmorphone (Dilaudid)\n   10. Heparin 11. Insulin 12. Latanoprost 0.005% Ophth. Soln. 13.\n   Magnesium Sulfate 14. Metoprolol Tartrate\n   15. MetRONIDAZOLE (FLagyl) 16. Ondansetron 17. Pantoprazole 18.\n   Phenaseptic Throat Spray 19. Potassium Chloride\n   20. Sodium Chloride 0.9% Flush 21. Sodium Chloride 0.9% Flush 22.\n   Sodium Chloride 0.9% Flush 23. Vancomycin\n   24 Hour Events:\n   [**11-27**] - placed vac on wound, amio gtt continued for OR tomorrow, A+Ox3 -\n   urine output appropriate - seems appropriately resuscitated\n   Post operative day:\n   POD#2 - colectomy\n   Allergies:\n   Penicillins\n   Hives;\n   Last dose of Antibiotics:\n   Vancomycin - [**2106-11-27**] 08:06 PM\n   Ciprofloxacin - [**2106-11-28**] 12:20 AM\n   Metronidazole - [**2106-11-28**] 04:24 AM\n   Infusions:\n   Amiodarone - 0.5 mg/min\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2106-11-27**] 08:25 PM\n   Pantoprazole (Protonix) - [**2106-11-27**] 08:26 PM\n   Hydromorphone (Dilaudid) - [**2106-11-28**] 01:54 AM\n   Metoprolol - [**2106-11-28**] 04:23 AM\n   Other medications:\n   Flowsheet Data as of  [**2106-11-28**] 04:36 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**10**] a.m.\n   Tmax: 37.2\nC (98.9\n   T current: 36.9\nC (98.4\n   HR: 74 (65 - 91) bpm\n   BP: 131/47(68) {111/35(56) - 140/63(80)} mmHg\n   RR: 18 (8 - 22) insp/min\n   SPO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 66 Inch\n   CVP: 5 (-1 - 7) mmHg\n   Total In:\n                                                                  3,496 mL\n                                                                    689 mL\n   PO:\n   Tube feeding:\n   IV Fluid:\n                                                                  3,496 mL\n                                                                    689 mL\n   Blood products:\n   Total out:\n                                                                  1,505 mL\n                                                                    390 mL\n   Urine:\n                                                                  1,220 mL\n                                                                    340 mL\n   NG:\n   Stool:\n   Drains:\n                                                                    255 mL\n                                                                     50 mL\n   Balance:\n                                                                  1,991 mL\n                                                                    301 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SPO2: 98%\n   ABG: ///28/\n   Physical Examination\n   General Appearance: No acute distress, Overweight / Obese\n   HEENT: PERRL, EOMI\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Distended, Tender: appropriately post-operatively\n   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis\n   pedis: Present), (Pulse - Posterior tibial: Present)\n   Skin: (Incision: Clean / Dry / Intact), VAC to suction\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   (Responds to: Verbal stimuli), Moves all extremities\n   Labs / Radiology\n   429 K/uL\n   8.0 g/dL\n   145 mg/dL\n   0.6 mg/dL\n   28 mEq/L\n   3.4 mEq/L\n   14 mg/dL\n   103 mEq/L\n   137 mEq/L\n   23.8 %\n   11.7 K/uL\n        [image002.jpg]\n                            [**2106-11-26**]  06:37 PM\n                             [**2106-11-27**]  02:05 AM\n                             [**2106-11-28**]  02:15 AM\n                             [**2106-11-28**]  03:09 AM\n   WBC\n   17.4\n   16.5\n   11.6\n   11.7\n   Hct\n   32.5\n   31.2\n   24.5\n   23.8\n   Plt\n   533\n   514\n   420\n   429\n   Creatinine\n   0.6\n   0.7\n   0.6\n   Glucose\n   146\n   213\n   145\n   Other labs: PT / PTT / INR:15.6/28.8/1.4, Albumin:2.5 g/dL, Ca:7.3\n   mg/dL, Mg:2.0 mg/dL, PO4:2.0 mg/dL\n   Assessment and Plan\n   WOUND INFECTION, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), CANCER\n   (MALIGNANT NEOPLASM), COLORECTAL (COLON CANCER), NAUSEA / VOMITING,\n   ATRIAL FIBRILLATION (AFIB)\n   Assessment and Plan: HPI:  79 yo male w/ htn, cad s/p cabg [**2093**], gerd,\n   colon ca s/p right hemicolectomy [**11-19**], back to OR [**11-26**] for suspected\n   leak --> ex lap, abd washout, leak found, end ileostomy created. Periop\n   fluid balance 3L in/150ml urine/EBL?, intermittent phenylephrine\n   boluses, no cont pressor gtt. Pt hospital course w/ paroxymal afib on\n   rate control, postop w/ PAF.\n   Neurologic: Neuro checks Q: 4 hr, Neurologic: Neuro checks Q: 4 hr,\n   DILAUDID PRN FOR PAIN; phenergan/zofran for continued nausea without\n   productive emesis\n   Cardiovascular: Beta-blocker, Cardiovascular: Beta-blocker, AFIB IN\n   RATE CONTROL ON AMIO GTT\n   Pulmonary: Pulmonary: IS, IS/ OOB\n   Gastrointestinal / Abdomen: Post-op ileus, Gastrointestinal / Abdomen:\n   Post-op ileus, nausea s/p ex-lap/  end ileostomy\n   zofran\n   Nutrition: NPO\n   Renal: Foley, Adequate UO\n   Hematology: Serial Hct\n   Endocrine: RISS\n   Infectious Disease: Check cultures, Infectious Disease: Check cultures,\n   V/F/Cipro - broad coverage\n   Lines / Tubes / Drains: Foley, Lines / Tubes / Drains: Foley, triple\n   lumen,\n   Wounds: Dry dressings, Wounds: Dry dressings\n   Imaging: Imaging: no imaging needed today\n   Fluids: LR, @ 80 to reduce amount of resuscitative fluids overnight\n   Consults: General surgery\n   Billing Diagnosis: Post-op complication, Sepsis\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Multi Lumen - [**2106-11-26**] 07:03 PM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: PPI\n   VAP bundle:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 32 minutes\n   Patient is critically ill\n"
+    }
+  ]
+}

@@ -1,0 +1,1547 @@
+{
+  "hadm_id": 135479,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1156441,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 154,
+          "end": 163,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "pneumonia"
+        },
+        {
+          "begin": 186,
+          "end": 191,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 338,
+          "end": 360,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "traumatic brain injury"
+        },
+        {
+          "begin": 398,
+          "end": 403,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 491,
+          "end": 500,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "pneumonia"
+        },
+        {
+          "begin": 729,
+          "end": 755,
+          "code": "V45.2",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical presence of cerebrospinal fluid drainage device",
+          "type": "Human",
+          "covered_text": "Ventriculoperitoneal shunt"
+        },
+        {
+          "begin": 905,
+          "end": 914,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "pneumonia"
+        }
+      ],
+      "text": "[**2156-8-29**] 1:14 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 85819**]\n Reason: evaluate for pneumonia\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with h/o traumatic brain injury, bedbound, on tube feeds, now\n  with fever. Previous chest x-ray was non-diagnostic.\n REASON FOR THIS EXAMINATION:\n  evaluate for pneumonia\n ______________________________________________________________________________\n                                 FINAL REPORT\n CHEST RADIOGRAPH\n\n INDICATION:  Traumatic brain injury.\n\n COMPARISON:  [**2156-8-28**].\n\n FINDINGS:  Ventriculoperitoneal shunt.  Clavicular fixation on the left.\n\n Normal size of the cardiac silhouette, no pleural effusions.  Minimal\n retrocardiac atelectasis, no evidence of pneumonia.  No pulmonary edema.  No\n lung nodules or masses.\n\n\n"
+    },
+    {
+      "note_id": 1157047,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 195,
+          "end": 200,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 343,
+          "end": 351,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizures"
+        },
+        {
+          "begin": 602,
+          "end": 610,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizures"
+        },
+        {
+          "begin": 764,
+          "end": 812,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "lower lobe retrocardiac opacities have increased"
+        }
+      ],
+      "text": "[**2156-9-2**] 8:07 AM\n CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 7**] # [**Clip Number (Radiology) 85820**]\n Reason: ventilated\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with seizures\n REASON FOR THIS EXAMINATION:\n  ventilated\n ______________________________________________________________________________\n                                 FINAL REPORT\n SINGLE AP PORTABLE VIEW OF THE CHEST\n\n REASON FOR EXAM:  Intubated patient with seizures.\n\n Comparison is made with prior study performed four hours earlier.\n\n ET tube is 4.8 cm above the carina.  Cardiomediastinal contours are normal.\n Left lower lobe retrocardiac opacities have increased.  These could correspond\n to atelectasis, but superimposed infection cannot be excluded.  There is no\n pneumothorax or pleural effusion.\n\n\n"
+    },
+    {
+      "note_id": 1156371,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 319,
+          "end": 324,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 329,
+          "end": 334,
+          "code": "786.2",
+          "code_system": "ICD-9-CM",
+          "description": "Cough",
+          "type": "MapType.EXACT",
+          "covered_text": "cough"
+        },
+        {
+          "begin": 591,
+          "end": 613,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "traumatic brain injury"
+        },
+        {
+          "begin": 619,
+          "end": 624,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 630,
+          "end": 635,
+          "code": "786.2",
+          "code_system": "ICD-9-CM",
+          "description": "Cough",
+          "type": "MapType.EXACT",
+          "covered_text": "cough"
+        }
+      ],
+      "text": "[**2156-8-28**] 5:38 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 85815**]\n Reason: ? PNA\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with craniectomy s/p TBI here with fever and cough\n REASON FOR THIS EXAMINATION:\n  ? PNA\n ______________________________________________________________________________\n                                 FINAL REPORT\n AP PORTABLE CHEST, [**2156-8-28**] AT 18:16 HOURS.\n\n HISTORY:  Craniectomy with history of traumatic brain injury with fever and\n cough.\n\n COMPARISON:  None.\n\n FINDINGS:  Please note, the technologist states that the patient could not\n follow breathing instructions for the examination.  Therefore, there is severe\n motion degradation of the exam rendering evaluation of the mid and lower lungs\n essentially nondiagnostic.  No gross complete opacification is noted, however\n further comment is reserved.  The mediastinum is grossly midline.  The cardiac\n silhouette is grossly within normal limits for size.  No large pneumothorax is\n seen.  There is tubing projecting to the right of midline into the abdomen\n from the neck, presumably ventriculoperitoneal shunt.  Additionally, there is\n an IVC filter present.\n\n IMPRESSION:  Nearly nondiagnostic study with no gross opacity noted.  If\n clinically feasible, consider repeat study.\n\n"
+    },
+    {
+      "note_id": 1156741,
+      "category": "Radiology",
+      "description": "CT HEAD W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 46,
+          "code": "70450",
+          "code_system": "CPT",
+          "description": "Computed tomography, head or brain; without contrast material",
+          "type": "Human",
+          "covered_text": "CT HEAD W/O CONTRAST"
+        },
+        {
+          "begin": 225,
+          "end": 230,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 373,
+          "end": 395,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "traumatic brain injury"
+        },
+        {
+          "begin": 1606,
+          "end": 1619,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 1651,
+          "end": 1683,
+          "code": "348.89",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.APPROX",
+          "covered_text": "matter hypodensities bilaterally"
+        },
+        {
+          "begin": 1744,
+          "end": 1758,
+          "code": "473.3",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic sphenoidal sinusitis",
+          "type": "MapType.EXACT",
+          "covered_text": "sphenoid sinus"
+        }
+      ],
+      "text": "[**2156-8-31**] 10:49 AM\n CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 85976**]\n Reason: does VP shunt look normal? any change in hydrocephalus? / r/\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with traumatic brain injury, s/p VP shunt\n REASON FOR THIS EXAMINATION:\n  does VP shunt look normal? any change in hydrocephalus? / r/o sdh\n No contraindications for IV contrast\n ______________________________________________________________________________\n PROVISIONAL FINDINGS IMPRESSION (PFI): PBec TUE [**2156-8-31**] 3:19 PM\n  PFI:  Exam is unchanged with stable hydrocephalus and unchanged position of VP\n  shunt.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  23-year-old woman with traumatic brain injury, status post VP\n shunt.  Please evaluate VP shunt positioning and change in hydrocephalus,\n concern for subdural hematoma.\n\n TECHNIQUE:  Contiguous axial images were obtained through the brain.  No\n contrast was administered.\n\n COMPARISON:  Comparison is made to multiple non-contrast head CTs with dates\n ranging from [**2156-5-6**] to [**2156-8-28**].\n\n FINDINGS:  Exam is unchanged. No new edema, hemorrhage, masses, or infarct\n identified. Patient is status post left cranioplasty and placement of a\n right-sided parietal-approach VP shunt with tip position stable at the left\n foramen of [**Last Name (un) **].  Stable severe hydrocephalus and extensive unchanged white\n matter hypodensities bilaterally.  No shift of midline structures.\n Increased fluid in right sphenoid sinus.\n\n IMPRESSION:  Exam is unchanged with stable hydrocephalus and unchanged\n position of VP shunt.\n\n"
+    },
+    {
+      "note_id": 38152,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 234,
+          "end": 239,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "Fever"
+        },
+        {
+          "begin": 441,
+          "end": 483,
+          "code": "854.02",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with brief [less than one hour] loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "sustained massive traumatic\nbrain injuries"
+        },
+        {
+          "begin": 730,
+          "end": 746,
+          "code": "578.0",
+          "code_system": "ICD-9-CM",
+          "description": "Hematemesis",
+          "type": "MapType.EXACT",
+          "covered_text": "nonbloody emesis"
+        },
+        {
+          "begin": 793,
+          "end": 798,
+          "code": "786.2",
+          "code_system": "ICD-9-CM",
+          "description": "Cough",
+          "type": "MapType.EXACT",
+          "covered_text": "cough"
+        },
+        {
+          "begin": 867,
+          "end": 878,
+          "code": "780.8",
+          "code_system": "ICD-9-CM",
+          "description": "Generalized hyperhidrosis",
+          "type": "MapType.EXACT",
+          "covered_text": "diaphoresis"
+        },
+        {
+          "begin": 1045,
+          "end": 1069,
+          "code": "379.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified disorders of eye and adnexa",
+          "type": "MapType.APPROX",
+          "covered_text": "purulent yellow\ndrainage"
+        },
+        {
+          "begin": 1279,
+          "end": 1323,
+          "code": "728.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified disorder of muscle, ligament, and fascia",
+          "type": "MapType.APPROX",
+          "covered_text": "increasing tone in LUE and lower\nextremities"
+        },
+        {
+          "begin": 1631,
+          "end": 1649,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "temperature of 101"
+        },
+        {
+          "begin": 1976,
+          "end": 1994,
+          "code": "782.1",
+          "code_system": "ICD-9-CM",
+          "description": "Rash and other nonspecific skin eruption",
+          "type": "MapType.EXACT",
+          "covered_text": "maculopapular rash"
+        },
+        {
+          "begin": 2069,
+          "end": 2081,
+          "code": "791.7",
+          "code_system": "ICD-9-CM",
+          "description": "Other cells and casts in urine",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "cloudy urine"
+        },
+        {
+          "begin": 2371,
+          "end": 2382,
+          "code": "288.69",
+          "code_system": "ICD-9-CM",
+          "description": "Other elevated white blood cell count",
+          "type": "MapType.EXACT",
+          "covered_text": "WBC of 11.9"
+        },
+        {
+          "begin": 2394,
+          "end": 2404,
+          "code": "790.4",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]",
+          "type": "MapType.EXACT",
+          "covered_text": "LDH of 273"
+        },
+        {
+          "begin": 2862,
+          "end": 2873,
+          "code": "785.0",
+          "code_system": "ICD-9-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "tachycardic"
+        },
+        {
+          "begin": 3192,
+          "end": 3218,
+          "code": "V45.2",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical presence of cerebrospinal fluid drainage device",
+          "type": "Human",
+          "covered_text": "Ventriculoperitoneal shunt"
+        },
+        {
+          "begin": 3222,
+          "end": 3244,
+          "code": "854.02",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with brief [less than one hour] loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "Traumatic Brain Injury"
+        },
+        {
+          "begin": 3248,
+          "end": 3264,
+          "code": "V44.1",
+          "code_system": "ICD-9-CM",
+          "description": "Gastrostomy status",
+          "type": "Human",
+          "covered_text": "G-tube placement"
+        },
+        {
+          "begin": 3309,
+          "end": 3331,
+          "code": "370.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other forms of keratitis",
+          "type": "MapType.APPROX",
+          "covered_text": "keratitis of the L eye"
+        },
+        {
+          "begin": 3357,
+          "end": 3399,
+          "code": "950.0",
+          "code_system": "ICD-9-CM",
+          "description": "Optic nerve injury",
+          "type": "MapType.APPROX",
+          "covered_text": "Traumatic optic neuropathy of the left eye"
+        },
+        {
+          "begin": 3403,
+          "end": 3419,
+          "code": "802.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other facial bones closed fracture",
+          "type": "MapType.APPROX",
+          "covered_text": "Facial fractures"
+        },
+        {
+          "begin": 3526,
+          "end": 3545,
+          "code": "802.0",
+          "code_system": "ICD-9-CM",
+          "description": "Nasal bones, closed fracture",
+          "type": "MapType.APPROX",
+          "covered_text": "ethmoidal fractures"
+        },
+        {
+          "begin": 3550,
+          "end": 3569,
+          "code": "810.00",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of clavicle, unspecified part",
+          "type": "MapType.APPROX",
+          "covered_text": "L clavicle fracture"
+        },
+        {
+          "begin": 3598,
+          "end": 3631,
+          "code": "811.02",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of coracoid process of scapula",
+          "type": "MapType.APPROX",
+          "covered_text": "Fracture of left coracoid process"
+        },
+        {
+          "begin": 3636,
+          "end": 3652,
+          "code": "807.2",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of sternum",
+          "type": "MapType.APPROX",
+          "covered_text": "inferior sternum"
+        },
+        {
+          "begin": 3657,
+          "end": 3708,
+          "code": "824.0",
+          "code_system": "ICD-9-CM",
+          "description": "Fracture of medial malleolus, closed",
+          "type": "MapType.APPROX",
+          "covered_text": "L medial malleolus fracture and left tibial plateau"
+        },
+        {
+          "begin": 3763,
+          "end": 3800,
+          "code": "808.2",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of pubis",
+          "type": "MapType.APPROX",
+          "covered_text": "fracture of the L inferior\npubic rami"
+        },
+        {
+          "begin": 3867,
+          "end": 3902,
+          "code": "805.4",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of lumbar vertebra without mention of spinal cord injury",
+          "type": "MapType.APPROX",
+          "covered_text": "R transverse process fracture of L5"
+        },
+        {
+          "begin": 3924,
+          "end": 3939,
+          "code": "805.6",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of sacrum and coccyx without mention of spinal cord injury",
+          "type": "MapType.APPROX",
+          "covered_text": "sacral fracture"
+        },
+        {
+          "begin": 3944,
+          "end": 3992,
+          "code": "728.11",
+          "code_system": "ICD-9-CM",
+          "description": "Progressive myositis ossificans",
+          "type": "MapType.APPROX",
+          "covered_text": "Myositis ossificans of the R proximal quadriceps"
+        },
+        {
+          "begin": 4001,
+          "end": 4021,
+          "code": "861.21",
+          "code_system": "ICD-9-CM",
+          "description": "Contusion of lung without open wound into thorax",
+          "type": "MapType.APPROX",
+          "covered_text": "pulmonary contusions"
+        },
+        {
+          "begin": 4027,
+          "end": 4047,
+          "code": "V43.4",
+          "code_system": "ICD-9-CM",
+          "description": "Blood vessel replaced by other means",
+          "type": "MapType.APPROX",
+          "covered_text": "IVC filter placement"
+        },
+        {
+          "begin": 4069,
+          "end": 4087,
+          "code": "864.04",
+          "code_system": "ICD-9-CM",
+          "description": "Laceration of liver, major, without mention of open wound into cavity",
+          "type": "MapType.APPROX",
+          "covered_text": "Hepatic laceration"
+        },
+        {
+          "begin": 4092,
+          "end": 4113,
+          "code": "337.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified disorder of autonomic nervous system",
+          "type": "MapType.APPROX",
+          "covered_text": "Autonomic dysfunction"
+        },
+        {
+          "begin": 7192,
+          "end": 7213,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "MapType.APPROX",
+          "covered_text": "retrocardiac effusion"
+        },
+        {
+          "begin": 7947,
+          "end": 7966,
+          "code": "345.80",
+          "code_system": "ICD-9-CM",
+          "description": "Other forms of epilepsy, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "generalized seizure"
+        },
+        {
+          "begin": 8970,
+          "end": 8993,
+          "code": "333.2",
+          "code_system": "ICD-9-CM",
+          "description": "Myoclonus",
+          "type": "Human",
+          "covered_text": "Occulopalatal myoclonus"
+        },
+        {
+          "begin": 9663,
+          "end": 9675,
+          "code": "564.00",
+          "code_system": "ICD-9-CM",
+          "description": "Constipation, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "constipation"
+        },
+        {
+          "begin": 9806,
+          "end": 9814,
+          "code": "786.07",
+          "code_system": "ICD-9-CM",
+          "description": "Wheezing",
+          "type": "MapType.EXACT",
+          "covered_text": "wheezing"
+        },
+        {
+          "begin": 9859,
+          "end": 9871,
+          "code": "564.00",
+          "code_system": "ICD-9-CM",
+          "description": "Constipation, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "constipation"
+        },
+        {
+          "begin": 10093,
+          "end": 10099,
+          "code": "787.02",
+          "code_system": "ICD-9-CM",
+          "description": "Nausea alone",
+          "type": "MapType.EXACT",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 11124,
+          "end": 11135,
+          "code": "112.0",
+          "code_system": "ICD-9-CM",
+          "description": "Candidiasis of mouth",
+          "type": "MapType.APPROX",
+          "covered_text": "oral thrush"
+        },
+        {
+          "begin": 12048,
+          "end": 12054,
+          "code": "787.02",
+          "code_system": "ICD-9-CM",
+          "description": "Nausea alone",
+          "type": "MapType.EXACT",
+          "covered_text": "nausea"
+        },
+        {
+          "begin": 12361,
+          "end": 12373,
+          "code": "564.00",
+          "code_system": "ICD-9-CM",
+          "description": "Constipation, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "constipation"
+        },
+        {
+          "begin": 13085,
+          "end": 13093,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "Seizures"
+        }
+      ],
+      "text": "Admission Date:  [**2156-8-28**]              Discharge Date:   [**2156-9-16**]\n\nDate of Birth:  [**2133-2-14**]             Sex:   F\n\nService: NEUROLOGY\n\nAllergies:\nAmoxicillin\n\nAttending:[**First Name3 (LF) 2569**]\nChief Complaint:\nFever\n\nMajor Surgical or Invasive Procedure:\nNone.\n\n\nHistory of Present Illness:\nMs. [**Known lastname 28082**] is a previously healthy 23-year old woman who was hit\nby a drunk driver in [**State 531**] and sustained massive traumatic\nbrain injuries in [**2155-12-29**], s/p craniectomy, cranioplasty,\nand VP shunt, who currently presents from [**Hospital3 **] with\nfever.  Per her parents, on [**2156-8-22**] she had a low grade\ntemperature of 100.0. On [**2156-8-25**]  she had two episodes of\nnonbloody emesis, and she started to have a dry, nonproductive\ncough. Ms. [**Known lastname 85111**] parents also noted that the she had\ndiaphoresis and increased movements. On [**2156-8-26**] they noticed\nthat her left eye, which has a keratograft and tarsorrhaphy,\nbecame red and injected, with a small amount of purulent yellow\ndrainage. Per her parents, she has had eye infections multiple\ntimes but they have resolved with drops. During the last week,\nher rehab reports that she has been arching her back with head\nturning to the left, has had increasing tone in LUE and lower\nextremities, with flexion of the right arm. These episodes last\nabout 30 seconds and don't appear to be in repsonse to anything.\n For the past two weeks she has also had mottling on the lower\nextremities, but this may be connected to their utilization of\nthe tilt table at rehab. At rehab on [**2156-8-28**], she had a\ntemperature of 101, and she may hvae had abdominal tenderness\nper physician's exam (she grimaced with abdominal exam). She was\nsent to the [**Hospital1 18**] ED and spiked to 102 while in triage at the\nBED.\n.\nOn arrival to the ED her initial VS were T99.4, HR 122, BP\n122/71, RR 18, Sat 98%. On exam she was noted to have a\nnontender abdomen, a maculopapular rash on her face (which her\nparents said has been going on for weeks) and very cloudy urine.\nNeurosurgery was consulted. Preliminary read of the CT scan of\nher head (which was done with and without contrast at the\nrequest of neurosurgery) did not show any clear focus of\ninfection in her head and was overall not significantly changed\nfrom prior. Labs were notably primarily for a WBC of 11.9\n(79%N), an LDH of 273 (no prior for comparison). Her UA was\nrelatively unremarkable and a CXR appeared to have no evidence\nof a PNA although it was somewhat nondiagnostic.\n.\nNeurosurgery felt that she should be admitted to medicine for\nworkup of fever. They feel it is very unlikely that the cause of\nher fever is her IC shunt given that she has had it for the\nbetter part of a year, however if her workup remains negative\nthey could consider tapping it.\n.\nOn the floor, she was tachycardic to 111, with a Tmax of 99.3\nand BP of 133/69. She was nonverbal and therefore unable to give\nhistory.\n.\nReview of systems:\n(+) Per HPI\n(-) Unable to assess. Parents confirm no diarrhea and no other\nmental status changes. Other than HPI, she is at baseline.\n\n\nPast Medical History:\n1. L craniectomy and cranioplasty\n2. Ventriculoperitoneal shunt\n3. Traumatic Brain Injury\n4. G-tube placement [**2156-1-29**]\n5. Exposure keratopathy and keratitis of the L eye\n6. s/p L tarsorrhaphy\n7. Traumatic optic neuropathy of the left eye\n8. Facial fractures, including Lefort III, b/l s/p open\nreduction, internal fixation on [**2156-1-30**], type 2 nasal orbital\nethmoidal fractures.\n9. L clavicle fracture s/p ORIF [**2156-2-4**]\n10. Fracture of left coracoid process and inferior sternum\n11. L medial malleolus fracture and left tibial plateau\nfracture, s/p ORIF\n12. Minimally displaced comminuted fracture of the L inferior\npubic rami and minimally displaced fracture of the superior\npubic ramus.\n13. R transverse process fracture of L5\n14. Vertical midling sacral fracture\n15. Myositis ossificans of the R proximal quadriceps\n16. B/L pulmonary contusions.\n17. IVC filter placement [**2156-1-22**].\n18. Hepatic laceration\n19. Autonomic dysfunction\n20. S/P L keratograft at Mass Eye & Ear in [**2-4**].\n\nSocial History:\nMs. [**Known lastname 28082**] was a previously healthy, fully functioning woman\nprior to being hit by a drunk driver in [**Location (un) 7349**]. She is a graudate\nof [**University/College 85112**] and was working as an aide for Mayor [**Last Name (un) 41364**]\nprior to her accident. She is currently a resident at [**Hospital1 **]. She has a very supportive family and her parents are\nquite involved in her care.\n\n\nFamily History:\nnon-contributory\n\nPhysical Exam:\nVitals: T: 99.3 BP: 133/69 P: 111 R: 20 O2: 98% on RA\nGeneral: In a vegetative state. Does not respond to voice,\nsometimes withdraws from painful stimuli.\nHEENT: Sclera anicteric, dried blood in oropharynx on tongue and\nhard palate, along with a small amount of mcuous on tongue.\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly, large\necchymoses on lower quadrants b/l, PEG tube site looks clean,\ndry, and intact, w/o erythema\nGU: Foley\nExt: warm, well perfused, 2+ DP pulses b/l, mottled pattern\nresembling livedo reticularis on both lower extremities.\nSkin: no rashes or ulcers\nNeuro: in a vegetative state, nonresponsive, nonverbal. R pupil\nwith sluggish response to light; unable to assess L pupil as not\nvisible due to opacity over left [**Doctor First Name 2281**] and pupil. Roving eye\nmovements horizontally. L arm flexed, with decortical\nspontaneous movements of all extremities. Unable to elicit\nreflexes in upper extremities, but right patellar reflex 2+, and\n2-3 beats of clonus in Right foot.\n\n\nPertinent Results:\n[**2156-8-28**] 04:05PM   WBC-11.9* RBC-3.90* HGB-12.7 HCT-36.2 MCV-93\nMCH-32.7* MCHC-35.2* RDW-14.3\n[**2156-8-28**] 04:05PM   NEUTS-78.9* LYMPHS-11.8* MONOS-7.1 EOS-1.4\nBASOS-0.8\n[**2156-8-28**] 04:05PM   GLUCOSE-114* LACTATE-1.2 NA+-138 K+-4.0\nCL--101 TCO2-28\n[**2156-8-28**] 04:05PM   ALT(SGPT)-22 AST(SGOT)-21 LD(LDH)-273* ALK\nPHOS-80 TOT BILI-0.5\n[**2156-8-28**] 04:40PM URINE  RBC-0-2 WBC-0-2 BACTERIA-OCC YEAST-NONE\nEPI-[**1-30**]\n[**2156-8-28**] 04:40PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR\nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0\nLEUK-NEG\n[**2156-8-28**] 04:40PM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 155**]-1.011\n\nImaging:\n[**2156-8-28**] CXR:Nearly nondiagnostic study with no gross opacity\nnoted. If clinically feasible, consider repeat study.  IVC\nfilter present. VP shunt visible.\n.\n[**2156-8-29**] CT head with and w/o contrast:\n1. No significant interval change. Persistent stable\nventriculomegaly and hydrocephalus.\n2. No interval change in position of the VP shunt.\n3. No definite rim-enhancing fluid collection. Post-contrast\nimages degraded by motion\n.\n[**2156-8-29**] CXR: Prelim read: no pleural effusion, evidence of\npneumonia, no retrocardiac effusion, no pulmonary edema, no lung\nnodules or masses, minimal retrocardiac effusion, normal cardiac\nsilhoutte. VP shunt visible.\n.\n[**2156-8-29**] CT Abdomen/Pelvis with and w/o contrast:\nNormal intraperitoneal course of VP shunt with no kinking or\nfracture\nidentified. Normal appearing adjacent fluid.\nTrace of free fluid noted in both adnexae. The uterus and both\nadnexa are normal with simple follicular cyst identified in\nrelation to both ovaries. No adenopathy.  The rectum and sigmoid\ncolon are unremarkable.\nUrinary catheter noted within the bladder.\n\n\n\n\nBrief Hospital Course:\n[**Known lastname 28082**] was admitted to the medicine service for fever of unknown\nsource. She is in a persistent vegetative state at baseline. A\nfull workup for fever remained negative. She was found on\n[**2156-8-31**] to have a generalized seizure. Her oxygen saturation was\nin the 80's at that moment and she was intubated and transferred\nto the ICU. In the ICU she was placed on two AED's (dilantin and\nKeppra). Her Shunt was tapped and adjusted per neurosurgery. One\nof two bottles from the CSF grew out coagulase negative staph.\nWe believe this is a contaminate given the benign nature of the\nCSF profile. Still she was started on empiric antibiotics which\nwere Vancomycin and Ceftazidime. This was written for a 7 day\ncourse and completed. She was subsequently afebrile. She was\nextubated on [**2156-9-2**] and observed in the ICU overnight. There\nwere no acute events. She was transferred to the floor for\nfurther care.\n\nOn the floor her antiepileptic drugs were adjusted to ensure\ncontrol with oral agents. Dilantin was stopped and valproate\nstarted. Keppra was continued. Tube feeds were increased with\ntwo three hour pauses daily to give these medications (hold one\nhour before and two hours after). She had no further seizures on\nthe floor. Occulopalatal myoclonus continued.\n\nMedications on Admission:\nMED Sodium Chloride 0.9% Flush 3 mL IV Q8H:PRN line flush\nPeripheral line: Flush with 3 mL Normal Saline every 8 hours and\nPRN.\nMED Acetaminophen 1000 mg NG Q6H:PRN fever\nDo not exceed 4gm per day.\nMED Adderall *NF* (Amphetamine-Dextroamphetamine) 10 mg OGT [**Hospital1 **]\nplease schedule for 0700, 1200\nMED Ipratropium Bromide Neb 1 NEB IH Q6H:PRN wheezing\nMED Docusate Sodium (Liquid) 100 mg NG [**Hospital1 **]\nMED Dantrolene Sodium 75 mg PO TID\nplease give through G tube\nMED Bisacodyl 10 mg PR QOD\nMED Propranolol 30 mg PO/NG TID\nMED Artificial Tear Ointment 1 Appl BOTH EYES HS\nMED Polyethylene Glycol 17 g PO/NG DAILY:PRN constipation\nMED Calcium Carbonate 500 mg PO/NG TID\nMED Vitamin D 800 UNIT PO/NG DAILY\nMED Levalbuterol Neb *NF* 0.63 mg/3 mL Inhalation q2hrs wheezing\n\nMED Senna 1 TAB PO/NG [**Hospital1 **]:PRN constipation\nMED Atomoxetine *NF* 80 mg OGT daily\nMED Amantadine 200 mg PO/NG DAILY\nplease schedule for 0800, 1400\nMED Multivitamins 1 TAB NG DAILY\nMED Omeprazole 20 mg PO DAILY\nplease give through OGT\nMED Ondansetron 4 mg IV Q8H:PRN nausea\nIV 500 mL NS Bolus 500 ml Over 30 mins\n\n\nDischarge Medications:\n1. Keppra 100 mg/mL Solution [**Hospital1 **]: [**2145**] mg  PO twice a day: Stop\nfeeds one hour prior and for two hours after instilling. Give\nwith valproate.\n2. valproic acid (as sodium salt) 250 mg/5 mL Syrup [**Year (4 digits) **]: 750 mg\nPO Q12H (every 12 hours): Liquid.\n3. miconazole nitrate 2 % Powder [**Year (4 digits) **]: One (1) Appl Topical TID\n(3 times a day).\n4. docusate sodium 50 mg/5 mL Liquid [**Year (4 digits) **]: 100 mg  PO TID (3\ntimes a day).\n5. lorazepam 2 mg/mL Syringe [**Year (4 digits) **]: 1-3 mg  Injection PRN (as\nneeded) as needed for seizure>5 min or >3 /hr.\n6. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization [**Year (4 digits) **]: One (1)  Inhalation Q6H (every 6 hours) as\nneeded for Wheeze.\n7. enoxaparin 40 mg/0.4 mL Syringe [**Year (4 digits) **]: One (1)  Subcutaneous\nDAILY (Daily).\n8. nystatin 100,000 unit/mL Suspension [**Year (4 digits) **]: Five (5) ML PO QID\n(4 times a day) as needed for oral thrush.\n9. amantadine 50 mg/5 mL Syrup [**Year (4 digits) **]: 100 mg  PO BID (2 times a\nday).\n10. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler [**Year (4 digits) **]:\n2-4 Puffs Inhalation Q4H (every 4 hours) as needed for wheeze.\n11. ipratropium bromide 17 mcg/Actuation HFA Aerosol Inhaler\n[**Year (4 digits) **]: Two (2) Puff Inhalation Q6H (every 6 hours) as needed for\nwheeze.\n12. white petrolatum-mineral oil 56.8-42.5 % Ointment [**Year (4 digits) **]: One\n(1) Appl Ophthalmic QID (4 times a day).\n13. ciprofloxacin 0.3 % Drops [**Year (4 digits) **]: 1-2 Drops Ophthalmic Q4H\n(every 4 hours): Continue until ophthalmology f/u.\n14. lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)\nTablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).\n15. ondansetron HCl (PF) 4 mg/2 mL Solution [**Last Name (STitle) **]: One (1)\nInjection Q8H (every 8 hours) as needed for nausea.\n16. therapeutic multivitamin     Liquid [**Last Name (STitle) **]: One (1) Tablet PO\nDAILY (Daily).\n17. dantrolene 25 mg Capsule [**Last Name (STitle) **]: Three (3) Capsule PO TID (3\ntimes a day).\n18. bisacodyl 10 mg Suppository [**Last Name (STitle) **]: One (1) Suppository Rectal\nQOD () as needed for constipation.\n19. propranolol 10 mg Tablet [**Last Name (STitle) **]: Three (3) Tablet PO TID (3\ntimes a day).\n20. polyethylene glycol 3350 17 gram/dose Powder [**Last Name (STitle) **]: One (1)\nPO DAILY (Daily) as needed for constipation.\n21. calcium carbonate 200 mg (500 mg) Tablet, Chewable [**Last Name (STitle) **]: One\n(1) Tablet, Chewable PO TID (3 times a day).\n22. cholecalciferol (vitamin D3) 400 unit Tablet [**Last Name (STitle) **]: Two (2)\nTablet PO DAILY (Daily).\n23. senna 8.6 mg Capsule [**Last Name (STitle) **]: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 85**] - [**Location (un) 86**]\n\nDischarge Diagnosis:\nPrimary\n- Seizures\n\nSeconadry\n- TBI ([**2155-12-29**])\n\n\nDischarge Condition:\nDischarge condition: stable and at baseline\nMental status: In a vegetative state at baseline, nonverbal, not\noriented, does not follow commands--all at baseline.\nAmbulatory status: nonambulatory (baseline)\n\n\nDischarge Instructions:\nYou were admitted to the [**Hospital1 69**] on\n[**2149-8-28**] because at your rehabilatation facility, [**Hospital1 **], you\nhad a temperature up to 101. We performed multiple tests to\ndetermine the cause of your fever, but your work up was\nnegative. You were found to have seizures. You were intubated\nfor a short period of time while your seizures were better\ncontrolled. We started you on two medications for this (Keppra\nand Dilantin). You were placed on antibiotics without a definite\nsource of infection, later discontinued. Dilantin was stopped\nand replaced by valproic acid. You were discharged seziure-free\non oral keppra and valproate.\n\nFollowup Instructions:\nYou will be returning to [**Hospital3 **] and should follow up\nwith your physicians there.\n1. You should follow up with your primary care physician at\n[**Name9 (PRE) **].\n2. You should follow up with an ophthalmologist in [**1-1**] weeks.\n\n\n                             [**First Name8 (NamePattern2) **] [**Name8 (MD) 162**] MD [**MD Number(2) 2575**]\n\n"
+    },
+    {
+      "note_id": 1158150,
+      "category": "Radiology",
+      "description": "CT HEAD W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 44,
+          "code": "70450",
+          "code_system": "CPT",
+          "description": "Computed tomography, head or brain; without contrast material",
+          "type": "Human",
+          "covered_text": "CT HEAD W/O CONTRAST"
+        },
+        {
+          "begin": 149,
+          "end": 162,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 185,
+          "end": 190,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 333,
+          "end": 336,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "TBI"
+        },
+        {
+          "begin": 351,
+          "end": 359,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizures"
+        },
+        {
+          "begin": 412,
+          "end": 425,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 467,
+          "end": 480,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 781,
+          "end": 794,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 1020,
+          "end": 1023,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "TBI"
+        },
+        {
+          "begin": 1056,
+          "end": 1064,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizures"
+        },
+        {
+          "begin": 1123,
+          "end": 1136,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 1506,
+          "end": 1519,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 1543,
+          "end": 1572,
+          "code": "793.0",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal findings on radiological and other examination of skull and head",
+          "type": "MapType.APPROX",
+          "covered_text": "periventricular hypodensities"
+        },
+        {
+          "begin": 2246,
+          "end": 2259,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        }
+      ],
+      "text": "[**2156-9-9**] 5:36 PM\n CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 85982**]\n Reason: evaluate hydrocephalus\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with TBI, s/p VPS, p/w seizures, eyes downward deviation\n  concerning for increased hydrocephalus\n REASON FOR THIS EXAMINATION:\n  evaluate hydrocephalus\n No contraindications for IV contrast\n ______________________________________________________________________________\n PROVISIONAL FINDINGS IMPRESSION (PFI): [**First Name9 (NamePattern2) 10889**] [**Doctor First Name 141**] [**2156-9-9**] 6:55 PM\n  No significant interval change with stable severe hydrocephalus status post VP\n  shunt placement, unchanged in position.\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  23-year-old female status post TBI and VP shunt who presents with\n seizures and downward deviation of eyes concerning for increasing\n hydrocephalus.\n\n COMPARISON:  [**2156-9-2**].\n\n TECHNIQUE:  Contiguous axial images through the brain were obtained.\n\n FINDINGS:  Evaluation of the current study in comparison to the prior is\n somewhat limited secondary to rotation of the patient in the scanner on both\n studies.  With this limitation in mind, there is no significant interval\n change.  Again noted is stable marked hydrocephalus with stable-appearing\n periventricular hypodensities, possibly related to transependymal migration of\n CSF and/or encephalomalacia.  A right parietal VP shunt catheter is again\n noted terminating in the left foramen of [**Doctor Last Name 8408**], unchanged in position.  The\n patient is status post left craniectomy, also unchanged in appearance.  There\n has been no interval intraparenchymal hemorrhage, large acute territorial\n infarction, or shift of midline structures. The patient is status post\n fixation of numerous remote facial fractures, unchanged from the prior study.\n No new fractures are identified.  The mastoid air cells are normally aerated.\n\n IMPRESSION:\n\n No significant interval change with stable severe hydrocephalus status post VP\n shunt placement, unchanged in position.\n\n"
+    },
+    {
+      "note_id": 1156868,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 160,
+          "end": 174,
+          "code": "786.09",
+          "code_system": "ICD-9-CM",
+          "description": "Other dyspnea and respiratory abnormality",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "lung expansion"
+        },
+        {
+          "begin": 213,
+          "end": 218,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 659,
+          "end": 669,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "aspiration"
+        },
+        {
+          "begin": 941,
+          "end": 951,
+          "code": "793.19",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "aspiration"
+        }
+      ],
+      "text": "[**2156-9-1**] 5:14 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 85977**]\n Reason: intubated, evaluate lung expansion, r/o aspiration\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with recent code for sz.\n REASON FOR THIS EXAMINATION:\n  intubated, evaluate lung expansion, r/o aspiration\n ______________________________________________________________________________\n                                 FINAL REPORT\n SINGLE AP PORTABLE VIEW OF THE CHEST\n\n REASON FOR EXAM:  Assess for aspiration.  Patient with recent code and\n intubated.\n\n Comparison is made with prior studies [**8-29**] and [**8-31**].\n\n ET tube is  in standard position.  Cardiac size is normal.  There are low lung\n volumes.  Ill-defined opacities in the left lower lobe are new, worrisome for\n aspiration given the clinical concern.  There is no evident pneumothorax or\n pleural effusion.\n\n"
+    },
+    {
+      "note_id": 1158151,
+      "category": "Radiology",
+      "description": "CT HEAD W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 115,
+          "end": 135,
+          "code": "70450",
+          "code_system": "CPT",
+          "description": "Computed tomography, head or brain; without contrast material",
+          "type": "Human",
+          "covered_text": "CT HEAD W/O CONTRAST"
+        },
+        {
+          "begin": 240,
+          "end": 253,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 276,
+          "end": 281,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 424,
+          "end": 427,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "TBI"
+        },
+        {
+          "begin": 442,
+          "end": 450,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizures"
+        },
+        {
+          "begin": 452,
+          "end": 475,
+          "code": "379.59",
+          "code_system": "ICD-9-CM",
+          "description": "Other irregularities of eye movements",
+          "type": "MapType.APPROX",
+          "covered_text": "eyes downward deviation"
+        },
+        {
+          "begin": 503,
+          "end": 516,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 558,
+          "end": 571,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 786,
+          "end": 799,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        }
+      ],
+      "text": "[**Last Name (LF) **],[**First Name3 (LF) **]                  NMED FA11                  [**2156-9-9**]  5:36 PM\n CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 85982**]\n Reason: evaluate hydrocephalus\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with TBI, s/p VPS, p/w seizures, eyes downward deviation\n  concerning for increased hydrocephalus\n REASON FOR THIS EXAMINATION:\n  evaluate hydrocephalus\n No contraindications for IV contrast\n ______________________________________________________________________________\n                                  PFI REPORT\n No significant interval change with stable severe hydrocephalus status post VP\n shunt placement, unchanged in position.\n\n"
+    },
+    {
+      "note_id": 1156882,
+      "category": "Radiology",
+      "description": "BILAT LOWER EXT VEINS",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 45,
+          "code": "73565",
+          "code_system": "CPT",
+          "description": "Radiologic examination, knee; both knees, standing, anteroposterior",
+          "type": "Human",
+          "covered_text": "BILAT LOWER EXT VEINS"
+        },
+        {
+          "begin": 170,
+          "end": 175,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 325,
+          "end": 332,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizure"
+        },
+        {
+          "begin": 556,
+          "end": 564,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizures"
+        }
+      ],
+      "text": "[**2156-9-1**] 8:18 AM\n BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 86545**]\n Reason: r/o DVT\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with recent seizure and contractures\n REASON FOR THIS EXAMINATION:\n  r/o DVT\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  A 23-year-old female with seizures and contractures, rule out\n DVT.\n\n COMPARISON:  No previous exam for comparison.\n\n FINDINGS:  Grayscale, color and Doppler images were obtained of bilateral\n common femoral, superficial femoral, popliteal and tibial veins.  Note is made\n that a vascular line is in place in the right groin.  There is normal flow,\n compression and augmentation seen in all of the vessels.\n\n IMPRESSION:  No evidence of deep vein thrombosis in either leg.\n\n\n"
+    },
+    {
+      "note_id": 1157190,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 185,
+          "end": 190,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 337,
+          "end": 340,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "TBI"
+        },
+        {
+          "begin": 854,
+          "end": 863,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "pneumonia"
+        }
+      ],
+      "text": "[**2156-9-3**] 3:32 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 85981**]\n Reason: volume loss/ventilated\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with h/o TBI, ventilated\n REASON FOR THIS EXAMINATION:\n  volume loss/ventilated\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  TBI with ventilation.\n\n FINDINGS:  In comparison with the study of [**9-2**], the endotracheal tube has\n been removed.  There is a somewhat ill-defined area of patchy opacification at\n the right base.  Although this could represent merely atelectasis, in the\n appropriate clinical setting, the possibility of pneumonia must be seriously\n considered.  The basilar atelectasis on the left is decreasing.  Of incidental\n note is the metallic device about previous left clavicle fracture.\n\n IMPRESSION:  Possible developing consolidation at the right base.\n\n\n"
+    },
+    {
+      "note_id": 1156883,
+      "category": "Radiology",
+      "description": "BY SAME PHYSICIAN",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 45,
+          "code": "93925",
+          "code_system": "CPT",
+          "description": "Duplex scan of lower extremity arteries or arterial bypass grafts; complete bilateral study",
+          "type": "Human",
+          "covered_text": "BILAT UP EXT VEINS US"
+        },
+        {
+          "begin": 192,
+          "end": 197,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 347,
+          "end": 354,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizure"
+        },
+        {
+          "begin": 571,
+          "end": 579,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizures"
+        }
+      ],
+      "text": "[**2156-9-1**] 8:19 AM\n BILAT UP EXT VEINS US; -76 BY SAME PHYSICIAN                    [**Name Initial (PRE) 7**] # [**Clip Number (Radiology) 84827**]\n Reason: r/o DVT\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with recent seizure and contractures\n REASON FOR THIS EXAMINATION:\n  r/o DVT\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  A 23-year-old with seizures, contractures, rule out DVT.\n\n COMPARISON:  No previous exam for comparison.\n\n FINDINGS:  Grayscale, color and Doppler images were obtained of bilateral IJ,\n subclavian, axillary, brachial, and basilic veins.  Note is made that the\n cephalic vein bilaterally could not be identified.  There is normal flow,\n compression and augmentation seen in all of the vessels.\n\n IMPRESSION:  No evidence of deep vein thrombosis in either arm.\n\n\n"
+    },
+    {
+      "note_id": 1157089,
+      "category": "Radiology",
+      "description": "CT HEAD W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 45,
+          "code": "70450",
+          "code_system": "CPT",
+          "description": "Computed tomography, head or brain; without contrast material",
+          "type": "Human",
+          "covered_text": "CT HEAD W/O CONTRAST"
+        },
+        {
+          "begin": 153,
+          "end": 156,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "TBI"
+        },
+        {
+          "begin": 175,
+          "end": 183,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizures"
+        },
+        {
+          "begin": 223,
+          "end": 228,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 360,
+          "end": 363,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "TBI"
+        },
+        {
+          "begin": 382,
+          "end": 390,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizures"
+        },
+        {
+          "begin": 464,
+          "end": 467,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "TBI"
+        },
+        {
+          "begin": 486,
+          "end": 494,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizures"
+        },
+        {
+          "begin": 885,
+          "end": 888,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "TBI"
+        },
+        {
+          "begin": 921,
+          "end": 929,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "seizures"
+        },
+        {
+          "begin": 1597,
+          "end": 1610,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 1627,
+          "end": 1657,
+          "code": "793.0",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal findings on radiological and other examination of skull and head",
+          "type": "MapType.APPROX",
+          "covered_text": "periventricular\n hypodensities"
+        },
+        {
+          "begin": 1826,
+          "end": 1840,
+          "code": "473.3",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic sphenoidal sinusitis",
+          "type": "MapType.EXACT",
+          "covered_text": "sphenoid sinus"
+        },
+        {
+          "begin": 1953,
+          "end": 1966,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        }
+      ],
+      "text": "[**2156-9-2**] 10:37 AM\n CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 86622**]\n Reason: 23 y/o with TBI, Crani, shunt,New seizures. Underwent shunt\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 y/o with TBI, Crani, shunt,New seizures. Underwent shunt adjustment.\n REASON FOR THIS EXAMINATION:\n  23 y/o with TBI, Crani, shunt,New seizures. Underwent shunt adjustment.\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: IPf [**Doctor First Name 141**] [**2156-9-2**] 11:09 AM\n  No interval change.\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  23-year-old with TBI, craniotomy, and shunt with new seizures.\n Underwent shunt adjustment.\n\n TECHNIQUE:  Contiguous axial images were obtained through the brain.  No\n intravenous contrast was administered.\n\n COMPARISON:  Multiple prior CTs, last one done [**2156-9-1**].\n\n FINDINGS:  Scan is slightly suboptimal due to patient rotation in the scanner.\n With this limitation in mind, there is no significant interval change.  There\n is no evidence of acute hemorrhage, large acute territorial infarction, or\n large masses.  The patient is status post remote left cranioplasty. There is a\n right-sided parietal post-VP shunt with its tip positioned stable at the left\n foramen of [**Last Name (un) **].\n\n There is a stable severe hydrocephalus, with bilateral periventricular\n hypodensities, which could be combination of encephalomalacia, or\n transependymal migration of cerebrospinal fluid.  There is no shift of midline\n structures.  There is fluid in the sphenoid sinus, (2:9), which appears\n similar compared to prior.\n\n IMPRESSION:  No significant interval change.  Stable severe hydrocephalus with\n similar position of VP shunt.\n\n\n\n"
+    },
+    {
+      "note_id": 1156734,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 45,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP)"
+        },
+        {
+          "begin": 142,
+          "end": 158,
+          "code": "V58.82",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for fitting and adjustment of non-vascular catheter NEC",
+          "type": "MapType.APPROX",
+          "covered_text": "evaluate ET tube"
+        },
+        {
+          "begin": 181,
+          "end": 186,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 329,
+          "end": 347,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "status epilepticus"
+        },
+        {
+          "begin": 395,
+          "end": 411,
+          "code": "V58.82",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for fitting and adjustment of non-vascular catheter NEC",
+          "type": "MapType.APPROX",
+          "covered_text": "evaluate ET tube"
+        },
+        {
+          "begin": 639,
+          "end": 657,
+          "code": "345.90",
+          "code_system": "ICD-9-CM",
+          "description": "Epilepsy, unspecified, without mention of intractable epilepsy",
+          "type": "MapType.APPROX",
+          "covered_text": "status epilepticus"
+        }
+      ],
+      "text": "[**2156-8-31**] 10:05 AM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 86543**]\n Reason: evaluate ET tube\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with status epilepticus s/p intubation\n REASON FOR THIS EXAMINATION:\n  evaluate ET tube\n ______________________________________________________________________________\n                                 FINAL REPORT\n TYPE OF EXAMINATION:  Chest AP portable single view.\n\n INDICATION:  23-year-old female patient with status epilepticus, now status\n post intubation, evaluate position of ETT.\n\n FINDINGS:  AP single view of the chest has been obtained with patient in\n sitting semi-upright position.  Comparison is made with the next preceding\n similar study of [**2156-8-29**].  During the interval, the patient has been\n intubated, the ETT seen to terminate in the trachea some 4 cm above the level\n of the carina.  No pneumothorax is present.  As before, evidence of hardware\n for left clavicular fixation and ventriculoperitoneal shunt line overlying\n mediastinum on frontal view examination.  Thus, stable chest findings.\n\n IMPRESSION:  Successful placement of ETT, no pneumothorax or any other\n placement-related complication.\n\n\n"
+    },
+    {
+      "note_id": 1156742,
+      "category": "Radiology",
+      "description": "CT HEAD W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 128,
+          "end": 148,
+          "code": "70450",
+          "code_system": "CPT",
+          "description": "Computed tomography, head or brain; without contrast material",
+          "type": "Human",
+          "covered_text": "CT HEAD W/O CONTRAST"
+        },
+        {
+          "begin": 285,
+          "end": 298,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 327,
+          "end": 332,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 475,
+          "end": 497,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "traumatic brain injury"
+        },
+        {
+          "begin": 810,
+          "end": 823,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        }
+      ],
+      "text": "[**Last Name (LF) 1941**],[**First Name3 (LF) 760**] F.                    MED SICU-A                 [**2156-8-31**] 10:49 AM\n CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 85976**]\n Reason: does VP shunt look normal? any change in hydrocephalus? / r/\n Admitting Diagnosis: FEVER\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with traumatic brain injury, s/p VP shunt\n REASON FOR THIS EXAMINATION:\n  does VP shunt look normal? any change in hydrocephalus? / r/o sdh\n No contraindications for IV contrast\n ______________________________________________________________________________\n                                  PFI REPORT\n PFI:  Exam is unchanged with stable hydrocephalus and unchanged position of VP\n shunt.\n\n"
+    },
+    {
+      "note_id": 1156374,
+      "category": "Radiology",
+      "description": "CT HEAD W/ & W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 50,
+          "code": "70470",
+          "code_system": "CPT",
+          "description": "Computed tomography, head or brain; without contrast material, followed by contrast material(s) and further sections",
+          "type": "Human",
+          "covered_text": "CT HEAD W/ & W/O CONTRAST"
+        },
+        {
+          "begin": 141,
+          "end": 144,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "TBI"
+        },
+        {
+          "begin": 183,
+          "end": 188,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 385,
+          "end": 388,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "TBI"
+        },
+        {
+          "begin": 424,
+          "end": 429,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 1017,
+          "end": 1022,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 1324,
+          "end": 1337,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 1343,
+          "end": 1372,
+          "code": "793.0",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal findings on radiological and other examination of skull and head",
+          "type": "MapType.APPROX",
+          "covered_text": "periventricular hypodensities"
+        },
+        {
+          "begin": 1696,
+          "end": 1710,
+          "code": "473.3",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic sphenoidal sinusitis",
+          "type": "MapType.EXACT",
+          "covered_text": "sphenoid sinus"
+        },
+        {
+          "begin": 1916,
+          "end": 1929,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "MapType.APPROX",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 2357,
+          "end": 2382,
+          "code": "70470",
+          "code_system": "CPT",
+          "description": "Computed tomography, head or brain; without contrast material, followed by contrast material(s) and further sections",
+          "type": "Human",
+          "covered_text": "CT HEAD W/ & W/O CONTRAST"
+        },
+        {
+          "begin": 2473,
+          "end": 2476,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "TBI"
+        },
+        {
+          "begin": 2515,
+          "end": 2520,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        }
+      ],
+      "text": "[**2156-8-28**] 6:14 PM\n CT HEAD W/ & W/O CONTRAST                                       Clip # [**Clip Number (Radiology) 86541**]\n Reason: TBI CRANIECTOMY AND CRANIOPLASTY NOW WITH FEVER, ? IC SOURCE OF INFECTION\n  Contrast: OPTIRAY Amt: 90\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with TBI craniectomy and cranioplasty now w/fever\n REASON FOR THIS EXAMINATION:\n  ? IC source of infection\n No contraindications for IV contrast\n ______________________________________________________________________________\n WET READ: IPf SAT [**2156-8-28**] 6:41 PM\n  No significant interval change with massive hydrocephalus. VP shunt appears\n  unchanged.\n  No rim enhancing fluid collection.\n  More fluid in the sphenoid sinus.\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  23-year-old woman with craniectomy and cranioplasty, presents with\n fever.\n\n TECHNIQUE:  Contiguous axial images were obtained through the brain pre- and\n post-IV contrast administration.\n\n COMPARISON:  Multiple prior CT, last one [**2156-8-9**].\n\n FINDINGS:  There is no significant interval change.  The patient is status\n post left cranioplasty.\n\n There is stable massive hydrocephalus with periventricular hypodensities in\n the white matter, suggesting transependymal reabsorption of CSF.\n\n VP shunt appears unchanged in position compared to prior study.  There is no\n shift of midline structures.  On post-contrast images, there is no gross\n rim-enhancing fluid collection.  Images however are degraded by motion.  There\n is fluid within the sphenoid sinus.  There is evidence of prior surgery at the\n anterior wall of the left maxillary sinus.  The globes are intact.\n\n IMPRESSION:\n\n 1.  No significant interval change.  Persistent stable ventriculomegaly and\n hydrocephalus.\n\n 2.  No interval change in position of the VP shunt.\n\n 3.  No definite rim-enhancing fluid collection. Post-contrast images degraded\n by motion.\n\n Please note that CT head with IV contrast has limited sensitivty for\n infection.  Consider correaltion with CSF fluid analysis.  If more imaging is\n indicated, MRI is more sensitive.\n                                                             (Over)\n\n [**2156-8-28**] 6:14 PM\n CT HEAD W/ & W/O CONTRAST                                       Clip # [**Clip Number (Radiology) 86541**]\n Reason: TBI CRANIECTOMY AND CRANIOPLASTY NOW WITH FEVER, ? IC SOURCE OF INFECTION\n  Contrast: OPTIRAY Amt: 90\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n"
+    },
+    {
+      "note_id": 1156467,
+      "category": "Radiology",
+      "description": "CT ABDOMEN W/CONTRAST",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 46,
+          "code": "74177",
+          "code_system": "CPT",
+          "description": "Computed tomography, abdomen and pelvis; with contrast material(s)",
+          "type": "Human",
+          "covered_text": "CT ABDOMEN W/CONTRAST"
+        },
+        {
+          "begin": 48,
+          "end": 68,
+          "code": "72193",
+          "code_system": "CPT",
+          "description": "Computed tomography, pelvis; with contrast material(s)",
+          "type": "Human",
+          "covered_text": "CT PELVIS W/CONTRAST"
+        },
+        {
+          "begin": 202,
+          "end": 207,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        },
+        {
+          "begin": 379,
+          "end": 401,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "traumatic brain injury"
+        },
+        {
+          "begin": 423,
+          "end": 429,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "fevers"
+        },
+        {
+          "begin": 665,
+          "end": 686,
+          "code": "74177",
+          "code_system": "CPT",
+          "description": "Computed tomography, abdomen and pelvis; with contrast material(s)",
+          "type": "Human",
+          "covered_text": "CT ABDOMEN AND PELVIS"
+        },
+        {
+          "begin": 726,
+          "end": 748,
+          "code": "854.01",
+          "code_system": "ICD-9-CM",
+          "description": "Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "traumatic brain injury"
+        },
+        {
+          "begin": 766,
+          "end": 771,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "fever"
+        },
+        {
+          "begin": 2198,
+          "end": 2219,
+          "code": "74177",
+          "code_system": "CPT",
+          "description": "Computed tomography, abdomen and pelvis; with contrast material(s)",
+          "type": "Human",
+          "covered_text": "CT ABDOMEN W/CONTRAST"
+        },
+        {
+          "begin": 2221,
+          "end": 2241,
+          "code": "72193",
+          "code_system": "CPT",
+          "description": "Computed tomography, pelvis; with contrast material(s)",
+          "type": "Human",
+          "covered_text": "CT PELVIS W/CONTRAST"
+        },
+        {
+          "begin": 2375,
+          "end": 2380,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "FEVER"
+        }
+      ],
+      "text": "[**2156-8-29**] 5:14 PM\n CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 86542**]\n Reason: FEVERS, EXAMINE VP SHUNT DISTAL REGION\n Admitting Diagnosis: FEVER\n  Contrast: OPTIRAY Amt: 100\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  23 year old woman with traumatic brain injury, now presenting with fevers\n REASON FOR THIS EXAMINATION:\n  please examine VP shunt distal region\n No contraindications for IV contrast\n ______________________________________________________________________________\n                                 FINAL REPORT\n CT ABDOMEN AND PELVIS\n\n INDICATION:  23-year-old female with traumatic brain injury.  Presents with\n fever.  ? VP shunt.\n\n COMPARISON:  No prior CT abdomen available for comparison.\n\n TECHNIQUE:  MDCT axially acquired images from the lung bases to the pubic\n symphysis, displayed with 5-mm slice thickness with oral and IV contrast.\n Coronal and sagittal reformats have been provided.\n\n FINDINGS:\n\n CT ABDOMEN:\n\n Imaged lung bases are clear.\n No pneumoperitoneum.\n Liver, gallbladder, spleen, pancreas, adrenal glands, and kidneys are\n unremarkable.\n No retroperitoneal masses or adenopathy.\n No abnormally dilated or thickened or dilated small or large bowel loops.\n IVC filter noted in situ.\n The VP shunt can be traced throughout the peritoneal cavity with no evidence\n of kinking or fracture identified.\n The tip terminates in the left flank adjacent to the descending colon (series\n 2, image 74).\n No surrounding inflammatory change or collection identified.\n\n\n CT PELVIS:\n Trace of free fluid noted in both adnexae.\n The uterus and both adnexa are normal with simple follicular cyst identified\n in relation to both ovaries.  No  adenopathy.\n The rectum and sigmoid colon are unremarkable.\n Urinary catheter noted within the bladder.\n\n CT OSSEOUS SKELETON:  No osseous destructive lesion.  There is heterotopic new\n bone formation in relation to the right sartorius and adductor muscle group\n within the thigh (series 2, image 93).\n\n                                                             (Over)\n\n [**2156-8-29**] 5:14 PM\n CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 86542**]\n Reason: FEVERS, EXAMINE VP SHUNT DISTAL REGION\n Admitting Diagnosis: FEVER\n  Contrast: OPTIRAY Amt: 100\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n IMPRESSION:\n Normal intraperitoneal course of VP shunt with no kinking or fracture\n identified.  Normal appearing adjacent fluid.\n\n"
+    }
+  ]
+}

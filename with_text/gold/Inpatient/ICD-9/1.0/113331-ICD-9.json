@@ -1,0 +1,131 @@
+{
+  "hadm_id": 113331,
+  "comment": "CABG OP report not present- unablet to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 42674,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 373,
+          "end": 440,
+          "code": "36.15",
+          "code_system": "ICD-9-PCS",
+          "description": "Single internal mammary-coronary artery bypass",
+          "type": "MapType.APPROX",
+          "covered_text": "left internal mammary\n    artery to left anterior descending artery"
+        },
+        {
+          "begin": 445,
+          "end": 528,
+          "code": "36.12",
+          "code_system": "ICD-9-PCS",
+          "description": "(Aorto)coronary bypass of two coronary arteries",
+          "type": "Human",
+          "covered_text": "saphenous\n    vein grafts to right coronary artery and obtuse marginal\n    arteries"
+        },
+        {
+          "begin": 1346,
+          "end": 1366,
+          "code": "268.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified vitamin D deficiency",
+          "type": "Human",
+          "covered_text": "Vitamin D Deficiency"
+        },
+        {
+          "begin": 1624,
+          "end": 1676,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "Cigarettes: Smoked no [] yes [x]Hx: quit 6 years ago"
+        },
+        {
+          "begin": 4486,
+          "end": 4544,
+          "code": "V64.42",
+          "code_system": "ICD-9-CM",
+          "description": "Thoracoscopic surgical procedure converted to open procedure",
+          "type": "MapType.EXACT",
+          "covered_text": "endoscopic approach was aborted and converted to open CABG"
+        },
+        {
+          "begin": 4741,
+          "end": 4757,
+          "code": "511.1",
+          "code_system": "ICD-9-CM",
+          "description": "Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "pleural effusion"
+        },
+        {
+          "begin": 5961,
+          "end": 5980,
+          "code": "V58.66",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of aspirin",
+          "type": "MapType.EXACT",
+          "covered_text": "ASPIRIN 81 mg Daily"
+        },
+        {
+          "begin": 7530,
+          "end": 7553,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary Artery Disease"
+        },
+        {
+          "begin": 7559,
+          "end": 7590,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "MapType.APPROX",
+          "covered_text": "Paroxysmal Atrial Fibrillation,"
+        },
+        {
+          "begin": 7637,
+          "end": 7647,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 7648,
+          "end": 7655,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "Human",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 7677,
+          "end": 7709,
+          "code": "338.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pain",
+          "type": "MapType.EXACT",
+          "covered_text": "Chronic bilateral Leg/Joint pain"
+        },
+        {
+          "begin": 7710,
+          "end": 7722,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        }
+      ],
+      "text": "Admission Date:  [**2137-4-18**]              Discharge Date:   [**2137-4-22**]\n\nDate of Birth:  [**2076-12-1**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 165**]\nChief Complaint:\nChest pain\n\nMajor Surgical or Invasive Procedure:\n[**2137-4-18**]\n1. Coronary artery bypass grafts x3, left internal mammary\n    artery to left anterior descending artery and saphenous\n    vein grafts to right coronary artery and obtuse marginal\n    arteries.\n2. Endoscopic harvesting of the long saphenous vein.\n\n\nHistory of Present Illness:\n60 year old female for the past two years she has been\nexperiencing shortness of breath and dyspnea with exertion. This\noccurs after walking approximately 10 minutes starts in her\nepigastric area and radiates up to her upper chest.\nIt resolves with rest. She had been trying to lose weight\nrecently and was using a treadmill and was experiencing\nshortness of breath and chest pain. She underwent a stress test\nwhich was abnormal. She was referred for a cardiac\ncatheterization and was found to have coronary artery disease.\nShe was referred to cardiac surgery for revascularization.\n\n\nPast Medical History:\nCoronary Artery Disease\nPMH:\nParoxysmal Atrial Fibrillation, reported PAF or palpitations\nsince [**2133**]\nDepression/Anxiety\nVitamin D Deficiency\nChronic bilateral Leg/Joint pain\nDyslipidemia\nFrequent Headaches\nPast Surgical History:\nTonsillectomy\nAppendectomy\n\n\nSocial History:\nLives with:Husband\nContact:[**Name (NI) **] (daughter) Phone# [**Telephone/Fax (1) 92267**]\nOccupation:skin care specialist\nCigarettes: Smoked no [] yes [x]Hx: quit 6 years ago, smoked\n<1ppd x13-15 years\nOther Tobacco use:denies\nETOH: < 1 drink/week [x]  [**2-26**] drinks/week [] >8 drinks/week []\nIllicit drug use:denies\n\n\nFamily History:\nPremature coronary artery disease- Mother had MI\nat 65, Sister died at 60 with HTN and ?MI\n\n\nPhysical Exam:\nPulse:65 Resp:13  O2 sat:98/RA\nB/P  Right:120/72    Left:127/68\nHeight:5'1\"     Weight:186 lbs\n\nGeneral: NAD, AAOx3\nSkin: Dry [] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur [] grade ______\nAbdomen: Soft [x] non-distended [x] non-tender [x]\nExtremities: Warm [x], well-perfused [x]  Edema []\nVaricosities: None [x]\nNeuro: Grossly intact [x]\nPulses:\nFemoral      Right: palp  Left: palp\nDP           Right: palp  Left: palp\nPT           [**Name (NI) 167**]: palp  Left: palp\nRadial       Right: palp  Left: palp\n\nCarotid Bruit        Right: none  Left: none\n\n\nPertinent Results:\nIntra-op TEE [**2137-4-18**]\nConclusions\nPRE-BYPASS: No spontaneous echo contrast is seen in the body of\nthe left atrium or left atrial appendage. No atrial septal\ndefect is seen by 2D or color Doppler. Left ventricular wall\nthicknesses are normal. The left ventricular cavity size is\nnormal. Regional left ventricular wall motion is normal. Overall\nleft ventricular systolic function is normal (LVEF>55%). Right\nventricular chamber size and free wall motion are normal. There\nare simple atheroma in the aortic arch. There are simple\natheroma in the descending thoracic aorta. There are three\naortic valve leaflets. There is no aortic valve stenosis. Trace\naortic regurgitation is seen. Mild (1+) mitral regurgitation is\nseen. The estimated pulmonary artery systolic pressure is\nnormal. There is no pericardial effusion. Dr. [**Last Name (STitle) **] was\nnotified in person of the results at time of surgery.\n\nPOST-BYPASS: The patient is A paced. The patient is on a\nphenylephrine infusion. Biventricular function is unchanged.\nMitral regurgitation is unchanged. Tricuspid regurgitation is\nmoderate (2+). The aorta is intact post-decannulation.\n\n[**2137-4-22**] 04:17AM BLOOD WBC-9.2 RBC-2.84* Hgb-8.3* Hct-26.9*\nMCV-95 MCH-29.3 MCHC-31.0 RDW-13.8 Plt Ct-287\n[**2137-4-21**] 04:52AM BLOOD Hct-26.2*\n[**2137-4-20**] 11:26PM BLOOD Hct-25.9*\n[**2137-4-22**] 04:17AM BLOOD Glucose-97 UreaN-14 Creat-0.8 Na-137\nK-4.3 Cl-103 HCO3-29 AnGap-9\n[**2137-4-21**] 04:52AM BLOOD UreaN-15 Creat-0.8\n[**2137-4-20**] 02:51AM BLOOD Glucose-122* UreaN-11 Creat-0.9 Na-138\nK-4.4 Cl-105 HCO3-25 AnGap-12\n[**2137-4-19**] 02:52AM BLOOD Glucose-118* UreaN-9 Creat-0.5 Na-135\nK-4.0 Cl-105 HCO3-23 AnGap-11\n\nBrief Hospital Course:\nThe patient was brought to the Operating Room on [**2137-4-18**] where\nthe patient underwent CABG x 3 with Dr. [**First Name (STitle) **]. Initial attempt\nat endoscopic approach was aborted and converted to open CABG.\nOverall the patient tolerated the procedure well and\npost-operatively was transferred to the CVICU in stable\ncondition for recovery and invasive monitoring.  Left sided\nchest tube was placed for pleural effusion via endoscopic port\nsite on post operative night before extubation.  POD 1 found the\npatient extubated, alert and oriented and breathing comfortably.\nThe patient was neurologically intact and hemodynamically\nstable, weaned from inotropic and vasopressor support. POD 1 OR\nchest tubes were removed and left chest tube remained in place.\nShe has paroxysmal atrial fibrillation which she had\npreoperatively but was in sinus rhtyhm at the time of discharge\nand was not anticoagulated. Beta blocker was initiated at a low\ndose with SBP 90's and the patient was gently diuresed toward\nthe preoperative weight.  The patient was transferred to the\ntelemetry floor for further recovery.  Left Chest tube was\nremoved at this time  and pacing wires were discontinued without\ncomplication.  The patient was evaluated by the physical therapy\nservice for assistance with strength and mobility.  By the time\nof discharge on POD 4 the patient was ambulating freely, she was\nhemodynamically stable in sinus rhythm, the wound was healing\nand pain was controlled with oral analgesics.  The patient was\ndischarged home with VNA services in good condition with\nappropriate follow up instructions.\n\nMedications on Admission:\nASPIRIN 81 mg Daily\n\n\nDischarge Medications:\n1. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO HS (at bedtime) as needed for constipation.\n2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n3. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day) for 1 months.\nDisp:*60 Tablet(s)* Refills:*0*\n4. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every\n4 hours) as needed for pain, fever.\n5. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\nDisp:*30 Tablet(s)* Refills:*0*\n6. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:\nOne (1) Tablet, ER Particles/Crystals PO once a day for 7 days.\nDisp:*7 Tablet, ER Particles/Crystals(s)* Refills:*0*\n7. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n8. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nDAILY (Daily) as needed for constipation.\n9. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*0*\n10. ipratropium-albuterol 18-103 mcg/actuation Aerosol Sig: [**1-21**]\nPuffs Inhalation Q6H (every 6 hours) as needed for sob,\nwheezing.\nDisp:*1 1* Refills:*0*\n11. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO every [**4-26**]\nhours as needed for pain.\nDisp:*30 Tablet(s)* Refills:*0*\n12. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day for 7\ndays.\nDisp:*7 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nAll Care VNA of Greater [**Location (un) **]\n\nDischarge Diagnosis:\nCoronary Artery Disease\nPMH:\nParoxysmal Atrial Fibrillation, reported PAF or palpitations\nsince [**2133**]\nDepression/Anxiety\nVitamin D Deficiency\nChronic bilateral Leg/Joint pain\nDyslipidemia\nFrequent Headaches\nPast Surgical History:\nTonsillectomy\nAppendectomy\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating, gait steady\nSternal pain managed with oral analgesics\nSternal Incision - healing well, no erythema or drainage\nEdema- 1+\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming, and look at your incisions\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n\n\nFollowup Instructions:\nYou are scheduled for the following appointments:\nWound Check at Cardiac Surgery Office [**Telephone/Fax (1) 170**] on [**2137-4-30**]\nat 10:15a\nSurgeon Dr. [**First Name (STitle) **] [**Telephone/Fax (1) 170**] on [**2137-5-28**] at 1:00p\nCardiologist Dr. [**Last Name (STitle) 3357**] on [**2137-5-3**] at 11:30\n\nPlease call to schedule the following:\nPrimary Care Dr. [**Last Name (STitle) 92268**],[**First Name3 (LF) **] V. [**Telephone/Fax (1) 26774**] in [**4-25**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]\n\nCompleted by:[**2137-4-22**]"
+    }
+  ]
+}

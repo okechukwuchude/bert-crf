@@ -1,0 +1,257 @@
+{
+  "hadm_id": 137215,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 4475,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 314,
+          "end": 346,
+          "code": "34.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Insertion of intercostal catheter for drainage",
+          "type": "Human",
+          "covered_text": "Right pleurex catheter placement"
+        },
+        {
+          "begin": 409,
+          "end": 434,
+          "code": "204.02",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "relapse of pre-B cell ALL"
+        },
+        {
+          "begin": 440,
+          "end": 452,
+          "code": "V87.41",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "chemotherapy"
+        },
+        {
+          "begin": 594,
+          "end": 623,
+          "code": "732.1",
+          "code_system": "ICD-9-CM",
+          "description": "Juvenile osteochondrosis of hip and pelvis",
+          "type": "MapType.APPROX",
+          "covered_text": "bilateral malignant\neffusions"
+        },
+        {
+          "begin": 2553,
+          "end": 2607,
+          "code": "198.5",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of bone and bone marrow",
+          "type": "Human",
+          "covered_text": "in the left iliac bone, right and left proximal femurs"
+        },
+        {
+          "begin": 2856,
+          "end": 2893,
+          "code": "511.81",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "malignant bilateral pleural effusions"
+        },
+        {
+          "begin": 2896,
+          "end": 2899,
+          "code": "204.02",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "ALL"
+        },
+        {
+          "begin": 3651,
+          "end": 3654,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 3730,
+          "end": 3744,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "MapType.APPROX",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 3745,
+          "end": 3793,
+          "code": "V10.83",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of other malignant neoplasm of skin",
+          "type": "Human",
+          "covered_text": "Squamous cell skin cancer s/p multiple excisions"
+        },
+        {
+          "begin": 5980,
+          "end": 5993,
+          "code": "197.7",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of liver, specified as secondary",
+          "type": "Human",
+          "covered_text": "mets to liver"
+        },
+        {
+          "begin": 5980,
+          "end": 6004,
+          "code": "197.0",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of lung",
+          "type": "Human",
+          "covered_text": "mets to liver, pulmonary"
+        },
+        {
+          "begin": 5980,
+          "end": 6013,
+          "code": "198.7",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of adrenal gland",
+          "type": "Human",
+          "covered_text": "mets to liver, pulmonary,\nadrenal"
+        },
+        {
+          "begin": 5980,
+          "end": 6020,
+          "code": "198.89",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of other specified sites",
+          "type": "Human",
+          "covered_text": "mets to liver, pulmonary,\nadrenal, psoas"
+        },
+        {
+          "begin": 6026,
+          "end": 6036,
+          "code": "197.6",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of retroperitoneum and peritoneum",
+          "type": "Human",
+          "covered_text": "peritoneal"
+        },
+        {
+          "begin": 6122,
+          "end": 6133,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 6171,
+          "end": 6187,
+          "code": "276.50",
+          "code_system": "ICD-9-CM",
+          "description": "Volume depletion, unspecified",
+          "type": "Human",
+          "covered_text": "volume\ndepletion"
+        },
+        {
+          "begin": 6568,
+          "end": 6575,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "Human",
+          "covered_text": "Hypoxia"
+        },
+        {
+          "begin": 7151,
+          "end": 7248,
+          "code": "34.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Insertion of intercostal catheter for drainage",
+          "type": "Human",
+          "covered_text": "Patient underwent Pleurex\ncatheter placement on the first hospital day and 1500 cc's was\ndrained;"
+        },
+        {
+          "begin": 7446,
+          "end": 7475,
+          "code": "V66.7",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for palliative care",
+          "type": "MapType.EXACT",
+          "covered_text": "decided not to escalate care."
+        },
+        {
+          "begin": 7513,
+          "end": 7516,
+          "code": "V49.86",
+          "code_system": "ICD-9-CM",
+          "description": "Do not resuscitate status",
+          "type": "Human",
+          "covered_text": "DNR"
+        },
+        {
+          "begin": 7816,
+          "end": 7823,
+          "code": "289.59",
+          "code_system": "ICD-9-CM",
+          "description": "Other diseases of spleen",
+          "type": "MapType.APPROX",
+          "covered_text": "Splenic"
+        },
+        {
+          "begin": 7828,
+          "end": 7850,
+          "code": "452",
+          "code_system": "ICD-9-CM",
+          "description": "Portal vein thrombosis",
+          "type": "Human",
+          "covered_text": "portal vein thrombosis"
+        },
+        {
+          "begin": 7942,
+          "end": 7969,
+          "code": "171.5",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of connective and other soft tissue of abdomen",
+          "type": "Human",
+          "covered_text": "epitheloid rhabdomyosarcoma"
+        },
+        {
+          "begin": 8198,
+          "end": 8236,
+          "code": "284.11",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.EXACT",
+          "covered_text": "Pancytopenia: Felt due to chemotherapy"
+        },
+        {
+          "begin": 9052,
+          "end": 9063,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 9064,
+          "end": 9073,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "Human",
+          "covered_text": "hypoxemia"
+        }
+      ],
+      "text": "Admission Date:  [**2183-10-27**]              Discharge Date:   [**2183-10-30**]\n\nDate of Birth:  [**2105-1-17**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPenicillins / Lipitor\n\nAttending:[**First Name3 (LF) 2042**]\nChief Complaint:\nCC:[**CC Contact Info 19166**]\nMajor Surgical or Invasive Procedure:\nRight pleurex catheter placement.\n\nHistory of Present Illness:\n78-year-old man with h/o recent relapse of pre-B cell ALL with\nchemotherapy currently on hold for newly diagnosed metastatic\nepitheloid rhabdomyosarcoma with diffuse mets including\nextensive pulmonary involvement and bilateral malignant\neffusions; s/p palliative XRT to para-aortic and psoas masses.\n\nPt was recently admitted [**10-20**] for palliative cycle #1 of\nvincristine and cyclophosphamide for the sarcoma. ChemoTx was\ntolerated well but pt had increased dyspnea that admission with\nrestaging CT showing marked progression of his sarcoma with\nliver, pulmonary, adrenal, psoas, and peritoneal mets with\nbilateral pleural effusions. He was diuresed and had IP drainage\nwith 1.2L removed from each side, both positive for malignant\ncells. He had subjective improvement in SOB but continued need\nfor NC, unclear amt. Also that admission, CT showed splenic and\nportal vein thrombosis and he was started on Lovenox but was\nactually held at the time of discharge due to thrombocytopenia.\n\nHe was discharged to rehab last Friday and reports not feeling\nmuch better over the weekend. He then had a clinic appt with Dr.\n[**Last Name (STitle) 1852**] today and noted to have low bp's to 80/40's and hypoxic\nto 80% on [**Last Name (LF) **], [**First Name3 (LF) **] sent to the ED. Initial vitals in the ED were:\n98.2   105   87/42   28   94% on 12L NRB. He received 2L of NS\nand was given Vancomycin and Cefepime.\n\nVitals before transfer: hr 97, Blood pressure 111/59, satting\n93% with face mask. RR in the 30s.\n\nROS on arrival with decreased energy, orthostatic changes in his\nblood pressures, and \"decreased oxygen levels\" since XRT which\nended 2 wks ago. Otherwise, denies fevers, h/a's, blurry vision,\nCP/palpitations, diarrhea. Endorses abd pain x3 mos, decreased\nappetite, and inability to take good PO's.\n\nPast Medical History:\nONCOLOGIC HISTORY:\n# Metastatic epitheloid rhabdomyosarcoma: Diagnosed [**8-/2183**], s/p\n\nXRT to retroperitoneal mass and psoas muscle. PET-CT on\n[**2183-8-30**], which showed FDG avidity in the periaortic mass as\nwell as lesions in the left psoas muscle, a left peritoneal\nimplant, a 4-mm left upper lobe pulmonary nodule, and osseous\nlesions in the left iliac bone, right and left proximal femurs,\nand S1 vertebra. MRI of the L-spine on [**2183-8-25**] also showed a\nlesion in L3.  Biopsy of the psoas muscle nodule [**2183-9-2**] was\nconsistent with epithelioid rhabdomyosarcoma\n[**9-/2183**]: admitted for palliative chemoTx and found to have\nmalignant bilateral pleural effusions\n# ALL:\n- diagnosed with Ph-negative pre-B-cell ALL in [**2178**].\n- treated on the [**Doctor Last Name **] protocol and completed maintenance\ntherapy in 10/[**2180**]. Had also received intrathecal Methotrexate.\nChemo course was complicated by bladder obstruction related to\nMTX and two hospitalizations for PNA.\n- in [**9-/2182**], had evidence of relapse and was admitted for\nreinduction. Treated again per the [**Doctor Last Name **] protocol with\ntreatment being held during the prolonged maintenence phase when\n\nhe was discovered to have an abdominal mass consistent with a\nmetastatic soft tissue sarcoma.\n- his leukemia therapy has been held and he is currently under\nthe care of Dr. [**Last Name (STitle) 1852**] for sarcoma.\n\nOTHER MEDICAL HISTORY:\nCAD s/p cath in [**2170**], preserved EF 55% with low normal systolic\nfunction\nHyperlipidemia\nSquamous cell skin cancer s/p multiple excisions\nHyperplastic colon polyp, [**2176**]\n\nSocial History:\nNever smoked. Used to drink 0-2 drinks per night but none\ncurrently. No drug use. Retired, used to sell bonds. Married,\nhas five adult children and 16 grandchildren. Lives with his\nwife.\n\n\nFamily History:\nBrother had CAD and lung disease. Another brother who is\nhealthy. The patient's mother died at [**Age over 90 **] years. The patient's\nfather died at 60 years of complications of alcohol abuse. He\nhas five children and 16 grandchildren without health concerns.\nA maternal uncle died of an MI at 54 years.\n\n\nPhysical Exam:\n96  p105  92% on NRB  100/66 (67) sbp 91-106 rr 24-27\nThin man laying in bed, doesn't appear uncomfortable, but only\nable to speak half a sentence at a time, with NRB on. Is lucid\nand pleasant, relates history well. Wife and 2 sons at bedside.\nMouth is extremely dry appearing but no thrush noted\nNo JVD noted\nLungs fairly CTAB without gross w/c/r/r, but with only fair to\npoor air movement\nRRR with no m/g appreciated, bilateral radial pulses not well\npalpated.\nDiffuse TTP of abdomen periumbilical, but is soft, ND, BS+\nNo BLE edema noted, BUE's with eccymoses, and PIV in L arm\nCN 2-12 grossly intact, no focal deficits noted, mental status\nis conversant and grossly without deficit\n\n\nPertinent Results:\nLabs at Admission:\n\n[**2183-10-27**] 05:57PM BLOOD WBC-0.9* RBC-3.34* Hgb-11.0* Hct-30.9*\nMCV-93 MCH-33.0* MCHC-35.7* RDW-14.1 Plt Ct-48*\n[**2183-10-27**] 05:57PM BLOOD Neuts-43* Bands-0 Lymphs-33 Monos-13*\nEos-9* Baso-1 Atyps-1* Metas-0 Myelos-0\n[**2183-10-27**] 05:57PM BLOOD PT-14.0* PTT-27.4 INR(PT)-1.2*\n[**2183-10-27**] 01:15PM BLOOD Glucose-124* UreaN-29* Creat-0.8 Na-134\nK-4.9 Cl-99 HCO3-23 AnGap-17\n[**2183-10-27**] 01:15PM BLOOD ALT-15 AST-29 AlkPhos-69 TotBili-0.7\n[**2183-10-27**] 01:15PM BLOOD Lipase-14\n[**2183-10-27**] 01:15PM BLOOD cTropnT-<0.01\n[**2183-10-27**] 01:15PM BLOOD Albumin-2.8* Calcium-8.6 Phos-4.2 Mg-2.2\n[**2183-10-28**] 03:24AM BLOOD Cortsol-26.6*\n[**2183-10-27**] 01:22PM BLOOD Lactate-5.6*\n\nBrief Hospital Course:\nIn summary this is a 78-year-old man with h/o pre-B cell ALL\nwith (chemo on hold), newly diagnosed widely metastatic\nepitheloid rhabdomyosarcoma with mets to liver, pulmonary,\nadrenal, psoas, and peritoneal mets with bilateral pleural\neffusions who presents with hypoxia and hypotension.\n\n1. Hypotension/tachycardia: Felt to be secondary to volume\ndepletion and hemodynamic compromise from his disease\nprogression. He remained tachycardic even after fluid boluses.\nAs he was never febrile, he was not treated with antibiotics.\nBlood cultures were drawn and these were negative. Chest x-ray\nshowed extensive involvement of tumor and bilateral pleural\neffusions, but no clear infiltrate to suggest pneumonia. A\ncortisol level was 26.6.\n\n2. Hypoxia: He was discharged last admission with ongoing need\nfor nasal cannula, with 5L prescribed, but not clear if he was\nusing it. He has an impressive CXR with extensive pulmonary\nmetastatic disease with \"innumerable\" pulmonary nodules, and\nrecently had 1.2L drained from each side. DDx included worsening\nof metastatic disease vs re-accumulation of pleural effusions\nwhich appeared possible by CXR vs PNA vs PE given pt not\ncurrently on anticoagulation. CTA was not pursued because\npatient would not have been a candidate for anticoagulation due\nto sanguinous pleural effusions. Patient underwent Pleurex\ncatheter placement on the first hospital day and 1500 cc's was\ndrained; 4 hours later an additional 500 cc's was drained.\nUnfortunately even after this fluid was removed he remained\nhypoxic to the mid to high 80s on non-rebreather. A family\nmeeting was held and it was decided not to escalate care.\nPatient's code status was changed to DNR/DNI. The Pleurex\ncatheter was left in place. His air hunger was treated with\nmorphine and ativan which his blood pressure tolerated, as well\nas continued drainage of his pleural effusion via his pleurex\ncatheter. He expired in no distress with his family at his\nbedside on his 5th hospital day.\n\n3. Splenic and portal vein thrombosis: Anticoagulation with\nLovenox was deferred  due to thrombocytopenia.\n\n4. Widely metastatic epitheloid rhabdomyosarcoma: S/p 1st cycle\n([**10-20**] = day 1) of vincristine and cyclophosphamide. The patient\nwas treated with supportive measures. As above, goals of care\nwere addressed during this admission and the plan was not to\nescalate care.\n\n5. Pancytopenia: Felt due to chemotherapy, given counts have\ndropped since pt started chemo on [**10-20**]. Counts were followed as\nan inpatient.\n\n\nMedications on Admission:\nACYCLOVIR -  400 mg [**Hospital1 **]\nMETOPROLOL SUCCINATE -  (Prescribed by Other Provider) - 25 mg\nTablet Sustained Release 24 hr - 1 Tablet(s) by mouth daily\nOXYCONTIN - 10 mg / 20 mg every am / pm\nOXYCODONE - 5 mg Tablet - [**11-23**] Tablet(s) by mouth every four (4)\nhours as needed for pain\n\nMedications - OTC\nDOCUSATE SODIUM -  (Prescribed by Other Provider; OTC) - 100 mg\nCapsule - 1 Capsule(s) by mouth twice a day as needed for\nconstipation\nSENNA -  (Prescribed by Other Provider) - 8.6 mg Tablet - 8.6 mg\nTablet(s) by mouth one tab twice daily when taking oxycodone\n\n\nDischarge Medications:\nexpired\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nmetastatic sarcoma\nhypotension\nhypoxemia\n\nDischarge Condition:\nexpired\n\nDischarge Instructions:\nexpired\n\nFollowup Instructions:\nexpired\n\n\n"
+    }
+  ]
+}

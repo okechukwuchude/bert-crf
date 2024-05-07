@@ -1,0 +1,41 @@
+{
+  "hadm_id": 187547,
+  "comment": "CABG & AVR Replacement- Need OP note to Validate PCS",
+  "notes": [
+    {
+      "note_id": 29707,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 582,
+          "end": 597,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "aortic stenosis"
+        },
+        {
+          "begin": 961,
+          "end": 973,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 974,
+          "end": 986,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        }
+      ],
+      "text": "Admission Date:  [**2143-4-4**]              Discharge Date:   [**2143-4-8**]\n\n\nService: CARDIOTHORACIC\n\nAllergies:\nIbuprofen / Oxycodone Hcl/Acetaminophen / Aspirin\n\nAttending:[**First Name3 (LF) 922**]\nChief Complaint:\nExertional chest pain and dyspnea on exertion.\n\nMajor Surgical or Invasive Procedure:\nAortic valve replacement(27-mm [**Company 1543**] mosaic ultra aortic\nvalve bioprosthesis) and Coronary artery bypass grafting\nx3(LIMA-LAD,SVG-diag 1,SVG-diag 2),Patch bovine pericardial\naortoplasty.\n\n\nHistory of Present Illness:\nThis is a 87 year old male with known severe aortic stenosis and\nmultivessel\ncoronary artery disease orginally seen 3 years ago. She states\nover the last 5 months he has developed chest pain and dyspnea\non exertion. He was referred for surgical evaluation and was\nadmitted now for this.\n\n\nPast Medical History:\nAortic Stenosis\nCoronary Artery Disease\nh/o bleeding gastric ulcer\nh/o bleeding cecal arteriovenous malformation\nHypertension\nDyslipidemia\nDiverticulosis\nRheumatic fever\nPulmonary Hypertension\nAxillary Adenopathy\nCholelithiasis\n\n\nSocial History:\nLives alone. Two daughters. Denies tobacco and EtOH.\n\n\nFamily History:\nnon contributory\n\nPhysical Exam:\nAdmission:\n\nPulse: 54 Resp: 16 O2 sat: 99%\nB/P  Right: 146/51   Left: 137/79\nHeight: 5'8\"   Weight: 179\n\nGeneral: well-developed obese elderly male in no acute distress\nSkin: Dry [X] intact [X]\nHEENT: PERRLA [X] EOMI [X]\nNeck:  Supple [X] Full ROM [X]\nChest: Lungs clear bilaterally [X]\nHeart: RRR [X] Irregular [] +Murmur [**2-2**]\nAbdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds\n+\n[X]\nExtremities: Warm [X], well-perfused [X] Edema/Varicosities:\nNone\n[X]\nNeuro: Grossly intact [X]\nPulses:\nFemoral      Right: 1+  Left: 1+\nDP           Right: 1+  Left: 1+\nPT           [**Name (NI) 167**]: 1+  Left: 1+\nRadial       Right: 2+  Left: 2+\n\nCarotid Bruit      Right/Left: -\n\n\nPertinent Results:\n[**2143-4-8**] 04:45AM BLOOD WBC-12.1* RBC-3.35* Hgb-9.0* Hct-27.9*\nMCV-83 MCH-26.9* MCHC-32.3 RDW-16.2* Plt Ct-314\n[**2143-4-7**] 03:40AM BLOOD WBC-14.6* RBC-3.23* Hgb-9.4* Hct-26.6*\nMCV-82 MCH-29.0 MCHC-35.2* RDW-16.6* Plt Ct-243\n[**2143-4-4**] 12:45PM BLOOD WBC-25.5*# RBC-2.50*# Hgb-6.7*#\nHct-21.0*# MCV-84 MCH-26.7* MCHC-31.8 RDW-16.2* Plt Ct-311\n[**2143-4-4**] 02:35PM BLOOD PT-13.8* PTT-36.9* INR(PT)-1.2*\n[**2143-4-8**] 04:45AM BLOOD UreaN-20 Creat-1.0 K-3.9\n[**2143-4-7**] 03:40AM BLOOD Glucose-104* UreaN-22* Creat-1.1 Na-135\nK-3.7 Cl-101 HCO3-27 AnGap-11\n[**2143-4-4**] 02:35PM BLOOD UreaN-14 Creat-0.8 Cl-112* HCO3-23\n[**2143-4-8**] 04:45AM BLOOD Mg-2.1\n\nBrief Hospital Course:\nFollowing admission he was taken to the Operating Room where\nrevascularization was accomplished.  See operative note for\ndetails.  He weaned from bypass on Epinephrine\nand Propofol. He remained stable, weaned from pressors and the\nventilator easily and was begun on beta blockers and diuretics\nas usual.  He did have brief rapid atrial fibrillation which\nconverted to sinus with Amiodarone.\n\nPh6ysical therapy worked eith him for mobility and strength.  He\nwas felt to be an appropriate candidate for rehabilitation and\narrangemnents were made for this.  he was transferred to\n[**Hospital 71164**] Rehab on POD 4.  Wounds were clean and healing well.\nDischarge instructions, medications and follow up were sent with\nthe patient.\n\nMedications on Admission:\nLipitor 40mg qd\nHydrocodone-Acetaminophen 5-500mg q6 prn\nOmeprazole 40mg qd\nDiovan 80mg qd\nColace 100mg [**Hospital1 **]\nFish oil\nVitamin D\nNystatin cream\n\n\nDischarge Medications:\n1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).\n4. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n5. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:\nOne (1) Tab Sust.Rel. Particle/Crystal PO once a day for 7 days.\n\n6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ4H (every 4 hours) as needed for pain for 4 weeks.\nDisp:*50 Tablet(s)* Refills:*0*\n7. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO HS (at bedtime) as needed for constipation.\n8. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every\n4 hours) as needed for fever, pain.\n9. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nDAILY (Daily) as needed for constipation.\n10. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID\n(3 times a day).\n11. Amiodarone 200 mg Tablet Sig: see below Tablet PO see below\nfor 4 weeks: two tablets twice daily for two weeks, then one\ntablet twice daily for two weeks, then stop.\n12. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n13. Furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day\nfor 7 days.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 6930**] Skilled Nursing and Rehabilitation Center - [**Hospital1 6930**]\n\nDischarge Diagnosis:\nAortic Stenosis\nCoronary Artery Disease\nh/o Bleeding gastric ulcer\nh/o bleeding cecal arteriovenous malformation\nHypertension\nDyslipidemia\nDiverticulosis\nRheumatic fever\nPulmonary Hypertension\nAxillary Adenopathy-benign\nCholelithiasis\n\n\nDischarge Condition:\nIncisions:\n\nSternal - healing well, no erythema or drainage\n\nLeg Right/Left - healing well, no erythema or drainage. Edema\n\n\n\n\n\n\n\nAlert and oriented x3, nonfocal\nAmbulating with  steady gait\nIncisional pain managed with Percocet\nIncisions: clean and dry\n\nSternal - healing well, no erythema or drainage\n\nLeg Right/Left - healing well, no erythema or drainage. Edema\n\n\n\n\n\n\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\n\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month until follow up with\nsurgeon\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\n\n\n\n\n\nFollowup Instructions:\n\n\nSurgeon: Dr.[**Last Name (STitle) 914**] ([**Telephone/Fax (1) 170**]) on Tuesday, [**5-7**] at 1:30pm\n\n\nPlease call to schedule appointments with:\nPrimary Care:  Dr.[**First Name4 (NamePattern1) 3075**] [**Last Name (NamePattern1) **] ([**Telephone/Fax (1) 19980**]in [**12-1**] weeks\nCardiologist: Dr. [**Last Name (STitle) **] in [**12-1**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\n\n\nCompleted by:[**2143-4-8**]"
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "hadm_id": 170648,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 228775,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 6,
+          "end": 17,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 71,
+          "end": 88,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "baseline\nartifact"
+        }
+      ],
+      "text": "Sinus tachycardia. Compared to the previous tracing of [**2106-4-16**] baseline\nartifact is no longer appreciated.\n\n"
+    },
+    {
+      "note_id": 1185499,
+      "category": "Radiology",
+      "description": "INTRO PERC TRNASHEPATIC STENT",
+      "annotations": [
+        {
+          "begin": 224,
+          "end": 238,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "UPPER GI BLEED"
+        },
+        {
+          "begin": 1774,
+          "end": 1803,
+          "code": "Q44.3",
+          "code_system": "ICD-10-CM",
+          "description": "Congenital stenosis and stricture of bile ducts",
+          "type": "Human",
+          "covered_text": "indwelling biliary stents and"
+        },
+        {
+          "begin": 1814,
+          "end": 1825,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleeding"
+        },
+        {
+          "begin": 2312,
+          "end": 2363,
+          "code": "K31.6",
+          "code_system": "ICD-10-CM",
+          "description": "Fistula of stomach and duodenum",
+          "type": "Human",
+          "covered_text": "choledochogastric and choledochocutaneous\n fistulas"
+        },
+        {
+          "begin": 2434,
+          "end": 2445,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleeding"
+        },
+        {
+          "begin": 4349,
+          "end": 4375,
+          "code": "Z96.89",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of other specified functional implants",
+          "type": "Human",
+          "covered_text": "right hepatic ductal stent"
+        },
+        {
+          "begin": 4451,
+          "end": 4492,
+          "code": "74174",
+          "code_system": "CPT",
+          "description": "Computed tomographic angiography, abdomen and pelvis, with contrast material(s), including noncontrast images, if performed, and image postprocessing",
+          "type": "Human",
+          "covered_text": "Using fluoroscopic and palpatory guidance"
+        },
+        {
+          "begin": 5494,
+          "end": 5508,
+          "code": "I72.8",
+          "code_system": "ICD-10-CM",
+          "description": "Aneurysm of other specified arteries",
+          "type": "Human",
+          "covered_text": "pseudoaneurysm"
+        },
+        {
+          "begin": 7634,
+          "end": 7648,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "UPPER GI BLEED"
+        },
+        {
+          "begin": 7819,
+          "end": 7863,
+          "code": "I70.0",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerosis of aorta",
+          "type": "Human",
+          "covered_text": "Calcified atherosclerosis of abdominal aorta"
+        },
+        {
+          "begin": 7988,
+          "end": 8002,
+          "code": "I72.8",
+          "code_system": "ICD-10-CM",
+          "description": "Aneurysm of other specified arteries",
+          "type": "Human",
+          "covered_text": "pseudoaneurysm"
+        },
+        {
+          "begin": 8234,
+          "end": 8252,
+          "code": "I85.00",
+          "code_system": "ICD-10-CM",
+          "description": "Esophageal varices without bleeding",
+          "type": "Human",
+          "covered_text": "esophageal varices"
+        },
+        {
+          "begin": 8281,
+          "end": 8311,
+          "code": "Q26.6",
+          "code_system": "ICD-10-CM",
+          "description": "Portal vein-hepatic artery fistula",
+          "type": "Human",
+          "covered_text": "hepatic arterio-portal fistula"
+        },
+        {
+          "begin": 11222,
+          "end": 11236,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "UPPER GI BLEED"
+        },
+        {
+          "begin": 12164,
+          "end": 12190,
+          "code": "Z96.89",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of other specified functional implants",
+          "type": "Human",
+          "covered_text": "right hepatic ductal stent"
+        }
+      ],
+      "text": "[**2106-4-15**] 9:11 AM\n HEPATIC                                                         Clip # [**Clip Number (Radiology) 83621**]\n Reason: Please perform angio for ? embolization if source of bleedin\n Admitting Diagnosis: UPPER GI BLEED\n  Contrast: VISAPAQUE Amt: 270\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 2012**] VISERAL SEL/SUPERSEL A-GRAM     [**Numeric Identifier 17538**] BILIARY STRICTURE DILATION WIT   *\n * [**Numeric Identifier 3186**] INTRO PERC TRNASHEPATIC STENT   [**Numeric Identifier 2009**] INITAL 3RD ORDER ABD/PEL/LOWER   *\n * -51 MULTI-PROCEDURE SAME DAY          [**Numeric Identifier 2010**] EA 1ST ORDER ABD/PEL/LOWER EXT   *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 5625**] ADD'L 2ND/3RD ORDER ABD/PEL/LO   *\n * [**Numeric Identifier 2012**] VISERAL SEL/SUPERSEL A-GRAM     -59 DISTINCT PROCEDURAL SERVICE        *\n * [**Numeric Identifier 2012**] VISERAL SEL/SUPERSEL A-GRAM     -59 DISTINCT PROCEDURAL SERVICE        *\n * [**Numeric Identifier 4617**] EA ADD'L VESSEL AFTER BASIC A-  [**Numeric Identifier 4617**] EA ADD'L VESSEL AFTER BASIC A-   *\n * [**Numeric Identifier 4617**] EA ADD'L VESSEL AFTER BASIC A-  [**Numeric Identifier 4617**] EA ADD'L VESSEL AFTER BASIC A-   *\n * [**Numeric Identifier 2011**] TRANCATHETER EMBOLIZATION       [**Numeric Identifier 3187**] CATH/STENT FOR INT/EXT BILIARY   *\n * [**Numeric Identifier 1840**] F/U STATUS INFUSION/EMBO        [**Numeric Identifier 17540**] BILIARY STRICTURE DILATION NO    *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  54 year old man with 2 indwelling biliary stents and recurrent GI bleeding of\n  unclear source\n REASON FOR THIS EXAMINATION:\n  Please perform angio for ? embolization if source of bleeding is identified and\n  also assess biliary stents for patency, position, and possible manipulation for\n  correction of duodenal erosion\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  54-year-old man with complicated hepatobiliary history including\n CCY c/b gallbladder rupture, and choledochogastric and choledochocutaneous\n fistulas, now with right and left-sided biliary stents, presenting with upper\n GI bleeding of unclear source.  EGD findings suggest stents unlikely to course\n via native upper cbd.  Request to perform angiogram to identify source of\n bleeding and to perform a cholangiogram to evaluate the biliary stents plus\n minus intervention.\n\n RADIOLOGISTS:  Dr. [**First Name (STitle) 611**] [**Name (STitle) 8814**], Dr. [**First Name8 (NamePattern2) 331**] [**Last Name (NamePattern1) 5473**] and Dr. [**First Name8 (NamePattern2) 4100**] [**Name (STitle) 4101**]\n performed the procedure.  Dr. [**First Name (STitle) 5473**] and Dr. [**First Name (STitle) 4101**], the attending radiologists,\n were present throughout the procedure.\n\n ANESTHESIA:  The procedure was performed under general anesthesia with local\n 1% lidocaine used as well.\n\n PROCEDURE AND FINDINGS:  After explaining the risks, benefits and alternatives\n of the procedure, written informed consent was obtained.  The patient was\n brought to the angiography suite and placed supine on the imaging table.  The\n right upper abdomen and the right groin were prepped and draped in standard\n sterile fashion.  Preprocedure timeout and huddle were performed per [**Hospital1 184**]\n protocol.\n 1.  Right common femoral arterial access.\n 2.  SMA and selective IPDA arteriograms.\n 3.  Celiac selective left gastric, common hepatic, GDA, right hepatic\n arteriograms.\n 4.  Coil embolization of the gastroduodenal artery.\n                                                             (Over)\n\n [**2106-4-15**] 9:11 AM\n HEPATIC                                                         Clip # [**Clip Number (Radiology) 83621**]\n Reason: Please perform angio for ? embolization if source of bleedin\n Admitting Diagnosis: UPPER GI BLEED\n  Contrast: VISAPAQUE Amt: 270\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n 5.  [**Name (NI) 83622**] PTC.\n 6.  Extension of right hepatic ductal stent.\n 7.  Placement of 8 French internal-external biliary drainage catheter.\n\n Using fluoroscopic and palpatory guidance, the right common femoral artery was\n accessed using a 19-gauge arterial needle, through which [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 89**] wire was\n advanced into the abdominal aorta under fluoroscopic guidance.  Needle was\n exchanged for a 5 French [**Last Name (un) 67**]-Tip sheath which was connected to a continuous\n saline sidearm flush.  A 5 French C2 catheter was then advanced over the\n [**Last Name (un) 89**] wire and used to select the superior mesenteric artery and a selective\n SMA run performed.  No active extravasation or pseudoaneurysm was seen.  There\n was irregularity of the branches coming off the inferior pancreaticoduodenal\n artery.  Celiac arteriography with selectives then performed via the C2\n catheter as described below.  Using Merit microcatheter and Transcend\n microwire the SMA was recatheterized, and IPDA was superselectively\n catheterized and a selective arteriogram performed.  This, however, did not\n demonstrate any active extravasation or pseudoaneurysm formation.  In\n addition, even a 0.016 Transcend wire was unable to traverse the stenotic path\n into this artery. Collaterals arising off the IPDA was also seen contributing\n significantly to the middle colic artery.  As a result embolization was not\n performed at this location.\n\n The C2 catheter was then used to select the celiac artery ostium and a\n selective celiac arteriogram performed.  The catheter was then advanced into\n the common hepatic and subsequently selective common hepatic, GDA and right\n hepatic arteriograms were performed.  By performing [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 55838**] loop on the C2\n catheter, the left gastric artery ostium was catheterized and a selective left\n gastric arteriogram performed.  No active arterial extravasation was seen.\n After discussing the findings with the surgical team, it was decided to\n perform prophylactic embolization of the gastroduodenal artery.\n\n The C2 catheter was again advanced into the celiac artery and used to select\n the common hepatic artery.  A 0.035 Glidewire was then navigated into the GDA.\n The C2 catheter was advanced over the Glidewire into the proximal\n gastroduodenal artery.  Using a combination of a Transcend microwire and a\n Merit Maestro microcatheter, GDA was selectively catheterized and the\n microcatheter was advanced into the distal GDA.  Coil embolization of the GDA\n was then performed subsequently by deploying multiple 2-mm, 3-mm and 4-mm\n sized Hilal coils right up to origin of the gastroduodenal artery from the\n common hepatic artery.  Post-embolization common hepatic arteriogram was\n performed confirming no flow through the GDA.  The catheter and sheath were\n removed and hemostasis was achieved by manual compression for 20 minutes.\n Sterile dressings were applied.\n\n FINDINGS ON THE ARTERIOGRAM:\n                                                             (Over)\n\n [**2106-4-15**] 9:11 AM\n HEPATIC                                                         Clip # [**Clip Number (Radiology) 83621**]\n Reason: Please perform angio for ? embolization if source of bleedin\n Admitting Diagnosis: UPPER GI BLEED\n  Contrast: VISAPAQUE Amt: 270\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n 1.  Calcified atherosclerosis of abdominal aorta.\n 2.  Celiac common hepatic, left gastric, GDA and right hepatic arteriograms\n revealed no active arterial extravasation or pseudoaneurysm formation. The\n patient is s/p splenectomy.\n 3.  Venous phase of SMA run shows prominent mesenteric veins and what appears\n to be recanalization of cavernous transformation of the portal vein with\n hepatopetal flow. Moderate sized esophageal varices also seen.\n 4.  Small right hepatic arterio-portal fistula.\n 5.  SMA arteriogram reveals small irregular arterial branch coming off the\n IPDA.  Superselective IPDA angiogram performed, which did not show any active\n arterial extravasation.  Collateral branches contributing to the middle colic\n artery seen supplying the watershed region of the splenic flexure, and in view\n of these the IPDA was not embolized.\n 6.  Successful microcoil embolization of the gastroduodenal artery with good\n angiographic results.\n\n Attention was now directed towards performing the PTC.  Under fluoroscopic\n guidance, a 21-gauge Cook needle was used to access the right posterior ductal\n system and a percutaneous transhepatic cholangiogram performed.  A peripheral\n right posterior duct was then selected and accessed using a second Cook\n needle.  A 0.018 Headliner wire was advanced through the needle into the right\n hepatic duct.  The Cook needle was exchanged for an AccuStick sheath set.  The\n metal stiffener and inner dilator were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 89**] wire was advanced\n through the sheath into the duodenum.  The AccuStick sheath was then exchanged\n for 6 French [**Last Name (un) 67**]-Tip sheath.  An angled glide catheter was then used to\n exchange the [**Last Name (un) 89**] wire for an Amplatz wire.  A pullback cholangiogram was\n then performed.  Based on the findings of the cholangiogram it was decided to\n extend the right-sided ductal stent.  A marker catheter was advanced over the\n Amplatz wire and after making appropriate measurements, an 8 mm x 60 mm\n Wallstent was advanced over the Amplatz wire.  Proximal end of the stent was\n positioned within the covered stent in the right duct and the distal end of\n the stent was positioned within the third part of duodenum.  The stent was\n then sequentially balloon dilated using 6 mm x 4 cm [**Last Name (un) 19795**] balloon.\n Post-balloon dilatation cholangiogram was performed.  The sheath was then\n removed and a new 8.5 French biliary drainage catheter (which was destrung and\n extra side holes created) was advanced over the Amplatz wire.  Contrast was\n injected confirming intraductal location of the most proximal side holes.  The\n catheter was secured to the skin using 0 silk purse-string suture and another\n 0 silk retaining suture.  The catheter was opened to an external drainage bag.\n Sterile dressings were applied.\n\n FINDINGS:\n 1.  Initial spot fluoroscopic image demonstrates indwelling metallic biliary\n stents from the prior procedure with expected unchanged position.\n 2.  Percutaneous transhepatic cholangiogram via right posterior ductal access\n                                                             (Over)\n\n [**2106-4-15**] 9:11 AM\n HEPATIC                                                         Clip # [**Clip Number (Radiology) 83621**]\n Reason: Please perform angio for ? embolization if source of bleedin\n Admitting Diagnosis: UPPER GI BLEED\n  Contrast: VISAPAQUE Amt: 270\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n reveals widely patent indwelling stent with good flow of contrast into the\n duodenum. Crowding of ducts reflects some hepatic atrophy (not new).\n 3.  Successful antegrade extension of the right ductal stent by coaxially\n deploying within it an 8 mm x 60 mm Wallstent.\n 4.  Placement of 8 French internal-external biliary drainage catheter open to\n internal drainage bag.\n\n The patient tolerated the procedure well, and there were no post-procedure\n complications.  The patient was transferred to the surgical ICU in stable\n condition.\n\n IMPRESSION:\n 1.  No active arterial extravasation seen on the celiac and SMA arteriograms.\n Prophylactic coil embolization of the gastroduodenal artery performed with\n good angiographic results.\n\n 2. Successful extension of right hepatic ductal stent by coaxially deploying 8\n mm x 60 mm Wallstent.  8 French internal-external biliary drainage catheter\n was placed, which is open to an external drainage bag.  The catheter may be\n capped after 24 hours if no signs of biliary obstruction or infection develop.\n\n\n"
+    },
+    {
+      "note_id": 38623,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 240,
+          "end": 251,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleeding"
+        },
+        {
+          "begin": 481,
+          "end": 495,
+          "code": "I72.4",
+          "code_system": "ICD-10-CM",
+          "description": "Aneurysm of artery of lower extremity",
+          "type": "Human",
+          "covered_text": "pseudoaneurysm"
+        },
+        {
+          "begin": 639,
+          "end": 650,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleeding"
+        },
+        {
+          "begin": 705,
+          "end": 716,
+          "code": "K20.91",
+          "code_system": "ICD-10-CM",
+          "description": "Esophagitis, unspecified with bleeding",
+          "type": "Human",
+          "covered_text": "esophagitis"
+        },
+        {
+          "begin": 725,
+          "end": 734,
+          "code": "K22.11",
+          "code_system": "ICD-10-CM",
+          "description": "Ulcer of esophagus with bleeding",
+          "type": "Human",
+          "covered_text": "GEJ ulcer"
+        },
+        {
+          "begin": 736,
+          "end": 746,
+          "code": "K29.70",
+          "code_system": "ICD-10-CM",
+          "description": "Gastritis, unspecified, without bleeding",
+          "type": "Human",
+          "covered_text": "gastritis,"
+        },
+        {
+          "begin": 751,
+          "end": 761,
+          "code": "K29.80",
+          "code_system": "ICD-10-CM",
+          "description": "Duodenitis without bleeding",
+          "type": "Human",
+          "covered_text": "duodenitis"
+        },
+        {
+          "begin": 972,
+          "end": 982,
+          "code": "K92.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hematemesis",
+          "type": "Human",
+          "covered_text": "hematemeis"
+        },
+        {
+          "begin": 1242,
+          "end": 1253,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleeding"
+        },
+        {
+          "begin": 1516,
+          "end": 1529,
+          "code": "Z90.49",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of other specified parts of digestive tract",
+          "type": "Human",
+          "covered_text": "hemicolectomy"
+        },
+        {
+          "begin": 2023,
+          "end": 2049,
+          "code": "C64.2",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of left kidney, except renal pelvis",
+          "type": "Human",
+          "covered_text": "renal clear cell carcinoma"
+        },
+        {
+          "begin": 2130,
+          "end": 2133,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 2135,
+          "end": 2158,
+          "code": "Z79.4",
+          "code_system": "ICD-10-CM",
+          "description": "Long term (current) use of insulin",
+          "type": "Human",
+          "covered_text": "insulin-dependent DMII,"
+        },
+        {
+          "begin": 2159,
+          "end": 2162,
+          "code": "K27.9",
+          "code_system": "ICD-10-CM",
+          "description": "Peptic ulcer, site unspecified, unspecified as acute or chronic, without hemorrhage or perforation",
+          "type": "Human",
+          "covered_text": "PUD"
+        },
+        {
+          "begin": 2370,
+          "end": 2383,
+          "code": "Z90.49",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of other specified parts of digestive tract",
+          "type": "Human",
+          "covered_text": "hemicolectomy"
+        },
+        {
+          "begin": 6026,
+          "end": 6044,
+          "code": "I51.7",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiomegaly",
+          "type": "Human",
+          "covered_text": "cardiac silhouette"
+        },
+        {
+          "begin": 6093,
+          "end": 6110,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "pleural effusions"
+        },
+        {
+          "begin": 6112,
+          "end": 6138,
+          "code": "J98.4",
+          "code_system": "ICD-10-CM",
+          "description": "Other disorders of lung",
+          "type": "Human",
+          "covered_text": "Retrocardiac opacification"
+        },
+        {
+          "begin": 6230,
+          "end": 6245,
+          "code": "J81.0",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pulmonary edema",
+          "type": "Human",
+          "covered_text": "pulmonary edema"
+        },
+        {
+          "begin": 6865,
+          "end": 6876,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 6949,
+          "end": 6963,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "acute GI bleed"
+        },
+        {
+          "begin": 8102,
+          "end": 8113,
+          "code": "K92.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hematemesis",
+          "type": "Human",
+          "covered_text": "hematemesis"
+        },
+        {
+          "begin": 8946,
+          "end": 8952,
+          "code": "K92.1",
+          "code_system": "ICD-10-CM",
+          "description": "Melena",
+          "type": "Human",
+          "covered_text": "melena"
+        },
+        {
+          "begin": 10742,
+          "end": 10756,
+          "code": "K26.3",
+          "code_system": "ICD-10-CM",
+          "description": "Acute duodenal ulcer without hemorrhage or perforation",
+          "type": "Human",
+          "covered_text": "Duodenal ulcer"
+        },
+        {
+          "begin": 10758,
+          "end": 10788,
+          "code": "I86.4",
+          "code_system": "ICD-10-CM",
+          "description": "Gastric varices",
+          "type": "Human",
+          "covered_text": "gastric and esophageal varices"
+        },
+        {
+          "begin": 10789,
+          "end": 10797,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleed"
+        }
+      ],
+      "text": "Admission Date:  [**2106-4-14**]              Discharge Date:   [**2106-5-2**]\n\nDate of Birth:  [**2052-2-9**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nPenicillins\n\nAttending:[**First Name3 (LF) 5569**]\nChief Complaint:\nRecurrent GI bleeding\n\n\nMajor Surgical or Invasive Procedure:\n[**2106-4-18**] Exploratory laparotomy and open gastrotomy, removal of\nbiliary Wall stents, packing of duodenum\n[**2106-4-18**] Coil and Gelfoam embolization of right hepatic artery\nbranch\npseudoaneurysm.\n[**2106-4-15**]  Coil embolization of the gastroduodenal artery.\n\n\nHistory of Present Illness:\nThe pt is a 54yo man with history of recurrent GI bleeding\nrequiring an extended admission [**5-11**] (EGD noted esophagitis,\nhealed GEJ ulcer, gastritis, and duodenitis, was treated with\noctreotide and protonix gtt) well as a more recent admission\nlast week during which EGD did not identify active source of\nbleeding. He returns today with further bleeding, stating that\nhe had hematemeis and melena this morning, then became dizzy and\ncame in for evaluation. NGT lavage was performed with frankly\nbloody fluid. Rectal exam performed with dark stool and visible\nblood/guaiac positive. Was started on nadolol, carafate, and [**Hospital1 **]\nPPI for GI bleeding at last d/c but has not initiated nadolol\ndue to a pharmacist thinking the nadolol was for HTN and might\npossibly be redundant. He has been taking carafate and PPI. The\n[**5-11**] admission also notable for surgical resection\ncholedochocolic fistula with  right hemicolectomy, ileal\ntransverse colostomy anastomosis, side-to-side gastrojejunostomy\nand biliary stenting for choledochocutaneous fistulae.  Has been\ndoing well since removal of PTC drains last week though notes\nmild erythema at lateral drain site.\n\nPast Medical History:\nPMH: Ruptured GB c/b recurrent pericholecystic abscesses since\n[**1-10**] treated with percutaneous cholecystostomy and multiple\nbiliary stents, hx CBD/R colonic fistula ([**5-11**]), R colectomy\n[**5-11**], partial L nephrectomy for renal clear cell carcinoma\n[**1-/2106**], right complete nephrectomy for [**Last Name (un) 42686**] tumor, HTN,\ninsulin-dependent DMII, PUD, PE/DVT ([**2099**], completed warfarin),\nGout, Hereditary spherocytosis s/p splenectomy, [**Last Name (un) 42686**] tumor s/p\nR nephrectomy\n\nPSH: Splenectomy ([**2057**]), R nephrectomy ([**2064**]), Right\nhemicolectomy with ileal transverse colostomy anastomosis and\nside-to-side gastrojejunostomy [**2105-5-28**], PTBD x 2 (removed last\nwk, s/p gelfoam occlusion stent tracts).\n\n\nSocial History:\ndenies etoh, drugs or tobacco. LiVes alone. Works as a software\nconsultant in the energy industry. Social History: He works as a\nsoftware consultant. Never smoked or drank alcohol. He is\ncurrently on leave from work and living with his mother. [**Name (NI) **]\ndenied any past exposures to hepatitis or HIV.\n\n\n\n\nFamily History:\nFamily History: He has no biological children. His family\nhistory is significant for hereditary spherocytosis in his\nmother and for diabetes mellitus. His father had prostate\ncancer. pt states multiple family members have had their\ngallbladders out but none were complicated procedures.\n\nPhysical Exam:\nPE on Admission:\n98.2  123  104/60  20  100% Pain 0/10\nGen: Alert, oriented, pleasant, not in distress\nCV: RRR, no murmurs\nResp: Lungs clear to auscultation\nAbd: Soft, non-tender, non-distended with well-healed incision.\nDrain removal site in RUQ non-infected with small hematogenous\noozing and 2cm of granulation tissue.\nRectal: dark stool/visible blood. guaiac positive.\n\n\nPertinent Results:\n[**2106-4-14**] 07:30AM BLOOD WBC-17.5*# RBC-2.51*# Hgb-7.3*#\nHct-21.1*# MCV-84 MCH-29.1 MCHC-34.6 RDW-16.3* Plt Ct-477*\n[**2106-4-14**] 10:03PM BLOOD Hct-28.5*\n[**2106-4-15**] 03:41AM BLOOD WBC-13.7* RBC-2.71* Hgb-8.3* Hct-22.9*\nMCV-85 MCH-30.8 MCHC-36.4* RDW-15.2 Plt Ct-296\n[**2106-4-15**] 04:36PM BLOOD WBC-14.7* RBC-3.61*# Hgb-11.0*# Hct-30.5*\nMCV-85 MCH-30.4 MCHC-36.0* RDW-15.2 Plt Ct-372\n[**2106-4-16**] 07:25AM BLOOD WBC-17.2* Hct-33.4* Plt Ct-491*\n[**2106-4-22**] 04:03PM BLOOD Hct-35.3*\n[**2106-4-30**] 06:12PM BLOOD WBC-20.0* RBC-1.91*# Hgb-6.3*# Hct-17.6*#\nMCV-92 MCH-33.2* MCHC-35.9* RDW-15.8* Plt Ct-162\n[**2106-5-1**] 02:42AM BLOOD WBC-27.0* RBC-4.33* Hgb-14.0 Hct-38.4*\nMCV-89 MCH-32.3* MCHC-36.4* RDW-14.5 Plt Ct-155\n[**2106-5-1**] 12:26PM BLOOD WBC-13.7* RBC-3.32* Hgb-10.5* Hct-28.3*\nMCV-85 MCH-31.6 MCHC-37.1* RDW-14.5 Plt Ct-103*\n[**2106-4-14**] 11:01AM BLOOD Lactate-2.7*\n[**2106-4-17**] 07:30PM BLOOD Lactate-1.1\n[**2106-4-18**] 07:11PM BLOOD Glucose-247* Lactate-1.7 Na-133* K-4.2\nCl-105\n[**2106-4-18**] 07:58PM BLOOD Glucose-239* Lactate-2.3* Na-133* K-3.7\nCl-104\n[**2106-4-18**] 08:35PM BLOOD Glucose-286* Lactate-6.0* Na-136 K-5.3\nCl-100\n[**2106-4-19**] 02:06AM BLOOD Glucose-152* Lactate-3.4* K-3.6\n[**2106-4-20**] 08:16AM BLOOD Lactate-1.4\n[**2106-4-29**] 03:54PM BLOOD Glucose-316* Lactate-5.6*\n[**2106-4-29**] 07:53PM BLOOD Glucose-273* Lactate-3.6* K-4.7\n[**2106-4-30**] 03:26AM BLOOD Lactate-1.1 K-4.4\n[**2106-4-30**] 06:44PM BLOOD Lactate-3.5* K-4.9\n[**2106-4-30**] 07:53PM BLOOD Glucose-229* Lactate-3.9* K-5.7*\n[**2106-5-1**] 07:35AM BLOOD Glucose-357* Lactate-5.7*\n\nMICRO:\n[**4-16**] BCx x2: enterococcus and enterobacter, suscep to vanc and\n[**Last Name (un) 2830**]\n[**4-17**] blood cx x1: enterococcus\n[**4-18**] blood cx: NG\n[**4-18**] urine cx: neg\n[**4-20**] urine cx: neg\n[**4-21**] blood cx: NG\n[**4-21**] blood cx x 2: NG\n[**4-25**] blood cx: P\n[**4-26**] blood cx: P\n\nIMAGING:\n- [**4-17**] Abd Duplex & GB U/S: Coarse echotexture of the liver,\nwithout focal lesions. Extremely limited doppler study. Normal\nhepatic vein Doppler. Normal left portal vein. Assessment of the\nright portal vein is extremely limited on this study. Previously\nseen small hepatic artery- right portal fistula is difficult to\nevaluate in this study, please refer to the IR procedure report\non [**4-15**].\n- [**4-17**] CTA: No active bleed, ?incr luminal flow in L-side\n- [**4-21**] CXR: Continued enlargement of the cardiac silhouette with\npulmonary vascular congestion and layering pleural effusions.\nRetrocardiac opacification @left lower lobe\n- [**4-28**] CXR: NGT side port and tip within the stomach. Resolution\nof pulmonary edema since [**2106-4-22**].\n\nBrief Hospital Course:\nThe patient was admitted to the Hepatobiliary Surgical Service\nfor evaluation and treatment of UGIB in the setting of known\nbiliary stents partially extruding through ampulla with\nassociated duodenal ulceration as well as portal hypertensive\ngastropathy. Pt was admitted to the Surgical Intensive Care\nUnit, placed on a PPI drip, Foley for hemodynamic monitoring and\nserial Hematocrits.  Angio was performed [**4-15**], and his GDA was\nembolized. He was transfered to the floor [**4-16**] with stable HCT.\nOn the morning of [**4-17**] he was noted to have a lower HCT and\ntachycardia with BRBPR and he was again transferred to the ICU\nfor management of an acute GI bleed. He underwent repeat EGD,\nwhich showed extensive clot in the stomach. Unable to ID source\nof bleeding, though felt to be from duodenum. He then had\nmassive UGI bleed, receiving 12u PRBC and becoming unstable. He\nthen was taken to the operating [****], where a gastrotomy\nwas created, the stents were taken out through his pylorus, and\nthe duodenum was packed with surgicel. The abdomen was left\nopen. He received 34 units perioperatively, as well as profuse\namounts of FFP and cryo. he was taken back to OR for abdominal\nclosure [**4-20**] and then was transferred back to the floor. He\nremained there with a hct in the low 30s with no transfusions x\n2 days. Of note, he was found to have enterococcus in his blood,\nand so he stayed in house on the floor to receive antibiotics.\nOn [**4-27**] there was bilious staining noted on the vac. However, a\ncholangiogram was not concerning for leak. [**4-27**] Hct was 32.8 and\nthe pt was asymptomatic all day. However, later in the evening\nhe vomited blood. At that time, his SBP was 100, HR 120 and the\nVac output became bloody from bilious. [**4-28**] he was transfered\nagain to the  SICU for hematemesis--mixed dark and bright red\nblood per mouth and rectum. An NGT was placed but unable to\nlavage due to thick stomach contents. He was monitored on Q2h\nhcts and coags and transfused 3uPRBC overnight. HDS. On [**4-29**] he\nhad 900cc of emesis (dark red blood, most likely old blood) and\nremained tachycardic, however his HCT initially remained stable\nat 28.0. Later that day he had 600cc dark bloody emesis, RBCs &\nFFP were given, trauma line was placed, and emergent endoscopy\nwas performed. This revealed grade II/III esophageal and gastric\nvarices. 10 RBC's & 8 FFP were given, as was Activated Factor\nVII was administered and he required pressors for SBP support.\nOn [**4-30**] he came off pressors, and his HCT was stable. He was\nstarted on TPN, however he required massive transfusion that\nafternoon after copious hematemesis and melena with a HCT of 15.\nHe was transfued 22U PRBC, 2FFP, 2plts, 3000mcg factor 7\n(40mcg/kg). He was scoped by GI, who placed [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] - noting\npossible bleed from both GE junction and duodenum/stomach. Given\nhis worsening metabolic acidosis, increasing lactate bicarb gtt\n& phenylephrine gtt were restarted overnight. He was also\nmaintained on ARDS protocol on the vent. On [**5-1**] a family\nmeeting was held and, given the lack of surgical option and the\nintractable bleeding, the decision was made to make the pt [**Name (NI) 3225**].\nOn [**5-2**] he expired with family at the bedside and time of death\nwas called at 20:34.\n[**5-2**]: [**Month/Day (4) 3225**]\n\n\nMedications on Admission:\n1. amlodipine 2.5 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n2. ursodiol 300 mg Capsule Sig: One (1) Capsule PO TID (3 times\na day).\n3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO twice a day.\nDisp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*1*\n4. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H\n(every 24 hours): Take through [**2106-4-16**].\n5. Lantus 100 unit/mL Solution Sig: Fourteen (14) units\nSubcutaneous once a day.\n6. Humalog 100 unit/mL Solution Sig: per sliding scale\nSubcutaneous four times a day: Use home scale.\n7. nadolol 20 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*2* (NOT TAKING AS EXPLAINED ABOVE)\n8. Carafate 1 gram Tablet Sig: One (1) Tablet PO four times a\nday.\nDisp:*120 Tablet(s)* Refills:*2*\n9.. multivitamin with iron     Tablet Sig: One (1) Tablet PO\nonce a day: Take separate from Cipro. [**Month (only) 116**] darken stool.\n\nDischarge Medications:\nNone, pt expired\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nDuodenal ulcer, gastric and esophageal varices\nGI bleed\n\n\nDischarge Condition:\nN/A\n\n\nDischarge Instructions:\nNone, pt expired\n\nFollowup Instructions:\nNone, pt expired\n\n\n\nCompleted by:[**2106-5-7**]"
+    },
+    {
+      "note_id": 1185885,
+      "category": "Radiology",
+      "description": "INITAL 3RD ORDER ABD/PEL/LOWER EXT A-GRAM",
+      "annotations": [
+        {
+          "begin": 197,
+          "end": 211,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "UPPER GI BLEED"
+        },
+        {
+          "begin": 2239,
+          "end": 2276,
+          "code": "74174",
+          "code_system": "CPT",
+          "description": "Computed tomographic angiography, abdomen and pelvis, with contrast material(s), including noncontrast images, if performed, and image postprocessing",
+          "type": "Human",
+          "covered_text": "Doppler ultrasound abdomen and pelvis"
+        },
+        {
+          "begin": 3075,
+          "end": 3089,
+          "code": "I72.4",
+          "code_system": "ICD-10-CM",
+          "description": "Aneurysm of artery of lower extremity",
+          "type": "Human",
+          "covered_text": "pseudoaneurysm"
+        },
+        {
+          "begin": 6300,
+          "end": 6314,
+          "code": "I72.8",
+          "code_system": "ICD-10-CM",
+          "description": "Aneurysm of other specified arteries",
+          "type": "Human",
+          "covered_text": "pseudoaneurysm"
+        }
+      ],
+      "text": "[**2106-4-18**] 2:17 AM\n OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 83738**]\n Reason: identify source, embo if possible\n Admitting Diagnosis: UPPER GI BLEED\n  Contrast: VISAPAQUE Amt: 210\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 2008**] EMBO NON NEURO                  -79 UNRELATED PROCEDURE/SERVICE DURI   *\n * [**Numeric Identifier 2009**] INITAL 3RD ORDER ABD/PEL/LOWER  -51 MULTI-PROCEDURE SAME DAY           *\n * [**Numeric Identifier 2010**] EA 1ST ORDER ABD/PEL/LOWER EXT  -59 DISTINCT PROCEDURAL SERVICE        *\n * [**Numeric Identifier 2012**] VISERAL SEL/SUPERSEL A-GRAM     -59 DISTINCT PROCEDURAL SERVICE        *\n * [**Numeric Identifier 2012**] VISERAL SEL/SUPERSEL A-GRAM     -59 DISTINCT PROCEDURAL SERVICE        *\n * [**Numeric Identifier 2012**] VISERAL SEL/SUPERSEL A-GRAM     -59 DISTINCT PROCEDURAL SERVICE        *\n * [**Numeric Identifier 4617**] EA ADD'L VESSEL AFTER BASIC A-  [**Numeric Identifier 4617**] EA ADD'L VESSEL AFTER BASIC A-   *\n * [**Numeric Identifier 2011**] TRANCATHETER EMBOLIZATION       [**Numeric Identifier 1840**] F/U STATUS INFUSION/EMBO         *\n * [**Numeric Identifier 87**] MOD SEDATION, FIRST 30 MIN.     [**Numeric Identifier 88**] MOD SEDATION, EACH ADDL 15 MIN   *\n * [**Numeric Identifier 88**] MOD SEDATION, EACH ADDL 15 MIN  [**Numeric Identifier 88**] MOD SEDATION, EACH ADDL 15 MIN   *\n * [**Numeric Identifier 88**] MOD SEDATION, EACH ADDL 15 MIN  [**Numeric Identifier 88**] MOD SEDATION, EACH ADDL 15 MIN   *\n * [**Numeric Identifier 88**] MOD SEDATION, EACH ADDL 15 MIN                                         *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  54 year old man with GI BLEED\n REASON FOR THIS EXAMINATION:\n  identify source, embo if possible\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  54-year-old man with GI bleed, for localization and embolization.\n\n COMPARISON:  CTA from [**2106-4-17**]; Doppler ultrasound abdomen and pelvis,\n [**2106-4-17**]; hepatic angiography from [**2106-4-15**].\n\n MEDICATIONS:  Moderate sedation was administered by providing divided doses of\n fentanyl and midazolam throughout the total intraservice time of 2 hours\n during which the patient's hemodynamic parameters were continuously monitored.\n 1% lidocaine was used for local pain control.\n\n OPERATORS:  Dr. [**First Name8 (NamePattern2) 3268**] [**Name (STitle) 1368**] (fellow) and Dr. [**First Name (STitle) 411**] [**Name (STitle) 412**] (attending\n interventional radiologist) was present and supervising throughout the entire\n procedure.\n\n PROCEDURES:\n 1.  The right common femoral arterial access.\n 2.  Celiac, common hepatic and subselective right hepatic arteriograms.\n 3.  Coil and Gelfoam embolization of right hepatic artery branch\n pseudoaneurysm.\n 4.  Post-embolization subselective right hepatic artery and common hepatic\n arteriograms.\n 5.  Superior mesenteric arteriogram.\n\n PROCEDURE:  After discussion of the risks, benefits and alternatives to the\n procedure with the patient, written informed consent was obtained.  The\n patient was brought to the angiography suite and placed supine on the imaging\n table.  The right groin was prepped and draped in the usual sterile fashion.\n                                                             (Over)\n\n [**2106-4-18**] 2:17 AM\n OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 83738**]\n Reason: identify source, embo if possible\n Admitting Diagnosis: UPPER GI BLEED\n  Contrast: VISAPAQUE Amt: 210\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n A preprocedure huddle and timeout were performed per [**Hospital1 184**] protocol.\n\n Under fluoroscopic and palpatory guidance, the right common femoral artery was\n accessed over the femoral head using a 19-gauge needle.  A 0.035 [**Last Name (un) 89**] wire\n was advanced into the aorta under fluoroscopic guidance.  A 5 French [**Last Name (un) 67**]-Tip\n sheath was exchanged for the 19-gauge needle and connected to a heparin/saline\n flush.  A C2 Cobra catheter was advanced over the wire, wire removed, and the\n celiac axis selected.  The celiac axis arteriography was performed.  Next, a\n 0.035 Glide was advanced into the common hepatic artery, the catheter advanced\n and angiography performed.  Based on the results of these studies a Renegade\n Hi-[**Last Name (un) **] loaded with a combination of a 0.018 Transcend wire and a Fathom\n Steerable wire were used to advance the microcatheter into branches of the\n right hepatic artery.  Subselective angiograms were performed.  Based on the\n results a pseudoaneurysm was coiled with 0.018 2 cm x 3 mm Hilal custom coils\n and a 0.018  6 cm x 5 mm Hilal coils.  Gelfoam embolization was performed to\n near stasis.  Post-procedure common hepatic arteriography demonstrated near\n total occlusion of the pseudoaneurysm.\n\n C2 catheter was advanced into the superior mesenteric artery ostium and an\n arteriogram performed.  The catheters, wires and sheaths were removed and\n closure of the right common femoral arteriotomy site achieved with manual\n pressure.  The patient tolerated the procedure well and there were no\n immediate post-procedure complications.\n\n FINDINGS:\n 1.  Pre-procedure fluoroscopic spot image demonstrates a nasogastric tube,\n right PTBD, two stents, coils overlying the GDA and radiopaque material, Onyx\n from the previous embolization of the choledochocutaneous fistula.\n 2.  Pseudoaneurysm of a branch of the right hepatic artery, leading to likely\n bile duct opacification on selective injection.\n 3.  Post-coiling and Gelfoam embolization demonstrated near occlusion of the\n pseudoaneurysm in the proximal right hepatic artery branch.\n 4.  No extravasation seen from a superior mesenteric arteriogram.\n 5.  Blood pressure, heart rate and pulse is improved post preprocedure.\n\n IMPRESSION:\n Successful embolization of a right hepatic artery branch pseudoaneurysm using\n a combination of coils and Gelfoam.\n\n"
+    },
+    {
+      "note_id": 1187078,
+      "category": "Radiology",
+      "description": "TUBE CHOLANGIOGRAM",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 43,
+          "code": "74174",
+          "code_system": "CPT",
+          "description": "Computed tomographic angiography, abdomen and pelvis, with contrast material(s), including noncontrast images, if performed, and image postprocessing",
+          "type": "Human",
+          "covered_text": "BILIARY CATH CHECK"
+        },
+        {
+          "begin": 230,
+          "end": 244,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "UPPER GI BLEED"
+        },
+        {
+          "begin": 932,
+          "end": 943,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleeding"
+        },
+        {
+          "begin": 1222,
+          "end": 1235,
+          "code": "K81.0",
+          "code_system": "ICD-10-CM",
+          "description": "Acute cholecystitis",
+          "type": "Human",
+          "covered_text": "cholecystitis"
+        },
+        {
+          "begin": 1295,
+          "end": 1335,
+          "code": "I72.8",
+          "code_system": "ICD-10-CM",
+          "description": "Aneurysm of other specified arteries",
+          "type": "Human",
+          "covered_text": "choledochogastric and duodenal\n fistulas"
+        },
+        {
+          "begin": 3570,
+          "end": 3584,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "UPPER GI BLEED"
+        }
+      ],
+      "text": "[**2106-4-27**] 2:57 PM\n BILIARY CATH CHECK                                              Clip # [**Clip Number (Radiology) 83739**]\n Reason: gravity cholangiogram pls. Dr. [**Last Name (STitle) 557**] to do.\n Admitting Diagnosis: UPPER GI BLEED\n  Contrast: OPTIRAY Amt: 20\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 6610**] CHOLANGIOGRAPHY VIA EXISTING C  -78 RELATED PROCEDURE DURING POSTOPE   *\n * [**Numeric Identifier 6611**] TUBE CHOLANGIOGRAM                                                     *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  54M with ruptured GB c/b pericholecystic abscess and fistulae s/p gastojej,\n  biliary stents, R colectomy [**5-11**], partial L nephrectomy [**1-/2106**] readmitted with\n  GI bleeding\n REASON FOR THIS EXAMINATION:\n  gravity cholangiogram pls. Dr. [**Last Name (STitle) 557**] to do.\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  54-year-old man with prior complicated cholecystitis status post\n multiple and extensive abdominal surgery with choledochogastric and duodenal\n fistulas, and most recently duodenal variceal bleeding status post surgery.\n Now presents for gravity cholangiogram to assess patency of the tube and to\n evaluate for tube position and existing anatomy.\n\n PHYSICIANS:  The procedure was performed by Dr. [**First Name8 (NamePattern2) 4100**] [**Name (STitle) 4101**], the attending\n radiologist.\n\n PROCEDURE:  Patient was placed supine on the angiographic table.  20 cc of\n Optiray contrast was slowly advanced into the existing internal-external\n biliary drain under gravity.  Opacification of the biliary tree and duodenum\n was achieved.\n\n Gravity cholangiogram demonstrated non-dilated intrahepatic ducts.  There is\n free flow of contrast through the existing tube which was patent.  The tube\n itself was positioned through the right intrahepatic ducts through the\n choledocho proximal duodenal fistula with the catheter pigtail positioned\n within the stomach.  Contrast flowed freely and quickly through the\n choledochoduodenal fistula, with preferential flow into the stomach, though\n some contrast is seen filling the second and third parts of the duodenum as\n well.  Small amount of contrast is seen pooling at the level of the\n choledochoduodenal fistula where there was a previous choledochoenteric\n connection.  However, no contrast is seen filling a choledochoenteric fistula.\n Contrast is not seen filling what is thought to be native CBD, though given\n the non-dilatation of the intrahepatic system, filling of this channel is\n unlikely.  Multiple projections were obtained which confirmed these findings.\n\n Following completion of gravity cholangiogram, the catheter was flushed and\n reattached to external bag drainage.\n\n IMPRESSION:  Gravity cholangiogram demonstrates that the internal-external\n biliary drain tip is positioned in the stomach.  The remaining anatomy and\n non-dilated intrahepatic ducts correspond to previously known findings of a\n choledochoduodenal fistula.\n                                                             (Over)\n\n [**2106-4-27**] 2:57 PM\n BILIARY CATH CHECK                                              Clip # [**Clip Number (Radiology) 83739**]\n Reason: gravity cholangiogram pls. Dr. [**Last Name (STitle) 557**] to do.\n Admitting Diagnosis: UPPER GI BLEED\n  Contrast: OPTIRAY Amt: 20\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n\n\n"
+    },
+    {
+      "note_id": 228777,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 6,
+          "end": 17,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 30,
+          "end": 44,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "normal tracing"
+        }
+      ],
+      "text": "Sinus tachycardia. Otherwise, normal tracing. Since the previous tracing\nof [**2106-1-12**] sinus tachycardia is now present.\n\n"
+    },
+    {
+      "note_id": 228776,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 7,
+          "end": 24,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "baseline artifact"
+        },
+        {
+          "begin": 33,
+          "end": 44,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        }
+      ],
+      "text": "Marked baseline artifact.  Sinus tachycardia.  Compared to the previous tracing\nof [**2106-4-14**] no diagnostic interval change.\n\n"
+    }
+  ]
+}

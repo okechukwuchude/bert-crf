@@ -1,0 +1,86 @@
+{
+  "hadm_id": 153105,
+  "comment": "AVR(Aortic valve Replacement) - Missing OP Note to validate PCS",
+  "notes": [
+    {
+      "note_id": 49145,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 448,
+          "end": 467,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial fibrillation"
+        },
+        {
+          "begin": 469,
+          "end": 493,
+          "code": "441.2",
+          "code_system": "ICD-9-CM",
+          "description": "Thoracic aortic aneurysm without mention of rupture",
+          "type": "Human",
+          "covered_text": "thoracic aortic aneurysm"
+        },
+        {
+          "begin": 581,
+          "end": 602,
+          "code": "424.1",
+          "code_system": "ICD-9-CM",
+          "description": "Aortic valve disorders",
+          "type": "Human",
+          "covered_text": "aortic\nregurgitation."
+        },
+        {
+          "begin": 832,
+          "end": 856,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "Congestive heart failure"
+        },
+        {
+          "begin": 915,
+          "end": 934,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 956,
+          "end": 968,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 969,
+          "end": 1003,
+          "code": "V10.46",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of prostate",
+          "type": "Human",
+          "covered_text": "Prostate cancer [**2097**] s/p XRT"
+        },
+        {
+          "begin": 9354,
+          "end": 9374,
+          "code": "268.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified vitamin D deficiency",
+          "type": "Human",
+          "covered_text": "Vitamin D deficiency"
+        }
+      ],
+      "text": "Admission Date:  [**2106-4-7**]              Discharge Date:   [**2106-4-15**]\n\nDate of Birth:  [**2023-7-18**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nPenicillins / Levaquin\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nShortness of breath\n\nMajor Surgical or Invasive Procedure:\n[**2106-4-8**] Aortic valve replacement and ascending aorta replacement\n\nHistory of Present Illness:\nThis is an 82 year old male with known atrial fibrillation,\nthoracic aortic aneurysm and aortic regurgitation. He has a\nhistory of bactermia and possible endocarditis with aortic\nregurgitation. Has been medically managed until now but is\ndeveloping worsening symptoms of shortness of breath. He is\nadmitted today for heparin bridge for an aortic valve\nreplacement.\n\nPast Medical History:\nAortic regurgitation\nDilated aorta\nCongestive heart failure\nHistory of strep bacteremia ?endocarditis [**2104-3-27**]\nAtrial fibrillation\nHypercholesterolemia\nHypertension\nProstate cancer [**2097**] s/p XRT c/b proctitis\nKidney stone\nGynecomastia\nDVT or Thrombophlebitis [**2098**]\nH Pylori s/p pylera\nVitamin D deficiency\nRadiation enteritis/proctitis with occasional episodes of GI\nbleeding\nMacular Degeneration\ns/p Hernia repair\ns/p Prostatectomy\ns/p Retinal laser\ns/p Prostate Implant\n\nSocial History:\nRace: Caucasian\nLast Dental Exam: Dental clearance [**2106-1-13**]\nLives with: Wife\nOccupation: Retired Military; retired VP Stop & Shop\nCigarettes/Tobacco: Denies, never a smoker\nETOH: < 1 drink/week [] [**2-2**] drinks/week [X] >8 drinks/week []\nIllicit drug use: Denies\n\nFamily History:\nDenies premature coronary artery disease\n\nPhysical Exam:\nPulse: 70 AF  Resp: 18-  O2 sat:  99%\nB/P  Right: 131/57   Left: -\nHeight: 5'[**04**]\"  Weight: 200 lbs\n\nGeneral: Well-developed elderly male sitting in NAD\nSkin: Dry [X] intact [X]\nHEENT: PERRLA [X- left surgical pupil] EOMI [X]\nNeck: Supple [X] Full ROM [X]\nChest: Lungs clear bilaterally [X]\nHeart: RRR [] Irregular [X] Murmur [X] grade [**2-1**]\nAbdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds\n+\n[X]\nExtremities: Warm [X], well-perfused [X] Edema Trace chronic RLE\nswelling after DVT\nVaricosities: None [X]\nNeuro: Grossly intact [X]\nPulses:\nFemoral      Right: 2+  Left: 2+\nDP           Right: 1+  Left: 1+\nPT           [**Name (NI) 167**]: 1+  Left: 1+\nRadial       Right: 2+  Left: 2+\n\nCarotid Bruit     Right: -   Left: -\n\nPertinent Results:\nEcho [**2106-4-8**]: PRE-BYPASS: 3D multiplanar reconstructions were\nused for aortic root measurements. No spontaneous echo contrast\nis seen in the body of the left atrium or left atrial appendage.\nNo atrial septal defect is seen by 2D or color Doppler. There is\nmild left ventricular hypertrophy. The left ventricular cavity\nis moderately dilated. Regional left ventricular wall motion is\nnormal. Overall left ventricular systolic function is mildly\ndepressed (LVEF= 45-50 %). Right ventricular chamber size is\nnormal. with normal free wall contractility. The aortic root is\nmoderately dilated at the sinus level. The ascending aorta is\nmoderately dilated. There are complex (>4mm) atheroma in the\naortic arch. The descending thoracic aorta is mildly dilated.\nThere are complex (>4mm) atheroma in the descending thoracic\naorta. There are three aortic valve leaflets. There is no aortic\nvalve stenosis. Severe (4+) aortic regurgitation is seen. The\nmitral valve leaflets are mildly thickened. Moderate (2+) mitral\nregurgitation is seen. There is no pericardial effusion. Dr.\n[**Last Name (STitle) **] was notified in person of the results at time of\nsurgery.\nPOST-BYPASS: LV systolic function appears improved to normal\n(LVEF 55%) RV systolic function remains normal. There is a well\nseated, well functioning bioprosthesis in the aortic position. A\ntube graft is visualized in the ascending aorta. The study is\notherwise unchanged from prebypass.\nIMPRESSION: Moderately dilated aortic sinuses measuring 5.0 cm\nwithout effacement of the sinotubular junction. Ascending aorta\nis moderately dilated to 4.8 cm and tapers down to 4.0 cm\ndistally. The aortic valve is trileaflet with poor coaptation.\nSevere aortic regurgitation without aortic stenosis is seen.\nModerate mitral regurgitation is seen.. Mildly depressed LV\nfunction.\n.\n\n[**2106-4-12**] 05:15AM BLOOD WBC-9.3 RBC-2.95* Hgb-9.8* Hct-30.2*\nMCV-103* MCH-33.3* MCHC-32.5 RDW-14.7 Plt Ct-98*\n[**2106-4-15**] 05:44AM BLOOD Hct-29.8*\n[**2106-4-12**] 05:15AM BLOOD PT-14.7* INR(PT)-1.4*\n[**2106-4-12**] 05:15AM BLOOD Plt Ct-98*\n[**2106-4-13**] 04:50AM BLOOD PT-15.8* INR(PT)-1.5*\n[**2106-4-14**] 05:20AM BLOOD PT-19.3* INR(PT)-1.8*\n[**2106-4-15**] 05:44AM BLOOD PT-25.0* INR(PT)-2.4*\n[**2106-4-15**] 05:44AM BLOOD UreaN-25* Creat-1.0 Na-136 K-4.1 Cl-104\n[**2106-4-14**] 05:20AM BLOOD Mg-2.2\n\nCXR [**4-12**]:\n\nMild bilateral pleural effusions are unchanged from prior.\nBibasilar\nopacities , a combination of pleural effusions and atelectasis\nhave increased\non the right and minimally improved on the left. The upper lungs\nare clear.\nThere is no pneumothorax. Widened mediastinum has improved.\nCardiomegaly has\nimproved. Sternal wires are aligned.\n\n\nBrief Hospital Course:\nMr. [**Known lastname 3094**] was admitted one day before surgery for routine\nwork-up and Heparin since he was on Coumadin for atrial\nfibrillation. On [**2106-4-8**] he was brought to the operating room\nwhere he underwent an aortic valve replacement and ascending\naorta replacement. Please see operative note for surgical\ndetails. Following surgery he was transferred to the CVICU for\ninvasive monitoring in stable condition. Later this day he was\nweaned from sedation, awoke neurologically intact and extubated.\nHe was started on beta-blockers, diuretics and gently diuresed\ntowards his pre-op weight. On post-op day one he was transferred\nto the step-down floor for further care. Chest tubes and\nepicardial pacing wires were removed per protocol.  On POD2 he\ndeveloped rapid atrial fibrillation, loaded with IV/PO\namiodarone.  His beta-blocker was titrated for rate control.\nHis Coumadin was restarted for his history of DVT.  Prednisone 5\nmg was restarted which he has been taken for several years. His\npain was well controlled with acetaminophen and low-dose\nnarcotics. He was seen by physical therapy for strength and\nmobility.  On POD # 6 he was noted to have plebitis of left\nupper extremity possibley related to amiodarone infusion. He was\nstarted on PO keflex. In light of starting the antibiotic his\nINR bumped slight and his coumadin was adjusted. This will need\nto be monitored closely while he continues on the antibiotic. He\nhas continued to make steady progress and was ready for\ndischarge on POD #7. Follow-up appointments arranged.\n\n\nMedications on Admission:\nAtenolol 75mg [**Hospital1 **]\nDigoxin 125mcg daily\nPrednisone 5mg daily\nTorsemide 20mg daily\nCoumadin 4mg daily- stopped on [**2106-4-2**]\nVitamin D-3 daily\n\nDischarge Medications:\n(Daily).\nDisp:*60 Tablet(s)* Refills:*2*\n2. prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*30 Capsule(s)* Refills:*1*\n4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\nDisp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*\n5. potassium chloride 10 mEq Tablet Extended Release Sig: Two\n(2) Tablet Extended Release PO once a day.\nDisp:*60 Tablet Extended Release(s)* Refills:*2*\n6. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily) for 1 months.\nDisp:*30 Tablet(s)* Refills:*0*\n7. simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet,\nChewable PO QID (4 times a day) as needed for gas.\nDisp:*60 Tablet, Chewable(s)* Refills:*0*\n8. digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*60 Tablet(s)* Refills:*2*\n9. polyvinyl alcohol-povidon(PF) 1.4-0.6 % Dropperette Sig: [**12-28**]\nDrops Ophthalmic PRN (as needed) as needed for eye irritation.\nDisp:*1 * Refills:*0*\n10. atenolol 50 mg Tablet Sig: Two (2) Tablet PO QPM (once a day\n(in the evening)).\nDisp:*60 Tablet(s)* Refills:*2*\n11. atenolol 25 mg Tablet Sig: Three (3) Tablet PO DAILY\n(Daily).\nDisp:*90 Tablet(s)* Refills:*2*\n12. cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every\n6 hours) for 7 days.\nDisp:*40 Capsule(s)* Refills:*0*\n13. torsemide 20 mg Tablet Sig: Two (2) Tablet PO once a day for\n10 days: then decrease to 20mg daily.\nDisp:*14 Tablet(s)* Refills:*0*\n14. Demadex 20 mg Tablet Sig: One (1) Tablet PO once a day:\nstart lower dose in 0ne week [**2106-4-25**].\nDisp:*30 Tablet(s)* Refills:*2*\n15. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every six\n(6) hours as needed for pain, fever.\nDisp:*30 Tablet(s)* Refills:*0*\n16. warfarin 1 mg Tablet Sig: Three (3) Tablet PO ONCE (Once)\nfor 1 doses: take 3mg total for today only.\nDisp:*1 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital 119**] Homecare\n\nDischarge Diagnosis:\nAortic regurgitation and dilated aorta s/p aortic valve\nreplacement and ascending aorta replacement\nPast medical history:\nCongestive heart failure\nHistory of strep bacteremia ?endocarditis [**2104-3-27**]\nAtrial fibrillation\nHypercholesterolemia\nHypertension\nProstate cancer [**2097**] s/p XRT c/b proctitis\nKidney stone\nGynecomastia\nDVT or Thrombophlebitis [**2098**]\nH Pylori s/p pylera\nVitamin D deficiency\nRadiation enteritis/proctitis with occasional episodes of GI\nbleeding\nMacular Degeneration\ns/p Hernia repair\ns/p Prostatectomy\ns/p Retinal laser\ns/p Prostate Implant\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating, deconditioned\nIncisional pain managed with\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Right/Left - healing well, no erythema or drainage.\nEdema +1\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 170**] Date/Time:[**2106-5-12**] 3:15\nWOUND CARE NURSE Phone:[**Telephone/Fax (1) 170**] Date/Time:[**2106-4-20**] 10:30\n\nCardiologist: Dr. [**First Name4 (NamePattern1) 2174**] [**Last Name (NamePattern1) 2912**] [**2106-5-6**] @ 2:30PM\n\n\nPlease call to schedule appointments with your\nPrimary Care Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16258**] [**Telephone/Fax (1) 19196**] in [**4-1**] weeks\n\nCoumadin for DVT\nGoal INR: 2.0-3.0\nFirst draw day after discharge:\nResults to phone fax: Dr.[**Name (NI) 16259**] office [**Telephone/Fax (1) 25001**]\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\nCompleted by:[**2106-4-15**]"
+    }
+  ]
+}

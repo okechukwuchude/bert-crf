@@ -1,0 +1,86 @@
+{
+  "hadm_id": 191533,
+  "comment": "MVR Repair- Need OP note to Validate PCS",
+  "notes": [
+    {
+      "note_id": 54747,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 578,
+          "end": 621,
+          "code": "394.2",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral stenosis with insufficiency",
+          "type": "MapType.EXACT",
+          "covered_text": "Rheumatic Mitral Stenosis and\nRegurgitation"
+        },
+        {
+          "begin": 820,
+          "end": 842,
+          "code": "416.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pulmonary heart diseases",
+          "type": "Human",
+          "covered_text": "pulmonary hypertension"
+        },
+        {
+          "begin": 1450,
+          "end": 1462,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1463,
+          "end": 1477,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 1478,
+          "end": 1492,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 1493,
+          "end": 1515,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "description": "Polymyalgia rheumatica",
+          "type": "Human",
+          "covered_text": "Polymyalgia Rhuematica"
+        },
+        {
+          "begin": 1664,
+          "end": 1682,
+          "code": "V10.3",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of breast",
+          "type": "Human",
+          "covered_text": "Left Breast Cancer"
+        },
+        {
+          "begin": 1764,
+          "end": 1771,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "Human",
+          "covered_text": "Anxiety"
+        }
+      ],
+      "text": "Admission Date:  [**2101-8-11**]              Discharge Date:   [**2101-8-17**]\n\nDate of Birth:  [**2022-11-24**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nFosamax / Bactrim / hydrochlorothiazide\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nFatigue, decreasing stamina, and occasional palpitations\n\nMajor Surgical or Invasive Procedure:\n[**2101-8-11**] Mitral valve replacement with 31mm St. [**Male First Name (un) 923**] epic valve\n\nHistory of Present Illness:\n78 year old female was found to have a murmur at age 38 and was\ndiagnosed with presumed Rheumatic Mitral Stenosis and\nRegurgitation. She was followed annually with an echocardiogram.\nOver the past 6 months she has noted some exertional fatigue and\npalpitations. On recent echo she was found to a new decreasing\nEF and evidence of pulmonary hypertension. She reports overall\nshe just does not have the energy or stamina to do her usual\nactivities. She notes occasional dizziness with position changes\nlasting only moments and resolves spontaneously. She feels\npalpitations at times lasting on a few moments and are self\nlimiting. She was referred for a cardiac catheterization for\nfurther evaluation. Upon cardiac catheterization she was found\nto have severe mitral stenosis and is now being referred to\ncardiac surgery for a mitral valve replacement.\n\nPast Medical History:\nRheumatic Mitral valve stenosis/regurgitation\nBrief Atrial Fibrillation in [**2095**]\nHypertension\nHyperlipidemia\nHypothyroidism\nPolymyalgia Rhuematica - chronic steroids, now on only 1 mg\ndaily. Dr. [**First Name (STitle) **] has prescribed a 10mg stress dose x 1 on the day\nof the catheterization.\nLeft Breast Cancer s/p left partial mastectomy, XRT & oral chemo\n[**2096**]\nOsteopenia/Osteoporosis\nAnxiety\nSquamous Cell Cancer excision right Knee\nH. Pylori\ns/p Cholecystectomy\ns/p left partial mastectomy\n\nSocial History:\nRace:Caucasisan\nLast Dental Exam:1-2 months ago, will call dentist to have\nclearance faxed to office\nLives with:Husband\nContact: [**Name (NI) 449**] (husband)   Phone #[**Telephone/Fax (1) 111938**]\nOccupation:retired receptionist\nCigarettes: Smoked no [x] yes []\nOther Tobacco use:denies\nETOH: 2 glasses of wine/week\nIllicit drug use:denies\n\nFamily History:\nPremature coronary artery disease- non contributory\n\nPhysical Exam:\nPulse:54 Resp:18  O2 sat: 100/RA\nB/P  Right:no BP    Left: 132/65\nHeight:5'3\"     Weight:126 lbs\n\nGeneral:\nSkin: Dry [X] intact [X]\nHEENT: PERRLA [X] EOMI [X]\nNeck: Supple [X] Full ROM [X]\nChest: Lungs clear bilaterally [X]\nHeart: RRR []  Irregular [X]  Murmur [] grade _NO___\nAbdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds\n+ [X]\nExtremities: Warm [X], well-perfused [X]  Edema [] __NO___\nVaricosities: None [X]\nNeuro: Grossly intact [X]\nPulses:\nFemoral      Right: P   Left: P\nDP           Right: P   Left: P\nPT           [**Name (NI) 167**]: P   Left: P\nRadial       Right: P   Left: P\n\nCarotid Bruit        Right: NO   Left: NO\n\nPertinent Results:\n[**2101-8-15**] 06:10AM BLOOD WBC-12.9* RBC-3.04* Hgb-9.4* Hct-29.1*\nMCV-96 MCH-30.9 MCHC-32.3 RDW-13.3 Plt Ct-185#\n[**2101-8-14**] 03:57AM BLOOD WBC-12.5* RBC-2.64* Hgb-8.2* Hct-25.1*\nMCV-95 MCH-31.3 MCHC-32.8 RDW-13.5 Plt Ct-121*\n[**2101-8-13**] 01:33AM BLOOD WBC-12.9* RBC-2.80* Hgb-8.9* Hct-26.9*\nMCV-96 MCH-31.8 MCHC-33.2 RDW-13.4 Plt Ct-107*\n[**2101-8-17**] 05:57AM BLOOD PT-31.7* INR(PT)-3.1*\n[**2101-8-16**] 03:50PM BLOOD PT-34.6* INR(PT)-3.4*\n[**2101-8-16**] 05:47AM BLOOD PT-24.2* INR(PT)-2.3*\n[**2101-8-14**] 03:57AM BLOOD PT-11.7 PTT-21.5* INR(PT)-1.1\n[**2101-8-17**] 05:57AM BLOOD UreaN-26* Creat-0.9 Na-135 K-4.9 Cl-99\n[**2101-8-15**] 06:10AM BLOOD Glucose-125* UreaN-23* Creat-0.6 Na-138\nK-4.4 Cl-102 HCO3-27 AnGap-13\n[**2101-8-14**] 03:57AM BLOOD Glucose-106* UreaN-22* Creat-0.7 Na-139\nK-4.0 Cl-103 HCO3-29 AnGap-11\n[**2101-8-17**] 05:57AM BLOOD Mg-2.2\n\nBrief Hospital Course:\nMrs. [**Known lastname 1024**] was a same day admit and brought directly to the\noperating room where she underwent a mitral valve replacement.\nPlease see operative report for surgical details. Following\nsurgery she was transferred to the CVICU for invasive monitoring\nin stable condition. Later this day she was weaned from\nsedation, awoke neurologically intact and extubated.\nBeta-blockers and diuretics were started on post-op day one and\nshe was gently diuresed towards her pre-op weight. Later she was\ntransferred to the step-down floor for further care. Chest tubes\nand epicardial pacing wires were removed per protocol.  She\ndeveloped Atrial Fibrillation.  Amiodarone was started and\nlopressor titrated.  Coumadin was started for anti-coagulation.\nPhysical therapy worked with her for strength and mobility.  She\nwas discharged home on POD 6 with follow-up instructions.\n\nMedications on Admission:\nAMOXICILLIN [**2089**] mg one hour prior to dental visits\nANASTROZOLE [ARIMIDEX] 1 mg daily only has 1 week left in 5 year\ntreatment\nATENOLOL 25 mg daily\nLEVOTHYROXINE 25 mcg daily\nATIVAN 0.5 mg PRN TID\nPREDNISONE 1 mg daily (10mg x 1 on morning of cardiac)\nQUINAPRIL [ACCUPRIL] 10 mg Daily\nSIMVASTATIN 20 mg daily\nASPIRIN 81 mg daily\nCALCIUM 600 + D3 600 mg calcium (1,500 mg)-400 unit Tablet - 1\nTablet [**Hospital1 **]\nMULTIVITAMIN 1 Tablet daily\nPOLYCARBOPHIL [REPLENS] Gel - apply as needed PRN\n\nDischarge Medications:\n1. Levothyroxine Sodium 25 mcg PO DAILY\n2. Aspirin EC 81 mg PO DAILY\n3. Simvastatin 20 mg PO DAILY\n4. Acetaminophen 650 mg PO Q4H:PRN pain, fever\n5. Amiodarone 400 mg PO BID\n400mg twice a day for 5 days then decrease to 400mg daily for\n7days then 200mg daily ongoing\nRX *amiodarone 200 mg 2 tablet(s) by mouth twice a day Disp #*75\nTablet Refills:*0\n6. Lorazepam 0.5 mg PO Q8H:PRN anxiety\n7. PredniSONE 1 mg PO DAILY\n8. Ranitidine 150 mg PO BID\nRX *Heartburn 150 mg 1 tablet(s) by mouth once a day Disp #*30\nTablet Refills:*0\n9. Warfarin  MD to order daily dose PO DAILY\n10. Furosemide 40 mg PO DAILY\nRX *furosemide 40 mg 1 tablet(s) by mouth once a day Disp #*7\nTablet Refills:*0\n11. Metoprolol Tartrate 75 mg PO TID\nHold for HR < 55 or SBP < 90 and call medical provider.\n[**Last Name (NamePattern4) 9641**] *metoprolol tartrate 25 mg 3 tablet(s) by mouth three times a\nday Disp #*90 Tablet Refills:*0\n12. Warfarin 1 mg PO DAILY16\nDr. [**First Name (STitle) **] to manage, dose will change daily for goal INR [**3-11**]\nRX *Coumadin 1 mg 1 tablet(s) by mouth daily Disp #*60 Tablet\nRefills:*0\n13. Potassium Chloride 20 mEq PO Q12H\nHold for K+ > 4.5\nRX *Klor-Con M20 20 mEq 1 tablet by mouth daily Disp #*7 Tablet\nRefills:*0\n14. Calcium Carbonate 1500 mg PO BID\n15. Multivitamins 1 TAB PO DAILY\n16. Replens *NF* (polycarbophil) 0 unit VAGINAL PRN prn\n17. Vitamin D 400 UNIT PO BID\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Location (un) 932**] Area VNA\n\nDischarge Diagnosis:\nMitral valve stenosis/regurgitation s/p Mitral valve Replacement\nPast medical history:\nBrief Atrial Fibrillation in [**2095**]\nHypertension\nHyperlipidemia\nHypothyroidism\nPolymyalgia Rhuematica - chronic steroids, now on only 1 mg\ndaily. Dr. [**First Name (STitle) **] has prescribed a 10mg stress dose x 1 on the day\nof the catheterization.\nLeft Breast Cancer s/p left partial mastectomy, XRT & oral chemo\n[**2096**]\nOsteopenia/Osteoporosis\nAnxiety\nSquamous Cell Cancer excision right Knee\nH. Pylori\ns/p Cholecystectomy\ns/p left partial mastectomy\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with oral analgesia\nIncisions:\nSternal - healing well, no erythema or drainage\nEdema: trace\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nFollowup Instructions:\nThe following appointments have been arranged:\nSurgeon: Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 170**] Date/Time:[**2101-9-14**] 1:00pm in\nthe [**Hospital **] medical office building, [**Doctor First Name **], [**Hospital Unit Name **]\nWound check with cardiac surgery [**Telephone/Fax (1) 170**] Date/Time:[**2101-8-23**]\n10:00am in the [**Hospital **] medical office building, [**Doctor First Name **],\n[**Hospital Unit Name **]\n\n\nPlease call to schedule appointments with your\nCardiologist: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] to be seen in 2 weeks\nPrimary Care Dr. [**First Name8 (NamePattern2) 7346**] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 8506**] in [**5-12**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\nCompleted by:[**2101-8-17**]"
+    }
+  ]
+}

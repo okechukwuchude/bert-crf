@@ -1,0 +1,379 @@
+{
+  "hadm_id": 185654,
+  "comment": "Cardiac cath report not present",
+  "notes": [
+    {
+      "note_id": 627175,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 100,
+          "end": 122,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "description": "Polymyalgia rheumatica",
+          "type": "Human",
+          "covered_text": "polymyalgia rheumatica"
+        },
+        {
+          "begin": 12438,
+          "end": 12489,
+          "code": "428.33",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, acute on chronic",
+          "type": "Human",
+          "covered_text": "Acute on chronic diastolic congestive heart failure"
+        },
+        {
+          "begin": 13273,
+          "end": 13295,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "description": "Polymyalgia rheumatica",
+          "type": "Human",
+          "covered_text": "Polymyalgia rheumatica"
+        }
+      ],
+      "text": "TITLE: Physician Resident Admission Note\n   Chief Complaint:  s/p fall\n   HPI:\n   85 yo F with HTN, polymyalgia rheumatica, transferred from [**Hospital1 1**]\n   [**Location (un) 78**] for cardiac catheterization. The patient was in her usual state\n   of health until Wednesday [**2-11**], when she developed black diarrhea,\n   occuring 5 times daily. The patient attributes the black color to her\n   iron supplements. Along with diarrhea, the patient also experienced 2\n   episodes of vomiting (clear, no blood or coffee grounds). The patient\n   also had fever to as high as 100.6 on Friday [**2-13**] and Saturday [**2-14**].\n   .\n   On Sunday [**2-15**], the patient became lightheaded when getting up from the\n   toilet and fell, hitting her head and right elbow. She presented to\n   [**Hospital1 1**] [**Location (un) 78**], where head and c-spine CT were negative. She developed\n   chest pain after admission, relieved with metoprolol and nitroglycerin.\n   She received 1 unit of RBCs for Hct 27, and became short of breath. She\n   was given 40mg IV lasix and diuresed 500cc. She ruled in for MI with\n   third set of troponins peaking at 0.26. She was transferred to [**Hospital1 1**]\n   for cardiac catheterization on 100% non-rebreather and a heparin gtt.\n   Of note, pt was guaiac positive on admission.\n   .\n   On arrival to [**Hospital1 1**], the patient was taken to the cardiac catherization\n   lab, where she was found to have severe 3-vessel disease and an\n   elevated LVEDP (see below for details). She was transferred to the CCU\n   on a non-rebreather for further management. In the CCU, the patient was\n   weaned to a non-rebreather. She reported that her breathing was\n   improved and had no other complaints.\n   .\n   On review of systems, she denies any prior history of stroke, TIA, deep\n   venous thrombosis, pulmonary embolism, cough, hemoptysis, or red\n   stools. She denies recent fevers, chills or rigors. She denies\n   exertional buttock or calf pain. She denies sore throat, sinus\n   congestion, dysuria. She denies weakness, tingling, or numbness. All of\n   the other review of systems were negative.\n   .\n   Cardiac review of systems is notable for chest pain and lightheadedness\n   as above and two pillow orthopnea. No syncope. The patient reports a\n   recent decrease in exercise toelrance from 100 feet on a flat surface\n   to 50 feet on a flat surface.\n   Allergies:\n   Demerol (Oral) (Meperidine Hcl)\n   Nausea/Vomiting\n   Morphine\n   Nausea/Vomiting\n   Hydrocodone\n   Nausea/Vomiting\n   Codeine\n   Nausea/Vomiting\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2161-2-16**] 10:15 PM\n   Furosemide (Lasix) - [**2161-2-16**] 10:15 PM\n   Meds on admission:\n   Ativan 0.5 mg daily PRN\n   Tylenol 650 mg Q4H PRN\n   Prochlorperidzine 10 mg Q6H PRN\n   Lidoderm 5% patch apply to left hip for 12 hours on 12 hours off\n   Norvasc 5 mg daily\n   Prilosec 20 mg daily\n   Nortriptyline 10 mg daily\n   Metoprolol ER 100 mg daily\n   Vitamin D 50,000 units weekly for 4 weeks, then monthy\n   prednisone 10 mg daily\n   Drisdol once a month\n   ferrous sulfate 325 mg [**Hospital1 **]\n   Tylenol 1000 mg PO BID\n   Calcium carbonate 500 mg TID\n   acidophilus 1 capsule [**Hospital1 **]\n   Zyprexa 5 mg daily\n   Trazodone 12.5 mg PO QHS\n   Senna 1 tab [**Hospital1 **]\n   Past medical history:\n   Family history:\n   Social History:\n   PAST MEDICAL HISTORY:\n   1. CARDIAC RISK FACTORS: +Hypertension\n   2. CARDIAC HISTORY:\n   -CABG: none\n   -PERCUTANEOUS CORONARY INTERVENTIONS: none\n   -PACING/ICD: none\n   3. OTHER PAST MEDICAL HISTORY:\n   Hypertension\n   diastolic CHF\n   Chronic Kidney Disease (Baseline 1.5-1.7)\n   Right BBB\n   MRSA in nares\n   Atrial Fibrillation\n   Gout\n   Cellulitus\n   Polymyalgia Rheumatica\n   Diverticulosis\n   Depression and anxiety\n   s/p cholecystecomty/appendectomy\n   s/p tonsillectomy\n   s/p surgery for anal fissure\n   Father with stroke at 68. Mother with MI at 65. Two brothers with HTN.\n   Two sisters. Had 4 children (one died).\n   Retired. Worked as secretary. Lives alone at [**Location (un) 1265**].\n   -Tobacco history: quit 40 yrs ago, 1 ppd x 30 years\n   -ETOH: denies\n   -Illicit drugs: denies\n   Review of systems:\n   Flowsheet Data as of [**2161-2-17**] 01:17 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since [**62**] AM\n   Tmax: 36.4\nC (97.5\n   Tcurrent: 36.3\nC (97.3\n   HR: 70 (69 - 81) bpm\n   BP: 119/57(70) {119/46(65) - 142/77(90)} mmHg\n   RR: 24 (18 - 24) insp/min\n   SpO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n                  Total In:\n                                                                    810 mL\n                                                                    150 mL\n   PO:\n                                                                    480 mL\n                                                                    150 mL\n   TF:\n   IVF:\n   Blood products:\n   Total out:\n                                                                    960 mL\n                                                                    160 mL\n   Urine:\n                                                                    310 mL\n                                                                    160 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                   -150 mL\n                                                                    -10 mL\n   Respiratory\n   O2 Delivery Device: Non-rebreather\n   SpO2: 98%\n   ABG: ///22/\n   Physical Examination\n   VS: T=97.5 BP=129/54 HR=69 RR=18 O2 sat=96%/6L\n   GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.\n   HEENT: NCAT. Sclera anicteric. PERRL, EOMI.\n   CARDIAC: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.\n   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were\n   unlabored, no accessory muscle use. CTA anteriorly (could not sit up\n   due to recent cath).\n   ABDOMEN: Soft, NTND. No HSM or tenderness.\n   EXTREMITIES: No c/c/e. No femoral bruits.\n   SKIN: No stasis dermatitis, ulcers, or xanthomas.\n   PULSES:\n   Right: Radial 2+ DP 2+ PT 2+\n   Left: Radial 2+ DP 2+ PT 2+\n   Labs / Radiology\n   300 K/uL\n   9.6 g/dL\n   174 mg/dL\n   1.5 mg/dL\n   31 mg/dL\n   22 mEq/L\n   105 mEq/L\n   3.3 mEq/L\n   141 mEq/L\n   29.4 %\n   15.0 K/uL\n        [image002.jpg]\n                                  [**2156-11-29**]\n                          2:33 A3/22/[**2160**]  11:01 PM\n                                  [**2156-12-3**]\n                                   10:20 P\n                                  [**2156-12-4**]\n                                   1:20 P\n                                  [**2156-12-5**]\n                                   11:50 P\n                                  [**2156-12-6**]\n                                   1:20 A\n                                  [**2156-12-7**]\n                                   7:20 P\n                                  1//11/006\n                                   1:23 P\n                                  [**2156-12-30**]\n                                   1:20 P\n                                  [**2156-12-30**]\n                                   11:20 P\n                                  [**2156-12-30**]\n                                   4:20 P\n   WBC\n                                    15.0\n   Hct\n                                    29.4\n   Plt\n                                     300\n   Cr\n                                     1.5\n   TropT\n                                    0.14\n   Glucose\n                                     174\n   Other labs: PT / PTT / INR:12.0/26.0/1.0, CK / CKMB /\n   Troponin-T:110/3/0.14, Differential-Neuts:93.5 %, Lymph:4.0 %, Mono:2.3\n   %, Eos:0.1 %, Ca++:8.6 mg/dL, Mg++:1.9 mg/dL, PO4:4.3 mg/dL\n   EKG [**2161-2-16**]: Sinus rhythm with PACs at 82 bpm. RBBB. RAD. TWI in III,\n   V1. TWF in aVF.\n   .\n   EKG [**2160-11-12**] (per OMR note): normal sinus rhythm at a rate of 70 with\n   right bundle branch block and upright T-wave, and T-waves in V2-3 which\n   may be considered primary T-wave changes.  She has Q-waves in leads 1,\n   V4-6 and an axis of 90 degrees.  There is no prior tracing to compare\n   to, but she does reportedly have a history of right bundle branch block\n   in the past.  No ischemic changes are seen.\n   .\n   TTE [**2161-2-16**] ([**Hospital1 **] [**Location (un) 78**]): The left atrium is normal in size. The left\n   atrial volume is normal. There is mild regional left ventricular\n   systolic dysfunction with akinesis of the posterobasal septum and\n   dyskinesis of the adjacent posterior wall. The aortic valve leaflets\n   are mildly thickened (?#). Mild to moderate ([**11-29**]+) aortic regurgitation\n   is seen. The mitral valve leaflets are mildly thickened. Severe (4+)\n   mitral regurgitation is seen.\n   .\n   TTE [**2160-11-13**]: Mild left atrial enlargement, other chamber sizes are\n   within normal limits. Mild concentric left ventricular hypertrophy.\n   Left ventricular systolic function estimated 55-60%.  There are no wall\n   motion abnormalities seen.  The aortic valve is mildly calcified with\n   mild aortic insufficiency.  The mitral valve is mildly thickened with\n   moderate mitral regurgitation.  Trace tricuspid regurgitation is seen.\n   There is no evidence of pericardial effusion or intracardiac mass.\n   .\n   ETT: P-MIBI [**2160-11-13**]: No significant focal reversible perfusion defect\n   is seen.  There is decreased perfusion to the inferior wall during\n   stress, which does not improve with rest and is consistent with\n   diaphragmatic attenuation artifact or a small fixed defect.  At rest,\n   the left ventricular ejection fraction is 62%.  At pharmacologic\n   stress, the left ventricular ejection fraction is 63%, which is within\n   normal limits.  No significant regional wall motion abnormality is\n   seen.\n   1. No evidence of focal jeopardized myocardium as described above.\n   2. Normal left ventricular ejection fraction of 63% without significant\n   regional wall motion abnormality at stress.\n   .\n   CARDIAC CATH: [**2161-2-16**]\n   Right dominant\n   LM: distal calcified 30%\n   LAD: diffuse disease throughout to serial 60% lesions just before\n   major D4 with distal 85%; apical 80%; septal collaterals to RPDA\n   LCx: tortuous prox with slow flow, OM prox 50% with tortuous upper\n   pole of OM with mild diffuse disease in AV groove Cx and lower pole of\n   OM with distal AV groove Cx supplying collaterals to the distal\n   RCA system\n   RCA:ostial 40% withous pressure dampening; prox diffuse disease\n   to 75%; distal diffuse dz before RPDA to 45%; moderate diffuse dz\n   throughout RPDA with severe diffuse dz in the distal AV groove\n   RCA supplying the RPLs with slow flow\n   .\n   HEMODYNAMICS:\n   .\n   CT head w/o contrast [**2161-2-15**]: Mild brain atrophy and mild changes of\n   small vessel disease seen. No hemorrhage, mass effect, midline shift or\n   hydrocephalus. Vascular calcifications. IMPRESSION: NO ACUTE\n   INTRACRANIAL ABNORMALITIES.\n   .\n   CT C-spine [**2161-2-15**]: There is no fracture or subluxation seen.  A small\n   calcific density identified between the lamina of C4 and C5 appears to\n   be due to calcification in the ligamentum flavum.  Degenerative changes\n   of facet joints are identified.  Minimal anterolisthesis of C4 over C5\n   and C5 over C6 as well as C7 over T1.  There is no evidence of high\n   grade spinal stenosis seen.  The prevertebral soft tissue thickness\n   ismaintained. There is osteopenia. IMPRESSION: NO FRACTURE. OTHER\n   CHANGES AS ABOVE.\n   Assessment and Plan\n   85 yo F with HTN, Afib, dCHF, CKD, h/o guaiac-positive stools,\n   transferred from [**Hospital1 **] [**Location (un) 78**] for cardiac catheterization in the setting\n   of elevated cardiac enzymes, new focal wall motion abnormalities, and\n   worsened MR. [**Name13 (STitle) **] to have extensive 3-vessel disease.\n   .\n   # Troponin leak: Troponin peaked at 0.26. Cath shows 3-vessel disease.\n   Poor candidate for PCI given 3VD and history of GI bleeding.\n   -CT surgery evaluation for possible CABG/MVR\n   -ASA\n   -no Plavix given surgical evaluation\n   -no heparin as low suspicion for acute thrombosis as mechanism of\n   ischemia\n   -statin\n   -beta blocker\n   -holding ACE for now in setting of renal failure\n   .\n   # Acute on chronic diastolic congestive heart failure/worsened mitral\n   regurgitation: Echo shows new focal wall motion abnormalities and\n   worsened MR, likely of ischemic etiology. Currently hypervolemic.\n   -BP control/afterload reduction with beta blocker, amlodipine\n   -evaluation for CABG/MVR\n   -supplemental O2\n   -diurese with Lasix IV\n   -TEE in a.m. for better look at mitral valve\n   .\n   # Afib: Chronic, not on anticoagulation.\n   -telemetry\n   -K>4, Mg>2\n   -metoprolol for rate control\n   .\n   # Chronic kidney disease: Creatinine at baseline 1.5.\n   -renally dose meds\n   -avoid nephrotoxins\n   -trend creatinine\n   .\n   # Diarrhea: Concerning for infectious etiology in setting of recent\n   fever/chills. Ddx includes gut ischemia or gut edema from CHF.\n   -stool cultures; C. diff\n   -monitor fluid status\n   .\n   # Polymyalgia rheumatica:\n   -continue prednisone at home dose\n   .\n   # Anxiety/Depression:\n   -continue nortriptaline and Zyprexa at home dose\n   ICU Care\n   Nutrition: Low-Na diet. NPO after midnight for TEE.\n   Glycemic Control:\n   Lines: PIV's\n   Prophylaxis:\n   DVT: heparin SC\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments: healthcare proxy is son [**Name (NI) 821**] [**Name (NI) 1080**]\n   ([**Telephone/Fax (1) 11577**]\n   Code status: DNR/DNI, confirmed with patient\n   Disposition: CCU for now\n"
+    },
+    {
+      "note_id": 627166,
+      "category": "General",
+      "description": "CCU Fellow Admit Note",
+      "annotations": [
+        {
+          "begin": 122,
+          "end": 128,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "anemic"
+        },
+        {
+          "begin": 898,
+          "end": 902,
+          "code": "426.4",
+          "code_system": "ICD-9-CM",
+          "description": "Right bundle branch block",
+          "type": "MapType.APPROX",
+          "covered_text": "RBBB"
+        },
+        {
+          "begin": 1046,
+          "end": 1052,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myocardial infarction, subendocardial infarction, initial episode of care",
+          "type": "Human",
+          "covered_text": "NSTEMI"
+        }
+      ],
+      "text": "TITLE: CCU Fellow Admit Note\n   85F with PMR, dCHF admitted to [**Location (un) **] with diarrhea. Was orthostatic\n   and anemic. Transfused 1u prbc then developed CHF and dyspnea for which\n   she was treated with lasix. Then developed CP last night and was\n   started on IV ntg and heparin. Echo with new posterior wall HK and\n   posterior papillary muscle dysfunction with severe MR. Had slowly\n   increasing Troponin levels to 0.26 and was transferred to [**Hospital1 1**] for\n   cath. Cath today revealed diffuse 3vd and LVEDP of 29. Transferred to\n   CCU for further management.\n   97.6 129/54 69 18 96%NC\n   Comfortable, NAD\n   S1/s2 rrr\n   Crackles bilaterally on anterior auscultation\n   Abd soft nt/nd\n   2+dp no [**First Name7 (NamePattern1) **]\n   [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2172**] c/d/i\n   Labs: reviewed in OMR. Notable for wbc 13.7, Hct 29.4,\n   ECG: RBBB w/ inf T wave inversions\n   A/P: 85F with CAD, CHF, PMR admitted with diarrhea and with hospital\n   course complicated by CHF exacerbation and NSTEMI. Found to have 3vd.\n   CAD:\n   -[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] evaluation for ? of CABG and MVR\n   -no plavix pending csurg eval and c/f gi bleed\n   CHF:\n   -elevated LVEDP -> cont diuresis with IV lasix\n   Leukocytosis: infection > steroid related\n   -TEE to eval MR and r/o endocarditis\n   -f/u cx at OSH\n   -w/u of etiologies of diarrhea\n"
+    },
+    {
+      "note_id": 38672,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 259,
+          "end": 282,
+          "code": "37.22",
+          "code_system": "ICD-9-PCS",
+          "description": "Left heart cardiac catheterization",
+          "type": "MapType.APPROX",
+          "covered_text": "Cardiac catheterization"
+        },
+        {
+          "begin": 331,
+          "end": 353,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "description": "Polymyalgia rheumatica",
+          "type": "Human",
+          "covered_text": "polymyalgia rheumatica"
+        },
+        {
+          "begin": 2565,
+          "end": 2577,
+          "code": "404.91",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive heart and renal disease, unspecified, with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 2795,
+          "end": 2814,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial Fibrillation"
+        },
+        {
+          "begin": 2815,
+          "end": 2819,
+          "code": "274.9",
+          "code_system": "ICD-9-CM",
+          "description": "Gout, unspecified",
+          "type": "Human",
+          "covered_text": "Gout"
+        },
+        {
+          "begin": 3060,
+          "end": 3117,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "Tobacco history: quit 40 yrs ago; smoked 1 ppd x 30 years"
+        },
+        {
+          "begin": 7748,
+          "end": 7768,
+          "code": "404.91",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive heart and renal disease, unspecified, with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN, Afib, dCHF, CKD"
+        },
+        {
+          "begin": 7753,
+          "end": 7757,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Afib"
+        },
+        {
+          "begin": 7765,
+          "end": 7768,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CKD"
+        },
+        {
+          "begin": 8044,
+          "end": 8068,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary Artery Disease:"
+        },
+        {
+          "begin": 8753,
+          "end": 8782,
+          "code": "428.33",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, acute on chronic",
+          "type": "Human",
+          "covered_text": "Acute on Chronic Diastolic HF"
+        },
+        {
+          "begin": 8885,
+          "end": 8887,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "Human",
+          "covered_text": "MR"
+        },
+        {
+          "begin": 9929,
+          "end": 9940,
+          "code": "578.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hemorrhage of gastrointestinal tract, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "GI Bleeding"
+        },
+        {
+          "begin": 10103,
+          "end": 10108,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "MapType.APPROX",
+          "covered_text": "PRBCs"
+        },
+        {
+          "begin": 10193,
+          "end": 10202,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "description": "Dysphagia, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "dysphagia"
+        },
+        {
+          "begin": 10909,
+          "end": 10920,
+          "code": "790.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other abnormal glucose",
+          "type": "MapType.APPROX",
+          "covered_text": "Pre-Diabets"
+        },
+        {
+          "begin": 11079,
+          "end": 11102,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "Chronic Kidney Disease:"
+        },
+        {
+          "begin": 11269,
+          "end": 11277,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "description": "Diarrhea",
+          "type": "Human",
+          "covered_text": "Diarrhea"
+        },
+        {
+          "begin": 11683,
+          "end": 11705,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "description": "Polymyalgia rheumatica",
+          "type": "Human",
+          "covered_text": "Polymyalgia Rheumatica"
+        },
+        {
+          "begin": 11745,
+          "end": 11752,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 11753,
+          "end": 11763,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 14815,
+          "end": 14855,
+          "code": "428.33",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, acute on chronic",
+          "type": "Human",
+          "covered_text": "Acute on chronic diastolic heart failure"
+        },
+        {
+          "begin": 14856,
+          "end": 14865,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "Pneumonia"
+        },
+        {
+          "begin": 14866,
+          "end": 14889,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 14902,
+          "end": 14924,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "Chronic kidney disease"
+        },
+        {
+          "begin": 14925,
+          "end": 14946,
+          "code": "792.1",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal findings in stool contents",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Guaiac positive stool"
+        }
+      ],
+      "text": "Admission Date:  [**2161-2-16**]              Discharge Date:   [**2161-2-21**]\n\n\nService: MEDICINE\n\nAllergies:\nDemerol / Morphine / Hydrocodone / Codeine\n\nAttending:[**First Name3 (LF) 1711**]\nChief Complaint:\nS/p Fall\n\nMajor Surgical or Invasive Procedure:\nCardiac catheterization\n\n\nHistory of Present Illness:\n85 yo F with HTN, polymyalgia rheumatica, transferred from [**Hospital1 18**]\n[**Location (un) 620**] for cardiac catheterization. The patient was in her\nusual state of health until Wednesday [**2-11**], when she developed\nblack diarrhea, occuring 5 times daily. The patient attributes\nthe black color to her iron supplements. Along with diarrhea,\nthe patient also experienced 2 episodes of vomiting (clear, no\nblood or coffee grounds). The patient also had fever to as high\nas 100.6 on Friday [**2-13**] and Saturday [**2-14**].\n\nOn Sunday [**2-15**], the patient became lightheaded when getting up\nfrom the toilet and fell, hitting her head and right elbow. She\npresented to [**Hospital1 18**] [**Location (un) 620**], where head and c-spine CT were\nnegative. She developed chest pain after admission, relieved\nwith metoprolol and nitroglycerin. She received 1 unit of RBCs\nfor Hct 27, and became short of breath. She was given 40mg IV\nlasix and diuresed 500cc. She ruled in for MI with third set of\ntroponins peaking at 0.26. She was transferred to [**Hospital1 18**] for\ncardiac catheterization on 100% non-rebreather and a heparin\ngtt. Of note, pt was guaiac positive on admission.\n\nOn arrival to [**Hospital1 18**], the patient was taken to the cardiac\ncatherization lab, where she was found to have severe 3-vessel\ndisease and an elevated LVEDP (see below for details). She was\ntransferred to the CCU on a non-rebreather for further\nmanagement. In the CCU, the patient was weaned to a\nnon-rebreather. She reported that her breathing was improved and\nhad no other complaints.\n\nOn review of systems, she denies any prior history of stroke,\nTIA, deep venous thrombosis, pulmonary embolism, cough,\nhemoptysis, or red stools. She denies recent fevers, chills or\nrigors. She denies exertional buttock or calf pain. She denies\nsore throat, sinus congestion, dysuria. She denies weakness,\ntingling, or numbness. All of the other review of systems were\nnegative.\n\nCardiac review of systems is notable for chest pain and\nlightheadedness as above and two pillow orthopnea. No syncope.\nThe patient reports a recent decrease in exercise tolerance from\n100 feet on a flat surface to 50 feet on a flat surface.\n\nPast Medical History:\n1. CARDIAC RISK FACTORS: +Hypertension\n2. CARDIAC HISTORY:\n-CABG: none\n-PERCUTANEOUS CORONARY INTERVENTIONS: none\n-PACING/ICD: none\n3. OTHER PAST MEDICAL HISTORY:\nHypertension\nDiastolic CHF\nChronic Kidney Disease (Baseline 1.5-1.7)\nRight BBB\nMRSA in nares\nAtrial Fibrillation\nGout\nCellulitus\nPolymyalgia Rheumatica\nDiverticulosis\nDepression and Anxiety\nS/p cholecystecomty/appendectomy\nS/p tonsillectomy\nS/p surgery for anal fissure\n\nSocial History:\nRetired. Worked as secretary. Lives alone at [**Location (un) 582**].\n-Tobacco history: quit 40 yrs ago; smoked 1 ppd x 30 years\n-ETOH: denies\n-Illicit drugs: denies\n\nFamily History:\nFather with stroke at 68. Mother with MI at 65. Two brothers\nwith HTN. Had 4 children (one died).\n\nPhysical Exam:\n(Per Admitting Resident)\nVS: T=97.5 BP=129/54 HR=69 RR=18 O2 sat=96%/6L\nGENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.\nHEENT: NCAT. Sclera anicteric. PERRL, EOMI.\nCARDIAC: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3\nor S4.\nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp\nwere unlabored, no accessory muscle use. CTA anteriorly (could\nnot sit up due to recent cath).\nABDOMEN: Soft, NTND. No HSM or tenderness.\nEXTREMITIES: No c/c/e. No femoral bruits.\nSKIN: No stasis dermatitis, ulcers, or xanthomas.\nPULSES:\nRight: Radial 2+ DP 2+ PT 2+\nLeft: Radial 2+ DP 2+ PT 2+\n\nPertinent Results:\nAdmission Labs\n[**2161-2-16**] 05:30PM BLOOD WBC-13.7* RBC-3.60* Hgb-9.7* Hct-29.4*\nMCV-82 MCH-27.0 MCHC-33.0 RDW-14.9 Plt Ct-311\n[**2161-2-16**] 05:30PM BLOOD Neuts-92.2* Lymphs-5.4* Monos-2.1 Eos-0.3\nBaso-0\n[**2161-2-16**] 11:01PM BLOOD PT-12.0 PTT-26.0 INR(PT)-1.0\n[**2161-2-16**] 11:01PM BLOOD Glucose-174* UreaN-31* Creat-1.5* Na-141\nK-3.3 Cl-105 HCO3-22 AnGap-17\n[**2161-2-16**] 11:01PM BLOOD CK(CPK)-110\n[**2161-2-16**] 11:01PM BLOOD CK-MB-3 cTropnT-0.14*\n[**2161-2-16**] 11:01PM BLOOD Calcium-8.6 Phos-4.3 Mg-1.9\n[**2161-2-16**] 05:33PM BLOOD Type-ART O2 Flow-15 pO2-75* pCO2-34*\npH-7.46* calTCO2-25 Base XS-0 Intubat-NOT INTUBA\n\nDischarge Labs\n[**2161-2-21**] 05:42AM BLOOD WBC-14.9* RBC-3.43* Hgb-9.8* Hct-29.3*\nMCV-86 MCH-28.4 MCHC-33.2 RDW-15.2 Plt Ct-360\n[**2161-2-21**] 05:42AM BLOOD PT-12.1 PTT-25.7 INR(PT)-1.0\n[**2161-2-21**] 05:42AM BLOOD Glucose-103* UreaN-36* Creat-1.4* Na-139\nK-4.2 Cl-98 HCO3-32 AnGap-13\n[**2161-2-21**] 05:42AM BLOOD Calcium-8.8 Phos-2.2* Mg-2.1\n[**2161-2-18**] 04:05AM BLOOD %HbA1c-6.1* eAG-128*\n\nCXR ([**2161-2-18**]) - The size of the cardiac silhouette is at the\nupper range of normal, there is no evidence for overt pulmonary\nedema. In the right upper lobe as well as in the entire left\nlung, the interstitial markings are increased, there are patchy\nareas of opacities, that are ill-defined and distributed in a\nmainly peribronchial pattern. In addition, a small left basilar\natelectasis and a small left pleural effusion is seen. Overall,\nthe morphology and distribution of the changes suggests\nmultifocal pneumonia rather than pulmonary edema. No evidence of\nright basal changes, no evidence of right-sided pleural\neffusion.\n\nCXR ([**2161-2-20**]) - In comparison with study of [**2-18**], there has been\nplacement of left subclavian PICC line extends to the mid\nportion of the SVC. There has been some decrease in the\nbilateral patchy areas of opacification, most likely consistent\nwith improving pneumonia.\n\nCardiac Cath ([**2161-2-16**]) -\n1. Coronary angiography in this right dominant system\ndemonstrated severe three vessel CAD. The LCx was the least\nstenosed and there was no obvious single culprit stenosis. The\nLMCA had distal calcification with a hazy 30% stenosis. The LAD\nwas heavily calcified with diffuse disease throughout with\nserial 60% stenoses just before a major D4 with a distal 85%\nstenosis and an 80% apical stenosis. There was a high D1,\nfunctionally a large septal branch which was patent. A large D2\nand D4 were also patent. The LCx was tortuous proximally with\nslow flow and mild diffuse disease in the AV groove LCx. OM\nbranch had a proximal 50% stenosis with a tortuous upper pole\nand mild diffuse disease in the lower pole. The distal AV groove\nLCx supplied collaterals to the distal RCA system. The RCA was\nheavily calcified with a 40% ostial stenosis without pressure\ndampening. There was proximal diffuse disease up to 75% and\ndistal diffuse disease before the RPDA up to 45%.  There was\nmoderate diffuse disease throughout the RPDA with severe diffuse\ndisease in the distal AV groove RCA supplying the RPLs with slow\nflow (? severe disease vs. competitive flow from collaterals).\nSeptal collaterals from the LAD fill the RPDA.\n2. Limited resting hemodynamics revealed mildly elevated RA\npressure\nwith a mean RAP of 9 mmHg. There was severely elevated left\nsided filling pressures with an LVEDP of 29 mmHg. There was\nmoderate systemic arterial systolic hypertension with an SBP of\n160 mmHg. No cardiac index could be calculated as unable to\nfloat PWP catheter beyond RA.\n3. Modest hypoxemia (O2 sat 93% on 15L NRB mask) improved to 96%\nwith the addition of 2L via nasal cannula arguing against\nsignificant shunt physiology.\nFINAL DIAGNOSIS:\n1. Severe three vessel CAD.\n2. Severe left ventricular diastolic dysfunction.\n\nBrief Hospital Course:\n85 yo F with HTN, Afib, dCHF, CKD, h/o guaiac-positive stools,\ntransferred from [**Hospital1 **] [**Location (un) 620**] for cardiac catheterization in the\nsetting of elevated cardiac enzymes, new focal wall motion\nabnormalities, and worsened MR. [**Name13 (STitle) **] to have extensive 3-vessel\ndisease.\n\n# Coronary Artery Disease: Pt noted to have a troponin leak at\nan OSH, with peak of 0.26. Was transferred to [**Hospital1 18**] for cardiac\ncatheterization, which revealed three-vessel disease. Given\nthis, pt is a poor candidate for PCI. After much discussion, pt\ndecided that she would not want cardiac surgery. [**Hospital 49578**]\nmedical management was pursued. During her hospitalization, she\nexperienced episodes of chest discomfort, particularly at night.\nShe did not exhibit any ECG changes during these episodes. Her\nmetoprolol was uptitrated, and she was started on a long-acting\nnitrate for further antianginal activity. By the time of\ndischarge, she had been free of chest pain for several days.\n\n# Acute on Chronic Diastolic HF / Worsened Ritral Regurgitation:\nEcho at OSH showing new focal wall motion abnormalities and\nworsened MR, likely of ischemic etiology. On presentation, she\nwas thought to be hypervolemic. Metoprolol and amlodipine were\ntirated for optimum BP control / afterload reduction. The option\nof mitral valvular surgery was addressed, but the patient was\nnot interested in cardiac surgery. She was diuresed with bolus\nIV lasix, which was converted to PO lasix prior to discharge.\n\n# Pneumonia: CXR performed on [**2161-2-18**] was suspicious for\nmultifocal pneumonia. Pt was initially started on broad-spectrum\ncoverage with vancomycin, cefepime, levofloxacin. She was noted\nto spike a fever on the night of [**2161-2-18**]; however, she remained\nafebrile after that. She did also have a leukocytosis throughout\nher hospitalization, which was improving at the time of\ndischarge. On [**2161-2-20**], her antibiotics were narrowed to\nlevofloxacin, as she had no positive cultures and appeared\nimproved clinically. Of note, at the time of discharge, she did\ncontinue to have an oxygen requirement, which was likely\nmultifactorial in etiology (see below).\n\n# GI Bleeding: The patient was noted to have guaiac positive\nstools during her hospitalization. She did have one episode of a\nhematocrit drop, for which she received a unit of PRBCs. Her\nhematocrit remained stable after that. She also complained of\nsome episodes of dysphagia, with food getting \"stuck\" in her\nthroat. She states that this has been occuring for some time.\nShe was seen by GI for both of these issues. Further evaluation\nwith a barium swallow was recommended as an outpatient. Further\nwork-up of her GI bleeding should also be pursued as an\noutpatient. Of note, in the setting of this GI bleeding, her\naspirin dose was decreased and her PPI dose was increased. Her\niron was also discontinued.\n\n# Oxygen Requirment: Likely multifactorial in the setting of the\npatient's pneumonia and severe MR. Treatment as above.\n\n# Positive Blood Cx: One blood cx positive for GPR's. Likely a\ncontaminant. Speciation pending and not further cultures\npositive at the time of d/c.\n\n# Pre-Diabets: Pt was noted to have elevated blood sugars in the\nCCU. A1C was 6.1, consistent with pre-diabetic state. This\nshould be further followed as an outpatient.\n\n# Chronic Kidney Disease: Baseline creatinine 1.5 to 1.7. The\npatient remained at her baseline throughout the hospitalization.\nACE inhibitors was held in the setting of her kidney disease.\n\n# Diarrhea: Pt presented with some recent diarrhea in the\nsetting of recent fever and chills. Stool cultures were sent,\nincluding C.diff, and were negative. Her diarrhea improved.\n\n# Vitamin D Repletion: Pt's previous vitamin D regimen was not\nentirely clear. She is being discharged on 1000 units of Vitamin\nD3 daily. This may be adjusted as an outpatient if more\nsignificant vitamin supplementation is desired.\n\n# Polymyalgia Rheumatica: Continued on home prednisone dose.\n\n# Anxiety/Depression: Continued on nortriptyline and zyprexa at\nhome dose.\n\nMedications on Admission:\nAtivan 0.5 mg daily PRN\nTylenol 650 mg Q4H PRN\nProchlorperidzine 10 mg Q6H PRN\nLidoderm 5% patch apply to left hip for 12 hours on 12 hours off\nNorvasc 5 mg daily\nPrilosec 20 mg daily\nNortriptyline 10 mg daily\nMetoprolol ER 100 mg daily\nVitamin D 50,000 units weekly for 4 weeks, then monthy\nprednisone 10 mg daily\nDrisdol once a month\nferrous sulfate 325 mg [**Hospital1 **]\nTylenol 1000 mg PO BID\nCalcium carbonate 500 mg TID\nacidophilus 1 capsule [**Hospital1 **]\nZyprexa 5 mg daily\nTrazodone 12.5 mg PO QHS\nSenna 1 tab [**Hospital1 **]\n\nDischarge Medications:\n1. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for Constipation.\n2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n3. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every\n6 hours) as needed for pain.\n4. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO\nQ8H (every 8 hours) as needed for nausea .\n5. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:\nOne (1)  Topical once a day: to right hip, 12 hrs on, 12 hrs\noff.\n6. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n7. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO once a day.\n8. Nortriptyline 10 mg Capsule Sig: One (1) Capsule PO HS (at\nbedtime).\n9. Metoprolol Succinate 200 mg Tablet Sustained Release 24 hr\nSig: One (1) Tablet Sustained Release 24 hr PO once a day: total\ndose = 225mg/day.\n10. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr\nSig: One (1) Tablet Sustained Release 24 hr PO once a day: total\ndose = 225mg/day.\n11. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n12. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)\nTablet, Chewable PO TID (3 times a day).\n13. Cholecalciferol (Vitamin D3) 1,000 unit Tablet Sig: One (1)\nTablet PO once a day.\n14. Acidophilus     Capsule Sig: One (1) Capsule PO twice a day.\n\n15. Olanzapine 5 mg Tablet Sig: One (1) Tablet PO once a day.\n16. Trazodone 50 mg Tablet Sig: 0.25 Tablet PO HS (at bedtime)\nas needed for insomnia.\n17. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n18. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,\nSublingual Sublingual x3 as needed for CP : Up to three doses\nseparated by 5 min. If not resolved after three, call physician.\n\n19. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H\n(every 24 hours) for 4 days: Start [**2-22**] am.\n20. Alum-Mag Hydroxide-Simeth 200-200-20 mg/5 mL Suspension Sig:\n15-30 MLs PO QID (4 times a day) as needed for reflux.\n21. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr\nSig: Three (3) Tablet Sustained Release 24 hr PO DAILY (Daily).\n\n22. Aspirin 81 mg Tablet, Chewable Sig: Two (2) Tablet, Chewable\nPO DAILY (Daily).\n23. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Location (un) 582**] Of [**Location (un) 620**]\n\nDischarge Diagnosis:\nPrimary:\nAcute on chronic diastolic heart failure\nPneumonia\nCoronary artery disease\n\nSecondary:\nChronic kidney disease\nGuaiac positive stool\n\n\nDischarge Condition:\nMental Status: Clear and coherent\nLevel of Consciousness: Alert and interactive\nActivity Status: Out of Bed with assistance\n\n\nDischarge Instructions:\nYou were admitted to [**Hospital1 18**] for a heart catheterization to\nevaluate for coronary disease. We found disease in all 3 blood\nvessels as well as a leaky mitral valve. You declined to have\nheart surgery to repair these problems. We removed extra fluid\nwith medications called diuretics and treated you for a\npneumonia.\n\nPlease take all medications as prescribed. We have made the\nfollowing medication changes:\nSTOPPED:\nLorazepam (Ativan)\nFerrous sulfate (iron)\n\nCHANGED:\nIncreased metoprolol succinate to 225mg daily\nVitamin D to 1000 units daily\n\nSTARTED:\nAtorvastatin for cholesterol\nLevofloxacin for 4 days (antibiotic for pneumonia)\nIsosorbide mononitrate for chest pain\nAspirin for blood thinning\nFurosemide to prevent fluid buildup\n\nWeigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more\nthan 3 lbs.\n\nFollowup Instructions:\nPlease follow up with the physician at your nursing facility.\n\nPlease call [**Telephone/Fax (1) 62**] on Monday to set up a follow up\nappointment for 2-3 weeks with one of our cardiologists.\n\n\n\n"
+    },
+    {
+      "note_id": 627614,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 5344,
+          "end": 5353,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypoxemia"
+        },
+        {
+          "begin": 6169,
+          "end": 6189,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "Human",
+          "covered_text": "mitral regurgitation"
+        },
+        {
+          "begin": 6689,
+          "end": 6693,
+          "code": "427.61",
+          "code_system": "ICD-9-CM",
+          "description": "Supraventricular premature beats",
+          "type": "MapType.EXACT",
+          "covered_text": "PACs"
+        },
+        {
+          "begin": 7476,
+          "end": 7479,
+          "code": "V49.86",
+          "code_system": "ICD-9-CM",
+          "description": "Do not resuscitate status",
+          "type": "MapType.EXACT",
+          "covered_text": "DNR"
+        }
+      ],
+      "text": "Chief Complaint:\n   24 Hour Events:\n EKG - At [**2161-2-18**] 09:15 PM\n BLOOD CULTURED - At [**2161-2-18**] 11:50 PM\n   Temp spike 102.9PO\n FEVER - 102.9\nF - [**2161-2-18**] 11:00 PM\n   Overnight Events:\n   - started on long-acting nitrate\n   - passed by speech and swallow\n   - had an episode of food \"getting stuck\" in esophagus while eating\n   dinner with regurgitation of partially digested food\n   - started on broad specturm abx (vanc/cef/levo) for ?multifocal PNA\n   - A1C showed borderline DM, started ISS\n   - had a large, black, guaiac positive stool\n   - had more chest pain overnight - did not respond to NTGx3; increased\n   metoprolol and gave zyprexa - pain returned about 1 hour later; gave 1\n   NTG - pain became \"tolerable\" at that point\n   - ordered PICC b/c pt will need abx and is a very difficult stick\n   - spiked a temp to 102.9\n   - 5 point hematocrit drop - wrote for 1 unit of PRBCs and 20 mg IV\n   lasix\n   Allergies:\n   Demerol (Oral) (Meperidine Hcl)\n   Nausea/Vomiting\n   Morphine\n   Nausea/Vomiting\n   Hydrocodone\n   Nausea/Vomiting\n   Codeine\n   Nausea/Vomiting\n   Last dose of Antibiotics:\n   Levofloxacin - [**2161-2-18**] 12:30 PM\n   Vancomycin - [**2161-2-18**] 03:58 PM\n   Infusions:\n   Other ICU medications:\n   Pantoprazole (Protonix) - [**2161-2-18**] 08:00 AM\n   Heparin Sodium (Prophylaxis) - [**2161-2-18**] 10:00 PM\n   Furosemide (Lasix) - [**2161-2-19**] 06:20 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2161-2-19**] 07:26 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since [**62**] AM\n   Tmax: 39.4\nC (102.9\n   Tcurrent: 36.9\nC (98.5\n   HR: 69 (66 - 111) bpm\n   BP: 118/47(64) {101/34(51) - 155/91(99)} mmHg\n   RR: 26 (14 - 38) insp/min\n   SpO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 70 kg (admission): 70.3 kg\n   Height: 67 Inch\n                  Total In:\n                                                                  1,270 mL\n                                                                     60 mL\n   PO:\n                                                                  1,020 mL\n                                                                     60 mL\n   TF:\n   IVF:\n                                                                    250 mL\n   Blood products:\n   Total out:\n                                                                  2,215 mL\n                                                                    791 mL\n   Urine:\n                                                                  2,215 mL\n                                                                    791 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                   -945 mL\n                                                                   -731 mL\n   Respiratory support\n   O2 Delivery Device: Non-rebreather\n   SpO2: 98%\n   ABG: ///28/\n   Physical Examination\n   General: Alert. NAD.\n   HEENT: Periorbital echymosis of right eye.\n   CV: RRR. Normal S1 and S2. No m/r/g appreciated over respiratory\n   sounds.\n   Lungs: Dependent crackles noted.\n   Abd: Soft. NT/ND.\n   Ext: WWP. DP pulses 2+ bilaterally. No edema.\n   Labs / Radiology\n   276 K/uL\n   8.4 g/dL\n   121 mg/dL\n   1.6 mg/dL\n   28 mEq/L\n   4.2 mEq/L\n   34 mg/dL\n   100 mEq/L\n   137 mEq/L\n   25.8 %\n   21.0 K/uL\n        [image002.jpg]\n                             [**2161-2-16**]  11:01 PM\n                             [**2161-2-17**]  06:37 AM\n                             [**2161-2-17**]  10:00 AM\n                             [**2161-2-18**]  04:05 AM\n                             [**2161-2-18**]  02:50 PM\n                             [**2161-2-19**]  04:30 AM\n                             [**2161-2-19**]  05:07 AM\n   WBC\n   15.0\n   13.7\n   19.2\n   13.8\n   18.9\n   21.0\n   Hct\n   29.4\n   28.4\n   28.3\n   30.1\n   24.9\n   25.8\n   Plt\n   300\n   198\n   327\n   329\n   272\n   276\n   Cr\n   1.5\n   1.5\n   1.6\n   1.7\n   1.6\n   TropT\n   0.14\n   Glucose\n   174\n   102\n   119\n   186\n   121\n   Other labs: PT / PTT / INR:12.7/32.8/1.1, CK / CKMB /\n   Troponin-T:110/3/0.14, Differential-Neuts:92.8 %, Lymph:4.0 %, Mono:2.9\n   %, Eos:0.2 %, Ca++:8.3 mg/dL, Mg++:2.5 mg/dL, PO4:2.1 mg/dL\n   Assessment and Plan\n   85 yo F with HTN, dCHF, CKD, h/o guaiac-positive stools, transferred\n   from [**Hospital1 **] [**Location (un) 78**] for cardiac catheterization in the setting of elevated\n   cardiac enzymes, new focal wall motion abnormalities, and worsened MR.\n   [**Name13 (STitle) **] to have 3-vessel disease.\n   .\n   # Chest pain: Patient has recurrent chest pain that is not completely\n   responsive to NTG. Etiology unclear: cardiac vs. related to pt\ns PNA\n   vs. related to dysphagia. Of note, pt was started on long-acting\n   nitrate yesterday in an effort to better control her pain. Also,\n   increased metprolol overnight.\n   - continue metoprolol\n   - increase imdur to 90 mg daily; consider giving dose at bedtime\n   because pt seems to develop her chest discomfort at night\n   - continue PRN ntg\n   - consider further GI evaluation for potential dysphagia (see below)\n   .\n   # Hypoxemia: Pt will on NC and intermittently requiring NRB. Her\n   hypoxemia likely multifactorial, related to mitral regurgitation (4+ on\n   recent echo) and pneumonia (CXR shows multifocal pneumonia).\n   - f/u pending blood cultures and send second set prior to antibiotics\n   - continue antibiotics for HAP: vancomycin, cefepime, levofloxacin (day\n   1 = [**2161-2-18**])\n   - treat heart failure/mitral regurgitation with diruesis and BP control\n   - wean O2 as tolerated\n   .\n   .\n   # NSTEMI: Troponin peaked at 0.26. Cath shows 3-vessel disease. Poor\n   candidate for PCI given 3VD and history of GI bleeding. Patient does\n   not want CABG.\n   -ASA\n   -no Plavix given guaiac positive stools\n   -statin\n   -metoprolol\n   -Imdur\n   -holding ACE for now; will consider adding if BP not control\n   .\n   # Acute on chronic mitral regurgitation/heart failure: Echo shows new\n   focal wall motion abnormalities and worsened MR, likely of ischemic\n   etiology. Endocarditis less likely given blood cultures negative to\n   date. Patient does not want valve surgery. Currently euvolemic to\n   hypervolemic.\n   -BP control with beta blocker, amlodipine, and Imdur\n   -supplemental O2\n   -diurese with IV Lasix (goal negative 2 liters today, already negative\n   1 liter)\n   -f/u pending blood cultures\n   .\n   # Rhythm: In sinus rhythm with frequent PACs. Unclear history of Afib.\n   Not on anticoagulation.\n   -telemetry\n   -K>4, Mg>2\n   .\n   # Chronic kidney disease: Creatinine at baseline.\n   -renally dose meds\n   -avoid nephrotoxins\n   -trend creatinine\n   .\n   # Diarrhea: Possible infectious etiology in setting of recent\n   fever/chills. Ddx includes gut ischemia or gut edema from CHF. C. diff\n   negative.\n   -f/u pending stool cultures\n   .\n   # Polymyalgia rheumatica:\n   -continue prednisone at home dose\n   .\n   # Anxiety/Depression:\n   -continue nortriptaline and Zyprexa at home dose\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Comments: ISS\n   Lines:\n   20 Gauge - [**2161-2-18**] 02:30 PM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: DNR / DNI\n   Disposition:ICU\n"
+    },
+    {
+      "note_id": 627442,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 4296,
+          "end": 4305,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypoxemia"
+        }
+      ],
+      "text": "TITLE: Physician Resident Progress Note\n   Chief Complaint:\n   24 Hour Events:\n   - Had CPx2. No EKG changes. Maalox no help. Resolved with SL NTG X2\n   overnight. then x2 + 10mg isosorbide mononitrate only dropped pain from\n   10 to 7 so increased imdur to 20mg. Developed 02 requirement after\n   midnight, on 6L non rebreather. CXR done.- Uptitrated metoprolol for\n   better BP control. Added back home amlodipine.Got am antihypertensives\n   early as HTN and tachy.\n   - Does not want C-surgery\n   - F/U OSH blood cx -no growth\n   - f/u stool Cx, c.diff- pending.\n   - f/u fluid status/if having diarrhea\n   - got lasix 20 IV x 2, goal -ve 1\n   - Written for 20 mg Lasix daily for severe MR\n   - Called out but no bed available.\n   - PT consult in.\n   Allergies:\n   Demerol (Oral) (Meperidine Hcl)\n   Nausea/Vomiting\n   Morphine\n   Nausea/Vomiting\n   Hydrocodone\n   Nausea/Vomiting\n   Codeine\n   Nausea/Vomiting\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2161-2-17**] 10:00 PM\n   Furosemide (Lasix) - [**2161-2-18**] 02:30 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2161-2-18**] 06:47 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since [**62**] AM\n   Tmax: 37.2\nC (98.9\n   Tcurrent: 37\nC (98.6\n   HR: 126 (63 - 126) bpm\n   BP: 164/114(127) {109/43(63) - 178/114(127)} mmHg\n   RR: 25 (16 - 31) insp/min\n   SpO2: 97%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 70 kg (admission): 70.3 kg\n   Height: 67 Inch\n                  Total In:\n                                                                    986 mL\n                                                                    180 mL\n   PO:\n                                                                    930 mL\n                                                                    180 mL\n   TF:\n   IVF:\n                                                                     56 mL\n   Blood products:\n   Total out:\n                                                                  1,462 mL\n                                                                  1,075 mL\n   Urine:\n                                                                  1,462 mL\n                                                                  1,075 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                   -476 mL\n                                                                   -895 mL\n   Respiratory support\n   O2 Delivery Device: Non-rebreather\n   SpO2: 97%\n   ABG: ///27/\n   Physical Examination\n   General: NAD.\n   HEENT: Periorbital echymosis of right eye. PERRL. EOMI.\n   CV: RRR. Normal s1 and s2. I/VI HSM at apex.\n   Lungs: Basilar rales.\n   Abd: Soft. NT/ND.\n   Ext: WWP. No femoral bruits. DP and PT pulses 2+ bilaterally. No\n   edema.  Right groin site with clean dressing in place and no hematoma.\n   Neuro: A+Ox3.\n   Labs / Radiology\n   329 K/uL\n   10.0 g/dL\n   119 mg/dL\n   1.6 mg/dL\n   27 mEq/L\n   4.0 mEq/L\n   36 mg/dL\n   104 mEq/L\n   142 mEq/L\n   30.1 %\n   13.8 K/uL\n        [image002.jpg]\n                             [**2161-2-16**]  11:01 PM\n                             [**2161-2-17**]  06:37 AM\n                             [**2161-2-17**]  10:00 AM\n                             [**2161-2-18**]  04:05 AM\n   WBC\n   15.0\n   13.7\n   19.2\n   13.8\n   Hct\n   29.4\n   28.4\n   28.3\n   30.1\n   Plt\n   300\n   198\n   327\n   329\n   Cr\n   1.5\n   1.5\n   1.6\n   TropT\n   0.14\n   Glucose\n   174\n   102\n   119\n   Other labs: PT / PTT / INR:11.7/24.6/1.0, CK / CKMB /\n   Troponin-T:110/3/0.14, Differential-Neuts:92.8 %, Lymph:4.0 %, Mono:2.9\n   %, Eos:0.2 %, Ca++:8.4 mg/dL, Mg++:2.2 mg/dL, PO4:2.6 mg/dL\n   Assessment and Plan\n   85 yo F with HTN, dCHF, CKD, h/o guaiac-positive stools, transferred\n   from [**Hospital1 **] [**Location (un) 78**] for cardiac catheterization in the setting of elevated\n   cardiac enzymes, new focal wall motion abnormalities, and worsened MR.\n   [**Name13 (STitle) **] to have 3-vessel disease.\n   .\n   # Hypoxemia: Patient satting 90% on 6L NC, mid 90s on non-rebreather.\n   Her hypoxemia is multifactorial, related to mitral regurgitation (4+ on\n   recent echo) and pneumonia (CXR shows multifocal pneumonia).\n   -f/u pending blood cultures and send second set prior to antibiotics\n   -antibiotics for HAP: vancomycin, cefepime, levofloxacin (day 1 =\n   [**2161-2-18**])\n   -treat heart failure/mitral regurgitation with diruesis and BP control,\n   as below\n   .\n   # Chest pain: Patient has recurrent chest pain responsive to NTG. Will\n   need to manage medically as the patient does not want CABG and her\n   coronary anatomy is not amenable to PCI.\n   -Increase metoprolol to 50 mg TID\n   -Imdur 60 mg daily\n   -nitro PRN\n   -identify and treat non-cardiac causes of chest pain (i.e. GERD)\n   .\n   # NSTEMI: Troponin peaked at 0.26. Cath shows 3-vessel disease. Poor\n   candidate for PCI given 3VD and history of GI bleeding. Patient does\n   not want CABG.\n   -ASA\n   -no Plavix given guaiac positive stools\n   -statin\n   -metoprolol\n   -Imdur\n   -holding ACE for now; will consider adding if BP not control\n   .\n   # Acute on chronic mitral regurgitation/heart failure: Echo shows new\n   focal wall motion abnormalities and worsened MR, likely of ischemic\n   etiology. Endocarditis less likely given blood cultures negative to\n   date. Patient does not want valve surgery. Currently euvolemic to\n   hypervolemic.\n   -BP control with beta blocker, amlodipine, and Imdur\n   -supplemental O2\n   -diurese with IV Lasix (goal negative 2 liters today, already negative\n   1 liter)\n   -f/u pending blood cultures\n   .\n   # Rhythm: In sinus rhythm with frequent PACs. Unclear history of Afib.\n   Not on anticoagulation.\n   -telemetry\n   -K>4, Mg>2\n   .\n   # Chronic kidney disease: Creatinine at baseline.\n   -renally dose meds\n   -avoid nephrotoxins\n   -trend creatinine\n   .\n   # Diarrhea: Possible infectious etiology in setting of recent\n   fever/chills. Ddx includes gut ischemia or gut edema from CHF. C. diff\n   negative.\n   -f/u pending stool cultures\n   .\n   # Polymyalgia rheumatica:\n   -continue prednisone at home dose\n   .\n   # Anxiety/Depression:\n   -continue nortriptaline and Zyprexa at home dose\n   ICU Care\n   Nutrition: Low-Na diet\n   Glycemic Control:\n   Lines:\n   22 Gauge - [**2161-2-17**] 05:00 PM\n   Prophylaxis:\n   DVT: heparin SC\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments: healthcare proxy is son [**Name (NI) 821**] [**Name (NI) 1080**]\n   ([**Telephone/Fax (1) 11577**]\n   Code status: DNR / DNI\n   Disposition: CCU for now\n"
+    }
+  ]
+}

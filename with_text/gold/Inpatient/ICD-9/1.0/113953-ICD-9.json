@@ -1,0 +1,84 @@
+{
+  "hadm_id": 113953,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 418865,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 2944,
+          "end": 2952,
+          "code": "276.2",
+          "code_system": "ICD-9-CM",
+          "description": "Acidosis",
+          "type": "MapType.EXACT",
+          "covered_text": "acidosis"
+        }
+      ],
+      "text": "CVICU\n   HPI: POD#0 s/p L axillary aplasty, covered stent, L brachial artery\n   cutdown with vein patch aplasty [**9-15**]\n   66F s/p fall with L arm in anterior extension, development of\n   axillary/chest wall hematoma. At OSH, surgeon unroofed the clot to\n   exposed a posterior branch of axillary artery, couldn't gain control.\n   24 Hour Events:\n INVASIVE VENTILATION - START [**2109-9-15**] 04:18 AM\n ARTERIAL LINE - START [**2109-9-15**] 04:23 AM\n MULTI LUMEN - START [**2109-9-15**] 04:25 AM\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Phenylephrine - 2 mcg/Kg/min\n   Propofol - 30 mcg/Kg/min\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2109-9-15**] 06:00 AM\n   Other medications:\n   Flowsheet Data as of  [**2109-9-15**] 07:37 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**12**] a.m.\n   Tmax: 36.2\nC (97.1\n   T current: 36.2\nC (97.1\n   HR: 91 (82 - 104) bpm\n   BP: 94/56(67) {86/49(59) - 112/64(77)} mmHg\n   RR: 0 (0 - 27) insp/min\n   SPO2: 95%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 62 Inch\n            Total In:\n            7,486 mL\n   PO:\n            Tube feeding:\n   IV Fluid:\n   5,386 mL\n   Blood products:\n   2,100 mL\n   Total out:\n                                                                      0 mL\n                                                                  2,090 mL\n   Urine:\n   90 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  5,396 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 500 (500 - 500) mL\n   RR (Set): 18\n   RR (Spontaneous): 0\n   PEEP: 5 cmH2O\n   FiO2: 50%\n   PIP: 28 cmH2O\n   Plateau: 24 cmH2O\n   Compliance: 26.3 cmH2O/mL\n   SPO2: 95%\n   ABG: 7.34/37/196/20/-5\n   Ve: 7.4 L/min\n   PaO2 / FiO2: 392\n   Labs / Radiology\n   102 K/uL\n   13.0 g/dL\n   218 mg/dL\n   0.5 mg/dL\n   20 mEq/L\n   5.6 mEq/L\n   19 mg/dL\n   109 mEq/L\n   138 mEq/L\n   36.0 %\n   18.3 K/uL\n        [image002.jpg]\n                            [**2109-9-15**]  02:27 AM\n                            [**2109-9-15**]  04:35 AM\n                            [**2109-9-15**]  04:44 AM\n                            [**2109-9-15**]  06:32 AM\n   WBC\n   18.3\n   Hct\n   34\n   36.0\n   Plt\n   102\n   Creatinine\n   0.5\n   Troponin T\n   0.03\n   TCO2\n   23\n   22\n   21\n   Glucose\n   [**Telephone/Fax (3) 2631**]18\n   Other labs: PT / PTT / INR:15.1/115.9/1.3, CK / CK-MB / Troponin\n   T:114/7/0.03, Lactic Acid:4.5 mmol/L, Ca:7.9 mg/dL, Mg:1.4 mg/dL,\n   PO4:5.5 mg/dL\n   Assessment and Plan\n   Minimize sedation.\n   Follow Urine output, CVP and ABG/Lactate to assess volume status, may\n   need more crystalloid.\n   If Lactic acidosis and urine output improve, wean vent to Pressure\n   support ventilation.\n   Cont H2-Blocker and Pneumoboots for prophylaxis.\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   Arterial Line - [**2109-9-15**] 04:23 AM\n   Multi Lumen - [**2109-9-15**] 04:25 AM\n   18 Gauge - [**2109-9-15**] 04:26 AM\n"
+    },
+    {
+      "note_id": 34881,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 693,
+          "end": 697,
+          "code": "E888.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified fall",
+          "type": "MapType.APPROX",
+          "covered_text": "fell"
+        },
+        {
+          "begin": 4461,
+          "end": 4483,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "Human",
+          "covered_text": "packed red\nblood cells"
+        },
+        {
+          "begin": 4499,
+          "end": 4502,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "Human",
+          "covered_text": "FFP"
+        },
+        {
+          "begin": 6466,
+          "end": 6501,
+          "code": "903.01",
+          "code_system": "ICD-9-CM",
+          "description": "Injury to axillary artery",
+          "type": "MapType.APPROX",
+          "covered_text": "Laceration or Right axillary artery"
+        }
+      ],
+      "text": "Admission Date:  [**2109-9-15**]              Discharge Date:   [**2109-9-18**]\n\nDate of Birth:  [**2042-10-23**]             Sex:   F\n\nService: SURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 2777**]\nChief Complaint:\nLacerated axillary artery\n\nMajor Surgical or Invasive Procedure:\nUltrasound-guided access for vascular access,\nfirst order axillary and extremity arteriography, covered\nstent the left axillary artery followed by repair of axillary\nartery and vein patch angioplasty of left brachial artery\nafter a brachial cutdown.\n\n\nHistory of Present Illness:\n66 F emergent transfer from OSH for axillary artery hemorrhage.\nPatient fell down at 3:00 p.m. today and developed a hematoma of\nher left chest but had no shoulder dislocation. Due to\nneurologic symptoms in her left hand, the patient was taken\nurgently to the operating room despite no active extravasation\nof contrast on the chest CT. In the operating room from OSH, the\nsurgeon's exposed\nthe artery but found massive bleeding and decided to transport\nthe patient to [**Hospital1 69**] by med\nflight. The surgeon came in the helicopter with manual pressure\nbeing held on the artery and the patient was brought emergently\nto the endovascular room. At this point, the patient had artery\nhad already lost 2 liters of blood and received 4 units of\npacked red blood cells and 2 units of FFP. She arrived intubated\nand hemodynamically stable.\n\n\n\nPast Medical History:\nL shoulder dislocation 2 months ago\nVaginal hysterectomy in [**2102**]\n\nSocial History:\nDrinks socially\nDenies tobacco and IVDU\n\nFamily History:\nmother with arthritis, father with brain tumor (unclear\npathology)\n\nPhysical Exam:\nTmax 97, Tc 97, HR 91, BP 117/76, RR 19, SaO2 100%, CMV/AC (FiO2\n0.5, Peep 5, TV 500, RR 18), Neo 1.3, Prop 20\nGen: intubated, sedated\nCV: RRR\nPulm: CTA BS\nAbd: soft, NT, ND, act BS\nL ext - dopplerable ulnar, radial, brachial\nR ext - dopplerable ulnar, radial\nExt: no clubbing, cyanosis, gross edema\n\n\nPertinent Results:\nAP shoulder: Three views of the left shoulder were reviewed. The\npatient is after surgery of the left upper chest/area of axilla.\nVascular stent is noted. No evidence of fracture is present. No\nevidence of dislocation is seen.\n\n[**2109-9-15**] 01:20AM BLOOD WBC-12.9* RBC-3.31* Hgb-10.6* Hct-29.7*\nMCV-90 MCH-31.9 MCHC-35.6* RDW-15.2 Plt Ct-121*\n[**2109-9-15**] 04:35AM BLOOD WBC-18.3* RBC-4.09* Hgb-13.0 Hct-36.0\nMCV-88 MCH-31.8 MCHC-36.2* RDW-15.0 Plt Ct-102*\n[**2109-9-15**] 10:35AM BLOOD Hgb-10.5* Hct-28.1*\n[**2109-9-16**] 02:58PM BLOOD Hct-27.5*\n[**2109-9-17**] 03:40AM BLOOD WBC-6.3 RBC-2.70* Hgb-8.9* Hct-24.0*\nMCV-89 MCH-33.0* MCHC-37.2* RDW-15.7* Plt Ct-71*\n[**2109-9-18**] 06:30AM BLOOD WBC-4.3 RBC-2.90* Hgb-9.3* Hct-26.1*\nMCV-90 MCH-32.2* MCHC-35.7* RDW-15.8* Plt Ct-91*\n[**2109-9-15**] 02:00AM BLOOD PT-22.8* PTT-150* INR(PT)-2.2*\n[**2109-9-15**] 04:35AM BLOOD PT-15.1* PTT-115.9* INR(PT)-1.3*\n[**2109-9-16**] 04:40AM BLOOD PT-11.9 PTT-24.9 INR(PT)-1.0\n[**2109-9-17**] 03:39AM BLOOD PT-12.0 PTT-25.0 INR(PT)-1.0\n[**2109-9-15**] 04:35AM BLOOD Glucose-240* UreaN-19 Creat-0.5 Na-138\nK-5.1 Cl-109* HCO3-20* AnGap-14\n[**2109-9-15**] 10:35AM BLOOD Glucose-158* K-4.7\n[**2109-9-16**] 04:40AM BLOOD Glucose-107* UreaN-16 Creat-0.5 Na-134\nK-4.0 Cl-105 HCO3-25 AnGap-8\n[**2109-9-17**] 03:40AM BLOOD Glucose-100 UreaN-9 Creat-0.4 Na-139\nK-3.7 Cl-109*\n[**2109-9-15**] 01:36AM BLOOD Type-ART pO2-92 pCO2-62* pH-7.16*\ncalTCO2-23 Base XS--7\n[**2109-9-15**] 02:27AM BLOOD Type-ART pO2-330* pCO2-46* pH-7.28*\ncalTCO2-23 Base XS--4\n[**2109-9-15**] 04:44AM BLOOD Type-ART pO2-178* pCO2-44 pH-7.28*\ncalTCO2-22 Base XS--5\n[**2109-9-15**] 06:32AM BLOOD Type-ART pO2-196* pCO2-37 pH-7.34*\ncalTCO2-21 Base XS--5\n[**2109-9-15**] 09:33AM BLOOD Type-ART pO2-224* pCO2-38 pH-7.40\ncalTCO2-24 Base XS-0\n[**2109-9-15**] 11:48AM BLOOD Type-ART pO2-74* pCO2-37 pH-7.40\ncalTCO2-24 Base XS-0\n\nBrief Hospital Course:\nPatient was transferred via [**Location (un) 7622**] to [**Hospital1 18**] and taken\ndirectly to the OR by Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] on [**2109-9-15**] for L\naxillary arterioplasty, covered stent, L brachial artery cutdown\nwith vein patch arterioplasty. During transportation, patient\nwas intubaed and remained hemodynamically stable. Estimated\nblood loss intraoperatively was one liter with additional two\nliters from the OSH. She had received 4 units of packed red\nblood cells and 2 units of FFP. At the completion of the case,\nthe patient had a palpable brachial pulse and a palpable radial\npulse. Her hand looks markedly improved compared to\npreoperatively. She was taken intubated to the intensive care\nunit in guarded condition. Plesse see dictated operative note\nfor more detail.\n.\nPOD1, patient required neo pressors and fluids for hemodynamic\nsupport. She was awoken briefly for routine vascular and neuro\nexams to check left upper extremity. Pulses remained palpable\nthroughout his postoperative course. Ortho asked to follow for\nquestion of possible brachial plexus injury or nerve impingement\nby hematoma. Question of acute thrombocytopenia with platelets\ndropping to 77 from 100's. Anticoagulation held and HIT panel\nantibodies sent. Results are pending. She was weaned to extubate\nfrom the ventilator without any respiratory complications.\n.\nPOD2, she was transfused 1u pRBC for Hct of 24. Hct responded to\n27.5 and remained stable during remained of hospital course.\nOccupational therapy consulted for evaluation. On discharge, she\ncontinues to have decreased coordination, grasping and\nsensation, strength and functional use of her left upper\nextremity. She will be discharged home with outpatient\noccupational therapy to follow for strengthening and\nconditioning.\n.\nPOD3, patient discharged home with services. She will follow\noccupational therapy as outpatient. Her vitals signs are stable.\nShe is tolerating regular food. Hct remained stable at 26.1. She\nwill follow up with Dr. [**Last Name (STitle) **] in clinic in [**12-5**]  weeks for\npostoperative follow up. She is to continue her aspirin and\nplavix as well.\n\nMedications on Admission:\nNone\n\nDischarge Medications:\n1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)\nfor 28 days.\nDisp:*30 Tablet(s)* Refills:*0*\n2. Aspir-81 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO once a day.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nLaceration or Right axillary artery\n\n\nDischarge Condition:\nVSS, ambulating, pain well controlled with Po pain meds,\nhematocrit stable\n\n\nDischarge Instructions:\nWhat to expect when you go home:\n1. It is normal to feel tired, this will last for 4-6 weeks\n??????\tYou should get up out of bed every day and gradually increase\nyour activity each day;  you may walk and you may go up and down\nstairs\n??????Increase your activities as you can tolerate- do not do too\nmuch right away!\n\n2. It is normal to have swelling of the arm you were operated\non:\n??????\tElevate your arm above the level of your heart (use [**1-6**]\npillows) every 2-3 hours throughout the day and at night\n\n3. It is normal to have a decreased appetite, your appetite will\nreturn with time\n??????\tYou will probably lose your taste for food and lose some\nweight\n??????\tEat small frequent meals\n??????\tIt is important to eat nutritious food options (high fiber,\nlean meats, vegetables/fruits, low fat, low cholesterol) to\nmaintain your strength and assist in wound healing\n??????\tTo avoid constipation: eat a high fiber diet and use stool\nsoftener while taking pain medication\n\nWhat activities you can and cannot do:\n??????\tNo driving until post-op visit and you are no longer taking\npain medications\n??????\tYou should get up every day, get dressed and walk\n??????\tYou should gradually increase your activity\n??????\tYou may up and down stairs, go outside and/or ride in a car\n??????\tIncrease your activities as you can tolerate- do not do too\nmuch right away!\n??????\tNo heavy lifting, pushing or pulling (greater than 5 pounds)\nuntil your post op visit\n??????\tYou may shower (unless you have stitches or foot incisions) no\ndirect spray on incision, let the soapy water run over incision,\nrinse and pat dry\n??????\tYour incision may be left uncovered, unless you have small\namounts of drainage from the wound, then place a dry dressing\nover the area that is draining, as needed\n??????\tTake all the medications you were taking before surgery,\nunless otherwise directed\n??????\tTake one full strength (325mg) enteric coated aspirin daily,\nunless otherwise directed\n??????\tCall and schedule an appointment to be seen in 2 weeks for\nstaple/suture removal\n\nWhat to report to office:\n??????\tRedness that extends away from your incision\n??????\tA sudden increase in pain that is not controlled with pain\nmedication\n??????\tA sudden change in the ability to move or use your arm or the\nability to feel your arm\n??????\tTemperature greater than 100.5F for 24 hours\n??????\tBleeding, new or increased drainage from incision or white,\nyellow or green drainage from incisions\n\n\nFollowup Instructions:\nProvider: [**Name10 (NameIs) **],[**First Name3 (LF) **] L.  [**Telephone/Fax (1) 2625**]  Follow-up\nappointment should be in 2 weeks\n\n\n\n"
+    },
+    {
+      "note_id": 418826,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 45,
+          "end": 67,
+          "code": "96.71",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous mechanical ventilation for less than 96 consecutive hours",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "mechanical ventilation"
+        }
+      ],
+      "text": "Demographics\n   Day of intubation:\n   Day of mechanical ventilation: 1\n   Ideal body weight: 49.9 None\n   Ideal tidal volume: 199.6 / 299.4 / 399.2 mL/kg\n   Airway\n   Airway Placement Data\n   Known difficult intubation: Unknown\n   Procedure location: Outside hospital\n   Tube Type\n   ETT:\n                   Position: 22 cm at teeth\n                   Route: Oral\n                   Type: Standard\n                   Size: 7mm\n   :\n   Lung sounds\n   RLL Lung Sounds: Rhonchi\n   RUL Lung Sounds: Rhonchi\n   LUL Lung Sounds: Rhonchi\n   LLL Lung Sounds: Rhonchi\n   Comments:\n   Secretions\n   Sputum color / consistency:  /\n   Sputum source/amount: Suctioned / None\n   Comments:\n   Ventilation Assessment\n   Level of breathing assistance: Continuous invasive ventilation\n   Invasive ventilation assessment:\n   Trigger work assessment: Triggering synchronously\n   Plan\n   Next 24-48 hours:\n   Reason for continuing current ventilatory support: Sedated /\n   Comments: Pt. admitted from OR intubated . Placed on A/C. RR ^ 18 due\n   to resp. acidosis. Plan extubation when pt. awake.\n"
+    }
+  ]
+}

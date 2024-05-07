@@ -1,0 +1,68 @@
+{
+  "hadm_id": 148583,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 47227,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 427,
+          "end": 438,
+          "code": "V45.88",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "OSH s/p tPA"
+        },
+        {
+          "begin": 1346,
+          "end": 1349,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1351,
+          "end": 1355,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 1435,
+          "end": 1441,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "Smokes"
+        },
+        {
+          "begin": 5759,
+          "end": 5769,
+          "code": "368.47",
+          "code_system": "ICD-9-CM",
+          "description": "Heteronymous bilateral field defects",
+          "type": "MapType.EXACT",
+          "covered_text": "hemianopia"
+        },
+        {
+          "begin": 7550,
+          "end": 7570,
+          "code": "346.00",
+          "code_system": "ICD-9-CM",
+          "description": "Classical migraine, without mention of intractable migraine",
+          "type": "Human",
+          "covered_text": "Complicated Migraine"
+        }
+      ],
+      "text": "Admission Date:  [**2169-7-9**]              Discharge Date:   [**2169-7-13**]\n\nDate of Birth:  [**2108-1-8**]             Sex:   F\n\nService: NEUROLOGY\n\nAllergies:\nDilaudid (PF) / Zofran\n\nAttending:[**Last Name (NamePattern1) 1838**]\nChief Complaint:\nright sided weakness\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\nMs [**Known lastname **] is a 61 year old LEFT handed female who presents\nfrom an OSH s/p tPA after sudden onset of right sided weakness.\nPatients husband states that she was driving to go shopping\nhowever returned home at 2:20 pm on [**7-9**].  He states she was\ncomplaining that the right side of her face felt 'warm and\nnumb.'\nHe sat her down and went to call an ambulance because he noticed\nher speech became slurred.  At that point she became\nunresponsive\nand would not open her eyes.  EMS arrived and she was taken to\nan\nOSH. No seizure activity was detected. Patient was brought to an\noutside hospital where she was found to be hypertensive to the\n210s systolically. She also had a negative noncontrast CT. Med\nflight was called for transfer to [**Hospital1 18**] ED for further care and\nen route patient was started on TPA (Patient was given a bolus\nand then started\non a drip on her right based on 70.9 kg) after discussion with\nthe stroke fellow and patients family.\n\n\nPast Medical History:\nHTN, GERD, diverticulitis, lymphocytic colitis\n\nSocial History:\nMarried, has 1 daughter. Smokes [**1-17**] PPD, [**2-16**] glasses of wine\ndaily, denies drugs. Works as special needs teacher.\n\n\nFamily History:\nmother had stroke in her 60's\n\nPhysical Exam:\nADMISSION EXAM:\nTemp: 98 HR: 87 BP: 134/87 Resp: 16 O(2)Sat: 99 Normal\nGeneral: Awake, cooperative, NAD.\nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in\noropharynx\nNeck: Supple, no carotid bruits appreciated. No nuchal rigidity\nPulmonary: Lungs CTA bilaterally without R/R/W\nCardiac: RRR, nl. S1S2, no M/R/G noted\nAbdomen: soft, NT/ND, no masses or organomegaly noted.\nExtremities:warm and well perfused\nSkin: no rashes or lesions noted.\nNeurologic:\n\n-Mental Status: Alert, oriented.  Able to relate history without\ndifficulty.  Language dysarthric but fluent with intact\nrepetition and comprehension.  Normal prosody.  There were no\nparaphasic errors.  She did not have her glasses and was unable\nto read but could name large letters.  Initially was only\nfollowing midline commands but later followed appendicular\ncommands.\n\n-Cranial Nerves:\nI: Olfaction not tested.\nII: PERRL 3 to 2mm and brisk.  On visual fields she did not\nconsistently visualize the right visual field, however\ninconsistently reacted to threat on the right.\nIII, IV, VI: EOMI without nystagmus.  Normal saccades.\nV: Facial sensation decreased on right.\nVII: No facial droop, facial musculature symmetric.\nVIII: Hearing intact to finger-rub bilaterally.\nIX, X: Palate elevates symmetrically.\n[**Doctor First Name 81**]: 5/5 strength in trapezii and SCM bilaterally.\nXII: Tongue protrudes in midline.\n-Motor: Normal bulk, tone throughout.\nRight arm with significant drift, was able to sustain the left\narm antigravity.  Right leg was unable to lift antigravity with\nabout a 3 at the IP.  left leg with significant drift.\n\n-Sensory: decreased senstion to light touch and noxious on the\nright leg, arm, and face.\n\n-DTRs:\n  [**Name2 (NI) **] Tri [**Last Name (un) 1035**] Pat Ach\nL  2  2    2    2   1\nR  2  2    2    2   1\nPlantar response was flexor bilaterally.\n\n-Coordination: unable to formally test, but no obvious dysmetric\nmovements\n\nDISCHARGE EXAM: awake, alert, oriented to person, place and\ndate. Mild right nasolabial fold flattening, though has\nsymmetric smile. Has give-way weakness on the right greater than\nleft. Light touch and proprioception intact throughout.\n\n\nPertinent Results:\n[**2169-7-9**] 05:10PM BLOOD WBC-6.5 RBC-4.26 Hgb-14.6 Hct-40.3 MCV-95\nMCH-34.3* MCHC-36.3* RDW-12.7 Plt Ct-255\n[**2169-7-11**] 01:40AM BLOOD Glucose-91 UreaN-8 Creat-0.6 Na-139 K-3.7\nCl-108 HCO3-23 AnGap-12\n[**2169-7-10**] 05:23PM BLOOD ALT-20 AST-18 LD(LDH)-202 CK(CPK)-46\nAlkPhos-52 TotBili-0.5\n[**2169-7-9**] 05:10PM BLOOD cTropnT-<0.01\n[**2169-7-10**] 05:23PM BLOOD CK-MB-2 cTropnT-<0.01\n[**2169-7-9**] 05:10PM BLOOD Calcium-9.2 Phos-4.3 Mg-2.2\n[**2169-7-10**] 05:23PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG\nBnzodzp-NEG Barbitr-NEG Tricycl-NEG\n\nCTA Head and neck:\n1. No evidence of an acute intracranial process or evidence of a\n\nflow-limiting stenosis.\n2. 12-mm low-density left thyroid nodule with some\ncalcifications may be\nassessed with ultrasound if not performed earlier.\n3. Minor soft plaques at the carotid bifurcation.\n\nMR head:\nDiffusion images demonstrate no acute infarction. Gradient\nimages\ndemonstrate no hemorrhage. There is no intracranial mass or mass\neffect. The ventricles and sulcal configuration are age\nappropriate. The [**Doctor Last Name 352**]-white matter differentiation is normal.\nThe brain stem, cerebellum and\ncraniocervical junction are normal. Mucosal thickening is seen\nin the\nbilateral ethmoid air cells.\n\nEcho: Suboptimal image quality due to body habitus. No cardiac\nsource of embolism seen. Left and right ventricular systolic\nfunction are probably normal. No significant valvular\nabnormality. Borderline elevation of pulmonary artery systolic\npressures. Negative bubble study.\n\nCT head 24hrs post tPA:\nNo acute intracranial process.\n\n\nBrief Hospital Course:\n61 year old LEFT handed female presented from OSH s/p tPA after\nsudden onset of right facial numbness and generalized weakness.\nShe had been given tPA on the [**Location (un) **] over to [**Hospital1 18**].\n\nUpon arrival to [**Hospital1 18**] her NIHSS was 9 and was signifant for\ninability to follow commands, oriented but slow to respond.\nThere was an inconsistent right hemianopia, right arm drift and\ndecreased right sided sensory loss, but all extremities drifted\nand could not cooperate with full strength exam. The patient\nalso complained of a severe throbbing headache. She had been\nhaving increasing throbbing headaches over the past 6 months,\nbut particularly worse over the past 1-2 weeks, associated with\nnausea, seeing red flashing spots, and photophobia.\n\nThe patient was admitted to the neuro ICU for post-tPA protocol.\nHead CT/CTA: no acute infarct, vascular stenosis. Brain MRI:\nnormal.\n\nToxic-metabolic workup including tox screens were negative.\nBlood pressure was allowed to autoregulate with goal SBP\n140s-180s. There were no arrhythmias on cardiac telemetry.\nPatient was ruled out for MI.\n\nThe patient was ultimately thought to have a complicated\nmigraine, with functional overlay. Her headache was controlled\nwith Ultram, IVF, antiemetics. She actually noted significant\nimprovement with IV Reglan and IVF. Her neuro exam improved\ngradually back to normal except for giveway weakness throughout,\nmore on R than L. She was started on verapamil for migriane\nprophylaxis. Her home HCTZ was D/Ced.\n\nGiven her weakness and difficulty walking, patient was\nrecommended to be discharged to rehabilitation facility.\nPatient will be following up with Dr. [**First Name8 (NamePattern2) 2530**] [**Name (STitle) **] as\noutpatient.\n\n\nMedications on Admission:\nHCTZ 25 mg daily, omeprazole 20 mg daily\n\nDischarge Medications:\n1. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n2. verapamil 120 mg Tablet Sig: One (1) Tablet PO Q24H (every 24\nhours).\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 1107**] [**Hospital **] Hospital - [**Location (un) 38**]\n\nDischarge Diagnosis:\nComplicated Migraine\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\nNeuro deficits: Halting speech and labile mood.  Giveway\nweakness of R side - downward drift of R arm and does not bear\nweight on the R leg when standing.\n\n\nDischarge Instructions:\nYou came to the hospital with symptoms of right facial numbness\nfolllowed by difficulty speaking and episode of fainting. There\nwas concern for an acute stroke, so you received IV tPA, while\nen route to [**Hospital3 **]. While here, you had brain imaging,\nincluding CT of the head and blood vessels and MRI. The imaging\nwas all normal and there was no evidence of stroke. You were\ninitially admitted to the ICU after receiving the clot busting\nmedication, just for monitoring; there was no complications\nafter receiving the medication. As there was no stroke and you\ndid have a headache (and recent headache symptoms consistent\nwith migraines), your symptoms are most likely due to a\ncomplicated migraine. For this reason, you were started on a\nmedication called Verapamil to help prevent future migraines.\n\nFollowup Instructions:\nPlease ask your PCP for referral to follow-up with the\nneurologist who oversaw your care during this admission:\nProvider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) 162**], MD Phone:[**Telephone/Fax (1) 2574**]\nDate/Time:[**2169-8-28**] 2:30\n[**Hospital Ward Name 23**] Building ([**Hospital1 18**]), [**Location (un) **]\n\nProvider: [**First Name11 (Name Pattern1) 1730**] [**Last Name (NamePattern4) 2301**], M.D. Phone:[**Telephone/Fax (1) 463**]\nDate/Time:[**2169-10-30**] 5:15\n\nPlease follow-up with your PCP [**Name Initial (PRE) 176**] 1-2 weeks of discharge\nfrom rehab.\n\n\n\nCompleted by:[**2169-7-13**]"
+    }
+  ]
+}

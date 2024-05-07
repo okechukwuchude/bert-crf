@@ -1,0 +1,122 @@
+{
+  "hadm_id": 112338,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 7725,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 323,
+          "end": 326,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 327,
+          "end": 336,
+          "code": "V58.63",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of antiplatelets/antithrombotics",
+          "type": "MapType.EXACT",
+          "covered_text": "on plavix"
+        },
+        {
+          "begin": 723,
+          "end": 737,
+          "code": "579.0",
+          "code_system": "ICD-9-CM",
+          "description": "Celiac disease",
+          "type": "Human",
+          "covered_text": "Celiac Disease"
+        },
+        {
+          "begin": 742,
+          "end": 744,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 745,
+          "end": 754,
+          "code": "V45.01",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac pacemaker in situ",
+          "type": "Human",
+          "covered_text": "Pacemaker"
+        },
+        {
+          "begin": 768,
+          "end": 770,
+          "code": "412",
+          "code_system": "ICD-9-CM",
+          "description": "Old myocardial infarction",
+          "type": "MapType.EXACT",
+          "covered_text": "MI"
+        },
+        {
+          "begin": 771,
+          "end": 792,
+          "code": "V45.82",
+          "code_system": "ICD-9-CM",
+          "description": "Percutaneous transluminal coronary angioplasty, postsurgical status",
+          "type": "MapType.APPROX",
+          "covered_text": "s/p stents and plasty"
+        },
+        {
+          "begin": 1047,
+          "end": 1056,
+          "code": "96.71",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous mechanical ventilation for less than 96 consecutive hours",
+          "type": "Human",
+          "covered_text": "Intubated"
+        },
+        {
+          "begin": 3880,
+          "end": 3883,
+          "code": "V49.86",
+          "code_system": "ICD-9-CM",
+          "description": "Do not resuscitate status",
+          "type": "Human",
+          "covered_text": "DNR"
+        },
+        {
+          "begin": 4177,
+          "end": 4190,
+          "code": "331.4",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive hydrocephalus",
+          "type": "Human",
+          "covered_text": "hydrocephalus"
+        },
+        {
+          "begin": 4289,
+          "end": 4317,
+          "code": "V66.7",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for palliative care",
+          "type": "MapType.EXACT",
+          "covered_text": "patient was made CMO at that"
+        },
+        {
+          "begin": 5263,
+          "end": 5283,
+          "code": "431",
+          "code_system": "ICD-9-CM",
+          "description": "Intracerebral hemorrhage",
+          "type": "MapType.APPROX",
+          "covered_text": "cerebellar hemorhage"
+        }
+      ],
+      "text": "Admission Date:  [**2184-3-27**]              Discharge Date:   [**2184-3-28**]\n\n\nService: NEUROSURGERY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 1271**]\nChief Complaint:\nunresponsive\n\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\n88yo woman with PMH CAD on plavix was found down by her\ndaughter at 7AM today. Initially she was arousable and\ncomplained\nof headache. She was taken to OSH by ambulance where she\nreportedly decompensated in the ED requiring intubation. BP was\nrecorded as 184/84. Head CT revealed large posterior fossa IPH.\nShe was life flighted to [**Hospital1 18**] and Neurosurgery consultation was\nrequested.\n\n\nPast Medical History:\nCeliac Disease\nCAD\nDM\nPacemaker\nHysterectomy\nMI s/p stents and plasty. most recently in [**2179**] @ [**Hospital1 2025**]\n\n\nSocial History:\nmarried, lives with husband and daughter. no e/t/d\n\n\nFamily History:\nnon-contributory\n\n\nPhysical Exam:\nPHYSICAL EXAM:\nGCS: E-3  V-1  M-6\nO: BP: 184/84  HR: 83  R 14   O2Sats 100%\nGen: Intubated and sedated (prop held for exam)\nHEENT: Pupils: 3mm sluggish b/l. + corneals, + gag\nNeck: hard collar\n\nExtrem: Warm and well-perfused\n\nNeuro:\nMental status: EO to voice\n\nCranial Nerves:\n\nII: Pupils equally round and reactive to light 3mm, very\nsluggish\nmm bilaterally.\n\nMotor: MAE's. B/L UE's antigravity to command\n\nOn Discharge:\nNo [**Last Name (LF) **], [**First Name3 (LF) 2995**] to noxious\n\nPertinent Results:\n[**2184-3-27**] 03:00PM   PLT COUNT-226\n[**2184-3-27**] 03:00PM   PT-13.8* PTT-18.8* INR(PT)-1.2*\n[**2184-3-27**] 03:00PM   NEUTS-92.9* LYMPHS-4.2* MONOS-1.9* EOS-0.6\nBASOS-0.4\n[**2184-3-27**] 03:00PM   WBC-10.3 RBC-3.86* HGB-12.2 HCT-35.5* MCV-92\nMCH-31.5 MCHC-34.3 RDW-13.6\n[**2184-3-27**] 03:00PM   CALCIUM-9.6 PHOSPHATE-3.1 MAGNESIUM-1.3*\n[**2184-3-27**] 03:00PM   CK-MB-3 cTropnT-<0.01\n[**2184-3-27**] 03:00PM   CK(CPK)-48\n[**2184-3-27**] 03:00PM   estGFR-Using this\n[**2184-3-27**] 03:00PM   GLUCOSE-186* UREA N-20 CREAT-1.0 SODIUM-136\nPOTASSIUM-4.5 CHLORIDE-102 TOTAL CO2-21* ANION GAP-18\n[**2184-3-27**] 03:08PM   GLUCOSE-181* LACTATE-3.1* K+-4.7\n[**2184-3-27**] 03:45PM   TYPE-ART PO2-252* PCO2-38 PH-7.38 TOTAL\nCO2-23 BASE XS--1 INTUBATED-INTUBATED\n[**2184-3-27**] 05:40PM URINE  MUCOUS-RARE\n[**2184-3-27**] 05:40PM URINE  RBC-1 WBC-125* BACTERIA-FEW YEAST-NONE\nEPI-<1 RENAL EPI-<1\n[**2184-3-27**] 05:40PM URINE  BLOOD-NEG NITRITE-POS PROTEIN-NEG\nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5\nLEUK-LG\n[**2184-3-27**] 05:40PM URINE  COLOR-Straw APPEAR-Hazy SP [**Last Name (un) 155**]-1.026\n\nCHEST (PORTABLE AP) Study Date of [**2184-3-27**] 2:50 PM FINDINGS:\nEndotracheal tube ends 3.0 cm above the carina. An NG tube\npasses beyond the GE junction into the antrum of the stomach.\nThere are low lung volumes but no evidence of pleural effusion\nor pneumothorax. Mild left retrocardiac opacity likely\nrepresents atelectasis.\n\nIMPRESSION:\n1. ET tube ends 3 cm above the carina.\n2. Left basilar opacity, likely atelectasis, but aspiration is\nnot excluded.\n\nCTA HEAD W&W/O C & RECONS Study Date of [**2184-3-27**] 3:38 PM\nPreliminary Report !! WET READ !!\nNo evidence of aneuryms. However, reformats which are necessary\nfor\ninterpretation are still pending.\n\nCT HEAD W/O CONTRAST Study Date of [**2184-3-27**] 11:12 PM\n Findings compatible with rapidly-evolving obstructive\nhydrocephalus due to extensive intraventricular hemorrhage,\npredominately in the fourth ventricle, with extension into\nprepontine cisterns and occipital horns. Focal hemorrhage may\nalso be present in the left cerebellum. Left parietal and left\nsupratentorial subdural hemorrhage are not well seen on\npreceding outside exam.\n\n\nBrief Hospital Course:\nPt was admitted to the neurosurgery service for close\nobservation. Upon admission a discussion was held with the\ndaughter (official HCP). She wished to make her mother DNR. She\nwas told the risk of developing hydrocephalus and need for EVD\nplacement. She said she would think about this but was not sure\nif she would want to proceed with it.\n\nOvernight on [**3-27**] - [**3-28**] the patient became less responsive. A\nhead CT was obtained which revealed developing hydrocephalus.\nThe daughter was [**Name (NI) 653**] and said that she did not want to\nproceed with the EVD. The patient was made CMO at that time and\nextubated at approximately 6AM.\n\nThe daughter [**Name (NI) 653**] the ICU later in the morning and\nrequested that the patient be transferred to [**Hospital3 15402**] so that\nshe would be closer to home. The bed facilitator was [**Hospital3 653**]\nand once transport was arranged she was discharged.\n\nMedications on Admission:\nMedications prior to admission:\nNitroglycerine\nPlavix\nglucophage\nmetoprolol\ngemfibrozil\nalprazolam\nisosorbide mononitrate\nflagyl\n\n\nDischarge Medications:\n1. morphine (PF) in D5W 100 mg/100 mL (1 mg/mL) Parenteral\nSolution Sig: 5-20 mg Intravenous TITRATE TO (titrate to desired\nclinical effect (please specify)).\n2. scopolamine base 1.5 mg Patch 72 hr Sig: One (1) Patch 72 hr\nTransdermal ONCE (Once) for 1 doses.\n3. midazolam in 0.9 % NaCl 1 mg/mL Solution Sig: 5-20 mg\nIntravenous TITRATE TO (titrate to desired clinical effect\n(please specify)).\n\n\nDischarge Disposition:\nExtended Care\n\nDischarge Diagnosis:\ncerebellar hemorhage, hydrocephelus\n\nDischarge Condition:\nActivity Status: Bedbound.\nLevel of Consciousness: Lethargic but arousable.\nMental Status: Confused - always.\n\n\nDischarge Instructions:\nPt is DNR/DNI and CMO. Transfer to [**Hospital3 15402**] per family's\nrequest.\n\nFollowup Instructions:\nN/A\n\n\n                             [**Name6 (MD) 742**] [**Name8 (MD) **] MD [**MD Number(2) 1273**]\n\nCompleted by:[**2184-3-28**]"
+    }
+  ]
+}

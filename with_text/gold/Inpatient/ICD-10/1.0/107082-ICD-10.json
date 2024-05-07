@@ -1,0 +1,131 @@
+{
+  "hadm_id": 107082,
+  "comment": "EGD report not present- unable to validate the PCS codes",
+  "notes": [
+    {
+      "note_id": 25511,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 295,
+          "end": 310,
+          "code": "E87.2",
+          "code_system": "ICD-10-CM",
+          "description": "Acidosis",
+          "type": "Human",
+          "covered_text": "severe acidosis"
+        },
+        {
+          "begin": 312,
+          "end": 327,
+          "code": "K70.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic hepatitis without ascites",
+          "type": "Human",
+          "covered_text": "ETOH hepatitis,"
+        },
+        {
+          "begin": 1243,
+          "end": 1254,
+          "code": "E86.0",
+          "code_system": "ICD-10-CM",
+          "description": "Dehydration",
+          "type": "Human",
+          "covered_text": "dehydration"
+        },
+        {
+          "begin": 1306,
+          "end": 1325,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "acute pancreatitis."
+        },
+        {
+          "begin": 4664,
+          "end": 4675,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 4845,
+          "end": 4858,
+          "code": "E87.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperosmolality and hypernatremia",
+          "type": "Human",
+          "covered_text": "hypernatremic"
+        },
+        {
+          "begin": 5976,
+          "end": 5985,
+          "code": "5A1945Z",
+          "code_system": "ICD-10-PCS",
+          "description": "Respiratory Ventilation, 24-96 Consecutive Hours",
+          "type": "Human",
+          "covered_text": "Extubated"
+        },
+        {
+          "begin": 6872,
+          "end": 6881,
+          "code": "K29.71",
+          "code_system": "ICD-10-CM",
+          "description": "Gastritis, unspecified, with bleeding",
+          "type": "Human",
+          "covered_text": "gastritis"
+        },
+        {
+          "begin": 6917,
+          "end": 6945,
+          "code": "0D958ZX",
+          "code_system": "ICD-10-PCS",
+          "description": "Drainage of Esophagus, Via Natural or Artificial Opening Endoscopic, Diagnostic",
+          "type": "Human",
+          "covered_text": "esophagus, biopsy were taken"
+        },
+        {
+          "begin": 7727,
+          "end": 7752,
+          "code": "K85.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol induced acute pancreatitis without necrosis or infection",
+          "type": "Human",
+          "covered_text": "EtOH induced pancreatitis"
+        },
+        {
+          "begin": 7756,
+          "end": 7769,
+          "code": "F10.139",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol abuse with withdrawal, unspecified",
+          "type": "Human",
+          "covered_text": "Alcohol abuse"
+        },
+        {
+          "begin": 7795,
+          "end": 7813,
+          "code": "E87.2",
+          "code_system": "ICD-10-CM",
+          "description": "Acidosis",
+          "type": "Human",
+          "covered_text": "Metabolic acidosis"
+        },
+        {
+          "begin": 7817,
+          "end": 7848,
+          "code": "K92.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hematemesis",
+          "type": "Human",
+          "covered_text": "Upper gastrointestinal bleeding"
+        }
+      ],
+      "text": "Admission Date:  [**2120-11-26**]              Discharge Date:   [**2120-12-3**]\n\nDate of Birth:  [**2090-10-22**]             Sex:   F\n\nService: SURGERY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 2836**]\nChief Complaint:\nPancreatitis, ETOH overdose, severe acidosis, ETOH hepatitis,\nsubstance abuse, UGIB\n\nMajor Surgical or Invasive Procedure:\n[**2120-11-26**]: Intubation, CVL and axillary [**Last Name (un) **] monitor placment\n[**2120-12-2**]: UGI:\n\nHistory of Present Illness:\n30F w active EtOH abuse and alcoholic hepatitis p/w altered\nmental status and report of hematemesis.  Of note, HPI is per\nreport/documentation as pt intubated/sedated at time of\nconsultation.  Pt has hx EtOH abuse/binge drinking w multiple\nEtOH related admits/ED visits for withdraw, escalating in\nfrequency in recent months.  Presents today in setting of\nreported 2.5 day EtOH abstention with altered mental status,\nnausea and vomiting.  Intubated on arrival for\nconfusion/hematemesis and inability to protect airway.  Reported\nepisodes of hematemesis at this time though quality/quantity of\nblood in emesis unclear.  Started on pressors w massive\nresuscitation for hypotension/ tachycardia.  Laboratories\nreflected dehydration, known EtOH hepatitis and lipase 100\nsuggestive of acute pancreatitis.  CT scan showed severe\npancreatitis and GB with edematous wall filled w sludge vs\nblood.\nSurgery consult obtained for pancreatitis, UGIB.\n\n\nPast Medical History:\nEtOH abuse with several inpatient detox stays\n\nSocial History:\nThe patient is originally from [**Location (un) 11177**], [**State 4565**]. She is\ncurrently on dental student on a leave of absence. She reports a\nhistory of binge drinking, typically [**3-26**] \"strong\" drinks at a\ntime. She reports a history of multiple inpateint detox stays\nwithout success. She denies tobacco or IVDU\n\nFamily History:\nMaternal grandfather with alcoholism\nMaternal uncle with drug problem\nPaternal aunt with alcoholism\n\n\nPhysical Exam:\nAt time of admission:\nP/E:\nLevo: 0.12, Protonix: 8; Versed: 18\nVS: T: 97.0  P: 134  BP: 110/57   RR: 20   O2sat: 100\nCMV 0.5; 20x500; 5\nGEN: WD, WN F intubated/sedated\nHEENT: NCAT, PERRLA, anicteric\nCV: RRR; tachy\nPULM: CTA B/L w no W/R/R, intubated\nABD: firmly distended, unable to assess tenderness [**1-24**] sedation\nEXT: WWP, no CCE, 2+ B/L radial/DP/PT\nNEURO: moves all 4 extremities; sedated\n\nOn Discharge:\nVS:\nGEN; Pleasant with NAD\nCV: RRR\nLungs: Diminished breath sounds bilateraly on bases\nAbd: NT/ND, soft\nExtr: Warm, no c/c/e\nNeuro: AAO x 3, Cranial nerves II-XII grossly intact\n\n\nPertinent Results:\nLabs at time of admission:\n\n15.7>-14.8/48.1-<393\nN:86.4 L:11.2 M:1.2 E:0.7 Bas:0.5\n\nPT: 11.0  PTT: 31.8  INR: 1.0\n150  91  13\n-------------< 93   AGap=58\n4.7  6  2.8 &#8710;\n\nALT: 230 AP: 180 Tbili: 1.2\nAST: 485 Lip: 100\n\nSerum EtOH 255\nSerum ASA, Acetmnphn, [**Last Name (LF) 2238**], [**First Name3 (LF) **], Tricyc Negative\n\n8AM:\npH 6.93 pCO2 33 pO2 124 HCO3 8 BaseXS -26\nType:Art; Intubated; FiO2%:50; Rate:/16; TV:500;\nMode:Assist/Control\nLactate:12.0\n\n[**12-2**]:\n7.4>----<125\n    36.1\n\n142  101  5  aGap=11\n-------------<118\n3.3  33  1.0\n\nCa: 9.2 Mg: 1.3 P: 2.0\nALT: 51 AP: 78 Tbili: 0.8\nAST: 62 LDH: 430\n[**Doctor First Name **]: 146 Lip: 206\n\nIMAGING:\nCT A/P [**11-26**]: Noncontrast CT due to elevated creatinine, limiting\nassessment.  Peripancreatic inflammation, c/w pancreatitis.\nCannot assess parenchymal enhancement or vascular complications.\nBut no obvious large pseudocyst or abscess. Diffusely fatty\nliver. Gallbladder with diffuse mural thickening and distended\nwith hyperdense material. No free air. Free fluid in pelvis.\n\n[**12-3**] CXR:\nAs compared to the previous radiograph, all monitoring and\nsupport\ndevices have been removed. There are persistent opacities at\nboth lung bases, right more than left, that are exaggerated by\nrelatively [**Name2 (NI) 15410**] breast tissue.\nThe changes could reflect minimal fluid overload or layering\npleural\neffusions. No circumscribed focal parenchymal opacity suggesting\npneumonia.\nNo cardiomegaly. No lung nodules or masses.\n\n[**12-3**] EGD:\nImpression:\n1. Erythema in the stomach body compatible with gastritis\n(biopsy)\n2. Mucosa suggestive of Barrett's esophagus (biopsy)\n\n\n\nBrief Hospital Course:\n[**11-26**]- Admitted to the TSICU after a reported 2.5 day EtOH\nabstention ( ETOH level 255) with altered mental status, nausea\nand vomiting. Intubated on arrival for confusion/hematemesis and\ninability to protect airway. Reported episodes of hematemesis\nprior to arrival prompted Protonix and Octreotide drips.  IN the\nEd patient was started on Levophed w 12L resuscitation for\nhypotension/ tachycardia in the ED.  She was admitted to the ICU\nwith suspected EtOH hepatitis, acute pancreatitis with lipase\n100, severe acidosis with lactate 22, ph 6.9.  Sh was\nhypernatremic to 150 qith acute renal failure Cr 2.3. Liver\nfunction tests significant for ALT: 230 AP: 180 Tbili: 1.2 Alb:\nAST: 485  Serum ASA, Acetaminophen, [**Last Name (LF) 2238**], [**First Name3 (LF) **], Tricyc Negative\n\nCT scan showed severe pancreatitis and GB with edematous wall\nfilled w sludge vs blood. In the ICU an Axillary line and  [**Last Name (un) 18821**]\nmonitor were placed, as well as a central line in the R IJ.  A\nBicarb drip for PH 6.9 that was later stopped in the pm.\nThiamine and folate where repleted.  Toxicology , general\nsurgery and Gi were consulted. Bladder pressure were checked for\nevidence of compartment syndrome. With aggressive management she\nimproved overnight. Cardiac ECHO showed no evidence of\ninfarction.\n[**11-27**]: By the am her ventilator was weaned to [**4-25**]. Fentanyl dc'd\nand she was started on 3mg IV Ativan for intermittent agitation\nand question of withdrawal.  She had Elevated BPs 150-160's\novernight. Also started clonidine patch.\n[**11-28**]: She was changed to Precedex gtt. IR attempt to make\nDobbhoff post pyloric unsuccessful so tube remained as NG.\n[**11-29**] Extubated. A&Ox3. She was advanced to a regular diet.\nOvernight pt with hallucinations (Visual/auditory) and she was\nagitated requiring Valium.  CIWA protocol was initiated. She was\nalso noted to have a drop in her platelets to the 69s, Her HSQ\nwas discontinued and HITT panel sent.\n[**11-30**]: Patient was transferred to floor; psych and social work\nc/s ordered to help facilitate substance abuse counseling.\nPatient's abdominal pain slowly resolving.\n[**12-1**]: After psychiatry and SW recommended 30 day substance\nabuse rehab upon dc.  GI consult recomended inpatient endoscopy\nto evaluate the source of patient's reported UGIB. Recheck of\nplatelets showed recovery to 125 without intervention.\n[**12-2**]: Upper Endoscopy. HITT pending. In the am pt complained of\nmild SOB prompting a CXR.\n[**12-3**]: CXR was negative for PNA. EGD demonstrated erythema in\nthe stomach body compatible with gastritis and mucosa suggestive\nof Barrett's esophagus, biopsy were taken. Patient's diet was\nadvanced to regular and she was discharge home in stable\ncondition. Her PCP was [**Name (NI) 653**] prior discharge, and message\nwas left explaining patient's needs for prompt follow up with\nPCP.\n\n\n\n\nMedications on Admission:\n[**Last Name (un) 1724**]: folic acid 1', thiamine 100', fluoxetine 10', MVI,\nnaltrexone 50'\n\n\nDischarge Medications:\n1. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n2. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n3. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n4. naltrexone 50 mg Tablet Sig: One (1) Tablet PO once a day for\n1 weeks: Please do not drink alcohol while taking this\nmedication.\nDisp:*7 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\n1. EtOH induced pancreatitis\n2. Alcohol abuse\n3. Alcohol withdrawal\n4. Metabolic acidosis\n5. Upper gastrointestinal bleeding\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nPlease call your doctor or nurse practitioner if you experience\nthe following:\n*You experience new chest pain, pressure, squeezing or\ntightness.\n*New or worsening cough, shortness of breath, or wheeze.\n*If you are vomiting and cannot keep down fluids or your\nmedications.\n*You are getting dehydrated due to continued vomiting, diarrhea,\nor other reasons. Signs of dehydration include dry mouth, rapid\nheartbeat, or feeling dizzy or faint when standing.\n*You see blood or dark/black material when you vomit or have a\nbowel movement.\n*You experience burning when you urinate, have blood in your\nurine, or experience a discharge.\n*Your pain is not improving within 8-12 hours or is not gone\nwithin 24 hours. Call or return immediately if your pain is\ngetting worse or changes location or moving to your chest or\nback.\n*You have shaking chills, or fever greater than 101.5 degrees\nFahrenheit or 38 degrees Celsius.\n*Any change in your symptoms, or any new symptoms that concern\nyou.\n\n\nFollowup Instructions:\nPlease call Dr.[**Name (NI) 5067**] office at [**Telephone/Fax (1) 2998**] if you have any\nquestions.\n.\nPlease follow up with [**Doctor Last Name 634**], PA (PCP) in 1 week after\ndischarge\n.\nCall [**Telephone/Fax (1) 13545**] in one week for the biopsy (EGD) results\n\n\n\nCompleted by:[**2120-12-3**]"
+    }
+  ]
+}

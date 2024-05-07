@@ -1,0 +1,59 @@
+{
+  "hadm_id": 177777,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 42016,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 263,
+          "end": 270,
+          "code": "965.4",
+          "code_system": "ICD-9-CM",
+          "description": "Poisoning by aromatic analgesics, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "tylenol"
+        },
+        {
+          "begin": 278,
+          "end": 286,
+          "code": "E950.0",
+          "code_system": "ICD-9-CM",
+          "description": "Suicide and self-inflicted poisoning by analgesics, antipyretics, and antirheumatics",
+          "type": "MapType.MULTI",
+          "covered_text": "naproxen"
+        },
+        {
+          "begin": 389,
+          "end": 399,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 4778,
+          "end": 4781,
+          "code": "965.1",
+          "code_system": "ICD-9-CM",
+          "description": "Poisoning by salicylates",
+          "type": "Human",
+          "covered_text": "ASA"
+        },
+        {
+          "begin": 5409,
+          "end": 5420,
+          "code": "282.49",
+          "code_system": "ICD-9-CM",
+          "description": "Other thalassemia",
+          "type": "Human",
+          "covered_text": "thalassemia"
+        }
+      ],
+      "text": "Admission Date:  [**2142-9-7**]              Discharge Date:   [**2142-9-10**]\n\nDate of Birth:  [**2122-3-31**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 759**]\nChief Complaint:\ntylenol PM and naproxen overdose\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\n20 yo F, with hx of depression w/ SI on Effexor, no previously\nestablished care here at [**Hospital1 18**], p/w tynenol / NASIADS overdose\nin setting of a suidical attempt.\n.\nOf note, night prior to admission pt heard from her boyfriend\nthat his friends do not like her and don't want her around\nanymore. At 10pm, pt took 50 tylenol PM, 30 naproxen and an\nunknown amount of excedrin and a bottle of wine.  Pt called the\nsuicidal hotline and was sent to [**Hospital1 18**] by ambulance.\n.\nIn the ED, initial VS were: Initial ASA 7.3 and tylenol 14 and\nEtOH  158.  Two hours later, her ASA increased to 22.4, tylenol\nincreased to 76.  Toxicology was consulted and decided to admit\nto MICU for NAC protocol.\n.\nOn arrival to the MICU,   98.6, 109, 109/48, 18, 98% on RA\n\nPast Medical History:\nHistory of SI attempt at age 15 per her mother, pt denies.\nDepression\n\n\nSocial History:\n[**University/College 5130**] 3rd year student, digital arts major. History of SI\nattempt at age 15 per her mother, pt denies. Drinks alcohol [**11-26**]\ntimes per week, 3 drinks per time. Denies tobacco or drug use.\n\n\nFamily History:\nMother and aunts have depression\n\n\nPhysical Exam:\nADMISSION EXAM\nGeneral: Lying in bed, breathing comfortably, interactive,\nstable.\nHEENT: PERRL, anicteric sclera, OP clear.\nCV: S1S2 RRR w/o m/r/g??????s.\nLungs: CTA bilaterally w/o crackles or wheezing. Good air\nmovement.\nAb: Positive BS??????s, mild diffuse tenderness with deep palpation,\nnon-distended, no HSM.\nExt: No c/c/e.\nNeuro: Awake, alert, appropriately oriented, no focal motor\ndeficits noted. No asterixis.\n\nDISCHARGE EXAM:\nVS: 97.3  103  110/80  20  99%  RA\nGA: AOx3, NAD\nHEENT:  PERRLA. MMM. no lymphadenopathy. neck supple.\nCards: RRR, no murmurs/gallops/rubs.\nPulm: CTAB, no crackles or wheezes\nAbd: soft, NT ND\nExtremities: wwp, no edema.\nSkin: warm and dry\nNeuro/Psych: CNs II-XII intact. 5/5 strength in U/L extremities\nwith sensation intact.\n\nPertinent Results:\nADMISSION LABS\n[**2142-9-7**] 01:53AM BLOOD WBC-8.1 RBC-5.45* Hgb-11.7* Hct-34.6*\nMCV-63* MCH-21.4* MCHC-33.7 RDW-14.8 Plt Ct-308\n[**2142-9-7**] 01:53AM BLOOD Neuts-55.7 Lymphs-38.9 Monos-4.6 Eos-0.4\nBaso-0.4\n[**2142-9-7**] 01:53AM BLOOD PT-11.5 PTT-25.1 INR(PT)-1.0\n[**2142-9-7**] 01:53AM BLOOD Glucose-113* UreaN-10 Creat-0.7 Na-139\nK-3.1* Cl-105 HCO3-19* AnGap-18\n[**2142-9-7**] 01:53AM BLOOD ALT-11 AST-19 AlkPhos-53 TotBili-0.2\n[**2142-9-7**] 01:53AM BLOOD Albumin-5.0 Calcium-9.6 Phos-2.0* Mg-2.0\n\nPERTINENT LABS\n[**2142-9-7**] 01:53AM BLOOD ASA-7.3 Ethanol-158* Acetmnp-14\nBnzodzp-NEG Barbitr-NEG Tricycl-NEG\n[**2142-9-7**] 04:24AM BLOOD ASA-22.4 Acetmnp-76*\n[**2142-9-7**] 07:05AM BLOOD ASA-22.4 Acetmnp-55*\n[**2142-9-7**] 09:50AM BLOOD ASA-18.4 Acetmnp-26\n[**2142-9-7**] 12:20PM BLOOD ASA-16.0 Acetmnp-15\n[**2142-9-7**] 03:01PM BLOOD ASA-11.9 Acetmnp-7*\n[**2142-9-8**] 12:52AM BLOOD ASA-NEG Acetmnp-NEG\n\nPERTINENT STUDIES\nCXR ([**9-7**])\nCardiomediastinal contours are normal. The lungs are clear.\nThere is no\npneumothorax or pleural effusion.\nIMPRESSION: No evidence of acute cardiopulmonary abnormalities.\n\n[**2142-9-9**] 07:05AM BLOOD WBC-8.4 RBC-4.95 Hgb-10.6* Hct-31.4*\nMCV-63* MCH-21.4* MCHC-33.8 RDW-15.0 Plt Ct-244\n[**2142-9-9**] 07:05AM BLOOD PT-11.7 PTT-24.2 INR(PT)-1.0\n[**2142-9-7**] 01:53AM BLOOD Neuts-55.7 Lymphs-38.9 Monos-4.6 Eos-0.4\nBaso-0.4\n[**2142-9-9**] 07:05AM BLOOD Glucose-96 UreaN-8 Creat-0.7 Na-137 K-4.3\nCl-104 HCO3-27 AnGap-10\n[**2142-9-9**] 07:05AM BLOOD ALT-14 AST-17 AlkPhos-43 TotBili-0.5\n[**2142-9-9**] 07:05AM BLOOD Calcium-9.7 Phos-4.5# Mg-2.0\n[**2142-9-7**] 09:50AM BLOOD calTIBC-321 Ferritn-58 TRF-247\n[**2142-9-8**] 12:52AM BLOOD ASA-NEG Acetmnp-NEG\n\nBrief Hospital Course:\n20 yo F with hx of depression and suicidal ideation, currently\non Effexor, no previously established care here at [**Hospital1 18**], p/w\ntynenol / ASA overdose in setting of a suidical attempt.\n.\nACTIVE ISSUES\n# Tylenol intoxication: Pt self-reported an overdose of large\nquantity of acetominophen (>25 gram).  The low tylenol level and\nlack of elevation in LFT does not support overdose of such\nextent.  However, the benadryl in Tylenol PM could potentially\ndelay the absorption and administration of alcohol in the same\ntime could be hepatic protective by competing with tylenol for\ncytochrome C.  An N-acetylcysteine protocol was initiated at ED\nand continued initially in the MICU.  Her Tylenol level was\ntrended till non-detectable.\n.\n# ASA intoxication: The elevated ASA level is likely a result\nfrom Excedrin overdose.  Pt was treated conservative with fluid\nhydration, and monitored closely on the rising ASA level.  There\nwas an anion gap initially, which was closed shortly after\ntreatment.  Her ASA level was trended till non-detectable.\n.\n# SI: Pt had a history of depression and suicidal ideation.  She\nwas evaluated by on-call psychiatrist in the ED.  The\npsychiatrist at her college was notified.  We restarted her\neffexor after her nausea resolved. Medically cleared for\ntransfer to psychiatric facility.\n.\nCHRONIC ISSUES\n# Anemia: Pt has known anemia from thalassemia.  No transfusion\ngiven. No evidence of iron deficiency.\n.\nTransitions of care:\nOutpatient management of anemia.\n\nMedications on Admission:\nVenlafaxine XR 225 mg PO\naltavera\n\n\nDischarge Medications:\n1. venlafaxine 225 mg Tablet Extended Rel 24 hr Sig: One (1)\nTablet Extended Rel 24 hr PO once a day.\n2. Altavera (28) 0.15-30 mg-mcg Tablet Sig: as directed\npreviously Tablet PO Daily ().\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\nFour Winds Saratoga\n\nDischarge Diagnosis:\nPrimary:\ntylenol / aspirin overdose\n\nSecondary:\ndepression\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nIt was a pleasure participating in your care at [**Hospital1 18**]. You were\nadmitted to the hospital for taking too much tylenol and\naspirin. You were treated for this and improved and were deemed\nmedically clear for transfer to a facility that specializes in\npsychiatric care.\n\nREGARDING YOUR MEDICATIONS...\nno changes were made to your medications\n\nOtherwise, it is very important that you take all of your usual\nhome medications as directed in your discharge paperwork.\n\nFollowup Instructions:\nOtherwise, please followup with your primary care physician\n[**Name Initial (PRE) 176**] 7-10 days regarding the course of this hospitalization.\n\n\n\nCompleted by:[**2142-9-10**]"
+    }
+  ]
+}

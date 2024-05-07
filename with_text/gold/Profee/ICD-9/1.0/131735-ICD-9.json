@@ -1,0 +1,532 @@
+{
+  "hadm_id": 131735,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 2047,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 230,
+          "end": 260,
+          "code": "442.83",
+          "code_system": "ICD-9-CM",
+          "description": "Aneurysm of splenic artery",
+          "type": "Human",
+          "covered_text": "splenic artery pseudoaneurysms"
+        },
+        {
+          "begin": 403,
+          "end": 436,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "MapType.APPROX",
+          "covered_text": "left hemorrhagic\npleural effusion"
+        },
+        {
+          "begin": 443,
+          "end": 461,
+          "code": "865.09",
+          "code_system": "ICD-9-CM",
+          "description": "Other injury into spleen without mention of open wound into cavity",
+          "type": "MapType.APPROX",
+          "covered_text": "splenic laceration"
+        },
+        {
+          "begin": 1033,
+          "end": 1044,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "MapType.MULTI",
+          "covered_text": "bradycardic"
+        },
+        {
+          "begin": 1413,
+          "end": 1416,
+          "code": "414.00",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of vessel, native or graft",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 1450,
+          "end": 1453,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1454,
+          "end": 1457,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 1458,
+          "end": 1483,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia of other chronic disease",
+          "type": "Human",
+          "covered_text": "Anemia of chronic disease"
+        },
+        {
+          "begin": 1484,
+          "end": 1515,
+          "code": "403.90",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive renal disease, unspecified, without mention of renal failure",
+          "type": "Human",
+          "covered_text": "Chronic kidney disease stage II"
+        },
+        {
+          "begin": 1516,
+          "end": 1542,
+          "code": "715.16",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoarthrosis, localized, primary, involving lower leg",
+          "type": "MapType.APPROX",
+          "covered_text": "Osteoarthritis, right knee"
+        },
+        {
+          "begin": 1550,
+          "end": 1558,
+          "code": "053.9",
+          "code_system": "ICD-9-CM",
+          "description": "Herpes zoster without mention of complication",
+          "type": "MapType.EXACT",
+          "covered_text": "shingles"
+        },
+        {
+          "begin": 1604,
+          "end": 1626,
+          "code": "550.91",
+          "code_system": "ICD-9-CM",
+          "description": "Recurrent unilateral or unspecified inguinal hernia, without mention of obstruction or gangrene",
+          "type": "MapType.EXACT",
+          "covered_text": "inguinal hernia repair"
+        },
+        {
+          "begin": 1643,
+          "end": 1664,
+          "code": "366.16",
+          "code_system": "ICD-9-CM",
+          "description": "Senile nuclear sclerosis",
+          "type": "MapType.APPROX",
+          "covered_text": "Cataracts bilaterally"
+        },
+        {
+          "begin": 3398,
+          "end": 3409,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "MapType.MULTI",
+          "covered_text": "bradycardia"
+        },
+        {
+          "begin": 3427,
+          "end": 3438,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 3608,
+          "end": 3610,
+          "code": "458.21",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension of hemodialysis",
+          "type": "MapType.EXACT",
+          "covered_text": "HD"
+        },
+        {
+          "begin": 5040,
+          "end": 5070,
+          "code": "442.83",
+          "code_system": "ICD-9-CM",
+          "description": "Aneurysm of splenic artery",
+          "type": "Human",
+          "covered_text": "splenic artery pseudoaneurysms"
+        }
+      ],
+      "text": "Admission Date:  [**2151-11-9**]              Discharge Date:   [**2151-11-13**]\n\nDate of Birth:  [**2069-3-22**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nMoexipril\n\nAttending:[**First Name3 (LF) 598**]\nChief Complaint:\nsplenic artery pseudoaneurysms\n\nMajor Surgical or Invasive Procedure:\nsplenectomy [**2151-11-11**]\n\n\nHistory of Present Illness:\n82M who sustained left-sided rib fractures, left hemorrhagic\npleural effusion and a splenic laceration with surrounding\nhematoma one month ago after falling from a chair.  Follow-up\noutpatient ultrasound approximately one month after the injury\nultrasound which detected three splenic artery aneurysms. Thus\nhe\nwas taken to the interventional suite with angiography today.\nThe\nprocedure was uneventful but they were unable to embolize either\nof the three aneurysms due to aberrant anatomy. During the\nprocedure, pt HR dropped to 30s with advancement of guidewire\nand with breath holding. There was concern for rupture of\npseudoaneurysm (per ACS). Pt went to PACU and became bradycardic\nto 30s when sheath was removed. SBP dropped to 70s. 1 amp\nAtropine was given and 1.5L of fluid was given. He has been HD\nstable.\n\nPatient was former athlete and used to run track. He walks at a\nfast pace on his treadmil 30 min every day. He denies having CP\n(had CP with previous MI), diaphoresis with any activity or\nduring bradycardic events.\n\nPast Medical History:\nCAD s/p quadruple CABG in [**2137**]\nHTN\nHLD\nAnemia of chronic disease\nChronic kidney disease stage II\nOsteoarthritis, right knee\nR neck shingles, treated with acyclovir [**2151-4-25**]\nLeft inguinal hernia repair [**2150-9-25**]\nCataracts bilaterally s/p extraction at [**Hospital1 2177**] [**2149**]\n\nSocial History:\nQuit smoking  in [**2109**], previously smoked half ppd for 20 years.\n Minimal EtOH socially. No illicit drugs.  Retired [**Company 2318**]\nconsultant, now working in [**Location (un) 86**] Public Schools 9th grade.\n\n\nFamily History:\nNo history of syncope, cardiovascular disease, stroke, seizures.\n Mother had HTN, died in 80s from GI blood loss,\n?diverticulosis.  Father died in 50s from cancer.  Had 4\nsisters, they died from childbirth, COPD, cancer.\n\nPhysical Exam:\nVitals: 97 105 126/82 22 97 3L\nGEN: A&O, NAD\nHEENT: No scleral icterus, mucus membranes moist.  No scalp\nlacerations or hematomas.  PERRL, EOMI.\nCspine: no TTP, full AROM without pain\nCV: sinus bradycardia.  Well healed sternotomy incision\nPULM: Clear to auscultation b/l, No W/R/R.\nABD: Soft, non-tender, nondistended, no guarding.  No masses\npalpated, incision CDI, JP drains x 2 SS output\nGroin: no hematoma at previous\nExt: No LE edema, LE warm and well perfused\n\n\nPertinent Results:\nLaboratory:\n\n2.8 >------< 162\n      30.6\n\nCr: 1.2\n\n[**2151-11-9**] WBC-4.5 Hct-35.4 Plt Ct-170\n[**2151-11-9**] WBC-2.8* Hct-30.6* Plt Ct-162\n[**2151-11-10**] WBC-5.6# Hct-28.5* Plt Ct-162\n[**2151-11-10**] WBC-5.0 Hct-29.2* Plt Ct-161\n[**2151-11-10**] WBC-5.0  Hct-29.2* Plt Ct-161\n[**2151-11-12**] WBC-11.7 Hct-28.6* Plt Ct-122*\n[**2151-11-13**] WBC-13.7* Hct-27.2* Plt Ct-156\n\nBrief Hospital Course:\nMr. [**Known lastname 11172**] was admitted to the TSICU from the angiography suite.\nHe remained hemodynamically stable overnight. Serial hematocrits\nwere checked and remained stable. Cardiology consult obtained.\nTheir suspicion was that he was hypovolemic in the setting of\nbeta blockade, contributing to bradycardia and intermittent\nhypotension. He tolerated a regular diet and was transferred to\nthe floor.\n\nOnce stabalized it was decided that he have a splenectomy given\nthe high risk of a rebleed. He did so on HD 3 and tolerated the\nprocedure well. Post splenectomy he has tolerated a regular\ndiet, is ambulating, and his pain is controlled with PO pain\nmedications. He will be discharged to home today and follow up\nin clinic in [**7-4**] day's time. He will receive post plenectomy\nvaccines prior to discharge.\n\nMedications on Admission:\namlodipine 10mg', atenolol 25mg', HCTZ 25mg',\nlosartan 100mg', lovastatin 40mg', sildenafil 25mg', ASA 81mg'\n\n\nDischarge Medications:\n1. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q8H (every\n8 hours).\nDisp:*50 Tablet(s)* Refills:*2*\n2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*60 Capsule(s)* Refills:*2*\n3. senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).\nDisp:*30 Tablet(s)* Refills:*1*\n4. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n5. atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n6. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for pain for 2 weeks.\nDisp:*40 Tablet(s)* Refills:*0*\n7. losartan 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n8. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n9. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n10. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO\nDAILY (Daily).\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Location (un) 86**] VNA\n\nDischarge Diagnosis:\nsplenic artery pseudoaneurysms\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to the hospital after failed embolization of\nmultiple splenic artery aneuryms. You had your spleen removed\nthis admission and have done well since the operation. You are\nnow ready to be discharged home. Please return to the hospital\nif you develop chest pain, shortness of breath, abdominal pain,\nor if you increased or bloody output from the drains. The drains\nwill stay in until your follow up appointment at which time they\nwill be removed. Please follow up as instructed below.\n\nFollowup Instructions:\nPlease follow up in [**Hospital 2536**] clinic in [**7-4**] days. Please call for a\nfollow up appointment. The number to call is [**Telephone/Fax (1) 11173**].\n\n\n                             [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number(2) 601**]\n\nCompleted by:[**2151-11-13**]"
+    },
+    {
+      "note_id": 1215905,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 25,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 165,
+          "end": 176,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "HYPOTENSION"
+        },
+        {
+          "begin": 323,
+          "end": 345,
+          "code": "442.83",
+          "code_system": "ICD-9-CM",
+          "description": "Aneurysm of splenic artery",
+          "type": "MapType.MULTI",
+          "covered_text": "splenic pseudoaneursym"
+        },
+        {
+          "begin": 416,
+          "end": 427,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "MapType.MULTI",
+          "covered_text": "bradycardic"
+        },
+        {
+          "begin": 432,
+          "end": 435,
+          "code": "786.05",
+          "code_system": "ICD-9-CM",
+          "description": "Shortness of breath",
+          "type": "MapType.EXACT",
+          "covered_text": "SOB"
+        },
+        {
+          "begin": 935,
+          "end": 946,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "MapType.MULTI",
+          "covered_text": "bradycardia"
+        }
+      ],
+      "text": "[**2151-11-9**] 7:00 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 33953**]\n Reason: .\n Admitting Diagnosis: HYPOTENSION\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  82 year old man with hx of splenic pseudoaneursym went to IR today but\n  procedure aborted as pt became hypotensive and bradycardic and SOB. Transferred\n  to ICU for close monitoring.\n REASON FOR THIS EXAMINATION:\n  .\n ______________________________________________________________________________\n WET READ: MLHh TUE [**2151-11-9**] 8:15 PM\n  Normal chest. CABG. No pneumoperitoneum. No signif healing of L 9th rib fx.\n ______________________________________________________________________________\n                                 FINAL REPORT\n REASON FOR EXAMINATION:  Evaluation of the patient with history of splenic\n pseudoaneurysm, bradycardia, and shortness of breath.\n\n Portable AP chest radiograph was reviewed in comparison to [**2151-10-11**].\n\n Heart size is top normal and stable as well as tortuous aorta.  Lungs are\n clear.  There is no pleural effusion or pneumothorax.  Hyperinflation is noted\n on the right that might be consistent to substantial emphysema.\n\n IMPRESSION:\n\n No evidence of abnormality to explain the patient's symptoms.\n\n\n"
+    },
+    {
+      "note_id": 112957,
+      "category": "ECG",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 6,
+          "end": 17,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "MapType.MULTI",
+          "covered_text": "bradycardia"
+        },
+        {
+          "begin": 24,
+          "end": 38,
+          "code": "794.31",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+          "type": "MapType.EXACT",
+          "covered_text": "axis deviation"
+        },
+        {
+          "begin": 63,
+          "end": 72,
+          "code": "93000",
+          "code_system": "CPT",
+          "description": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+          "type": "Human",
+          "covered_text": "ST-T wave"
+        }
+      ],
+      "text": "Sinus bradycardia. Left axis deviation. Low limb lead voltage. ST-T wave\nabnormalities. Since the previous tracing of [**2151-10-9**] there is probably no\nsignificant change.\n\n"
+    },
+    {
+      "note_id": 1215812,
+      "category": "Radiology",
+      "description": "INITAL 2ND ORDER ABD/PEL/LOWER EXT A-GRAM",
+      "annotations": [
+        {
+          "begin": 142,
+          "end": 161,
+          "code": "75726",
+          "code_system": "CPT",
+          "description": "Angiography, visceral, selective or supraselective (with or without flush aortogram), radiological supervision and interpretation",
+          "type": "Human",
+          "covered_text": "angiogram of spleen"
+        },
+        {
+          "begin": 471,
+          "end": 497,
+          "code": "99156",
+          "code_system": "CPT",
+          "description": "Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; initial 15 minutes of intraservice time, patient age 5 years or older",
+          "type": "Human",
+          "covered_text": "MOD SEDATION, FIRST 30 MIN"
+        },
+        {
+          "begin": 601,
+          "end": 631,
+          "code": "99157",
+          "code_system": "CPT",
+          "description": "Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; each additional 15 minutes intraservice time (List separately in addition to code for primary service)",
+          "type": "Human",
+          "covered_text": "MOD SEDATION, EACH ADDL 15 MIN"
+        },
+        {
+          "begin": 663,
+          "end": 693,
+          "code": "99157",
+          "code_system": "CPT",
+          "description": "Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; each additional 15 minutes intraservice time (List separately in addition to code for primary service)",
+          "type": "Human",
+          "covered_text": "MOD SEDATION, EACH ADDL 15 MIN"
+        },
+        {
+          "begin": 731,
+          "end": 761,
+          "code": "99157",
+          "code_system": "CPT",
+          "description": "Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; each additional 15 minutes intraservice time (List separately in addition to code for primary service)",
+          "type": "Human",
+          "covered_text": "MOD SEDATION, EACH ADDL 15 MIN"
+        },
+        {
+          "begin": 793,
+          "end": 823,
+          "code": "99157",
+          "code_system": "CPT",
+          "description": "Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; each additional 15 minutes intraservice time (List separately in addition to code for primary service)",
+          "type": "Human",
+          "covered_text": "MOD SEDATION, EACH ADDL 15 MIN"
+        },
+        {
+          "begin": 861,
+          "end": 891,
+          "code": "99157",
+          "code_system": "CPT",
+          "description": "Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; each additional 15 minutes intraservice time (List separately in addition to code for primary service)",
+          "type": "Human",
+          "covered_text": "MOD SEDATION, EACH ADDL 15 MIN"
+        },
+        {
+          "begin": 923,
+          "end": 953,
+          "code": "99157",
+          "code_system": "CPT",
+          "description": "Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; each additional 15 minutes intraservice time (List separately in addition to code for primary service)",
+          "type": "Human",
+          "covered_text": "MOD SEDATION, EACH ADDL 15 MIN"
+        },
+        {
+          "begin": 991,
+          "end": 1021,
+          "code": "99157",
+          "code_system": "CPT",
+          "description": "Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; each additional 15 minutes intraservice time (List separately in addition to code for primary service)",
+          "type": "Human",
+          "covered_text": "MOD SEDATION, EACH ADDL 15 MIN"
+        },
+        {
+          "begin": 1053,
+          "end": 1083,
+          "code": "99157",
+          "code_system": "CPT",
+          "description": "Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; each additional 15 minutes intraservice time (List separately in addition to code for primary service)",
+          "type": "Human",
+          "covered_text": "MOD SEDATION, EACH ADDL 15 MIN"
+        },
+        {
+          "begin": 1121,
+          "end": 1151,
+          "code": "99157",
+          "code_system": "CPT",
+          "description": "Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; each additional 15 minutes intraservice time (List separately in addition to code for primary service)",
+          "type": "Human",
+          "covered_text": "MOD SEDATION, EACH ADDL 15 MIN"
+        },
+        {
+          "begin": 1456,
+          "end": 1476,
+          "code": "865.09",
+          "code_system": "ICD-9-CM",
+          "description": "Other injury into spleen without mention of open wound into cavity",
+          "type": "MapType.APPROX",
+          "covered_text": "splenic\n  laceration"
+        },
+        {
+          "begin": 1603,
+          "end": 1625,
+          "code": "289.50",
+          "code_system": "ICD-9-CM",
+          "description": "Disease of spleen, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "splenic abnormalities."
+        },
+        {
+          "begin": 1895,
+          "end": 1907,
+          "code": "585.3",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, Stage III (moderate)",
+          "type": "MapType.EXACT",
+          "covered_text": "CKD stage II"
+        },
+        {
+          "begin": 2964,
+          "end": 2987,
+          "code": "36140",
+          "code_system": "CPT",
+          "description": "Introduction of needle or intracatheter, upper or lower extremity artery",
+          "type": "Human",
+          "covered_text": "femoral arterial access"
+        },
+        {
+          "begin": 3021,
+          "end": 3050,
+          "code": "75774",
+          "code_system": "CPT",
+          "description": "Angiography, selective, each additional vessel studied after basic examination, radiological supervision and interpretation (List separately in addition to code for primary procedure)",
+          "type": "Human",
+          "covered_text": "Selective splenic arteriogram"
+        },
+        {
+          "begin": 3483,
+          "end": 3502,
+          "code": "75726",
+          "code_system": "CPT",
+          "description": "Angiography, visceral, selective or supraselective (with or without flush aortogram), radiological supervision and interpretation",
+          "type": "Human",
+          "covered_text": "angiogram of spleen"
+        },
+        {
+          "begin": 6404,
+          "end": 6415,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "MapType.MULTI",
+          "covered_text": "bradycardia"
+        },
+        {
+          "begin": 6420,
+          "end": 6431,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hypotension"
+        }
+      ],
+      "text": "[**2151-11-9**] 10:35 AM\n HEPATIC                                                         Clip # [**Clip Number (Radiology) 33768**]\n Reason: angiogram of spleen, +/- intervention with embolization for\n  Contrast: VISAPAQUE Amt: 170\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 173**] INITAL 2ND ORDER ABD/PEL/LOWER  [**Numeric Identifier 151**] EXT UNILAT A-GRAM                *\n * [**Numeric Identifier 468**] MOD SEDATION, FIRST 30 MIN.     [**Numeric Identifier 2489**] MOD SEDATION, EACH ADDL 15 MIN   *\n * [**Numeric Identifier 2489**] MOD SEDATION, EACH ADDL 15 MIN  [**Numeric Identifier 2489**] MOD SEDATION, EACH ADDL 15 MIN   *\n * [**Numeric Identifier 2489**] MOD SEDATION, EACH ADDL 15 MIN  [**Numeric Identifier 2489**] MOD SEDATION, EACH ADDL 15 MIN   *\n * [**Numeric Identifier 2489**] MOD SEDATION, EACH ADDL 15 MIN  [**Numeric Identifier 2489**] MOD SEDATION, EACH ADDL 15 MIN   *\n * [**Numeric Identifier 2489**] MOD SEDATION, EACH ADDL 15 MIN  [**Numeric Identifier 2489**] MOD SEDATION, EACH ADDL 15 MIN   *\n * [**Numeric Identifier 2489**] MOD SEDATION, EACH ADDL 15 MIN                                         *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  82 year old man with recent splenic injury s/p fall resulting in splenic\n  laceration (grade unknown due to lack of contrast during CT scan), underwent\n  f/u ultrasound on [**11-3**], which demonstrates multiple splenic abnormalities.\n  Concern for AV fistulas vs. pseudoaneurysms.  In discussion with radiology and\n  IR ([**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], PA), angiogram is recommended as next best step +/-\n  intervention with embolization depending on findings. P with CKD stage II, will\n  need IV fluids/mucomyst.\n REASON FOR THIS EXAMINATION:\n  angiogram of spleen, +/- intervention with embolization for ?pseudoaneurysms\n  vs. AV fistulization\n ______________________________________________________________________________\n                                 FINAL REPORT\n SPLENIC ANGIOGRAM AND ATTEMPTED EMBOLIZATION\n\n HISTORY:  82-year-old man with post-traumatic splenic laceration and\n hemorrhage.\n\n OPERATORS:  Drs. [**First Name (STitle) **] [**Name (STitle) 3833**] (fellow) and [**First Name4 (NamePattern1) 1412**] [**Last Name (NamePattern1) 1413**] (attending\n physician).  Dr. [**Last Name (STitle) 1413**] was present throughout the procedure.\n\n SEDATION:  Moderate sedation with divided doses of intravenous 175 mcg\n fentanyl and 3.5 mg Versed over 180 minutes, during which patient's\n hemodynamic status was continuously monitored by a trained radiology nurse.\n\n CONTRAST:  170 mL Visipaque 320.\n\n OTHER MEDICATION:  IV cefazolin and IV fluids 350 mL.\n\n ESTIMATED BLOOD LOSS:  About 20 mL.\n\n PROCEDURES:\n 1.  Right common femoral arterial access.\n 2.  Celiac/SMA angiogram.\n 3.  Selective splenic arteriogram x 3.\n\n Consent was obtained after explaining the benefits, risks, and alternatives.\n Patient was placed supine on the imaging table in the interventional suite.\n Timeout was performed as per [**Hospital1 14**] protocol.\n                                                             (Over)\n\n [**2151-11-9**] 10:35 AM\n HEPATIC                                                         Clip # [**Clip Number (Radiology) 33768**]\n Reason: angiogram of spleen, +/- intervention with embolization for\n  Contrast: VISAPAQUE Amt: 170\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n Under aseptic conditions and palpatory guidance, a micropuncture needle was\n placed in the right common femoral artery at the level of mid femoral head.  A\n 0.018 wire was advanced into the lower abdominal aorta.  Needle was exchanged\n over the wire for a 4.5 microsheath.  Inner cannula and wire were removed to\n place a 0.035 [**Last Name (un) 471**] wire, which was advanced into the abdominal aorta.\n Microsheath was removed to place a 5 French [**Last Name (un) 578**]-Tip sheath.  Inner cannula\n was removed.  Sidearm was aspirated and flushed, and connected to a continuous\n heparinized saline flush. A C2 glide cath was used to access the celiac\n trunk/SMA and perform an angiogram.  Based on the variant anatomy (described\n in the findings), the C2 catheter was attempted to be advanced into the\n splenic artery, however, it was unstable.  Subsequently, various catheters,\n including C2 glide cath, C2, [**Last Name (un) 1321**] and SOS catheters were used to attempt\n access the splenic artery but were unstable while advancing Glidewire more\n distally into the splenic artery.  Following these attempts, the C2 Cobra was\n placed at the common origin of SMA and splenic artery and a Renegade Hi-[**Last Name (un) 1242**] -\n Transcend microwire set was placed via the C2 catheter and advanced into the\n splenic artery.  Angiogram was performed.  Multiple attempts were made to\n advance the microcatheter - microwire set as distally as possible to attempt\n selective embolization of pseudoaneurysms, however, the catheter system was\n unstable and flopped back into the aorta.  Microcatheter and main catheter\n were removed.  Right groin sheath was then removed and firm pressure was\n applied for about 20 minutes to achieve complete hemostasis.  Patient\n tolerated the procedure well.\n\n FINDINGS:\n 1.  Mesenteric angiogram demonstrated variant anatomy with origins of celiac\n trunk and SMA abutting each other.  Left hepatic and left gastric arteries\n likely have a common origin just cranial to the SMA origin.\n 2. The Spelnic artery and right hepatic artery arisw from the SMA.\n 3.  Three pseudoaneurysms measuring about 3.1 x 3.6 cm in the interpolar\n region, 2.5 x 1.8 cm in the interpolar to lower pole and 7 mm in the upper\n pole peripherally. Also, an early draining vein filling the splenic vein\n arises from the lower of the wo hilar pseudoaneurysm suggesting an A-V\n communication.\n 4. Inability to gain adequate distal enough access to the vessels supplying\n the pseudoaneurysms to consider safely embolizing them.\n\n INTRA-PROCEDURE AND POST-PROCEDURE COURSE:  One episode of tachycardia during\n the procedure.  Subsequently, in the recovery room, the patient had a bout of\n bradycardia and hypotension.  With about 2 liters of fluid (normal saline and\n 5% dextrose) and 1 mg atropine, patient's heart rate and blood pressure\n stabilized.\n\n IMPRESSION:  Splenic angiogram demonstrated three pseudoaneurysms and a\n possible AV fistula, however, selective catheterization and embolization was\n                                                             (Over)\n\n [**2151-11-9**] 10:35 AM\n HEPATIC                                                         Clip # [**Clip Number (Radiology) 33768**]\n Reason: angiogram of spleen, +/- intervention with embolization for\n  Contrast: VISAPAQUE Amt: 170\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n not technically feasible.  Findings were discussed over the phone with Dr.\n [**First Name4 (NamePattern1) 9189**] [**Last Name (NamePattern1) **] at 2:30 p.m. and with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1448**] at 2:50 p.m. on [**2151-11-9**].\n\n"
+    },
+    {
+      "note_id": 1216192,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 44,
+          "code": "71045",
+          "code_system": "CPT",
+          "description": "Radiologic examination, chest; single view",
+          "type": "Human",
+          "covered_text": "CHEST (PORTABLE AP"
+        },
+        {
+          "begin": 171,
+          "end": 182,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "HYPOTENSION"
+        },
+        {
+          "begin": 549,
+          "end": 561,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "cardiomegaly"
+        },
+        {
+          "begin": 571,
+          "end": 594,
+          "code": "519.4",
+          "code_system": "ICD-9-CM",
+          "description": "Disorders of diaphragm",
+          "type": "MapType.EXACT",
+          "covered_text": "hemidiaphragm elevation"
+        },
+        {
+          "begin": 602,
+          "end": 612,
+          "code": "511.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified pleural effusion",
+          "type": "MapType.APPROX",
+          "covered_text": "L effusion"
+        },
+        {
+          "begin": 615,
+          "end": 629,
+          "code": "807.01",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of one rib",
+          "type": "MapType.APPROX",
+          "covered_text": "L 9th\n  rib fx"
+        },
+        {
+          "begin": 805,
+          "end": 811,
+          "code": "V45.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other postsurgical status",
+          "type": "MapType.APPROX",
+          "covered_text": "Postop"
+        },
+        {
+          "begin": 901,
+          "end": 913,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiomegaly",
+          "type": "MapType.EXACT",
+          "covered_text": "cardiomegaly"
+        },
+        {
+          "begin": 997,
+          "end": 1019,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pulmonary collapse",
+          "type": "MapType.APPROX",
+          "covered_text": "infrahilar atelectasis"
+        }
+      ],
+      "text": "[**2151-11-11**] 6:41 PM\n CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 34049**]\n Reason: postop\n Admitting Diagnosis: HYPOTENSION\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  82M s/p splenectomy\n REASON FOR THIS EXAMINATION:\n  postop\n ______________________________________________________________________________\n WET READ: [**First Name9 (NamePattern2) 2818**] [**Doctor First Name 141**] [**2151-11-11**] 8:44 PM\n  Mod cardiomegaly.  Mild L hemidiaphragm elevation, small L effusion.  L 9th\n  rib fx.\n ______________________________________________________________________________\n                                 FINAL REPORT\n AP CHEST, 6:36 P.M. ON [**11-11**]\n\n HISTORY:  Postop splenectomy.\n\n IMPRESSION:  AP chest compared to [**10-11**] and [**2151-11-9**].\n\n Mild cardiomegaly is new, but there is no pulmonary edema or pleural effusion.\n Aside from mild left infrahilar atelectasis, lungs are clear and there is no\n pleural effusion or pneumothorax.  Left upper quadrant drain in place.\n\n\n"
+    }
+  ]
+}

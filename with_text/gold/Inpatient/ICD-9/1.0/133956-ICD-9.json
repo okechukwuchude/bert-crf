@@ -1,0 +1,131 @@
+{
+  "hadm_id": 133956,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 31170,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 378,
+          "end": 447,
+          "code": "36.15",
+          "code_system": "ICD-9-PCS",
+          "description": "Single internal mammary-coronary artery bypass",
+          "type": "MapType.APPROX",
+          "covered_text": "Coronary Artery Bypass Graft Surgery x 2 Left internal mammory\nartery"
+        },
+        {
+          "begin": 480,
+          "end": 527,
+          "code": "36.11",
+          "code_system": "ICD-9-PCS",
+          "description": "(Aorto)coronary bypass of one coronary artery",
+          "type": "Human",
+          "covered_text": "Reverse Saphenous vein graft ->\nObtuse marginal"
+        },
+        {
+          "begin": 592,
+          "end": 616,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "coronary artery disease."
+        },
+        {
+          "begin": 1250,
+          "end": 1253,
+          "code": "V12.54",
+          "code_system": "ICD-9-CM",
+          "description": "Transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "CVA"
+        },
+        {
+          "begin": 1296,
+          "end": 1300,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 1301,
+          "end": 1304,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1305,
+          "end": 1312,
+          "code": "278.00",
+          "code_system": "ICD-9-CM",
+          "description": "Obesity, unspecified",
+          "type": "MapType.APPROX",
+          "covered_text": "Obesity"
+        },
+        {
+          "begin": 1313,
+          "end": 1327,
+          "code": "276.7",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperpotassemia",
+          "type": "MapType.EXACT",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 1345,
+          "end": 1360,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "Pt quit smoking"
+        },
+        {
+          "begin": 5706,
+          "end": 5710,
+          "code": "93.90",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous positive airway pressure [CPAP]",
+          "type": "Human",
+          "covered_text": "CPAP"
+        },
+        {
+          "begin": 5721,
+          "end": 5744,
+          "code": "327.23",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "Human",
+          "covered_text": "obstructive sleep apnea"
+        },
+        {
+          "begin": 6446,
+          "end": 6466,
+          "code": "V58.66",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of aspirin",
+          "type": "MapType.EXACT",
+          "covered_text": "Aspirin 325 mg daily"
+        },
+        {
+          "begin": 8302,
+          "end": 8325,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary Artery Disease"
+        }
+      ],
+      "text": "Admission Date:  [**2173-9-21**]              Discharge Date:   [**2173-9-25**]\n\nDate of Birth:  [**2105-9-15**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nAsymptomatic with positive nuclear perfusion study\n\n\nMajor Surgical or Invasive Procedure:\n[**2173-9-21**]\nCoronary Artery Bypass Graft Surgery x 2 Left internal mammory\nartery\n-> Left anterior descending and Reverse Saphenous vein graft ->\nObtuse marginal\n\n\nHistory of Present Illness:\n67 year old man with a history of coronary artery disease. Was\nfound to have 50% left main in [**2169**] and decided on medical\nmanagement. He currently is asymptomatic but recently underwent\nan nuclear perfusion study which\ndemonstrated anteroapical ischemia with an ejection fraction of\n57%. Therefore he was brought for a cardiac cath which now\nshowed 60-70% left main distal stenosis. He presents for\nevaluation for surgical revascularization.\nCardiac Catheterization: Date: [**2173-8-12**]  Place: [**Hospital3 **]\n60-70% distal left main, LAD with minor luminal irregularities,\nLCx dominant vessel with minor luminal irregularities, RCA small\nand normal, EF 76%\n\n\nPast Medical History:\nCVA [**2162**] -- no residual losses\nS/P RCEA\nCOPD\nHTN\nObesity\nHyperlipidemia\n\nSocial History:\nPt quit smoking 12 y/a smoked 1 day for many, many years.\nOccassional ETOH, approx 2 beers every 2 weeks.\nPt works in sales and marketing.\n\n\nFamily History:\nThere is no family history of premature coronary artery disease\nor sudden death.\n\n\nPhysical Exam:\nPulse:89   O2 sat: 97%\nB/P  Right: 128/78   Left: 127/70\nHeight: 72\"    Weight:325#\n\nFive Meter Walk Test #1_______ #2 _________  #3_________\n\nGeneral:\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]anicteric sclera;OP unremarkable\nNeck: Supple [x] Full ROM []no JVD\nChest: Lungs clear bilaterally except for faint BS at bases\nHeart: RRR [x] Irregular [] Murmur [] grade __none____\nAbdomen: Soft [xx] non-distended [x] non-tender [x]  bowel\nsounds\n+ [x]; very obese, no HSM\nExtremities: Warm [x], well-perfused [x]  Edema [x] __trace___\nVaricosities: None [x]\nNeuro: Grossly intact [x];MAE [**5-20**] strengths; nonfocal exam\nPulses:\nFemoral      Right:2+   Left:1+\nDP           Right: NP  Left:NP\nPT           [**Name (NI) 167**]: 1+  Left:1+\nRadial       Right: 2+  Left:2+\n\nCarotid Bruit      Right:none    Left:none\n\n\nPertinent Results:\n[**2173-9-21**]\nLEFT ATRIUM: Good (>20 cm/s) LAA ejection velocity.\nRIGHT ATRIUM/INTERATRIAL SEPTUM: No spontaneous echo contrast or\nthrombus in the body of the RA or RAA. No ASD by 2D or color\nDoppler.\nLEFT VENTRICLE: Mild symmetric LVH with normal cavity size and\nglobal systolic function (LVEF>55%). Mild symmetric LVH. Normal\nLV cavity size. Doppler parameters are most consistent with\nGrade I (mild) LV diastolic dysfunction.\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion.\nAORTA: Normal aortic diameter at the sinus level. Simple\natheroma in aortic arch. Complex (>4mm) atheroma in the\ndescending thoracic aorta.\nAORTIC VALVE: Three aortic valve leaflets. No AS. No AR.\nMITRAL VALVE: Mildly thickened mitral valve leaflets. No MS.\nTrivial MR.\nTRICUSPID VALVE: Normal tricuspid valve leaflets. Physiologic\nTR.\nPULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized.\nNo PS. Physiologic PR.\nPERICARDIUM: There is an anterior space which most likely\nrepresents a fat pad, though a loculated anterior pericardial\neffusion cannot be excluded.\nConclusions\nPREBYPASS:\n1.No spontaneous echo contrast or thrombus is seen in the body\nof the right atrium or the right atrial appendage.\n2. No atrial septal defect is seen by 2D or color Doppler.\n3. There is mild symmetric left ventricular hypertrophy with\nnormal cavity size and global systolic function (LVEF>55%). The\nleft ventricular cavity size is normal.\n4. Doppler parameters are most consistent with Grade I (mild)\nleft ventricular diastolic dysfunction.\n5. Right ventricular chamber size and free wall motion are\nnormal.\n6.There are simple atheroma in the aortic arch. There are\ncomplex (>4mm) atheroma in the descending thoracic aorta.\n7.There are three aortic valve leaflets. There is no aortic\nvalve stenosis. No aortic regurgitation is seen.\n8. The mitral valve leaflets are mildly thickened. Trivial\nmitral regurgitation is seen.\n9.There is an anterior space which most likely represents a\nprominent fat pad.\nPOSTBYPASS:\nThe patient is mainained on low dose phenylephrine infusion &\nV-paced.\nBiventricular function is maintained. There are no new wall\nmotion abnormalities.\nThe aorta remains intact.\nValve structure & function remain unchanged\n\n[**2173-9-25**] 06:28AM BLOOD WBC-9.4 RBC-3.28* Hgb-11.1* Hct-31.5*\nMCV-96 MCH-33.8* MCHC-35.3* RDW-13.0 Plt Ct-226\n[**2173-9-21**] 01:18PM BLOOD WBC-10.2# RBC-3.30*# Hgb-11.3*#\nHct-31.6*# MCV-96 MCH-34.4* MCHC-36.0* RDW-12.9 Plt Ct-129*\n[**2173-9-25**] 06:28AM BLOOD UreaN-23* Creat-1.2 Na-135 K-3.9 Cl-93*\n[**2173-9-21**] 03:17PM BLOOD UreaN-18 Creat-1.1 Na-140 K-4.3 Cl-109*\nHCO3-24 AnGap-11\n\nBrief Hospital Course:\nThe patient was admitted to the hospital and brought to the\noperating room on [**2173-9-21**] where the patient underwent Coronary\nArtery Bypass Graft Surgery x 2. Overall the patient tolerated\nthe procedure well and post-operatively was transferred to the\nCVICU in stable condition for recovery and invasive monitoring.\nPOD 1 found the patient extubated, alert and oriented and\nbreathing comfortably. The patient was neurologically intact and\nhemodynamically stable on no inotropic or vasopressor support.\nBeta blocker was initiated and titrated up and the patient was\ngently diuresed toward the preoperative weight. CPAP for known\nobstructive sleep apnea was initiated with his home settings.\nThe patient was transferred to the telemetry floor for further\nrecovery. Chest tubes and pacing wires were discontinued without\ncomplication.  The patient was evaluated by the physical therapy\nservice for assistance with strength and mobility.  By the time\nof discharge on POD #4 he was ambulating freely, the wound was\nhealing and pain was controlled with oral analgesics.  Mr.[**Known lastname 1250**]\nwas discharged to [**Doctor First Name 391**] [**Hospital **] Rehab in good condition with\nfollow up instructions advised.\n\nMedications on Admission:\nPlavix 75mg daily ( stopped in mid-[**Month (only) 205**] by pt for financial\nreasons)\nLisinopril 10mg daily\nAspirin 325 mg daily\nmetoprolol 100mg [**Hospital1 **]\nCrestor 20mg daily\nAlbuterol prn\nFlovent 110 mcg  2 puffs [**Hospital1 **]\nNiaspan 500 mg [**Hospital1 **]\n\n\nDischarge Medications:\n1. potassium chloride 10 mEq Tablet Extended Release Sig: Two\n(2) Tablet Extended Release PO Q12H (every 12 hours).\n2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n3. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n5. insulin regular human 100 unit/mL Solution Sig: One (1)\nInjection ASDIR (AS DIRECTED).\n6. heparin (porcine) 5,000 unit/mL Solution Sig: One (1)\nInjection TID (3 times a day).\n7. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n8. rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n9. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as\nneeded for dyspnea.\n10. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation\nQ6H (every 6 hours) as needed for dyspnea.\n11. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H\n(every 4 hours) as needed for fever, pain.\n12. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ4H (every 4 hours) as needed for pain.\n13. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO HS (at bedtime) as needed for constipation.\n14. fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff\nInhalation [**Hospital1 **] (2 times a day).\n15. metoprolol tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID\n(2 times a day).\n16. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Doctor First Name 391**] Bay Skilled Nursing & Rehabilitation Center - [**Hospital1 392**]\n\nDischarge Diagnosis:\nCoronary Artery Disease\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with Percocet\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Right - healing well, no erythema or drainage. Edema\n\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr [**Last Name (STitle) **] on [**10-27**] at 1:00pm\nCardiologist - Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9751**] on [**10-20**] at 2:30pm\n\nPlease call to schedule appointments with your\nPrimary Care Dr. [**Last Name (STitle) 65217**] in [**4-20**] weeks [**Telephone/Fax (1) 73576**]\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\n\nCompleted by:[**2173-9-25**]"
+    }
+  ]
+}

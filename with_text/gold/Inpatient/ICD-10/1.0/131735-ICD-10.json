@@ -1,0 +1,122 @@
+{
+  "hadm_id": 131735,
+  "comment": "Splenectomy OP report not present",
+  "notes": [
+    {
+      "note_id": 2047,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 230,
+          "end": 260,
+          "code": "I72.8",
+          "code_system": "ICD-10-CM",
+          "description": "Aneurysm of other specified arteries",
+          "type": "Human",
+          "covered_text": "splenic artery pseudoaneurysms"
+        },
+        {
+          "begin": 636,
+          "end": 660,
+          "code": "I72.8",
+          "code_system": "ICD-10-CM",
+          "description": "Aneurysm of other specified arteries",
+          "type": "Human",
+          "covered_text": "splenic artery aneurysms"
+        },
+        {
+          "begin": 1033,
+          "end": 1044,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "bradycardic"
+        },
+        {
+          "begin": 1413,
+          "end": 1416,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 1417,
+          "end": 1435,
+          "code": "Z95.1",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of aortocoronary bypass graft",
+          "type": "Human",
+          "covered_text": "s/p quadruple CABG"
+        },
+        {
+          "begin": 1450,
+          "end": 1453,
+          "code": "I12.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1454,
+          "end": 1457,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 1458,
+          "end": 1483,
+          "code": "D63.8",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia in other chronic diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "Anemia of chronic disease"
+        },
+        {
+          "begin": 1484,
+          "end": 1515,
+          "code": "N18.2",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, stage 2 (mild)",
+          "type": "Human",
+          "covered_text": "Chronic kidney disease stage II"
+        },
+        {
+          "begin": 1516,
+          "end": 1542,
+          "code": "M17.11",
+          "code_system": "ICD-10-CM",
+          "description": "Unilateral primary osteoarthritis, right knee",
+          "type": "Human",
+          "covered_text": "Osteoarthritis, right knee"
+        },
+        {
+          "begin": 1732,
+          "end": 1800,
+          "code": "Z87.891",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of nicotine dependence",
+          "type": "Human",
+          "covered_text": "Quit smoking  in [**2109**], previously smoked half ppd for 20 years"
+        },
+        {
+          "begin": 2391,
+          "end": 2408,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "sinus bradycardia"
+        }
+      ],
+      "text": "Admission Date:  [**2151-11-9**]              Discharge Date:   [**2151-11-13**]\n\nDate of Birth:  [**2069-3-22**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nMoexipril\n\nAttending:[**First Name3 (LF) 598**]\nChief Complaint:\nsplenic artery pseudoaneurysms\n\nMajor Surgical or Invasive Procedure:\nsplenectomy [**2151-11-11**]\n\n\nHistory of Present Illness:\n82M who sustained left-sided rib fractures, left hemorrhagic\npleural effusion and a splenic laceration with surrounding\nhematoma one month ago after falling from a chair.  Follow-up\noutpatient ultrasound approximately one month after the injury\nultrasound which detected three splenic artery aneurysms. Thus\nhe\nwas taken to the interventional suite with angiography today.\nThe\nprocedure was uneventful but they were unable to embolize either\nof the three aneurysms due to aberrant anatomy. During the\nprocedure, pt HR dropped to 30s with advancement of guidewire\nand with breath holding. There was concern for rupture of\npseudoaneurysm (per ACS). Pt went to PACU and became bradycardic\nto 30s when sheath was removed. SBP dropped to 70s. 1 amp\nAtropine was given and 1.5L of fluid was given. He has been HD\nstable.\n\nPatient was former athlete and used to run track. He walks at a\nfast pace on his treadmil 30 min every day. He denies having CP\n(had CP with previous MI), diaphoresis with any activity or\nduring bradycardic events.\n\nPast Medical History:\nCAD s/p quadruple CABG in [**2137**]\nHTN\nHLD\nAnemia of chronic disease\nChronic kidney disease stage II\nOsteoarthritis, right knee\nR neck shingles, treated with acyclovir [**2151-4-25**]\nLeft inguinal hernia repair [**2150-9-25**]\nCataracts bilaterally s/p extraction at [**Hospital1 2177**] [**2149**]\n\nSocial History:\nQuit smoking  in [**2109**], previously smoked half ppd for 20 years.\n Minimal EtOH socially. No illicit drugs.  Retired [**Company 2318**]\nconsultant, now working in [**Location (un) 86**] Public Schools 9th grade.\n\n\nFamily History:\nNo history of syncope, cardiovascular disease, stroke, seizures.\n Mother had HTN, died in 80s from GI blood loss,\n?diverticulosis.  Father died in 50s from cancer.  Had 4\nsisters, they died from childbirth, COPD, cancer.\n\nPhysical Exam:\nVitals: 97 105 126/82 22 97 3L\nGEN: A&O, NAD\nHEENT: No scleral icterus, mucus membranes moist.  No scalp\nlacerations or hematomas.  PERRL, EOMI.\nCspine: no TTP, full AROM without pain\nCV: sinus bradycardia.  Well healed sternotomy incision\nPULM: Clear to auscultation b/l, No W/R/R.\nABD: Soft, non-tender, nondistended, no guarding.  No masses\npalpated, incision CDI, JP drains x 2 SS output\nGroin: no hematoma at previous\nExt: No LE edema, LE warm and well perfused\n\n\nPertinent Results:\nLaboratory:\n\n2.8 >------< 162\n      30.6\n\nCr: 1.2\n\n[**2151-11-9**] WBC-4.5 Hct-35.4 Plt Ct-170\n[**2151-11-9**] WBC-2.8* Hct-30.6* Plt Ct-162\n[**2151-11-10**] WBC-5.6# Hct-28.5* Plt Ct-162\n[**2151-11-10**] WBC-5.0 Hct-29.2* Plt Ct-161\n[**2151-11-10**] WBC-5.0  Hct-29.2* Plt Ct-161\n[**2151-11-12**] WBC-11.7 Hct-28.6* Plt Ct-122*\n[**2151-11-13**] WBC-13.7* Hct-27.2* Plt Ct-156\n\nBrief Hospital Course:\nMr. [**Known lastname 11172**] was admitted to the TSICU from the angiography suite.\nHe remained hemodynamically stable overnight. Serial hematocrits\nwere checked and remained stable. Cardiology consult obtained.\nTheir suspicion was that he was hypovolemic in the setting of\nbeta blockade, contributing to bradycardia and intermittent\nhypotension. He tolerated a regular diet and was transferred to\nthe floor.\n\nOnce stabalized it was decided that he have a splenectomy given\nthe high risk of a rebleed. He did so on HD 3 and tolerated the\nprocedure well. Post splenectomy he has tolerated a regular\ndiet, is ambulating, and his pain is controlled with PO pain\nmedications. He will be discharged to home today and follow up\nin clinic in [**7-4**] day's time. He will receive post plenectomy\nvaccines prior to discharge.\n\nMedications on Admission:\namlodipine 10mg', atenolol 25mg', HCTZ 25mg',\nlosartan 100mg', lovastatin 40mg', sildenafil 25mg', ASA 81mg'\n\n\nDischarge Medications:\n1. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q8H (every\n8 hours).\nDisp:*50 Tablet(s)* Refills:*2*\n2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*60 Capsule(s)* Refills:*2*\n3. senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).\nDisp:*30 Tablet(s)* Refills:*1*\n4. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n5. atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n6. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for pain for 2 weeks.\nDisp:*40 Tablet(s)* Refills:*0*\n7. losartan 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n8. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n9. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n10. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO\nDAILY (Daily).\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Location (un) 86**] VNA\n\nDischarge Diagnosis:\nsplenic artery pseudoaneurysms\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to the hospital after failed embolization of\nmultiple splenic artery aneuryms. You had your spleen removed\nthis admission and have done well since the operation. You are\nnow ready to be discharged home. Please return to the hospital\nif you develop chest pain, shortness of breath, abdominal pain,\nor if you increased or bloody output from the drains. The drains\nwill stay in until your follow up appointment at which time they\nwill be removed. Please follow up as instructed below.\n\nFollowup Instructions:\nPlease follow up in [**Hospital 2536**] clinic in [**7-4**] days. Please call for a\nfollow up appointment. The number to call is [**Telephone/Fax (1) 11173**].\n\n\n                             [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number(2) 601**]\n\nCompleted by:[**2151-11-13**]"
+    }
+  ]
+}
