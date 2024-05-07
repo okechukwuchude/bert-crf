@@ -34,13 +34,13 @@ def configure_arg_parser():
     arg_parser.add_argument(
         "--dir",
         type=str,
-        default="resources/data/train", #CHUDE replace this folder with my own datapath
+        default="/home/chudeo/bert-crf-project/work_sentence.csv", #CHUDE replace this folder with my own datapath
         help="Directory where the source data is located",
     )
     arg_parser.add_argument(
         "--hf-tokenizer",
         type=str,
-        default="ai-forever/ruBert-base", #CHUDE replace this model with a biomedical vert model
+        default="admis-lab/biobert-large-cased-v1.1", #CHUDE replace this model with a biomedical vert model
         help="The name of the tokenizer with which to tokenize the text. "
         "This can be a tokenizer from the hf pub or a local path.",
     )
@@ -72,6 +72,40 @@ def get_mapping_to_id(argument: Optional[str], set: Set[str]):
     else:
         label2id = {label: id for id, label in enumerate(set)}
     return label2id
+
+def generate_labels(words, annotations, start_token_idx, end_token_idx):
+    labels = ['O'] * len(words)
+
+    for annotation in annotations:
+        code = annotation['code']
+
+        # # Update labels for the matched words
+        # if start_token_idx is not None and end_token_idx is not None:
+        #     labels[start_token_idx] = f'B-{code}'
+        #     for idx in range(start_token_idx + 1, end_token_idx + 1):
+        #         labels[idx] = f'I-{code}'
+
+    return labels
+
+# Function to search for JSON files in a given folder and its subfolders
+def search_files(folder_path):
+    # Set to store unique hadm_id values
+    hadm_id_set = set()
+
+    # Recursively search for JSON files in the folder and its subfolders
+    for root, dirs, files in os.walk(folder_path):
+        for filename in files:
+            if filename.endswith('.json'):
+                # Construct the full path to the JSON file
+                json_file_path = os.path.join(root, filename)
+                print("Processing:", json_file_path)
+                # Call extract_info_from_json function to extract information from the JSON file
+                extract_info_from_json(json_file_path, hadm_id_set)
+                # Print a separator after processing each file
+                print("=" * 50)
+
+    # Print the count of unique hadm_id values
+    print("Total unique hadm_id count:", len(hadm_id_set))
 
 
 def main(args: Namespace):
@@ -118,17 +152,7 @@ def main(args: Namespace):
 
                     labels_set.add(f"{FIRST_TOKEN_TAG_PREFIX}-{ner_annotation.tag}")
                     labels_set.add(f"{SUBSEQUENT_TOKEN_TAG_PREFIX}-{ner_annotation.tag}")
-                # else:
-                #     annotation_id, tag, arg1, arg2 = annotation_data
 
-                #     def get_arg_name(arg: str):
-                #         return arg.split(":")[1]
-
-                #     arg1 = get_arg_name(arg1)
-                #     arg2 = get_arg_name(arg2)
-
-                #     re_annotations.append(ReAnnotation(id=annotation_id, tag=tag, arg1=arg1, arg2=arg2))
-                #     retags_set.add(tag)
 
         id2annotation = {ann.id: ann for ann in ner_annotations}
         tokenized_text_spans = list(WordPunctTokenizer().span_tokenize(text))
@@ -185,76 +209,11 @@ def main(args: Namespace):
         dump = {"input_ids": [], "text_labels": [], "labels": []}
         total_token_dumped = 0
 
-        # relations_count = 0
-        # for token_ind in range(len(input_ids)):
-        #     is_new_word = words_ids_for_tokens[token_ind] is None or (
-        #         token_ind > 0 and words_ids_for_tokens[token_ind] != words_ids_for_tokens[token_ind - 1]
-        #     )
-
-        #     is_not_subseq_label = text_labels[token_ind] == NOT_A_NAMED_ENTITY or text_labels[token_ind].startswith("B")
-
-        #     if is_new_word and is_not_subseq_label:
-        #         dump["input_ids"].extend(current_seq_ids.copy())
-        #         dump["text_labels"].extend(current_seq_labels.copy())
-        #         current_seq_ids.clear()
-        #         current_seq_labels.clear()
-
-        #     current_seq_ids.append(input_ids[token_ind])
-        #     current_seq_labels.append(text_labels[token_ind])
-
-        #     if len(current_seq_ids) + len(dump["input_ids"]) >= args.max_seq_len:
-        #         dump_relations = {"id": text_id, "relations": []}
-        #         for re_annotation in re_annotations:
-        #             arg1 = re_annotation.arg1
-        #             arg2 = re_annotation.arg2
-
-        #             arg1_tag = id2annotation[arg1].tag
-        #             arg2_tag = id2annotation[arg2].tag
-        #             start_token_arg1 = id2annotation[arg1].start_token_pos - total_token_dumped
-        #             end_token_arg1 = id2annotation[arg1].end_token_pos - total_token_dumped
-        #             start_token_arg2 = id2annotation[arg2].start_token_pos - total_token_dumped
-        #             end_token_arg2 = id2annotation[arg2].end_token_pos - total_token_dumped
-
-        #             token_in_dump = len(dump["input_ids"])
-        #             if (
-        #                 start_token_arg1 >= 0
-        #                 and start_token_arg2 >= 0
-        #                 and end_token_arg1 >= 0
-        #                 and end_token_arg2 >= 0
-        #                 and start_token_arg1 < token_in_dump
-        #                 and start_token_arg2 < token_in_dump
-        #                 and end_token_arg1 < token_in_dump
-        #                 and end_token_arg2 < token_in_dump
-        #             ):
-        #                 dump_relations["relations"].append(
-        #                     {
-        #                         "arg1_tag": arg1_tag,
-        #                         "arg2_tag": arg2_tag,
-        #                         "arg1_pos": [start_token_arg1, end_token_arg1],
-        #                         "arg2_pos": [start_token_arg2, end_token_arg2],
-        #                         "re_tag": re_annotation.tag,
-        #                     }
-        #                 )
-        #                 relations_count += 1
-        #         relations.append(copy.deepcopy(dump_relations))
-        #         dump["id"] = text_id
-        #         tokenized_texts.append(copy.deepcopy(dump))
-        #         total_token_dumped += len(dump["input_ids"])
-        #         text_id += 1
-
-        #         for key in ["input_ids", "labels", "text_labels"]:
-        #             dump[key].clear()
-        # #skipped_relations += len(re_annotations) - relations_count
-
+        
     label2id = get_mapping_to_id(args.label2id, labels_set)
-    #retag2id = get_mapping_to_id(args.retag2id, retags_set)
 
     for i in range(len(tokenized_texts)):
         tokenized_texts[i]["labels"] = [label2id[label] for label in tokenized_texts[i]["text_labels"]]
-    # for i in range(len(relations)):
-    #     for j in range(len(relations[i]["relations"])):
-    #         relations[i]["relations"][j]["tag"] = retag2id[relations[i]["relations"][j]["re_tag"]]
-
 
     save_jsonl(tokenized_texts, os.path.join(args.dir, "labeled_texts.jsonl"))
     #save_jsonl(relations, os.path.join(args.dir, "relations.jsonl"))
