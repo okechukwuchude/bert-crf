@@ -41,7 +41,7 @@ def configure_arg_parser():
     arg_parser.add_argument(
         "--dir",
         type=str,
-        default="/home/chudeo/bert-crf-project/with_text", #CHUDE replace this folder with my own datapath
+        default="/home/chudeo/bert-crf-project/2", #CHUDE replace this folder with my own datapath
         help="Directory where the source data is located",
     )
     arg_parser.add_argument(
@@ -161,11 +161,6 @@ def main(args):
         json.dump(label2id, f)
 
 def extract_info_from_json(json_file_path, hadm_id_set):
-    global extracted_texts
-    global global_sentence_count  # Access the global global_sentence_count variable
-    last_sentence_id = global_sentence_count  # Initialize last assigned sentence ID to global_sentence_count
-
-
     with open(json_file_path, 'r') as file:
         data = json.load(file)
 
@@ -209,31 +204,23 @@ def extract_info_from_json(json_file_path, hadm_id_set):
 
         if note_info['text']:
             processed_text = process_text_with_stanza(note_info['text'])
-            note_info['processed_text'] = processed_text
 
-            sentence_info = []
+            # Extract lemma from processed_text
+            tokens = []
+            lemmas = []
             for sent in processed_text.sentences:
-                tokens = [word.text for word in sent.words]
-                labels = generate_labels(tokens, note_info['annotations'])
+                for word in sent.words:
+                    tokens.append(word.text)
+                    lemmas.append(word.lemma)
 
-                sentence_id = last_sentence_id + sent.index
-
-                sentence_info.append({
-                    'sentence_id': sentence_id,
-                    'words': tokens,
-                    'labels': labels
-                })
-
-            note_info['sentence_info'] = sentence_info
-            last_sentence_id += len(processed_text.sentences)
+            note_info['tokens'] = tokens
+            note_info['lemmas'] = lemmas
 
         extracted_texts.append(note_info)
 
+
 if __name__ == "__main__":
     _args = configure_arg_parser().parse_args()
     main(_args)
 
 
-if __name__ == "__main__":
-    _args = configure_arg_parser().parse_args()
-    main(_args)
