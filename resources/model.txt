@@ -1,0 +1,17 @@
+BiomedBERT 
+
+model = AutoModelForMaskedLM.from_pretrained("microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext")
+
+
+ClinicalBERT
+
+tokenizer = AutoTokenizer.from_pretrained("medicalai/ClinicalBERT")
+model = AutoModelForMaskedLM.from_pretrained("medicalai/ClinicalBERT")
+
+
+med-bert
+
+# Load model directly
+
+tokenizer = AutoTokenizer.from_pretrained("praneethvasarla/med-bert")
+model = AutoModelForTokenClassification.from_pretrained("praneethvasarla/med-bert")
