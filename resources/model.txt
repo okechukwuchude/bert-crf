@@ -1,7 +1,10 @@
 BiomedBERT 
 
 tokenizer = AutoTokenizer.from_pretrained("microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract")
-model = AutoModelForMaskedLM.from_pretrained("microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext")
+model = AutoModelForMaskedLM.from_pretrained("microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract")
+
+model = AutoModelForTokenClassification.from_pretrained("Pontonkid/Biomed_bert-base-uncased-NER")
+
 
 
 ClinicalBERT
