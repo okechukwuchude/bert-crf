@@ -1,0 +1,44 @@
+{
+  "_name_or_path": "bert-base-uncased",
+  "architectures": [
+    "BertForTokenClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "O",
+    "1": "B-Pathogen",
+    "2": "I-Pathogen",
+    "3": "B-Medicine",
+    "4": "I-Medicine",
+    "5": "B-MedicalCondition",
+    "6": "I-MedicalCondition"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "label2id": {
+    "B-MedicalCondition": 5,
+    "B-Medicine": 3,
+    "B-Pathogen": 1,
+    "I-MedicalCondition": 6,
+    "I-Medicine": 4,
+    "I-Pathogen": 2,
+    "O": 0
+  },
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "torch_dtype": "float32",
+  "transformers_version": "4.35.2",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}

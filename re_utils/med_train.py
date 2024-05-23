@@ -51,7 +51,7 @@ def draw_plots(loss_history: List[float], f1: List[float]):
 
 def train_ner(
     num_labels: int,
-    bert_name: str,
+    model_path: str,
     train_tokenized_texts_path: str,
     test_tokenized_texts_path: str,
     dropout: float,
@@ -64,7 +64,7 @@ def train_ner(
     save_to: Optional[str] = None,
     device="cuda" if torch.cuda.is_available() else "cpu",
 ):
-    model = BertCrf(num_labels, bert_name, dropout=dropout, use_crf=use_crf)
+    model = BertCrf(num_labels, model_path, dropout=dropout, use_crf=use_crf)
     model = model.to(device)
     model.train()
 
