@@ -14,8 +14,8 @@ if not os.path.exists(local_model_path):
     os.makedirs(local_model_path)
 
 # Download the model and tokenizer
-model = AutoModelForTokenClassification.from_pretrained("praneethvasarla/med-bert", cache_dir=local_model_path)
-tokenizer = AutoTokenizer.from_pretrained("praneethvasarla/med-bert", cache_dir=local_model_path)
+model = AutoModelForTokenClassification.from_pretrained("Tsubasaz/clinical-pubmed-bert-base-128", cache_dir=local_model_path)
+tokenizer = AutoTokenizer.from_pretrained("Tsubasaz/clinical-pubmed-bert-base-128", cache_dir=local_model_path)
 
 LOG_INF = 10e5
 
