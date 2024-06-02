@@ -19,10 +19,7 @@ from re_utils.common import load_json
 from re_utils.ner import get_tags_with_positions, get_mean_vector_from_segment
 
 
-def dict_to_device(
-    dict: Dict[str, torch.Tensor],
-    device: str = "cuda" if torch.cuda.is_available() else "cpu",
-):
+def dict_to_device(dict, device="cuda" if torch.cuda.is_available() else "cpu"):
     for key, value in dict.items():
         dict[key] = value.to(device)
     return dict
@@ -99,12 +96,14 @@ def train_ner(
     f1 = []
 
     step = 0
+
     for epoch in range(1, epochs + 1):
         for batch in tqdm(train_data_loader):
             step += 1
 
             optimizer.zero_grad()
 
+            # Move batch to the correct device
             batch = dict_to_device(batch, device)
 
             loss = model(**batch)
@@ -114,26 +113,33 @@ def train_ner(
 
             loss_history.append(loss.item())
 
-            if step % log_every == 0:
-                model.eval()
-                predictions = []
-                ground_truth = []
-                with torch.no_grad():
-                    for batch in test_data_loader:
-                        labels = batch["labels"]
-                        del batch["labels"]
-                        batch = dict_to_device(batch)
+        if step % log_every == 0:
+            model.eval()
+            predictions = []
+            ground_truth = []
+            with torch.no_grad():
+                for batch in test_data_loader:
+                    labels = batch["labels"]
+                    del batch["labels"]
 
-                        prediction = model.decode(**batch)
+                    # Move batch to the correct device
+                    batch = dict_to_device(batch, device)
+                    
+                    # Ensure labels are on the same device as the batch
+                    labels = labels.to(device)
 
-                        flatten_prediction = [item for sublist in prediction for item in sublist]
-                        flatten_labels = torch.masked_select(labels, batch["attention_mask"].bool()).tolist()
+                    prediction = model.decode(**batch)
 
-                        predictions.extend(flatten_prediction)
-                        ground_truth.extend(flatten_labels)
-                f1_micro = f1_score(ground_truth, predictions, average="micro")
-                f1.append(f1_micro)
-                model.train()
+                    flatten_prediction = [item for sublist in prediction for item in sublist]
+                    flatten_labels = torch.masked_select(labels, batch["attention_mask"].bool()).tolist()
+
+                    predictions.extend(flatten_prediction)
+                    ground_truth.extend(flatten_labels)
+            
+            f1_micro = f1_score(ground_truth, predictions, average="micro")
+            f1.append(f1_micro)
+            model.train()
+
 
             draw_plots(loss_history, f1)
             print(f"Epoch {epoch}/{epochs}")
