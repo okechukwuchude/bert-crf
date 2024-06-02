@@ -13,7 +13,7 @@ from tqdm import tqdm
 from datasets import NerDataset
 from datasets.embeddings_and_relations_dataset import EmbeddingsAndRelationsDataset
 from datasets.ground_truth_relations_dataset import GroundTruthRelationsDataset
-from models.biomedBERT_crf import BertCrf
+from models.medBERT_crf import BertCrf
 from models.re_bert_crf import ReBertCrf
 from re_utils.common import load_json
 from re_utils.ner import get_tags_with_positions, get_mean_vector_from_segment

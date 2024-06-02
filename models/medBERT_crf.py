@@ -2,28 +2,17 @@ import os
 from typing import List, Tuple
 
 import torch
-import torch.nn as nn
-from transformers import AutoTokenizer, AutoModelForTokenClassification
-
-# Specify the local directory to cache the model files
-local_model_path = './medBERT_directory'
-
-# Ensure the directory exists
-import os
-if not os.path.exists(local_model_path):
-    os.makedirs(local_model_path)
-
-# Download the model and tokenizer
-model = AutoModelForTokenClassification.from_pretrained("Tsubasaz/clinical-pubmed-bert-base-128", cache_dir=local_model_path)
-tokenizer = AutoTokenizer.from_pretrained("Tsubasaz/clinical-pubmed-bert-base-128", cache_dir=local_model_path)
+from torch import nn
+from transformers import AutoModel
 
 LOG_INF = 10e5
+
 
 class BertCrf(nn.Module):
     def __init__(
         self,
         num_labels: int,
-        model_path: str,
+        bert_name: str,
         dropout: float = 0.2,
         use_crf: bool = True,
     ):
@@ -32,7 +21,7 @@ class BertCrf(nn.Module):
         self.use_crf = use_crf
         self.cross_entropy = nn.CrossEntropyLoss()
 
-        self.bert = AutoModelForTokenClassification.from_pretrained(model_path)
+        self.bert = AutoModel.from_pretrained(bert_name)
 
         self.dropout = nn.Dropout(dropout)
         self.hidden2label = nn.Linear(self.bert.config.hidden_size, num_labels)
