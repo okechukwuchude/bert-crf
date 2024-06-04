@@ -128,6 +128,10 @@ def train_ner(
                     # Ensure labels are on the same device as the batch
                     labels = labels.to(device)
 
+                    # Debug prints to check devices
+                    print(f"Labels device: {labels.device}")
+                    print(f"Batch attention_mask device: {batch['attention_mask'].device}")
+
                     prediction = model.decode(**batch)
 
                     flatten_prediction = [item for sublist in prediction for item in sublist]
